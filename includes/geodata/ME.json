@@ -1,0 +1,4548 @@
+{
+	"result":[
+	{
+		"Longitude" : "-070.740013",
+		"Zipcode" : "03901",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "BERWICK",
+		"State" : "ME",
+		"Latitude" : "+43.279539"
+	},
+	{
+		"Longitude" : "-070.664719",
+		"Zipcode" : "03902",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "CAPE NEDDICK",
+		"State" : "ME",
+		"Latitude" : "+43.245785"
+	},
+	{
+		"Longitude" : "-070.745759",
+		"Zipcode" : "03903",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "ELIOT",
+		"State" : "ME",
+		"Latitude" : "+43.182729"
+	},
+	{
+		"Longitude" : "-070.684607",
+		"Zipcode" : "03904",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "KITTERY",
+		"State" : "ME",
+		"Latitude" : "+43.191554"
+	},
+	{
+		"Longitude" : "-070.689280",
+		"Zipcode" : "03905",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "KITTERY POINT",
+		"State" : "ME",
+		"Latitude" : "+43.094746"
+	},
+	{
+		"Longitude" : "-070.753996",
+		"Zipcode" : "03906",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "NORTH BERWICK",
+		"State" : "ME",
+		"Latitude" : "+43.340626"
+	},
+	{
+		"Longitude" : "-070.731498",
+		"Zipcode" : "03907",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "OGUNQUIT",
+		"State" : "ME",
+		"Latitude" : "+43.350806"
+	},
+	{
+		"Longitude" : "-070.711710",
+		"Zipcode" : "03908",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "SOUTH BERWICK",
+		"State" : "ME",
+		"Latitude" : "+43.227549"
+	},
+	{
+		"Longitude" : "-070.690990",
+		"Zipcode" : "03909",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "YORK",
+		"State" : "ME",
+		"Latitude" : "+43.237891"
+	},
+	{
+		"Longitude" : "-070.732010",
+		"Zipcode" : "03910",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "YORK BEACH",
+		"State" : "ME",
+		"Latitude" : "+43.211674"
+	},
+	{
+		"Longitude" : "-070.635702",
+		"Zipcode" : "03911",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "YORK HARBOR",
+		"State" : "ME",
+		"Latitude" : "+43.155465"
+	},
+	{
+		"Longitude" : "-070.804588",
+		"Zipcode" : "04001",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "ACTON",
+		"State" : "ME",
+		"Latitude" : "+43.520752"
+	},
+	{
+		"Longitude" : "-070.738992",
+		"Zipcode" : "04002",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "ALFRED",
+		"State" : "ME",
+		"Latitude" : "+43.467224"
+	},
+	{
+		"Longitude" : "-069.995456",
+		"Zipcode" : "04003",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "BAILEY ISLAND",
+		"State" : "ME",
+		"Latitude" : "+43.735867"
+	},
+	{
+		"Longitude" : "-070.604379",
+		"Zipcode" : "04004",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "BAR MILLS",
+		"State" : "ME",
+		"Latitude" : "+43.365658"
+	},
+	{
+		"Longitude" : "-070.651859",
+		"Zipcode" : "04005",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "BIDDEFORD",
+		"State" : "ME",
+		"Latitude" : "+43.532376"
+	},
+	{
+		"Longitude" : "-070.359800",
+		"Zipcode" : "04006",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "BIDDEFORD POOL",
+		"State" : "ME",
+		"Latitude" : "+43.436049"
+	},
+	{
+		"Longitude" : "-070.505301",
+		"Zipcode" : "04007",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "BIDDEFORD",
+		"State" : "ME",
+		"Latitude" : "+43.458130"
+	},
+	{
+		"Longitude" : "-069.875816",
+		"Zipcode" : "04008",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "BOWDOINHAM",
+		"State" : "ME",
+		"Latitude" : "+44.023162"
+	},
+	{
+		"Longitude" : "-070.747431",
+		"Zipcode" : "04009",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "BRIDGTON",
+		"State" : "ME",
+		"Latitude" : "+43.939828"
+	},
+	{
+		"Longitude" : "-070.739823",
+		"Zipcode" : "04010",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "BROWNFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.163033"
+	},
+	{
+		"Longitude" : "-070.340652",
+		"Zipcode" : "04011",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "BRUNSWICK",
+		"State" : "ME",
+		"Latitude" : "+43.935634"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04013",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "BUSTINS ISLAND",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.604379",
+		"Zipcode" : "04014",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "CAPE PORPOISE",
+		"State" : "ME",
+		"Latitude" : "+43.365658"
+	},
+	{
+		"Longitude" : "-070.524465",
+		"Zipcode" : "04015",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CASCO",
+		"State" : "ME",
+		"Latitude" : "+43.962115"
+	},
+	{
+		"Longitude" : "-070.891727",
+		"Zipcode" : "04016",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OXFORD",
+		"City" : "CENTER LOVELL",
+		"State" : "ME",
+		"Latitude" : "+44.180965"
+	},
+	{
+		"Longitude" : "-070.120437",
+		"Zipcode" : "04017",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CHEBEAGUE ISLAND",
+		"State" : "ME",
+		"Latitude" : "+43.727806"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04019",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "CLIFF ISLAND",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.791727",
+		"Zipcode" : "04020",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "CORNISH",
+		"State" : "ME",
+		"Latitude" : "+43.773970"
+	},
+	{
+		"Longitude" : "-070.450494",
+		"Zipcode" : "04021",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CUMBERLAND CENTER",
+		"State" : "ME",
+		"Latitude" : "+43.812676"
+	},
+	{
+		"Longitude" : "-070.661557",
+		"Zipcode" : "04022",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "DENMARK",
+		"State" : "ME",
+		"Latitude" : "+44.566156"
+	},
+	{
+		"Longitude" : "-070.688656",
+		"Zipcode" : "04024",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "EAST BALDWIN",
+		"State" : "ME",
+		"Latitude" : "+43.844826"
+	},
+	{
+		"Longitude" : "-070.915190",
+		"Zipcode" : "04027",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "LEBANON",
+		"State" : "ME",
+		"Latitude" : "+43.459708"
+	},
+	{
+		"Longitude" : "-070.845114",
+		"Zipcode" : "04028",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "EAST PARSONFIELD",
+		"State" : "ME",
+		"Latitude" : "+43.732391"
+	},
+	{
+		"Longitude" : "-070.547159",
+		"Zipcode" : "04029",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "SEBAGO",
+		"State" : "ME",
+		"Latitude" : "+43.867223"
+	},
+	{
+		"Longitude" : "-070.689681",
+		"Zipcode" : "04030",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "EAST WATERBORO",
+		"State" : "ME",
+		"Latitude" : "+43.596921"
+	},
+	{
+		"Longitude" : "-070.097543",
+		"Zipcode" : "04032",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "FREEPORT",
+		"State" : "ME",
+		"Latitude" : "+43.864477"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04033",
+		"ZipClass" : "UNIQUE",
+		"County" : "CUMBERLAND",
+		"City" : "FREEPORT",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04034",
+		"ZipClass" : "UNIQUE",
+		"County" : "CUMBERLAND",
+		"City" : "FREEPORT",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.964418",
+		"Zipcode" : "04037",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "FRYEBURG",
+		"State" : "ME",
+		"Latitude" : "+44.044292"
+	},
+	{
+		"Longitude" : "-070.355188",
+		"Zipcode" : "04038",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "GORHAM",
+		"State" : "ME",
+		"Latitude" : "+43.803689"
+	},
+	{
+		"Longitude" : "-070.328889",
+		"Zipcode" : "04039",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "GRAY",
+		"State" : "ME",
+		"Latitude" : "+43.878567"
+	},
+	{
+		"Longitude" : "-070.357119",
+		"Zipcode" : "04040",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "HARRISON",
+		"State" : "ME",
+		"Latitude" : "+43.992681"
+	},
+	{
+		"Longitude" : "-070.826188",
+		"Zipcode" : "04041",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "HIRAM",
+		"State" : "ME",
+		"Latitude" : "+43.879628"
+	},
+	{
+		"Longitude" : "-070.624391",
+		"Zipcode" : "04042",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "HOLLIS CENTER",
+		"State" : "ME",
+		"Latitude" : "+43.584232"
+	},
+	{
+		"Longitude" : "-070.549210",
+		"Zipcode" : "04043",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "KENNEBUNK",
+		"State" : "ME",
+		"Latitude" : "+43.494679"
+	},
+	{
+		"Longitude" : "-070.607475",
+		"Zipcode" : "04046",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "KENNEBUNKPORT",
+		"State" : "ME",
+		"Latitude" : "+43.534125"
+	},
+	{
+		"Longitude" : "-070.909196",
+		"Zipcode" : "04047",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "PARSONSFIELD",
+		"State" : "ME",
+		"Latitude" : "+43.744987"
+	},
+	{
+		"Longitude" : "-070.834480",
+		"Zipcode" : "04048",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "LIMERICK",
+		"State" : "ME",
+		"Latitude" : "+43.661222"
+	},
+	{
+		"Longitude" : "-070.748668",
+		"Zipcode" : "04049",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "LIMINGTON",
+		"State" : "ME",
+		"Latitude" : "+43.703854"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04050",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "LONG ISLAND",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.886741",
+		"Zipcode" : "04051",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "LOVELL",
+		"State" : "ME",
+		"Latitude" : "+44.139839"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04053",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "MEREPOINT",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.597752",
+		"Zipcode" : "04054",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "MOODY",
+		"State" : "ME",
+		"Latitude" : "+43.276341"
+	},
+	{
+		"Longitude" : "-070.639546",
+		"Zipcode" : "04055",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "NAPLES",
+		"State" : "ME",
+		"Latitude" : "+43.957208"
+	},
+	{
+		"Longitude" : "-070.868871",
+		"Zipcode" : "04056",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "NEWFIELD",
+		"State" : "ME",
+		"Latitude" : "+43.658378"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04057",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "NORTH BRIDGTON",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.710773",
+		"Zipcode" : "04061",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "NORTH WATERBORO",
+		"State" : "ME",
+		"Latitude" : "+43.542090"
+	},
+	{
+		"Longitude" : "-070.396652",
+		"Zipcode" : "04062",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "WINDHAM",
+		"State" : "ME",
+		"Latitude" : "+43.911381"
+	},
+	{
+		"Longitude" : "-070.385703",
+		"Zipcode" : "04063",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "OCEAN PARK",
+		"State" : "ME",
+		"Latitude" : "+43.504889"
+	},
+	{
+		"Longitude" : "-070.469526",
+		"Zipcode" : "04064",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "OLD ORCHARD BEACH",
+		"State" : "ME",
+		"Latitude" : "+43.411837"
+	},
+	{
+		"Longitude" : "-069.975477",
+		"Zipcode" : "04066",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "ORRS ISLAND",
+		"State" : "ME",
+		"Latitude" : "+43.779982"
+	},
+	{
+		"Longitude" : "-070.935379",
+		"Zipcode" : "04068",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "PORTER",
+		"State" : "ME",
+		"Latitude" : "+43.848322"
+	},
+	{
+		"Longitude" : "-070.189159",
+		"Zipcode" : "04069",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "POWNAL",
+		"State" : "ME",
+		"Latitude" : "+43.894983"
+	},
+	{
+		"Longitude" : "-070.273642",
+		"Zipcode" : "04070",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "SCARBOROUGH",
+		"State" : "ME",
+		"Latitude" : "+43.576983"
+	},
+	{
+		"Longitude" : "-070.465928",
+		"Zipcode" : "04071",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "RAYMOND",
+		"State" : "ME",
+		"Latitude" : "+43.906227"
+	},
+	{
+		"Longitude" : "-070.666387",
+		"Zipcode" : "04072",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "SACO",
+		"State" : "ME",
+		"Latitude" : "+43.541241"
+	},
+	{
+		"Longitude" : "-070.630569",
+		"Zipcode" : "04073",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "SANFORD",
+		"State" : "ME",
+		"Latitude" : "+43.576196"
+	},
+	{
+		"Longitude" : "-070.375162",
+		"Zipcode" : "04074",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "SCARBOROUGH",
+		"State" : "ME",
+		"Latitude" : "+43.724562"
+	},
+	{
+		"Longitude" : "-070.552183",
+		"Zipcode" : "04075",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "SEBAGO LAKE",
+		"State" : "ME",
+		"Latitude" : "+43.796053"
+	},
+	{
+		"Longitude" : "-070.771590",
+		"Zipcode" : "04076",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "SHAPLEIGH",
+		"State" : "ME",
+		"Latitude" : "+43.510275"
+	},
+	{
+		"Longitude" : "-070.524524",
+		"Zipcode" : "04077",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "SOUTH CASCO",
+		"State" : "ME",
+		"Latitude" : "+43.910029"
+	},
+	{
+		"Longitude" : "-070.120781",
+		"Zipcode" : "04078",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "SOUTH FREEPORT",
+		"State" : "ME",
+		"Latitude" : "+43.820774"
+	},
+	{
+		"Longitude" : "-069.995537",
+		"Zipcode" : "04079",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "HARPSWELL",
+		"State" : "ME",
+		"Latitude" : "+43.781050"
+	},
+	{
+		"Longitude" : "-070.661557",
+		"Zipcode" : "04081",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "SOUTH WATERFORD",
+		"State" : "ME",
+		"Latitude" : "+44.566156"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04082",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "SOUTH WINDHAM",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.748295",
+		"Zipcode" : "04083",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "SPRINGVALE",
+		"State" : "ME",
+		"Latitude" : "+43.465941"
+	},
+	{
+		"Longitude" : "-070.554905",
+		"Zipcode" : "04084",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "STANDISH",
+		"State" : "ME",
+		"Latitude" : "+43.804454"
+	},
+	{
+		"Longitude" : "-070.639561",
+		"Zipcode" : "04085",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "STEEP FALLS",
+		"State" : "ME",
+		"Latitude" : "+43.771934"
+	},
+	{
+		"Longitude" : "-069.937793",
+		"Zipcode" : "04086",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "TOPSHAM",
+		"State" : "ME",
+		"Latitude" : "+43.981404"
+	},
+	{
+		"Longitude" : "-070.749181",
+		"Zipcode" : "04087",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "WATERBORO",
+		"State" : "ME",
+		"Latitude" : "+43.573684"
+	},
+	{
+		"Longitude" : "-070.661557",
+		"Zipcode" : "04088",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "WATERFORD",
+		"State" : "ME",
+		"Latitude" : "+44.566156"
+	},
+	{
+		"Longitude" : "-070.671274",
+		"Zipcode" : "04090",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "WELLS",
+		"State" : "ME",
+		"Latitude" : "+43.429659"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04091",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "WEST BALDWIN",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.568534",
+		"Zipcode" : "04092",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "WESTBROOK",
+		"State" : "ME",
+		"Latitude" : "+43.855116"
+	},
+	{
+		"Longitude" : "-070.622959",
+		"Zipcode" : "04093",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "BUXTON",
+		"State" : "ME",
+		"Latitude" : "+43.653805"
+	},
+	{
+		"Longitude" : "-070.573255",
+		"Zipcode" : "04094",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "WEST KENNEBUNK",
+		"State" : "ME",
+		"Latitude" : "+43.406101"
+	},
+	{
+		"Longitude" : "-070.902676",
+		"Zipcode" : "04095",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "WEST NEWFIELD",
+		"State" : "ME",
+		"Latitude" : "+43.601018"
+	},
+	{
+		"Longitude" : "-070.171979",
+		"Zipcode" : "04096",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "YARMOUTH",
+		"State" : "ME",
+		"Latitude" : "+43.798227"
+	},
+	{
+		"Longitude" : "-070.200114",
+		"Zipcode" : "04097",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "NORTH YARMOUTH",
+		"State" : "ME",
+		"Latitude" : "+43.837951"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04098",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "WESTBROOK",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.262393",
+		"Zipcode" : "04101",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+43.658784"
+	},
+	{
+		"Longitude" : "-070.443380",
+		"Zipcode" : "04102",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+43.742750"
+	},
+	{
+		"Longitude" : "-070.289844",
+		"Zipcode" : "04103",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+43.688260"
+	},
+	{
+		"Longitude" : "-070.464839",
+		"Zipcode" : "04104",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+43.846490"
+	},
+	{
+		"Longitude" : "-070.270696",
+		"Zipcode" : "04105",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "FALMOUTH",
+		"State" : "ME",
+		"Latitude" : "+43.739280"
+	},
+	{
+		"Longitude" : "-070.289248",
+		"Zipcode" : "04106",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "SOUTH PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+43.627364"
+	},
+	{
+		"Longitude" : "-070.239559",
+		"Zipcode" : "04107",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CAPE ELIZABETH",
+		"State" : "ME",
+		"Latitude" : "+43.595512"
+	},
+	{
+		"Longitude" : "-070.188442",
+		"Zipcode" : "04108",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PEAKS ISLAND",
+		"State" : "ME",
+		"Latitude" : "+43.662809"
+	},
+	{
+		"Longitude" : "-070.198742",
+		"Zipcode" : "04109",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+43.678339"
+	},
+	{
+		"Longitude" : "-070.199307",
+		"Zipcode" : "04110",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CUMBERLAND FORESIDE",
+		"State" : "ME",
+		"Latitude" : "+43.759021"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04112",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04116",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "SOUTH PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04122",
+		"ZipClass" : "UNIQUE",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04123",
+		"ZipClass" : "UNIQUE",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.470703",
+		"Zipcode" : "04124",
+		"ZipClass" : "UNIQUE",
+		"County" : "CUMBERLAND",
+		"City" : "PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+44.408078"
+	},
+	{
+		"Longitude" : "-070.243848",
+		"Zipcode" : "04210",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "AUBURN",
+		"State" : "ME",
+		"Latitude" : "+44.087422"
+	},
+	{
+		"Longitude" : "-070.239485",
+		"Zipcode" : "04211",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "AUBURN",
+		"State" : "ME",
+		"Latitude" : "+44.197009"
+	},
+	{
+		"Longitude" : "-070.239485",
+		"Zipcode" : "04212",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "AUBURN",
+		"State" : "ME",
+		"Latitude" : "+44.197009"
+	},
+	{
+		"Longitude" : "-070.704051",
+		"Zipcode" : "04216",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "ANDOVER",
+		"State" : "ME",
+		"Latitude" : "+44.568160"
+	},
+	{
+		"Longitude" : "-070.770035",
+		"Zipcode" : "04217",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "BETHEL",
+		"State" : "ME",
+		"Latitude" : "+44.428414"
+	},
+	{
+		"Longitude" : "-070.587095",
+		"Zipcode" : "04219",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "BRYANT POND",
+		"State" : "ME",
+		"Latitude" : "+44.265009"
+	},
+	{
+		"Longitude" : "-070.381112",
+		"Zipcode" : "04220",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "BUCKFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.326165"
+	},
+	{
+		"Longitude" : "-070.311314",
+		"Zipcode" : "04221",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "CANTON",
+		"State" : "ME",
+		"Latitude" : "+44.385750"
+	},
+	{
+		"Longitude" : "-070.184618",
+		"Zipcode" : "04222",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "DURHAM",
+		"State" : "ME",
+		"Latitude" : "+43.968378"
+	},
+	{
+		"Longitude" : "-070.285748",
+		"Zipcode" : "04223",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANDROSCOGGIN",
+		"City" : "DANVILLE",
+		"State" : "ME",
+		"Latitude" : "+44.023873"
+	},
+	{
+		"Longitude" : "-070.422541",
+		"Zipcode" : "04224",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "DIXFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.553968"
+	},
+	{
+		"Longitude" : "-070.226510",
+		"Zipcode" : "04225",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "DRYDEN",
+		"State" : "ME",
+		"Latitude" : "+44.602705"
+	},
+	{
+		"Longitude" : "-070.691857",
+		"Zipcode" : "04226",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "EAST ANDOVER",
+		"State" : "ME",
+		"Latitude" : "+44.555618"
+	},
+	{
+		"Longitude" : "-070.326337",
+		"Zipcode" : "04227",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "EAST DIXFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.579135"
+	},
+	{
+		"Longitude" : "-070.239485",
+		"Zipcode" : "04228",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "EAST LIVERMORE",
+		"State" : "ME",
+		"Latitude" : "+44.197009"
+	},
+	{
+		"Longitude" : "-070.327049",
+		"Zipcode" : "04230",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANDROSCOGGIN",
+		"City" : "EAST POLAND",
+		"State" : "ME",
+		"Latitude" : "+44.062672"
+	},
+	{
+		"Longitude" : "-070.861797",
+		"Zipcode" : "04231",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "STONEHAM",
+		"State" : "ME",
+		"Latitude" : "+44.313283"
+	},
+	{
+		"Longitude" : "-070.182012",
+		"Zipcode" : "04234",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "EAST WILTON",
+		"State" : "ME",
+		"Latitude" : "+44.617509"
+	},
+	{
+		"Longitude" : "-070.136683",
+		"Zipcode" : "04236",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "GREENE",
+		"State" : "ME",
+		"Latitude" : "+44.189655"
+	},
+	{
+		"Longitude" : "-070.735691",
+		"Zipcode" : "04237",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "HANOVER",
+		"State" : "ME",
+		"Latitude" : "+44.494347"
+	},
+	{
+		"Longitude" : "-070.372831",
+		"Zipcode" : "04238",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "HEBRON",
+		"State" : "ME",
+		"Latitude" : "+44.225640"
+	},
+	{
+		"Longitude" : "-070.208556",
+		"Zipcode" : "04239",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "JAY",
+		"State" : "ME",
+		"Latitude" : "+44.541508"
+	},
+	{
+		"Longitude" : "-070.169297",
+		"Zipcode" : "04240",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "LEWISTON",
+		"State" : "ME",
+		"Latitude" : "+44.086323"
+	},
+	{
+		"Longitude" : "-070.239485",
+		"Zipcode" : "04241",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "LEWISTON",
+		"State" : "ME",
+		"Latitude" : "+44.197009"
+	},
+	{
+		"Longitude" : "-070.239485",
+		"Zipcode" : "04243",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "LEWISTON",
+		"State" : "ME",
+		"Latitude" : "+44.197009"
+	},
+	{
+		"Longitude" : "-070.101247",
+		"Zipcode" : "04250",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "LISBON",
+		"State" : "ME",
+		"Latitude" : "+44.033026"
+	},
+	{
+		"Longitude" : "-070.068046",
+		"Zipcode" : "04252",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "LISBON FALLS",
+		"State" : "ME",
+		"Latitude" : "+44.032476"
+	},
+	{
+		"Longitude" : "-070.189139",
+		"Zipcode" : "04253",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "LIVERMORE",
+		"State" : "ME",
+		"Latitude" : "+44.297416"
+	},
+	{
+		"Longitude" : "-070.188508",
+		"Zipcode" : "04254",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "LIVERMORE FALLS",
+		"State" : "ME",
+		"Latitude" : "+44.242189"
+	},
+	{
+		"Longitude" : "-070.708774",
+		"Zipcode" : "04255",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "GREENWOOD",
+		"State" : "ME",
+		"Latitude" : "+44.401595"
+	},
+	{
+		"Longitude" : "-070.272624",
+		"Zipcode" : "04256",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "MECHANIC FALLS",
+		"State" : "ME",
+		"Latitude" : "+44.079644"
+	},
+	{
+		"Longitude" : "-070.516131",
+		"Zipcode" : "04257",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "MEXICO",
+		"State" : "ME",
+		"Latitude" : "+44.570265"
+	},
+	{
+		"Longitude" : "-070.339859",
+		"Zipcode" : "04258",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "MINOT",
+		"State" : "ME",
+		"Latitude" : "+44.146121"
+	},
+	{
+		"Longitude" : "-069.870181",
+		"Zipcode" : "04259",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "MONMOUTH",
+		"State" : "ME",
+		"Latitude" : "+44.349166"
+	},
+	{
+		"Longitude" : "-070.299687",
+		"Zipcode" : "04260",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "NEW GLOUCESTER",
+		"State" : "ME",
+		"Latitude" : "+43.967474"
+	},
+	{
+		"Longitude" : "-071.011246",
+		"Zipcode" : "04261",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "NEWRY",
+		"State" : "ME",
+		"Latitude" : "+44.689526"
+	},
+	{
+		"Longitude" : "-070.381639",
+		"Zipcode" : "04262",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "NORTH JAY",
+		"State" : "ME",
+		"Latitude" : "+45.063384"
+	},
+	{
+		"Longitude" : "-070.135366",
+		"Zipcode" : "04263",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "LEEDS",
+		"State" : "ME",
+		"Latitude" : "+44.292089"
+	},
+	{
+		"Longitude" : "-070.037848",
+		"Zipcode" : "04265",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "NORTH MONMOUTH",
+		"State" : "ME",
+		"Latitude" : "+44.303359"
+	},
+	{
+		"Longitude" : "-070.255783",
+		"Zipcode" : "04266",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANDROSCOGGIN",
+		"City" : "NORTH TURNER",
+		"State" : "ME",
+		"Latitude" : "+44.357987"
+	},
+	{
+		"Longitude" : "-070.661557",
+		"Zipcode" : "04267",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OXFORD",
+		"City" : "NORTH WATERFORD",
+		"State" : "ME",
+		"Latitude" : "+44.566156"
+	},
+	{
+		"Longitude" : "-070.691576",
+		"Zipcode" : "04268",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "NORWAY",
+		"State" : "ME",
+		"Latitude" : "+44.280503"
+	},
+	{
+		"Longitude" : "-070.507791",
+		"Zipcode" : "04270",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "OXFORD",
+		"State" : "ME",
+		"Latitude" : "+44.284385"
+	},
+	{
+		"Longitude" : "-070.498513",
+		"Zipcode" : "04271",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OXFORD",
+		"City" : "PARIS",
+		"State" : "ME",
+		"Latitude" : "+44.264111"
+	},
+	{
+		"Longitude" : "-070.389923",
+		"Zipcode" : "04274",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "POLAND",
+		"State" : "ME",
+		"Latitude" : "+44.047435"
+	},
+	{
+		"Longitude" : "-070.661557",
+		"Zipcode" : "04275",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "ROXBURY",
+		"State" : "ME",
+		"Latitude" : "+44.566156"
+	},
+	{
+		"Longitude" : "-070.638174",
+		"Zipcode" : "04276",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "RUMFORD",
+		"State" : "ME",
+		"Latitude" : "+44.523556"
+	},
+	{
+		"Longitude" : "-070.568041",
+		"Zipcode" : "04278",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OXFORD",
+		"City" : "RUMFORD CENTER",
+		"State" : "ME",
+		"Latitude" : "+44.377031"
+	},
+	{
+		"Longitude" : "-070.126922",
+		"Zipcode" : "04280",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "SABATTUS",
+		"State" : "ME",
+		"Latitude" : "+44.126723"
+	},
+	{
+		"Longitude" : "-070.607841",
+		"Zipcode" : "04281",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "SOUTH PARIS",
+		"State" : "ME",
+		"Latitude" : "+44.353052"
+	},
+	{
+		"Longitude" : "-070.254155",
+		"Zipcode" : "04282",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "TURNER",
+		"State" : "ME",
+		"Latitude" : "+44.265473"
+	},
+	{
+		"Longitude" : "-070.239485",
+		"Zipcode" : "04283",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDROSCOGGIN",
+		"City" : "TURNER CENTER",
+		"State" : "ME",
+		"Latitude" : "+44.197009"
+	},
+	{
+		"Longitude" : "-070.074555",
+		"Zipcode" : "04284",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "WAYNE",
+		"State" : "ME",
+		"Latitude" : "+44.359835"
+	},
+	{
+		"Longitude" : "-070.381639",
+		"Zipcode" : "04285",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WELD",
+		"State" : "ME",
+		"Latitude" : "+45.063384"
+	},
+	{
+		"Longitude" : "-070.860094",
+		"Zipcode" : "04286",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "WEST BETHEL",
+		"State" : "ME",
+		"Latitude" : "+44.402050"
+	},
+	{
+		"Longitude" : "-069.965553",
+		"Zipcode" : "04287",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "BOWDOIN",
+		"State" : "ME",
+		"Latitude" : "+44.057514"
+	},
+	{
+		"Longitude" : "-070.239485",
+		"Zipcode" : "04288",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANDROSCOGGIN",
+		"City" : "WEST MINOT",
+		"State" : "ME",
+		"Latitude" : "+44.197009"
+	},
+	{
+		"Longitude" : "-070.543265",
+		"Zipcode" : "04289",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "WEST PARIS",
+		"State" : "ME",
+		"Latitude" : "+44.340438"
+	},
+	{
+		"Longitude" : "-070.436722",
+		"Zipcode" : "04290",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "PERU",
+		"State" : "ME",
+		"Latitude" : "+44.477183"
+	},
+	{
+		"Longitude" : "-070.453006",
+		"Zipcode" : "04291",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANDROSCOGGIN",
+		"City" : "WEST POLAND",
+		"State" : "ME",
+		"Latitude" : "+44.040857"
+	},
+	{
+		"Longitude" : "-070.477506",
+		"Zipcode" : "04292",
+		"ZipClass" : "STANDARD",
+		"County" : "OXFORD",
+		"City" : "SUMNER",
+		"State" : "ME",
+		"Latitude" : "+44.318900"
+	},
+	{
+		"Longitude" : "-070.245935",
+		"Zipcode" : "04294",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WILTON",
+		"State" : "ME",
+		"Latitude" : "+44.618873"
+	},
+	{
+		"Longitude" : "-069.803773",
+		"Zipcode" : "04330",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "AUGUSTA",
+		"State" : "ME",
+		"Latitude" : "+44.351642"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04332",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "AUGUSTA",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04333",
+		"ZipClass" : "UNIQUE",
+		"County" : "KENNEBEC",
+		"City" : "AUGUSTA",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-069.818009",
+		"Zipcode" : "04336",
+		"ZipClass" : "UNIQUE",
+		"County" : "KENNEBEC",
+		"City" : "AUGUSTA",
+		"State" : "ME",
+		"Latitude" : "+44.315693"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04338",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "AUGUSTA",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-069.551024",
+		"Zipcode" : "04341",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "COOPERS MILLS",
+		"State" : "ME",
+		"Latitude" : "+44.258771"
+	},
+	{
+		"Longitude" : "-069.738418",
+		"Zipcode" : "04342",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "DRESDEN",
+		"State" : "ME",
+		"Latitude" : "+44.077448"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04343",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENNEBEC",
+		"City" : "EAST WINTHROP",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-069.797105",
+		"Zipcode" : "04344",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "FARMINGDALE",
+		"State" : "ME",
+		"Latitude" : "+44.256614"
+	},
+	{
+		"Longitude" : "-069.796909",
+		"Zipcode" : "04345",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "GARDINER",
+		"State" : "ME",
+		"Latitude" : "+44.296652"
+	},
+	{
+		"Longitude" : "-069.724135",
+		"Zipcode" : "04346",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "RANDOLPH",
+		"State" : "ME",
+		"Latitude" : "+44.269959"
+	},
+	{
+		"Longitude" : "-069.795037",
+		"Zipcode" : "04347",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "HALLOWELL",
+		"State" : "ME",
+		"Latitude" : "+44.249130"
+	},
+	{
+		"Longitude" : "-069.513293",
+		"Zipcode" : "04348",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "JEFFERSON",
+		"State" : "ME",
+		"Latitude" : "+44.220432"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04349",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "KENTS HILL",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-069.954040",
+		"Zipcode" : "04350",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "LITCHFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.158104"
+	},
+	{
+		"Longitude" : "-069.867001",
+		"Zipcode" : "04351",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "MANCHESTER",
+		"State" : "ME",
+		"Latitude" : "+44.358014"
+	},
+	{
+		"Longitude" : "-069.986762",
+		"Zipcode" : "04352",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "MOUNT VERNON",
+		"State" : "ME",
+		"Latitude" : "+44.461522"
+	},
+	{
+		"Longitude" : "-069.575119",
+		"Zipcode" : "04353",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WHITEFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.188406"
+	},
+	{
+		"Longitude" : "-069.416800",
+		"Zipcode" : "04354",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "PALERMO",
+		"State" : "ME",
+		"Latitude" : "+44.395590"
+	},
+	{
+		"Longitude" : "-069.953716",
+		"Zipcode" : "04355",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "READFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.384840"
+	},
+	{
+		"Longitude" : "-069.827489",
+		"Zipcode" : "04357",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "RICHMOND",
+		"State" : "ME",
+		"Latitude" : "+44.108059"
+	},
+	{
+		"Longitude" : "-069.586327",
+		"Zipcode" : "04358",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "SOUTH CHINA",
+		"State" : "ME",
+		"Latitude" : "+44.375578"
+	},
+	{
+		"Longitude" : "-069.777196",
+		"Zipcode" : "04359",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENNEBEC",
+		"City" : "SOUTH GARDINER",
+		"State" : "ME",
+		"Latitude" : "+44.183266"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04360",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "VIENNA",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04363",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "WINDSOR",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-069.957627",
+		"Zipcode" : "04364",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "WINTHROP",
+		"State" : "ME",
+		"Latitude" : "+44.322865"
+	},
+	{
+		"Longitude" : "-068.878893",
+		"Zipcode" : "04401",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "BANGOR",
+		"State" : "ME",
+		"Latitude" : "+45.061744"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04402",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "BANGOR",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-069.233382",
+		"Zipcode" : "04406",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "ABBOT",
+		"State" : "ME",
+		"Latitude" : "+45.184103"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04408",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "AURORA",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.954320",
+		"Zipcode" : "04410",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "BRADFORD",
+		"State" : "ME",
+		"Latitude" : "+45.058864"
+	},
+	{
+		"Longitude" : "-068.625688",
+		"Zipcode" : "04411",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "BRADLEY",
+		"State" : "ME",
+		"Latitude" : "+44.914946"
+	},
+	{
+		"Longitude" : "-068.783742",
+		"Zipcode" : "04412",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "BREWER",
+		"State" : "ME",
+		"Latitude" : "+44.835610"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04413",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BROOKTON",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-069.029462",
+		"Zipcode" : "04414",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "BROWNVILLE",
+		"State" : "ME",
+		"Latitude" : "+45.310095"
+	},
+	{
+		"Longitude" : "-069.058062",
+		"Zipcode" : "04415",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PISCATAQUIS",
+		"City" : "BROWNVILLE JUNCTION",
+		"State" : "ME",
+		"Latitude" : "+45.351184"
+	},
+	{
+		"Longitude" : "-068.773241",
+		"Zipcode" : "04416",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BUCKSPORT",
+		"State" : "ME",
+		"Latitude" : "+44.600448"
+	},
+	{
+		"Longitude" : "-068.817481",
+		"Zipcode" : "04417",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "BURLINGTON",
+		"State" : "ME",
+		"Latitude" : "+44.817820"
+	},
+	{
+		"Longitude" : "-068.581212",
+		"Zipcode" : "04418",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "GREENBUSH",
+		"State" : "ME",
+		"Latitude" : "+45.049429"
+	},
+	{
+		"Longitude" : "-068.940624",
+		"Zipcode" : "04419",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "CARMEL",
+		"State" : "ME",
+		"Latitude" : "+44.808062"
+	},
+	{
+		"Longitude" : "-068.798047",
+		"Zipcode" : "04420",
+		"ZipClass" : "UNIQUE",
+		"County" : "HANCOCK",
+		"City" : "CASTINE",
+		"State" : "ME",
+		"Latitude" : "+44.412968"
+	},
+	{
+		"Longitude" : "-068.792883",
+		"Zipcode" : "04421",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "CASTINE",
+		"State" : "ME",
+		"Latitude" : "+44.415639"
+	},
+	{
+		"Longitude" : "-069.040695",
+		"Zipcode" : "04422",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "CHARLESTON",
+		"State" : "ME",
+		"Latitude" : "+45.066999"
+	},
+	{
+		"Longitude" : "-068.529182",
+		"Zipcode" : "04423",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "COSTIGAN",
+		"State" : "ME",
+		"Latitude" : "+45.039478"
+	},
+	{
+		"Longitude" : "-067.866054",
+		"Zipcode" : "04424",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "DANFORTH",
+		"State" : "ME",
+		"Latitude" : "+45.658831"
+	},
+	{
+		"Longitude" : "-069.207725",
+		"Zipcode" : "04426",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "DOVER FOXCROFT",
+		"State" : "ME",
+		"Latitude" : "+45.171605"
+	},
+	{
+		"Longitude" : "-068.865187",
+		"Zipcode" : "04427",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "CORINTH",
+		"State" : "ME",
+		"Latitude" : "+44.989376"
+	},
+	{
+		"Longitude" : "-068.577728",
+		"Zipcode" : "04428",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "EDDINGTON",
+		"State" : "ME",
+		"Latitude" : "+44.791690"
+	},
+	{
+		"Longitude" : "-068.818345",
+		"Zipcode" : "04429",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "HOLDEN",
+		"State" : "ME",
+		"Latitude" : "+44.894294"
+	},
+	{
+		"Longitude" : "-068.689174",
+		"Zipcode" : "04430",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "EAST MILLINOCKET",
+		"State" : "ME",
+		"Latitude" : "+45.233408"
+	},
+	{
+		"Longitude" : "-068.664735",
+		"Zipcode" : "04431",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "EAST ORLAND",
+		"State" : "ME",
+		"Latitude" : "+44.561174"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04434",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "ETNA",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-069.133080",
+		"Zipcode" : "04435",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "EXETER",
+		"State" : "ME",
+		"Latitude" : "+44.966032"
+	},
+	{
+		"Longitude" : "-068.849975",
+		"Zipcode" : "04438",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "FRANKFORT",
+		"State" : "ME",
+		"Latitude" : "+44.632657"
+	},
+	{
+		"Longitude" : "-069.304630",
+		"Zipcode" : "04441",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "GREENVILLE",
+		"State" : "ME",
+		"Latitude" : "+45.792364"
+	},
+	{
+		"Longitude" : "-069.304630",
+		"Zipcode" : "04442",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "GREENVILLE JUNCTION",
+		"State" : "ME",
+		"Latitude" : "+45.792364"
+	},
+	{
+		"Longitude" : "-069.457444",
+		"Zipcode" : "04443",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "GUILFORD",
+		"State" : "ME",
+		"Latitude" : "+45.315976"
+	},
+	{
+		"Longitude" : "-068.829046",
+		"Zipcode" : "04444",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "HAMPDEN",
+		"State" : "ME",
+		"Latitude" : "+44.835984"
+	},
+	{
+		"Longitude" : "-068.666632",
+		"Zipcode" : "04448",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "HOWLAND",
+		"State" : "ME",
+		"Latitude" : "+45.245635"
+	},
+	{
+		"Longitude" : "-068.884621",
+		"Zipcode" : "04449",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "HUDSON",
+		"State" : "ME",
+		"Latitude" : "+45.006054"
+	},
+	{
+		"Longitude" : "-068.965803",
+		"Zipcode" : "04450",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "KENDUSKEAG",
+		"State" : "ME",
+		"Latitude" : "+44.918877"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04451",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "KINGMAN",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-069.218210",
+		"Zipcode" : "04453",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "LAGRANGE",
+		"State" : "ME",
+		"Latitude" : "+44.787229"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04454",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "LAMBERT LAKE",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04455",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "LEE",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-069.011636",
+		"Zipcode" : "04456",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "LEVANT",
+		"State" : "ME",
+		"Latitude" : "+44.871231"
+	},
+	{
+		"Longitude" : "-068.492990",
+		"Zipcode" : "04457",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "LINCOLN",
+		"State" : "ME",
+		"Latitude" : "+45.366794"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04459",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "MATTAWAMKEAG",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-068.543602",
+		"Zipcode" : "04460",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "MEDWAY",
+		"State" : "ME",
+		"Latitude" : "+45.618608"
+	},
+	{
+		"Longitude" : "-068.595946",
+		"Zipcode" : "04461",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "MILFORD",
+		"State" : "ME",
+		"Latitude" : "+45.054200"
+	},
+	{
+		"Longitude" : "-068.752091",
+		"Zipcode" : "04462",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "MILLINOCKET",
+		"State" : "ME",
+		"Latitude" : "+45.226479"
+	},
+	{
+		"Longitude" : "-068.975988",
+		"Zipcode" : "04463",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "MILO",
+		"State" : "ME",
+		"Latitude" : "+45.244612"
+	},
+	{
+		"Longitude" : "-069.304630",
+		"Zipcode" : "04464",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "MONSON",
+		"State" : "ME",
+		"Latitude" : "+45.792364"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04467",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PENOBSCOT",
+		"City" : "OLAMON",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-068.722962",
+		"Zipcode" : "04468",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "OLD TOWN",
+		"State" : "ME",
+		"Latitude" : "+45.040655"
+	},
+	{
+		"Longitude" : "-068.633430",
+		"Zipcode" : "04469",
+		"ZipClass" : "UNIQUE",
+		"County" : "PENOBSCOT",
+		"City" : "ORONO",
+		"State" : "ME",
+		"Latitude" : "+45.002798"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04471",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "ORIENT",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.625903",
+		"Zipcode" : "04472",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "ORLAND",
+		"State" : "ME",
+		"Latitude" : "+44.409375"
+	},
+	{
+		"Longitude" : "-068.744361",
+		"Zipcode" : "04473",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "ORONO",
+		"State" : "ME",
+		"Latitude" : "+45.068848"
+	},
+	{
+		"Longitude" : "-068.782487",
+		"Zipcode" : "04474",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "ORRINGTON",
+		"State" : "ME",
+		"Latitude" : "+44.842939"
+	},
+	{
+		"Longitude" : "-068.618775",
+		"Zipcode" : "04475",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "PASSADUMKEAG",
+		"State" : "ME",
+		"Latitude" : "+45.040668"
+	},
+	{
+		"Longitude" : "-068.721716",
+		"Zipcode" : "04476",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "PENOBSCOT",
+		"State" : "ME",
+		"Latitude" : "+44.433911"
+	},
+	{
+		"Longitude" : "-070.054629",
+		"Zipcode" : "04478",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "ROCKWOOD",
+		"State" : "ME",
+		"Latitude" : "+45.286570"
+	},
+	{
+		"Longitude" : "-069.304630",
+		"Zipcode" : "04479",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "SANGERVILLE",
+		"State" : "ME",
+		"Latitude" : "+45.792364"
+	},
+	{
+		"Longitude" : "-069.304630",
+		"Zipcode" : "04481",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "SEBEC",
+		"State" : "ME",
+		"Latitude" : "+45.792364"
+	},
+	{
+		"Longitude" : "-069.304630",
+		"Zipcode" : "04485",
+		"ZipClass" : "STANDARD",
+		"County" : "PISCATAQUIS",
+		"City" : "SHIRLEY MILLS",
+		"State" : "ME",
+		"Latitude" : "+45.792364"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04487",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "SPRINGFIELD",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-069.142341",
+		"Zipcode" : "04488",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "STETSON",
+		"State" : "ME",
+		"Latitude" : "+44.894697"
+	},
+	{
+		"Longitude" : "-068.686796",
+		"Zipcode" : "04489",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PENOBSCOT",
+		"City" : "STILLWATER",
+		"State" : "ME",
+		"Latitude" : "+44.922368"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04490",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "TOPSFIELD",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04491",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "VANCEBORO",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04492",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WAITE",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04493",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "WEST ENFIELD",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04495",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "WINN",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-068.917487",
+		"Zipcode" : "04496",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "WINTERPORT",
+		"State" : "ME",
+		"Latitude" : "+44.653370"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04497",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "WYTOPITLOCK",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-069.826495",
+		"Zipcode" : "04530",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "BATH",
+		"State" : "ME",
+		"Latitude" : "+43.867892"
+	},
+	{
+		"Longitude" : "-069.566684",
+		"Zipcode" : "04535",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ALNA",
+		"State" : "ME",
+		"Latitude" : "+44.008962"
+	},
+	{
+		"Longitude" : "-069.523263",
+		"Zipcode" : "04536",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BAYVILLE",
+		"State" : "ME",
+		"Latitude" : "+44.021333"
+	},
+	{
+		"Longitude" : "-069.627163",
+		"Zipcode" : "04537",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BOOTHBAY",
+		"State" : "ME",
+		"Latitude" : "+43.894903"
+	},
+	{
+		"Longitude" : "-069.517161",
+		"Zipcode" : "04538",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BOOTHBAY HARBOR",
+		"State" : "ME",
+		"Latitude" : "+43.956167"
+	},
+	{
+		"Longitude" : "-069.598725",
+		"Zipcode" : "04539",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BRISTOL",
+		"State" : "ME",
+		"Latitude" : "+43.928967"
+	},
+	{
+		"Longitude" : "-069.479184",
+		"Zipcode" : "04541",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CHAMBERLAIN",
+		"State" : "ME",
+		"Latitude" : "+43.884294"
+	},
+	{
+		"Longitude" : "-069.424228",
+		"Zipcode" : "04543",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "DAMARISCOTTA",
+		"State" : "ME",
+		"Latitude" : "+43.986485"
+	},
+	{
+		"Longitude" : "-069.597446",
+		"Zipcode" : "04544",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "EAST BOOTHBAY",
+		"State" : "ME",
+		"Latitude" : "+43.826770"
+	},
+	{
+		"Longitude" : "-069.231179",
+		"Zipcode" : "04547",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "FRIENDSHIP",
+		"State" : "ME",
+		"Latitude" : "+44.010424"
+	},
+	{
+		"Longitude" : "-069.745295",
+		"Zipcode" : "04548",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "GEORGETOWN",
+		"State" : "ME",
+		"Latitude" : "+43.805389"
+	},
+	{
+		"Longitude" : "-069.523263",
+		"Zipcode" : "04549",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ISLE OF SPRINGS",
+		"State" : "ME",
+		"Latitude" : "+44.021333"
+	},
+	{
+		"Longitude" : "-069.440192",
+		"Zipcode" : "04551",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BREMEN",
+		"State" : "ME",
+		"Latitude" : "+44.010411"
+	},
+	{
+		"Longitude" : "-069.523263",
+		"Zipcode" : "04552",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NEWAGEN",
+		"State" : "ME",
+		"Latitude" : "+44.021333"
+	},
+	{
+		"Longitude" : "-069.503427",
+		"Zipcode" : "04553",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NEWCASTLE",
+		"State" : "ME",
+		"Latitude" : "+43.991336"
+	},
+	{
+		"Longitude" : "-069.566313",
+		"Zipcode" : "04554",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NEW HARBOR",
+		"State" : "ME",
+		"Latitude" : "+43.870936"
+	},
+	{
+		"Longitude" : "-069.536374",
+		"Zipcode" : "04555",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NOBLEBORO",
+		"State" : "ME",
+		"Latitude" : "+44.074877"
+	},
+	{
+		"Longitude" : "-069.587334",
+		"Zipcode" : "04556",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "EDGECOMB",
+		"State" : "ME",
+		"Latitude" : "+43.931748"
+	},
+	{
+		"Longitude" : "-069.509282",
+		"Zipcode" : "04558",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "PEMAQUID",
+		"State" : "ME",
+		"Latitude" : "+43.896727"
+	},
+	{
+		"Longitude" : "-069.810821",
+		"Zipcode" : "04562",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "PHIPPSBURG",
+		"State" : "ME",
+		"Latitude" : "+43.789616"
+	},
+	{
+		"Longitude" : "-069.255572",
+		"Zipcode" : "04563",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "CUSHING",
+		"State" : "ME",
+		"Latitude" : "+44.023010"
+	},
+	{
+		"Longitude" : "-069.468052",
+		"Zipcode" : "04564",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ROUND POND",
+		"State" : "ME",
+		"Latitude" : "+43.932449"
+	},
+	{
+		"Longitude" : "-069.863461",
+		"Zipcode" : "04565",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAGADAHOC",
+		"City" : "SEBASCO ESTATES",
+		"State" : "ME",
+		"Latitude" : "+43.773312"
+	},
+	{
+		"Longitude" : "-069.859541",
+		"Zipcode" : "04567",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "SMALL POINT",
+		"State" : "ME",
+		"Latitude" : "+43.900856"
+	},
+	{
+		"Longitude" : "-069.612725",
+		"Zipcode" : "04568",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SOUTH BRISTOL",
+		"State" : "ME",
+		"Latitude" : "+43.877877"
+	},
+	{
+		"Longitude" : "-069.523263",
+		"Zipcode" : "04570",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SQUIRREL ISLAND",
+		"State" : "ME",
+		"Latitude" : "+44.021333"
+	},
+	{
+		"Longitude" : "-069.680144",
+		"Zipcode" : "04571",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TREVETT",
+		"State" : "ME",
+		"Latitude" : "+43.882610"
+	},
+	{
+		"Longitude" : "-069.415708",
+		"Zipcode" : "04572",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WALDOBORO",
+		"State" : "ME",
+		"Latitude" : "+44.038581"
+	},
+	{
+		"Longitude" : "-069.592127",
+		"Zipcode" : "04573",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WALPOLE",
+		"State" : "ME",
+		"Latitude" : "+43.929821"
+	},
+	{
+		"Longitude" : "-069.387795",
+		"Zipcode" : "04574",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "WASHINGTON",
+		"State" : "ME",
+		"Latitude" : "+44.162384"
+	},
+	{
+		"Longitude" : "-069.660795",
+		"Zipcode" : "04575",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "WEST BOOTHBAY HARBOR",
+		"State" : "ME",
+		"Latitude" : "+43.854534"
+	},
+	{
+		"Longitude" : "-069.529648",
+		"Zipcode" : "04576",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SOUTHPORT",
+		"State" : "ME",
+		"Latitude" : "+43.935605"
+	},
+	{
+		"Longitude" : "-069.597134",
+		"Zipcode" : "04578",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WISCASSET",
+		"State" : "ME",
+		"Latitude" : "+43.964901"
+	},
+	{
+		"Longitude" : "-069.764378",
+		"Zipcode" : "04579",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGADAHOC",
+		"City" : "WOOLWICH",
+		"State" : "ME",
+		"Latitude" : "+43.938696"
+	},
+	{
+		"Longitude" : "-068.356311",
+		"Zipcode" : "04605",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "ELLSWORTH",
+		"State" : "ME",
+		"Latitude" : "+44.477935"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04606",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ADDISON",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.090339",
+		"Zipcode" : "04607",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "GOULDSBORO",
+		"State" : "ME",
+		"Latitude" : "+44.483471"
+	},
+	{
+		"Longitude" : "-068.305513",
+		"Zipcode" : "04609",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BAR HARBOR",
+		"State" : "ME",
+		"Latitude" : "+44.362323"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04611",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "BEALS",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.354598",
+		"Zipcode" : "04612",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BERNARD",
+		"State" : "ME",
+		"Latitude" : "+44.239876"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04613",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BIRCH HARBOR",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.623927",
+		"Zipcode" : "04614",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BLUE HILL",
+		"State" : "ME",
+		"Latitude" : "+44.296910"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04615",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BLUE HILL FALLS",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.567404",
+		"Zipcode" : "04616",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BROOKLIN",
+		"State" : "ME",
+		"Latitude" : "+44.258121"
+	},
+	{
+		"Longitude" : "-068.765568",
+		"Zipcode" : "04617",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BROOKSVILLE",
+		"State" : "ME",
+		"Latitude" : "+44.337581"
+	},
+	{
+		"Longitude" : "-067.389101",
+		"Zipcode" : "04619",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CALAIS",
+		"State" : "ME",
+		"Latitude" : "+45.188254"
+	},
+	{
+		"Longitude" : "-067.923248",
+		"Zipcode" : "04622",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CHERRYFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.603258"
+	},
+	{
+		"Longitude" : "-067.779881",
+		"Zipcode" : "04623",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "COLUMBIA FALLS",
+		"State" : "ME",
+		"Latitude" : "+44.698608"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04624",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "COREA",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04625",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "CRANBERRY ISLES",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04626",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CUTLER",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.711691",
+		"Zipcode" : "04627",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "DEER ISLE",
+		"State" : "ME",
+		"Latitude" : "+44.213503"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04628",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "DENNYSVILLE",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04629",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "EAST BLUE HILL",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.462470",
+		"Zipcode" : "04630",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "EAST MACHIAS",
+		"State" : "ME",
+		"Latitude" : "+44.707460"
+	},
+	{
+		"Longitude" : "-067.136853",
+		"Zipcode" : "04631",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "EASTPORT",
+		"State" : "ME",
+		"Latitude" : "+45.036287"
+	},
+	{
+		"Longitude" : "-068.233576",
+		"Zipcode" : "04634",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "FRANKLIN",
+		"State" : "ME",
+		"Latitude" : "+44.595131"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04635",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "FRENCHBORO",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.601026",
+		"Zipcode" : "04637",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GRAND LAKE STREAM",
+		"State" : "ME",
+		"Latitude" : "+45.185635"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04640",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "HANCOCK",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04642",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "HARBORSIDE",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04643",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HARRINGTON",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04644",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "HULLS COVE",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-069.148017",
+		"Zipcode" : "04645",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "ISLE AU HAUT",
+		"State" : "ME",
+		"Latitude" : "+44.032196"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04646",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "ISLESFORD",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04648",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JONESBORO",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04649",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JONESPORT",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04650",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "LITTLE DEER ISLE",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.040767",
+		"Zipcode" : "04652",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LUBEC",
+		"State" : "ME",
+		"Latitude" : "+44.904288"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04653",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BASS HARBOR",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.469196",
+		"Zipcode" : "04654",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MACHIAS",
+		"State" : "ME",
+		"Latitude" : "+44.660627"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04655",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MACHIASPORT",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04656",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "MANSET",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04657",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MEDDYBEMPS",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04658",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MILBRIDGE",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.308737",
+		"Zipcode" : "04660",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "MOUNT DESERT",
+		"State" : "ME",
+		"Latitude" : "+44.334692"
+	},
+	{
+		"Longitude" : "-068.284865",
+		"Zipcode" : "04662",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "NORTHEAST HARBOR",
+		"State" : "ME",
+		"Latitude" : "+44.294073"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04664",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SULLIVAN",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04665",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "OTTER CREEK",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.156533",
+		"Zipcode" : "04666",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PEMBROKE",
+		"State" : "ME",
+		"Latitude" : "+44.930092"
+	},
+	{
+		"Longitude" : "-067.097043",
+		"Zipcode" : "04667",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PERRY",
+		"State" : "ME",
+		"Latitude" : "+45.013348"
+	},
+	{
+		"Longitude" : "-067.575432",
+		"Zipcode" : "04668",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PRINCETON",
+		"State" : "ME",
+		"Latitude" : "+45.209229"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04669",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "PROSPECT HARBOR",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04671",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ROBBINSTON",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.251778",
+		"Zipcode" : "04672",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "SALSBURY COVE",
+		"State" : "ME",
+		"Latitude" : "+44.413523"
+	},
+	{
+		"Longitude" : "-068.686305",
+		"Zipcode" : "04673",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SARGENTVILLE",
+		"State" : "ME",
+		"Latitude" : "+44.313629"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04674",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SEAL COVE",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.246314",
+		"Zipcode" : "04675",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "SEAL HARBOR",
+		"State" : "ME",
+		"Latitude" : "+44.299037"
+	},
+	{
+		"Longitude" : "-068.701228",
+		"Zipcode" : "04676",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SEDGWICK",
+		"State" : "ME",
+		"Latitude" : "+44.399111"
+	},
+	{
+		"Longitude" : "-068.191370",
+		"Zipcode" : "04677",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SORRENTO",
+		"State" : "ME",
+		"Latitude" : "+44.491175"
+	},
+	{
+		"Longitude" : "-068.261568",
+		"Zipcode" : "04679",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SOUTHWEST HARBOR",
+		"State" : "ME",
+		"Latitude" : "+44.390897"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04680",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "STEUBEN",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04681",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "STONINGTON",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04683",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SUNSET",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04684",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SURRY",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-068.396479",
+		"Zipcode" : "04685",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SWANS ISLAND",
+		"State" : "ME",
+		"Latitude" : "+44.213118"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04686",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WESLEY",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.391481",
+		"Zipcode" : "04690",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "WEST TREMONT",
+		"State" : "ME",
+		"Latitude" : "+44.641873"
+	},
+	{
+		"Longitude" : "-067.495548",
+		"Zipcode" : "04691",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WHITING",
+		"State" : "ME",
+		"Latitude" : "+45.002969"
+	},
+	{
+		"Longitude" : "-068.074964",
+		"Zipcode" : "04693",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "WINTER HARBOR",
+		"State" : "ME",
+		"Latitude" : "+44.387188"
+	},
+	{
+		"Longitude" : "-067.377410",
+		"Zipcode" : "04694",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BAILEYVILLE",
+		"State" : "ME",
+		"Latitude" : "+45.152637"
+	},
+	{
+		"Longitude" : "-067.833009",
+		"Zipcode" : "04730",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "HOULTON",
+		"State" : "ME",
+		"Latitude" : "+46.121345"
+	},
+	{
+		"Longitude" : "-068.398160",
+		"Zipcode" : "04732",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "ASHLAND",
+		"State" : "ME",
+		"Latitude" : "+46.975725"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04733",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "BENEDICTA",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04734",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AROOSTOOK",
+		"City" : "BLAINE",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04735",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "BRIDGEWATER",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.025442",
+		"Zipcode" : "04736",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "CARIBOU",
+		"State" : "ME",
+		"Latitude" : "+46.871355"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04737",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "CLAYTON LAKE",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04738",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AROOSTOOK",
+		"City" : "CROUSEVILLE",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04739",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "EAGLE LAKE",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-067.855820",
+		"Zipcode" : "04740",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "EASTON",
+		"State" : "ME",
+		"Latitude" : "+46.611101"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04741",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "ESTCOURT STATION",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-067.841507",
+		"Zipcode" : "04742",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "FORT FAIRFIELD",
+		"State" : "ME",
+		"Latitude" : "+46.746453"
+	},
+	{
+		"Longitude" : "-068.255868",
+		"Zipcode" : "04743",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "FORT KENT",
+		"State" : "ME",
+		"Latitude" : "+47.056484"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04744",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AROOSTOOK",
+		"City" : "FORT KENT MILLS",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.391920",
+		"Zipcode" : "04745",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "FRENCHVILLE",
+		"State" : "ME",
+		"Latitude" : "+47.295289"
+	},
+	{
+		"Longitude" : "-067.998581",
+		"Zipcode" : "04746",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "GRAND ISLE",
+		"State" : "ME",
+		"Latitude" : "+47.004340"
+	},
+	{
+		"Longitude" : "-068.273154",
+		"Zipcode" : "04747",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "ISLAND FALLS",
+		"State" : "ME",
+		"Latitude" : "+46.011345"
+	},
+	{
+		"Longitude" : "-067.851979",
+		"Zipcode" : "04750",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "LIMESTONE",
+		"State" : "ME",
+		"Latitude" : "+46.906749"
+	},
+	{
+		"Longitude" : "-067.964300",
+		"Zipcode" : "04751",
+		"ZipClass" : "UNIQUE",
+		"County" : "AROOSTOOK",
+		"City" : "LIMESTONE",
+		"State" : "ME",
+		"Latitude" : "+46.892918"
+	},
+	{
+		"Longitude" : "-068.109616",
+		"Zipcode" : "04756",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "MADAWASKA",
+		"State" : "ME",
+		"Latitude" : "+46.934538"
+	},
+	{
+		"Longitude" : "-068.182061",
+		"Zipcode" : "04757",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "MAPLETON",
+		"State" : "ME",
+		"Latitude" : "+47.007842"
+	},
+	{
+		"Longitude" : "-067.848170",
+		"Zipcode" : "04758",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "MARS HILL",
+		"State" : "ME",
+		"Latitude" : "+46.551571"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04759",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "MASARDIS",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04760",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "MONTICELLO",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.003376",
+		"Zipcode" : "04761",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "NEW LIMERICK",
+		"State" : "ME",
+		"Latitude" : "+46.100442"
+	},
+	{
+		"Longitude" : "-068.205546",
+		"Zipcode" : "04762",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "NEW SWEDEN",
+		"State" : "ME",
+		"Latitude" : "+46.976619"
+	},
+	{
+		"Longitude" : "-068.144870",
+		"Zipcode" : "04763",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "OAKFIELD",
+		"State" : "ME",
+		"Latitude" : "+46.099980"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04764",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "OXBOW",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.443112",
+		"Zipcode" : "04765",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "PATTEN",
+		"State" : "ME",
+		"Latitude" : "+45.999084"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04766",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "PERHAM",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04768",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AROOSTOOK",
+		"City" : "PORTAGE",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.012557",
+		"Zipcode" : "04769",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "PRESQUE ISLE",
+		"State" : "ME",
+		"Latitude" : "+46.715072"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04770",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AROOSTOOK",
+		"City" : "QUIMBY",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.335025",
+		"Zipcode" : "04772",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "SAINT AGATHA",
+		"State" : "ME",
+		"Latitude" : "+47.263956"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04773",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "SAINT DAVID",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04774",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "SAINT FRANCIS",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04775",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AROOSTOOK",
+		"City" : "SHERIDAN",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04776",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "SHERMAN MILLS",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04777",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "SHERMAN STATION",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04779",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "SINCLAIR",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04780",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "SMYRNA MILLS",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04781",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "WALLAGRASS",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04782",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PENOBSCOT",
+		"City" : "STACYVILLE",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-068.155212",
+		"Zipcode" : "04783",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "STOCKHOLM",
+		"State" : "ME",
+		"Latitude" : "+46.787807"
+	},
+	{
+		"Longitude" : "-068.042433",
+		"Zipcode" : "04785",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "VAN BUREN",
+		"State" : "ME",
+		"Latitude" : "+46.986075"
+	},
+	{
+		"Longitude" : "-068.105233",
+		"Zipcode" : "04786",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "WASHBURN",
+		"State" : "ME",
+		"Latitude" : "+46.793032"
+	},
+	{
+		"Longitude" : "-067.930172",
+		"Zipcode" : "04787",
+		"ZipClass" : "STANDARD",
+		"County" : "AROOSTOOK",
+		"City" : "WESTFIELD",
+		"State" : "ME",
+		"Latitude" : "+46.594523"
+	},
+	{
+		"Longitude" : "-068.886826",
+		"Zipcode" : "04788",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AROOSTOOK",
+		"City" : "WINTERVILLE",
+		"State" : "ME",
+		"Latitude" : "+46.516166"
+	},
+	{
+		"Longitude" : "-069.068648",
+		"Zipcode" : "04841",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "ROCKLAND",
+		"State" : "ME",
+		"Latitude" : "+44.128607"
+	},
+	{
+		"Longitude" : "-069.029238",
+		"Zipcode" : "04843",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "CAMDEN",
+		"State" : "ME",
+		"Latitude" : "+44.126130"
+	},
+	{
+		"Longitude" : "-069.091111",
+		"Zipcode" : "04846",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOX",
+		"City" : "GLEN COVE",
+		"State" : "ME",
+		"Latitude" : "+44.131005"
+	},
+	{
+		"Longitude" : "-069.203015",
+		"Zipcode" : "04847",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "HOPE",
+		"State" : "ME",
+		"Latitude" : "+44.241072"
+	},
+	{
+		"Longitude" : "-068.900772",
+		"Zipcode" : "04848",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "ISLESBORO",
+		"State" : "ME",
+		"Latitude" : "+44.309021"
+	},
+	{
+		"Longitude" : "-068.998255",
+		"Zipcode" : "04849",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "LINCOLNVILLE",
+		"State" : "ME",
+		"Latitude" : "+44.324832"
+	},
+	{
+		"Longitude" : "-069.149559",
+		"Zipcode" : "04850",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALDO",
+		"City" : "LINCOLNVILLE CENTER",
+		"State" : "ME",
+		"Latitude" : "+44.478694"
+	},
+	{
+		"Longitude" : "-069.148017",
+		"Zipcode" : "04851",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOX",
+		"City" : "MATINICUS",
+		"State" : "ME",
+		"Latitude" : "+44.032196"
+	},
+	{
+		"Longitude" : "-069.523263",
+		"Zipcode" : "04852",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "MONHEGAN",
+		"State" : "ME",
+		"Latitude" : "+44.021333"
+	},
+	{
+		"Longitude" : "-068.855722",
+		"Zipcode" : "04853",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "NORTH HAVEN",
+		"State" : "ME",
+		"Latitude" : "+44.113472"
+	},
+	{
+		"Longitude" : "-069.085574",
+		"Zipcode" : "04854",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "OWLS HEAD",
+		"State" : "ME",
+		"Latitude" : "+44.079510"
+	},
+	{
+		"Longitude" : "-069.148017",
+		"Zipcode" : "04855",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOX",
+		"City" : "PORT CLYDE",
+		"State" : "ME",
+		"Latitude" : "+44.032196"
+	},
+	{
+		"Longitude" : "-069.034160",
+		"Zipcode" : "04856",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "ROCKPORT",
+		"State" : "ME",
+		"Latitude" : "+44.132144"
+	},
+	{
+		"Longitude" : "-069.198524",
+		"Zipcode" : "04857",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "SAINT GEORGE",
+		"State" : "ME",
+		"Latitude" : "+43.995024"
+	},
+	{
+		"Longitude" : "-069.132883",
+		"Zipcode" : "04858",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "SOUTH THOMASTON",
+		"State" : "ME",
+		"Latitude" : "+44.115186"
+	},
+	{
+		"Longitude" : "-069.119550",
+		"Zipcode" : "04859",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "SPRUCE HEAD",
+		"State" : "ME",
+		"Latitude" : "+44.002248"
+	},
+	{
+		"Longitude" : "-069.213329",
+		"Zipcode" : "04860",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "TENANTS HARBOR",
+		"State" : "ME",
+		"Latitude" : "+43.963129"
+	},
+	{
+		"Longitude" : "-069.042704",
+		"Zipcode" : "04861",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "THOMASTON",
+		"State" : "ME",
+		"Latitude" : "+44.108131"
+	},
+	{
+		"Longitude" : "-069.219722",
+		"Zipcode" : "04862",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "UNION",
+		"State" : "ME",
+		"Latitude" : "+44.231517"
+	},
+	{
+		"Longitude" : "-068.841965",
+		"Zipcode" : "04863",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "VINALHAVEN",
+		"State" : "ME",
+		"Latitude" : "+44.085110"
+	},
+	{
+		"Longitude" : "-069.188163",
+		"Zipcode" : "04864",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "WARREN",
+		"State" : "ME",
+		"Latitude" : "+44.086333"
+	},
+	{
+		"Longitude" : "-069.121139",
+		"Zipcode" : "04865",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOX",
+		"City" : "WEST ROCKPORT",
+		"State" : "ME",
+		"Latitude" : "+44.192369"
+	},
+	{
+		"Longitude" : "-069.617809",
+		"Zipcode" : "04901",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "WATERVILLE",
+		"State" : "ME",
+		"Latitude" : "+44.554321"
+	},
+	{
+		"Longitude" : "-069.713178",
+		"Zipcode" : "04903",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "WATERVILLE",
+		"State" : "ME",
+		"Latitude" : "+44.549225"
+	},
+	{
+		"Longitude" : "-069.639976",
+		"Zipcode" : "04910",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "ALBION",
+		"State" : "ME",
+		"Latitude" : "+44.530366"
+	},
+	{
+		"Longitude" : "-069.912885",
+		"Zipcode" : "04911",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "ANSON",
+		"State" : "ME",
+		"Latitude" : "+44.810620"
+	},
+	{
+		"Longitude" : "-069.676680",
+		"Zipcode" : "04912",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "ATHENS",
+		"State" : "ME",
+		"Latitude" : "+44.922700"
+	},
+	{
+		"Longitude" : "-069.040297",
+		"Zipcode" : "04915",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "BELFAST",
+		"State" : "ME",
+		"Latitude" : "+44.404619"
+	},
+	{
+		"Longitude" : "-069.832530",
+		"Zipcode" : "04917",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "BELGRADE",
+		"State" : "ME",
+		"Latitude" : "+44.480594"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04918",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "BELGRADE LAKES",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-069.909773",
+		"Zipcode" : "04920",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "BINGHAM",
+		"State" : "ME",
+		"Latitude" : "+45.575731"
+	},
+	{
+		"Longitude" : "-069.175448",
+		"Zipcode" : "04921",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "BROOKS",
+		"State" : "ME",
+		"Latitude" : "+44.579387"
+	},
+	{
+		"Longitude" : "-069.378829",
+		"Zipcode" : "04922",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "BURNHAM",
+		"State" : "ME",
+		"Latitude" : "+44.677388"
+	},
+	{
+		"Longitude" : "-069.438697",
+		"Zipcode" : "04923",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "CAMBRIDGE",
+		"State" : "ME",
+		"Latitude" : "+45.036055"
+	},
+	{
+		"Longitude" : "-069.585151",
+		"Zipcode" : "04924",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "CANAAN",
+		"State" : "ME",
+		"Latitude" : "+44.743659"
+	},
+	{
+		"Longitude" : "-069.909773",
+		"Zipcode" : "04925",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "CARATUNK",
+		"State" : "ME",
+		"Latitude" : "+45.575731"
+	},
+	{
+		"Longitude" : "-069.538257",
+		"Zipcode" : "04926",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENNEBEC",
+		"City" : "CHINA VILLAGE",
+		"State" : "ME",
+		"Latitude" : "+44.391167"
+	},
+	{
+		"Longitude" : "-069.512609",
+		"Zipcode" : "04927",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "CLINTON",
+		"State" : "ME",
+		"Latitude" : "+44.621084"
+	},
+	{
+		"Longitude" : "-069.228736",
+		"Zipcode" : "04928",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "CORINNA",
+		"State" : "ME",
+		"Latitude" : "+44.944157"
+	},
+	{
+		"Longitude" : "-069.322662",
+		"Zipcode" : "04929",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "DETROIT",
+		"State" : "ME",
+		"Latitude" : "+44.761527"
+	},
+	{
+		"Longitude" : "-069.203773",
+		"Zipcode" : "04930",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "DEXTER",
+		"State" : "ME",
+		"Latitude" : "+44.964532"
+	},
+	{
+		"Longitude" : "-069.121648",
+		"Zipcode" : "04932",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "DIXMONT",
+		"State" : "ME",
+		"Latitude" : "+44.681900"
+	},
+	{
+		"Longitude" : "-068.647416",
+		"Zipcode" : "04933",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PENOBSCOT",
+		"City" : "EAST NEWPORT",
+		"State" : "ME",
+		"Latitude" : "+45.519867"
+	},
+	{
+		"Longitude" : "-069.751913",
+		"Zipcode" : "04935",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENNEBEC",
+		"City" : "EAST VASSALBORO",
+		"State" : "ME",
+		"Latitude" : "+44.414056"
+	},
+	{
+		"Longitude" : "-070.381639",
+		"Zipcode" : "04936",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "EUSTIS",
+		"State" : "ME",
+		"Latitude" : "+45.063384"
+	},
+	{
+		"Longitude" : "-069.680158",
+		"Zipcode" : "04937",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "FAIRFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.646261"
+	},
+	{
+		"Longitude" : "-070.129267",
+		"Zipcode" : "04938",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FARMINGTON",
+		"State" : "ME",
+		"Latitude" : "+44.650311"
+	},
+	{
+		"Longitude" : "-069.156965",
+		"Zipcode" : "04939",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "GARLAND",
+		"State" : "ME",
+		"Latitude" : "+45.014913"
+	},
+	{
+		"Longitude" : "-070.075178",
+		"Zipcode" : "04940",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "FARMINGTON FALLS",
+		"State" : "ME",
+		"Latitude" : "+44.622563"
+	},
+	{
+		"Longitude" : "-069.339221",
+		"Zipcode" : "04941",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "FREEDOM",
+		"State" : "ME",
+		"Latitude" : "+44.488583"
+	},
+	{
+		"Longitude" : "-069.548148",
+		"Zipcode" : "04942",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "HARMONY",
+		"State" : "ME",
+		"Latitude" : "+44.973047"
+	},
+	{
+		"Longitude" : "-069.464092",
+		"Zipcode" : "04943",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "HARTLAND",
+		"State" : "ME",
+		"Latitude" : "+44.896404"
+	},
+	{
+		"Longitude" : "-069.642500",
+		"Zipcode" : "04944",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "HINCKLEY",
+		"State" : "ME",
+		"Latitude" : "+44.684737"
+	},
+	{
+		"Longitude" : "-069.452187",
+		"Zipcode" : "04945",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "JACKMAN",
+		"State" : "ME",
+		"Latitude" : "+44.883675"
+	},
+	{
+		"Longitude" : "-070.381639",
+		"Zipcode" : "04947",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "KINGFIELD",
+		"State" : "ME",
+		"Latitude" : "+45.063384"
+	},
+	{
+		"Longitude" : "-069.155550",
+		"Zipcode" : "04949",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "LIBERTY",
+		"State" : "ME",
+		"Latitude" : "+44.371549"
+	},
+	{
+		"Longitude" : "-069.805662",
+		"Zipcode" : "04950",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "MADISON",
+		"State" : "ME",
+		"Latitude" : "+44.786404"
+	},
+	{
+		"Longitude" : "-069.149559",
+		"Zipcode" : "04951",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "MONROE",
+		"State" : "ME",
+		"Latitude" : "+44.478694"
+	},
+	{
+		"Longitude" : "-069.142182",
+		"Zipcode" : "04952",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "MORRILL",
+		"State" : "ME",
+		"Latitude" : "+44.397850"
+	},
+	{
+		"Longitude" : "-069.266827",
+		"Zipcode" : "04953",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "NEWPORT",
+		"State" : "ME",
+		"Latitude" : "+44.863406"
+	},
+	{
+		"Longitude" : "-069.909773",
+		"Zipcode" : "04954",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "NEW PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+45.575731"
+	},
+	{
+		"Longitude" : "-070.010292",
+		"Zipcode" : "04955",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "NEW SHARON",
+		"State" : "ME",
+		"Latitude" : "+44.603630"
+	},
+	{
+		"Longitude" : "-070.183554",
+		"Zipcode" : "04956",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "NEW VINEYARD",
+		"State" : "ME",
+		"Latitude" : "+44.952578"
+	},
+	{
+		"Longitude" : "-069.818804",
+		"Zipcode" : "04957",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "NORRIDGEWOCK",
+		"State" : "ME",
+		"Latitude" : "+44.707468"
+	},
+	{
+		"Longitude" : "-069.946593",
+		"Zipcode" : "04958",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "NORTH ANSON",
+		"State" : "ME",
+		"Latitude" : "+44.801900"
+	},
+	{
+		"Longitude" : "-069.909773",
+		"Zipcode" : "04961",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "NORTH NEW PORTLAND",
+		"State" : "ME",
+		"Latitude" : "+45.575731"
+	},
+	{
+		"Longitude" : "-069.622006",
+		"Zipcode" : "04962",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "NORTH VASSALBORO",
+		"State" : "ME",
+		"Latitude" : "+44.479288"
+	},
+	{
+		"Longitude" : "-069.826495",
+		"Zipcode" : "04963",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "OAKLAND",
+		"State" : "ME",
+		"Latitude" : "+44.557111"
+	},
+	{
+		"Longitude" : "-070.381639",
+		"Zipcode" : "04964",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "OQUOSSOC",
+		"State" : "ME",
+		"Latitude" : "+45.063384"
+	},
+	{
+		"Longitude" : "-069.537715",
+		"Zipcode" : "04965",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "PALMYRA",
+		"State" : "ME",
+		"Latitude" : "+44.802655"
+	},
+	{
+		"Longitude" : "-070.381639",
+		"Zipcode" : "04966",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "PHILLIPS",
+		"State" : "ME",
+		"Latitude" : "+45.063384"
+	},
+	{
+		"Longitude" : "-069.387705",
+		"Zipcode" : "04967",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "PITTSFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.760948"
+	},
+	{
+		"Longitude" : "-069.247539",
+		"Zipcode" : "04969",
+		"ZipClass" : "STANDARD",
+		"County" : "PENOBSCOT",
+		"City" : "PLYMOUTH",
+		"State" : "ME",
+		"Latitude" : "+44.772503"
+	},
+	{
+		"Longitude" : "-070.660181",
+		"Zipcode" : "04970",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "RANGELEY",
+		"State" : "ME",
+		"Latitude" : "+44.985998"
+	},
+	{
+		"Longitude" : "-069.403011",
+		"Zipcode" : "04971",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SAINT ALBANS",
+		"State" : "ME",
+		"Latitude" : "+44.931830"
+	},
+	{
+		"Longitude" : "-069.149559",
+		"Zipcode" : "04972",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALDO",
+		"City" : "SANDY POINT",
+		"State" : "ME",
+		"Latitude" : "+44.478694"
+	},
+	{
+		"Longitude" : "-069.215906",
+		"Zipcode" : "04973",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "SEARSMONT",
+		"State" : "ME",
+		"Latitude" : "+44.357201"
+	},
+	{
+		"Longitude" : "-068.933051",
+		"Zipcode" : "04974",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "SEARSPORT",
+		"State" : "ME",
+		"Latitude" : "+44.489412"
+	},
+	{
+		"Longitude" : "-069.586852",
+		"Zipcode" : "04975",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "SHAWMUT",
+		"State" : "ME",
+		"Latitude" : "+44.624515"
+	},
+	{
+		"Longitude" : "-069.593975",
+		"Zipcode" : "04976",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SKOWHEGAN",
+		"State" : "ME",
+		"Latitude" : "+44.769303"
+	},
+	{
+		"Longitude" : "-069.770923",
+		"Zipcode" : "04978",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SMITHFIELD",
+		"State" : "ME",
+		"Latitude" : "+44.621110"
+	},
+	{
+		"Longitude" : "-069.834764",
+		"Zipcode" : "04979",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SOLON",
+		"State" : "ME",
+		"Latitude" : "+44.931415"
+	},
+	{
+		"Longitude" : "-068.891743",
+		"Zipcode" : "04981",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "STOCKTON SPRINGS",
+		"State" : "ME",
+		"Latitude" : "+44.501114"
+	},
+	{
+		"Longitude" : "-070.381639",
+		"Zipcode" : "04982",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "STRATTON",
+		"State" : "ME",
+		"Latitude" : "+45.063384"
+	},
+	{
+		"Longitude" : "-070.187221",
+		"Zipcode" : "04983",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "STRONG",
+		"State" : "ME",
+		"Latitude" : "+44.814175"
+	},
+	{
+		"Longitude" : "-070.196855",
+		"Zipcode" : "04984",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "TEMPLE",
+		"State" : "ME",
+		"Latitude" : "+44.670079"
+	},
+	{
+		"Longitude" : "-069.909773",
+		"Zipcode" : "04985",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "WEST FORKS",
+		"State" : "ME",
+		"Latitude" : "+45.575731"
+	},
+	{
+		"Longitude" : "-069.183929",
+		"Zipcode" : "04986",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "THORNDIKE",
+		"State" : "ME",
+		"Latitude" : "+44.513048"
+	},
+	{
+		"Longitude" : "-069.149559",
+		"Zipcode" : "04987",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "TROY",
+		"State" : "ME",
+		"Latitude" : "+44.478694"
+	},
+	{
+		"Longitude" : "-069.357191",
+		"Zipcode" : "04988",
+		"ZipClass" : "STANDARD",
+		"County" : "WALDO",
+		"City" : "UNITY",
+		"State" : "ME",
+		"Latitude" : "+44.601175"
+	},
+	{
+		"Longitude" : "-069.635908",
+		"Zipcode" : "04989",
+		"ZipClass" : "STANDARD",
+		"County" : "KENNEBEC",
+		"City" : "VASSALBORO",
+		"State" : "ME",
+		"Latitude" : "+44.427757"
+	},
+	{
+		"Longitude" : "-070.153049",
+		"Zipcode" : "04992",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "WEST FARMINGTON",
+		"State" : "ME",
+		"Latitude" : "+44.662822"
+	}
+]}

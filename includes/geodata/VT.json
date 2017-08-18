@@ -1,0 +1,2775 @@
+{
+	"result":[
+	{
+		"Longitude" : "-072.463589",
+		"Zipcode" : "05001",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "WHITE RIVER JUNCTION",
+		"State" : "VT",
+		"Latitude" : "+43.591821"
+	},
+	{
+		"Longitude" : "-072.588407",
+		"Zipcode" : "05009",
+		"ZipClass" : "UNIQUE",
+		"County" : "WINDSOR",
+		"City" : "WHITE RIVER JUNCTION",
+		"State" : "VT",
+		"Latitude" : "+43.592039"
+	},
+	{
+		"Longitude" : "-072.429777",
+		"Zipcode" : "05030",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDSOR",
+		"City" : "ASCUTNEY",
+		"State" : "VT",
+		"Latitude" : "+43.410672"
+	},
+	{
+		"Longitude" : "-072.545860",
+		"Zipcode" : "05031",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDSOR",
+		"City" : "BARNARD",
+		"State" : "VT",
+		"Latitude" : "+43.657625"
+	},
+	{
+		"Longitude" : "-072.688169",
+		"Zipcode" : "05032",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "BETHEL",
+		"State" : "VT",
+		"Latitude" : "+43.758758"
+	},
+	{
+		"Longitude" : "-072.158450",
+		"Zipcode" : "05033",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "BRADFORD",
+		"State" : "VT",
+		"Latitude" : "+44.004691"
+	},
+	{
+		"Longitude" : "-072.621578",
+		"Zipcode" : "05034",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "BRIDGEWATER",
+		"State" : "VT",
+		"Latitude" : "+43.592527"
+	},
+	{
+		"Longitude" : "-072.675164",
+		"Zipcode" : "05035",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "BRIDGEWATER CORNERS",
+		"State" : "VT",
+		"Latitude" : "+43.599795"
+	},
+	{
+		"Longitude" : "-072.577365",
+		"Zipcode" : "05036",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "BROOKFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.017782"
+	},
+	{
+		"Longitude" : "-072.488285",
+		"Zipcode" : "05037",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "BROWNSVILLE",
+		"State" : "VT",
+		"Latitude" : "+43.467179"
+	},
+	{
+		"Longitude" : "-072.457153",
+		"Zipcode" : "05038",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "CHELSEA",
+		"State" : "VT",
+		"Latitude" : "+43.994212"
+	},
+	{
+		"Longitude" : "-072.293631",
+		"Zipcode" : "05039",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "CORINTH",
+		"State" : "VT",
+		"Latitude" : "+44.033236"
+	},
+	{
+		"Longitude" : "-072.210962",
+		"Zipcode" : "05040",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "EAST CORINTH",
+		"State" : "VT",
+		"Latitude" : "+44.077918"
+	},
+	{
+		"Longitude" : "-072.411393",
+		"Zipcode" : "05041",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "EAST RANDOLPH",
+		"State" : "VT",
+		"Latitude" : "+43.995961"
+	},
+	{
+		"Longitude" : "-072.086586",
+		"Zipcode" : "05042",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "EAST RYEGATE",
+		"State" : "VT",
+		"Latitude" : "+44.359629"
+	},
+	{
+		"Longitude" : "-072.214693",
+		"Zipcode" : "05043",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "EAST THETFORD",
+		"State" : "VT",
+		"Latitude" : "+43.807282"
+	},
+	{
+		"Longitude" : "-072.196635",
+		"Zipcode" : "05045",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "FAIRLEE",
+		"State" : "VT",
+		"Latitude" : "+43.928681"
+	},
+	{
+		"Longitude" : "-072.207573",
+		"Zipcode" : "05046",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "GROTON",
+		"State" : "VT",
+		"Latitude" : "+44.281506"
+	},
+	{
+		"Longitude" : "-072.355539",
+		"Zipcode" : "05047",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDSOR",
+		"City" : "HARTFORD",
+		"State" : "VT",
+		"Latitude" : "+43.672103"
+	},
+	{
+		"Longitude" : "-072.402698",
+		"Zipcode" : "05048",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "HARTLAND",
+		"State" : "VT",
+		"Latitude" : "+43.573379"
+	},
+	{
+		"Longitude" : "-072.588407",
+		"Zipcode" : "05049",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDSOR",
+		"City" : "HARTLAND FOUR CORNERS",
+		"State" : "VT",
+		"Latitude" : "+43.592039"
+	},
+	{
+		"Longitude" : "-072.135804",
+		"Zipcode" : "05050",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALEDONIA",
+		"City" : "MC INDOE FALLS",
+		"State" : "VT",
+		"Latitude" : "+44.462390"
+	},
+	{
+		"Longitude" : "-072.118739",
+		"Zipcode" : "05051",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "NEWBURY",
+		"State" : "VT",
+		"Latitude" : "+44.068284"
+	},
+	{
+		"Longitude" : "-072.349030",
+		"Zipcode" : "05052",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "NORTH HARTLAND",
+		"State" : "VT",
+		"Latitude" : "+43.591324"
+	},
+	{
+		"Longitude" : "-072.511882",
+		"Zipcode" : "05053",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "NORTH POMFRET",
+		"State" : "VT",
+		"Latitude" : "+43.709919"
+	},
+	{
+		"Longitude" : "-072.411393",
+		"Zipcode" : "05054",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ORANGE",
+		"City" : "NORTH THETFORD",
+		"State" : "VT",
+		"Latitude" : "+43.995961"
+	},
+	{
+		"Longitude" : "-072.361200",
+		"Zipcode" : "05055",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "NORWICH",
+		"State" : "VT",
+		"Latitude" : "+43.717918"
+	},
+	{
+		"Longitude" : "-072.724848",
+		"Zipcode" : "05056",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "PLYMOUTH",
+		"State" : "VT",
+		"Latitude" : "+43.526289"
+	},
+	{
+		"Longitude" : "-072.411393",
+		"Zipcode" : "05058",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "POST MILLS",
+		"State" : "VT",
+		"Latitude" : "+43.995961"
+	},
+	{
+		"Longitude" : "-072.433116",
+		"Zipcode" : "05059",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDSOR",
+		"City" : "QUECHEE",
+		"State" : "VT",
+		"Latitude" : "+43.664059"
+	},
+	{
+		"Longitude" : "-072.694098",
+		"Zipcode" : "05060",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "RANDOLPH",
+		"State" : "VT",
+		"Latitude" : "+43.985803"
+	},
+	{
+		"Longitude" : "-072.569113",
+		"Zipcode" : "05061",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "RANDOLPH CENTER",
+		"State" : "VT",
+		"Latitude" : "+43.928552"
+	},
+	{
+		"Longitude" : "-072.572818",
+		"Zipcode" : "05062",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "READING",
+		"State" : "VT",
+		"Latitude" : "+43.475590"
+	},
+	{
+		"Longitude" : "-072.407132",
+		"Zipcode" : "05065",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "SHARON",
+		"State" : "VT",
+		"Latitude" : "+43.777365"
+	},
+	{
+		"Longitude" : "-072.508042",
+		"Zipcode" : "05067",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "SOUTH POMFRET",
+		"State" : "VT",
+		"Latitude" : "+43.697055"
+	},
+	{
+		"Longitude" : "-072.528249",
+		"Zipcode" : "05068",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "SOUTH ROYALTON",
+		"State" : "VT",
+		"Latitude" : "+43.777096"
+	},
+	{
+		"Longitude" : "-072.110362",
+		"Zipcode" : "05069",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "SOUTH RYEGATE",
+		"State" : "VT",
+		"Latitude" : "+44.197790"
+	},
+	{
+		"Longitude" : "-072.378546",
+		"Zipcode" : "05070",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "SOUTH STRAFFORD",
+		"State" : "VT",
+		"Latitude" : "+43.844018"
+	},
+	{
+		"Longitude" : "-072.534106",
+		"Zipcode" : "05071",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "SOUTH WOODSTOCK",
+		"State" : "VT",
+		"Latitude" : "+43.565888"
+	},
+	{
+		"Longitude" : "-072.369563",
+		"Zipcode" : "05072",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "STRAFFORD",
+		"State" : "VT",
+		"Latitude" : "+43.892586"
+	},
+	{
+		"Longitude" : "-072.489080",
+		"Zipcode" : "05073",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "TAFTSVILLE",
+		"State" : "VT",
+		"Latitude" : "+43.630897"
+	},
+	{
+		"Longitude" : "-072.411393",
+		"Zipcode" : "05074",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ORANGE",
+		"City" : "THETFORD",
+		"State" : "VT",
+		"Latitude" : "+43.995961"
+	},
+	{
+		"Longitude" : "-072.254614",
+		"Zipcode" : "05075",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "THETFORD CENTER",
+		"State" : "VT",
+		"Latitude" : "+43.854018"
+	},
+	{
+		"Longitude" : "-072.411393",
+		"Zipcode" : "05076",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "EAST CORINTH",
+		"State" : "VT",
+		"Latitude" : "+43.995961"
+	},
+	{
+		"Longitude" : "-072.473372",
+		"Zipcode" : "05077",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "TUNBRIDGE",
+		"State" : "VT",
+		"Latitude" : "+43.895465"
+	},
+	{
+		"Longitude" : "-072.311252",
+		"Zipcode" : "05079",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "VERSHIRE",
+		"State" : "VT",
+		"Latitude" : "+43.952586"
+	},
+	{
+		"Longitude" : "-072.088869",
+		"Zipcode" : "05081",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "WELLS RIVER",
+		"State" : "VT",
+		"Latitude" : "+44.119395"
+	},
+	{
+		"Longitude" : "-072.411393",
+		"Zipcode" : "05083",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "WEST FAIRLEE",
+		"State" : "VT",
+		"Latitude" : "+43.995961"
+	},
+	{
+		"Longitude" : "-072.443862",
+		"Zipcode" : "05084",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "WEST HARTFORD",
+		"State" : "VT",
+		"Latitude" : "+43.718535"
+	},
+	{
+		"Longitude" : "-072.411393",
+		"Zipcode" : "05085",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ORANGE",
+		"City" : "WEST NEWBURY",
+		"State" : "VT",
+		"Latitude" : "+43.995961"
+	},
+	{
+		"Longitude" : "-072.317918",
+		"Zipcode" : "05086",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "WEST TOPSHAM",
+		"State" : "VT",
+		"Latitude" : "+44.115326"
+	},
+	{
+		"Longitude" : "-072.311960",
+		"Zipcode" : "05088",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDSOR",
+		"City" : "WILDER",
+		"State" : "VT",
+		"Latitude" : "+43.673484"
+	},
+	{
+		"Longitude" : "-072.418059",
+		"Zipcode" : "05089",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "WINDSOR",
+		"State" : "VT",
+		"Latitude" : "+43.518100"
+	},
+	{
+		"Longitude" : "-072.512835",
+		"Zipcode" : "05091",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "WOODSTOCK",
+		"State" : "VT",
+		"Latitude" : "+43.631348"
+	},
+	{
+		"Longitude" : "-072.623106",
+		"Zipcode" : "05101",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "BELLOWS FALLS",
+		"State" : "VT",
+		"Latitude" : "+43.171185"
+	},
+	{
+		"Longitude" : "-072.720362",
+		"Zipcode" : "05141",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "CAMBRIDGEPORT",
+		"State" : "VT",
+		"Latitude" : "+42.994670"
+	},
+	{
+		"Longitude" : "-072.583854",
+		"Zipcode" : "05142",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "CAVENDISH",
+		"State" : "VT",
+		"Latitude" : "+43.402135"
+	},
+	{
+		"Longitude" : "-072.667167",
+		"Zipcode" : "05143",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "CHESTER",
+		"State" : "VT",
+		"Latitude" : "+43.298315"
+	},
+	{
+		"Longitude" : "-072.588407",
+		"Zipcode" : "05144",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "CHESTER DEPOT",
+		"State" : "VT",
+		"Latitude" : "+43.592039"
+	},
+	{
+		"Longitude" : "-072.605636",
+		"Zipcode" : "05146",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "GRAFTON",
+		"State" : "VT",
+		"Latitude" : "+43.179936"
+	},
+	{
+		"Longitude" : "-072.787995",
+		"Zipcode" : "05148",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "LONDONDERRY",
+		"State" : "VT",
+		"Latitude" : "+43.228101"
+	},
+	{
+		"Longitude" : "-072.706913",
+		"Zipcode" : "05149",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "LUDLOW",
+		"State" : "VT",
+		"Latitude" : "+43.376744"
+	},
+	{
+		"Longitude" : "-072.527652",
+		"Zipcode" : "05150",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "NORTH SPRINGFIELD",
+		"State" : "VT",
+		"Latitude" : "+43.338030"
+	},
+	{
+		"Longitude" : "-072.495851",
+		"Zipcode" : "05151",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "PERKINSVILLE",
+		"State" : "VT",
+		"Latitude" : "+43.409654"
+	},
+	{
+		"Longitude" : "-073.034944",
+		"Zipcode" : "05152",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "PERU",
+		"State" : "VT",
+		"Latitude" : "+43.098930"
+	},
+	{
+		"Longitude" : "-072.620659",
+		"Zipcode" : "05153",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "PROCTORSVILLE",
+		"State" : "VT",
+		"Latitude" : "+43.439854"
+	},
+	{
+		"Longitude" : "-072.531940",
+		"Zipcode" : "05154",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "SAXTONS RIVER",
+		"State" : "VT",
+		"Latitude" : "+43.164738"
+	},
+	{
+		"Longitude" : "-072.851525",
+		"Zipcode" : "05155",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "SOUTH LONDONDERRY",
+		"State" : "VT",
+		"Latitude" : "+43.169854"
+	},
+	{
+		"Longitude" : "-072.586064",
+		"Zipcode" : "05156",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "SPRINGFIELD",
+		"State" : "VT",
+		"Latitude" : "+43.409710"
+	},
+	{
+		"Longitude" : "-072.474882",
+		"Zipcode" : "05158",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WESTMINSTER",
+		"State" : "VT",
+		"Latitude" : "+43.082635"
+	},
+	{
+		"Longitude" : "-072.456492",
+		"Zipcode" : "05159",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "WESTMINSTER STATION",
+		"State" : "VT",
+		"Latitude" : "+43.093972"
+	},
+	{
+		"Longitude" : "-072.739715",
+		"Zipcode" : "05161",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "WESTON",
+		"State" : "VT",
+		"Latitude" : "+43.316142"
+	},
+	{
+		"Longitude" : "-073.105382",
+		"Zipcode" : "05201",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "BENNINGTON",
+		"State" : "VT",
+		"Latitude" : "+42.934076"
+	},
+	{
+		"Longitude" : "-073.134727",
+		"Zipcode" : "05250",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "ARLINGTON",
+		"State" : "VT",
+		"Latitude" : "+43.065719"
+	},
+	{
+		"Longitude" : "-073.139173",
+		"Zipcode" : "05251",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "DORSET",
+		"State" : "VT",
+		"Latitude" : "+43.261817"
+	},
+	{
+		"Longitude" : "-073.165898",
+		"Zipcode" : "05252",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "EAST ARLINGTON",
+		"State" : "VT",
+		"Latitude" : "+43.069409"
+	},
+	{
+		"Longitude" : "-073.065443",
+		"Zipcode" : "05253",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "EAST DORSET",
+		"State" : "VT",
+		"Latitude" : "+43.182502"
+	},
+	{
+		"Longitude" : "-073.045787",
+		"Zipcode" : "05254",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENNINGTON",
+		"City" : "MANCHESTER",
+		"State" : "VT",
+		"Latitude" : "+43.177204"
+	},
+	{
+		"Longitude" : "-073.047358",
+		"Zipcode" : "05255",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "MANCHESTER CENTER",
+		"State" : "VT",
+		"Latitude" : "+43.169289"
+	},
+	{
+		"Longitude" : "-073.250529",
+		"Zipcode" : "05257",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "NORTH BENNINGTON",
+		"State" : "VT",
+		"Latitude" : "+42.966471"
+	},
+	{
+		"Longitude" : "-073.262496",
+		"Zipcode" : "05260",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "NORTH POWNAL",
+		"State" : "VT",
+		"Latitude" : "+42.829469"
+	},
+	{
+		"Longitude" : "-073.201254",
+		"Zipcode" : "05261",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "POWNAL",
+		"State" : "VT",
+		"Latitude" : "+42.790682"
+	},
+	{
+		"Longitude" : "-073.192929",
+		"Zipcode" : "05262",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "SHAFTSBURY",
+		"State" : "VT",
+		"Latitude" : "+42.979702"
+	},
+	{
+		"Longitude" : "-072.760753",
+		"Zipcode" : "05301",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "BRATTLEBORO",
+		"State" : "VT",
+		"Latitude" : "+42.884281"
+	},
+	{
+		"Longitude" : "-072.720362",
+		"Zipcode" : "05302",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "BRATTLEBORO",
+		"State" : "VT",
+		"Latitude" : "+42.994670"
+	},
+	{
+		"Longitude" : "-072.720362",
+		"Zipcode" : "05303",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "BRATTLEBORO",
+		"State" : "VT",
+		"Latitude" : "+42.994670"
+	},
+	{
+		"Longitude" : "-072.720362",
+		"Zipcode" : "05304",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "BRATTLEBORO",
+		"State" : "VT",
+		"Latitude" : "+42.994670"
+	},
+	{
+		"Longitude" : "-072.915140",
+		"Zipcode" : "05340",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "BONDVILLE",
+		"State" : "VT",
+		"Latitude" : "+43.164090"
+	},
+	{
+		"Longitude" : "-072.812012",
+		"Zipcode" : "05341",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "EAST DOVER",
+		"State" : "VT",
+		"Latitude" : "+42.968046"
+	},
+	{
+		"Longitude" : "-072.817838",
+		"Zipcode" : "05342",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "JACKSONVILLE",
+		"State" : "VT",
+		"Latitude" : "+42.795363"
+	},
+	{
+		"Longitude" : "-072.767275",
+		"Zipcode" : "05343",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "JAMAICA",
+		"State" : "VT",
+		"Latitude" : "+43.012776"
+	},
+	{
+		"Longitude" : "-072.720362",
+		"Zipcode" : "05344",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "MARLBORO",
+		"State" : "VT",
+		"Latitude" : "+42.994670"
+	},
+	{
+		"Longitude" : "-072.678725",
+		"Zipcode" : "05345",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "NEWFANE",
+		"State" : "VT",
+		"Latitude" : "+43.013138"
+	},
+	{
+		"Longitude" : "-072.534025",
+		"Zipcode" : "05346",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "PUTNEY",
+		"State" : "VT",
+		"Latitude" : "+43.016096"
+	},
+	{
+		"Longitude" : "-072.971932",
+		"Zipcode" : "05350",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "READSBORO",
+		"State" : "VT",
+		"Latitude" : "+42.785591"
+	},
+	{
+		"Longitude" : "-072.729230",
+		"Zipcode" : "05351",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "SOUTH NEWFANE",
+		"State" : "VT",
+		"Latitude" : "+42.939071"
+	},
+	{
+		"Longitude" : "-073.067501",
+		"Zipcode" : "05352",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "STAMFORD",
+		"State" : "VT",
+		"Latitude" : "+42.782616"
+	},
+	{
+		"Longitude" : "-072.672991",
+		"Zipcode" : "05353",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "TOWNSHEND",
+		"State" : "VT",
+		"Latitude" : "+43.070341"
+	},
+	{
+		"Longitude" : "-072.520166",
+		"Zipcode" : "05354",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "VERNON",
+		"State" : "VT",
+		"Latitude" : "+42.773711"
+	},
+	{
+		"Longitude" : "-072.792004",
+		"Zipcode" : "05355",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WARDSBORO",
+		"State" : "VT",
+		"Latitude" : "+43.004760"
+	},
+	{
+		"Longitude" : "-072.793787",
+		"Zipcode" : "05356",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WEST DOVER",
+		"State" : "VT",
+		"Latitude" : "+43.013041"
+	},
+	{
+		"Longitude" : "-072.624080",
+		"Zipcode" : "05357",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "WEST DUMMERSTON",
+		"State" : "VT",
+		"Latitude" : "+42.957233"
+	},
+	{
+		"Longitude" : "-072.745723",
+		"Zipcode" : "05358",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WEST HALIFAX",
+		"State" : "VT",
+		"Latitude" : "+42.766519"
+	},
+	{
+		"Longitude" : "-072.714573",
+		"Zipcode" : "05359",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WEST TOWNSHEND",
+		"State" : "VT",
+		"Latitude" : "+43.133864"
+	},
+	{
+		"Longitude" : "-072.825636",
+		"Zipcode" : "05360",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WEST WARDSBORO",
+		"State" : "VT",
+		"Latitude" : "+43.050937"
+	},
+	{
+		"Longitude" : "-072.867891",
+		"Zipcode" : "05361",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WHITINGHAM",
+		"State" : "VT",
+		"Latitude" : "+42.783180"
+	},
+	{
+		"Longitude" : "-072.673566",
+		"Zipcode" : "05362",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WILLIAMSVILLE",
+		"State" : "VT",
+		"Latitude" : "+42.975027"
+	},
+	{
+		"Longitude" : "-072.727518",
+		"Zipcode" : "05363",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WILMINGTON",
+		"State" : "VT",
+		"Latitude" : "+42.944039"
+	},
+	{
+		"Longitude" : "-073.151384",
+		"Zipcode" : "05401",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "BURLINGTON",
+		"State" : "VT",
+		"Latitude" : "+44.507404"
+	},
+	{
+		"Longitude" : "-073.082525",
+		"Zipcode" : "05402",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "BURLINGTON",
+		"State" : "VT",
+		"Latitude" : "+44.442117"
+	},
+	{
+		"Longitude" : "-073.098238",
+		"Zipcode" : "05403",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "SOUTH BURLINGTON",
+		"State" : "VT",
+		"Latitude" : "+44.448119"
+	},
+	{
+		"Longitude" : "-073.182158",
+		"Zipcode" : "05404",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "WINOOSKI",
+		"State" : "VT",
+		"Latitude" : "+44.498032"
+	},
+	{
+		"Longitude" : "-073.082525",
+		"Zipcode" : "05405",
+		"ZipClass" : "UNIQUE",
+		"County" : "CHITTENDEN",
+		"City" : "BURLINGTON",
+		"State" : "VT",
+		"Latitude" : "+44.442117"
+	},
+	{
+		"Longitude" : "-073.082525",
+		"Zipcode" : "05406",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "BURLINGTON",
+		"State" : "VT",
+		"Latitude" : "+44.442117"
+	},
+	{
+		"Longitude" : "-073.082525",
+		"Zipcode" : "05407",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "SOUTH BURLINGTON",
+		"State" : "VT",
+		"Latitude" : "+44.442117"
+	},
+	{
+		"Longitude" : "-073.165092",
+		"Zipcode" : "05439",
+		"ZipClass" : "UNIQUE",
+		"County" : "CHITTENDEN",
+		"City" : "COLCHESTER",
+		"State" : "VT",
+		"Latitude" : "+44.495180"
+	},
+	{
+		"Longitude" : "-073.289065",
+		"Zipcode" : "05440",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND ISLE",
+		"City" : "ALBURG",
+		"State" : "VT",
+		"Latitude" : "+44.936060"
+	},
+	{
+		"Longitude" : "-072.921690",
+		"Zipcode" : "05441",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BAKERSFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.836967"
+	},
+	{
+		"Longitude" : "-072.701554",
+		"Zipcode" : "05442",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "BELVIDERE CENTER",
+		"State" : "VT",
+		"Latitude" : "+44.724842"
+	},
+	{
+		"Longitude" : "-073.071813",
+		"Zipcode" : "05443",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "BRISTOL",
+		"State" : "VT",
+		"Latitude" : "+44.157814"
+	},
+	{
+		"Longitude" : "-072.881162",
+		"Zipcode" : "05444",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "CAMBRIDGE",
+		"State" : "VT",
+		"Latitude" : "+44.622180"
+	},
+	{
+		"Longitude" : "-073.226034",
+		"Zipcode" : "05445",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "CHARLOTTE",
+		"State" : "VT",
+		"Latitude" : "+44.316580"
+	},
+	{
+		"Longitude" : "-073.103897",
+		"Zipcode" : "05446",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "COLCHESTER",
+		"State" : "VT",
+		"Latitude" : "+44.535557"
+	},
+	{
+		"Longitude" : "-072.895849",
+		"Zipcode" : "05447",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "EAST BERKSHIRE",
+		"State" : "VT",
+		"Latitude" : "+44.824855"
+	},
+	{
+		"Longitude" : "-072.882683",
+		"Zipcode" : "05448",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "EAST FAIRFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.741186"
+	},
+	{
+		"Longitude" : "-073.082525",
+		"Zipcode" : "05449",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "COLCHESTER",
+		"State" : "VT",
+		"Latitude" : "+44.442117"
+	},
+	{
+		"Longitude" : "-072.782425",
+		"Zipcode" : "05450",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ENOSBURG FALLS",
+		"State" : "VT",
+		"Latitude" : "+44.902044"
+	},
+	{
+		"Longitude" : "-073.050271",
+		"Zipcode" : "05451",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "ESSEX",
+		"State" : "VT",
+		"Latitude" : "+44.508350"
+	},
+	{
+		"Longitude" : "-073.025271",
+		"Zipcode" : "05452",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "ESSEX JUNCTION",
+		"State" : "VT",
+		"Latitude" : "+44.485558"
+	},
+	{
+		"Longitude" : "-073.082525",
+		"Zipcode" : "05453",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "ESSEX JUNCTION",
+		"State" : "VT",
+		"Latitude" : "+44.442117"
+	},
+	{
+		"Longitude" : "-072.953478",
+		"Zipcode" : "05454",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FAIRFAX",
+		"State" : "VT",
+		"Latitude" : "+44.733486"
+	},
+	{
+		"Longitude" : "-072.969743",
+		"Zipcode" : "05455",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FAIRFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.816159"
+	},
+	{
+		"Longitude" : "-073.256629",
+		"Zipcode" : "05456",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "FERRISBURG",
+		"State" : "VT",
+		"Latitude" : "+44.210886"
+	},
+	{
+		"Longitude" : "-072.913261",
+		"Zipcode" : "05457",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FRANKLIN",
+		"State" : "VT",
+		"Latitude" : "+44.960380"
+	},
+	{
+		"Longitude" : "-073.303193",
+		"Zipcode" : "05458",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND ISLE",
+		"City" : "GRAND ISLE",
+		"State" : "VT",
+		"Latitude" : "+44.723391"
+	},
+	{
+		"Longitude" : "-073.033062",
+		"Zipcode" : "05459",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "HIGHGATE CENTER",
+		"State" : "VT",
+		"Latitude" : "+44.962395"
+	},
+	{
+		"Longitude" : "-073.105205",
+		"Zipcode" : "05460",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "HIGHGATE SPRINGS",
+		"State" : "VT",
+		"Latitude" : "+44.974765"
+	},
+	{
+		"Longitude" : "-073.067858",
+		"Zipcode" : "05461",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "HINESBURG",
+		"State" : "VT",
+		"Latitude" : "+44.455300"
+	},
+	{
+		"Longitude" : "-073.006184",
+		"Zipcode" : "05462",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "HUNTINGTON",
+		"State" : "VT",
+		"Latitude" : "+44.318091"
+	},
+	{
+		"Longitude" : "-073.338597",
+		"Zipcode" : "05463",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND ISLE",
+		"City" : "ISLE LA MOTTE",
+		"State" : "VT",
+		"Latitude" : "+44.878094"
+	},
+	{
+		"Longitude" : "-072.821990",
+		"Zipcode" : "05464",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "JEFFERSONVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.638789"
+	},
+	{
+		"Longitude" : "-072.955175",
+		"Zipcode" : "05465",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "JERICHO",
+		"State" : "VT",
+		"Latitude" : "+44.458996"
+	},
+	{
+		"Longitude" : "-073.019801",
+		"Zipcode" : "05466",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHITTENDEN",
+		"City" : "JONESVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.362504"
+	},
+	{
+		"Longitude" : "-073.121685",
+		"Zipcode" : "05468",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "MILTON",
+		"State" : "VT",
+		"Latitude" : "+44.643418"
+	},
+	{
+		"Longitude" : "-073.134702",
+		"Zipcode" : "05469",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADDISON",
+		"City" : "MONKTON",
+		"State" : "VT",
+		"Latitude" : "+44.240375"
+	},
+	{
+		"Longitude" : "-072.895849",
+		"Zipcode" : "05470",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "MONTGOMERY",
+		"State" : "VT",
+		"Latitude" : "+44.824855"
+	},
+	{
+		"Longitude" : "-072.619812",
+		"Zipcode" : "05471",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "MONTGOMERY CENTER",
+		"State" : "VT",
+		"Latitude" : "+44.848241"
+	},
+	{
+		"Longitude" : "-073.197156",
+		"Zipcode" : "05472",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "NEW HAVEN",
+		"State" : "VT",
+		"Latitude" : "+44.149509"
+	},
+	{
+		"Longitude" : "-073.205939",
+		"Zipcode" : "05473",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "NORTH FERRISBURG",
+		"State" : "VT",
+		"Latitude" : "+44.239233"
+	},
+	{
+		"Longitude" : "-073.277846",
+		"Zipcode" : "05474",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND ISLE",
+		"City" : "NORTH HERO",
+		"State" : "VT",
+		"Latitude" : "+44.835274"
+	},
+	{
+		"Longitude" : "-072.654350",
+		"Zipcode" : "05476",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "RICHFORD",
+		"State" : "VT",
+		"Latitude" : "+44.952669"
+	},
+	{
+		"Longitude" : "-072.953283",
+		"Zipcode" : "05477",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "RICHMOND",
+		"State" : "VT",
+		"Latitude" : "+44.387289"
+	},
+	{
+		"Longitude" : "-072.908985",
+		"Zipcode" : "05478",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SAINT ALBANS",
+		"State" : "VT",
+		"Latitude" : "+44.779982"
+	},
+	{
+		"Longitude" : "-072.895849",
+		"Zipcode" : "05479",
+		"ZipClass" : "UNIQUE",
+		"County" : "FRANKLIN",
+		"City" : "SAINT ALBANS",
+		"State" : "VT",
+		"Latitude" : "+44.824855"
+	},
+	{
+		"Longitude" : "-072.895849",
+		"Zipcode" : "05481",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "SAINT ALBANS BAY",
+		"State" : "VT",
+		"Latitude" : "+44.824855"
+	},
+	{
+		"Longitude" : "-073.114047",
+		"Zipcode" : "05482",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "SHELBURNE",
+		"State" : "VT",
+		"Latitude" : "+44.424930"
+	},
+	{
+		"Longitude" : "-072.961075",
+		"Zipcode" : "05483",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SHELDON",
+		"State" : "VT",
+		"Latitude" : "+44.897751"
+	},
+	{
+		"Longitude" : "-072.963154",
+		"Zipcode" : "05485",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "SHELDON SPRINGS",
+		"State" : "VT",
+		"Latitude" : "+44.905573"
+	},
+	{
+		"Longitude" : "-073.306352",
+		"Zipcode" : "05486",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND ISLE",
+		"City" : "SOUTH HERO",
+		"State" : "VT",
+		"Latitude" : "+44.738156"
+	},
+	{
+		"Longitude" : "-073.020860",
+		"Zipcode" : "05487",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "STARKSBORO",
+		"State" : "VT",
+		"Latitude" : "+44.235203"
+	},
+	{
+		"Longitude" : "-072.948391",
+		"Zipcode" : "05488",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SWANTON",
+		"State" : "VT",
+		"Latitude" : "+44.902128"
+	},
+	{
+		"Longitude" : "-072.907209",
+		"Zipcode" : "05489",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "UNDERHILL",
+		"State" : "VT",
+		"Latitude" : "+44.565148"
+	},
+	{
+		"Longitude" : "-072.885253",
+		"Zipcode" : "05490",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHITTENDEN",
+		"City" : "UNDERHILL CENTER",
+		"State" : "VT",
+		"Latitude" : "+44.504656"
+	},
+	{
+		"Longitude" : "-073.260487",
+		"Zipcode" : "05491",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "VERGENNES",
+		"State" : "VT",
+		"Latitude" : "+44.145691"
+	},
+	{
+		"Longitude" : "-072.703199",
+		"Zipcode" : "05492",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "WATERVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.736083"
+	},
+	{
+		"Longitude" : "-073.025541",
+		"Zipcode" : "05494",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "WESTFORD",
+		"State" : "VT",
+		"Latitude" : "+44.569590"
+	},
+	{
+		"Longitude" : "-073.026735",
+		"Zipcode" : "05495",
+		"ZipClass" : "STANDARD",
+		"County" : "CHITTENDEN",
+		"City" : "WILLISTON",
+		"State" : "VT",
+		"Latitude" : "+44.430096"
+	},
+	{
+		"Longitude" : "-072.559638",
+		"Zipcode" : "05601",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.199060"
+	},
+	{
+		"Longitude" : "-072.623619",
+		"Zipcode" : "05602",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.268290"
+	},
+	{
+		"Longitude" : "-072.655892",
+		"Zipcode" : "05603",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.156554"
+	},
+	{
+		"Longitude" : "-072.585018",
+		"Zipcode" : "05604",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.259518"
+	},
+	{
+		"Longitude" : "-072.585018",
+		"Zipcode" : "05609",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.259518"
+	},
+	{
+		"Longitude" : "-072.585018",
+		"Zipcode" : "05620",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.259518"
+	},
+	{
+		"Longitude" : "-072.585018",
+		"Zipcode" : "05633",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.259518"
+	},
+	{
+		"Longitude" : "-072.502235",
+		"Zipcode" : "05640",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ADAMANT",
+		"State" : "VT",
+		"Latitude" : "+44.174872"
+	},
+	{
+		"Longitude" : "-072.607693",
+		"Zipcode" : "05641",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BARRE",
+		"State" : "VT",
+		"Latitude" : "+44.208960"
+	},
+	{
+		"Longitude" : "-072.530473",
+		"Zipcode" : "05647",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CABOT",
+		"State" : "VT",
+		"Latitude" : "+44.266228"
+	},
+	{
+		"Longitude" : "-072.585018",
+		"Zipcode" : "05648",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CALAIS",
+		"State" : "VT",
+		"Latitude" : "+44.259518"
+	},
+	{
+		"Longitude" : "-072.453261",
+		"Zipcode" : "05649",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "EAST BARRE",
+		"State" : "VT",
+		"Latitude" : "+44.157636"
+	},
+	{
+		"Longitude" : "-072.498572",
+		"Zipcode" : "05650",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "EAST CALAIS",
+		"State" : "VT",
+		"Latitude" : "+44.407044"
+	},
+	{
+		"Longitude" : "-072.496570",
+		"Zipcode" : "05651",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "EAST MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.279376"
+	},
+	{
+		"Longitude" : "-072.578210",
+		"Zipcode" : "05652",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "EDEN",
+		"State" : "VT",
+		"Latitude" : "+44.718619"
+	},
+	{
+		"Longitude" : "-072.479642",
+		"Zipcode" : "05653",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "EDEN MILLS",
+		"State" : "VT",
+		"Latitude" : "+44.701158"
+	},
+	{
+		"Longitude" : "-072.484706",
+		"Zipcode" : "05654",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GRANITEVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.155438"
+	},
+	{
+		"Longitude" : "-072.590031",
+		"Zipcode" : "05655",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "HYDE PARK",
+		"State" : "VT",
+		"Latitude" : "+44.560808"
+	},
+	{
+		"Longitude" : "-072.735911",
+		"Zipcode" : "05656",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "JOHNSON",
+		"State" : "VT",
+		"Latitude" : "+44.642603"
+	},
+	{
+		"Longitude" : "-072.647519",
+		"Zipcode" : "05657",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "LAKE ELMORE",
+		"State" : "VT",
+		"Latitude" : "+44.599905"
+	},
+	{
+		"Longitude" : "-072.329902",
+		"Zipcode" : "05658",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MARSHFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.374874"
+	},
+	{
+		"Longitude" : "-072.786431",
+		"Zipcode" : "05660",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MORETOWN",
+		"State" : "VT",
+		"Latitude" : "+44.270817"
+	},
+	{
+		"Longitude" : "-072.615346",
+		"Zipcode" : "05661",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "MORRISVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.560179"
+	},
+	{
+		"Longitude" : "-072.718759",
+		"Zipcode" : "05662",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAMOILLE",
+		"City" : "MOSCOW",
+		"State" : "VT",
+		"Latitude" : "+44.442001"
+	},
+	{
+		"Longitude" : "-072.678854",
+		"Zipcode" : "05663",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "NORTHFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.180906"
+	},
+	{
+		"Longitude" : "-072.646591",
+		"Zipcode" : "05664",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "NORTHFIELD FALLS",
+		"State" : "VT",
+		"Latitude" : "+44.183536"
+	},
+	{
+		"Longitude" : "-072.597057",
+		"Zipcode" : "05665",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAMOILLE",
+		"City" : "NORTH HYDE PARK",
+		"State" : "VT",
+		"Latitude" : "+44.673070"
+	},
+	{
+		"Longitude" : "-072.585018",
+		"Zipcode" : "05666",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "NORTH MONTPELIER",
+		"State" : "VT",
+		"Latitude" : "+44.259518"
+	},
+	{
+		"Longitude" : "-072.552243",
+		"Zipcode" : "05667",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PLAINFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.283708"
+	},
+	{
+		"Longitude" : "-073.089655",
+		"Zipcode" : "05669",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "ROXBURY",
+		"State" : "VT",
+		"Latitude" : "+44.028005"
+	},
+	{
+		"Longitude" : "-072.502470",
+		"Zipcode" : "05670",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "SOUTH BARRE",
+		"State" : "VT",
+		"Latitude" : "+44.175744"
+	},
+	{
+		"Longitude" : "-072.585018",
+		"Zipcode" : "05671",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "WATERBURY",
+		"State" : "VT",
+		"Latitude" : "+44.259518"
+	},
+	{
+		"Longitude" : "-072.660043",
+		"Zipcode" : "05672",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "STOWE",
+		"State" : "VT",
+		"Latitude" : "+44.535179"
+	},
+	{
+		"Longitude" : "-072.843868",
+		"Zipcode" : "05673",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WAITSFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.192186"
+	},
+	{
+		"Longitude" : "-072.820401",
+		"Zipcode" : "05674",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WARREN",
+		"State" : "VT",
+		"Latitude" : "+44.217175"
+	},
+	{
+		"Longitude" : "-072.426322",
+		"Zipcode" : "05675",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "WASHINGTON",
+		"State" : "VT",
+		"Latitude" : "+44.078238"
+	},
+	{
+		"Longitude" : "-072.781143",
+		"Zipcode" : "05676",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WATERBURY",
+		"State" : "VT",
+		"Latitude" : "+44.259608"
+	},
+	{
+		"Longitude" : "-072.708616",
+		"Zipcode" : "05677",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WATERBURY CENTER",
+		"State" : "VT",
+		"Latitude" : "+44.389313"
+	},
+	{
+		"Longitude" : "-072.465810",
+		"Zipcode" : "05678",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "WEBSTERVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.155782"
+	},
+	{
+		"Longitude" : "-072.526916",
+		"Zipcode" : "05679",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "WILLIAMSTOWN",
+		"State" : "VT",
+		"Latitude" : "+44.103841"
+	},
+	{
+		"Longitude" : "-072.487589",
+		"Zipcode" : "05680",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOILLE",
+		"City" : "WOLCOTT",
+		"State" : "VT",
+		"Latitude" : "+44.539539"
+	},
+	{
+		"Longitude" : "-072.585018",
+		"Zipcode" : "05681",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WOODBURY",
+		"State" : "VT",
+		"Latitude" : "+44.259518"
+	},
+	{
+		"Longitude" : "-072.575645",
+		"Zipcode" : "05682",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WORCESTER",
+		"State" : "VT",
+		"Latitude" : "+44.343536"
+	},
+	{
+		"Longitude" : "-072.935860",
+		"Zipcode" : "05701",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "RUTLAND",
+		"State" : "VT",
+		"Latitude" : "+43.630346"
+	},
+	{
+		"Longitude" : "-072.990632",
+		"Zipcode" : "05702",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "RUTLAND",
+		"State" : "VT",
+		"Latitude" : "+43.412792"
+	},
+	{
+		"Longitude" : "-072.828524",
+		"Zipcode" : "05730",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "BELMONT",
+		"State" : "VT",
+		"Latitude" : "+43.420978"
+	},
+	{
+		"Longitude" : "-073.291868",
+		"Zipcode" : "05731",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "BENSON",
+		"State" : "VT",
+		"Latitude" : "+43.687677"
+	},
+	{
+		"Longitude" : "-073.209356",
+		"Zipcode" : "05732",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "BOMOSEEN",
+		"State" : "VT",
+		"Latitude" : "+43.643723"
+	},
+	{
+		"Longitude" : "-073.121251",
+		"Zipcode" : "05733",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "BRANDON",
+		"State" : "VT",
+		"Latitude" : "+43.655139"
+	},
+	{
+		"Longitude" : "-073.331483",
+		"Zipcode" : "05734",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "BRIDPORT",
+		"State" : "VT",
+		"Latitude" : "+43.982512"
+	},
+	{
+		"Longitude" : "-073.126638",
+		"Zipcode" : "05735",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "CASTLETON",
+		"State" : "VT",
+		"Latitude" : "+43.636856"
+	},
+	{
+		"Longitude" : "-073.008253",
+		"Zipcode" : "05736",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "CENTER RUTLAND",
+		"State" : "VT",
+		"Latitude" : "+43.594106"
+	},
+	{
+		"Longitude" : "-072.925199",
+		"Zipcode" : "05737",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "CHITTENDEN",
+		"State" : "VT",
+		"Latitude" : "+43.713218"
+	},
+	{
+		"Longitude" : "-072.869165",
+		"Zipcode" : "05738",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "CUTTINGSVILLE",
+		"State" : "VT",
+		"Latitude" : "+43.526706"
+	},
+	{
+		"Longitude" : "-073.027985",
+		"Zipcode" : "05739",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "DANBY",
+		"State" : "VT",
+		"Latitude" : "+43.347920"
+	},
+	{
+		"Longitude" : "-073.091416",
+		"Zipcode" : "05740",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADDISON",
+		"City" : "EAST MIDDLEBURY",
+		"State" : "VT",
+		"Latitude" : "+43.971530"
+	},
+	{
+		"Longitude" : "-072.818121",
+		"Zipcode" : "05741",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "EAST POULTNEY",
+		"State" : "VT",
+		"Latitude" : "+43.592039"
+	},
+	{
+		"Longitude" : "-072.920870",
+		"Zipcode" : "05742",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "EAST WALLINGFORD",
+		"State" : "VT",
+		"Latitude" : "+43.446092"
+	},
+	{
+		"Longitude" : "-073.182585",
+		"Zipcode" : "05743",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "FAIR HAVEN",
+		"State" : "VT",
+		"Latitude" : "+43.634258"
+	},
+	{
+		"Longitude" : "-073.107352",
+		"Zipcode" : "05744",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "FLORENCE",
+		"State" : "VT",
+		"Latitude" : "+43.576783"
+	},
+	{
+		"Longitude" : "-072.818121",
+		"Zipcode" : "05745",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RUTLAND",
+		"City" : "FOREST DALE",
+		"State" : "VT",
+		"Latitude" : "+43.592039"
+	},
+	{
+		"Longitude" : "-072.588407",
+		"Zipcode" : "05746",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDSOR",
+		"City" : "GAYSVILLE",
+		"State" : "VT",
+		"Latitude" : "+43.592039"
+	},
+	{
+		"Longitude" : "-072.817108",
+		"Zipcode" : "05747",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "GRANVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.003200"
+	},
+	{
+		"Longitude" : "-072.890031",
+		"Zipcode" : "05748",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "HANCOCK",
+		"State" : "VT",
+		"Latitude" : "+43.907858"
+	},
+	{
+		"Longitude" : "-073.251040",
+		"Zipcode" : "05750",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RUTLAND",
+		"City" : "HYDEVILLE",
+		"State" : "VT",
+		"Latitude" : "+43.599381"
+	},
+	{
+		"Longitude" : "-072.782713",
+		"Zipcode" : "05751",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "KILLINGTON",
+		"State" : "VT",
+		"Latitude" : "+43.656951"
+	},
+	{
+		"Longitude" : "-073.171578",
+		"Zipcode" : "05753",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "MIDDLEBURY",
+		"State" : "VT",
+		"Latitude" : "+43.991942"
+	},
+	{
+		"Longitude" : "-073.060391",
+		"Zipcode" : "05757",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "MIDDLETOWN SPRINGS",
+		"State" : "VT",
+		"Latitude" : "+43.478301"
+	},
+	{
+		"Longitude" : "-072.802413",
+		"Zipcode" : "05758",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "MOUNT HOLLY",
+		"State" : "VT",
+		"Latitude" : "+43.444535"
+	},
+	{
+		"Longitude" : "-072.970114",
+		"Zipcode" : "05759",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "NORTH CLARENDON",
+		"State" : "VT",
+		"Latitude" : "+43.535739"
+	},
+	{
+		"Longitude" : "-073.242322",
+		"Zipcode" : "05760",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "ORWELL",
+		"State" : "VT",
+		"Latitude" : "+43.863158"
+	},
+	{
+		"Longitude" : "-073.150683",
+		"Zipcode" : "05761",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "PAWLET",
+		"State" : "VT",
+		"Latitude" : "+43.361439"
+	},
+	{
+		"Longitude" : "-072.818121",
+		"Zipcode" : "05762",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "PITTSFIELD",
+		"State" : "VT",
+		"Latitude" : "+43.592039"
+	},
+	{
+		"Longitude" : "-072.999461",
+		"Zipcode" : "05763",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "PITTSFORD",
+		"State" : "VT",
+		"Latitude" : "+43.721820"
+	},
+	{
+		"Longitude" : "-073.112878",
+		"Zipcode" : "05764",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "POULTNEY",
+		"State" : "VT",
+		"Latitude" : "+43.525395"
+	},
+	{
+		"Longitude" : "-073.095890",
+		"Zipcode" : "05765",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "PROCTOR",
+		"State" : "VT",
+		"Latitude" : "+43.601975"
+	},
+	{
+		"Longitude" : "-073.010663",
+		"Zipcode" : "05766",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "RIPTON",
+		"State" : "VT",
+		"Latitude" : "+43.979315"
+	},
+	{
+		"Longitude" : "-072.851495",
+		"Zipcode" : "05767",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "ROCHESTER",
+		"State" : "VT",
+		"Latitude" : "+43.866832"
+	},
+	{
+		"Longitude" : "-073.055156",
+		"Zipcode" : "05768",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENNINGTON",
+		"City" : "RUPERT",
+		"State" : "VT",
+		"Latitude" : "+43.026984"
+	},
+	{
+		"Longitude" : "-073.122709",
+		"Zipcode" : "05769",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "SALISBURY",
+		"State" : "VT",
+		"Latitude" : "+43.920297"
+	},
+	{
+		"Longitude" : "-073.279162",
+		"Zipcode" : "05770",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "SHOREHAM",
+		"State" : "VT",
+		"Latitude" : "+43.912406"
+	},
+	{
+		"Longitude" : "-072.730177",
+		"Zipcode" : "05772",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDSOR",
+		"City" : "STOCKBRIDGE",
+		"State" : "VT",
+		"Latitude" : "+43.756978"
+	},
+	{
+		"Longitude" : "-073.066066",
+		"Zipcode" : "05773",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "WALLINGFORD",
+		"State" : "VT",
+		"Latitude" : "+43.477386"
+	},
+	{
+		"Longitude" : "-073.161826",
+		"Zipcode" : "05774",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "WELLS",
+		"State" : "VT",
+		"Latitude" : "+43.429363"
+	},
+	{
+		"Longitude" : "-073.224211",
+		"Zipcode" : "05775",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "WEST PAWLET",
+		"State" : "VT",
+		"Latitude" : "+43.360006"
+	},
+	{
+		"Longitude" : "-073.055156",
+		"Zipcode" : "05776",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNINGTON",
+		"City" : "WEST RUPERT",
+		"State" : "VT",
+		"Latitude" : "+43.026984"
+	},
+	{
+		"Longitude" : "-073.065323",
+		"Zipcode" : "05777",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTLAND",
+		"City" : "WEST RUTLAND",
+		"State" : "VT",
+		"Latitude" : "+43.588163"
+	},
+	{
+		"Longitude" : "-073.203001",
+		"Zipcode" : "05778",
+		"ZipClass" : "STANDARD",
+		"County" : "ADDISON",
+		"City" : "WHITING",
+		"State" : "VT",
+		"Latitude" : "+43.893982"
+	},
+	{
+		"Longitude" : "-072.114155",
+		"Zipcode" : "05819",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "SAINT JOHNSBURY",
+		"State" : "VT",
+		"Latitude" : "+44.426455"
+	},
+	{
+		"Longitude" : "-072.364639",
+		"Zipcode" : "05820",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "ALBANY",
+		"State" : "VT",
+		"Latitude" : "+44.741679"
+	},
+	{
+		"Longitude" : "-072.118790",
+		"Zipcode" : "05821",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "BARNET",
+		"State" : "VT",
+		"Latitude" : "+44.313675"
+	},
+	{
+		"Longitude" : "-072.199084",
+		"Zipcode" : "05822",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "BARTON",
+		"State" : "VT",
+		"Latitude" : "+44.736630"
+	},
+	{
+		"Longitude" : "-072.138347",
+		"Zipcode" : "05823",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ORLEANS",
+		"City" : "BEEBE PLAIN",
+		"State" : "VT",
+		"Latitude" : "+45.005783"
+	},
+	{
+		"Longitude" : "-071.833956",
+		"Zipcode" : "05824",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "CONCORD",
+		"State" : "VT",
+		"Latitude" : "+44.581613"
+	},
+	{
+		"Longitude" : "-072.226410",
+		"Zipcode" : "05825",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ORLEANS",
+		"City" : "COVENTRY",
+		"State" : "VT",
+		"Latitude" : "+44.775607"
+	},
+	{
+		"Longitude" : "-072.388928",
+		"Zipcode" : "05826",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "CRAFTSBURY",
+		"State" : "VT",
+		"Latitude" : "+44.641663"
+	},
+	{
+		"Longitude" : "-072.359440",
+		"Zipcode" : "05827",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "CRAFTSBURY COMMON",
+		"State" : "VT",
+		"Latitude" : "+44.678786"
+	},
+	{
+		"Longitude" : "-072.123508",
+		"Zipcode" : "05828",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "DANVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.437306"
+	},
+	{
+		"Longitude" : "-072.218616",
+		"Zipcode" : "05829",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "DERBY",
+		"State" : "VT",
+		"Latitude" : "+44.952347"
+	},
+	{
+		"Longitude" : "-072.036632",
+		"Zipcode" : "05830",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "DERBY LINE",
+		"State" : "VT",
+		"Latitude" : "+44.970350"
+	},
+	{
+		"Longitude" : "-071.910223",
+		"Zipcode" : "05832",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "EAST BURKE",
+		"State" : "VT",
+		"Latitude" : "+44.587962"
+	},
+	{
+		"Longitude" : "-072.226410",
+		"Zipcode" : "05833",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "EAST CHARLESTON",
+		"State" : "VT",
+		"Latitude" : "+44.775607"
+	},
+	{
+		"Longitude" : "-072.173710",
+		"Zipcode" : "05836",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "EAST HARDWICK",
+		"State" : "VT",
+		"Latitude" : "+44.496356"
+	},
+	{
+		"Longitude" : "-071.813465",
+		"Zipcode" : "05837",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "EAST HAVEN",
+		"State" : "VT",
+		"Latitude" : "+44.667396"
+	},
+	{
+		"Longitude" : "-071.930077",
+		"Zipcode" : "05838",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALEDONIA",
+		"City" : "EAST SAINT JOHNSBURY",
+		"State" : "VT",
+		"Latitude" : "+44.468494"
+	},
+	{
+		"Longitude" : "-072.221912",
+		"Zipcode" : "05839",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "GLOVER",
+		"State" : "VT",
+		"Latitude" : "+44.679528"
+	},
+	{
+		"Longitude" : "-071.719436",
+		"Zipcode" : "05840",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ESSEX",
+		"City" : "GRANBY",
+		"State" : "VT",
+		"Latitude" : "+44.680771"
+	},
+	{
+		"Longitude" : "-072.286556",
+		"Zipcode" : "05841",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "GREENSBORO",
+		"State" : "VT",
+		"Latitude" : "+44.600325"
+	},
+	{
+		"Longitude" : "-072.226410",
+		"Zipcode" : "05842",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "GREENSBORO BEND",
+		"State" : "VT",
+		"Latitude" : "+44.775607"
+	},
+	{
+		"Longitude" : "-072.309822",
+		"Zipcode" : "05843",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "HARDWICK",
+		"State" : "VT",
+		"Latitude" : "+44.516090"
+	},
+	{
+		"Longitude" : "-072.301139",
+		"Zipcode" : "05845",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "IRASBURG",
+		"State" : "VT",
+		"Latitude" : "+44.783177"
+	},
+	{
+		"Longitude" : "-071.841125",
+		"Zipcode" : "05846",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ISLAND POND",
+		"State" : "VT",
+		"Latitude" : "+44.832535"
+	},
+	{
+		"Longitude" : "-072.439455",
+		"Zipcode" : "05847",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "LOWELL",
+		"State" : "VT",
+		"Latitude" : "+44.788925"
+	},
+	{
+		"Longitude" : "-071.919518",
+		"Zipcode" : "05848",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALEDONIA",
+		"City" : "LOWER WATERFORD",
+		"State" : "VT",
+		"Latitude" : "+44.382103"
+	},
+	{
+		"Longitude" : "-071.950519",
+		"Zipcode" : "05849",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALEDONIA",
+		"City" : "LYNDON",
+		"State" : "VT",
+		"Latitude" : "+44.497557"
+	},
+	{
+		"Longitude" : "-071.988258",
+		"Zipcode" : "05850",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "LYNDON CENTER",
+		"State" : "VT",
+		"Latitude" : "+44.481915"
+	},
+	{
+		"Longitude" : "-072.056557",
+		"Zipcode" : "05851",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "LYNDONVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.535100"
+	},
+	{
+		"Longitude" : "-071.971424",
+		"Zipcode" : "05853",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "MORGAN",
+		"State" : "VT",
+		"Latitude" : "+44.878704"
+	},
+	{
+		"Longitude" : "-072.203948",
+		"Zipcode" : "05855",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEWPORT",
+		"State" : "VT",
+		"Latitude" : "+44.907921"
+	},
+	{
+		"Longitude" : "-072.299191",
+		"Zipcode" : "05857",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEWPORT CENTER",
+		"State" : "VT",
+		"Latitude" : "+44.927018"
+	},
+	{
+		"Longitude" : "-071.795986",
+		"Zipcode" : "05858",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NORTH CONCORD",
+		"State" : "VT",
+		"Latitude" : "+44.512087"
+	},
+	{
+		"Longitude" : "-072.433354",
+		"Zipcode" : "05859",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NORTH TROY",
+		"State" : "VT",
+		"Latitude" : "+44.937769"
+	},
+	{
+		"Longitude" : "-072.102019",
+		"Zipcode" : "05860",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "ORLEANS",
+		"State" : "VT",
+		"Latitude" : "+44.823782"
+	},
+	{
+		"Longitude" : "-072.135804",
+		"Zipcode" : "05861",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALEDONIA",
+		"City" : "PASSUMPSIC",
+		"State" : "VT",
+		"Latitude" : "+44.462390"
+	},
+	{
+		"Longitude" : "-072.135804",
+		"Zipcode" : "05862",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "PEACHAM",
+		"State" : "VT",
+		"Latitude" : "+44.462390"
+	},
+	{
+		"Longitude" : "-071.972088",
+		"Zipcode" : "05863",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALEDONIA",
+		"City" : "SAINT JOHNSBURY CENTER",
+		"State" : "VT",
+		"Latitude" : "+44.503403"
+	},
+	{
+		"Longitude" : "-072.132255",
+		"Zipcode" : "05866",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "SHEFFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.639653"
+	},
+	{
+		"Longitude" : "-072.042415",
+		"Zipcode" : "05867",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "SUTTON",
+		"State" : "VT",
+		"Latitude" : "+44.664521"
+	},
+	{
+		"Longitude" : "-072.226410",
+		"Zipcode" : "05868",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "TROY",
+		"State" : "VT",
+		"Latitude" : "+44.775607"
+	},
+	{
+		"Longitude" : "-071.936817",
+		"Zipcode" : "05871",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "WEST BURKE",
+		"State" : "VT",
+		"Latitude" : "+44.683041"
+	},
+	{
+		"Longitude" : "-072.031210",
+		"Zipcode" : "05872",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "WEST CHARLESTON",
+		"State" : "VT",
+		"Latitude" : "+44.849402"
+	},
+	{
+		"Longitude" : "-072.222424",
+		"Zipcode" : "05873",
+		"ZipClass" : "STANDARD",
+		"County" : "CALEDONIA",
+		"City" : "WEST DANVILLE",
+		"State" : "VT",
+		"Latitude" : "+44.393366"
+	},
+	{
+		"Longitude" : "-072.450485",
+		"Zipcode" : "05874",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "WESTFIELD",
+		"State" : "VT",
+		"Latitude" : "+44.869117"
+	},
+	{
+		"Longitude" : "-072.258038",
+		"Zipcode" : "05875",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "WEST GLOVER",
+		"State" : "VT",
+		"Latitude" : "+44.710028"
+	},
+	{
+		"Longitude" : "-071.719436",
+		"Zipcode" : "05901",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "AVERILL",
+		"State" : "VT",
+		"Latitude" : "+44.680771"
+	},
+	{
+		"Longitude" : "-071.719436",
+		"Zipcode" : "05902",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "BEECHER FALLS",
+		"State" : "VT",
+		"Latitude" : "+44.680771"
+	},
+	{
+		"Longitude" : "-071.597809",
+		"Zipcode" : "05903",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "CANAAN",
+		"State" : "VT",
+		"Latitude" : "+44.930787"
+	},
+	{
+		"Longitude" : "-071.719436",
+		"Zipcode" : "05904",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "GILMAN",
+		"State" : "VT",
+		"Latitude" : "+44.680771"
+	},
+	{
+		"Longitude" : "-071.662213",
+		"Zipcode" : "05905",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "GUILDHALL",
+		"State" : "VT",
+		"Latitude" : "+44.671187"
+	},
+	{
+		"Longitude" : "-071.719436",
+		"Zipcode" : "05906",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LUNENBURG",
+		"State" : "VT",
+		"Latitude" : "+44.680771"
+	},
+	{
+		"Longitude" : "-071.776359",
+		"Zipcode" : "05907",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NORTON",
+		"State" : "VT",
+		"Latitude" : "+44.932643"
+	}
+]}

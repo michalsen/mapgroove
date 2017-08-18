@@ -1,0 +1,885 @@
+{
+	"result":[
+	{
+		"Longitude" : "-075.693903",
+		"Zipcode" : "19701",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "BEAR",
+		"State" : "DE",
+		"Latitude" : "+39.594736"
+	},
+	{
+		"Longitude" : "-075.701277",
+		"Zipcode" : "19702",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.614737"
+	},
+	{
+		"Longitude" : "-075.458140",
+		"Zipcode" : "19703",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "CLAYMONT",
+		"State" : "DE",
+		"Latitude" : "+39.803790"
+	},
+	{
+		"Longitude" : "-075.608081",
+		"Zipcode" : "19706",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW CASTLE",
+		"City" : "DELAWARE CITY",
+		"State" : "DE",
+		"Latitude" : "+39.594256"
+	},
+	{
+		"Longitude" : "-075.680897",
+		"Zipcode" : "19707",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "HOCKESSIN",
+		"State" : "DE",
+		"Latitude" : "+39.635202"
+	},
+	{
+		"Longitude" : "-075.690069",
+		"Zipcode" : "19708",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW CASTLE",
+		"City" : "KIRKWOOD",
+		"State" : "DE",
+		"Latitude" : "+39.577567"
+	},
+	{
+		"Longitude" : "-075.677535",
+		"Zipcode" : "19709",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "MIDDLETOWN",
+		"State" : "DE",
+		"Latitude" : "+39.485721"
+	},
+	{
+		"Longitude" : "-075.639143",
+		"Zipcode" : "19710",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW CASTLE",
+		"City" : "MONTCHANIN",
+		"State" : "DE",
+		"Latitude" : "+39.757783"
+	},
+	{
+		"Longitude" : "-075.688489",
+		"Zipcode" : "19711",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.668282"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19712",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.719349",
+		"Zipcode" : "19713",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.665662"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19714",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19715",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19716",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19717",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19718",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.651466",
+		"Zipcode" : "19720",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "NEW CASTLE",
+		"State" : "DE",
+		"Latitude" : "+39.592895"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19721",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "NEW CASTLE",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19725",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19726",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "NEWARK",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.627281",
+		"Zipcode" : "19730",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW CASTLE",
+		"City" : "ODESSA",
+		"State" : "DE",
+		"Latitude" : "+39.512510"
+	},
+	{
+		"Longitude" : "-075.585180",
+		"Zipcode" : "19731",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW CASTLE",
+		"City" : "PORT PENN",
+		"State" : "DE",
+		"Latitude" : "+39.512902"
+	},
+	{
+		"Longitude" : "-075.573750",
+		"Zipcode" : "19732",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW CASTLE",
+		"City" : "ROCKLAND",
+		"State" : "DE",
+		"Latitude" : "+39.793864"
+	},
+	{
+		"Longitude" : "-075.650462",
+		"Zipcode" : "19733",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW CASTLE",
+		"City" : "SAINT GEORGES",
+		"State" : "DE",
+		"Latitude" : "+39.555459"
+	},
+	{
+		"Longitude" : "-075.646408",
+		"Zipcode" : "19734",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "TOWNSEND",
+		"State" : "DE",
+		"Latitude" : "+39.430666"
+	},
+	{
+		"Longitude" : "-075.597598",
+		"Zipcode" : "19735",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WINTERTHUR",
+		"State" : "DE",
+		"Latitude" : "+39.794396"
+	},
+	{
+		"Longitude" : "-075.660413",
+		"Zipcode" : "19736",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "YORKLYN",
+		"State" : "DE",
+		"Latitude" : "+39.797126"
+	},
+	{
+		"Longitude" : "-075.547844",
+		"Zipcode" : "19801",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.727113"
+	},
+	{
+		"Longitude" : "-075.593512",
+		"Zipcode" : "19802",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.719870"
+	},
+	{
+		"Longitude" : "-075.531694",
+		"Zipcode" : "19803",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.799360"
+	},
+	{
+		"Longitude" : "-075.617198",
+		"Zipcode" : "19804",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.759577"
+	},
+	{
+		"Longitude" : "-075.593447",
+		"Zipcode" : "19805",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.743107"
+	},
+	{
+		"Longitude" : "-075.568745",
+		"Zipcode" : "19806",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.758562"
+	},
+	{
+		"Longitude" : "-075.616134",
+		"Zipcode" : "19807",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.794943"
+	},
+	{
+		"Longitude" : "-075.664729",
+		"Zipcode" : "19808",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.735912"
+	},
+	{
+		"Longitude" : "-075.506892",
+		"Zipcode" : "19809",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.764712"
+	},
+	{
+		"Longitude" : "-075.527812",
+		"Zipcode" : "19810",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.763961"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19850",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19880",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19884",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19885",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19886",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19887",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19889",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19890",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19891",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19892",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19893",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19894",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19895",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19896",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19897",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.597047",
+		"Zipcode" : "19898",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.564499"
+	},
+	{
+		"Longitude" : "-075.624617",
+		"Zipcode" : "19899",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW CASTLE",
+		"City" : "WILMINGTON",
+		"State" : "DE",
+		"Latitude" : "+39.734792"
+	},
+	{
+		"Longitude" : "-075.495490",
+		"Zipcode" : "19901",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "DOVER",
+		"State" : "DE",
+		"Latitude" : "+39.156376"
+	},
+	{
+		"Longitude" : "-075.448023",
+		"Zipcode" : "19902",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "DOVER AFB",
+		"State" : "DE",
+		"Latitude" : "+39.108680"
+	},
+	{
+		"Longitude" : "-075.448023",
+		"Zipcode" : "19903",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "DOVER",
+		"State" : "DE",
+		"Latitude" : "+39.108680"
+	},
+	{
+		"Longitude" : "-075.597381",
+		"Zipcode" : "19904",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "DOVER",
+		"State" : "DE",
+		"Latitude" : "+39.160542"
+	},
+	{
+		"Longitude" : "-075.448023",
+		"Zipcode" : "19905",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "DOVER",
+		"State" : "DE",
+		"Latitude" : "+39.108680"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "19906",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "DOVER",
+		"State" : "DE",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-075.186955",
+		"Zipcode" : "19930",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "BETHANY BEACH",
+		"State" : "DE",
+		"Latitude" : "+38.555533"
+	},
+	{
+		"Longitude" : "-075.624087",
+		"Zipcode" : "19931",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "BETHEL",
+		"State" : "DE",
+		"Latitude" : "+38.569091"
+	},
+	{
+		"Longitude" : "-075.330023",
+		"Zipcode" : "19933",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "BRIDGEVILLE",
+		"State" : "DE",
+		"Latitude" : "+38.660295"
+	},
+	{
+		"Longitude" : "-075.612286",
+		"Zipcode" : "19934",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "CAMDEN WYOMING",
+		"State" : "DE",
+		"Latitude" : "+39.086921"
+	},
+	{
+		"Longitude" : "-075.584848",
+		"Zipcode" : "19936",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENT",
+		"City" : "CHESWOLD",
+		"State" : "DE",
+		"Latitude" : "+39.218448"
+	},
+	{
+		"Longitude" : "-075.688873",
+		"Zipcode" : "19938",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "CLAYTON",
+		"State" : "DE",
+		"Latitude" : "+39.246071"
+	},
+	{
+		"Longitude" : "-075.181502",
+		"Zipcode" : "19939",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "DAGSBORO",
+		"State" : "DE",
+		"Latitude" : "+38.621403"
+	},
+	{
+		"Longitude" : "-075.324585",
+		"Zipcode" : "19940",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "DELMAR",
+		"State" : "DE",
+		"Latitude" : "+38.631744"
+	},
+	{
+		"Longitude" : "-075.275018",
+		"Zipcode" : "19941",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "ELLENDALE",
+		"State" : "DE",
+		"Latitude" : "+38.652805"
+	},
+	{
+		"Longitude" : "-075.609891",
+		"Zipcode" : "19943",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "FELTON",
+		"State" : "DE",
+		"Latitude" : "+39.033438"
+	},
+	{
+		"Longitude" : "-075.058874",
+		"Zipcode" : "19944",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "FENWICK ISLAND",
+		"State" : "DE",
+		"Latitude" : "+38.486485"
+	},
+	{
+		"Longitude" : "-075.157634",
+		"Zipcode" : "19945",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "FRANKFORD",
+		"State" : "DE",
+		"Latitude" : "+38.551440"
+	},
+	{
+		"Longitude" : "-075.481910",
+		"Zipcode" : "19946",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "FREDERICA",
+		"State" : "DE",
+		"Latitude" : "+39.023141"
+	},
+	{
+		"Longitude" : "-075.334263",
+		"Zipcode" : "19947",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "GEORGETOWN",
+		"State" : "DE",
+		"Latitude" : "+38.632891"
+	},
+	{
+		"Longitude" : "-075.588771",
+		"Zipcode" : "19950",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "GREENWOOD",
+		"State" : "DE",
+		"Latitude" : "+38.824580"
+	},
+	{
+		"Longitude" : "-075.225025",
+		"Zipcode" : "19951",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "HARBESON",
+		"State" : "DE",
+		"Latitude" : "+38.691547"
+	},
+	{
+		"Longitude" : "-075.611322",
+		"Zipcode" : "19952",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "HARRINGTON",
+		"State" : "DE",
+		"Latitude" : "+38.912195"
+	},
+	{
+		"Longitude" : "-075.679733",
+		"Zipcode" : "19953",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "HARTLY",
+		"State" : "DE",
+		"Latitude" : "+39.163430"
+	},
+	{
+		"Longitude" : "-075.520078",
+		"Zipcode" : "19954",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "HOUSTON",
+		"State" : "DE",
+		"Latitude" : "+38.894017"
+	},
+	{
+		"Longitude" : "-075.664153",
+		"Zipcode" : "19955",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENT",
+		"City" : "KENTON",
+		"State" : "DE",
+		"Latitude" : "+39.225604"
+	},
+	{
+		"Longitude" : "-075.378729",
+		"Zipcode" : "19956",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "LAUREL",
+		"State" : "DE",
+		"Latitude" : "+38.663322"
+	},
+	{
+		"Longitude" : "-075.325612",
+		"Zipcode" : "19958",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "LEWES",
+		"State" : "DE",
+		"Latitude" : "+38.655360"
+	},
+	{
+		"Longitude" : "-075.410870",
+		"Zipcode" : "19960",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "LINCOLN",
+		"State" : "DE",
+		"Latitude" : "+38.848792"
+	},
+	{
+		"Longitude" : "-075.448289",
+		"Zipcode" : "19961",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENT",
+		"City" : "LITTLE CREEK",
+		"State" : "DE",
+		"Latitude" : "+39.166323"
+	},
+	{
+		"Longitude" : "-075.591714",
+		"Zipcode" : "19962",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "MAGNOLIA",
+		"State" : "DE",
+		"Latitude" : "+38.971647"
+	},
+	{
+		"Longitude" : "-075.322829",
+		"Zipcode" : "19963",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "MILFORD",
+		"State" : "DE",
+		"Latitude" : "+38.727120"
+	},
+	{
+		"Longitude" : "-075.667898",
+		"Zipcode" : "19964",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "MARYDEL",
+		"State" : "DE",
+		"Latitude" : "+39.140254"
+	},
+	{
+		"Longitude" : "-075.246410",
+		"Zipcode" : "19966",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "MILLSBORO",
+		"State" : "DE",
+		"Latitude" : "+38.659458"
+	},
+	{
+		"Longitude" : "-075.242294",
+		"Zipcode" : "19967",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "MILLVILLE",
+		"State" : "DE",
+		"Latitude" : "+38.700518"
+	},
+	{
+		"Longitude" : "-075.322223",
+		"Zipcode" : "19968",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "MILTON",
+		"State" : "DE",
+		"Latitude" : "+38.692714"
+	},
+	{
+		"Longitude" : "-075.353387",
+		"Zipcode" : "19969",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUSSEX",
+		"City" : "NASSAU",
+		"State" : "DE",
+		"Latitude" : "+38.725562"
+	},
+	{
+		"Longitude" : "-075.104645",
+		"Zipcode" : "19970",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "OCEAN VIEW",
+		"State" : "DE",
+		"Latitude" : "+38.621587"
+	},
+	{
+		"Longitude" : "-075.319975",
+		"Zipcode" : "19971",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "REHOBOTH BEACH",
+		"State" : "DE",
+		"Latitude" : "+38.629763"
+	},
+	{
+		"Longitude" : "-075.380454",
+		"Zipcode" : "19973",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "SEAFORD",
+		"State" : "DE",
+		"Latitude" : "+38.659891"
+	},
+	{
+		"Longitude" : "-075.330307",
+		"Zipcode" : "19975",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "SELBYVILLE",
+		"State" : "DE",
+		"Latitude" : "+38.550784"
+	},
+	{
+		"Longitude" : "-075.565131",
+		"Zipcode" : "19977",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "SMYRNA",
+		"State" : "DE",
+		"Latitude" : "+39.194026"
+	},
+	{
+		"Longitude" : "-075.577158",
+		"Zipcode" : "19979",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "VIOLA",
+		"State" : "DE",
+		"Latitude" : "+38.971038"
+	},
+	{
+		"Longitude" : "-075.571073",
+		"Zipcode" : "19980",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENT",
+		"City" : "WOODSIDE",
+		"State" : "DE",
+		"Latitude" : "+39.072390"
+	}
+]}

@@ -1,0 +1,3702 @@
+{
+	"result":[
+	{
+		"Longitude" : "-109.455156",
+		"Zipcode" : "59001",
+		"ZipClass" : "STANDARD",
+		"County" : "STILLWATER",
+		"City" : "ABSAROKEE",
+		"State" : "MT",
+		"Latitude" : "+45.515571"
+	},
+	{
+		"Longitude" : "-108.688831",
+		"Zipcode" : "59002",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "ACTON",
+		"State" : "MT",
+		"Latitude" : "+45.929056"
+	},
+	{
+		"Longitude" : "-106.278272",
+		"Zipcode" : "59003",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEBUD",
+		"City" : "ASHLAND",
+		"State" : "MT",
+		"Latitude" : "+45.605673"
+	},
+	{
+		"Longitude" : "-106.991990",
+		"Zipcode" : "59004",
+		"ZipClass" : "UNIQUE",
+		"County" : "ROSEBUD",
+		"City" : "ASHLAND",
+		"State" : "MT",
+		"Latitude" : "+46.017965"
+	},
+	{
+		"Longitude" : "-108.098389",
+		"Zipcode" : "59006",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BALLANTINE",
+		"State" : "MT",
+		"Latitude" : "+45.892314"
+	},
+	{
+		"Longitude" : "-109.158349",
+		"Zipcode" : "59007",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "BEARCREEK",
+		"State" : "MT",
+		"Latitude" : "+45.161913"
+	},
+	{
+		"Longitude" : "-109.034212",
+		"Zipcode" : "59008",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "BELFRY",
+		"State" : "MT",
+		"Latitude" : "+45.091835"
+	},
+	{
+		"Longitude" : "-107.338750",
+		"Zipcode" : "59010",
+		"ZipClass" : "STANDARD",
+		"County" : "TREASURE",
+		"City" : "BIGHORN",
+		"State" : "MT",
+		"Latitude" : "+46.176296"
+	},
+	{
+		"Longitude" : "-109.950025",
+		"Zipcode" : "59011",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEET GRASS",
+		"City" : "BIG TIMBER",
+		"State" : "MT",
+		"Latitude" : "+45.834206"
+	},
+	{
+		"Longitude" : "-106.991990",
+		"Zipcode" : "59012",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEBUD",
+		"City" : "BIRNEY",
+		"State" : "MT",
+		"Latitude" : "+46.017965"
+	},
+	{
+		"Longitude" : "-109.136458",
+		"Zipcode" : "59013",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "BOYD",
+		"State" : "MT",
+		"Latitude" : "+45.410149"
+	},
+	{
+		"Longitude" : "-108.920853",
+		"Zipcode" : "59014",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "BRIDGER",
+		"State" : "MT",
+		"Latitude" : "+45.335953"
+	},
+	{
+		"Longitude" : "-108.759561",
+		"Zipcode" : "59015",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BROADVIEW",
+		"State" : "MT",
+		"Latitude" : "+46.041717"
+	},
+	{
+		"Longitude" : "-106.961213",
+		"Zipcode" : "59016",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "BUSBY",
+		"State" : "MT",
+		"Latitude" : "+45.536218"
+	},
+	{
+		"Longitude" : "-110.622234",
+		"Zipcode" : "59018",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARK",
+		"City" : "CLYDE PARK",
+		"State" : "MT",
+		"Latitude" : "+45.834082"
+	},
+	{
+		"Longitude" : "-109.206617",
+		"Zipcode" : "59019",
+		"ZipClass" : "STANDARD",
+		"County" : "STILLWATER",
+		"City" : "COLUMBUS",
+		"State" : "MT",
+		"Latitude" : "+45.657453"
+	},
+	{
+		"Longitude" : "-109.906970",
+		"Zipcode" : "59020",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "COOKE CITY",
+		"State" : "MT",
+		"Latitude" : "+45.023373"
+	},
+	{
+		"Longitude" : "-107.469868",
+		"Zipcode" : "59022",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "CROW AGENCY",
+		"State" : "MT",
+		"Latitude" : "+45.608203"
+	},
+	{
+		"Longitude" : "-107.693279",
+		"Zipcode" : "59024",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "CUSTER",
+		"State" : "MT",
+		"Latitude" : "+46.212579"
+	},
+	{
+		"Longitude" : "-107.481697",
+		"Zipcode" : "59025",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "DECKER",
+		"State" : "MT",
+		"Latitude" : "+45.518708"
+	},
+	{
+		"Longitude" : "-108.848692",
+		"Zipcode" : "59026",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "EDGAR",
+		"State" : "MT",
+		"Latitude" : "+45.444257"
+	},
+	{
+		"Longitude" : "-110.792071",
+		"Zipcode" : "59027",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "EMIGRANT",
+		"State" : "MT",
+		"Latitude" : "+45.270789"
+	},
+	{
+		"Longitude" : "-109.771658",
+		"Zipcode" : "59028",
+		"ZipClass" : "STANDARD",
+		"County" : "STILLWATER",
+		"City" : "FISHTAIL",
+		"State" : "MT",
+		"Latitude" : "+45.410217"
+	},
+	{
+		"Longitude" : "-108.817298",
+		"Zipcode" : "59029",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "FROMBERG",
+		"State" : "MT",
+		"Latitude" : "+45.398686"
+	},
+	{
+		"Longitude" : "-110.809991",
+		"Zipcode" : "59030",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "GARDINER",
+		"State" : "MT",
+		"Latitude" : "+45.114735"
+	},
+	{
+		"Longitude" : "-107.481697",
+		"Zipcode" : "59031",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "GARRYOWEN",
+		"State" : "MT",
+		"Latitude" : "+45.518708"
+	},
+	{
+		"Longitude" : "-108.763415",
+		"Zipcode" : "59032",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "GRASS RANGE",
+		"State" : "MT",
+		"Latitude" : "+47.286641"
+	},
+	{
+		"Longitude" : "-109.855062",
+		"Zipcode" : "59033",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEET GRASS",
+		"City" : "GREYCLIFF",
+		"State" : "MT",
+		"Latitude" : "+45.696301"
+	},
+	{
+		"Longitude" : "-107.696300",
+		"Zipcode" : "59034",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "HARDIN",
+		"State" : "MT",
+		"Latitude" : "+45.527310"
+	},
+	{
+		"Longitude" : "-107.925665",
+		"Zipcode" : "59035",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "YELLOWTAIL",
+		"State" : "MT",
+		"Latitude" : "+45.308898"
+	},
+	{
+		"Longitude" : "-109.843492",
+		"Zipcode" : "59036",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHEATLAND",
+		"City" : "HARLOWTON",
+		"State" : "MT",
+		"Latitude" : "+46.447745"
+	},
+	{
+		"Longitude" : "-108.211535",
+		"Zipcode" : "59037",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "HUNTLEY",
+		"State" : "MT",
+		"Latitude" : "+45.876735"
+	},
+	{
+		"Longitude" : "-107.228948",
+		"Zipcode" : "59038",
+		"ZipClass" : "STANDARD",
+		"County" : "TREASURE",
+		"City" : "HYSHAM",
+		"State" : "MT",
+		"Latitude" : "+46.290753"
+	},
+	{
+		"Longitude" : "-106.991990",
+		"Zipcode" : "59039",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEBUD",
+		"City" : "INGOMAR",
+		"State" : "MT",
+		"Latitude" : "+46.017965"
+	},
+	{
+		"Longitude" : "-108.992234",
+		"Zipcode" : "59041",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "JOLIET",
+		"State" : "MT",
+		"Latitude" : "+45.494126"
+	},
+	{
+		"Longitude" : "-106.678901",
+		"Zipcode" : "59043",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROSEBUD",
+		"City" : "LAME DEER",
+		"State" : "MT",
+		"Latitude" : "+45.620185"
+	},
+	{
+		"Longitude" : "-108.227571",
+		"Zipcode" : "59044",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "LAUREL",
+		"State" : "MT",
+		"Latitude" : "+45.804180"
+	},
+	{
+		"Longitude" : "-109.003382",
+		"Zipcode" : "59046",
+		"ZipClass" : "STANDARD",
+		"County" : "GOLDEN VALLEY",
+		"City" : "LAVINA",
+		"State" : "MT",
+		"Latitude" : "+46.383858"
+	},
+	{
+		"Longitude" : "-110.369054",
+		"Zipcode" : "59047",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "LIVINGSTON",
+		"State" : "MT",
+		"Latitude" : "+45.530664"
+	},
+	{
+		"Longitude" : "-107.367494",
+		"Zipcode" : "59050",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "LODGE GRASS",
+		"State" : "MT",
+		"Latitude" : "+45.316565"
+	},
+	{
+		"Longitude" : "-109.955671",
+		"Zipcode" : "59052",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEET GRASS",
+		"City" : "MC LEOD",
+		"State" : "MT",
+		"Latitude" : "+45.832835"
+	},
+	{
+		"Longitude" : "-110.845396",
+		"Zipcode" : "59053",
+		"ZipClass" : "STANDARD",
+		"County" : "MEAGHER",
+		"City" : "MARTINSDALE",
+		"State" : "MT",
+		"Latitude" : "+46.619039"
+	},
+	{
+		"Longitude" : "-107.869188",
+		"Zipcode" : "59054",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MUSSELSHELL",
+		"City" : "MELSTONE",
+		"State" : "MT",
+		"Latitude" : "+46.598623"
+	},
+	{
+		"Longitude" : "-109.855062",
+		"Zipcode" : "59055",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEET GRASS",
+		"City" : "MELVILLE",
+		"State" : "MT",
+		"Latitude" : "+45.696301"
+	},
+	{
+		"Longitude" : "-108.911917",
+		"Zipcode" : "59057",
+		"ZipClass" : "STANDARD",
+		"County" : "STILLWATER",
+		"City" : "MOLT",
+		"State" : "MT",
+		"Latitude" : "+45.944684"
+	},
+	{
+		"Longitude" : "-107.027417",
+		"Zipcode" : "59058",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "MOSBY",
+		"State" : "MT",
+		"Latitude" : "+47.414133"
+	},
+	{
+		"Longitude" : "-108.089742",
+		"Zipcode" : "59059",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSSELSHELL",
+		"City" : "MUSSELSHELL",
+		"State" : "MT",
+		"Latitude" : "+46.515315"
+	},
+	{
+		"Longitude" : "-109.595984",
+		"Zipcode" : "59061",
+		"ZipClass" : "STANDARD",
+		"County" : "STILLWATER",
+		"City" : "NYE",
+		"State" : "MT",
+		"Latitude" : "+45.475459"
+	},
+	{
+		"Longitude" : "-105.630461",
+		"Zipcode" : "59062",
+		"ZipClass" : "STANDARD",
+		"County" : "POWDER RIVER",
+		"City" : "OTTER",
+		"State" : "MT",
+		"Latitude" : "+45.391078"
+	},
+	{
+		"Longitude" : "-109.047266",
+		"Zipcode" : "59063",
+		"ZipClass" : "STANDARD",
+		"County" : "STILLWATER",
+		"City" : "PARK CITY",
+		"State" : "MT",
+		"Latitude" : "+45.657911"
+	},
+	{
+		"Longitude" : "-107.938592",
+		"Zipcode" : "59064",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "POMPEYS PILLAR",
+		"State" : "MT",
+		"Latitude" : "+45.964417"
+	},
+	{
+		"Longitude" : "-110.713691",
+		"Zipcode" : "59065",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "PRAY",
+		"State" : "MT",
+		"Latitude" : "+45.333104"
+	},
+	{
+		"Longitude" : "-107.481697",
+		"Zipcode" : "59066",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BIG HORN",
+		"City" : "PRYOR",
+		"State" : "MT",
+		"Latitude" : "+45.518708"
+	},
+	{
+		"Longitude" : "-109.230246",
+		"Zipcode" : "59067",
+		"ZipClass" : "STANDARD",
+		"County" : "STILLWATER",
+		"City" : "RAPELJE",
+		"State" : "MT",
+		"Latitude" : "+45.948864"
+	},
+	{
+		"Longitude" : "-109.323626",
+		"Zipcode" : "59068",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "RED LODGE",
+		"State" : "MT",
+		"Latitude" : "+45.241262"
+	},
+	{
+		"Longitude" : "-109.522372",
+		"Zipcode" : "59069",
+		"ZipClass" : "STANDARD",
+		"County" : "STILLWATER",
+		"City" : "REED POINT",
+		"State" : "MT",
+		"Latitude" : "+45.743871"
+	},
+	{
+		"Longitude" : "-109.207199",
+		"Zipcode" : "59070",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "ROBERTS",
+		"State" : "MT",
+		"Latitude" : "+45.354073"
+	},
+	{
+		"Longitude" : "-108.948445",
+		"Zipcode" : "59071",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "ROSCOE",
+		"State" : "MT",
+		"Latitude" : "+45.319054"
+	},
+	{
+		"Longitude" : "-108.427325",
+		"Zipcode" : "59072",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSSELSHELL",
+		"City" : "ROUNDUP",
+		"State" : "MT",
+		"Latitude" : "+46.440929"
+	},
+	{
+		"Longitude" : "-108.395473",
+		"Zipcode" : "59073",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSSELSHELL",
+		"City" : "ROUNDUP",
+		"State" : "MT",
+		"Latitude" : "+46.444224"
+	},
+	{
+		"Longitude" : "-109.257354",
+		"Zipcode" : "59074",
+		"ZipClass" : "STANDARD",
+		"County" : "GOLDEN VALLEY",
+		"City" : "RYEGATE",
+		"State" : "MT",
+		"Latitude" : "+46.378527"
+	},
+	{
+		"Longitude" : "-107.481697",
+		"Zipcode" : "59075",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "SAINT XAVIER",
+		"State" : "MT",
+		"Latitude" : "+45.518708"
+	},
+	{
+		"Longitude" : "-107.338750",
+		"Zipcode" : "59076",
+		"ZipClass" : "STANDARD",
+		"County" : "TREASURE",
+		"City" : "SANDERS",
+		"State" : "MT",
+		"Latitude" : "+46.176296"
+	},
+	{
+		"Longitude" : "-107.027417",
+		"Zipcode" : "59077",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "SAND SPRINGS",
+		"State" : "MT",
+		"Latitude" : "+47.414133"
+	},
+	{
+		"Longitude" : "-109.834856",
+		"Zipcode" : "59078",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEATLAND",
+		"City" : "SHAWMUT",
+		"State" : "MT",
+		"Latitude" : "+46.485721"
+	},
+	{
+		"Longitude" : "-108.435851",
+		"Zipcode" : "59079",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "SHEPHERD",
+		"State" : "MT",
+		"Latitude" : "+46.082782"
+	},
+	{
+		"Longitude" : "-109.985390",
+		"Zipcode" : "59081",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "SILVER GATE",
+		"State" : "MT",
+		"Latitude" : "+45.004618"
+	},
+	{
+		"Longitude" : "-110.477384",
+		"Zipcode" : "59082",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARK",
+		"City" : "SPRINGDALE",
+		"State" : "MT",
+		"Latitude" : "+45.333330"
+	},
+	{
+		"Longitude" : "-106.991990",
+		"Zipcode" : "59083",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROSEBUD",
+		"City" : "SUMATRA",
+		"State" : "MT",
+		"Latitude" : "+46.017965"
+	},
+	{
+		"Longitude" : "-108.281168",
+		"Zipcode" : "59084",
+		"ZipClass" : "STANDARD",
+		"County" : "PETROLEUM",
+		"City" : "TEIGEN",
+		"State" : "MT",
+		"Latitude" : "+47.173641"
+	},
+	{
+		"Longitude" : "-110.071194",
+		"Zipcode" : "59085",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEATLAND",
+		"City" : "TWO DOT",
+		"State" : "MT",
+		"Latitude" : "+46.424187"
+	},
+	{
+		"Longitude" : "-110.599503",
+		"Zipcode" : "59086",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "WILSALL",
+		"State" : "MT",
+		"Latitude" : "+46.016146"
+	},
+	{
+		"Longitude" : "-108.122735",
+		"Zipcode" : "59087",
+		"ZipClass" : "STANDARD",
+		"County" : "PETROLEUM",
+		"City" : "WINNETT",
+		"State" : "MT",
+		"Latitude" : "+47.002053"
+	},
+	{
+		"Longitude" : "-108.011128",
+		"Zipcode" : "59088",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "WORDEN",
+		"State" : "MT",
+		"Latitude" : "+46.091269"
+	},
+	{
+		"Longitude" : "-107.481697",
+		"Zipcode" : "59089",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "WYOLA",
+		"State" : "MT",
+		"Latitude" : "+45.518708"
+	},
+	{
+		"Longitude" : "-108.387392",
+		"Zipcode" : "59101",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.686966"
+	},
+	{
+		"Longitude" : "-108.588144",
+		"Zipcode" : "59102",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.790379"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59103",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59104",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-108.599037",
+		"Zipcode" : "59105",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.949726"
+	},
+	{
+		"Longitude" : "-108.568842",
+		"Zipcode" : "59106",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.799217"
+	},
+	{
+		"Longitude" : "-108.393388",
+		"Zipcode" : "59107",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.825204"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59108",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59111",
+		"ZipClass" : "UNIQUE",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59112",
+		"ZipClass" : "UNIQUE",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59114",
+		"ZipClass" : "UNIQUE",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59115",
+		"ZipClass" : "UNIQUE",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59116",
+		"ZipClass" : "UNIQUE",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-108.194508",
+		"Zipcode" : "59117",
+		"ZipClass" : "UNIQUE",
+		"County" : "YELLOWSTONE",
+		"City" : "BILLINGS",
+		"State" : "MT",
+		"Latitude" : "+45.978288"
+	},
+	{
+		"Longitude" : "-105.072426",
+		"Zipcode" : "59201",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "WOLF POINT",
+		"State" : "MT",
+		"Latitude" : "+48.208800"
+	},
+	{
+		"Longitude" : "-104.360729",
+		"Zipcode" : "59211",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "ANTELOPE",
+		"State" : "MT",
+		"Latitude" : "+48.700718"
+	},
+	{
+		"Longitude" : "-104.219188",
+		"Zipcode" : "59212",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "BAINVILLE",
+		"State" : "MT",
+		"Latitude" : "+48.139784"
+	},
+	{
+		"Longitude" : "-104.944130",
+		"Zipcode" : "59213",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "BROCKTON",
+		"State" : "MT",
+		"Latitude" : "+48.280119"
+	},
+	{
+		"Longitude" : "-105.906002",
+		"Zipcode" : "59214",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCONE",
+		"City" : "BROCKWAY",
+		"State" : "MT",
+		"Latitude" : "+47.249930"
+	},
+	{
+		"Longitude" : "-105.758852",
+		"Zipcode" : "59215",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCONE",
+		"City" : "CIRCLE",
+		"State" : "MT",
+		"Latitude" : "+47.484243"
+	},
+	{
+		"Longitude" : "-104.183625",
+		"Zipcode" : "59217",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "CRANE",
+		"State" : "MT",
+		"Latitude" : "+47.711026"
+	},
+	{
+		"Longitude" : "-104.517106",
+		"Zipcode" : "59218",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "CULBERTSON",
+		"State" : "MT",
+		"Latitude" : "+48.150238"
+	},
+	{
+		"Longitude" : "-104.294475",
+		"Zipcode" : "59219",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "DAGMAR",
+		"State" : "MT",
+		"Latitude" : "+48.558851"
+	},
+	{
+		"Longitude" : "-104.061953",
+		"Zipcode" : "59221",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "FAIRVIEW",
+		"State" : "MT",
+		"Latitude" : "+47.853542"
+	},
+	{
+		"Longitude" : "-105.562544",
+		"Zipcode" : "59222",
+		"ZipClass" : "STANDARD",
+		"County" : "DANIELS",
+		"City" : "FLAXVILLE",
+		"State" : "MT",
+		"Latitude" : "+48.781396"
+	},
+	{
+		"Longitude" : "-106.446962",
+		"Zipcode" : "59223",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "FORT PECK",
+		"State" : "MT",
+		"Latitude" : "+48.019588"
+	},
+	{
+		"Longitude" : "-106.032354",
+		"Zipcode" : "59225",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "FRAZER",
+		"State" : "MT",
+		"Latitude" : "+48.295916"
+	},
+	{
+		"Longitude" : "-104.492637",
+		"Zipcode" : "59226",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "FROID",
+		"State" : "MT",
+		"Latitude" : "+48.335745"
+	},
+	{
+		"Longitude" : "-106.474987",
+		"Zipcode" : "59230",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "GLASGOW",
+		"State" : "MT",
+		"Latitude" : "+48.439230"
+	},
+	{
+		"Longitude" : "-106.542815",
+		"Zipcode" : "59231",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "SAINT MARIE",
+		"State" : "MT",
+		"Latitude" : "+48.403894"
+	},
+	{
+		"Longitude" : "-106.609665",
+		"Zipcode" : "59240",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VALLEY",
+		"City" : "GLENTANA",
+		"State" : "MT",
+		"Latitude" : "+48.330241"
+	},
+	{
+		"Longitude" : "-106.854457",
+		"Zipcode" : "59241",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "HINSDALE",
+		"State" : "MT",
+		"Latitude" : "+48.342617"
+	},
+	{
+		"Longitude" : "-104.813996",
+		"Zipcode" : "59242",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "HOMESTEAD",
+		"State" : "MT",
+		"Latitude" : "+48.292043"
+	},
+	{
+		"Longitude" : "-104.638367",
+		"Zipcode" : "59243",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "LAMBERT",
+		"State" : "MT",
+		"Latitude" : "+47.752074"
+	},
+	{
+		"Longitude" : "-106.357152",
+		"Zipcode" : "59244",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "LARSLAN",
+		"State" : "MT",
+		"Latitude" : "+48.678589"
+	},
+	{
+		"Longitude" : "-104.944130",
+		"Zipcode" : "59245",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROOSEVELT",
+		"City" : "MC CABE",
+		"State" : "MT",
+		"Latitude" : "+48.280119"
+	},
+	{
+		"Longitude" : "-104.418145",
+		"Zipcode" : "59247",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "MEDICINE LAKE",
+		"State" : "MT",
+		"Latitude" : "+48.544896"
+	},
+	{
+		"Longitude" : "-106.320808",
+		"Zipcode" : "59248",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "NASHUA",
+		"State" : "MT",
+		"Latitude" : "+48.216068"
+	},
+	{
+		"Longitude" : "-106.272664",
+		"Zipcode" : "59250",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "OPHEIM",
+		"State" : "MT",
+		"Latitude" : "+48.912477"
+	},
+	{
+		"Longitude" : "-104.793406",
+		"Zipcode" : "59252",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "OUTLOOK",
+		"State" : "MT",
+		"Latitude" : "+48.899627"
+	},
+	{
+		"Longitude" : "-105.885542",
+		"Zipcode" : "59253",
+		"ZipClass" : "STANDARD",
+		"County" : "DANIELS",
+		"City" : "PEERLESS",
+		"State" : "MT",
+		"Latitude" : "+48.729420"
+	},
+	{
+		"Longitude" : "-104.468029",
+		"Zipcode" : "59254",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "PLENTYWOOD",
+		"State" : "MT",
+		"Latitude" : "+48.747919"
+	},
+	{
+		"Longitude" : "-105.189701",
+		"Zipcode" : "59255",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "POPLAR",
+		"State" : "MT",
+		"Latitude" : "+48.115522"
+	},
+	{
+		"Longitude" : "-104.552352",
+		"Zipcode" : "59256",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHERIDAN",
+		"City" : "RAYMOND",
+		"State" : "MT",
+		"Latitude" : "+48.694565"
+	},
+	{
+		"Longitude" : "-104.940164",
+		"Zipcode" : "59257",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "REDSTONE",
+		"State" : "MT",
+		"Latitude" : "+48.728018"
+	},
+	{
+		"Longitude" : "-104.570289",
+		"Zipcode" : "59258",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "RESERVE",
+		"State" : "MT",
+		"Latitude" : "+48.569892"
+	},
+	{
+		"Longitude" : "-104.988111",
+		"Zipcode" : "59259",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "RICHEY",
+		"State" : "MT",
+		"Latitude" : "+47.463408"
+	},
+	{
+		"Longitude" : "-106.119229",
+		"Zipcode" : "59260",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "RICHLAND",
+		"State" : "MT",
+		"Latitude" : "+48.650714"
+	},
+	{
+		"Longitude" : "-107.342553",
+		"Zipcode" : "59261",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "SACO",
+		"State" : "MT",
+		"Latitude" : "+48.457237"
+	},
+	{
+		"Longitude" : "-104.342955",
+		"Zipcode" : "59262",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "SAVAGE",
+		"State" : "MT",
+		"Latitude" : "+47.452578"
+	},
+	{
+		"Longitude" : "-105.535656",
+		"Zipcode" : "59263",
+		"ZipClass" : "STANDARD",
+		"County" : "DANIELS",
+		"City" : "SCOBEY",
+		"State" : "MT",
+		"Latitude" : "+48.712594"
+	},
+	{
+		"Longitude" : "-104.195206",
+		"Zipcode" : "59270",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "SIDNEY",
+		"State" : "MT",
+		"Latitude" : "+47.655825"
+	},
+	{
+		"Longitude" : "-106.609665",
+		"Zipcode" : "59273",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VALLEY",
+		"City" : "VANDALIA",
+		"State" : "MT",
+		"Latitude" : "+48.330241"
+	},
+	{
+		"Longitude" : "-105.535752",
+		"Zipcode" : "59274",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCONE",
+		"City" : "VIDA",
+		"State" : "MT",
+		"Latitude" : "+47.874088"
+	},
+	{
+		"Longitude" : "-104.314372",
+		"Zipcode" : "59275",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "WESTBY",
+		"State" : "MT",
+		"Latitude" : "+48.868265"
+	},
+	{
+		"Longitude" : "-105.161657",
+		"Zipcode" : "59276",
+		"ZipClass" : "STANDARD",
+		"County" : "DANIELS",
+		"City" : "WHITETAIL",
+		"State" : "MT",
+		"Latitude" : "+48.895600"
+	},
+	{
+		"Longitude" : "-105.795343",
+		"Zipcode" : "59301",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "MILES CITY",
+		"State" : "MT",
+		"Latitude" : "+46.447808"
+	},
+	{
+		"Longitude" : "-104.539066",
+		"Zipcode" : "59311",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "ALZADA",
+		"State" : "MT",
+		"Latitude" : "+45.567085"
+	},
+	{
+		"Longitude" : "-106.991990",
+		"Zipcode" : "59312",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEBUD",
+		"City" : "ANGELA",
+		"State" : "MT",
+		"Latitude" : "+46.017965"
+	},
+	{
+		"Longitude" : "-104.273377",
+		"Zipcode" : "59313",
+		"ZipClass" : "STANDARD",
+		"County" : "FALLON",
+		"City" : "BAKER",
+		"State" : "MT",
+		"Latitude" : "+46.351496"
+	},
+	{
+		"Longitude" : "-105.630461",
+		"Zipcode" : "59314",
+		"ZipClass" : "STANDARD",
+		"County" : "POWDER RIVER",
+		"City" : "BIDDLE",
+		"State" : "MT",
+		"Latitude" : "+45.391078"
+	},
+	{
+		"Longitude" : "-104.959584",
+		"Zipcode" : "59315",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "BLOOMFIELD",
+		"State" : "MT",
+		"Latitude" : "+47.409962"
+	},
+	{
+		"Longitude" : "-104.539066",
+		"Zipcode" : "59316",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "BOYES",
+		"State" : "MT",
+		"Latitude" : "+45.567085"
+	},
+	{
+		"Longitude" : "-105.256813",
+		"Zipcode" : "59317",
+		"ZipClass" : "STANDARD",
+		"County" : "POWDER RIVER",
+		"City" : "BROADUS",
+		"State" : "MT",
+		"Latitude" : "+45.257190"
+	},
+	{
+		"Longitude" : "-107.027417",
+		"Zipcode" : "59318",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "BRUSETT",
+		"State" : "MT",
+		"Latitude" : "+47.414133"
+	},
+	{
+		"Longitude" : "-104.539066",
+		"Zipcode" : "59319",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "CAPITOL",
+		"State" : "MT",
+		"Latitude" : "+45.567085"
+	},
+	{
+		"Longitude" : "-107.027417",
+		"Zipcode" : "59322",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "COHAGEN",
+		"State" : "MT",
+		"Latitude" : "+47.414133"
+	},
+	{
+		"Longitude" : "-106.636783",
+		"Zipcode" : "59323",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROSEBUD",
+		"City" : "COLSTRIP",
+		"State" : "MT",
+		"Latitude" : "+45.934423"
+	},
+	{
+		"Longitude" : "-104.640001",
+		"Zipcode" : "59324",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "EKALAKA",
+		"State" : "MT",
+		"Latitude" : "+45.897576"
+	},
+	{
+		"Longitude" : "-105.345182",
+		"Zipcode" : "59326",
+		"ZipClass" : "STANDARD",
+		"County" : "PRAIRIE",
+		"City" : "FALLON",
+		"State" : "MT",
+		"Latitude" : "+46.860997"
+	},
+	{
+		"Longitude" : "-106.630300",
+		"Zipcode" : "59327",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEBUD",
+		"City" : "FORSYTH",
+		"State" : "MT",
+		"Latitude" : "+46.174223"
+	},
+	{
+		"Longitude" : "-104.774873",
+		"Zipcode" : "59330",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "GLENDIVE",
+		"State" : "MT",
+		"Latitude" : "+47.180623"
+	},
+	{
+		"Longitude" : "-104.539066",
+		"Zipcode" : "59332",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "HAMMOND",
+		"State" : "MT",
+		"Latitude" : "+45.567085"
+	},
+	{
+		"Longitude" : "-106.991990",
+		"Zipcode" : "59333",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEBUD",
+		"City" : "HATHAWAY",
+		"State" : "MT",
+		"Latitude" : "+46.017965"
+	},
+	{
+		"Longitude" : "-105.462341",
+		"Zipcode" : "59336",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "ISMAY",
+		"State" : "MT",
+		"Latitude" : "+46.323967"
+	},
+	{
+		"Longitude" : "-106.943963",
+		"Zipcode" : "59337",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "JORDAN",
+		"State" : "MT",
+		"Latitude" : "+47.325641"
+	},
+	{
+		"Longitude" : "-105.462341",
+		"Zipcode" : "59338",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "KINSEY",
+		"State" : "MT",
+		"Latitude" : "+46.323967"
+	},
+	{
+		"Longitude" : "-105.172545",
+		"Zipcode" : "59339",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "LINDSAY",
+		"State" : "MT",
+		"Latitude" : "+47.254164"
+	},
+	{
+		"Longitude" : "-105.345182",
+		"Zipcode" : "59341",
+		"ZipClass" : "STANDARD",
+		"County" : "PRAIRIE",
+		"City" : "MILDRED",
+		"State" : "MT",
+		"Latitude" : "+46.860997"
+	},
+	{
+		"Longitude" : "-105.630461",
+		"Zipcode" : "59343",
+		"ZipClass" : "STANDARD",
+		"County" : "POWDER RIVER",
+		"City" : "OLIVE",
+		"State" : "MT",
+		"Latitude" : "+45.391078"
+	},
+	{
+		"Longitude" : "-104.475079",
+		"Zipcode" : "59344",
+		"ZipClass" : "STANDARD",
+		"County" : "FALLON",
+		"City" : "PLEVNA",
+		"State" : "MT",
+		"Latitude" : "+46.283486"
+	},
+	{
+		"Longitude" : "-105.630461",
+		"Zipcode" : "59345",
+		"ZipClass" : "STANDARD",
+		"County" : "POWDER RIVER",
+		"City" : "POWDERVILLE",
+		"State" : "MT",
+		"Latitude" : "+45.391078"
+	},
+	{
+		"Longitude" : "-106.666959",
+		"Zipcode" : "59347",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEBUD",
+		"City" : "ROSEBUD",
+		"State" : "MT",
+		"Latitude" : "+46.267953"
+	},
+	{
+		"Longitude" : "-105.630461",
+		"Zipcode" : "59348",
+		"ZipClass" : "STANDARD",
+		"County" : "POWDER RIVER",
+		"City" : "SONNETTE",
+		"State" : "MT",
+		"Latitude" : "+45.391078"
+	},
+	{
+		"Longitude" : "-105.312757",
+		"Zipcode" : "59349",
+		"ZipClass" : "STANDARD",
+		"County" : "PRAIRIE",
+		"City" : "TERRY",
+		"State" : "MT",
+		"Latitude" : "+46.789256"
+	},
+	{
+		"Longitude" : "-105.462341",
+		"Zipcode" : "59351",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "VOLBORG",
+		"State" : "MT",
+		"Latitude" : "+46.323967"
+	},
+	{
+		"Longitude" : "-104.122311",
+		"Zipcode" : "59353",
+		"ZipClass" : "STANDARD",
+		"County" : "WIBAUX",
+		"City" : "WIBAUX",
+		"State" : "MT",
+		"Latitude" : "+46.824454"
+	},
+	{
+		"Longitude" : "-104.475079",
+		"Zipcode" : "59354",
+		"ZipClass" : "STANDARD",
+		"County" : "FALLON",
+		"City" : "WILLARD",
+		"State" : "MT",
+		"Latitude" : "+46.283486"
+	},
+	{
+		"Longitude" : "-111.422948",
+		"Zipcode" : "59401",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "GREAT FALLS",
+		"State" : "MT",
+		"Latitude" : "+47.402024"
+	},
+	{
+		"Longitude" : "-111.195906",
+		"Zipcode" : "59402",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "MALMSTROM A F B",
+		"State" : "MT",
+		"Latitude" : "+47.510209"
+	},
+	{
+		"Longitude" : "-111.341975",
+		"Zipcode" : "59403",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "GREAT FALLS",
+		"State" : "MT",
+		"Latitude" : "+47.258392"
+	},
+	{
+		"Longitude" : "-111.391407",
+		"Zipcode" : "59404",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "GREAT FALLS",
+		"State" : "MT",
+		"Latitude" : "+47.554109"
+	},
+	{
+		"Longitude" : "-111.290803",
+		"Zipcode" : "59405",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "GREAT FALLS",
+		"State" : "MT",
+		"Latitude" : "+47.277623"
+	},
+	{
+		"Longitude" : "-111.239305",
+		"Zipcode" : "59406",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "GREAT FALLS",
+		"State" : "MT",
+		"Latitude" : "+47.619998"
+	},
+	{
+		"Longitude" : "-112.513362",
+		"Zipcode" : "59410",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEWIS AND CLARK",
+		"City" : "AUGUSTA",
+		"State" : "MT",
+		"Latitude" : "+47.444053"
+	},
+	{
+		"Longitude" : "-113.298384",
+		"Zipcode" : "59411",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GLACIER",
+		"City" : "BABB",
+		"State" : "MT",
+		"Latitude" : "+48.904169"
+	},
+	{
+		"Longitude" : "-110.884712",
+		"Zipcode" : "59412",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "BELT",
+		"State" : "MT",
+		"Latitude" : "+47.319621"
+	},
+	{
+		"Longitude" : "-111.234986",
+		"Zipcode" : "59414",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "BLACK EAGLE",
+		"State" : "MT",
+		"Latitude" : "+47.533156"
+	},
+	{
+		"Longitude" : "-111.715365",
+		"Zipcode" : "59416",
+		"ZipClass" : "STANDARD",
+		"County" : "PONDERA",
+		"City" : "BRADY",
+		"State" : "MT",
+		"Latitude" : "+48.065733"
+	},
+	{
+		"Longitude" : "-112.793626",
+		"Zipcode" : "59417",
+		"ZipClass" : "STANDARD",
+		"County" : "GLACIER",
+		"City" : "BROWNING",
+		"State" : "MT",
+		"Latitude" : "+48.649105"
+	},
+	{
+		"Longitude" : "-109.263080",
+		"Zipcode" : "59418",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "BUFFALO",
+		"State" : "MT",
+		"Latitude" : "+47.248497"
+	},
+	{
+		"Longitude" : "-112.457343",
+		"Zipcode" : "59419",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "BYNUM",
+		"State" : "MT",
+		"Latitude" : "+48.052324"
+	},
+	{
+		"Longitude" : "-110.471075",
+		"Zipcode" : "59420",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOUTEAU",
+		"City" : "CARTER",
+		"State" : "MT",
+		"Latitude" : "+47.861021"
+	},
+	{
+		"Longitude" : "-111.730457",
+		"Zipcode" : "59421",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "CASCADE",
+		"State" : "MT",
+		"Latitude" : "+47.276562"
+	},
+	{
+		"Longitude" : "-112.266872",
+		"Zipcode" : "59422",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "CHOTEAU",
+		"State" : "MT",
+		"Latitude" : "+47.824102"
+	},
+	{
+		"Longitude" : "-109.263080",
+		"Zipcode" : "59424",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "COFFEE CREEK",
+		"State" : "MT",
+		"Latitude" : "+47.248497"
+	},
+	{
+		"Longitude" : "-111.845931",
+		"Zipcode" : "59425",
+		"ZipClass" : "STANDARD",
+		"County" : "PONDERA",
+		"City" : "CONRAD",
+		"State" : "MT",
+		"Latitude" : "+48.182782"
+	},
+	{
+		"Longitude" : "-112.930620",
+		"Zipcode" : "59427",
+		"ZipClass" : "STANDARD",
+		"County" : "GLACIER",
+		"City" : "CUT BANK",
+		"State" : "MT",
+		"Latitude" : "+48.654298"
+	},
+	{
+		"Longitude" : "-109.973645",
+		"Zipcode" : "59430",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "DENTON",
+		"State" : "MT",
+		"Latitude" : "+47.432933"
+	},
+	{
+		"Longitude" : "-112.594329",
+		"Zipcode" : "59432",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PONDERA",
+		"City" : "DUPUYER",
+		"State" : "MT",
+		"Latitude" : "+48.181533"
+	},
+	{
+		"Longitude" : "-111.795709",
+		"Zipcode" : "59433",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "DUTTON",
+		"State" : "MT",
+		"Latitude" : "+47.842372"
+	},
+	{
+		"Longitude" : "-113.218976",
+		"Zipcode" : "59434",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GLACIER",
+		"City" : "EAST GLACIER PARK",
+		"State" : "MT",
+		"Latitude" : "+48.445686"
+	},
+	{
+		"Longitude" : "-111.731852",
+		"Zipcode" : "59435",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TOOLE",
+		"City" : "ETHRIDGE",
+		"State" : "MT",
+		"Latitude" : "+48.609072"
+	},
+	{
+		"Longitude" : "-112.207191",
+		"Zipcode" : "59436",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "FAIRFIELD",
+		"State" : "MT",
+		"Latitude" : "+47.613860"
+	},
+	{
+		"Longitude" : "-110.471075",
+		"Zipcode" : "59440",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOUTEAU",
+		"City" : "FLOWEREE",
+		"State" : "MT",
+		"Latitude" : "+47.861021"
+	},
+	{
+		"Longitude" : "-109.263080",
+		"Zipcode" : "59441",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "FORESTGROVE",
+		"State" : "MT",
+		"Latitude" : "+47.248497"
+	},
+	{
+		"Longitude" : "-110.440380",
+		"Zipcode" : "59442",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOUTEAU",
+		"City" : "FORT BENTON",
+		"State" : "MT",
+		"Latitude" : "+47.679770"
+	},
+	{
+		"Longitude" : "-111.875624",
+		"Zipcode" : "59443",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "FORT SHAW",
+		"State" : "MT",
+		"Latitude" : "+47.545978"
+	},
+	{
+		"Longitude" : "-111.470386",
+		"Zipcode" : "59444",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOLE",
+		"City" : "GALATA",
+		"State" : "MT",
+		"Latitude" : "+48.811061"
+	},
+	{
+		"Longitude" : "-109.468299",
+		"Zipcode" : "59445",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "GARNEILL",
+		"State" : "MT",
+		"Latitude" : "+47.055715"
+	},
+	{
+		"Longitude" : "-110.268910",
+		"Zipcode" : "59446",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOUTEAU",
+		"City" : "GERALDINE",
+		"State" : "MT",
+		"Latitude" : "+47.600099"
+	},
+	{
+		"Longitude" : "-110.494703",
+		"Zipcode" : "59447",
+		"ZipClass" : "STANDARD",
+		"County" : "JUDITH BASIN",
+		"City" : "GEYSER",
+		"State" : "MT",
+		"Latitude" : "+47.258941"
+	},
+	{
+		"Longitude" : "-112.845587",
+		"Zipcode" : "59448",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PONDERA",
+		"City" : "HEART BUTTE",
+		"State" : "MT",
+		"Latitude" : "+48.297291"
+	},
+	{
+		"Longitude" : "-110.471075",
+		"Zipcode" : "59450",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOUTEAU",
+		"City" : "HIGHWOOD",
+		"State" : "MT",
+		"Latitude" : "+47.861021"
+	},
+	{
+		"Longitude" : "-109.395158",
+		"Zipcode" : "59451",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "HILGER",
+		"State" : "MT",
+		"Latitude" : "+47.415174"
+	},
+	{
+		"Longitude" : "-109.875615",
+		"Zipcode" : "59452",
+		"ZipClass" : "STANDARD",
+		"County" : "JUDITH BASIN",
+		"City" : "HOBSON",
+		"State" : "MT",
+		"Latitude" : "+46.996773"
+	},
+	{
+		"Longitude" : "-109.834856",
+		"Zipcode" : "59453",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEATLAND",
+		"City" : "JUDITH GAP",
+		"State" : "MT",
+		"Latitude" : "+46.485721"
+	},
+	{
+		"Longitude" : "-111.579092",
+		"Zipcode" : "59454",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOLE",
+		"City" : "KEVIN",
+		"State" : "MT",
+		"Latitude" : "+48.750313"
+	},
+	{
+		"Longitude" : "-111.828592",
+		"Zipcode" : "59456",
+		"ZipClass" : "STANDARD",
+		"County" : "PONDERA",
+		"City" : "LEDGER",
+		"State" : "MT",
+		"Latitude" : "+48.277170"
+	},
+	{
+		"Longitude" : "-109.381996",
+		"Zipcode" : "59457",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "LEWISTOWN",
+		"State" : "MT",
+		"Latitude" : "+47.250047"
+	},
+	{
+		"Longitude" : "-110.502597",
+		"Zipcode" : "59460",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOUTEAU",
+		"City" : "LOMA",
+		"State" : "MT",
+		"Latitude" : "+47.936513"
+	},
+	{
+		"Longitude" : "-111.731852",
+		"Zipcode" : "59461",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "LOTHAIR",
+		"State" : "MT",
+		"Latitude" : "+48.609072"
+	},
+	{
+		"Longitude" : "-109.910548",
+		"Zipcode" : "59462",
+		"ZipClass" : "STANDARD",
+		"County" : "JUDITH BASIN",
+		"City" : "MOCCASIN",
+		"State" : "MT",
+		"Latitude" : "+47.051079"
+	},
+	{
+		"Longitude" : "-110.883026",
+		"Zipcode" : "59463",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "MONARCH",
+		"State" : "MT",
+		"Latitude" : "+47.051490"
+	},
+	{
+		"Longitude" : "-109.693316",
+		"Zipcode" : "59464",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "MOORE",
+		"State" : "MT",
+		"Latitude" : "+46.974485"
+	},
+	{
+		"Longitude" : "-111.153717",
+		"Zipcode" : "59465",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "NEIHART",
+		"State" : "MT",
+		"Latitude" : "+47.293879"
+	},
+	{
+		"Longitude" : "-111.691145",
+		"Zipcode" : "59466",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOLE",
+		"City" : "OILMONT",
+		"State" : "MT",
+		"Latitude" : "+48.825895"
+	},
+	{
+		"Longitude" : "-112.316655",
+		"Zipcode" : "59467",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "PENDROY",
+		"State" : "MT",
+		"Latitude" : "+48.042871"
+	},
+	{
+		"Longitude" : "-111.693800",
+		"Zipcode" : "59468",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "POWER",
+		"State" : "MT",
+		"Latitude" : "+47.726972"
+	},
+	{
+		"Longitude" : "-110.267003",
+		"Zipcode" : "59469",
+		"ZipClass" : "STANDARD",
+		"County" : "JUDITH BASIN",
+		"City" : "RAYNESFORD",
+		"State" : "MT",
+		"Latitude" : "+47.044583"
+	},
+	{
+		"Longitude" : "-109.085342",
+		"Zipcode" : "59471",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "ROY",
+		"State" : "MT",
+		"Latitude" : "+47.308278"
+	},
+	{
+		"Longitude" : "-111.136243",
+		"Zipcode" : "59472",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "SAND COULEE",
+		"State" : "MT",
+		"Latitude" : "+47.408651"
+	},
+	{
+		"Longitude" : "-113.126262",
+		"Zipcode" : "59473",
+		"ZipClass" : "STANDARD",
+		"County" : "GLACIER",
+		"City" : "SANTA RITA",
+		"State" : "MT",
+		"Latitude" : "+48.654170"
+	},
+	{
+		"Longitude" : "-111.732330",
+		"Zipcode" : "59474",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOLE",
+		"City" : "SHELBY",
+		"State" : "MT",
+		"Latitude" : "+48.610551"
+	},
+	{
+		"Longitude" : "-111.886092",
+		"Zipcode" : "59477",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASCADE",
+		"City" : "SIMMS",
+		"State" : "MT",
+		"Latitude" : "+47.495784"
+	},
+	{
+		"Longitude" : "-110.222384",
+		"Zipcode" : "59479",
+		"ZipClass" : "STANDARD",
+		"County" : "JUDITH BASIN",
+		"City" : "STANFORD",
+		"State" : "MT",
+		"Latitude" : "+47.151357"
+	},
+	{
+		"Longitude" : "-111.083851",
+		"Zipcode" : "59480",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "STOCKETT",
+		"State" : "MT",
+		"Latitude" : "+47.254660"
+	},
+	{
+		"Longitude" : "-111.735136",
+		"Zipcode" : "59482",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOLE",
+		"City" : "SUNBURST",
+		"State" : "MT",
+		"Latitude" : "+48.879199"
+	},
+	{
+		"Longitude" : "-111.753303",
+		"Zipcode" : "59483",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "SUN RIVER",
+		"State" : "MT",
+		"Latitude" : "+47.480800"
+	},
+	{
+		"Longitude" : "-111.849008",
+		"Zipcode" : "59484",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOLE",
+		"City" : "SWEET GRASS",
+		"State" : "MT",
+		"Latitude" : "+48.940067"
+	},
+	{
+		"Longitude" : "-111.595425",
+		"Zipcode" : "59485",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASCADE",
+		"City" : "ULM",
+		"State" : "MT",
+		"Latitude" : "+47.353925"
+	},
+	{
+		"Longitude" : "-112.311973",
+		"Zipcode" : "59486",
+		"ZipClass" : "STANDARD",
+		"County" : "PONDERA",
+		"City" : "VALIER",
+		"State" : "MT",
+		"Latitude" : "+48.270833"
+	},
+	{
+		"Longitude" : "-111.637014",
+		"Zipcode" : "59487",
+		"ZipClass" : "STANDARD",
+		"County" : "CASCADE",
+		"City" : "VAUGHN",
+		"State" : "MT",
+		"Latitude" : "+47.580761"
+	},
+	{
+		"Longitude" : "-109.430106",
+		"Zipcode" : "59489",
+		"ZipClass" : "STANDARD",
+		"County" : "FERGUS",
+		"City" : "WINIFRED",
+		"State" : "MT",
+		"Latitude" : "+47.065531"
+	},
+	{
+		"Longitude" : "-110.094370",
+		"Zipcode" : "59501",
+		"ZipClass" : "STANDARD",
+		"County" : "HILL",
+		"City" : "HAVRE",
+		"State" : "MT",
+		"Latitude" : "+48.663002"
+	},
+	{
+		"Longitude" : "-110.311201",
+		"Zipcode" : "59520",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOUTEAU",
+		"City" : "BIG SANDY",
+		"State" : "MT",
+		"Latitude" : "+48.176410"
+	},
+	{
+		"Longitude" : "-110.215299",
+		"Zipcode" : "59521",
+		"ZipClass" : "STANDARD",
+		"County" : "HILL",
+		"City" : "BOX ELDER",
+		"State" : "MT",
+		"Latitude" : "+48.320405"
+	},
+	{
+		"Longitude" : "-110.967372",
+		"Zipcode" : "59522",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "CHESTER",
+		"State" : "MT",
+		"Latitude" : "+48.510659"
+	},
+	{
+		"Longitude" : "-109.261678",
+		"Zipcode" : "59523",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "CHINOOK",
+		"State" : "MT",
+		"Latitude" : "+48.487741"
+	},
+	{
+		"Longitude" : "-108.246539",
+		"Zipcode" : "59524",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "DODSON",
+		"State" : "MT",
+		"Latitude" : "+48.394962"
+	},
+	{
+		"Longitude" : "-110.301301",
+		"Zipcode" : "59525",
+		"ZipClass" : "STANDARD",
+		"County" : "HILL",
+		"City" : "GILDFORD",
+		"State" : "MT",
+		"Latitude" : "+48.571498"
+	},
+	{
+		"Longitude" : "-108.818157",
+		"Zipcode" : "59526",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "HARLEM",
+		"State" : "MT",
+		"Latitude" : "+48.655123"
+	},
+	{
+		"Longitude" : "-108.893920",
+		"Zipcode" : "59527",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BLAINE",
+		"City" : "HAYS",
+		"State" : "MT",
+		"Latitude" : "+48.360516"
+	},
+	{
+		"Longitude" : "-110.301301",
+		"Zipcode" : "59528",
+		"ZipClass" : "STANDARD",
+		"County" : "HILL",
+		"City" : "HINGHAM",
+		"State" : "MT",
+		"Latitude" : "+48.571498"
+	},
+	{
+		"Longitude" : "-108.893920",
+		"Zipcode" : "59529",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "HOGELAND",
+		"State" : "MT",
+		"Latitude" : "+48.360516"
+	},
+	{
+		"Longitude" : "-110.110287",
+		"Zipcode" : "59530",
+		"ZipClass" : "STANDARD",
+		"County" : "HILL",
+		"City" : "INVERNESS",
+		"State" : "MT",
+		"Latitude" : "+48.566602"
+	},
+	{
+		"Longitude" : "-111.075884",
+		"Zipcode" : "59531",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "JOPLIN",
+		"State" : "MT",
+		"Latitude" : "+48.565402"
+	},
+	{
+		"Longitude" : "-110.106003",
+		"Zipcode" : "59532",
+		"ZipClass" : "STANDARD",
+		"County" : "HILL",
+		"City" : "KREMLIN",
+		"State" : "MT",
+		"Latitude" : "+48.449359"
+	},
+	{
+		"Longitude" : "-108.893920",
+		"Zipcode" : "59535",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "LLOYD",
+		"State" : "MT",
+		"Latitude" : "+48.360516"
+	},
+	{
+		"Longitude" : "-108.035444",
+		"Zipcode" : "59537",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "LORING",
+		"State" : "MT",
+		"Latitude" : "+48.224749"
+	},
+	{
+		"Longitude" : "-107.783145",
+		"Zipcode" : "59538",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "MALTA",
+		"State" : "MT",
+		"Latitude" : "+48.124479"
+	},
+	{
+		"Longitude" : "-110.110287",
+		"Zipcode" : "59540",
+		"ZipClass" : "STANDARD",
+		"County" : "HILL",
+		"City" : "RUDYARD",
+		"State" : "MT",
+		"Latitude" : "+48.566602"
+	},
+	{
+		"Longitude" : "-108.893920",
+		"Zipcode" : "59542",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "TURNER",
+		"State" : "MT",
+		"Latitude" : "+48.360516"
+	},
+	{
+		"Longitude" : "-108.035444",
+		"Zipcode" : "59544",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "WHITEWATER",
+		"State" : "MT",
+		"Latitude" : "+48.224749"
+	},
+	{
+		"Longitude" : "-110.966631",
+		"Zipcode" : "59545",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "WHITLASH",
+		"State" : "MT",
+		"Latitude" : "+48.509680"
+	},
+	{
+		"Longitude" : "-108.035444",
+		"Zipcode" : "59546",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "ZORTMAN",
+		"State" : "MT",
+		"Latitude" : "+48.224749"
+	},
+	{
+		"Longitude" : "-108.893920",
+		"Zipcode" : "59547",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "ZURICH",
+		"State" : "MT",
+		"Latitude" : "+48.360516"
+	},
+	{
+		"Longitude" : "-112.197616",
+		"Zipcode" : "59601",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "HELENA",
+		"State" : "MT",
+		"Latitude" : "+46.709340"
+	},
+	{
+		"Longitude" : "-111.957961",
+		"Zipcode" : "59602",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "HELENA",
+		"State" : "MT",
+		"Latitude" : "+46.707449"
+	},
+	{
+		"Longitude" : "-111.968877",
+		"Zipcode" : "59604",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "HELENA",
+		"State" : "MT",
+		"Latitude" : "+46.667200"
+	},
+	{
+		"Longitude" : "-112.330214",
+		"Zipcode" : "59620",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "HELENA",
+		"State" : "MT",
+		"Latitude" : "+47.184233"
+	},
+	{
+		"Longitude" : "-112.040173",
+		"Zipcode" : "59623",
+		"ZipClass" : "UNIQUE",
+		"County" : "LEWIS AND CLARK",
+		"City" : "HELENA",
+		"State" : "MT",
+		"Latitude" : "+46.590083"
+	},
+	{
+		"Longitude" : "-112.062393",
+		"Zipcode" : "59624",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "HELENA",
+		"State" : "MT",
+		"Latitude" : "+46.610002"
+	},
+	{
+		"Longitude" : "-112.041346",
+		"Zipcode" : "59625",
+		"ZipClass" : "UNIQUE",
+		"County" : "LEWIS AND CLARK",
+		"City" : "HELENA",
+		"State" : "MT",
+		"Latitude" : "+46.601832"
+	},
+	{
+		"Longitude" : "-112.330214",
+		"Zipcode" : "59626",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "HELENA",
+		"State" : "MT",
+		"Latitude" : "+47.184233"
+	},
+	{
+		"Longitude" : "-112.196662",
+		"Zipcode" : "59631",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "BASIN",
+		"State" : "MT",
+		"Latitude" : "+46.329577"
+	},
+	{
+		"Longitude" : "-111.942989",
+		"Zipcode" : "59632",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BOULDER",
+		"State" : "MT",
+		"Latitude" : "+46.141948"
+	},
+	{
+		"Longitude" : "-112.330214",
+		"Zipcode" : "59633",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "CANYON CREEK",
+		"State" : "MT",
+		"Latitude" : "+47.184233"
+	},
+	{
+		"Longitude" : "-112.071620",
+		"Zipcode" : "59634",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "CLANCY",
+		"State" : "MT",
+		"Latitude" : "+46.388739"
+	},
+	{
+		"Longitude" : "-111.852594",
+		"Zipcode" : "59635",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "EAST HELENA",
+		"State" : "MT",
+		"Latitude" : "+46.633769"
+	},
+	{
+		"Longitude" : "-112.121494",
+		"Zipcode" : "59636",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEWIS AND CLARK",
+		"City" : "FORT HARRISON",
+		"State" : "MT",
+		"Latitude" : "+46.609677"
+	},
+	{
+		"Longitude" : "-112.023155",
+		"Zipcode" : "59638",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "JEFFERSON CITY",
+		"State" : "MT",
+		"Latitude" : "+46.367883"
+	},
+	{
+		"Longitude" : "-112.623833",
+		"Zipcode" : "59639",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "LINCOLN",
+		"State" : "MT",
+		"Latitude" : "+46.958253"
+	},
+	{
+		"Longitude" : "-112.299402",
+		"Zipcode" : "59640",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEWIS AND CLARK",
+		"City" : "MARYSVILLE",
+		"State" : "MT",
+		"Latitude" : "+46.749945"
+	},
+	{
+		"Longitude" : "-111.634364",
+		"Zipcode" : "59641",
+		"ZipClass" : "STANDARD",
+		"County" : "BROADWATER",
+		"City" : "RADERSBURG",
+		"State" : "MT",
+		"Latitude" : "+46.206922"
+	},
+	{
+		"Longitude" : "-110.965623",
+		"Zipcode" : "59642",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MEAGHER",
+		"City" : "RINGLING",
+		"State" : "MT",
+		"Latitude" : "+46.636196"
+	},
+	{
+		"Longitude" : "-111.526373",
+		"Zipcode" : "59643",
+		"ZipClass" : "STANDARD",
+		"County" : "BROADWATER",
+		"City" : "TOSTON",
+		"State" : "MT",
+		"Latitude" : "+46.285118"
+	},
+	{
+		"Longitude" : "-111.399649",
+		"Zipcode" : "59644",
+		"ZipClass" : "STANDARD",
+		"County" : "BROADWATER",
+		"City" : "TOWNSEND",
+		"State" : "MT",
+		"Latitude" : "+46.406137"
+	},
+	{
+		"Longitude" : "-111.050627",
+		"Zipcode" : "59645",
+		"ZipClass" : "STANDARD",
+		"County" : "MEAGHER",
+		"City" : "WHITE SULPHUR SPRINGS",
+		"State" : "MT",
+		"Latitude" : "+46.633160"
+	},
+	{
+		"Longitude" : "-111.650954",
+		"Zipcode" : "59647",
+		"ZipClass" : "STANDARD",
+		"County" : "BROADWATER",
+		"City" : "WINSTON",
+		"State" : "MT",
+		"Latitude" : "+46.454470"
+	},
+	{
+		"Longitude" : "-112.147602",
+		"Zipcode" : "59648",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS AND CLARK",
+		"City" : "WOLF CREEK",
+		"State" : "MT",
+		"Latitude" : "+47.085616"
+	},
+	{
+		"Longitude" : "-112.598765",
+		"Zipcode" : "59701",
+		"ZipClass" : "STANDARD",
+		"County" : "SILVER BOW",
+		"City" : "BUTTE",
+		"State" : "MT",
+		"Latitude" : "+45.997895"
+	},
+	{
+		"Longitude" : "-112.637705",
+		"Zipcode" : "59702",
+		"ZipClass" : "STANDARD",
+		"County" : "SILVER BOW",
+		"City" : "BUTTE",
+		"State" : "MT",
+		"Latitude" : "+45.905345"
+	},
+	{
+		"Longitude" : "-112.637705",
+		"Zipcode" : "59703",
+		"ZipClass" : "STANDARD",
+		"County" : "SILVER BOW",
+		"City" : "BUTTE",
+		"State" : "MT",
+		"Latitude" : "+45.905345"
+	},
+	{
+		"Longitude" : "-112.637705",
+		"Zipcode" : "59707",
+		"ZipClass" : "UNIQUE",
+		"County" : "SILVER BOW",
+		"City" : "BUTTE",
+		"State" : "MT",
+		"Latitude" : "+45.905345"
+	},
+	{
+		"Longitude" : "-112.056807",
+		"Zipcode" : "59710",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "ALDER",
+		"State" : "MT",
+		"Latitude" : "+45.193898"
+	},
+	{
+		"Longitude" : "-113.009421",
+		"Zipcode" : "59711",
+		"ZipClass" : "STANDARD",
+		"County" : "DEER LODGE",
+		"City" : "ANACONDA",
+		"State" : "MT",
+		"Latitude" : "+46.158210"
+	},
+	{
+		"Longitude" : "-112.649859",
+		"Zipcode" : "59713",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POWELL",
+		"City" : "AVON",
+		"State" : "MT",
+		"Latitude" : "+46.565725"
+	},
+	{
+		"Longitude" : "-111.099517",
+		"Zipcode" : "59714",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "BELGRADE",
+		"State" : "MT",
+		"Latitude" : "+45.426786"
+	},
+	{
+		"Longitude" : "-111.168212",
+		"Zipcode" : "59715",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "BOZEMAN",
+		"State" : "MT",
+		"Latitude" : "+45.809998"
+	},
+	{
+		"Longitude" : "-111.270773",
+		"Zipcode" : "59716",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "BIG SKY",
+		"State" : "MT",
+		"Latitude" : "+45.278260"
+	},
+	{
+		"Longitude" : "-110.901280",
+		"Zipcode" : "59717",
+		"ZipClass" : "UNIQUE",
+		"County" : "GALLATIN",
+		"City" : "BOZEMAN",
+		"State" : "MT",
+		"Latitude" : "+45.627982"
+	},
+	{
+		"Longitude" : "-111.240393",
+		"Zipcode" : "59718",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "BOZEMAN",
+		"State" : "MT",
+		"Latitude" : "+45.668120"
+	},
+	{
+		"Longitude" : "-110.901280",
+		"Zipcode" : "59719",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "BOZEMAN",
+		"State" : "MT",
+		"Latitude" : "+45.627982"
+	},
+	{
+		"Longitude" : "-111.528472",
+		"Zipcode" : "59720",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "CAMERON",
+		"State" : "MT",
+		"Latitude" : "+44.992962"
+	},
+	{
+		"Longitude" : "-111.889682",
+		"Zipcode" : "59721",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "CARDWELL",
+		"State" : "MT",
+		"Latitude" : "+45.870517"
+	},
+	{
+		"Longitude" : "-112.642136",
+		"Zipcode" : "59722",
+		"ZipClass" : "STANDARD",
+		"County" : "POWELL",
+		"City" : "DEER LODGE",
+		"State" : "MT",
+		"Latitude" : "+46.401859"
+	},
+	{
+		"Longitude" : "-112.700730",
+		"Zipcode" : "59724",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVERHEAD",
+		"City" : "DELL",
+		"State" : "MT",
+		"Latitude" : "+45.149805"
+	},
+	{
+		"Longitude" : "-112.996870",
+		"Zipcode" : "59725",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVERHEAD",
+		"City" : "DILLON",
+		"State" : "MT",
+		"Latitude" : "+45.244373"
+	},
+	{
+		"Longitude" : "-112.637705",
+		"Zipcode" : "59727",
+		"ZipClass" : "STANDARD",
+		"County" : "SILVER BOW",
+		"City" : "DIVIDE",
+		"State" : "MT",
+		"Latitude" : "+45.905345"
+	},
+	{
+		"Longitude" : "-112.400742",
+		"Zipcode" : "59728",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POWELL",
+		"City" : "ELLISTON",
+		"State" : "MT",
+		"Latitude" : "+46.503396"
+	},
+	{
+		"Longitude" : "-111.665136",
+		"Zipcode" : "59729",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ENNIS",
+		"State" : "MT",
+		"Latitude" : "+45.289586"
+	},
+	{
+		"Longitude" : "-111.248480",
+		"Zipcode" : "59730",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "GALLATIN GATEWAY",
+		"State" : "MT",
+		"Latitude" : "+45.338987"
+	},
+	{
+		"Longitude" : "-112.775572",
+		"Zipcode" : "59731",
+		"ZipClass" : "STANDARD",
+		"County" : "POWELL",
+		"City" : "GARRISON",
+		"State" : "MT",
+		"Latitude" : "+46.594845"
+	},
+	{
+		"Longitude" : "-112.700730",
+		"Zipcode" : "59732",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVERHEAD",
+		"City" : "GLEN",
+		"State" : "MT",
+		"Latitude" : "+45.149805"
+	},
+	{
+		"Longitude" : "-112.936757",
+		"Zipcode" : "59733",
+		"ZipClass" : "STANDARD",
+		"County" : "POWELL",
+		"City" : "GOLD CREEK",
+		"State" : "MT",
+		"Latitude" : "+46.587910"
+	},
+	{
+		"Longitude" : "-112.027561",
+		"Zipcode" : "59735",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "HARRISON",
+		"State" : "MT",
+		"Latitude" : "+45.283594"
+	},
+	{
+		"Longitude" : "-113.359826",
+		"Zipcode" : "59736",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVERHEAD",
+		"City" : "JACKSON",
+		"State" : "MT",
+		"Latitude" : "+45.368653"
+	},
+	{
+		"Longitude" : "-112.663633",
+		"Zipcode" : "59739",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVERHEAD",
+		"City" : "LIMA",
+		"State" : "MT",
+		"Latitude" : "+44.699033"
+	},
+	{
+		"Longitude" : "-111.776123",
+		"Zipcode" : "59740",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "MC ALLISTER",
+		"State" : "MT",
+		"Latitude" : "+45.408045"
+	},
+	{
+		"Longitude" : "-111.374118",
+		"Zipcode" : "59741",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "MANHATTAN",
+		"State" : "MT",
+		"Latitude" : "+45.771228"
+	},
+	{
+		"Longitude" : "-112.637705",
+		"Zipcode" : "59743",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SILVER BOW",
+		"City" : "MELROSE",
+		"State" : "MT",
+		"Latitude" : "+45.905345"
+	},
+	{
+		"Longitude" : "-111.721631",
+		"Zipcode" : "59745",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "NORRIS",
+		"State" : "MT",
+		"Latitude" : "+45.566095"
+	},
+	{
+		"Longitude" : "-113.018805",
+		"Zipcode" : "59746",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVERHEAD",
+		"City" : "POLARIS",
+		"State" : "MT",
+		"Latitude" : "+45.562650"
+	},
+	{
+		"Longitude" : "-112.027561",
+		"Zipcode" : "59747",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "PONY",
+		"State" : "MT",
+		"Latitude" : "+45.283594"
+	},
+	{
+		"Longitude" : "-112.758914",
+		"Zipcode" : "59748",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SILVER BOW",
+		"City" : "RAMSAY",
+		"State" : "MT",
+		"Latitude" : "+46.028844"
+	},
+	{
+		"Longitude" : "-111.932378",
+		"Zipcode" : "59749",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "SHERIDAN",
+		"State" : "MT",
+		"Latitude" : "+45.309586"
+	},
+	{
+		"Longitude" : "-112.736528",
+		"Zipcode" : "59750",
+		"ZipClass" : "STANDARD",
+		"County" : "SILVER BOW",
+		"City" : "BUTTE",
+		"State" : "MT",
+		"Latitude" : "+45.939758"
+	},
+	{
+		"Longitude" : "-112.253501",
+		"Zipcode" : "59751",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "SILVER STAR",
+		"State" : "MT",
+		"Latitude" : "+45.700002"
+	},
+	{
+		"Longitude" : "-111.456240",
+		"Zipcode" : "59752",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "THREE FORKS",
+		"State" : "MT",
+		"Latitude" : "+45.375515"
+	},
+	{
+		"Longitude" : "-112.416508",
+		"Zipcode" : "59754",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "TWIN BRIDGES",
+		"State" : "MT",
+		"Latitude" : "+45.492611"
+	},
+	{
+		"Longitude" : "-111.868085",
+		"Zipcode" : "59755",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "VIRGINIA CITY",
+		"State" : "MT",
+		"Latitude" : "+45.325565"
+	},
+	{
+		"Longitude" : "-112.811742",
+		"Zipcode" : "59756",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DEER LODGE",
+		"City" : "WARM SPRINGS",
+		"State" : "MT",
+		"Latitude" : "+46.218279"
+	},
+	{
+		"Longitude" : "-111.237705",
+		"Zipcode" : "59758",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "WEST YELLOWSTONE",
+		"State" : "MT",
+		"Latitude" : "+44.763016"
+	},
+	{
+		"Longitude" : "-112.088845",
+		"Zipcode" : "59759",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WHITEHALL",
+		"State" : "MT",
+		"Latitude" : "+45.996345"
+	},
+	{
+		"Longitude" : "-111.634532",
+		"Zipcode" : "59760",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GALLATIN",
+		"City" : "WILLOW CREEK",
+		"State" : "MT",
+		"Latitude" : "+45.782744"
+	},
+	{
+		"Longitude" : "-113.473541",
+		"Zipcode" : "59761",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVERHEAD",
+		"City" : "WISDOM",
+		"State" : "MT",
+		"Latitude" : "+45.542434"
+	},
+	{
+		"Longitude" : "-113.250784",
+		"Zipcode" : "59762",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVERHEAD",
+		"City" : "WISE RIVER",
+		"State" : "MT",
+		"Latitude" : "+45.720048"
+	},
+	{
+		"Longitude" : "-111.123775",
+		"Zipcode" : "59771",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "BOZEMAN",
+		"State" : "MT",
+		"Latitude" : "+45.724650"
+	},
+	{
+		"Longitude" : "-111.064676",
+		"Zipcode" : "59772",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "BOZEMAN",
+		"State" : "MT",
+		"Latitude" : "+45.636149"
+	},
+	{
+		"Longitude" : "-110.901280",
+		"Zipcode" : "59773",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "BOZEMAN",
+		"State" : "MT",
+		"Latitude" : "+45.627982"
+	},
+	{
+		"Longitude" : "-113.909123",
+		"Zipcode" : "59801",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "MISSOULA",
+		"State" : "MT",
+		"Latitude" : "+46.853606"
+	},
+	{
+		"Longitude" : "-113.954788",
+		"Zipcode" : "59802",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "MISSOULA",
+		"State" : "MT",
+		"Latitude" : "+46.989689"
+	},
+	{
+		"Longitude" : "-113.987645",
+		"Zipcode" : "59803",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "MISSOULA",
+		"State" : "MT",
+		"Latitude" : "+46.811758"
+	},
+	{
+		"Longitude" : "-114.169784",
+		"Zipcode" : "59804",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "MISSOULA",
+		"State" : "MT",
+		"Latitude" : "+46.846708"
+	},
+	{
+		"Longitude" : "-114.049824",
+		"Zipcode" : "59806",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "MISSOULA",
+		"State" : "MT",
+		"Latitude" : "+47.116034"
+	},
+	{
+		"Longitude" : "-113.958686",
+		"Zipcode" : "59807",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "MISSOULA",
+		"State" : "MT",
+		"Latitude" : "+46.910342"
+	},
+	{
+		"Longitude" : "-114.061856",
+		"Zipcode" : "59808",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "MISSOULA",
+		"State" : "MT",
+		"Latitude" : "+46.977603"
+	},
+	{
+		"Longitude" : "-114.049824",
+		"Zipcode" : "59812",
+		"ZipClass" : "UNIQUE",
+		"County" : "MISSOULA",
+		"City" : "MISSOULA",
+		"State" : "MT",
+		"Latitude" : "+47.116034"
+	},
+	{
+		"Longitude" : "-114.558456",
+		"Zipcode" : "59820",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "ALBERTON",
+		"State" : "MT",
+		"Latitude" : "+46.989275"
+	},
+	{
+		"Longitude" : "-114.024625",
+		"Zipcode" : "59821",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "ARLEE",
+		"State" : "MT",
+		"Latitude" : "+47.220055"
+	},
+	{
+		"Longitude" : "-113.727871",
+		"Zipcode" : "59823",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "BONNER",
+		"State" : "MT",
+		"Latitude" : "+46.870183"
+	},
+	{
+		"Longitude" : "-114.176098",
+		"Zipcode" : "59824",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "CHARLO",
+		"State" : "MT",
+		"Latitude" : "+47.312398"
+	},
+	{
+		"Longitude" : "-113.683052",
+		"Zipcode" : "59825",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "CLINTON",
+		"State" : "MT",
+		"Latitude" : "+46.778468"
+	},
+	{
+		"Longitude" : "-113.677639",
+		"Zipcode" : "59826",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "CONDON",
+		"State" : "MT",
+		"Latitude" : "+47.479334"
+	},
+	{
+		"Longitude" : "-114.059040",
+		"Zipcode" : "59827",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "CONNER",
+		"State" : "MT",
+		"Latitude" : "+45.918972"
+	},
+	{
+		"Longitude" : "-114.117918",
+		"Zipcode" : "59828",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "CORVALLIS",
+		"State" : "MT",
+		"Latitude" : "+46.446801"
+	},
+	{
+		"Longitude" : "-114.176841",
+		"Zipcode" : "59829",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "DARBY",
+		"State" : "MT",
+		"Latitude" : "+46.086434"
+	},
+	{
+		"Longitude" : "-115.347934",
+		"Zipcode" : "59830",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "DE BORGIA",
+		"State" : "MT",
+		"Latitude" : "+47.388827"
+	},
+	{
+		"Longitude" : "-114.328588",
+		"Zipcode" : "59831",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDERS",
+		"City" : "DIXON",
+		"State" : "MT",
+		"Latitude" : "+47.306957"
+	},
+	{
+		"Longitude" : "-113.215445",
+		"Zipcode" : "59832",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANITE",
+		"City" : "DRUMMOND",
+		"State" : "MT",
+		"Latitude" : "+46.687633"
+	},
+	{
+		"Longitude" : "-114.041920",
+		"Zipcode" : "59833",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "FLORENCE",
+		"State" : "MT",
+		"Latitude" : "+46.617296"
+	},
+	{
+		"Longitude" : "-114.251384",
+		"Zipcode" : "59834",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "FRENCHTOWN",
+		"State" : "MT",
+		"Latitude" : "+47.065558"
+	},
+	{
+		"Longitude" : "-114.040777",
+		"Zipcode" : "59835",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "GRANTSDALE",
+		"State" : "MT",
+		"Latitude" : "+46.060169"
+	},
+	{
+		"Longitude" : "-113.444116",
+		"Zipcode" : "59836",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "GREENOUGH",
+		"State" : "MT",
+		"Latitude" : "+47.013278"
+	},
+	{
+		"Longitude" : "-113.238730",
+		"Zipcode" : "59837",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANITE",
+		"City" : "HALL",
+		"State" : "MT",
+		"Latitude" : "+46.466704"
+	},
+	{
+		"Longitude" : "-114.165774",
+		"Zipcode" : "59840",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "HAMILTON",
+		"State" : "MT",
+		"Latitude" : "+46.234189"
+	},
+	{
+		"Longitude" : "-114.223493",
+		"Zipcode" : "59841",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "PINESDALE",
+		"State" : "MT",
+		"Latitude" : "+46.332893"
+	},
+	{
+		"Longitude" : "-115.516347",
+		"Zipcode" : "59842",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "HAUGAN",
+		"State" : "MT",
+		"Latitude" : "+47.402824"
+	},
+	{
+		"Longitude" : "-112.931166",
+		"Zipcode" : "59843",
+		"ZipClass" : "STANDARD",
+		"County" : "POWELL",
+		"City" : "HELMVILLE",
+		"State" : "MT",
+		"Latitude" : "+46.863363"
+	},
+	{
+		"Longitude" : "-115.969619",
+		"Zipcode" : "59844",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDERS",
+		"City" : "HERON",
+		"State" : "MT",
+		"Latitude" : "+48.047863"
+	},
+	{
+		"Longitude" : "-114.553693",
+		"Zipcode" : "59845",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDERS",
+		"City" : "HOT SPRINGS",
+		"State" : "MT",
+		"Latitude" : "+47.633565"
+	},
+	{
+		"Longitude" : "-114.398643",
+		"Zipcode" : "59846",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "HUSON",
+		"State" : "MT",
+		"Latitude" : "+47.067886"
+	},
+	{
+		"Longitude" : "-114.299241",
+		"Zipcode" : "59847",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "LOLO",
+		"State" : "MT",
+		"Latitude" : "+46.745400"
+	},
+	{
+		"Longitude" : "-114.657042",
+		"Zipcode" : "59848",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDERS",
+		"City" : "LONEPINE",
+		"State" : "MT",
+		"Latitude" : "+47.725065"
+	},
+	{
+		"Longitude" : "-113.878294",
+		"Zipcode" : "59851",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MISSOULA",
+		"City" : "MILLTOWN",
+		"State" : "MT",
+		"Latitude" : "+46.873695"
+	},
+	{
+		"Longitude" : "-115.858153",
+		"Zipcode" : "59853",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDERS",
+		"City" : "NOXON",
+		"State" : "MT",
+		"Latitude" : "+48.076781"
+	},
+	{
+		"Longitude" : "-113.097461",
+		"Zipcode" : "59854",
+		"ZipClass" : "STANDARD",
+		"County" : "POWELL",
+		"City" : "OVANDO",
+		"State" : "MT",
+		"Latitude" : "+47.035882"
+	},
+	{
+		"Longitude" : "-114.212413",
+		"Zipcode" : "59855",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "PABLO",
+		"State" : "MT",
+		"Latitude" : "+47.651275"
+	},
+	{
+		"Longitude" : "-114.799000",
+		"Zipcode" : "59856",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANDERS",
+		"City" : "PARADISE",
+		"State" : "MT",
+		"Latitude" : "+47.387824"
+	},
+	{
+		"Longitude" : "-113.435709",
+		"Zipcode" : "59858",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANITE",
+		"City" : "PHILIPSBURG",
+		"State" : "MT",
+		"Latitude" : "+46.272241"
+	},
+	{
+		"Longitude" : "-115.083253",
+		"Zipcode" : "59859",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDERS",
+		"City" : "PLAINS",
+		"State" : "MT",
+		"Latitude" : "+47.603143"
+	},
+	{
+		"Longitude" : "-114.230256",
+		"Zipcode" : "59860",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "POLSON",
+		"State" : "MT",
+		"Latitude" : "+47.737279"
+	},
+	{
+		"Longitude" : "-114.101443",
+		"Zipcode" : "59863",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "RAVALLI",
+		"State" : "MT",
+		"Latitude" : "+47.594957"
+	},
+	{
+		"Longitude" : "-114.178287",
+		"Zipcode" : "59864",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "RONAN",
+		"State" : "MT",
+		"Latitude" : "+47.507347"
+	},
+	{
+		"Longitude" : "-114.064086",
+		"Zipcode" : "59865",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "SAINT IGNATIUS",
+		"State" : "MT",
+		"Latitude" : "+47.372450"
+	},
+	{
+		"Longitude" : "-115.140511",
+		"Zipcode" : "59866",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "SAINT REGIS",
+		"State" : "MT",
+		"Latitude" : "+47.311106"
+	},
+	{
+		"Longitude" : "-115.422358",
+		"Zipcode" : "59867",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "SALTESE",
+		"State" : "MT",
+		"Latitude" : "+47.399653"
+	},
+	{
+		"Longitude" : "-113.548481",
+		"Zipcode" : "59868",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSOULA",
+		"City" : "SEELEY LAKE",
+		"State" : "MT",
+		"Latitude" : "+47.300776"
+	},
+	{
+		"Longitude" : "-114.047154",
+		"Zipcode" : "59870",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "STEVENSVILLE",
+		"State" : "MT",
+		"Latitude" : "+46.320508"
+	},
+	{
+		"Longitude" : "-113.874776",
+		"Zipcode" : "59871",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "SULA",
+		"State" : "MT",
+		"Latitude" : "+45.843266"
+	},
+	{
+		"Longitude" : "-114.747599",
+		"Zipcode" : "59872",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "SUPERIOR",
+		"State" : "MT",
+		"Latitude" : "+47.137198"
+	},
+	{
+		"Longitude" : "-115.407291",
+		"Zipcode" : "59873",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDERS",
+		"City" : "THOMPSON FALLS",
+		"State" : "MT",
+		"Latitude" : "+47.744885"
+	},
+	{
+		"Longitude" : "-115.538422",
+		"Zipcode" : "59874",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDERS",
+		"City" : "TROUT CREEK",
+		"State" : "MT",
+		"Latitude" : "+47.794472"
+	},
+	{
+		"Longitude" : "-114.160159",
+		"Zipcode" : "59875",
+		"ZipClass" : "STANDARD",
+		"County" : "RAVALLI",
+		"City" : "VICTOR",
+		"State" : "MT",
+		"Latitude" : "+46.395224"
+	},
+	{
+		"Longitude" : "-114.303919",
+		"Zipcode" : "59901",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "KALISPELL",
+		"State" : "MT",
+		"Latitude" : "+48.202765"
+	},
+	{
+		"Longitude" : "-114.143531",
+		"Zipcode" : "59902",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "KALISPELL",
+		"State" : "MT",
+		"Latitude" : "+48.189424"
+	},
+	{
+		"Longitude" : "-114.429648",
+		"Zipcode" : "59903",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "KALISPELL",
+		"State" : "MT",
+		"Latitude" : "+48.223720"
+	},
+	{
+		"Longitude" : "-114.256123",
+		"Zipcode" : "59904",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "KALISPELL",
+		"State" : "MT",
+		"Latitude" : "+48.240382"
+	},
+	{
+		"Longitude" : "-114.281296",
+		"Zipcode" : "59910",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "BIG ARM",
+		"State" : "MT",
+		"Latitude" : "+47.769420"
+	},
+	{
+		"Longitude" : "-113.921121",
+		"Zipcode" : "59911",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "BIGFORK",
+		"State" : "MT",
+		"Latitude" : "+48.145854"
+	},
+	{
+		"Longitude" : "-114.345902",
+		"Zipcode" : "59912",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "COLUMBIA FALLS",
+		"State" : "MT",
+		"Latitude" : "+48.358322"
+	},
+	{
+		"Longitude" : "-114.058384",
+		"Zipcode" : "59913",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "CORAM",
+		"State" : "MT",
+		"Latitude" : "+48.434243"
+	},
+	{
+		"Longitude" : "-114.281873",
+		"Zipcode" : "59914",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "DAYTON",
+		"State" : "MT",
+		"Latitude" : "+47.854921"
+	},
+	{
+		"Longitude" : "-114.214962",
+		"Zipcode" : "59915",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "ELMO",
+		"State" : "MT",
+		"Latitude" : "+47.696598"
+	},
+	{
+		"Longitude" : "-113.893384",
+		"Zipcode" : "59916",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "ESSEX",
+		"State" : "MT",
+		"Latitude" : "+48.324238"
+	},
+	{
+		"Longitude" : "-115.345992",
+		"Zipcode" : "59917",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "EUREKA",
+		"State" : "MT",
+		"Latitude" : "+48.729135"
+	},
+	{
+		"Longitude" : "-114.880925",
+		"Zipcode" : "59918",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "FORTINE",
+		"State" : "MT",
+		"Latitude" : "+48.758601"
+	},
+	{
+		"Longitude" : "-113.910545",
+		"Zipcode" : "59919",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "HUNGRY HORSE",
+		"State" : "MT",
+		"Latitude" : "+48.279332"
+	},
+	{
+		"Longitude" : "-114.513752",
+		"Zipcode" : "59920",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "KILA",
+		"State" : "MT",
+		"Latitude" : "+48.047758"
+	},
+	{
+		"Longitude" : "-113.949739",
+		"Zipcode" : "59921",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "LAKE MC DONALD",
+		"State" : "MT",
+		"Latitude" : "+48.298875"
+	},
+	{
+		"Longitude" : "-114.234902",
+		"Zipcode" : "59922",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "LAKESIDE",
+		"State" : "MT",
+		"Latitude" : "+48.176690"
+	},
+	{
+		"Longitude" : "-115.394062",
+		"Zipcode" : "59923",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LIBBY",
+		"State" : "MT",
+		"Latitude" : "+48.380992"
+	},
+	{
+		"Longitude" : "-114.727422",
+		"Zipcode" : "59925",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "MARION",
+		"State" : "MT",
+		"Latitude" : "+48.093680"
+	},
+	{
+		"Longitude" : "-114.087311",
+		"Zipcode" : "59926",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "MARTIN CITY",
+		"State" : "MT",
+		"Latitude" : "+48.400447"
+	},
+	{
+		"Longitude" : "-114.591981",
+		"Zipcode" : "59927",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FLATHEAD",
+		"City" : "OLNEY",
+		"State" : "MT",
+		"Latitude" : "+48.545453"
+	},
+	{
+		"Longitude" : "-114.338774",
+		"Zipcode" : "59928",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "POLEBRIDGE",
+		"State" : "MT",
+		"Latitude" : "+48.778080"
+	},
+	{
+		"Longitude" : "-114.341333",
+		"Zipcode" : "59929",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "PROCTOR",
+		"State" : "MT",
+		"Latitude" : "+47.907058"
+	},
+	{
+		"Longitude" : "-115.118207",
+		"Zipcode" : "59930",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "REXFORD",
+		"State" : "MT",
+		"Latitude" : "+48.867183"
+	},
+	{
+		"Longitude" : "-114.206827",
+		"Zipcode" : "59931",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "ROLLINS",
+		"State" : "MT",
+		"Latitude" : "+47.899392"
+	},
+	{
+		"Longitude" : "-114.201700",
+		"Zipcode" : "59932",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "SOMERS",
+		"State" : "MT",
+		"Latitude" : "+48.067710"
+	},
+	{
+		"Longitude" : "-115.330964",
+		"Zipcode" : "59933",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "STRYKER",
+		"State" : "MT",
+		"Latitude" : "+48.445720"
+	},
+	{
+		"Longitude" : "-115.330964",
+		"Zipcode" : "59934",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "TREGO",
+		"State" : "MT",
+		"Latitude" : "+48.445720"
+	},
+	{
+		"Longitude" : "-115.816915",
+		"Zipcode" : "59935",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TROY",
+		"State" : "MT",
+		"Latitude" : "+48.580494"
+	},
+	{
+		"Longitude" : "-114.062198",
+		"Zipcode" : "59936",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "WEST GLACIER",
+		"State" : "MT",
+		"Latitude" : "+48.432962"
+	},
+	{
+		"Longitude" : "-114.365126",
+		"Zipcode" : "59937",
+		"ZipClass" : "STANDARD",
+		"County" : "FLATHEAD",
+		"City" : "WHITEFISH",
+		"State" : "MT",
+		"Latitude" : "+48.274564"
+	}
+]}

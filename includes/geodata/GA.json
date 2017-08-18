@@ -1,0 +1,8706 @@
+{
+	"result":[
+	{
+		"Longitude" : "-084.239370",
+		"Zipcode" : "30002",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "AVONDALE ESTATES",
+		"State" : "GA",
+		"Latitude" : "+33.771704"
+	},
+	{
+		"Longitude" : "-084.037859",
+		"Zipcode" : "30003",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "NORCROSS",
+		"State" : "GA",
+		"Latitude" : "+33.960353"
+	},
+	{
+		"Longitude" : "-084.302050",
+		"Zipcode" : "30004",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ALPHARETTA",
+		"State" : "GA",
+		"Latitude" : "+34.112373"
+	},
+	{
+		"Longitude" : "-084.228131",
+		"Zipcode" : "30005",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ALPHARETTA",
+		"State" : "GA",
+		"Latitude" : "+34.078229"
+	},
+	{
+		"Longitude" : "-084.557181",
+		"Zipcode" : "30006",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.912473"
+	},
+	{
+		"Longitude" : "-084.557181",
+		"Zipcode" : "30007",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.912473"
+	},
+	{
+		"Longitude" : "-084.591983",
+		"Zipcode" : "30008",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.897203"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30009",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ALPHARETTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.037859",
+		"Zipcode" : "30010",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "NORCROSS",
+		"State" : "GA",
+		"Latitude" : "+33.960353"
+	},
+	{
+		"Longitude" : "-083.826094",
+		"Zipcode" : "30011",
+		"ZipClass" : "STANDARD",
+		"County" : "BARROW",
+		"City" : "AUBURN",
+		"State" : "GA",
+		"Latitude" : "+34.019109"
+	},
+	{
+		"Longitude" : "-084.002061",
+		"Zipcode" : "30012",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKDALE",
+		"City" : "CONYERS",
+		"State" : "GA",
+		"Latitude" : "+33.719178"
+	},
+	{
+		"Longitude" : "-083.968359",
+		"Zipcode" : "30013",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKDALE",
+		"City" : "CONYERS",
+		"State" : "GA",
+		"Latitude" : "+33.643597"
+	},
+	{
+		"Longitude" : "-083.849622",
+		"Zipcode" : "30014",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "COVINGTON",
+		"State" : "GA",
+		"Latitude" : "+33.529341"
+	},
+	{
+		"Longitude" : "-083.864915",
+		"Zipcode" : "30015",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "COVINGTON",
+		"State" : "GA",
+		"Latitude" : "+33.555791"
+	},
+	{
+		"Longitude" : "-083.862612",
+		"Zipcode" : "30016",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "COVINGTON",
+		"State" : "GA",
+		"Latitude" : "+33.514565"
+	},
+	{
+		"Longitude" : "-084.040973",
+		"Zipcode" : "30017",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "GRAYSON",
+		"State" : "GA",
+		"Latitude" : "+33.916922"
+	},
+	{
+		"Longitude" : "-083.801451",
+		"Zipcode" : "30018",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALTON",
+		"City" : "JERSEY",
+		"State" : "GA",
+		"Latitude" : "+33.717989"
+	},
+	{
+		"Longitude" : "-083.879494",
+		"Zipcode" : "30019",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "DACULA",
+		"State" : "GA",
+		"Latitude" : "+33.988309"
+	},
+	{
+		"Longitude" : "-084.237970",
+		"Zipcode" : "30021",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "CLARKSTON",
+		"State" : "GA",
+		"Latitude" : "+33.810953"
+	},
+	{
+		"Longitude" : "-084.242235",
+		"Zipcode" : "30022",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ALPHARETTA",
+		"State" : "GA",
+		"Latitude" : "+34.026790"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30023",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ALPHARETTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.026171",
+		"Zipcode" : "30024",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "SUWANEE",
+		"State" : "GA",
+		"Latitude" : "+34.042479"
+	},
+	{
+		"Longitude" : "-083.683477",
+		"Zipcode" : "30025",
+		"ZipClass" : "STANDARD",
+		"County" : "WALTON",
+		"City" : "SOCIAL CIRCLE",
+		"State" : "GA",
+		"Latitude" : "+33.679092"
+	},
+	{
+		"Longitude" : "-084.092267",
+		"Zipcode" : "30026",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "NORTH METRO",
+		"State" : "GA",
+		"Latitude" : "+33.962979"
+	},
+	{
+		"Longitude" : "-084.092588",
+		"Zipcode" : "30028",
+		"ZipClass" : "STANDARD",
+		"County" : "FORSYTH",
+		"City" : "CUMMING",
+		"State" : "GA",
+		"Latitude" : "+34.193041"
+	},
+	{
+		"Longitude" : "-084.037859",
+		"Zipcode" : "30029",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "NORTH METRO",
+		"State" : "GA",
+		"Latitude" : "+33.960353"
+	},
+	{
+		"Longitude" : "-084.291723",
+		"Zipcode" : "30030",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DECATUR",
+		"State" : "GA",
+		"Latitude" : "+33.772554"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30031",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DECATUR",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.272871",
+		"Zipcode" : "30032",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DECATUR",
+		"State" : "GA",
+		"Latitude" : "+33.749655"
+	},
+	{
+		"Longitude" : "-084.285772",
+		"Zipcode" : "30033",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DECATUR",
+		"State" : "GA",
+		"Latitude" : "+33.816452"
+	},
+	{
+		"Longitude" : "-084.251171",
+		"Zipcode" : "30034",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DECATUR",
+		"State" : "GA",
+		"Latitude" : "+33.690757"
+	},
+	{
+		"Longitude" : "-084.200919",
+		"Zipcode" : "30035",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DECATUR",
+		"State" : "GA",
+		"Latitude" : "+33.732056"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30036",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DECATUR",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30037",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DECATUR",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.144816",
+		"Zipcode" : "30038",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "LITHONIA",
+		"State" : "GA",
+		"Latitude" : "+33.667509"
+	},
+	{
+		"Longitude" : "-084.022911",
+		"Zipcode" : "30039",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "SNELLVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.817803"
+	},
+	{
+		"Longitude" : "-084.157975",
+		"Zipcode" : "30040",
+		"ZipClass" : "STANDARD",
+		"County" : "FORSYTH",
+		"City" : "CUMMING",
+		"State" : "GA",
+		"Latitude" : "+34.232095"
+	},
+	{
+		"Longitude" : "-084.103108",
+		"Zipcode" : "30041",
+		"ZipClass" : "STANDARD",
+		"County" : "FORSYTH",
+		"City" : "CUMMING",
+		"State" : "GA",
+		"Latitude" : "+34.203659"
+	},
+	{
+		"Longitude" : "-084.103226",
+		"Zipcode" : "30042",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LAWRENCEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.929464"
+	},
+	{
+		"Longitude" : "-084.012608",
+		"Zipcode" : "30043",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LAWRENCEVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.003090"
+	},
+	{
+		"Longitude" : "-084.070567",
+		"Zipcode" : "30044",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LAWRENCEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.941847"
+	},
+	{
+		"Longitude" : "-083.957347",
+		"Zipcode" : "30045",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LAWRENCEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.936729"
+	},
+	{
+		"Longitude" : "-084.037859",
+		"Zipcode" : "30046",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LAWRENCEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.960353"
+	},
+	{
+		"Longitude" : "-084.072463",
+		"Zipcode" : "30047",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LILBURN",
+		"State" : "GA",
+		"Latitude" : "+33.865587"
+	},
+	{
+		"Longitude" : "-084.037859",
+		"Zipcode" : "30048",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LILBURN",
+		"State" : "GA",
+		"Latitude" : "+33.960353"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "30049",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LAWRENCEVILLE",
+		"State" : "GA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-083.896781",
+		"Zipcode" : "30052",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "LOGANVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.876889"
+	},
+	{
+		"Longitude" : "-083.874013",
+		"Zipcode" : "30054",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "OXFORD",
+		"State" : "GA",
+		"Latitude" : "+33.670567"
+	},
+	{
+		"Longitude" : "-083.790756",
+		"Zipcode" : "30055",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "MANSFIELD",
+		"State" : "GA",
+		"Latitude" : "+33.431362"
+	},
+	{
+		"Longitude" : "-083.707180",
+		"Zipcode" : "30056",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "NEWBORN",
+		"State" : "GA",
+		"Latitude" : "+33.514898"
+	},
+	{
+		"Longitude" : "-084.100915",
+		"Zipcode" : "30058",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "LITHONIA",
+		"State" : "GA",
+		"Latitude" : "+33.735607"
+	},
+	{
+		"Longitude" : "-084.540333",
+		"Zipcode" : "30060",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.938206"
+	},
+	{
+		"Longitude" : "-084.556004",
+		"Zipcode" : "30061",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.932842"
+	},
+	{
+		"Longitude" : "-084.488030",
+		"Zipcode" : "30062",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.982269"
+	},
+	{
+		"Longitude" : "-084.511209",
+		"Zipcode" : "30063",
+		"ZipClass" : "UNIQUE",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.965294"
+	},
+	{
+		"Longitude" : "-084.629241",
+		"Zipcode" : "30064",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.923652"
+	},
+	{
+		"Longitude" : "-084.557181",
+		"Zipcode" : "30065",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.912473"
+	},
+	{
+		"Longitude" : "-084.498365",
+		"Zipcode" : "30066",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+34.024849"
+	},
+	{
+		"Longitude" : "-084.462379",
+		"Zipcode" : "30067",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.932551"
+	},
+	{
+		"Longitude" : "-084.445734",
+		"Zipcode" : "30068",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.970894"
+	},
+	{
+		"Longitude" : "-084.557181",
+		"Zipcode" : "30069",
+		"ZipClass" : "UNIQUE",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.912473"
+	},
+	{
+		"Longitude" : "-083.895063",
+		"Zipcode" : "30070",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEWTON",
+		"City" : "PORTERDALE",
+		"State" : "GA",
+		"Latitude" : "+33.571234"
+	},
+	{
+		"Longitude" : "-084.210969",
+		"Zipcode" : "30071",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "NORCROSS",
+		"State" : "GA",
+		"Latitude" : "+33.944461"
+	},
+	{
+		"Longitude" : "-084.205269",
+		"Zipcode" : "30072",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DEKALB",
+		"City" : "PINE LAKE",
+		"State" : "GA",
+		"Latitude" : "+33.790606"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30074",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DEKALB",
+		"City" : "REDAN",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.370475",
+		"Zipcode" : "30075",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ROSWELL",
+		"State" : "GA",
+		"Latitude" : "+34.055198"
+	},
+	{
+		"Longitude" : "-084.320162",
+		"Zipcode" : "30076",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ROSWELL",
+		"State" : "GA",
+		"Latitude" : "+34.027783"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30077",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ROSWELL",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.008066",
+		"Zipcode" : "30078",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "SNELLVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.863454"
+	},
+	{
+		"Longitude" : "-084.258421",
+		"Zipcode" : "30079",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "SCOTTDALE",
+		"State" : "GA",
+		"Latitude" : "+33.793491"
+	},
+	{
+		"Longitude" : "-084.556181",
+		"Zipcode" : "30080",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "SMYRNA",
+		"State" : "GA",
+		"Latitude" : "+33.864604"
+	},
+	{
+		"Longitude" : "-084.710620",
+		"Zipcode" : "30081",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "SMYRNA",
+		"State" : "GA",
+		"Latitude" : "+33.858836"
+	},
+	{
+		"Longitude" : "-084.534496",
+		"Zipcode" : "30082",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "SMYRNA",
+		"State" : "GA",
+		"Latitude" : "+33.856754"
+	},
+	{
+		"Longitude" : "-084.203419",
+		"Zipcode" : "30083",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "STONE MOUNTAIN",
+		"State" : "GA",
+		"Latitude" : "+33.786405"
+	},
+	{
+		"Longitude" : "-084.215369",
+		"Zipcode" : "30084",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "TUCKER",
+		"State" : "GA",
+		"Latitude" : "+33.853945"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30085",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "TUCKER",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30086",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "STONE MOUNTAIN",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.136145",
+		"Zipcode" : "30087",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "STONE MOUNTAIN",
+		"State" : "GA",
+		"Latitude" : "+33.810475"
+	},
+	{
+		"Longitude" : "-084.176618",
+		"Zipcode" : "30088",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "STONE MOUNTAIN",
+		"State" : "GA",
+		"Latitude" : "+33.761106"
+	},
+	{
+		"Longitude" : "-084.547082",
+		"Zipcode" : "30090",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MARIETTA",
+		"State" : "GA",
+		"Latitude" : "+33.952451"
+	},
+	{
+		"Longitude" : "-084.037859",
+		"Zipcode" : "30091",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "NORCROSS",
+		"State" : "GA",
+		"Latitude" : "+33.960353"
+	},
+	{
+		"Longitude" : "-084.138468",
+		"Zipcode" : "30092",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "NORCROSS",
+		"State" : "GA",
+		"Latitude" : "+33.910725"
+	},
+	{
+		"Longitude" : "-084.181881",
+		"Zipcode" : "30093",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "NORCROSS",
+		"State" : "GA",
+		"Latitude" : "+33.932173"
+	},
+	{
+		"Longitude" : "-084.068288",
+		"Zipcode" : "30094",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKDALE",
+		"City" : "CONYERS",
+		"State" : "GA",
+		"Latitude" : "+33.611119"
+	},
+	{
+		"Longitude" : "-084.130450",
+		"Zipcode" : "30095",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "DULUTH",
+		"State" : "GA",
+		"Latitude" : "+34.025598"
+	},
+	{
+		"Longitude" : "-084.152915",
+		"Zipcode" : "30096",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "DULUTH",
+		"State" : "GA",
+		"Latitude" : "+33.984534"
+	},
+	{
+		"Longitude" : "-084.144674",
+		"Zipcode" : "30097",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "DULUTH",
+		"State" : "GA",
+		"Latitude" : "+34.006019"
+	},
+	{
+		"Longitude" : "-084.037859",
+		"Zipcode" : "30098",
+		"ZipClass" : "UNIQUE",
+		"County" : "GWINNETT",
+		"City" : "DULUTH",
+		"State" : "GA",
+		"Latitude" : "+33.960353"
+	},
+	{
+		"Longitude" : "-084.105011",
+		"Zipcode" : "30099",
+		"ZipClass" : "UNIQUE",
+		"County" : "GWINNETT",
+		"City" : "DULUTH",
+		"State" : "GA",
+		"Latitude" : "+33.959535"
+	},
+	{
+		"Longitude" : "-084.673784",
+		"Zipcode" : "30101",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "ACWORTH",
+		"State" : "GA",
+		"Latitude" : "+34.023398"
+	},
+	{
+		"Longitude" : "-084.589406",
+		"Zipcode" : "30102",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "ACWORTH",
+		"State" : "GA",
+		"Latitude" : "+34.070680"
+	},
+	{
+		"Longitude" : "-084.909216",
+		"Zipcode" : "30103",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTOW",
+		"City" : "ADAIRSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.296339"
+	},
+	{
+		"Longitude" : "-085.079865",
+		"Zipcode" : "30104",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "ARAGON",
+		"State" : "GA",
+		"Latitude" : "+34.053167"
+	},
+	{
+		"Longitude" : "-085.149208",
+		"Zipcode" : "30105",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "ARMUCHEE",
+		"State" : "GA",
+		"Latitude" : "+34.479253"
+	},
+	{
+		"Longitude" : "-084.630729",
+		"Zipcode" : "30106",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "AUSTELL",
+		"State" : "GA",
+		"Latitude" : "+33.836897"
+	},
+	{
+		"Longitude" : "-084.442937",
+		"Zipcode" : "30107",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "BALL GROUND",
+		"State" : "GA",
+		"Latitude" : "+34.301160"
+	},
+	{
+		"Longitude" : "-085.123883",
+		"Zipcode" : "30108",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "BOWDON",
+		"State" : "GA",
+		"Latitude" : "+33.587706"
+	},
+	{
+		"Longitude" : "-085.136227",
+		"Zipcode" : "30109",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "BOWDON JUNCTION",
+		"State" : "GA",
+		"Latitude" : "+33.653355"
+	},
+	{
+		"Longitude" : "-085.172928",
+		"Zipcode" : "30110",
+		"ZipClass" : "STANDARD",
+		"County" : "HARALSON",
+		"City" : "BREMEN",
+		"State" : "GA",
+		"Latitude" : "+33.767997"
+	},
+	{
+		"Longitude" : "-084.557181",
+		"Zipcode" : "30111",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COBB",
+		"City" : "CLARKDALE",
+		"State" : "GA",
+		"Latitude" : "+33.912473"
+	},
+	{
+		"Longitude" : "-085.210444",
+		"Zipcode" : "30113",
+		"ZipClass" : "STANDARD",
+		"County" : "HARALSON",
+		"City" : "BUCHANAN",
+		"State" : "GA",
+		"Latitude" : "+33.836682"
+	},
+	{
+		"Longitude" : "-084.490930",
+		"Zipcode" : "30114",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "CANTON",
+		"State" : "GA",
+		"Latitude" : "+34.250547"
+	},
+	{
+		"Longitude" : "-084.419935",
+		"Zipcode" : "30115",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "CANTON",
+		"State" : "GA",
+		"Latitude" : "+34.199345"
+	},
+	{
+		"Longitude" : "-085.049870",
+		"Zipcode" : "30116",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CARROLLTON",
+		"State" : "GA",
+		"Latitude" : "+33.604458"
+	},
+	{
+		"Longitude" : "-085.078863",
+		"Zipcode" : "30117",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CARROLLTON",
+		"State" : "GA",
+		"Latitude" : "+33.566767"
+	},
+	{
+		"Longitude" : "-085.096120",
+		"Zipcode" : "30118",
+		"ZipClass" : "UNIQUE",
+		"County" : "CARROLL",
+		"City" : "CARROLLTON",
+		"State" : "GA",
+		"Latitude" : "+33.571176"
+	},
+	{
+		"Longitude" : "-085.073582",
+		"Zipcode" : "30119",
+		"ZipClass" : "UNIQUE",
+		"County" : "CARROLL",
+		"City" : "CARROLLTON",
+		"State" : "GA",
+		"Latitude" : "+33.618931"
+	},
+	{
+		"Longitude" : "-084.847108",
+		"Zipcode" : "30120",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTOW",
+		"City" : "CARTERSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.200787"
+	},
+	{
+		"Longitude" : "-084.767270",
+		"Zipcode" : "30121",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTOW",
+		"City" : "CARTERSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.207870"
+	},
+	{
+		"Longitude" : "-084.646946",
+		"Zipcode" : "30122",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LITHIA SPRINGS",
+		"State" : "GA",
+		"Latitude" : "+33.765457"
+	},
+	{
+		"Longitude" : "-084.845684",
+		"Zipcode" : "30123",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARTOW",
+		"City" : "CASSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.244179"
+	},
+	{
+		"Longitude" : "-085.332810",
+		"Zipcode" : "30124",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "CAVE SPRING",
+		"State" : "GA",
+		"Latitude" : "+34.161590"
+	},
+	{
+		"Longitude" : "-085.239429",
+		"Zipcode" : "30125",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "CEDARTOWN",
+		"State" : "GA",
+		"Latitude" : "+33.998841"
+	},
+	{
+		"Longitude" : "-084.603102",
+		"Zipcode" : "30126",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "MABLETON",
+		"State" : "GA",
+		"Latitude" : "+33.833161"
+	},
+	{
+		"Longitude" : "-084.685885",
+		"Zipcode" : "30127",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "POWDER SPRINGS",
+		"State" : "GA",
+		"Latitude" : "+33.913510"
+	},
+	{
+		"Longitude" : "-085.233721",
+		"Zipcode" : "30129",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FLOYD",
+		"City" : "COOSA",
+		"State" : "GA",
+		"Latitude" : "+34.333308"
+	},
+	{
+		"Longitude" : "-084.866654",
+		"Zipcode" : "30132",
+		"ZipClass" : "STANDARD",
+		"County" : "PAULDING",
+		"City" : "DALLAS",
+		"State" : "GA",
+		"Latitude" : "+33.935396"
+	},
+	{
+		"Longitude" : "-084.744595",
+		"Zipcode" : "30133",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "DOUGLASVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.689660"
+	},
+	{
+		"Longitude" : "-084.777337",
+		"Zipcode" : "30134",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "DOUGLASVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.759543"
+	},
+	{
+		"Longitude" : "-084.750615",
+		"Zipcode" : "30135",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "DOUGLASVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.667491"
+	},
+	{
+		"Longitude" : "-084.762315",
+		"Zipcode" : "30137",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTOW",
+		"City" : "EMERSON",
+		"State" : "GA",
+		"Latitude" : "+34.118352"
+	},
+	{
+		"Longitude" : "-085.172297",
+		"Zipcode" : "30138",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POLK",
+		"City" : "ESOM HILL",
+		"State" : "GA",
+		"Latitude" : "+33.999940"
+	},
+	{
+		"Longitude" : "-084.743027",
+		"Zipcode" : "30139",
+		"ZipClass" : "STANDARD",
+		"County" : "GORDON",
+		"City" : "FAIRMOUNT",
+		"State" : "GA",
+		"Latitude" : "+34.462493"
+	},
+	{
+		"Longitude" : "-085.234946",
+		"Zipcode" : "30140",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARALSON",
+		"City" : "FELTON",
+		"State" : "GA",
+		"Latitude" : "+33.882320"
+	},
+	{
+		"Longitude" : "-084.844274",
+		"Zipcode" : "30141",
+		"ZipClass" : "STANDARD",
+		"County" : "PAULDING",
+		"City" : "HIRAM",
+		"State" : "GA",
+		"Latitude" : "+33.879416"
+	},
+	{
+		"Longitude" : "-084.458326",
+		"Zipcode" : "30142",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHEROKEE",
+		"City" : "HOLLY SPRINGS",
+		"State" : "GA",
+		"Latitude" : "+34.242944"
+	},
+	{
+		"Longitude" : "-084.428243",
+		"Zipcode" : "30143",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "JASPER",
+		"State" : "GA",
+		"Latitude" : "+34.469042"
+	},
+	{
+		"Longitude" : "-084.597433",
+		"Zipcode" : "30144",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "KENNESAW",
+		"State" : "GA",
+		"Latitude" : "+34.033840"
+	},
+	{
+		"Longitude" : "-084.962055",
+		"Zipcode" : "30145",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTOW",
+		"City" : "KINGSTON",
+		"State" : "GA",
+		"Latitude" : "+34.233908"
+	},
+	{
+		"Longitude" : "-084.458326",
+		"Zipcode" : "30146",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHEROKEE",
+		"City" : "LEBANON",
+		"State" : "GA",
+		"Latitude" : "+34.242944"
+	},
+	{
+		"Longitude" : "-085.220364",
+		"Zipcode" : "30147",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "LINDALE",
+		"State" : "GA",
+		"Latitude" : "+34.152211"
+	},
+	{
+		"Longitude" : "-084.302964",
+		"Zipcode" : "30148",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "MARBLE HILL",
+		"State" : "GA",
+		"Latitude" : "+34.439829"
+	},
+	{
+		"Longitude" : "-085.182085",
+		"Zipcode" : "30149",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "MOUNT BERRY",
+		"State" : "GA",
+		"Latitude" : "+34.280355"
+	},
+	{
+		"Longitude" : "-085.181782",
+		"Zipcode" : "30150",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "MOUNT ZION",
+		"State" : "GA",
+		"Latitude" : "+33.643002"
+	},
+	{
+		"Longitude" : "-084.458326",
+		"Zipcode" : "30151",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHEROKEE",
+		"City" : "NELSON",
+		"State" : "GA",
+		"Latitude" : "+34.242944"
+	},
+	{
+		"Longitude" : "-084.654385",
+		"Zipcode" : "30152",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "KENNESAW",
+		"State" : "GA",
+		"Latitude" : "+33.995132"
+	},
+	{
+		"Longitude" : "-085.091511",
+		"Zipcode" : "30153",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "ROCKMART",
+		"State" : "GA",
+		"Latitude" : "+33.993766"
+	},
+	{
+		"Longitude" : "-084.744595",
+		"Zipcode" : "30154",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "DOUGLASVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.689660"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "30156",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "KENNESAW",
+		"State" : "GA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-084.862139",
+		"Zipcode" : "30157",
+		"ZipClass" : "STANDARD",
+		"County" : "PAULDING",
+		"City" : "DALLAS",
+		"State" : "GA",
+		"Latitude" : "+33.904480"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "30160",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "KENNESAW",
+		"State" : "GA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-085.220890",
+		"Zipcode" : "30161",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "ROME",
+		"State" : "GA",
+		"Latitude" : "+34.262335"
+	},
+	{
+		"Longitude" : "-085.213817",
+		"Zipcode" : "30162",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "ROME",
+		"State" : "GA",
+		"Latitude" : "+34.290508"
+	},
+	{
+		"Longitude" : "-085.233721",
+		"Zipcode" : "30163",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "ROME",
+		"State" : "GA",
+		"Latitude" : "+34.333308"
+	},
+	{
+		"Longitude" : "-085.233721",
+		"Zipcode" : "30164",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "ROME",
+		"State" : "GA",
+		"Latitude" : "+34.333308"
+	},
+	{
+		"Longitude" : "-085.272949",
+		"Zipcode" : "30165",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "ROME",
+		"State" : "GA",
+		"Latitude" : "+34.315817"
+	},
+	{
+		"Longitude" : "-084.595232",
+		"Zipcode" : "30168",
+		"ZipClass" : "STANDARD",
+		"County" : "COBB",
+		"City" : "AUSTELL",
+		"State" : "GA",
+		"Latitude" : "+33.783756"
+	},
+	{
+		"Longitude" : "-085.165295",
+		"Zipcode" : "30170",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "ROOPVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.524163"
+	},
+	{
+		"Longitude" : "-084.737644",
+		"Zipcode" : "30171",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTOW",
+		"City" : "RYDAL",
+		"State" : "GA",
+		"Latitude" : "+34.337901"
+	},
+	{
+		"Longitude" : "-085.233721",
+		"Zipcode" : "30172",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FLOYD",
+		"City" : "SHANNON",
+		"State" : "GA",
+		"Latitude" : "+34.333308"
+	},
+	{
+		"Longitude" : "-085.117749",
+		"Zipcode" : "30173",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "SILVER CREEK",
+		"State" : "GA",
+		"Latitude" : "+34.145452"
+	},
+	{
+		"Longitude" : "-084.523407",
+		"Zipcode" : "30175",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "TALKING ROCK",
+		"State" : "GA",
+		"Latitude" : "+34.515653"
+	},
+	{
+		"Longitude" : "-085.261585",
+		"Zipcode" : "30176",
+		"ZipClass" : "STANDARD",
+		"County" : "HARALSON",
+		"City" : "TALLAPOOSA",
+		"State" : "GA",
+		"Latitude" : "+33.770057"
+	},
+	{
+		"Longitude" : "-084.378511",
+		"Zipcode" : "30177",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "TATE",
+		"State" : "GA",
+		"Latitude" : "+34.402724"
+	},
+	{
+		"Longitude" : "-084.973364",
+		"Zipcode" : "30178",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTOW",
+		"City" : "TAYLORSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.129573"
+	},
+	{
+		"Longitude" : "-085.026107",
+		"Zipcode" : "30179",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "TEMPLE",
+		"State" : "GA",
+		"Latitude" : "+33.737460"
+	},
+	{
+		"Longitude" : "-084.975668",
+		"Zipcode" : "30180",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "VILLA RICA",
+		"State" : "GA",
+		"Latitude" : "+33.705546"
+	},
+	{
+		"Longitude" : "-085.251297",
+		"Zipcode" : "30182",
+		"ZipClass" : "STANDARD",
+		"County" : "HARALSON",
+		"City" : "WACO",
+		"State" : "GA",
+		"Latitude" : "+33.680148"
+	},
+	{
+		"Longitude" : "-084.577601",
+		"Zipcode" : "30183",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "WALESKA",
+		"State" : "GA",
+		"Latitude" : "+34.338605"
+	},
+	{
+		"Longitude" : "-084.753929",
+		"Zipcode" : "30184",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTOW",
+		"City" : "WHITE",
+		"State" : "GA",
+		"Latitude" : "+34.264331"
+	},
+	{
+		"Longitude" : "-084.910211",
+		"Zipcode" : "30185",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WHITESBURG",
+		"State" : "GA",
+		"Latitude" : "+33.509001"
+	},
+	{
+		"Longitude" : "-084.778163",
+		"Zipcode" : "30187",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "WINSTON",
+		"State" : "GA",
+		"Latitude" : "+33.659494"
+	},
+	{
+		"Longitude" : "-084.481787",
+		"Zipcode" : "30188",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "WOODSTOCK",
+		"State" : "GA",
+		"Latitude" : "+34.127398"
+	},
+	{
+		"Longitude" : "-084.477250",
+		"Zipcode" : "30189",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "WOODSTOCK",
+		"State" : "GA",
+		"Latitude" : "+34.147985"
+	},
+	{
+		"Longitude" : "-084.145706",
+		"Zipcode" : "30204",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "BARNESVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.075770"
+	},
+	{
+		"Longitude" : "-084.453196",
+		"Zipcode" : "30205",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "BROOKS",
+		"State" : "GA",
+		"Latitude" : "+33.300090"
+	},
+	{
+		"Longitude" : "-084.456917",
+		"Zipcode" : "30206",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "CONCORD",
+		"State" : "GA",
+		"Latitude" : "+33.104729"
+	},
+	{
+		"Longitude" : "-084.288803",
+		"Zipcode" : "30212",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPALDING",
+		"City" : "EXPERIMENT",
+		"State" : "GA",
+		"Latitude" : "+33.278205"
+	},
+	{
+		"Longitude" : "-084.608907",
+		"Zipcode" : "30213",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "FAIRBURN",
+		"State" : "GA",
+		"Latitude" : "+33.591462"
+	},
+	{
+		"Longitude" : "-084.480626",
+		"Zipcode" : "30214",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "FAYETTEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.467941"
+	},
+	{
+		"Longitude" : "-084.473778",
+		"Zipcode" : "30215",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "FAYETTEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.394307"
+	},
+	{
+		"Longitude" : "-083.898277",
+		"Zipcode" : "30216",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTS",
+		"City" : "FLOVILLA",
+		"State" : "GA",
+		"Latitude" : "+33.237156"
+	},
+	{
+		"Longitude" : "-085.134045",
+		"Zipcode" : "30217",
+		"ZipClass" : "STANDARD",
+		"County" : "HEARD",
+		"City" : "FRANKLIN",
+		"State" : "GA",
+		"Latitude" : "+33.278005"
+	},
+	{
+		"Longitude" : "-084.613189",
+		"Zipcode" : "30218",
+		"ZipClass" : "STANDARD",
+		"County" : "MERIWETHER",
+		"City" : "GAY",
+		"State" : "GA",
+		"Latitude" : "+33.069130"
+	},
+	{
+		"Longitude" : "-085.170588",
+		"Zipcode" : "30219",
+		"ZipClass" : "STANDARD",
+		"County" : "HEARD",
+		"City" : "GLENN",
+		"State" : "GA",
+		"Latitude" : "+33.157214"
+	},
+	{
+		"Longitude" : "-084.741266",
+		"Zipcode" : "30220",
+		"ZipClass" : "STANDARD",
+		"County" : "COWETA",
+		"City" : "GRANTVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.275619"
+	},
+	{
+		"Longitude" : "-084.740188",
+		"Zipcode" : "30222",
+		"ZipClass" : "STANDARD",
+		"County" : "MERIWETHER",
+		"City" : "GREENVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.046754"
+	},
+	{
+		"Longitude" : "-084.289552",
+		"Zipcode" : "30223",
+		"ZipClass" : "STANDARD",
+		"County" : "SPALDING",
+		"City" : "GRIFFIN",
+		"State" : "GA",
+		"Latitude" : "+33.265854"
+	},
+	{
+		"Longitude" : "-084.273402",
+		"Zipcode" : "30224",
+		"ZipClass" : "STANDARD",
+		"County" : "SPALDING",
+		"City" : "GRIFFIN",
+		"State" : "GA",
+		"Latitude" : "+33.240386"
+	},
+	{
+		"Longitude" : "-084.273764",
+		"Zipcode" : "30228",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "HAMPTON",
+		"State" : "GA",
+		"Latitude" : "+33.408112"
+	},
+	{
+		"Longitude" : "-084.568540",
+		"Zipcode" : "30229",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COWETA",
+		"City" : "HARALSON",
+		"State" : "GA",
+		"Latitude" : "+33.232156"
+	},
+	{
+		"Longitude" : "-084.960566",
+		"Zipcode" : "30230",
+		"ZipClass" : "STANDARD",
+		"County" : "TROUP",
+		"City" : "HOGANSVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.144151"
+	},
+	{
+		"Longitude" : "-084.504403",
+		"Zipcode" : "30232",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "INMAN",
+		"State" : "GA",
+		"Latitude" : "+33.403811"
+	},
+	{
+		"Longitude" : "-083.981112",
+		"Zipcode" : "30233",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTS",
+		"City" : "JACKSON",
+		"State" : "GA",
+		"Latitude" : "+33.319863"
+	},
+	{
+		"Longitude" : "-084.028744",
+		"Zipcode" : "30234",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTS",
+		"City" : "JENKINSBURG",
+		"State" : "GA",
+		"Latitude" : "+33.322351"
+	},
+	{
+		"Longitude" : "-084.337523",
+		"Zipcode" : "30236",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "JONESBORO",
+		"State" : "GA",
+		"Latitude" : "+33.518505"
+	},
+	{
+		"Longitude" : "-084.351273",
+		"Zipcode" : "30237",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "JONESBORO",
+		"State" : "GA",
+		"Latitude" : "+33.500697"
+	},
+	{
+		"Longitude" : "-084.379724",
+		"Zipcode" : "30238",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "JONESBORO",
+		"State" : "GA",
+		"Latitude" : "+33.494387"
+	},
+	{
+		"Longitude" : "-085.073906",
+		"Zipcode" : "30240",
+		"ZipClass" : "STANDARD",
+		"County" : "TROUP",
+		"City" : "LAGRANGE",
+		"State" : "GA",
+		"Latitude" : "+33.024347"
+	},
+	{
+		"Longitude" : "-084.957664",
+		"Zipcode" : "30241",
+		"ZipClass" : "STANDARD",
+		"County" : "TROUP",
+		"City" : "LAGRANGE",
+		"State" : "GA",
+		"Latitude" : "+33.024935"
+	},
+	{
+		"Longitude" : "-084.115645",
+		"Zipcode" : "30248",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "LOCUST GROVE",
+		"State" : "GA",
+		"Latitude" : "+33.372111"
+	},
+	{
+		"Longitude" : "-084.313582",
+		"Zipcode" : "30250",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAYTON",
+		"City" : "LOVEJOY",
+		"State" : "GA",
+		"Latitude" : "+33.442909"
+	},
+	{
+		"Longitude" : "-084.699455",
+		"Zipcode" : "30251",
+		"ZipClass" : "STANDARD",
+		"County" : "MERIWETHER",
+		"City" : "LUTHERSVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.179184"
+	},
+	{
+		"Longitude" : "-084.055005",
+		"Zipcode" : "30252",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "MCDONOUGH",
+		"State" : "GA",
+		"Latitude" : "+33.476762"
+	},
+	{
+		"Longitude" : "-084.154412",
+		"Zipcode" : "30253",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "MCDONOUGH",
+		"State" : "GA",
+		"Latitude" : "+33.451043"
+	},
+	{
+		"Longitude" : "-084.377639",
+		"Zipcode" : "30256",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MEANSVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.039123"
+	},
+	{
+		"Longitude" : "-084.148695",
+		"Zipcode" : "30257",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "MILNER",
+		"State" : "GA",
+		"Latitude" : "+33.136500"
+	},
+	{
+		"Longitude" : "-084.436925",
+		"Zipcode" : "30258",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MOLENA",
+		"State" : "GA",
+		"Latitude" : "+33.022288"
+	},
+	{
+		"Longitude" : "-084.738721",
+		"Zipcode" : "30259",
+		"ZipClass" : "STANDARD",
+		"County" : "COWETA",
+		"City" : "MORELAND",
+		"State" : "GA",
+		"Latitude" : "+33.276279"
+	},
+	{
+		"Longitude" : "-084.326757",
+		"Zipcode" : "30260",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "MORROW",
+		"State" : "GA",
+		"Latitude" : "+33.580160"
+	},
+	{
+		"Longitude" : "-085.048995",
+		"Zipcode" : "30261",
+		"ZipClass" : "STANDARD",
+		"County" : "TROUP",
+		"City" : "LAGRANGE",
+		"State" : "GA",
+		"Latitude" : "+33.045670"
+	},
+	{
+		"Longitude" : "-084.819397",
+		"Zipcode" : "30263",
+		"ZipClass" : "STANDARD",
+		"County" : "COWETA",
+		"City" : "NEWNAN",
+		"State" : "GA",
+		"Latitude" : "+33.369595"
+	},
+	{
+		"Longitude" : "-084.814173",
+		"Zipcode" : "30264",
+		"ZipClass" : "STANDARD",
+		"County" : "COWETA",
+		"City" : "NEWNAN",
+		"State" : "GA",
+		"Latitude" : "+33.361003"
+	},
+	{
+		"Longitude" : "-084.705681",
+		"Zipcode" : "30265",
+		"ZipClass" : "STANDARD",
+		"County" : "COWETA",
+		"City" : "NEWNAN",
+		"State" : "GA",
+		"Latitude" : "+33.415987"
+	},
+	{
+		"Longitude" : "-084.298964",
+		"Zipcode" : "30266",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPALDING",
+		"City" : "ORCHARD HILL",
+		"State" : "GA",
+		"Latitude" : "+33.265656"
+	},
+	{
+		"Longitude" : "-084.710082",
+		"Zipcode" : "30268",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "PALMETTO",
+		"State" : "GA",
+		"Latitude" : "+33.559191"
+	},
+	{
+		"Longitude" : "-084.568173",
+		"Zipcode" : "30269",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "PEACHTREE CITY",
+		"State" : "GA",
+		"Latitude" : "+33.395759"
+	},
+	{
+		"Longitude" : "-084.756109",
+		"Zipcode" : "30271",
+		"ZipClass" : "STANDARD",
+		"County" : "COWETA",
+		"City" : "NEWNAN",
+		"State" : "GA",
+		"Latitude" : "+33.351401"
+	},
+	{
+		"Longitude" : "-084.516327",
+		"Zipcode" : "30272",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FULTON",
+		"City" : "RED OAK",
+		"State" : "GA",
+		"Latitude" : "+33.625894"
+	},
+	{
+		"Longitude" : "-084.272559",
+		"Zipcode" : "30273",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "REX",
+		"State" : "GA",
+		"Latitude" : "+33.577049"
+	},
+	{
+		"Longitude" : "-084.397997",
+		"Zipcode" : "30274",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "RIVERDALE",
+		"State" : "GA",
+		"Latitude" : "+33.555536"
+	},
+	{
+		"Longitude" : "-084.874406",
+		"Zipcode" : "30275",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COWETA",
+		"City" : "SARGENT",
+		"State" : "GA",
+		"Latitude" : "+33.429850"
+	},
+	{
+		"Longitude" : "-084.602516",
+		"Zipcode" : "30276",
+		"ZipClass" : "STANDARD",
+		"County" : "COWETA",
+		"City" : "SENOIA",
+		"State" : "GA",
+		"Latitude" : "+33.285373"
+	},
+	{
+		"Longitude" : "-084.659393",
+		"Zipcode" : "30277",
+		"ZipClass" : "STANDARD",
+		"County" : "COWETA",
+		"City" : "SHARPSBURG",
+		"State" : "GA",
+		"Latitude" : "+33.363069"
+	},
+	{
+		"Longitude" : "-084.207969",
+		"Zipcode" : "30281",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "STOCKBRIDGE",
+		"State" : "GA",
+		"Latitude" : "+33.549947"
+	},
+	{
+		"Longitude" : "-084.289814",
+		"Zipcode" : "30284",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPALDING",
+		"City" : "SUNNY SIDE",
+		"State" : "GA",
+		"Latitude" : "+33.345253"
+	},
+	{
+		"Longitude" : "-084.219349",
+		"Zipcode" : "30285",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSON",
+		"City" : "THE ROCK",
+		"State" : "GA",
+		"Latitude" : "+32.965021"
+	},
+	{
+		"Longitude" : "-084.336486",
+		"Zipcode" : "30286",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSON",
+		"City" : "THOMASTON",
+		"State" : "GA",
+		"Latitude" : "+32.884509"
+	},
+	{
+		"Longitude" : "-084.351273",
+		"Zipcode" : "30287",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "MORROW",
+		"State" : "GA",
+		"Latitude" : "+33.500697"
+	},
+	{
+		"Longitude" : "-084.337139",
+		"Zipcode" : "30288",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "CONLEY",
+		"State" : "GA",
+		"Latitude" : "+33.636858"
+	},
+	{
+		"Longitude" : "-084.637108",
+		"Zipcode" : "30289",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COWETA",
+		"City" : "TURIN",
+		"State" : "GA",
+		"Latitude" : "+33.326030"
+	},
+	{
+		"Longitude" : "-084.585773",
+		"Zipcode" : "30290",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "TYRONE",
+		"State" : "GA",
+		"Latitude" : "+33.460036"
+	},
+	{
+		"Longitude" : "-084.551011",
+		"Zipcode" : "30291",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "UNION CITY",
+		"State" : "GA",
+		"Latitude" : "+33.573098"
+	},
+	{
+		"Longitude" : "-084.399149",
+		"Zipcode" : "30292",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "WILLIAMSON",
+		"State" : "GA",
+		"Latitude" : "+33.117012"
+	},
+	{
+		"Longitude" : "-084.625409",
+		"Zipcode" : "30293",
+		"ZipClass" : "STANDARD",
+		"County" : "MERIWETHER",
+		"City" : "WOODBURY",
+		"State" : "GA",
+		"Latitude" : "+32.968248"
+	},
+	{
+		"Longitude" : "-084.293942",
+		"Zipcode" : "30294",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "ELLENWOOD",
+		"State" : "GA",
+		"Latitude" : "+33.616559"
+	},
+	{
+		"Longitude" : "-084.321736",
+		"Zipcode" : "30295",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "ZEBULON",
+		"State" : "GA",
+		"Latitude" : "+33.077371"
+	},
+	{
+		"Longitude" : "-084.434776",
+		"Zipcode" : "30296",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "RIVERDALE",
+		"State" : "GA",
+		"Latitude" : "+33.558361"
+	},
+	{
+		"Longitude" : "-084.374496",
+		"Zipcode" : "30297",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "FOREST PARK",
+		"State" : "GA",
+		"Latitude" : "+33.611509"
+	},
+	{
+		"Longitude" : "-084.351273",
+		"Zipcode" : "30298",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAYTON",
+		"City" : "FOREST PARK",
+		"State" : "GA",
+		"Latitude" : "+33.500697"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30301",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30302",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.392026",
+		"Zipcode" : "30303",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.752456"
+	},
+	{
+		"Longitude" : "-084.429296",
+		"Zipcode" : "30304",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.848196"
+	},
+	{
+		"Longitude" : "-084.386826",
+		"Zipcode" : "30305",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.834989"
+	},
+	{
+		"Longitude" : "-084.359775",
+		"Zipcode" : "30306",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.787804"
+	},
+	{
+		"Longitude" : "-084.357375",
+		"Zipcode" : "30307",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.762855"
+	},
+	{
+		"Longitude" : "-084.377326",
+		"Zipcode" : "30308",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.794055"
+	},
+	{
+		"Longitude" : "-084.387726",
+		"Zipcode" : "30309",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.797854"
+	},
+	{
+		"Longitude" : "-084.430877",
+		"Zipcode" : "30310",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.718257"
+	},
+	{
+		"Longitude" : "-084.468329",
+		"Zipcode" : "30311",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.724907"
+	},
+	{
+		"Longitude" : "-084.381529",
+		"Zipcode" : "30312",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.829743"
+	},
+	{
+		"Longitude" : "-084.399626",
+		"Zipcode" : "30313",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.760505"
+	},
+	{
+		"Longitude" : "-084.433649",
+		"Zipcode" : "30314",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.757806"
+	},
+	{
+		"Longitude" : "-084.383725",
+		"Zipcode" : "30315",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.697257"
+	},
+	{
+		"Longitude" : "-084.358525",
+		"Zipcode" : "30316",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.726906"
+	},
+	{
+		"Longitude" : "-084.351125",
+		"Zipcode" : "30317",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.753555"
+	},
+	{
+		"Longitude" : "-084.442778",
+		"Zipcode" : "30318",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.792005"
+	},
+	{
+		"Longitude" : "-084.329124",
+		"Zipcode" : "30319",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.876752"
+	},
+	{
+		"Longitude" : "-084.423648",
+		"Zipcode" : "30320",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.656824"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30321",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.324824",
+		"Zipcode" : "30322",
+		"ZipClass" : "UNIQUE",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.795204"
+	},
+	{
+		"Longitude" : "-084.366475",
+		"Zipcode" : "30324",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.820104"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30325",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.360881",
+		"Zipcode" : "30326",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.849615"
+	},
+	{
+		"Longitude" : "-084.422028",
+		"Zipcode" : "30327",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.863953"
+	},
+	{
+		"Longitude" : "-084.395777",
+		"Zipcode" : "30328",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.933543"
+	},
+	{
+		"Longitude" : "-084.324874",
+		"Zipcode" : "30329",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.826553"
+	},
+	{
+		"Longitude" : "-084.432127",
+		"Zipcode" : "30330",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.707107"
+	},
+	{
+		"Longitude" : "-084.578581",
+		"Zipcode" : "30331",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.724275"
+	},
+	{
+		"Longitude" : "-084.397976",
+		"Zipcode" : "30332",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.776305"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30333",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.439127",
+		"Zipcode" : "30334",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.702657"
+	},
+	{
+		"Longitude" : "-084.554542",
+		"Zipcode" : "30336",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.740581"
+	},
+	{
+		"Longitude" : "-084.461778",
+		"Zipcode" : "30337",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.642809"
+	},
+	{
+		"Longitude" : "-084.324916",
+		"Zipcode" : "30338",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.966850"
+	},
+	{
+		"Longitude" : "-084.433678",
+		"Zipcode" : "30339",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.906202"
+	},
+	{
+		"Longitude" : "-084.253871",
+		"Zipcode" : "30340",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.893201"
+	},
+	{
+		"Longitude" : "-084.278222",
+		"Zipcode" : "30341",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.890102"
+	},
+	{
+		"Longitude" : "-084.379476",
+		"Zipcode" : "30342",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.881052"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30343",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.448027",
+		"Zipcode" : "30344",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.691858"
+	},
+	{
+		"Longitude" : "-084.281422",
+		"Zipcode" : "30345",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.845603"
+	},
+	{
+		"Longitude" : "-084.337557",
+		"Zipcode" : "30346",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.924401"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30347",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30348",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.550147",
+		"Zipcode" : "30349",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.618060"
+	},
+	{
+		"Longitude" : "-084.314224",
+		"Zipcode" : "30350",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.963200"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30353",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.389616",
+		"Zipcode" : "30354",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.667508"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30355",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30356",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30357",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.341120",
+		"Zipcode" : "30358",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.998151"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30359",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.277772",
+		"Zipcode" : "30360",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.931069"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30361",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30362",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30364",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "30366",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30368",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30369",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30370",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30371",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30374",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30375",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30376",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30377",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30378",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30379",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30380",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30384",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30385",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30386",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30387",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30388",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30389",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30390",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30392",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30394",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30396",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30398",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "30399",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-082.346181",
+		"Zipcode" : "30401",
+		"ZipClass" : "STANDARD",
+		"County" : "EMANUEL",
+		"City" : "SWAINSBORO",
+		"State" : "GA",
+		"Latitude" : "+32.569871"
+	},
+	{
+		"Longitude" : "-082.516557",
+		"Zipcode" : "30410",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "AILEY",
+		"State" : "GA",
+		"Latitude" : "+32.179660"
+	},
+	{
+		"Longitude" : "-082.826770",
+		"Zipcode" : "30411",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEELER",
+		"City" : "ALAMO",
+		"State" : "GA",
+		"Latitude" : "+32.143021"
+	},
+	{
+		"Longitude" : "-082.482488",
+		"Zipcode" : "30412",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "ALSTON",
+		"State" : "GA",
+		"Latitude" : "+32.077458"
+	},
+	{
+		"Longitude" : "-082.466644",
+		"Zipcode" : "30413",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BARTOW",
+		"State" : "GA",
+		"Latitude" : "+32.889140"
+	},
+	{
+		"Longitude" : "-081.871910",
+		"Zipcode" : "30414",
+		"ZipClass" : "STANDARD",
+		"County" : "EVANS",
+		"City" : "BELLVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.163392"
+	},
+	{
+		"Longitude" : "-081.657100",
+		"Zipcode" : "30415",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCH",
+		"City" : "BROOKLET",
+		"State" : "GA",
+		"Latitude" : "+32.352307"
+	},
+	{
+		"Longitude" : "-081.923832",
+		"Zipcode" : "30417",
+		"ZipClass" : "STANDARD",
+		"County" : "EVANS",
+		"City" : "CLAXTON",
+		"State" : "GA",
+		"Latitude" : "+32.160611"
+	},
+	{
+		"Longitude" : "-082.033890",
+		"Zipcode" : "30420",
+		"ZipClass" : "STANDARD",
+		"County" : "TATTNALL",
+		"City" : "COBBTOWN",
+		"State" : "GA",
+		"Latitude" : "+32.105970"
+	},
+	{
+		"Longitude" : "-082.027358",
+		"Zipcode" : "30421",
+		"ZipClass" : "STANDARD",
+		"County" : "TATTNALL",
+		"City" : "COLLINS",
+		"State" : "GA",
+		"Latitude" : "+32.058597"
+	},
+	{
+		"Longitude" : "-081.871910",
+		"Zipcode" : "30423",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EVANS",
+		"City" : "DAISY",
+		"State" : "GA",
+		"Latitude" : "+32.163392"
+	},
+	{
+		"Longitude" : "-081.629062",
+		"Zipcode" : "30424",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCREVEN",
+		"City" : "DOVER",
+		"State" : "GA",
+		"Latitude" : "+32.767634"
+	},
+	{
+		"Longitude" : "-082.100208",
+		"Zipcode" : "30425",
+		"ZipClass" : "STANDARD",
+		"County" : "EMANUEL",
+		"City" : "GARFIELD",
+		"State" : "GA",
+		"Latitude" : "+32.654937"
+	},
+	{
+		"Longitude" : "-081.684489",
+		"Zipcode" : "30426",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "GIRARD",
+		"State" : "GA",
+		"Latitude" : "+33.053870"
+	},
+	{
+		"Longitude" : "-082.012344",
+		"Zipcode" : "30427",
+		"ZipClass" : "STANDARD",
+		"County" : "TATTNALL",
+		"City" : "GLENNVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.066649"
+	},
+	{
+		"Longitude" : "-082.724555",
+		"Zipcode" : "30428",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEELER",
+		"City" : "GLENWOOD",
+		"State" : "GA",
+		"Latitude" : "+32.118831"
+	},
+	{
+		"Longitude" : "-081.925865",
+		"Zipcode" : "30429",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EVANS",
+		"City" : "HAGAN",
+		"State" : "GA",
+		"Latitude" : "+32.152808"
+	},
+	{
+		"Longitude" : "-082.437965",
+		"Zipcode" : "30434",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.028798"
+	},
+	{
+		"Longitude" : "-082.330546",
+		"Zipcode" : "30436",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOMBS",
+		"City" : "LYONS",
+		"State" : "GA",
+		"Latitude" : "+32.129147"
+	},
+	{
+		"Longitude" : "-081.998348",
+		"Zipcode" : "30438",
+		"ZipClass" : "STANDARD",
+		"County" : "TATTNALL",
+		"City" : "MANASSAS",
+		"State" : "GA",
+		"Latitude" : "+32.050694"
+	},
+	{
+		"Longitude" : "-082.048201",
+		"Zipcode" : "30439",
+		"ZipClass" : "STANDARD",
+		"County" : "CANDLER",
+		"City" : "METTER",
+		"State" : "GA",
+		"Latitude" : "+32.399380"
+	},
+	{
+		"Longitude" : "-082.172337",
+		"Zipcode" : "30441",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "MIDVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.926431"
+	},
+	{
+		"Longitude" : "-081.973904",
+		"Zipcode" : "30442",
+		"ZipClass" : "STANDARD",
+		"County" : "JENKINS",
+		"City" : "MILLEN",
+		"State" : "GA",
+		"Latitude" : "+32.779376"
+	},
+	{
+		"Longitude" : "-082.566698",
+		"Zipcode" : "30445",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MOUNT VERNON",
+		"State" : "GA",
+		"Latitude" : "+32.183157"
+	},
+	{
+		"Longitude" : "-081.482625",
+		"Zipcode" : "30446",
+		"ZipClass" : "STANDARD",
+		"County" : "SCREVEN",
+		"City" : "NEWINGTON",
+		"State" : "GA",
+		"Latitude" : "+32.580957"
+	},
+	{
+		"Longitude" : "-082.484754",
+		"Zipcode" : "30447",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMANUEL",
+		"City" : "NORRISTOWN",
+		"State" : "GA",
+		"Latitude" : "+32.504092"
+	},
+	{
+		"Longitude" : "-082.372622",
+		"Zipcode" : "30448",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMANUEL",
+		"City" : "NUNEZ",
+		"State" : "GA",
+		"Latitude" : "+32.475892"
+	},
+	{
+		"Longitude" : "-081.533198",
+		"Zipcode" : "30449",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCREVEN",
+		"City" : "OLIVER",
+		"State" : "GA",
+		"Latitude" : "+32.528104"
+	},
+	{
+		"Longitude" : "-081.924195",
+		"Zipcode" : "30450",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCH",
+		"City" : "PORTAL",
+		"State" : "GA",
+		"Latitude" : "+32.552055"
+	},
+	{
+		"Longitude" : "-082.086658",
+		"Zipcode" : "30451",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CANDLER",
+		"City" : "PULASKI",
+		"State" : "GA",
+		"Latitude" : "+32.414349"
+	},
+	{
+		"Longitude" : "-081.889152",
+		"Zipcode" : "30452",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCH",
+		"City" : "REGISTER",
+		"State" : "GA",
+		"Latitude" : "+32.398006"
+	},
+	{
+		"Longitude" : "-082.146011",
+		"Zipcode" : "30453",
+		"ZipClass" : "STANDARD",
+		"County" : "TATTNALL",
+		"City" : "REIDSVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.031081"
+	},
+	{
+		"Longitude" : "-082.713743",
+		"Zipcode" : "30454",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "ROCKLEDGE",
+		"State" : "GA",
+		"Latitude" : "+32.506310"
+	},
+	{
+		"Longitude" : "-081.793305",
+		"Zipcode" : "30455",
+		"ZipClass" : "STANDARD",
+		"County" : "SCREVEN",
+		"City" : "ROCKY FORD",
+		"State" : "GA",
+		"Latitude" : "+32.722971"
+	},
+	{
+		"Longitude" : "-081.844860",
+		"Zipcode" : "30456",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "SARDIS",
+		"State" : "GA",
+		"Latitude" : "+32.980305"
+	},
+	{
+		"Longitude" : "-082.557135",
+		"Zipcode" : "30457",
+		"ZipClass" : "STANDARD",
+		"County" : "TREUTLEN",
+		"City" : "SOPERTON",
+		"State" : "GA",
+		"Latitude" : "+32.383145"
+	},
+	{
+		"Longitude" : "-081.784956",
+		"Zipcode" : "30458",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCH",
+		"City" : "STATESBORO",
+		"State" : "GA",
+		"Latitude" : "+32.425000"
+	},
+	{
+		"Longitude" : "-081.777720",
+		"Zipcode" : "30459",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCH",
+		"City" : "STATESBORO",
+		"State" : "GA",
+		"Latitude" : "+32.447036"
+	},
+	{
+		"Longitude" : "-081.782330",
+		"Zipcode" : "30460",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCH",
+		"City" : "STATESBORO",
+		"State" : "GA",
+		"Latitude" : "+32.417950"
+	},
+	{
+		"Longitude" : "-081.715799",
+		"Zipcode" : "30461",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCH",
+		"City" : "STATESBORO",
+		"State" : "GA",
+		"Latitude" : "+32.450032"
+	},
+	{
+		"Longitude" : "-082.258728",
+		"Zipcode" : "30464",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMANUEL",
+		"City" : "STILLMORE",
+		"State" : "GA",
+		"Latitude" : "+32.445915"
+	},
+	{
+		"Longitude" : "-081.628687",
+		"Zipcode" : "30467",
+		"ZipClass" : "STANDARD",
+		"County" : "SCREVEN",
+		"City" : "SYLVANIA",
+		"State" : "GA",
+		"Latitude" : "+32.743851"
+	},
+	{
+		"Longitude" : "-082.522115",
+		"Zipcode" : "30470",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "TARRYTOWN",
+		"State" : "GA",
+		"Latitude" : "+32.188768"
+	},
+	{
+		"Longitude" : "-082.183916",
+		"Zipcode" : "30471",
+		"ZipClass" : "STANDARD",
+		"County" : "EMANUEL",
+		"City" : "TWIN CITY",
+		"State" : "GA",
+		"Latitude" : "+32.549780"
+	},
+	{
+		"Longitude" : "-082.516246",
+		"Zipcode" : "30473",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "UVALDA",
+		"State" : "GA",
+		"Latitude" : "+32.028823"
+	},
+	{
+		"Longitude" : "-082.392080",
+		"Zipcode" : "30474",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOMBS",
+		"City" : "VIDALIA",
+		"State" : "GA",
+		"Latitude" : "+32.198683"
+	},
+	{
+		"Longitude" : "-082.373889",
+		"Zipcode" : "30475",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOMBS",
+		"City" : "VIDALIA",
+		"State" : "GA",
+		"Latitude" : "+32.177513"
+	},
+	{
+		"Longitude" : "-082.407516",
+		"Zipcode" : "30477",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WADLEY",
+		"State" : "GA",
+		"Latitude" : "+32.863678"
+	},
+	{
+		"Longitude" : "-081.998348",
+		"Zipcode" : "30499",
+		"ZipClass" : "UNIQUE",
+		"County" : "TATTNALL",
+		"City" : "REIDSVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.050694"
+	},
+	{
+		"Longitude" : "-083.837912",
+		"Zipcode" : "30501",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GAINESVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.334398"
+	},
+	{
+		"Longitude" : "-083.794858",
+		"Zipcode" : "30502",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "CHESTNUT MOUNTAIN",
+		"State" : "GA",
+		"Latitude" : "+34.212993"
+	},
+	{
+		"Longitude" : "-083.950541",
+		"Zipcode" : "30503",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GAINESVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.345432"
+	},
+	{
+		"Longitude" : "-083.886508",
+		"Zipcode" : "30504",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GAINESVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.241066"
+	},
+	{
+		"Longitude" : "-083.860031",
+		"Zipcode" : "30506",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GAINESVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.336238"
+	},
+	{
+		"Longitude" : "-083.824574",
+		"Zipcode" : "30507",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GAINESVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.257212"
+	},
+	{
+		"Longitude" : "-083.594758",
+		"Zipcode" : "30510",
+		"ZipClass" : "STANDARD",
+		"County" : "HABERSHAM",
+		"City" : "ALTO",
+		"State" : "GA",
+		"Latitude" : "+34.504290"
+	},
+	{
+		"Longitude" : "-083.473886",
+		"Zipcode" : "30511",
+		"ZipClass" : "STANDARD",
+		"County" : "BANKS",
+		"City" : "BALDWIN",
+		"State" : "GA",
+		"Latitude" : "+34.393713"
+	},
+	{
+		"Longitude" : "-083.967636",
+		"Zipcode" : "30512",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "BLAIRSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.867512"
+	},
+	{
+		"Longitude" : "-084.331339",
+		"Zipcode" : "30513",
+		"ZipClass" : "STANDARD",
+		"County" : "FANNIN",
+		"City" : "BLUE RIDGE",
+		"State" : "GA",
+		"Latitude" : "+34.831246"
+	},
+	{
+		"Longitude" : "-084.019157",
+		"Zipcode" : "30514",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "BLAIRSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.903398"
+	},
+	{
+		"Longitude" : "-084.037859",
+		"Zipcode" : "30515",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "BUFORD",
+		"State" : "GA",
+		"Latitude" : "+33.960353"
+	},
+	{
+		"Longitude" : "-083.033210",
+		"Zipcode" : "30516",
+		"ZipClass" : "STANDARD",
+		"County" : "HART",
+		"City" : "BOWERSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.383987"
+	},
+	{
+		"Longitude" : "-083.685149",
+		"Zipcode" : "30517",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "BRASELTON",
+		"State" : "GA",
+		"Latitude" : "+34.109873"
+	},
+	{
+		"Longitude" : "-084.033984",
+		"Zipcode" : "30518",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "BUFORD",
+		"State" : "GA",
+		"Latitude" : "+34.113712"
+	},
+	{
+		"Longitude" : "-083.930765",
+		"Zipcode" : "30519",
+		"ZipClass" : "STANDARD",
+		"County" : "GWINNETT",
+		"City" : "BUFORD",
+		"State" : "GA",
+		"Latitude" : "+34.079715"
+	},
+	{
+		"Longitude" : "-083.152947",
+		"Zipcode" : "30520",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CANON",
+		"State" : "GA",
+		"Latitude" : "+34.355933"
+	},
+	{
+		"Longitude" : "-083.254745",
+		"Zipcode" : "30521",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CARNESVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.363122"
+	},
+	{
+		"Longitude" : "-084.425035",
+		"Zipcode" : "30522",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "CHERRYLOG",
+		"State" : "GA",
+		"Latitude" : "+34.732490"
+	},
+	{
+		"Longitude" : "-083.508274",
+		"Zipcode" : "30523",
+		"ZipClass" : "STANDARD",
+		"County" : "HABERSHAM",
+		"City" : "CLARKESVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.655918"
+	},
+	{
+		"Longitude" : "-083.375358",
+		"Zipcode" : "30525",
+		"ZipClass" : "STANDARD",
+		"County" : "RABUN",
+		"City" : "CLAYTON",
+		"State" : "GA",
+		"Latitude" : "+34.886868"
+	},
+	{
+		"Longitude" : "-083.775657",
+		"Zipcode" : "30527",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "CLERMONT",
+		"State" : "GA",
+		"Latitude" : "+34.397806"
+	},
+	{
+		"Longitude" : "-083.746150",
+		"Zipcode" : "30528",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "CLEVELAND",
+		"State" : "GA",
+		"Latitude" : "+34.610466"
+	},
+	{
+		"Longitude" : "-083.570671",
+		"Zipcode" : "30529",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "COMMERCE",
+		"State" : "GA",
+		"Latitude" : "+34.169691"
+	},
+	{
+		"Longitude" : "-083.402226",
+		"Zipcode" : "30530",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "COMMERCE",
+		"State" : "GA",
+		"Latitude" : "+34.168274"
+	},
+	{
+		"Longitude" : "-083.574032",
+		"Zipcode" : "30531",
+		"ZipClass" : "STANDARD",
+		"County" : "HABERSHAM",
+		"City" : "CORNELIA",
+		"State" : "GA",
+		"Latitude" : "+34.535213"
+	},
+	{
+		"Longitude" : "-084.024387",
+		"Zipcode" : "30533",
+		"ZipClass" : "STANDARD",
+		"County" : "LUMPKIN",
+		"City" : "DAHLONEGA",
+		"State" : "GA",
+		"Latitude" : "+34.541371"
+	},
+	{
+		"Longitude" : "-084.155043",
+		"Zipcode" : "30534",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "DAWSONVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.453661"
+	},
+	{
+		"Longitude" : "-083.569657",
+		"Zipcode" : "30535",
+		"ZipClass" : "STANDARD",
+		"County" : "HABERSHAM",
+		"City" : "DEMOREST",
+		"State" : "GA",
+		"Latitude" : "+34.631639"
+	},
+	{
+		"Longitude" : "-083.357507",
+		"Zipcode" : "30537",
+		"ZipClass" : "STANDARD",
+		"County" : "RABUN",
+		"City" : "DILLARD",
+		"State" : "GA",
+		"Latitude" : "+34.970000"
+	},
+	{
+		"Longitude" : "-083.258748",
+		"Zipcode" : "30538",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "EASTANOLLEE",
+		"State" : "GA",
+		"Latitude" : "+34.535120"
+	},
+	{
+		"Longitude" : "-084.493207",
+		"Zipcode" : "30539",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "EAST ELLIJAY",
+		"State" : "GA",
+		"Latitude" : "+34.658482"
+	},
+	{
+		"Longitude" : "-084.449007",
+		"Zipcode" : "30540",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "ELLIJAY",
+		"State" : "GA",
+		"Latitude" : "+34.701290"
+	},
+	{
+		"Longitude" : "-084.436752",
+		"Zipcode" : "30541",
+		"ZipClass" : "STANDARD",
+		"County" : "FANNIN",
+		"City" : "EPWORTH",
+		"State" : "GA",
+		"Latitude" : "+34.928730"
+	},
+	{
+		"Longitude" : "-083.891451",
+		"Zipcode" : "30542",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "FLOWERY BRANCH",
+		"State" : "GA",
+		"Latitude" : "+34.282818"
+	},
+	{
+		"Longitude" : "-083.735421",
+		"Zipcode" : "30543",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GILLSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.364396"
+	},
+	{
+		"Longitude" : "-083.562922",
+		"Zipcode" : "30544",
+		"ZipClass" : "STANDARD",
+		"County" : "HABERSHAM",
+		"City" : "DEMOREST",
+		"State" : "GA",
+		"Latitude" : "+34.593092"
+	},
+	{
+		"Longitude" : "-083.720937",
+		"Zipcode" : "30545",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "HELEN",
+		"State" : "GA",
+		"Latitude" : "+34.729196"
+	},
+	{
+		"Longitude" : "-083.727390",
+		"Zipcode" : "30546",
+		"ZipClass" : "STANDARD",
+		"County" : "TOWNS",
+		"City" : "HIAWASSEE",
+		"State" : "GA",
+		"Latitude" : "+34.906339"
+	},
+	{
+		"Longitude" : "-083.491925",
+		"Zipcode" : "30547",
+		"ZipClass" : "STANDARD",
+		"County" : "BANKS",
+		"City" : "HOMER",
+		"State" : "GA",
+		"Latitude" : "+34.373145"
+	},
+	{
+		"Longitude" : "-083.718170",
+		"Zipcode" : "30548",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HOSCHTON",
+		"State" : "GA",
+		"Latitude" : "+34.099031"
+	},
+	{
+		"Longitude" : "-083.589021",
+		"Zipcode" : "30549",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "JEFFERSON",
+		"State" : "GA",
+		"Latitude" : "+34.106010"
+	},
+	{
+		"Longitude" : "-083.443351",
+		"Zipcode" : "30552",
+		"ZipClass" : "STANDARD",
+		"County" : "RABUN",
+		"City" : "LAKEMONT",
+		"State" : "GA",
+		"Latitude" : "+34.789920"
+	},
+	{
+		"Longitude" : "-083.144241",
+		"Zipcode" : "30553",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "LAVONIA",
+		"State" : "GA",
+		"Latitude" : "+34.408031"
+	},
+	{
+		"Longitude" : "-083.703923",
+		"Zipcode" : "30554",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "LULA",
+		"State" : "GA",
+		"Latitude" : "+34.410880"
+	},
+	{
+		"Longitude" : "-084.403709",
+		"Zipcode" : "30555",
+		"ZipClass" : "STANDARD",
+		"County" : "FANNIN",
+		"City" : "MC CAYSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.936986"
+	},
+	{
+		"Longitude" : "-083.232080",
+		"Zipcode" : "30557",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "MARTIN",
+		"State" : "GA",
+		"Latitude" : "+34.527955"
+	},
+	{
+		"Longitude" : "-083.543357",
+		"Zipcode" : "30558",
+		"ZipClass" : "STANDARD",
+		"County" : "BANKS",
+		"City" : "MAYSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.329372"
+	},
+	{
+		"Longitude" : "-084.268863",
+		"Zipcode" : "30559",
+		"ZipClass" : "STANDARD",
+		"County" : "FANNIN",
+		"City" : "MINERAL BLUFF",
+		"State" : "GA",
+		"Latitude" : "+34.936697"
+	},
+	{
+		"Longitude" : "-084.248612",
+		"Zipcode" : "30560",
+		"ZipClass" : "STANDARD",
+		"County" : "FANNIN",
+		"City" : "MORGANTON",
+		"State" : "GA",
+		"Latitude" : "+34.862630"
+	},
+	{
+		"Longitude" : "-083.402766",
+		"Zipcode" : "30562",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RABUN",
+		"City" : "MOUNTAIN CITY",
+		"State" : "GA",
+		"Latitude" : "+34.914393"
+	},
+	{
+		"Longitude" : "-083.522830",
+		"Zipcode" : "30563",
+		"ZipClass" : "STANDARD",
+		"County" : "HABERSHAM",
+		"City" : "MOUNT AIRY",
+		"State" : "GA",
+		"Latitude" : "+34.541683"
+	},
+	{
+		"Longitude" : "-083.906516",
+		"Zipcode" : "30564",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "MURRAYVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.445369"
+	},
+	{
+		"Longitude" : "-083.474576",
+		"Zipcode" : "30565",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "NICHOLSON",
+		"State" : "GA",
+		"Latitude" : "+34.113429"
+	},
+	{
+		"Longitude" : "-083.897612",
+		"Zipcode" : "30566",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "OAKWOOD",
+		"State" : "GA",
+		"Latitude" : "+34.239428"
+	},
+	{
+		"Longitude" : "-083.597060",
+		"Zipcode" : "30567",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PENDERGRASS",
+		"State" : "GA",
+		"Latitude" : "+34.159431"
+	},
+	{
+		"Longitude" : "-083.381415",
+		"Zipcode" : "30568",
+		"ZipClass" : "STANDARD",
+		"County" : "RABUN",
+		"City" : "RABUN GAP",
+		"State" : "GA",
+		"Latitude" : "+34.944609"
+	},
+	{
+		"Longitude" : "-083.709564",
+		"Zipcode" : "30571",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "SAUTEE NACOOCHEE",
+		"State" : "GA",
+		"Latitude" : "+34.665780"
+	},
+	{
+		"Longitude" : "-084.027629",
+		"Zipcode" : "30572",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SUCHES",
+		"State" : "GA",
+		"Latitude" : "+34.712091"
+	},
+	{
+		"Longitude" : "-083.397716",
+		"Zipcode" : "30573",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RABUN",
+		"City" : "TALLULAH FALLS",
+		"State" : "GA",
+		"Latitude" : "+34.742007"
+	},
+	{
+		"Longitude" : "-083.713188",
+		"Zipcode" : "30575",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "TALMO",
+		"State" : "GA",
+		"Latitude" : "+34.195058"
+	},
+	{
+		"Longitude" : "-083.457267",
+		"Zipcode" : "30576",
+		"ZipClass" : "STANDARD",
+		"County" : "RABUN",
+		"City" : "TIGER",
+		"State" : "GA",
+		"Latitude" : "+34.856395"
+	},
+	{
+		"Longitude" : "-083.288828",
+		"Zipcode" : "30577",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "TOCCOA",
+		"State" : "GA",
+		"Latitude" : "+34.554103"
+	},
+	{
+		"Longitude" : "-083.435780",
+		"Zipcode" : "30580",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HABERSHAM",
+		"City" : "TURNERVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.676584"
+	},
+	{
+		"Longitude" : "-083.419137",
+		"Zipcode" : "30581",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RABUN",
+		"City" : "WILEY",
+		"State" : "GA",
+		"Latitude" : "+34.804473"
+	},
+	{
+		"Longitude" : "-083.828504",
+		"Zipcode" : "30582",
+		"ZipClass" : "STANDARD",
+		"County" : "TOWNS",
+		"City" : "YOUNG HARRIS",
+		"State" : "GA",
+		"Latitude" : "+34.934417"
+	},
+	{
+		"Longitude" : "-083.509934",
+		"Zipcode" : "30596",
+		"ZipClass" : "UNIQUE",
+		"County" : "HABERSHAM",
+		"City" : "ALTO",
+		"State" : "GA",
+		"Latitude" : "+34.629391"
+	},
+	{
+		"Longitude" : "-083.980879",
+		"Zipcode" : "30597",
+		"ZipClass" : "UNIQUE",
+		"County" : "LUMPKIN",
+		"City" : "DAHLONEGA",
+		"State" : "GA",
+		"Latitude" : "+34.527671"
+	},
+	{
+		"Longitude" : "-083.352534",
+		"Zipcode" : "30598",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "TOCCOA FALLS",
+		"State" : "GA",
+		"Latitude" : "+34.591790"
+	},
+	{
+		"Longitude" : "-083.587419",
+		"Zipcode" : "30599",
+		"ZipClass" : "UNIQUE",
+		"County" : "JACKSON",
+		"City" : "COMMERCE",
+		"State" : "GA",
+		"Latitude" : "+34.130594"
+	},
+	{
+		"Longitude" : "-083.353697",
+		"Zipcode" : "30601",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.992902"
+	},
+	{
+		"Longitude" : "-083.365029",
+		"Zipcode" : "30602",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.925971"
+	},
+	{
+		"Longitude" : "-083.408897",
+		"Zipcode" : "30603",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.947587"
+	},
+	{
+		"Longitude" : "-083.389080",
+		"Zipcode" : "30604",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.944339"
+	},
+	{
+		"Longitude" : "-083.364038",
+		"Zipcode" : "30605",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.923088"
+	},
+	{
+		"Longitude" : "-083.430640",
+		"Zipcode" : "30606",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.951348"
+	},
+	{
+		"Longitude" : "-083.439569",
+		"Zipcode" : "30607",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.998267"
+	},
+	{
+		"Longitude" : "-083.389080",
+		"Zipcode" : "30608",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.944339"
+	},
+	{
+		"Longitude" : "-083.377430",
+		"Zipcode" : "30609",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.946364"
+	},
+	{
+		"Longitude" : "-083.389080",
+		"Zipcode" : "30612",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ATHENS",
+		"State" : "GA",
+		"Latitude" : "+33.944339"
+	},
+	{
+		"Longitude" : "-083.222254",
+		"Zipcode" : "30619",
+		"ZipClass" : "STANDARD",
+		"County" : "OGLETHORPE",
+		"City" : "ARNOLDSVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.888662"
+	},
+	{
+		"Longitude" : "-083.721536",
+		"Zipcode" : "30620",
+		"ZipClass" : "STANDARD",
+		"County" : "BARROW",
+		"City" : "BETHLEHEM",
+		"State" : "GA",
+		"Latitude" : "+33.943652"
+	},
+	{
+		"Longitude" : "-083.481710",
+		"Zipcode" : "30621",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "BISHOP",
+		"State" : "GA",
+		"Latitude" : "+33.805718"
+	},
+	{
+		"Longitude" : "-083.518452",
+		"Zipcode" : "30622",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "BOGART",
+		"State" : "GA",
+		"Latitude" : "+33.901988"
+	},
+	{
+		"Longitude" : "-083.511055",
+		"Zipcode" : "30623",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "BOSTWICK",
+		"State" : "GA",
+		"Latitude" : "+33.754235"
+	},
+	{
+		"Longitude" : "-082.957102",
+		"Zipcode" : "30624",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "BOWMAN",
+		"State" : "GA",
+		"Latitude" : "+34.164131"
+	},
+	{
+		"Longitude" : "-083.365611",
+		"Zipcode" : "30625",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "BUCKHEAD",
+		"State" : "GA",
+		"Latitude" : "+33.525614"
+	},
+	{
+		"Longitude" : "-083.099349",
+		"Zipcode" : "30627",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "CARLTON",
+		"State" : "GA",
+		"Latitude" : "+34.059180"
+	},
+	{
+		"Longitude" : "-083.202379",
+		"Zipcode" : "30628",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "COLBERT",
+		"State" : "GA",
+		"Latitude" : "+34.088156"
+	},
+	{
+		"Longitude" : "-083.144463",
+		"Zipcode" : "30629",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "COMER",
+		"State" : "GA",
+		"Latitude" : "+34.105661"
+	},
+	{
+		"Longitude" : "-083.164573",
+		"Zipcode" : "30630",
+		"ZipClass" : "STANDARD",
+		"County" : "OGLETHORPE",
+		"City" : "CRAWFORD",
+		"State" : "GA",
+		"Latitude" : "+33.907589"
+	},
+	{
+		"Longitude" : "-082.858099",
+		"Zipcode" : "30631",
+		"ZipClass" : "STANDARD",
+		"County" : "TALIAFERRO",
+		"City" : "CRAWFORDVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.577007"
+	},
+	{
+		"Longitude" : "-083.262772",
+		"Zipcode" : "30633",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "DANIELSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.152968"
+	},
+	{
+		"Longitude" : "-082.943399",
+		"Zipcode" : "30634",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "DEWY ROSE",
+		"State" : "GA",
+		"Latitude" : "+34.185291"
+	},
+	{
+		"Longitude" : "-082.840971",
+		"Zipcode" : "30635",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "ELBERTON",
+		"State" : "GA",
+		"Latitude" : "+34.129737"
+	},
+	{
+		"Longitude" : "-083.420094",
+		"Zipcode" : "30638",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OCONEE",
+		"City" : "FARMINGTON",
+		"State" : "GA",
+		"Latitude" : "+33.755811"
+	},
+	{
+		"Longitude" : "-083.147024",
+		"Zipcode" : "30639",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "FRANKLIN SPRINGS",
+		"State" : "GA",
+		"Latitude" : "+34.274306"
+	},
+	{
+		"Longitude" : "-083.580359",
+		"Zipcode" : "30641",
+		"ZipClass" : "STANDARD",
+		"County" : "WALTON",
+		"City" : "GOOD HOPE",
+		"State" : "GA",
+		"Latitude" : "+33.778257"
+	},
+	{
+		"Longitude" : "-083.193389",
+		"Zipcode" : "30642",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "GREENSBORO",
+		"State" : "GA",
+		"Latitude" : "+33.560655"
+	},
+	{
+		"Longitude" : "-082.941703",
+		"Zipcode" : "30643",
+		"ZipClass" : "STANDARD",
+		"County" : "HART",
+		"City" : "HARTWELL",
+		"State" : "GA",
+		"Latitude" : "+34.361177"
+	},
+	{
+		"Longitude" : "-083.516374",
+		"Zipcode" : "30645",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "HIGH SHOALS",
+		"State" : "GA",
+		"Latitude" : "+33.801274"
+	},
+	{
+		"Longitude" : "-083.309110",
+		"Zipcode" : "30646",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HULL",
+		"State" : "GA",
+		"Latitude" : "+34.088693"
+	},
+	{
+		"Longitude" : "-083.288117",
+		"Zipcode" : "30647",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "ILA",
+		"State" : "GA",
+		"Latitude" : "+34.120239"
+	},
+	{
+		"Longitude" : "-083.020293",
+		"Zipcode" : "30648",
+		"ZipClass" : "STANDARD",
+		"County" : "OGLETHORPE",
+		"City" : "LEXINGTON",
+		"State" : "GA",
+		"Latitude" : "+33.852810"
+	},
+	{
+		"Longitude" : "-083.492928",
+		"Zipcode" : "30650",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "MADISON",
+		"State" : "GA",
+		"Latitude" : "+33.591117"
+	},
+	{
+		"Longitude" : "-083.701264",
+		"Zipcode" : "30655",
+		"ZipClass" : "STANDARD",
+		"County" : "WALTON",
+		"City" : "MONROE",
+		"State" : "GA",
+		"Latitude" : "+33.788322"
+	},
+	{
+		"Longitude" : "-083.710359",
+		"Zipcode" : "30656",
+		"ZipClass" : "STANDARD",
+		"County" : "WALTON",
+		"City" : "MONROE",
+		"State" : "GA",
+		"Latitude" : "+33.838638"
+	},
+	{
+		"Longitude" : "-082.899831",
+		"Zipcode" : "30660",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKES",
+		"City" : "RAYLE",
+		"State" : "GA",
+		"Latitude" : "+33.763817"
+	},
+	{
+		"Longitude" : "-083.192787",
+		"Zipcode" : "30662",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ROYSTON",
+		"State" : "GA",
+		"Latitude" : "+34.297968"
+	},
+	{
+		"Longitude" : "-083.602459",
+		"Zipcode" : "30663",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "RUTLEDGE",
+		"State" : "GA",
+		"Latitude" : "+33.611010"
+	},
+	{
+		"Longitude" : "-082.794766",
+		"Zipcode" : "30664",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TALIAFERRO",
+		"City" : "SHARON",
+		"State" : "GA",
+		"Latitude" : "+33.559964"
+	},
+	{
+		"Longitude" : "-083.074186",
+		"Zipcode" : "30665",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENE",
+		"City" : "SILOAM",
+		"State" : "GA",
+		"Latitude" : "+33.561871"
+	},
+	{
+		"Longitude" : "-083.590148",
+		"Zipcode" : "30666",
+		"ZipClass" : "STANDARD",
+		"County" : "BARROW",
+		"City" : "STATHAM",
+		"State" : "GA",
+		"Latitude" : "+33.980323"
+	},
+	{
+		"Longitude" : "-083.151661",
+		"Zipcode" : "30667",
+		"ZipClass" : "STANDARD",
+		"County" : "OGLETHORPE",
+		"City" : "STEPHENS",
+		"State" : "GA",
+		"Latitude" : "+33.804626"
+	},
+	{
+		"Longitude" : "-082.747023",
+		"Zipcode" : "30668",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKES",
+		"City" : "TIGNALL",
+		"State" : "GA",
+		"Latitude" : "+33.877751"
+	},
+	{
+		"Longitude" : "-083.122065",
+		"Zipcode" : "30669",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "UNION POINT",
+		"State" : "GA",
+		"Latitude" : "+33.634342"
+	},
+	{
+		"Longitude" : "-083.170600",
+		"Zipcode" : "30671",
+		"ZipClass" : "STANDARD",
+		"County" : "OGLETHORPE",
+		"City" : "MAXEYS",
+		"State" : "GA",
+		"Latitude" : "+33.740502"
+	},
+	{
+		"Longitude" : "-082.710833",
+		"Zipcode" : "30673",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKES",
+		"City" : "WASHINGTON",
+		"State" : "GA",
+		"Latitude" : "+33.731490"
+	},
+	{
+		"Longitude" : "-083.433470",
+		"Zipcode" : "30677",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "WATKINSVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.816730"
+	},
+	{
+		"Longitude" : "-083.080230",
+		"Zipcode" : "30678",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "WHITE PLAINS",
+		"State" : "GA",
+		"Latitude" : "+33.458056"
+	},
+	{
+		"Longitude" : "-083.698498",
+		"Zipcode" : "30680",
+		"ZipClass" : "STANDARD",
+		"County" : "BARROW",
+		"City" : "WINDER",
+		"State" : "GA",
+		"Latitude" : "+33.987138"
+	},
+	{
+		"Longitude" : "-083.292152",
+		"Zipcode" : "30683",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "WINTERVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.930735"
+	},
+	{
+		"Longitude" : "-084.887942",
+		"Zipcode" : "30701",
+		"ZipClass" : "STANDARD",
+		"County" : "GORDON",
+		"City" : "CALHOUN",
+		"State" : "GA",
+		"Latitude" : "+34.496921"
+	},
+	{
+		"Longitude" : "-084.762161",
+		"Zipcode" : "30703",
+		"ZipClass" : "STANDARD",
+		"County" : "GORDON",
+		"City" : "CALHOUN",
+		"State" : "GA",
+		"Latitude" : "+34.479066"
+	},
+	{
+		"Longitude" : "-084.771623",
+		"Zipcode" : "30705",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "CHATSWORTH",
+		"State" : "GA",
+		"Latitude" : "+34.785543"
+	},
+	{
+		"Longitude" : "-085.353517",
+		"Zipcode" : "30707",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "CHICKAMAUGA",
+		"State" : "GA",
+		"Latitude" : "+34.764160"
+	},
+	{
+		"Longitude" : "-084.756880",
+		"Zipcode" : "30708",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "CISCO",
+		"State" : "GA",
+		"Latitude" : "+34.872473"
+	},
+	{
+		"Longitude" : "-084.919498",
+		"Zipcode" : "30710",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITFIELD",
+		"City" : "COHUTTA",
+		"State" : "GA",
+		"Latitude" : "+34.867821"
+	},
+	{
+		"Longitude" : "-084.744577",
+		"Zipcode" : "30711",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "CRANDALL",
+		"State" : "GA",
+		"Latitude" : "+34.887628"
+	},
+	{
+		"Longitude" : "-084.989796",
+		"Zipcode" : "30719",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITFIELD",
+		"City" : "DALTON",
+		"State" : "GA",
+		"Latitude" : "+34.801861"
+	},
+	{
+		"Longitude" : "-084.992771",
+		"Zipcode" : "30720",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITFIELD",
+		"City" : "DALTON",
+		"State" : "GA",
+		"Latitude" : "+34.791428"
+	},
+	{
+		"Longitude" : "-084.913810",
+		"Zipcode" : "30721",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITFIELD",
+		"City" : "DALTON",
+		"State" : "GA",
+		"Latitude" : "+34.788493"
+	},
+	{
+		"Longitude" : "-084.951261",
+		"Zipcode" : "30722",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITFIELD",
+		"City" : "DALTON",
+		"State" : "GA",
+		"Latitude" : "+34.759522"
+	},
+	{
+		"Longitude" : "-084.777863",
+		"Zipcode" : "30724",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MURRAY",
+		"City" : "ETON",
+		"State" : "GA",
+		"Latitude" : "+34.787830"
+	},
+	{
+		"Longitude" : "-085.238041",
+		"Zipcode" : "30725",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "FLINTSTONE",
+		"State" : "GA",
+		"Latitude" : "+34.846843"
+	},
+	{
+		"Longitude" : "-085.140798",
+		"Zipcode" : "30726",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CATOOSA",
+		"City" : "GRAYSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.980249"
+	},
+	{
+		"Longitude" : "-085.255273",
+		"Zipcode" : "30728",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "LA FAYETTE",
+		"State" : "GA",
+		"Latitude" : "+34.697006"
+	},
+	{
+		"Longitude" : "-085.417428",
+		"Zipcode" : "30730",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATTOOGA",
+		"City" : "LYERLY",
+		"State" : "GA",
+		"Latitude" : "+34.392073"
+	},
+	{
+		"Longitude" : "-085.414081",
+		"Zipcode" : "30731",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATTOOGA",
+		"City" : "MENLO",
+		"State" : "GA",
+		"Latitude" : "+34.518597"
+	},
+	{
+		"Longitude" : "-084.711863",
+		"Zipcode" : "30732",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GORDON",
+		"City" : "OAKMAN",
+		"State" : "GA",
+		"Latitude" : "+34.569015"
+	},
+	{
+		"Longitude" : "-085.052629",
+		"Zipcode" : "30733",
+		"ZipClass" : "STANDARD",
+		"County" : "GORDON",
+		"City" : "PLAINVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.414048"
+	},
+	{
+		"Longitude" : "-084.724186",
+		"Zipcode" : "30734",
+		"ZipClass" : "STANDARD",
+		"County" : "GORDON",
+		"City" : "RANGER",
+		"State" : "GA",
+		"Latitude" : "+34.535071"
+	},
+	{
+		"Longitude" : "-084.906803",
+		"Zipcode" : "30735",
+		"ZipClass" : "STANDARD",
+		"County" : "GORDON",
+		"City" : "RESACA",
+		"State" : "GA",
+		"Latitude" : "+34.583318"
+	},
+	{
+		"Longitude" : "-085.118699",
+		"Zipcode" : "30736",
+		"ZipClass" : "STANDARD",
+		"County" : "CATOOSA",
+		"City" : "RINGGOLD",
+		"State" : "GA",
+		"Latitude" : "+34.888709"
+	},
+	{
+		"Longitude" : "-085.501868",
+		"Zipcode" : "30738",
+		"ZipClass" : "STANDARD",
+		"County" : "DADE",
+		"City" : "RISING FAWN",
+		"State" : "GA",
+		"Latitude" : "+34.813904"
+	},
+	{
+		"Longitude" : "-085.212809",
+		"Zipcode" : "30739",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "ROCK SPRING",
+		"State" : "GA",
+		"Latitude" : "+34.801819"
+	},
+	{
+		"Longitude" : "-085.072681",
+		"Zipcode" : "30740",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITFIELD",
+		"City" : "ROCKY FACE",
+		"State" : "GA",
+		"Latitude" : "+34.766976"
+	},
+	{
+		"Longitude" : "-085.246291",
+		"Zipcode" : "30741",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "ROSSVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.798084"
+	},
+	{
+		"Longitude" : "-085.175034",
+		"Zipcode" : "30742",
+		"ZipClass" : "STANDARD",
+		"County" : "CATOOSA",
+		"City" : "FORT OGLETHORPE",
+		"State" : "GA",
+		"Latitude" : "+34.931497"
+	},
+	{
+		"Longitude" : "-085.025616",
+		"Zipcode" : "30746",
+		"ZipClass" : "STANDARD",
+		"County" : "GORDON",
+		"City" : "SUGAR VALLEY",
+		"State" : "GA",
+		"Latitude" : "+34.571753"
+	},
+	{
+		"Longitude" : "-085.315546",
+		"Zipcode" : "30747",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATTOOGA",
+		"City" : "SUMMERVILLE",
+		"State" : "GA",
+		"Latitude" : "+34.484159"
+	},
+	{
+		"Longitude" : "-085.384631",
+		"Zipcode" : "30750",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "LOOKOUT MOUNTAIN",
+		"State" : "GA",
+		"Latitude" : "+34.934730"
+	},
+	{
+		"Longitude" : "-084.735233",
+		"Zipcode" : "30751",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MURRAY",
+		"City" : "TENNGA",
+		"State" : "GA",
+		"Latitude" : "+34.981449"
+	},
+	{
+		"Longitude" : "-085.502080",
+		"Zipcode" : "30752",
+		"ZipClass" : "STANDARD",
+		"County" : "DADE",
+		"City" : "TRENTON",
+		"State" : "GA",
+		"Latitude" : "+34.871687"
+	},
+	{
+		"Longitude" : "-085.368362",
+		"Zipcode" : "30753",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATTOOGA",
+		"City" : "TRION",
+		"State" : "GA",
+		"Latitude" : "+34.532713"
+	},
+	{
+		"Longitude" : "-085.050047",
+		"Zipcode" : "30755",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITFIELD",
+		"City" : "TUNNEL HILL",
+		"State" : "GA",
+		"Latitude" : "+34.875416"
+	},
+	{
+		"Longitude" : "-084.988536",
+		"Zipcode" : "30756",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITFIELD",
+		"City" : "VARNELL",
+		"State" : "GA",
+		"Latitude" : "+34.929800"
+	},
+	{
+		"Longitude" : "-085.448302",
+		"Zipcode" : "30757",
+		"ZipClass" : "STANDARD",
+		"County" : "DADE",
+		"City" : "WILDWOOD",
+		"State" : "GA",
+		"Latitude" : "+34.922998"
+	},
+	{
+		"Longitude" : "-082.312058",
+		"Zipcode" : "30802",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "APPLING",
+		"State" : "GA",
+		"Latitude" : "+33.573999"
+	},
+	{
+		"Longitude" : "-082.527009",
+		"Zipcode" : "30803",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "AVERA",
+		"State" : "GA",
+		"Latitude" : "+33.141307"
+	},
+	{
+		"Longitude" : "-082.198897",
+		"Zipcode" : "30805",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "BLYTHE",
+		"State" : "GA",
+		"Latitude" : "+33.359709"
+	},
+	{
+		"Longitude" : "-082.510400",
+		"Zipcode" : "30806",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDUFFIE",
+		"City" : "BONEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.527993"
+	},
+	{
+		"Longitude" : "-082.642214",
+		"Zipcode" : "30807",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "CAMAK",
+		"State" : "GA",
+		"Latitude" : "+33.447102"
+	},
+	{
+		"Longitude" : "-082.401622",
+		"Zipcode" : "30808",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDUFFIE",
+		"City" : "DEARING",
+		"State" : "GA",
+		"Latitude" : "+33.404395"
+	},
+	{
+		"Longitude" : "-082.143617",
+		"Zipcode" : "30809",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "EVANS",
+		"State" : "GA",
+		"Latitude" : "+33.551132"
+	},
+	{
+		"Longitude" : "-082.599738",
+		"Zipcode" : "30810",
+		"ZipClass" : "STANDARD",
+		"County" : "GLASCOCK",
+		"City" : "GIBSON",
+		"State" : "GA",
+		"Latitude" : "+33.223471"
+	},
+	{
+		"Longitude" : "-081.929165",
+		"Zipcode" : "30811",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "GOUGH",
+		"State" : "GA",
+		"Latitude" : "+33.050487"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30812",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHMOND",
+		"City" : "GRACEWOOD",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.213991",
+		"Zipcode" : "30813",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "GROVETOWN",
+		"State" : "GA",
+		"Latitude" : "+33.466721"
+	},
+	{
+		"Longitude" : "-082.307337",
+		"Zipcode" : "30814",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "HARLEM",
+		"State" : "GA",
+		"Latitude" : "+33.456131"
+	},
+	{
+		"Longitude" : "-082.058032",
+		"Zipcode" : "30815",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "HEPHZIBAH",
+		"State" : "GA",
+		"Latitude" : "+33.322290"
+	},
+	{
+		"Longitude" : "-082.134871",
+		"Zipcode" : "30816",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "KEYSVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.155067"
+	},
+	{
+		"Longitude" : "-082.453456",
+		"Zipcode" : "30817",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LINCOLNTON",
+		"State" : "GA",
+		"Latitude" : "+33.812714"
+	},
+	{
+		"Longitude" : "-082.343390",
+		"Zipcode" : "30818",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MATTHEWS",
+		"State" : "GA",
+		"Latitude" : "+33.189975"
+	},
+	{
+		"Longitude" : "-082.625213",
+		"Zipcode" : "30819",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "MESENA",
+		"State" : "GA",
+		"Latitude" : "+33.432384"
+	},
+	{
+		"Longitude" : "-082.631164",
+		"Zipcode" : "30820",
+		"ZipClass" : "STANDARD",
+		"County" : "GLASCOCK",
+		"City" : "MITCHELL",
+		"State" : "GA",
+		"Latitude" : "+33.231593"
+	},
+	{
+		"Longitude" : "-082.718794",
+		"Zipcode" : "30821",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "NORWOOD",
+		"State" : "GA",
+		"Latitude" : "+33.484966"
+	},
+	{
+		"Longitude" : "-081.875482",
+		"Zipcode" : "30822",
+		"ZipClass" : "STANDARD",
+		"County" : "JENKINS",
+		"City" : "PERKINS",
+		"State" : "GA",
+		"Latitude" : "+32.873466"
+	},
+	{
+		"Longitude" : "-082.438568",
+		"Zipcode" : "30823",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "STAPLETON",
+		"State" : "GA",
+		"Latitude" : "+33.181447"
+	},
+	{
+		"Longitude" : "-082.513847",
+		"Zipcode" : "30824",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDUFFIE",
+		"City" : "THOMSON",
+		"State" : "GA",
+		"Latitude" : "+33.494908"
+	},
+	{
+		"Longitude" : "-082.641067",
+		"Zipcode" : "30828",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "WARRENTON",
+		"State" : "GA",
+		"Latitude" : "+33.406118"
+	},
+	{
+		"Longitude" : "-081.986767",
+		"Zipcode" : "30830",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "WAYNESBORO",
+		"State" : "GA",
+		"Latitude" : "+33.080724"
+	},
+	{
+		"Longitude" : "-082.361546",
+		"Zipcode" : "30833",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WRENS",
+		"State" : "GA",
+		"Latitude" : "+33.192426"
+	},
+	{
+		"Longitude" : "-081.969184",
+		"Zipcode" : "30901",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.456687"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30903",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.015988",
+		"Zipcode" : "30904",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.478686"
+	},
+	{
+		"Longitude" : "-082.133732",
+		"Zipcode" : "30905",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.412986"
+	},
+	{
+		"Longitude" : "-082.009938",
+		"Zipcode" : "30906",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.358865"
+	},
+	{
+		"Longitude" : "-082.068935",
+		"Zipcode" : "30907",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.457921"
+	},
+	{
+		"Longitude" : "-082.055973",
+		"Zipcode" : "30909",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.416616"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30910",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30911",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30912",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30913",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30914",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30916",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.235542",
+		"Zipcode" : "30917",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.527678"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30919",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-082.090996",
+		"Zipcode" : "30999",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHMOND",
+		"City" : "AUGUSTA",
+		"State" : "GA",
+		"Latitude" : "+33.386041"
+	},
+	{
+		"Longitude" : "-083.372515",
+		"Zipcode" : "31001",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "ABBEVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.977048"
+	},
+	{
+		"Longitude" : "-082.540305",
+		"Zipcode" : "31002",
+		"ZipClass" : "STANDARD",
+		"County" : "EMANUEL",
+		"City" : "ADRIAN",
+		"State" : "GA",
+		"Latitude" : "+32.568870"
+	},
+	{
+		"Longitude" : "-083.209510",
+		"Zipcode" : "31003",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILKINSON",
+		"City" : "ALLENTOWN",
+		"State" : "GA",
+		"Latitude" : "+32.606433"
+	},
+	{
+		"Longitude" : "-083.800628",
+		"Zipcode" : "31004",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "BOLINGBROKE",
+		"State" : "GA",
+		"Latitude" : "+32.946971"
+	},
+	{
+		"Longitude" : "-083.662733",
+		"Zipcode" : "31005",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "BONAIRE",
+		"State" : "GA",
+		"Latitude" : "+32.539506"
+	},
+	{
+		"Longitude" : "-084.226075",
+		"Zipcode" : "31006",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "BUTLER",
+		"State" : "GA",
+		"Latitude" : "+32.572668"
+	},
+	{
+		"Longitude" : "-083.901376",
+		"Zipcode" : "31007",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOLY",
+		"City" : "BYROMVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.185828"
+	},
+	{
+		"Longitude" : "-083.788976",
+		"Zipcode" : "31008",
+		"ZipClass" : "STANDARD",
+		"County" : "PEACH",
+		"City" : "BYRON",
+		"State" : "GA",
+		"Latitude" : "+32.618051"
+	},
+	{
+		"Longitude" : "-083.009422",
+		"Zipcode" : "31009",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "CADWELL",
+		"State" : "GA",
+		"Latitude" : "+32.303915"
+	},
+	{
+		"Longitude" : "-083.785365",
+		"Zipcode" : "31010",
+		"ZipClass" : "STANDARD",
+		"County" : "CRISP",
+		"City" : "CORDELE",
+		"State" : "GA",
+		"Latitude" : "+31.917178"
+	},
+	{
+		"Longitude" : "-083.055544",
+		"Zipcode" : "31011",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "CHAUNCEY",
+		"State" : "GA",
+		"Latitude" : "+32.150374"
+	},
+	{
+		"Longitude" : "-083.160882",
+		"Zipcode" : "31012",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "CHESTER",
+		"State" : "GA",
+		"Latitude" : "+32.310632"
+	},
+	{
+		"Longitude" : "-083.692562",
+		"Zipcode" : "31013",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOUSTON",
+		"City" : "CLINCHFIELD",
+		"State" : "GA",
+		"Latitude" : "+32.338639"
+	},
+	{
+		"Longitude" : "-083.321095",
+		"Zipcode" : "31014",
+		"ZipClass" : "STANDARD",
+		"County" : "BLECKLEY",
+		"City" : "COCHRAN",
+		"State" : "GA",
+		"Latitude" : "+32.383904"
+	},
+	{
+		"Longitude" : "-083.777354",
+		"Zipcode" : "31015",
+		"ZipClass" : "STANDARD",
+		"County" : "CRISP",
+		"City" : "CORDELE",
+		"State" : "GA",
+		"Latitude" : "+31.919861"
+	},
+	{
+		"Longitude" : "-084.062584",
+		"Zipcode" : "31016",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "CULLODEN",
+		"State" : "GA",
+		"Latitude" : "+32.900292"
+	},
+	{
+		"Longitude" : "-083.269106",
+		"Zipcode" : "31017",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIGGS",
+		"City" : "DANVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.607654"
+	},
+	{
+		"Longitude" : "-082.648357",
+		"Zipcode" : "31018",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "DAVISBORO",
+		"State" : "GA",
+		"Latitude" : "+32.968449"
+	},
+	{
+		"Longitude" : "-083.044502",
+		"Zipcode" : "31019",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "DEXTER",
+		"State" : "GA",
+		"Latitude" : "+32.428425"
+	},
+	{
+		"Longitude" : "-083.455788",
+		"Zipcode" : "31020",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIGGS",
+		"City" : "DRY BRANCH",
+		"State" : "GA",
+		"Latitude" : "+32.715133"
+	},
+	{
+		"Longitude" : "-082.938121",
+		"Zipcode" : "31021",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "DUBLIN",
+		"State" : "GA",
+		"Latitude" : "+32.459291"
+	},
+	{
+		"Longitude" : "-083.108975",
+		"Zipcode" : "31022",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "DUDLEY",
+		"State" : "GA",
+		"Latitude" : "+32.505705"
+	},
+	{
+		"Longitude" : "-083.194358",
+		"Zipcode" : "31023",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "EASTMAN",
+		"State" : "GA",
+		"Latitude" : "+32.143564"
+	},
+	{
+		"Longitude" : "-083.355865",
+		"Zipcode" : "31024",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "EATONTON",
+		"State" : "GA",
+		"Latitude" : "+33.320818"
+	},
+	{
+		"Longitude" : "-083.749048",
+		"Zipcode" : "31025",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "ELKO",
+		"State" : "GA",
+		"Latitude" : "+32.360242"
+	},
+	{
+		"Longitude" : "-082.781684",
+		"Zipcode" : "31027",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "DUBLIN",
+		"State" : "GA",
+		"Latitude" : "+32.552377"
+	},
+	{
+		"Longitude" : "-083.701770",
+		"Zipcode" : "31028",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "CENTERVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.568220"
+	},
+	{
+		"Longitude" : "-083.915021",
+		"Zipcode" : "31029",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "FORSYTH",
+		"State" : "GA",
+		"Latitude" : "+33.025944"
+	},
+	{
+		"Longitude" : "-083.854528",
+		"Zipcode" : "31030",
+		"ZipClass" : "STANDARD",
+		"County" : "PEACH",
+		"City" : "FORT VALLEY",
+		"State" : "GA",
+		"Latitude" : "+32.560698"
+	},
+	{
+		"Longitude" : "-083.302945",
+		"Zipcode" : "31031",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKINSON",
+		"City" : "GORDON",
+		"State" : "GA",
+		"Latitude" : "+32.881267"
+	},
+	{
+		"Longitude" : "-083.567362",
+		"Zipcode" : "31032",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "GRAY",
+		"State" : "GA",
+		"Latitude" : "+32.991607"
+	},
+	{
+		"Longitude" : "-083.424672",
+		"Zipcode" : "31033",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "HADDOCK",
+		"State" : "GA",
+		"Latitude" : "+33.056543"
+	},
+	{
+		"Longitude" : "-083.246975",
+		"Zipcode" : "31034",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALDWIN",
+		"City" : "HARDWICK",
+		"State" : "GA",
+		"Latitude" : "+33.022658"
+	},
+	{
+		"Longitude" : "-082.702399",
+		"Zipcode" : "31035",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HARRISON",
+		"State" : "GA",
+		"Latitude" : "+32.855295"
+	},
+	{
+		"Longitude" : "-083.490090",
+		"Zipcode" : "31036",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "HAWKINSVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.275664"
+	},
+	{
+		"Longitude" : "-082.974700",
+		"Zipcode" : "31037",
+		"ZipClass" : "STANDARD",
+		"County" : "TELFAIR",
+		"City" : "HELENA",
+		"State" : "GA",
+		"Latitude" : "+32.047457"
+	},
+	{
+		"Longitude" : "-083.618059",
+		"Zipcode" : "31038",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "HILLSBORO",
+		"State" : "GA",
+		"Latitude" : "+33.207511"
+	},
+	{
+		"Longitude" : "-084.227675",
+		"Zipcode" : "31039",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAYLOR",
+		"City" : "HOWARD",
+		"State" : "GA",
+		"Latitude" : "+32.559781"
+	},
+	{
+		"Longitude" : "-082.914974",
+		"Zipcode" : "31040",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "DUBLIN",
+		"State" : "GA",
+		"Latitude" : "+32.540073"
+	},
+	{
+		"Longitude" : "-084.212159",
+		"Zipcode" : "31041",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "IDEAL",
+		"State" : "GA",
+		"Latitude" : "+32.372937"
+	},
+	{
+		"Longitude" : "-083.145237",
+		"Zipcode" : "31042",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKINSON",
+		"City" : "IRWINTON",
+		"State" : "GA",
+		"Latitude" : "+32.751414"
+	},
+	{
+		"Longitude" : "-083.331033",
+		"Zipcode" : "31044",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIGGS",
+		"City" : "JEFFERSONVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.661271"
+	},
+	{
+		"Longitude" : "-082.755599",
+		"Zipcode" : "31045",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "JEWELL",
+		"State" : "GA",
+		"Latitude" : "+33.296633"
+	},
+	{
+		"Longitude" : "-083.803166",
+		"Zipcode" : "31046",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "JULIETTE",
+		"State" : "GA",
+		"Latitude" : "+33.027607"
+	},
+	{
+		"Longitude" : "-083.646436",
+		"Zipcode" : "31047",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "KATHLEEN",
+		"State" : "GA",
+		"Latitude" : "+32.454331"
+	},
+	{
+		"Longitude" : "-082.525306",
+		"Zipcode" : "31049",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "KITE",
+		"State" : "GA",
+		"Latitude" : "+32.698954"
+	},
+	{
+		"Longitude" : "-083.915762",
+		"Zipcode" : "31050",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "KNOXVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.715632"
+	},
+	{
+		"Longitude" : "-083.891349",
+		"Zipcode" : "31051",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOOLY",
+		"City" : "LILLY",
+		"State" : "GA",
+		"Latitude" : "+32.146879"
+	},
+	{
+		"Longitude" : "-083.823023",
+		"Zipcode" : "31052",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "LIZELLA",
+		"State" : "GA",
+		"Latitude" : "+32.783332"
+	},
+	{
+		"Longitude" : "-083.231724",
+		"Zipcode" : "31054",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKINSON",
+		"City" : "MC INTYRE",
+		"State" : "GA",
+		"Latitude" : "+32.886524"
+	},
+	{
+		"Longitude" : "-082.910927",
+		"Zipcode" : "31055",
+		"ZipClass" : "STANDARD",
+		"County" : "TELFAIR",
+		"City" : "MC RAE",
+		"State" : "GA",
+		"Latitude" : "+32.047918"
+	},
+	{
+		"Longitude" : "-083.905039",
+		"Zipcode" : "31057",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "MARSHALLVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.438321"
+	},
+	{
+		"Longitude" : "-084.227675",
+		"Zipcode" : "31058",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "MAUK",
+		"State" : "GA",
+		"Latitude" : "+32.559781"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "31059",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "MILLEDGEVILLE",
+		"State" : "GA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-082.926588",
+		"Zipcode" : "31060",
+		"ZipClass" : "STANDARD",
+		"County" : "TELFAIR",
+		"City" : "MILAN",
+		"State" : "GA",
+		"Latitude" : "+31.964005"
+	},
+	{
+		"Longitude" : "-083.239008",
+		"Zipcode" : "31061",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "MILLEDGEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.072279"
+	},
+	{
+		"Longitude" : "-083.224920",
+		"Zipcode" : "31062",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALDWIN",
+		"City" : "MILLEDGEVILLE",
+		"State" : "GA",
+		"Latitude" : "+33.087138"
+	},
+	{
+		"Longitude" : "-083.863997",
+		"Zipcode" : "31063",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "MONTEZUMA",
+		"State" : "GA",
+		"Latitude" : "+32.240448"
+	},
+	{
+		"Longitude" : "-083.698508",
+		"Zipcode" : "31064",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "MONTICELLO",
+		"State" : "GA",
+		"Latitude" : "+33.337906"
+	},
+	{
+		"Longitude" : "-083.159741",
+		"Zipcode" : "31065",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "MONTROSE",
+		"State" : "GA",
+		"Latitude" : "+32.562040"
+	},
+	{
+		"Longitude" : "-083.979228",
+		"Zipcode" : "31066",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "MUSELLA",
+		"State" : "GA",
+		"Latitude" : "+32.786842"
+	},
+	{
+		"Longitude" : "-082.946903",
+		"Zipcode" : "31067",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "OCONEE",
+		"State" : "GA",
+		"Latitude" : "+32.876666"
+	},
+	{
+		"Longitude" : "-084.101472",
+		"Zipcode" : "31068",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "OGLETHORPE",
+		"State" : "GA",
+		"Latitude" : "+32.327479"
+	},
+	{
+		"Longitude" : "-083.722649",
+		"Zipcode" : "31069",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "PERRY",
+		"State" : "GA",
+		"Latitude" : "+32.431940"
+	},
+	{
+		"Longitude" : "-083.778422",
+		"Zipcode" : "31070",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOLY",
+		"City" : "PINEHURST",
+		"State" : "GA",
+		"Latitude" : "+32.182652"
+	},
+	{
+		"Longitude" : "-083.504479",
+		"Zipcode" : "31071",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "PINEVIEW",
+		"State" : "GA",
+		"Latitude" : "+32.098130"
+	},
+	{
+		"Longitude" : "-083.539522",
+		"Zipcode" : "31072",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "PITTS",
+		"State" : "GA",
+		"Latitude" : "+31.948637"
+	},
+	{
+		"Longitude" : "-083.122891",
+		"Zipcode" : "31073",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "PLAINFIELD",
+		"State" : "GA",
+		"Latitude" : "+32.176429"
+	},
+	{
+		"Longitude" : "-082.966995",
+		"Zipcode" : "31075",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "RENTZ",
+		"State" : "GA",
+		"Latitude" : "+32.379902"
+	},
+	{
+		"Longitude" : "-084.092715",
+		"Zipcode" : "31076",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "REYNOLDS",
+		"State" : "GA",
+		"Latitude" : "+32.551695"
+	},
+	{
+		"Longitude" : "-083.122891",
+		"Zipcode" : "31077",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "RHINE",
+		"State" : "GA",
+		"Latitude" : "+32.176429"
+	},
+	{
+		"Longitude" : "-084.010581",
+		"Zipcode" : "31078",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "ROBERTA",
+		"State" : "GA",
+		"Latitude" : "+32.687207"
+	},
+	{
+		"Longitude" : "-083.453578",
+		"Zipcode" : "31079",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "ROCHELLE",
+		"State" : "GA",
+		"Latitude" : "+31.948411"
+	},
+	{
+		"Longitude" : "-084.227675",
+		"Zipcode" : "31081",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "RUPERT",
+		"State" : "GA",
+		"Latitude" : "+32.559781"
+	},
+	{
+		"Longitude" : "-082.840564",
+		"Zipcode" : "31082",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SANDERSVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.974982"
+	},
+	{
+		"Longitude" : "-082.912341",
+		"Zipcode" : "31083",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TELFAIR",
+		"City" : "SCOTLAND",
+		"State" : "GA",
+		"Latitude" : "+32.084139"
+	},
+	{
+		"Longitude" : "-083.394574",
+		"Zipcode" : "31084",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILCOX",
+		"City" : "SEVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.989039"
+	},
+	{
+		"Longitude" : "-083.626885",
+		"Zipcode" : "31085",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "SHADY DALE",
+		"State" : "GA",
+		"Latitude" : "+33.435022"
+	},
+	{
+		"Longitude" : "-083.876108",
+		"Zipcode" : "31086",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "SMARR",
+		"State" : "GA",
+		"Latitude" : "+32.989503"
+	},
+	{
+		"Longitude" : "-083.089220",
+		"Zipcode" : "31087",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SPARTA",
+		"State" : "GA",
+		"Latitude" : "+33.257068"
+	},
+	{
+		"Longitude" : "-083.644751",
+		"Zipcode" : "31088",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "WARNER ROBINS",
+		"State" : "GA",
+		"Latitude" : "+32.555039"
+	},
+	{
+		"Longitude" : "-082.782879",
+		"Zipcode" : "31089",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "TENNILLE",
+		"State" : "GA",
+		"Latitude" : "+32.873449"
+	},
+	{
+		"Longitude" : "-083.066814",
+		"Zipcode" : "31090",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKINSON",
+		"City" : "TOOMSBORO",
+		"State" : "GA",
+		"Latitude" : "+32.806595"
+	},
+	{
+		"Longitude" : "-083.731718",
+		"Zipcode" : "31091",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOLY",
+		"City" : "UNADILLA",
+		"State" : "GA",
+		"Latitude" : "+32.219249"
+	},
+	{
+		"Longitude" : "-083.791644",
+		"Zipcode" : "31092",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOLY",
+		"City" : "VIENNA",
+		"State" : "GA",
+		"Latitude" : "+32.115981"
+	},
+	{
+		"Longitude" : "-083.658174",
+		"Zipcode" : "31093",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "WARNER ROBINS",
+		"State" : "GA",
+		"Latitude" : "+32.587303"
+	},
+	{
+		"Longitude" : "-082.805591",
+		"Zipcode" : "31094",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WARTHEN",
+		"State" : "GA",
+		"Latitude" : "+33.079750"
+	},
+	{
+		"Longitude" : "-083.669655",
+		"Zipcode" : "31095",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "WARNER ROBINS",
+		"State" : "GA",
+		"Latitude" : "+32.487403"
+	},
+	{
+		"Longitude" : "-082.657495",
+		"Zipcode" : "31096",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "WRIGHTSVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.635692"
+	},
+	{
+		"Longitude" : "-084.212644",
+		"Zipcode" : "31097",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSON",
+		"City" : "YATESVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.901627"
+	},
+	{
+		"Longitude" : "-083.640099",
+		"Zipcode" : "31098",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "WARNER ROBINS",
+		"State" : "GA",
+		"Latitude" : "+32.493720"
+	},
+	{
+		"Longitude" : "-083.651300",
+		"Zipcode" : "31099",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "WARNER ROBINS",
+		"State" : "GA",
+		"Latitude" : "+32.646236"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31106",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31107",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "31119",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31126",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31131",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31139",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "31141",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "31145",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "31146",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31150",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31156",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31191",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31192",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31193",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31195",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31196",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31197",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31198",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-084.474050",
+		"Zipcode" : "31199",
+		"ZipClass" : "UNIQUE",
+		"County" : "FULTON",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.844371"
+	},
+	{
+		"Longitude" : "-083.595066",
+		"Zipcode" : "31201",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.827949"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31202",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31203",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.667064",
+		"Zipcode" : "31204",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.852249"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31205",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.668091",
+		"Zipcode" : "31206",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.834861"
+	},
+	{
+		"Longitude" : "-083.648552",
+		"Zipcode" : "31207",
+		"ZipClass" : "UNIQUE",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.830389"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31208",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31209",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.680078",
+		"Zipcode" : "31210",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.843368"
+	},
+	{
+		"Longitude" : "-083.607363",
+		"Zipcode" : "31211",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.866987"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31212",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.638752",
+		"Zipcode" : "31213",
+		"ZipClass" : "UNIQUE",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.839289"
+	},
+	{
+		"Longitude" : "-083.747721",
+		"Zipcode" : "31216",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.748570"
+	},
+	{
+		"Longitude" : "-083.565009",
+		"Zipcode" : "31217",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.811767"
+	},
+	{
+		"Longitude" : "-083.802047",
+		"Zipcode" : "31220",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.859461"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31221",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31294",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.569001",
+		"Zipcode" : "31295",
+		"ZipClass" : "UNIQUE",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.810189"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31296",
+		"ZipClass" : "UNIQUE",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-083.657207",
+		"Zipcode" : "31297",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.700450"
+	},
+	{
+		"Longitude" : "-083.708399",
+		"Zipcode" : "31298",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.873330"
+	},
+	{
+		"Longitude" : "-083.691315",
+		"Zipcode" : "31299",
+		"ZipClass" : "UNIQUE",
+		"County" : "BIBB",
+		"City" : "MACON",
+		"State" : "GA",
+		"Latitude" : "+32.806707"
+	},
+	{
+		"Longitude" : "-081.603850",
+		"Zipcode" : "31301",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "ALLENHURST",
+		"State" : "GA",
+		"Latitude" : "+31.779116"
+	},
+	{
+		"Longitude" : "-081.291335",
+		"Zipcode" : "31302",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "BLOOMINGDALE",
+		"State" : "GA",
+		"Latitude" : "+32.107103"
+	},
+	{
+		"Longitude" : "-081.322392",
+		"Zipcode" : "31303",
+		"ZipClass" : "STANDARD",
+		"County" : "EFFINGHAM",
+		"City" : "CLYO",
+		"State" : "GA",
+		"Latitude" : "+32.488015"
+	},
+	{
+		"Longitude" : "-081.381908",
+		"Zipcode" : "31304",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCINTOSH",
+		"City" : "CRESCENT",
+		"State" : "GA",
+		"Latitude" : "+31.495071"
+	},
+	{
+		"Longitude" : "-081.369263",
+		"Zipcode" : "31305",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "DARIEN",
+		"State" : "GA",
+		"Latitude" : "+31.413831"
+	},
+	{
+		"Longitude" : "-081.353756",
+		"Zipcode" : "31307",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EFFINGHAM",
+		"City" : "EDEN",
+		"State" : "GA",
+		"Latitude" : "+32.174021"
+	},
+	{
+		"Longitude" : "-081.502963",
+		"Zipcode" : "31308",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "ELLABELL",
+		"State" : "GA",
+		"Latitude" : "+32.159233"
+	},
+	{
+		"Longitude" : "-081.457959",
+		"Zipcode" : "31309",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "FLEMING",
+		"State" : "GA",
+		"Latitude" : "+31.876730"
+	},
+	{
+		"Longitude" : "-081.437074",
+		"Zipcode" : "31310",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "HINESVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.806832"
+	},
+	{
+		"Longitude" : "-081.384181",
+		"Zipcode" : "31312",
+		"ZipClass" : "STANDARD",
+		"County" : "EFFINGHAM",
+		"City" : "GUYTON",
+		"State" : "GA",
+		"Latitude" : "+32.331563"
+	},
+	{
+		"Longitude" : "-081.523649",
+		"Zipcode" : "31313",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "HINESVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.804838"
+	},
+	{
+		"Longitude" : "-081.437074",
+		"Zipcode" : "31314",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "FORT STEWART",
+		"State" : "GA",
+		"Latitude" : "+31.806832"
+	},
+	{
+		"Longitude" : "-081.654696",
+		"Zipcode" : "31315",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "FORT STEWART",
+		"State" : "GA",
+		"Latitude" : "+31.844332"
+	},
+	{
+		"Longitude" : "-081.773916",
+		"Zipcode" : "31316",
+		"ZipClass" : "STANDARD",
+		"County" : "LONG",
+		"City" : "LUDOWICI",
+		"State" : "GA",
+		"Latitude" : "+31.780996"
+	},
+	{
+		"Longitude" : "-081.372184",
+		"Zipcode" : "31318",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EFFINGHAM",
+		"City" : "MELDRIM",
+		"State" : "GA",
+		"Latitude" : "+32.149861"
+	},
+	{
+		"Longitude" : "-081.368884",
+		"Zipcode" : "31319",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCINTOSH",
+		"City" : "MERIDIAN",
+		"State" : "GA",
+		"Latitude" : "+31.459045"
+	},
+	{
+		"Longitude" : "-081.420626",
+		"Zipcode" : "31320",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "MIDWAY",
+		"State" : "GA",
+		"Latitude" : "+31.778847"
+	},
+	{
+		"Longitude" : "-081.514752",
+		"Zipcode" : "31321",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "PEMBROKE",
+		"State" : "GA",
+		"Latitude" : "+32.009967"
+	},
+	{
+		"Longitude" : "-081.083881",
+		"Zipcode" : "31322",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "POOLER",
+		"State" : "GA",
+		"Latitude" : "+32.071917"
+	},
+	{
+		"Longitude" : "-081.573850",
+		"Zipcode" : "31323",
+		"ZipClass" : "STANDARD",
+		"County" : "LIBERTY",
+		"City" : "RICEBORO",
+		"State" : "GA",
+		"Latitude" : "+31.785934"
+	},
+	{
+		"Longitude" : "-081.407336",
+		"Zipcode" : "31324",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "RICHMOND HILL",
+		"State" : "GA",
+		"Latitude" : "+31.951531"
+	},
+	{
+		"Longitude" : "-081.287526",
+		"Zipcode" : "31326",
+		"ZipClass" : "STANDARD",
+		"County" : "EFFINGHAM",
+		"City" : "RINCON",
+		"State" : "GA",
+		"Latitude" : "+32.285205"
+	},
+	{
+		"Longitude" : "-081.381908",
+		"Zipcode" : "31327",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCINTOSH",
+		"City" : "SAPELO ISLAND",
+		"State" : "GA",
+		"Latitude" : "+31.495071"
+	},
+	{
+		"Longitude" : "-080.855322",
+		"Zipcode" : "31328",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "TYBEE ISLAND",
+		"State" : "GA",
+		"Latitude" : "+32.005930"
+	},
+	{
+		"Longitude" : "-081.361775",
+		"Zipcode" : "31329",
+		"ZipClass" : "STANDARD",
+		"County" : "EFFINGHAM",
+		"City" : "SPRINGFIELD",
+		"State" : "GA",
+		"Latitude" : "+32.369703"
+	},
+	{
+		"Longitude" : "-081.358252",
+		"Zipcode" : "31331",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "TOWNSEND",
+		"State" : "GA",
+		"Latitude" : "+31.512024"
+	},
+	{
+		"Longitude" : "-081.620830",
+		"Zipcode" : "31333",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LIBERTY",
+		"City" : "WALTHOURVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.770473"
+	},
+	{
+		"Longitude" : "-081.135618",
+		"Zipcode" : "31401",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.072257"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31402",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31403",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.117480",
+		"Zipcode" : "31404",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.048247"
+	},
+	{
+		"Longitude" : "-081.181413",
+		"Zipcode" : "31405",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.065317"
+	},
+	{
+		"Longitude" : "-081.086617",
+		"Zipcode" : "31406",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.975611"
+	},
+	{
+		"Longitude" : "-081.199897",
+		"Zipcode" : "31407",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.167235"
+	},
+	{
+		"Longitude" : "-081.174612",
+		"Zipcode" : "31408",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.108154"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31409",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-080.997043",
+		"Zipcode" : "31410",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.017461"
+	},
+	{
+		"Longitude" : "-081.045795",
+		"Zipcode" : "31411",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.942645"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31412",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31414",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.128865",
+		"Zipcode" : "31415",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.075307"
+	},
+	{
+		"Longitude" : "-081.047711",
+		"Zipcode" : "31416",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.005255"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31418",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.214369",
+		"Zipcode" : "31419",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+32.008492"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31420",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31421",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31422",
+		"ZipClass" : "UNIQUE",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31498",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-081.071560",
+		"Zipcode" : "31499",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATHAM",
+		"City" : "SAVANNAH",
+		"State" : "GA",
+		"Latitude" : "+31.971394"
+	},
+	{
+		"Longitude" : "-082.359628",
+		"Zipcode" : "31501",
+		"ZipClass" : "STANDARD",
+		"County" : "WARE",
+		"City" : "WAYCROSS",
+		"State" : "GA",
+		"Latitude" : "+31.224262"
+	},
+	{
+		"Longitude" : "-082.416543",
+		"Zipcode" : "31502",
+		"ZipClass" : "STANDARD",
+		"County" : "WARE",
+		"City" : "WAYCROSS",
+		"State" : "GA",
+		"Latitude" : "+31.018954"
+	},
+	{
+		"Longitude" : "-082.376595",
+		"Zipcode" : "31503",
+		"ZipClass" : "STANDARD",
+		"County" : "WARE",
+		"City" : "WAYCROSS",
+		"State" : "GA",
+		"Latitude" : "+31.193229"
+	},
+	{
+		"Longitude" : "-082.461197",
+		"Zipcode" : "31510",
+		"ZipClass" : "STANDARD",
+		"County" : "BACON",
+		"City" : "ALMA",
+		"State" : "GA",
+		"Latitude" : "+31.576952"
+	},
+	{
+		"Longitude" : "-082.987305",
+		"Zipcode" : "31512",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "AMBROSE",
+		"State" : "GA",
+		"Latitude" : "+31.549597"
+	},
+	{
+		"Longitude" : "-082.350837",
+		"Zipcode" : "31513",
+		"ZipClass" : "STANDARD",
+		"County" : "APPLING",
+		"City" : "BAXLEY",
+		"State" : "GA",
+		"Latitude" : "+31.756861"
+	},
+	{
+		"Longitude" : "-082.299677",
+		"Zipcode" : "31515",
+		"ZipClass" : "STANDARD",
+		"County" : "APPLING",
+		"City" : "BAXLEY",
+		"State" : "GA",
+		"Latitude" : "+31.717717"
+	},
+	{
+		"Longitude" : "-082.271206",
+		"Zipcode" : "31516",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "BLACKSHEAR",
+		"State" : "GA",
+		"Latitude" : "+31.326324"
+	},
+	{
+		"Longitude" : "-082.214987",
+		"Zipcode" : "31518",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "BRISTOL",
+		"State" : "GA",
+		"Latitude" : "+31.483312"
+	},
+	{
+		"Longitude" : "-082.864903",
+		"Zipcode" : "31519",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "BROXTON",
+		"State" : "GA",
+		"Latitude" : "+31.671903"
+	},
+	{
+		"Longitude" : "-081.492883",
+		"Zipcode" : "31520",
+		"ZipClass" : "STANDARD",
+		"County" : "GLYNN",
+		"City" : "BRUNSWICK",
+		"State" : "GA",
+		"Latitude" : "+31.230428"
+	},
+	{
+		"Longitude" : "-081.532489",
+		"Zipcode" : "31521",
+		"ZipClass" : "STANDARD",
+		"County" : "GLYNN",
+		"City" : "BRUNSWICK",
+		"State" : "GA",
+		"Latitude" : "+31.241505"
+	},
+	{
+		"Longitude" : "-081.449141",
+		"Zipcode" : "31522",
+		"ZipClass" : "STANDARD",
+		"County" : "GLYNN",
+		"City" : "SAINT SIMONS ISLAND",
+		"State" : "GA",
+		"Latitude" : "+31.213223"
+	},
+	{
+		"Longitude" : "-081.546047",
+		"Zipcode" : "31523",
+		"ZipClass" : "STANDARD",
+		"County" : "GLYNN",
+		"City" : "BRUNSWICK",
+		"State" : "GA",
+		"Latitude" : "+31.218921"
+	},
+	{
+		"Longitude" : "-081.482551",
+		"Zipcode" : "31524",
+		"ZipClass" : "UNIQUE",
+		"County" : "GLYNN",
+		"City" : "BRUNSWICK",
+		"State" : "GA",
+		"Latitude" : "+31.221995"
+	},
+	{
+		"Longitude" : "-081.530477",
+		"Zipcode" : "31525",
+		"ZipClass" : "STANDARD",
+		"County" : "GLYNN",
+		"City" : "BRUNSWICK",
+		"State" : "GA",
+		"Latitude" : "+31.280403"
+	},
+	{
+		"Longitude" : "-081.416665",
+		"Zipcode" : "31527",
+		"ZipClass" : "STANDARD",
+		"County" : "GLYNN",
+		"City" : "JEKYLL ISLAND",
+		"State" : "GA",
+		"Latitude" : "+31.059721"
+	},
+	{
+		"Longitude" : "-082.707079",
+		"Zipcode" : "31532",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFF DAVIS",
+		"City" : "DENTON",
+		"State" : "GA",
+		"Latitude" : "+31.795977"
+	},
+	{
+		"Longitude" : "-082.857131",
+		"Zipcode" : "31533",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "DOUGLAS",
+		"State" : "GA",
+		"Latitude" : "+31.509338"
+	},
+	{
+		"Longitude" : "-082.854631",
+		"Zipcode" : "31534",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "DOUGLAS",
+		"State" : "GA",
+		"Latitude" : "+31.571596"
+	},
+	{
+		"Longitude" : "-082.824636",
+		"Zipcode" : "31535",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "DOUGLAS",
+		"State" : "GA",
+		"Latitude" : "+31.504581"
+	},
+	{
+		"Longitude" : "-082.027252",
+		"Zipcode" : "31537",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLTON",
+		"City" : "FOLKSTON",
+		"State" : "GA",
+		"Latitude" : "+30.855314"
+	},
+	{
+		"Longitude" : "-082.626991",
+		"Zipcode" : "31539",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFF DAVIS",
+		"City" : "HAZLEHURST",
+		"State" : "GA",
+		"Latitude" : "+31.806871"
+	},
+	{
+		"Longitude" : "-082.123686",
+		"Zipcode" : "31542",
+		"ZipClass" : "STANDARD",
+		"County" : "BRANTLEY",
+		"City" : "HOBOKEN",
+		"State" : "GA",
+		"Latitude" : "+31.178954"
+	},
+	{
+		"Longitude" : "-081.810366",
+		"Zipcode" : "31543",
+		"ZipClass" : "STANDARD",
+		"County" : "BRANTLEY",
+		"City" : "HORTENSE",
+		"State" : "GA",
+		"Latitude" : "+31.268370"
+	},
+	{
+		"Longitude" : "-082.977178",
+		"Zipcode" : "31544",
+		"ZipClass" : "STANDARD",
+		"County" : "TELFAIR",
+		"City" : "JACKSONVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.832450"
+	},
+	{
+		"Longitude" : "-081.957787",
+		"Zipcode" : "31545",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "JESUP",
+		"State" : "GA",
+		"Latitude" : "+31.600775"
+	},
+	{
+		"Longitude" : "-081.804924",
+		"Zipcode" : "31546",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "JESUP",
+		"State" : "GA",
+		"Latitude" : "+31.531938"
+	},
+	{
+		"Longitude" : "-081.627717",
+		"Zipcode" : "31547",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "KINGS BAY",
+		"State" : "GA",
+		"Latitude" : "+30.804684"
+	},
+	{
+		"Longitude" : "-081.692042",
+		"Zipcode" : "31548",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "KINGSLAND",
+		"State" : "GA",
+		"Latitude" : "+30.784384"
+	},
+	{
+		"Longitude" : "-082.682963",
+		"Zipcode" : "31549",
+		"ZipClass" : "STANDARD",
+		"County" : "TELFAIR",
+		"City" : "LUMBER CITY",
+		"State" : "GA",
+		"Latitude" : "+31.931373"
+	},
+	{
+		"Longitude" : "-082.594815",
+		"Zipcode" : "31550",
+		"ZipClass" : "STANDARD",
+		"County" : "WARE",
+		"City" : "MANOR",
+		"State" : "GA",
+		"Latitude" : "+31.168101"
+	},
+	{
+		"Longitude" : "-082.230385",
+		"Zipcode" : "31551",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "MERSHON",
+		"State" : "GA",
+		"Latitude" : "+31.453629"
+	},
+	{
+		"Longitude" : "-082.600728",
+		"Zipcode" : "31552",
+		"ZipClass" : "STANDARD",
+		"County" : "WARE",
+		"City" : "MILLWOOD",
+		"State" : "GA",
+		"Latitude" : "+31.307256"
+	},
+	{
+		"Longitude" : "-081.954478",
+		"Zipcode" : "31553",
+		"ZipClass" : "STANDARD",
+		"County" : "BRANTLEY",
+		"City" : "NAHUNTA",
+		"State" : "GA",
+		"Latitude" : "+31.158299"
+	},
+	{
+		"Longitude" : "-082.703064",
+		"Zipcode" : "31554",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "NICHOLLS",
+		"State" : "GA",
+		"Latitude" : "+31.504909"
+	},
+	{
+		"Longitude" : "-082.037562",
+		"Zipcode" : "31555",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "ODUM",
+		"State" : "GA",
+		"Latitude" : "+31.685101"
+	},
+	{
+		"Longitude" : "-082.115541",
+		"Zipcode" : "31556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "OFFERMAN",
+		"State" : "GA",
+		"Latitude" : "+31.412649"
+	},
+	{
+		"Longitude" : "-082.115363",
+		"Zipcode" : "31557",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PATTERSON",
+		"State" : "GA",
+		"Latitude" : "+31.369686"
+	},
+	{
+		"Longitude" : "-081.630984",
+		"Zipcode" : "31558",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "SAINT MARYS",
+		"State" : "GA",
+		"Latitude" : "+30.844019"
+	},
+	{
+		"Longitude" : "-082.010258",
+		"Zipcode" : "31560",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "SCREVEN",
+		"State" : "GA",
+		"Latitude" : "+31.512923"
+	},
+	{
+		"Longitude" : "-081.332211",
+		"Zipcode" : "31561",
+		"ZipClass" : "STANDARD",
+		"County" : "GLYNN",
+		"City" : "SEA ISLAND",
+		"State" : "GA",
+		"Latitude" : "+31.198914"
+	},
+	{
+		"Longitude" : "-082.194912",
+		"Zipcode" : "31563",
+		"ZipClass" : "STANDARD",
+		"County" : "APPLING",
+		"City" : "SURRENCY",
+		"State" : "GA",
+		"Latitude" : "+31.731163"
+	},
+	{
+		"Longitude" : "-082.416543",
+		"Zipcode" : "31564",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARE",
+		"City" : "WARESBORO",
+		"State" : "GA",
+		"Latitude" : "+31.018954"
+	},
+	{
+		"Longitude" : "-081.633658",
+		"Zipcode" : "31565",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "WAVERLY",
+		"State" : "GA",
+		"Latitude" : "+31.069415"
+	},
+	{
+		"Longitude" : "-081.889563",
+		"Zipcode" : "31566",
+		"ZipClass" : "STANDARD",
+		"County" : "BRANTLEY",
+		"City" : "WAYNESVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.187918"
+	},
+	{
+		"Longitude" : "-082.724308",
+		"Zipcode" : "31567",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "WEST GREEN",
+		"State" : "GA",
+		"Latitude" : "+31.614312"
+	},
+	{
+		"Longitude" : "-081.778181",
+		"Zipcode" : "31568",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "WHITE OAK",
+		"State" : "GA",
+		"Latitude" : "+30.995235"
+	},
+	{
+		"Longitude" : "-081.703469",
+		"Zipcode" : "31569",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "WOODBINE",
+		"State" : "GA",
+		"Latitude" : "+30.939072"
+	},
+	{
+		"Longitude" : "-081.880222",
+		"Zipcode" : "31598",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "JESUP",
+		"State" : "GA",
+		"Latitude" : "+31.578181"
+	},
+	{
+		"Longitude" : "-081.880222",
+		"Zipcode" : "31599",
+		"ZipClass" : "UNIQUE",
+		"County" : "WAYNE",
+		"City" : "JESUP",
+		"State" : "GA",
+		"Latitude" : "+31.578181"
+	},
+	{
+		"Longitude" : "-083.332068",
+		"Zipcode" : "31601",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "VALDOSTA",
+		"State" : "GA",
+		"Latitude" : "+30.753904"
+	},
+	{
+		"Longitude" : "-083.327812",
+		"Zipcode" : "31602",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "VALDOSTA",
+		"State" : "GA",
+		"Latitude" : "+30.893109"
+	},
+	{
+		"Longitude" : "-083.252192",
+		"Zipcode" : "31603",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "VALDOSTA",
+		"State" : "GA",
+		"Latitude" : "+30.827965"
+	},
+	{
+		"Longitude" : "-083.252192",
+		"Zipcode" : "31604",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "VALDOSTA",
+		"State" : "GA",
+		"Latitude" : "+30.827965"
+	},
+	{
+		"Longitude" : "-083.247371",
+		"Zipcode" : "31605",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "VALDOSTA",
+		"State" : "GA",
+		"Latitude" : "+30.945994"
+	},
+	{
+		"Longitude" : "-083.245331",
+		"Zipcode" : "31606",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "VALDOSTA",
+		"State" : "GA",
+		"Latitude" : "+30.826306"
+	},
+	{
+		"Longitude" : "-083.407143",
+		"Zipcode" : "31620",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "ADEL",
+		"State" : "GA",
+		"Latitude" : "+31.151742"
+	},
+	{
+		"Longitude" : "-083.221348",
+		"Zipcode" : "31622",
+		"ZipClass" : "STANDARD",
+		"County" : "BERRIEN",
+		"City" : "ALAPAHA",
+		"State" : "GA",
+		"Latitude" : "+31.383968"
+	},
+	{
+		"Longitude" : "-082.689540",
+		"Zipcode" : "31623",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLINCH",
+		"City" : "ARGYLE",
+		"State" : "GA",
+		"Latitude" : "+31.064114"
+	},
+	{
+		"Longitude" : "-082.847997",
+		"Zipcode" : "31624",
+		"ZipClass" : "STANDARD",
+		"County" : "ATKINSON",
+		"City" : "AXSON",
+		"State" : "GA",
+		"Latitude" : "+31.303159"
+	},
+	{
+		"Longitude" : "-083.526479",
+		"Zipcode" : "31625",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKS",
+		"City" : "BARNEY",
+		"State" : "GA",
+		"Latitude" : "+30.856633"
+	},
+	{
+		"Longitude" : "-083.910971",
+		"Zipcode" : "31626",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "BOSTON",
+		"State" : "GA",
+		"Latitude" : "+30.828644"
+	},
+	{
+		"Longitude" : "-083.391519",
+		"Zipcode" : "31627",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COOK",
+		"City" : "CECIL",
+		"State" : "GA",
+		"Latitude" : "+31.040257"
+	},
+	{
+		"Longitude" : "-083.708223",
+		"Zipcode" : "31629",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKS",
+		"City" : "DIXIE",
+		"State" : "GA",
+		"Latitude" : "+30.761316"
+	},
+	{
+		"Longitude" : "-082.880688",
+		"Zipcode" : "31630",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINCH",
+		"City" : "DU PONT",
+		"State" : "GA",
+		"Latitude" : "+30.975874"
+	},
+	{
+		"Longitude" : "-082.772422",
+		"Zipcode" : "31631",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINCH",
+		"City" : "FARGO",
+		"State" : "GA",
+		"Latitude" : "+31.056820"
+	},
+	{
+		"Longitude" : "-083.333206",
+		"Zipcode" : "31632",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "HAHIRA",
+		"State" : "GA",
+		"Latitude" : "+30.942022"
+	},
+	{
+		"Longitude" : "-082.761330",
+		"Zipcode" : "31634",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINCH",
+		"City" : "HOMERVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.050929"
+	},
+	{
+		"Longitude" : "-083.098737",
+		"Zipcode" : "31635",
+		"ZipClass" : "STANDARD",
+		"County" : "LANIER",
+		"City" : "LAKELAND",
+		"State" : "GA",
+		"Latitude" : "+31.035327"
+	},
+	{
+		"Longitude" : "-083.184325",
+		"Zipcode" : "31636",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "LAKE PARK",
+		"State" : "GA",
+		"Latitude" : "+30.745322"
+	},
+	{
+		"Longitude" : "-083.468529",
+		"Zipcode" : "31637",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "LENOX",
+		"State" : "GA",
+		"Latitude" : "+31.271045"
+	},
+	{
+		"Longitude" : "-083.539952",
+		"Zipcode" : "31638",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKS",
+		"City" : "MORVEN",
+		"State" : "GA",
+		"Latitude" : "+30.924839"
+	},
+	{
+		"Longitude" : "-083.218233",
+		"Zipcode" : "31639",
+		"ZipClass" : "STANDARD",
+		"County" : "BERRIEN",
+		"City" : "NASHVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.199826"
+	},
+	{
+		"Longitude" : "-083.128478",
+		"Zipcode" : "31641",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "NAYLOR",
+		"State" : "GA",
+		"Latitude" : "+30.899018"
+	},
+	{
+		"Longitude" : "-082.853406",
+		"Zipcode" : "31642",
+		"ZipClass" : "STANDARD",
+		"County" : "ATKINSON",
+		"City" : "PEARSON",
+		"State" : "GA",
+		"Latitude" : "+31.340836"
+	},
+	{
+		"Longitude" : "-083.587777",
+		"Zipcode" : "31643",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKS",
+		"City" : "QUITMAN",
+		"State" : "GA",
+		"Latitude" : "+30.789440"
+	},
+	{
+		"Longitude" : "-083.228709",
+		"Zipcode" : "31645",
+		"ZipClass" : "STANDARD",
+		"County" : "BERRIEN",
+		"City" : "RAY CITY",
+		"State" : "GA",
+		"Latitude" : "+31.083619"
+	},
+	{
+		"Longitude" : "-082.165527",
+		"Zipcode" : "31646",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLTON",
+		"City" : "SAINT GEORGE",
+		"State" : "GA",
+		"Latitude" : "+30.434346"
+	},
+	{
+		"Longitude" : "-083.412143",
+		"Zipcode" : "31647",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "SPARKS",
+		"State" : "GA",
+		"Latitude" : "+31.212878"
+	},
+	{
+		"Longitude" : "-083.037116",
+		"Zipcode" : "31648",
+		"ZipClass" : "STANDARD",
+		"County" : "ECHOLS",
+		"City" : "STATENVILLE",
+		"State" : "GA",
+		"Latitude" : "+30.768894"
+	},
+	{
+		"Longitude" : "-083.013828",
+		"Zipcode" : "31649",
+		"ZipClass" : "STANDARD",
+		"County" : "LANIER",
+		"City" : "STOCKTON",
+		"State" : "GA",
+		"Latitude" : "+30.955111"
+	},
+	{
+		"Longitude" : "-082.968235",
+		"Zipcode" : "31650",
+		"ZipClass" : "STANDARD",
+		"County" : "ATKINSON",
+		"City" : "WILLACOOCHEE",
+		"State" : "GA",
+		"Latitude" : "+31.361682"
+	},
+	{
+		"Longitude" : "-083.287753",
+		"Zipcode" : "31698",
+		"ZipClass" : "UNIQUE",
+		"County" : "LOWNDES",
+		"City" : "VALDOSTA",
+		"State" : "GA",
+		"Latitude" : "+30.848480"
+	},
+	{
+		"Longitude" : "-083.207206",
+		"Zipcode" : "31699",
+		"ZipClass" : "UNIQUE",
+		"County" : "LOWNDES",
+		"City" : "VALDOSTA",
+		"State" : "GA",
+		"Latitude" : "+30.975119"
+	},
+	{
+		"Longitude" : "-084.176751",
+		"Zipcode" : "31701",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGHERTY",
+		"City" : "ALBANY",
+		"State" : "GA",
+		"Latitude" : "+31.560674"
+	},
+	{
+		"Longitude" : "-084.194812",
+		"Zipcode" : "31702",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGHERTY",
+		"City" : "ALBANY",
+		"State" : "GA",
+		"Latitude" : "+31.594782"
+	},
+	{
+		"Longitude" : "-084.219594",
+		"Zipcode" : "31703",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGHERTY",
+		"City" : "ALBANY",
+		"State" : "GA",
+		"Latitude" : "+31.543065"
+	},
+	{
+		"Longitude" : "-084.061155",
+		"Zipcode" : "31704",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGHERTY",
+		"City" : "ALBANY",
+		"State" : "GA",
+		"Latitude" : "+31.549975"
+	},
+	{
+		"Longitude" : "-084.078338",
+		"Zipcode" : "31705",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGHERTY",
+		"City" : "ALBANY",
+		"State" : "GA",
+		"Latitude" : "+31.546375"
+	},
+	{
+		"Longitude" : "-084.176507",
+		"Zipcode" : "31706",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGHERTY",
+		"City" : "ALBANY",
+		"State" : "GA",
+		"Latitude" : "+31.559274"
+	},
+	{
+		"Longitude" : "-084.293109",
+		"Zipcode" : "31707",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGHERTY",
+		"City" : "ALBANY",
+		"State" : "GA",
+		"Latitude" : "+31.529269"
+	},
+	{
+		"Longitude" : "-084.132357",
+		"Zipcode" : "31708",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGHERTY",
+		"City" : "ALBANY",
+		"State" : "GA",
+		"Latitude" : "+31.591073"
+	},
+	{
+		"Longitude" : "-084.215282",
+		"Zipcode" : "31709",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "AMERICUS",
+		"State" : "GA",
+		"Latitude" : "+32.040432"
+	},
+	{
+		"Longitude" : "-084.181547",
+		"Zipcode" : "31710",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUMTER",
+		"City" : "AMERICUS",
+		"State" : "GA",
+		"Latitude" : "+32.051235"
+	},
+	{
+		"Longitude" : "-084.163983",
+		"Zipcode" : "31711",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "ANDERSONVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.155949"
+	},
+	{
+		"Longitude" : "-083.727700",
+		"Zipcode" : "31712",
+		"ZipClass" : "STANDARD",
+		"County" : "CRISP",
+		"City" : "ARABI",
+		"State" : "GA",
+		"Latitude" : "+31.849613"
+	},
+	{
+		"Longitude" : "-084.699156",
+		"Zipcode" : "31713",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ARLINGTON",
+		"State" : "GA",
+		"Latitude" : "+31.477180"
+	},
+	{
+		"Longitude" : "-083.644063",
+		"Zipcode" : "31714",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "ASHBURN",
+		"State" : "GA",
+		"Latitude" : "+31.723074"
+	},
+	{
+		"Longitude" : "-084.511949",
+		"Zipcode" : "31715",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "ATTAPULGUS",
+		"State" : "GA",
+		"Latitude" : "+30.835331"
+	},
+	{
+		"Longitude" : "-084.100301",
+		"Zipcode" : "31716",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "BACONTON",
+		"State" : "GA",
+		"Latitude" : "+31.358861"
+	},
+	{
+		"Longitude" : "-084.617836",
+		"Zipcode" : "31717",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "BAINBRIDGE",
+		"State" : "GA",
+		"Latitude" : "+30.888734"
+	},
+	{
+		"Longitude" : "-084.570049",
+		"Zipcode" : "31718",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "BAINBRIDGE",
+		"State" : "GA",
+		"Latitude" : "+30.901863"
+	},
+	{
+		"Longitude" : "-083.526479",
+		"Zipcode" : "31720",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BROOKS",
+		"City" : "BARWICK",
+		"State" : "GA",
+		"Latitude" : "+30.856633"
+	},
+	{
+		"Longitude" : "-083.649138",
+		"Zipcode" : "31722",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLQUITT",
+		"City" : "BERLIN",
+		"State" : "GA",
+		"Latitude" : "+31.080682"
+	},
+	{
+		"Longitude" : "-084.901178",
+		"Zipcode" : "31723",
+		"ZipClass" : "STANDARD",
+		"County" : "EARLY",
+		"City" : "BLAKELY",
+		"State" : "GA",
+		"Latitude" : "+31.346088"
+	},
+	{
+		"Longitude" : "-084.854212",
+		"Zipcode" : "31724",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BLUFFTON",
+		"State" : "GA",
+		"Latitude" : "+31.557533"
+	},
+	{
+		"Longitude" : "-084.703795",
+		"Zipcode" : "31725",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "BRINSON",
+		"State" : "GA",
+		"Latitude" : "+30.907915"
+	},
+	{
+		"Longitude" : "-084.343163",
+		"Zipcode" : "31726",
+		"ZipClass" : "STANDARD",
+		"County" : "TERRELL",
+		"City" : "BRONWOOD",
+		"State" : "GA",
+		"Latitude" : "+31.824017"
+	},
+	{
+		"Longitude" : "-083.503715",
+		"Zipcode" : "31727",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TIFT",
+		"City" : "BROOKFIELD",
+		"State" : "GA",
+		"Latitude" : "+31.441720"
+	},
+	{
+		"Longitude" : "-084.229030",
+		"Zipcode" : "31728",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "CAIRO",
+		"State" : "GA",
+		"Latitude" : "+30.857503"
+	},
+	{
+		"Longitude" : "-084.351846",
+		"Zipcode" : "31729",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRADY",
+		"City" : "CALVARY",
+		"State" : "GA",
+		"Latitude" : "+30.714710"
+	},
+	{
+		"Longitude" : "-084.242837",
+		"Zipcode" : "31730",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "CAMILLA",
+		"State" : "GA",
+		"Latitude" : "+31.249152"
+	},
+	{
+		"Longitude" : "-084.871091",
+		"Zipcode" : "31732",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EARLY",
+		"City" : "CEDAR SPRINGS",
+		"State" : "GA",
+		"Latitude" : "+31.295630"
+	},
+	{
+		"Longitude" : "-083.509385",
+		"Zipcode" : "31733",
+		"ZipClass" : "STANDARD",
+		"County" : "TIFT",
+		"City" : "CHULA",
+		"State" : "GA",
+		"Latitude" : "+31.557454"
+	},
+	{
+		"Longitude" : "-084.468281",
+		"Zipcode" : "31734",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "CLIMAX",
+		"State" : "GA",
+		"Latitude" : "+30.887347"
+	},
+	{
+		"Longitude" : "-083.978975",
+		"Zipcode" : "31735",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "COBB",
+		"State" : "GA",
+		"Latitude" : "+31.968395"
+	},
+	{
+		"Longitude" : "-084.747201",
+		"Zipcode" : "31736",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "COLEMAN",
+		"State" : "GA",
+		"Latitude" : "+31.775195"
+	},
+	{
+		"Longitude" : "-084.713359",
+		"Zipcode" : "31737",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLER",
+		"City" : "COLQUITT",
+		"State" : "GA",
+		"Latitude" : "+31.162510"
+	},
+	{
+		"Longitude" : "-083.871284",
+		"Zipcode" : "31738",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "COOLIDGE",
+		"State" : "GA",
+		"Latitude" : "+30.976287"
+	},
+	{
+		"Longitude" : "-084.253089",
+		"Zipcode" : "31739",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MITCHELL",
+		"City" : "COTTON",
+		"State" : "GA",
+		"Latitude" : "+31.260443"
+	},
+	{
+		"Longitude" : "-084.832234",
+		"Zipcode" : "31740",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "CUTHBERT",
+		"State" : "GA",
+		"Latitude" : "+31.731183"
+	},
+	{
+		"Longitude" : "-084.717460",
+		"Zipcode" : "31741",
+		"ZipClass" : "STANDARD",
+		"County" : "EARLY",
+		"City" : "DAMASCUS",
+		"State" : "GA",
+		"Latitude" : "+31.298124"
+	},
+	{
+		"Longitude" : "-084.438586",
+		"Zipcode" : "31742",
+		"ZipClass" : "STANDARD",
+		"County" : "TERRELL",
+		"City" : "DAWSON",
+		"State" : "GA",
+		"Latitude" : "+31.766150"
+	},
+	{
+		"Longitude" : "-084.031040",
+		"Zipcode" : "31743",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "DE SOTO",
+		"State" : "GA",
+		"Latitude" : "+31.938088"
+	},
+	{
+		"Longitude" : "-083.889951",
+		"Zipcode" : "31744",
+		"ZipClass" : "STANDARD",
+		"County" : "COLQUITT",
+		"City" : "DOERUN",
+		"State" : "GA",
+		"Latitude" : "+31.272009"
+	},
+	{
+		"Longitude" : "-084.867238",
+		"Zipcode" : "31745",
+		"ZipClass" : "STANDARD",
+		"County" : "SEMINOLE",
+		"City" : "DONALSONVILLE",
+		"State" : "GA",
+		"Latitude" : "+30.918229"
+	},
+	{
+		"Longitude" : "-084.721045",
+		"Zipcode" : "31746",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "EDISON",
+		"State" : "GA",
+		"Latitude" : "+31.506869"
+	},
+	{
+		"Longitude" : "-083.588901",
+		"Zipcode" : "31747",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLQUITT",
+		"City" : "ELLENTON",
+		"State" : "GA",
+		"Latitude" : "+31.178850"
+	},
+	{
+		"Longitude" : "-083.355349",
+		"Zipcode" : "31749",
+		"ZipClass" : "STANDARD",
+		"County" : "BERRIEN",
+		"City" : "ENIGMA",
+		"State" : "GA",
+		"Latitude" : "+31.417797"
+	},
+	{
+		"Longitude" : "-083.235412",
+		"Zipcode" : "31750",
+		"ZipClass" : "STANDARD",
+		"County" : "BEN HILL",
+		"City" : "FITZGERALD",
+		"State" : "GA",
+		"Latitude" : "+31.748753"
+	},
+	{
+		"Longitude" : "-085.054942",
+		"Zipcode" : "31751",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "FORT GAINES",
+		"State" : "GA",
+		"Latitude" : "+31.636180"
+	},
+	{
+		"Longitude" : "-084.549907",
+		"Zipcode" : "31752",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DECATUR",
+		"City" : "FOWLSTOWN",
+		"State" : "GA",
+		"Latitude" : "+30.791856"
+	},
+	{
+		"Longitude" : "-083.877554",
+		"Zipcode" : "31753",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLQUITT",
+		"City" : "FUNSTON",
+		"State" : "GA",
+		"Latitude" : "+31.205365"
+	},
+	{
+		"Longitude" : "-085.104383",
+		"Zipcode" : "31754",
+		"ZipClass" : "STANDARD",
+		"County" : "QUITMAN",
+		"City" : "GEORGETOWN",
+		"State" : "GA",
+		"Latitude" : "+31.844937"
+	},
+	{
+		"Longitude" : "-083.945527",
+		"Zipcode" : "31756",
+		"ZipClass" : "STANDARD",
+		"County" : "COLQUITT",
+		"City" : "HARTSFIELD",
+		"State" : "GA",
+		"Latitude" : "+31.200827"
+	},
+	{
+		"Longitude" : "-083.888269",
+		"Zipcode" : "31757",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "THOMASVILLE",
+		"State" : "GA",
+		"Latitude" : "+30.853592"
+	},
+	{
+		"Longitude" : "-083.927785",
+		"Zipcode" : "31758",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "THOMASVILLE",
+		"State" : "GA",
+		"Latitude" : "+30.868187"
+	},
+	{
+		"Longitude" : "-084.834731",
+		"Zipcode" : "31759",
+		"ZipClass" : "STANDARD",
+		"County" : "SEMINOLE",
+		"City" : "IRON CITY",
+		"State" : "GA",
+		"Latitude" : "+30.985082"
+	},
+	{
+		"Longitude" : "-083.408633",
+		"Zipcode" : "31760",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IRWIN",
+		"City" : "IRWINVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.706283"
+	},
+	{
+		"Longitude" : "-084.986113",
+		"Zipcode" : "31761",
+		"ZipClass" : "STANDARD",
+		"County" : "EARLY",
+		"City" : "JAKIN",
+		"State" : "GA",
+		"Latitude" : "+31.089377"
+	},
+	{
+		"Longitude" : "-084.513659",
+		"Zipcode" : "31762",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "LEARY",
+		"State" : "GA",
+		"Latitude" : "+31.484266"
+	},
+	{
+		"Longitude" : "-084.160359",
+		"Zipcode" : "31763",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "LEESBURG",
+		"State" : "GA",
+		"Latitude" : "+31.763715"
+	},
+	{
+		"Longitude" : "-084.088354",
+		"Zipcode" : "31764",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "LESLIE",
+		"State" : "GA",
+		"Latitude" : "+32.000148"
+	},
+	{
+		"Longitude" : "-084.061389",
+		"Zipcode" : "31765",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "MEIGS",
+		"State" : "GA",
+		"Latitude" : "+31.021859"
+	},
+	{
+		"Longitude" : "-084.611559",
+		"Zipcode" : "31766",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "MORGAN",
+		"State" : "GA",
+		"Latitude" : "+31.537960"
+	},
+	{
+		"Longitude" : "-085.024468",
+		"Zipcode" : "31767",
+		"ZipClass" : "STANDARD",
+		"County" : "QUITMAN",
+		"City" : "MORRIS",
+		"State" : "GA",
+		"Latitude" : "+31.881410"
+	},
+	{
+		"Longitude" : "-083.789698",
+		"Zipcode" : "31768",
+		"ZipClass" : "STANDARD",
+		"County" : "COLQUITT",
+		"City" : "MOULTRIE",
+		"State" : "GA",
+		"Latitude" : "+31.183438"
+	},
+	{
+		"Longitude" : "-083.249754",
+		"Zipcode" : "31769",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IRWIN",
+		"City" : "MYSTIC",
+		"State" : "GA",
+		"Latitude" : "+31.620866"
+	},
+	{
+		"Longitude" : "-084.338325",
+		"Zipcode" : "31770",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "NEWTON",
+		"State" : "GA",
+		"Latitude" : "+31.371680"
+	},
+	{
+		"Longitude" : "-083.654904",
+		"Zipcode" : "31771",
+		"ZipClass" : "STANDARD",
+		"County" : "COLQUITT",
+		"City" : "NORMAN PARK",
+		"State" : "GA",
+		"Latitude" : "+31.246179"
+	},
+	{
+		"Longitude" : "-083.959728",
+		"Zipcode" : "31772",
+		"ZipClass" : "STANDARD",
+		"County" : "WORTH",
+		"City" : "OAKFIELD",
+		"State" : "GA",
+		"Latitude" : "+31.726629"
+	},
+	{
+		"Longitude" : "-084.027250",
+		"Zipcode" : "31773",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "OCHLOCKNEE",
+		"State" : "GA",
+		"Latitude" : "+30.968592"
+	},
+	{
+		"Longitude" : "-083.269632",
+		"Zipcode" : "31774",
+		"ZipClass" : "STANDARD",
+		"County" : "IRWIN",
+		"City" : "OCILLA",
+		"State" : "GA",
+		"Latitude" : "+31.571754"
+	},
+	{
+		"Longitude" : "-083.590290",
+		"Zipcode" : "31775",
+		"ZipClass" : "STANDARD",
+		"County" : "TIFT",
+		"City" : "OMEGA",
+		"State" : "GA",
+		"Latitude" : "+31.359156"
+	},
+	{
+		"Longitude" : "-083.792379",
+		"Zipcode" : "31776",
+		"ZipClass" : "STANDARD",
+		"County" : "COLQUITT",
+		"City" : "MOULTRIE",
+		"State" : "GA",
+		"Latitude" : "+31.172696"
+	},
+	{
+		"Longitude" : "-084.506058",
+		"Zipcode" : "31777",
+		"ZipClass" : "STANDARD",
+		"County" : "TERRELL",
+		"City" : "PARROTT",
+		"State" : "GA",
+		"Latitude" : "+31.911689"
+	},
+	{
+		"Longitude" : "-083.900766",
+		"Zipcode" : "31778",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "PAVO",
+		"State" : "GA",
+		"Latitude" : "+30.869228"
+	},
+	{
+		"Longitude" : "-084.223371",
+		"Zipcode" : "31779",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "PELHAM",
+		"State" : "GA",
+		"Latitude" : "+31.225572"
+	},
+	{
+		"Longitude" : "-084.372490",
+		"Zipcode" : "31780",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "PLAINS",
+		"State" : "GA",
+		"Latitude" : "+32.027663"
+	},
+	{
+		"Longitude" : "-083.784347",
+		"Zipcode" : "31781",
+		"ZipClass" : "STANDARD",
+		"County" : "WORTH",
+		"City" : "POULAN",
+		"State" : "GA",
+		"Latitude" : "+31.538397"
+	},
+	{
+		"Longitude" : "-084.219594",
+		"Zipcode" : "31782",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGHERTY",
+		"City" : "PUTNEY",
+		"State" : "GA",
+		"Latitude" : "+31.543065"
+	},
+	{
+		"Longitude" : "-083.526041",
+		"Zipcode" : "31783",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "REBECCA",
+		"State" : "GA",
+		"Latitude" : "+31.780373"
+	},
+	{
+		"Longitude" : "-084.047656",
+		"Zipcode" : "31784",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "SALE CITY",
+		"State" : "GA",
+		"Latitude" : "+31.274330"
+	},
+	{
+		"Longitude" : "-084.327480",
+		"Zipcode" : "31785",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TERRELL",
+		"City" : "SASSER",
+		"State" : "GA",
+		"Latitude" : "+31.689973"
+	},
+	{
+		"Longitude" : "-084.614914",
+		"Zipcode" : "31786",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "SHELLMAN",
+		"State" : "GA",
+		"Latitude" : "+31.760361"
+	},
+	{
+		"Longitude" : "-084.222541",
+		"Zipcode" : "31787",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "SMITHVILLE",
+		"State" : "GA",
+		"Latitude" : "+31.772073"
+	},
+	{
+		"Longitude" : "-083.727288",
+		"Zipcode" : "31789",
+		"ZipClass" : "STANDARD",
+		"County" : "WORTH",
+		"City" : "SUMNER",
+		"State" : "GA",
+		"Latitude" : "+31.481811"
+	},
+	{
+		"Longitude" : "-083.578336",
+		"Zipcode" : "31790",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "SYCAMORE",
+		"State" : "GA",
+		"Latitude" : "+31.652867"
+	},
+	{
+		"Longitude" : "-083.850054",
+		"Zipcode" : "31791",
+		"ZipClass" : "STANDARD",
+		"County" : "WORTH",
+		"City" : "SYLVESTER",
+		"State" : "GA",
+		"Latitude" : "+31.603336"
+	},
+	{
+		"Longitude" : "-083.950795",
+		"Zipcode" : "31792",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "THOMASVILLE",
+		"State" : "GA",
+		"Latitude" : "+30.825551"
+	},
+	{
+		"Longitude" : "-083.503621",
+		"Zipcode" : "31793",
+		"ZipClass" : "STANDARD",
+		"County" : "TIFT",
+		"City" : "TIFTON",
+		"State" : "GA",
+		"Latitude" : "+31.485438"
+	},
+	{
+		"Longitude" : "-083.499944",
+		"Zipcode" : "31794",
+		"ZipClass" : "STANDARD",
+		"County" : "TIFT",
+		"City" : "TIFTON",
+		"State" : "GA",
+		"Latitude" : "+31.463918"
+	},
+	{
+		"Longitude" : "-083.592123",
+		"Zipcode" : "31795",
+		"ZipClass" : "STANDARD",
+		"County" : "TIFT",
+		"City" : "TY TY",
+		"State" : "GA",
+		"Latitude" : "+31.475155"
+	},
+	{
+		"Longitude" : "-083.876179",
+		"Zipcode" : "31796",
+		"ZipClass" : "STANDARD",
+		"County" : "WORTH",
+		"City" : "WARWICK",
+		"State" : "GA",
+		"Latitude" : "+31.762219"
+	},
+	{
+		"Longitude" : "-084.311493",
+		"Zipcode" : "31797",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "WHIGHAM",
+		"State" : "GA",
+		"Latitude" : "+30.901959"
+	},
+	{
+		"Longitude" : "-083.087813",
+		"Zipcode" : "31798",
+		"ZipClass" : "STANDARD",
+		"County" : "IRWIN",
+		"City" : "WRAY",
+		"State" : "GA",
+		"Latitude" : "+31.571849"
+	},
+	{
+		"Longitude" : "-083.885902",
+		"Zipcode" : "31799",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "THOMASVILLE",
+		"State" : "GA",
+		"Latitude" : "+30.880968"
+	},
+	{
+		"Longitude" : "-084.494946",
+		"Zipcode" : "31801",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "BOX SPRINGS",
+		"State" : "GA",
+		"Latitude" : "+32.701117"
+	},
+	{
+		"Longitude" : "-084.489818",
+		"Zipcode" : "31803",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "BUENA VISTA",
+		"State" : "GA",
+		"Latitude" : "+32.254152"
+	},
+	{
+		"Longitude" : "-084.855447",
+		"Zipcode" : "31804",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRIS",
+		"City" : "CATAULA",
+		"State" : "GA",
+		"Latitude" : "+32.661625"
+	},
+	{
+		"Longitude" : "-084.736706",
+		"Zipcode" : "31805",
+		"ZipClass" : "STANDARD",
+		"County" : "CHATTAHOOCHEE",
+		"City" : "CUSSETA",
+		"State" : "GA",
+		"Latitude" : "+32.292547"
+	},
+	{
+		"Longitude" : "-084.277064",
+		"Zipcode" : "31806",
+		"ZipClass" : "STANDARD",
+		"County" : "SCHLEY",
+		"City" : "ELLAVILLE",
+		"State" : "GA",
+		"Latitude" : "+32.209028"
+	},
+	{
+		"Longitude" : "-084.789524",
+		"Zipcode" : "31807",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRIS",
+		"City" : "ELLERSLIE",
+		"State" : "GA",
+		"Latitude" : "+32.631243"
+	},
+	{
+		"Longitude" : "-084.991501",
+		"Zipcode" : "31808",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "FORTSON",
+		"State" : "GA",
+		"Latitude" : "+32.563874"
+	},
+	{
+		"Longitude" : "-084.494946",
+		"Zipcode" : "31810",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TALBOT",
+		"City" : "GENEVA",
+		"State" : "GA",
+		"Latitude" : "+32.701117"
+	},
+	{
+		"Longitude" : "-084.934906",
+		"Zipcode" : "31811",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRIS",
+		"City" : "HAMILTON",
+		"State" : "GA",
+		"Latitude" : "+32.746007"
+	},
+	{
+		"Longitude" : "-084.494946",
+		"Zipcode" : "31812",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "JUNCTION CITY",
+		"State" : "GA",
+		"Latitude" : "+32.701117"
+	},
+	{
+		"Longitude" : "-084.849724",
+		"Zipcode" : "31814",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEWART",
+		"City" : "LOUVALE",
+		"State" : "GA",
+		"Latitude" : "+32.076630"
+	},
+	{
+		"Longitude" : "-084.728093",
+		"Zipcode" : "31815",
+		"ZipClass" : "STANDARD",
+		"County" : "STEWART",
+		"City" : "LUMPKIN",
+		"State" : "GA",
+		"Latitude" : "+32.069538"
+	},
+	{
+		"Longitude" : "-084.615478",
+		"Zipcode" : "31816",
+		"ZipClass" : "STANDARD",
+		"County" : "MERIWETHER",
+		"City" : "MANCHESTER",
+		"State" : "GA",
+		"Latitude" : "+32.911070"
+	},
+	{
+		"Longitude" : "-084.850953",
+		"Zipcode" : "31820",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "MIDLAND",
+		"State" : "GA",
+		"Latitude" : "+32.565782"
+	},
+	{
+		"Longitude" : "-084.849724",
+		"Zipcode" : "31821",
+		"ZipClass" : "STANDARD",
+		"County" : "STEWART",
+		"City" : "OMAHA",
+		"State" : "GA",
+		"Latitude" : "+32.076630"
+	},
+	{
+		"Longitude" : "-084.904638",
+		"Zipcode" : "31822",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRIS",
+		"City" : "PINE MOUNTAIN",
+		"State" : "GA",
+		"Latitude" : "+32.834241"
+	},
+	{
+		"Longitude" : "-084.820364",
+		"Zipcode" : "31823",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRIS",
+		"City" : "PINE MOUNTAIN VALLEY",
+		"State" : "GA",
+		"Latitude" : "+32.822628"
+	},
+	{
+		"Longitude" : "-084.543517",
+		"Zipcode" : "31824",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "PRESTON",
+		"State" : "GA",
+		"Latitude" : "+32.076133"
+	},
+	{
+		"Longitude" : "-084.718627",
+		"Zipcode" : "31825",
+		"ZipClass" : "STANDARD",
+		"County" : "STEWART",
+		"City" : "RICHLAND",
+		"State" : "GA",
+		"Latitude" : "+32.074331"
+	},
+	{
+		"Longitude" : "-084.733595",
+		"Zipcode" : "31826",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRIS",
+		"City" : "SHILOH",
+		"State" : "GA",
+		"Latitude" : "+32.791278"
+	},
+	{
+		"Longitude" : "-084.537989",
+		"Zipcode" : "31827",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "TALBOTTON",
+		"State" : "GA",
+		"Latitude" : "+32.673738"
+	},
+	{
+		"Longitude" : "-084.733865",
+		"Zipcode" : "31829",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "UPATOI",
+		"State" : "GA",
+		"Latitude" : "+32.564771"
+	},
+	{
+		"Longitude" : "-084.716723",
+		"Zipcode" : "31830",
+		"ZipClass" : "STANDARD",
+		"County" : "MERIWETHER",
+		"City" : "WARM SPRINGS",
+		"State" : "GA",
+		"Latitude" : "+32.906319"
+	},
+	{
+		"Longitude" : "-084.785460",
+		"Zipcode" : "31831",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRIS",
+		"City" : "WAVERLY HALL",
+		"State" : "GA",
+		"Latitude" : "+32.738687"
+	},
+	{
+		"Longitude" : "-084.543517",
+		"Zipcode" : "31832",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "WESTON",
+		"State" : "GA",
+		"Latitude" : "+32.076133"
+	},
+	{
+		"Longitude" : "-085.077535",
+		"Zipcode" : "31833",
+		"ZipClass" : "STANDARD",
+		"County" : "TROUP",
+		"City" : "WEST POINT",
+		"State" : "GA",
+		"Latitude" : "+32.907328"
+	},
+	{
+		"Longitude" : "-084.565420",
+		"Zipcode" : "31836",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "WOODLAND",
+		"State" : "GA",
+		"Latitude" : "+32.790007"
+	},
+	{
+		"Longitude" : "-084.978230",
+		"Zipcode" : "31901",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.472864"
+	},
+	{
+		"Longitude" : "-084.955843",
+		"Zipcode" : "31902",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.524252"
+	},
+	{
+		"Longitude" : "-084.934344",
+		"Zipcode" : "31903",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.418510"
+	},
+	{
+		"Longitude" : "-084.996980",
+		"Zipcode" : "31904",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.534374"
+	},
+	{
+		"Longitude" : "-084.931457",
+		"Zipcode" : "31905",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "FORT BENNING",
+		"State" : "GA",
+		"Latitude" : "+32.392337"
+	},
+	{
+		"Longitude" : "-084.953280",
+		"Zipcode" : "31906",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.493455"
+	},
+	{
+		"Longitude" : "-084.914976",
+		"Zipcode" : "31907",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.483084"
+	},
+	{
+		"Longitude" : "-084.906483",
+		"Zipcode" : "31908",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.534852"
+	},
+	{
+		"Longitude" : "-084.920187",
+		"Zipcode" : "31909",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.542198"
+	},
+	{
+		"Longitude" : "-084.874123",
+		"Zipcode" : "31914",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.491005"
+	},
+	{
+		"Longitude" : "-084.874123",
+		"Zipcode" : "31917",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.491005"
+	},
+	{
+		"Longitude" : "-084.977131",
+		"Zipcode" : "31993",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.482142"
+	},
+	{
+		"Longitude" : "-084.874123",
+		"Zipcode" : "31994",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.491005"
+	},
+	{
+		"Longitude" : "-084.963981",
+		"Zipcode" : "31995",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSCOGEE",
+		"City" : "FORT BENNING",
+		"State" : "GA",
+		"Latitude" : "+32.495841"
+	},
+	{
+		"Longitude" : "-084.874123",
+		"Zipcode" : "31997",
+		"ZipClass" : "UNIQUE",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.491005"
+	},
+	{
+		"Longitude" : "-084.874123",
+		"Zipcode" : "31998",
+		"ZipClass" : "UNIQUE",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.491005"
+	},
+	{
+		"Longitude" : "-084.874123",
+		"Zipcode" : "31999",
+		"ZipClass" : "UNIQUE",
+		"County" : "MUSCOGEE",
+		"City" : "COLUMBUS",
+		"State" : "GA",
+		"Latitude" : "+32.491005"
+	},
+	{
+		"Longitude" : "-084.074560",
+		"Zipcode" : "39901",
+		"ZipClass" : "UNIQUE",
+		"County" : "DEKALB",
+		"City" : "ATLANTA",
+		"State" : "GA",
+		"Latitude" : "+33.891251"
+	}
+]}

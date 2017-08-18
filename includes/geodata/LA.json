@@ -1,0 +1,6582 @@
+{
+	"result":[
+	{
+		"Longitude" : "-090.161821",
+		"Zipcode" : "70001",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.984643"
+	},
+	{
+		"Longitude" : "-090.176491",
+		"Zipcode" : "70002",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+30.008003"
+	},
+	{
+		"Longitude" : "-090.207330",
+		"Zipcode" : "70003",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+30.005653"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70004",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.134428",
+		"Zipcode" : "70005",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.998821"
+	},
+	{
+		"Longitude" : "-090.195842",
+		"Zipcode" : "70006",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+30.013413"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70009",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70010",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70011",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.430699",
+		"Zipcode" : "70030",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "DES ALLEMANDS",
+		"State" : "LA",
+		"Latitude" : "+29.841219"
+	},
+	{
+		"Longitude" : "-090.295997",
+		"Zipcode" : "70031",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "AMA",
+		"State" : "LA",
+		"Latitude" : "+29.947005"
+	},
+	{
+		"Longitude" : "-089.987547",
+		"Zipcode" : "70032",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT BERNARD",
+		"City" : "ARABI",
+		"State" : "LA",
+		"Latitude" : "+29.956803"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70033",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.112182",
+		"Zipcode" : "70036",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BARATARIA",
+		"State" : "LA",
+		"Latitude" : "+29.696362"
+	},
+	{
+		"Longitude" : "-089.771638",
+		"Zipcode" : "70037",
+		"ZipClass" : "STANDARD",
+		"County" : "PLAQUEMINES",
+		"City" : "BELLE CHASSE",
+		"State" : "LA",
+		"Latitude" : "+29.620092"
+	},
+	{
+		"Longitude" : "-089.401545",
+		"Zipcode" : "70038",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLAQUEMINES",
+		"City" : "BOOTHVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.303827"
+	},
+	{
+		"Longitude" : "-090.374038",
+		"Zipcode" : "70039",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "BOUTTE",
+		"State" : "LA",
+		"Latitude" : "+29.904159"
+	},
+	{
+		"Longitude" : "-089.919691",
+		"Zipcode" : "70040",
+		"ZipClass" : "STANDARD",
+		"County" : "PLAQUEMINES",
+		"City" : "BRAITHWAITE",
+		"State" : "LA",
+		"Latitude" : "+29.736105"
+	},
+	{
+		"Longitude" : "-089.571937",
+		"Zipcode" : "70041",
+		"ZipClass" : "STANDARD",
+		"County" : "PLAQUEMINES",
+		"City" : "BURAS",
+		"State" : "LA",
+		"Latitude" : "+29.427314"
+	},
+	{
+		"Longitude" : "-089.477464",
+		"Zipcode" : "70042",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLAQUEMINES",
+		"City" : "CARLISLE",
+		"State" : "LA",
+		"Latitude" : "+29.380066"
+	},
+	{
+		"Longitude" : "-089.954906",
+		"Zipcode" : "70043",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT BERNARD",
+		"City" : "CHALMETTE",
+		"State" : "LA",
+		"Latitude" : "+29.947746"
+	},
+	{
+		"Longitude" : "-089.951441",
+		"Zipcode" : "70044",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT BERNARD",
+		"City" : "CHALMETTE",
+		"State" : "LA",
+		"Latitude" : "+29.967650"
+	},
+	{
+		"Longitude" : "-089.872599",
+		"Zipcode" : "70046",
+		"ZipClass" : "STANDARD",
+		"County" : "PLAQUEMINES",
+		"City" : "DAVANT",
+		"State" : "LA",
+		"Latitude" : "+29.618290"
+	},
+	{
+		"Longitude" : "-090.368185",
+		"Zipcode" : "70047",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "DESTREHAN",
+		"State" : "LA",
+		"Latitude" : "+29.964207"
+	},
+	{
+		"Longitude" : "-090.575432",
+		"Zipcode" : "70049",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOHN THE BAPTIST",
+		"City" : "EDGARD",
+		"State" : "LA",
+		"Latitude" : "+30.033264"
+	},
+	{
+		"Longitude" : "-089.595630",
+		"Zipcode" : "70050",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLAQUEMINES",
+		"City" : "EMPIRE",
+		"State" : "LA",
+		"Latitude" : "+29.404065"
+	},
+	{
+		"Longitude" : "-090.619382",
+		"Zipcode" : "70051",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOHN THE BAPTIST",
+		"City" : "GARYVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.998705"
+	},
+	{
+		"Longitude" : "-090.711904",
+		"Zipcode" : "70052",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JAMES",
+		"City" : "GRAMERCY",
+		"State" : "LA",
+		"Latitude" : "+30.048935"
+	},
+	{
+		"Longitude" : "-090.055722",
+		"Zipcode" : "70053",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GRETNA",
+		"State" : "LA",
+		"Latitude" : "+29.911385"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70054",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GRETNA",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70055",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.033138",
+		"Zipcode" : "70056",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GRETNA",
+		"State" : "LA",
+		"Latitude" : "+29.887204"
+	},
+	{
+		"Longitude" : "-090.408167",
+		"Zipcode" : "70057",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "HAHNVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.966812"
+	},
+	{
+		"Longitude" : "-090.069558",
+		"Zipcode" : "70058",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HARVEY",
+		"State" : "LA",
+		"Latitude" : "+29.875555"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70059",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HARVEY",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70060",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "METAIRIE",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.204460",
+		"Zipcode" : "70062",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "KENNER",
+		"State" : "LA",
+		"Latitude" : "+29.994398"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70063",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "KENNER",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70064",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "KENNER",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.250547",
+		"Zipcode" : "70065",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "KENNER",
+		"State" : "LA",
+		"Latitude" : "+30.027041"
+	},
+	{
+		"Longitude" : "-090.450720",
+		"Zipcode" : "70066",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "KILLONA",
+		"State" : "LA",
+		"Latitude" : "+30.003409"
+	},
+	{
+		"Longitude" : "-090.113675",
+		"Zipcode" : "70067",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LAFITTE",
+		"State" : "LA",
+		"Latitude" : "+29.825895"
+	},
+	{
+		"Longitude" : "-090.527515",
+		"Zipcode" : "70068",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOHN THE BAPTIST",
+		"City" : "LA PLACE",
+		"State" : "LA",
+		"Latitude" : "+30.065367"
+	},
+	{
+		"Longitude" : "-090.483189",
+		"Zipcode" : "70069",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOHN THE BAPTIST",
+		"City" : "LA PLACE",
+		"State" : "LA",
+		"Latitude" : "+30.091158"
+	},
+	{
+		"Longitude" : "-090.348009",
+		"Zipcode" : "70070",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "LULING",
+		"State" : "LA",
+		"Latitude" : "+29.944447"
+	},
+	{
+		"Longitude" : "-090.730390",
+		"Zipcode" : "70071",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JAMES",
+		"City" : "LUTCHER",
+		"State" : "LA",
+		"Latitude" : "+30.037570"
+	},
+	{
+		"Longitude" : "-090.078264",
+		"Zipcode" : "70072",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MARRERO",
+		"State" : "LA",
+		"Latitude" : "+29.819729"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70073",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MARRERO",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-089.923522",
+		"Zipcode" : "70075",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT BERNARD",
+		"City" : "MERAUX",
+		"State" : "LA",
+		"Latitude" : "+29.932133"
+	},
+	{
+		"Longitude" : "-090.636855",
+		"Zipcode" : "70076",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOHN THE BAPTIST",
+		"City" : "MOUNT AIRY",
+		"State" : "LA",
+		"Latitude" : "+30.057525"
+	},
+	{
+		"Longitude" : "-090.385950",
+		"Zipcode" : "70078",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT CHARLES",
+		"City" : "NEW SARPY",
+		"State" : "LA",
+		"Latitude" : "+29.981674"
+	},
+	{
+		"Longitude" : "-090.404699",
+		"Zipcode" : "70079",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "NORCO",
+		"State" : "LA",
+		"Latitude" : "+29.973479"
+	},
+	{
+		"Longitude" : "-090.378697",
+		"Zipcode" : "70080",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "PARADIS",
+		"State" : "LA",
+		"Latitude" : "+29.891541"
+	},
+	{
+		"Longitude" : "-089.364034",
+		"Zipcode" : "70081",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLAQUEMINES",
+		"City" : "PILOTTOWN",
+		"State" : "LA",
+		"Latitude" : "+29.285081"
+	},
+	{
+		"Longitude" : "-089.831317",
+		"Zipcode" : "70082",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLAQUEMINES",
+		"City" : "POINTE A LA HACHE",
+		"State" : "LA",
+		"Latitude" : "+29.587389"
+	},
+	{
+		"Longitude" : "-089.690230",
+		"Zipcode" : "70083",
+		"ZipClass" : "STANDARD",
+		"County" : "PLAQUEMINES",
+		"City" : "PORT SULPHUR",
+		"State" : "LA",
+		"Latitude" : "+29.502725"
+	},
+	{
+		"Longitude" : "-090.605871",
+		"Zipcode" : "70084",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOHN THE BAPTIST",
+		"City" : "RESERVE",
+		"State" : "LA",
+		"Latitude" : "+30.058190"
+	},
+	{
+		"Longitude" : "-089.775097",
+		"Zipcode" : "70085",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT BERNARD",
+		"City" : "SAINT BERNARD",
+		"State" : "LA",
+		"Latitude" : "+29.818387"
+	},
+	{
+		"Longitude" : "-090.867755",
+		"Zipcode" : "70086",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JAMES",
+		"City" : "SAINT JAMES",
+		"State" : "LA",
+		"Latitude" : "+30.033127"
+	},
+	{
+		"Longitude" : "-090.354891",
+		"Zipcode" : "70087",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CHARLES",
+		"City" : "SAINT ROSE",
+		"State" : "LA",
+		"Latitude" : "+29.945998"
+	},
+	{
+		"Longitude" : "-090.761722",
+		"Zipcode" : "70090",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JAMES",
+		"City" : "VACHERIE",
+		"State" : "LA",
+		"Latitude" : "+29.989546"
+	},
+	{
+		"Longitude" : "-089.373855",
+		"Zipcode" : "70091",
+		"ZipClass" : "STANDARD",
+		"County" : "PLAQUEMINES",
+		"City" : "VENICE",
+		"State" : "LA",
+		"Latitude" : "+29.279536"
+	},
+	{
+		"Longitude" : "-089.894926",
+		"Zipcode" : "70092",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT BERNARD",
+		"City" : "VIOLET",
+		"State" : "LA",
+		"Latitude" : "+29.900262"
+	},
+	{
+		"Longitude" : "-090.204326",
+		"Zipcode" : "70094",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WESTWEGO",
+		"State" : "LA",
+		"Latitude" : "+29.920768"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70096",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WESTWEGO",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-090.077000",
+		"Zipcode" : "70112",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.958304"
+	},
+	{
+		"Longitude" : "-090.083172",
+		"Zipcode" : "70113",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.943769"
+	},
+	{
+		"Longitude" : "-090.013164",
+		"Zipcode" : "70114",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.929605"
+	},
+	{
+		"Longitude" : "-090.100773",
+		"Zipcode" : "70115",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.938343"
+	},
+	{
+		"Longitude" : "-090.067122",
+		"Zipcode" : "70116",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.968504"
+	},
+	{
+		"Longitude" : "-090.028450",
+		"Zipcode" : "70117",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.968553"
+	},
+	{
+		"Longitude" : "-090.122498",
+		"Zipcode" : "70118",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.948283"
+	},
+	{
+		"Longitude" : "-090.085420",
+		"Zipcode" : "70119",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.973053"
+	},
+	{
+		"Longitude" : "-090.157715",
+		"Zipcode" : "70121",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.961448"
+	},
+	{
+		"Longitude" : "-090.062147",
+		"Zipcode" : "70122",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.009063"
+	},
+	{
+		"Longitude" : "-090.206031",
+		"Zipcode" : "70123",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.951082"
+	},
+	{
+		"Longitude" : "-090.103673",
+		"Zipcode" : "70124",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.002253"
+	},
+	{
+		"Longitude" : "-090.102965",
+		"Zipcode" : "70125",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.952659"
+	},
+	{
+		"Longitude" : "-090.044561",
+		"Zipcode" : "70126",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.998653"
+	},
+	{
+		"Longitude" : "-089.975819",
+		"Zipcode" : "70127",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.031251"
+	},
+	{
+		"Longitude" : "-089.958519",
+		"Zipcode" : "70128",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.048653"
+	},
+	{
+		"Longitude" : "-089.846226",
+		"Zipcode" : "70129",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.087708"
+	},
+	{
+		"Longitude" : "-090.074122",
+		"Zipcode" : "70130",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.939504"
+	},
+	{
+		"Longitude" : "-089.962403",
+		"Zipcode" : "70131",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.915873"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70139",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-090.078312",
+		"Zipcode" : "70140",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.956120"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70141",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70142",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70143",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70145",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70146",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-090.068022",
+		"Zipcode" : "70148",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.030902"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70149",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70150",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70151",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70152",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70153",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70154",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70156",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70157",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-090.070922",
+		"Zipcode" : "70158",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.922905"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70159",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70160",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70161",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70162",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-090.075121",
+		"Zipcode" : "70163",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.950659"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70164",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70165",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70166",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70167",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70170",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70172",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70174",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70175",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70176",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70177",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70178",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70179",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70181",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-089.815993",
+		"Zipcode" : "70182",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.067646"
+	},
+	{
+		"Longitude" : "-090.090100",
+		"Zipcode" : "70183",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+29.677893"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70184",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70185",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70186",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70187",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70189",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70190",
+		"ZipClass" : "STANDARD",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-089.882564",
+		"Zipcode" : "70195",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORLEANS",
+		"City" : "NEW ORLEANS",
+		"State" : "LA",
+		"Latitude" : "+30.032997"
+	},
+	{
+		"Longitude" : "-090.599039",
+		"Zipcode" : "70301",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "THIBODAUX",
+		"State" : "LA",
+		"Latitude" : "+29.640426"
+	},
+	{
+		"Longitude" : "-090.502848",
+		"Zipcode" : "70302",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "THIBODAUX",
+		"State" : "LA",
+		"Latitude" : "+29.458689"
+	},
+	{
+		"Longitude" : "-090.816914",
+		"Zipcode" : "70310",
+		"ZipClass" : "UNIQUE",
+		"County" : "LAFOURCHE",
+		"City" : "THIBODAUX",
+		"State" : "LA",
+		"Latitude" : "+29.803282"
+	},
+	{
+		"Longitude" : "-091.188549",
+		"Zipcode" : "70339",
+		"ZipClass" : "STANDARD",
+		"County" : "ASSUMPTION",
+		"City" : "PIERRE PART",
+		"State" : "LA",
+		"Latitude" : "+29.947562"
+	},
+	{
+		"Longitude" : "-091.220844",
+		"Zipcode" : "70340",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARY",
+		"City" : "AMELIA",
+		"State" : "LA",
+		"Latitude" : "+29.688425"
+	},
+	{
+		"Longitude" : "-091.077279",
+		"Zipcode" : "70341",
+		"ZipClass" : "STANDARD",
+		"County" : "ASSUMPTION",
+		"City" : "BELLE ROSE",
+		"State" : "LA",
+		"Latitude" : "+30.033070"
+	},
+	{
+		"Longitude" : "-091.251811",
+		"Zipcode" : "70342",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARY",
+		"City" : "BERWICK",
+		"State" : "LA",
+		"Latitude" : "+29.692879"
+	},
+	{
+		"Longitude" : "-090.607587",
+		"Zipcode" : "70343",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "BOURG",
+		"State" : "LA",
+		"Latitude" : "+29.543768"
+	},
+	{
+		"Longitude" : "-090.609142",
+		"Zipcode" : "70344",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "CHAUVIN",
+		"State" : "LA",
+		"Latitude" : "+29.393661"
+	},
+	{
+		"Longitude" : "-090.335128",
+		"Zipcode" : "70345",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "CUT OFF",
+		"State" : "LA",
+		"Latitude" : "+29.509589"
+	},
+	{
+		"Longitude" : "-090.967424",
+		"Zipcode" : "70346",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "DONALDSONVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.159584"
+	},
+	{
+		"Longitude" : "-090.944418",
+		"Zipcode" : "70352",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "DONNER",
+		"State" : "LA",
+		"Latitude" : "+29.696385"
+	},
+	{
+		"Longitude" : "-090.712335",
+		"Zipcode" : "70353",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "DULAC",
+		"State" : "LA",
+		"Latitude" : "+29.369707"
+	},
+	{
+		"Longitude" : "-090.304724",
+		"Zipcode" : "70354",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "GALLIANO",
+		"State" : "LA",
+		"Latitude" : "+29.437009"
+	},
+	{
+		"Longitude" : "-090.480310",
+		"Zipcode" : "70355",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "GHEENS",
+		"State" : "LA",
+		"Latitude" : "+29.647980"
+	},
+	{
+		"Longitude" : "-090.912489",
+		"Zipcode" : "70356",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "GIBSON",
+		"State" : "LA",
+		"Latitude" : "+29.654609"
+	},
+	{
+		"Longitude" : "-090.195917",
+		"Zipcode" : "70357",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "GOLDEN MEADOW",
+		"State" : "LA",
+		"Latitude" : "+29.269324"
+	},
+	{
+		"Longitude" : "-090.018901",
+		"Zipcode" : "70358",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GRAND ISLE",
+		"State" : "LA",
+		"Latitude" : "+29.227559"
+	},
+	{
+		"Longitude" : "-090.770768",
+		"Zipcode" : "70359",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "GRAY",
+		"State" : "LA",
+		"Latitude" : "+29.693600"
+	},
+	{
+		"Longitude" : "-090.852551",
+		"Zipcode" : "70360",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "HOUMA",
+		"State" : "LA",
+		"Latitude" : "+29.642100"
+	},
+	{
+		"Longitude" : "-090.865568",
+		"Zipcode" : "70361",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "HOUMA",
+		"State" : "LA",
+		"Latitude" : "+29.382117"
+	},
+	{
+		"Longitude" : "-090.752351",
+		"Zipcode" : "70363",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "HOUMA",
+		"State" : "LA",
+		"Latitude" : "+29.561855"
+	},
+	{
+		"Longitude" : "-090.732776",
+		"Zipcode" : "70364",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "HOUMA",
+		"State" : "LA",
+		"Latitude" : "+29.597188"
+	},
+	{
+		"Longitude" : "-090.596159",
+		"Zipcode" : "70371",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAFOURCHE",
+		"City" : "KRAEMER",
+		"State" : "LA",
+		"Latitude" : "+29.865202"
+	},
+	{
+		"Longitude" : "-090.985769",
+		"Zipcode" : "70372",
+		"ZipClass" : "STANDARD",
+		"County" : "ASSUMPTION",
+		"City" : "LABADIEVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.917298"
+	},
+	{
+		"Longitude" : "-090.347406",
+		"Zipcode" : "70373",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAFOURCHE",
+		"City" : "LAROSE",
+		"State" : "LA",
+		"Latitude" : "+29.520061"
+	},
+	{
+		"Longitude" : "-090.409864",
+		"Zipcode" : "70374",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "LOCKPORT",
+		"State" : "LA",
+		"Latitude" : "+29.533839"
+	},
+	{
+		"Longitude" : "-090.549555",
+		"Zipcode" : "70375",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "MATHEWS",
+		"State" : "LA",
+		"Latitude" : "+29.693833"
+	},
+	{
+		"Longitude" : "-090.869481",
+		"Zipcode" : "70376",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ASCENSION",
+		"City" : "MODESTE",
+		"State" : "LA",
+		"Latitude" : "+30.204707"
+	},
+	{
+		"Longitude" : "-090.524964",
+		"Zipcode" : "70377",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "MONTEGUT",
+		"State" : "LA",
+		"Latitude" : "+29.456248"
+	},
+	{
+		"Longitude" : "-091.265374",
+		"Zipcode" : "70380",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARY",
+		"City" : "MORGAN CITY",
+		"State" : "LA",
+		"Latitude" : "+29.697653"
+	},
+	{
+		"Longitude" : "-091.259347",
+		"Zipcode" : "70381",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARY",
+		"City" : "MORGAN CITY",
+		"State" : "LA",
+		"Latitude" : "+29.694629"
+	},
+	{
+		"Longitude" : "-091.064291",
+		"Zipcode" : "70390",
+		"ZipClass" : "STANDARD",
+		"County" : "ASSUMPTION",
+		"City" : "NAPOLEONVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.908353"
+	},
+	{
+		"Longitude" : "-091.063485",
+		"Zipcode" : "70391",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ASSUMPTION",
+		"City" : "PAINCOURTVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.994968"
+	},
+	{
+		"Longitude" : "-091.383904",
+		"Zipcode" : "70392",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARY",
+		"City" : "PATTERSON",
+		"State" : "LA",
+		"Latitude" : "+29.751746"
+	},
+	{
+		"Longitude" : "-091.023196",
+		"Zipcode" : "70393",
+		"ZipClass" : "STANDARD",
+		"County" : "ASSUMPTION",
+		"City" : "PLATTENVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.997400"
+	},
+	{
+		"Longitude" : "-090.627822",
+		"Zipcode" : "70394",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFOURCHE",
+		"City" : "RACELAND",
+		"State" : "LA",
+		"Latitude" : "+29.683764"
+	},
+	{
+		"Longitude" : "-090.863923",
+		"Zipcode" : "70395",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "SCHRIEVER",
+		"State" : "LA",
+		"Latitude" : "+29.691176"
+	},
+	{
+		"Longitude" : "-090.786270",
+		"Zipcode" : "70397",
+		"ZipClass" : "STANDARD",
+		"County" : "TERREBONNE",
+		"City" : "THERIOT",
+		"State" : "LA",
+		"Latitude" : "+29.396246"
+	},
+	{
+		"Longitude" : "-090.464466",
+		"Zipcode" : "70401",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "HAMMOND",
+		"State" : "LA",
+		"Latitude" : "+30.549037"
+	},
+	{
+		"Longitude" : "-090.480403",
+		"Zipcode" : "70402",
+		"ZipClass" : "UNIQUE",
+		"County" : "TANGIPAHOA",
+		"City" : "HAMMOND",
+		"State" : "LA",
+		"Latitude" : "+30.513982"
+	},
+	{
+		"Longitude" : "-090.465499",
+		"Zipcode" : "70403",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "HAMMOND",
+		"State" : "LA",
+		"Latitude" : "+30.529506"
+	},
+	{
+		"Longitude" : "-090.422504",
+		"Zipcode" : "70404",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "HAMMOND",
+		"State" : "LA",
+		"Latitude" : "+30.505061"
+	},
+	{
+		"Longitude" : "-089.955328",
+		"Zipcode" : "70420",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "ABITA SPRINGS",
+		"State" : "LA",
+		"Latitude" : "+30.477483"
+	},
+	{
+		"Longitude" : "-090.405312",
+		"Zipcode" : "70421",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "AKERS",
+		"State" : "LA",
+		"Latitude" : "+30.612371"
+	},
+	{
+		"Longitude" : "-090.410580",
+		"Zipcode" : "70422",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "AMITE",
+		"State" : "LA",
+		"Latitude" : "+30.744830"
+	},
+	{
+		"Longitude" : "-089.882844",
+		"Zipcode" : "70426",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ANGIE",
+		"State" : "LA",
+		"Latitude" : "+30.915579"
+	},
+	{
+		"Longitude" : "-090.044253",
+		"Zipcode" : "70427",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BOGALUSA",
+		"State" : "LA",
+		"Latitude" : "+30.791723"
+	},
+	{
+		"Longitude" : "-090.037115",
+		"Zipcode" : "70429",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BOGALUSA",
+		"State" : "LA",
+		"Latitude" : "+30.835030"
+	},
+	{
+		"Longitude" : "-090.030882",
+		"Zipcode" : "70431",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "BUSH",
+		"State" : "LA",
+		"Latitude" : "+30.549629"
+	},
+	{
+		"Longitude" : "-090.011991",
+		"Zipcode" : "70433",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "COVINGTON",
+		"State" : "LA",
+		"Latitude" : "+30.435893"
+	},
+	{
+		"Longitude" : "-090.125666",
+		"Zipcode" : "70434",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "COVINGTON",
+		"State" : "LA",
+		"Latitude" : "+30.492753"
+	},
+	{
+		"Longitude" : "-090.109823",
+		"Zipcode" : "70435",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "COVINGTON",
+		"State" : "LA",
+		"Latitude" : "+30.566088"
+	},
+	{
+		"Longitude" : "-090.532641",
+		"Zipcode" : "70436",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "FLUKER",
+		"State" : "LA",
+		"Latitude" : "+30.819086"
+	},
+	{
+		"Longitude" : "-090.144908",
+		"Zipcode" : "70437",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "FOLSOM",
+		"State" : "LA",
+		"Latitude" : "+30.593426"
+	},
+	{
+		"Longitude" : "-090.120807",
+		"Zipcode" : "70438",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FRANKLINTON",
+		"State" : "LA",
+		"Latitude" : "+30.840587"
+	},
+	{
+		"Longitude" : "-090.651536",
+		"Zipcode" : "70441",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT HELENA",
+		"City" : "GREENSBURG",
+		"State" : "LA",
+		"Latitude" : "+30.657123"
+	},
+	{
+		"Longitude" : "-090.438581",
+		"Zipcode" : "70442",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "HUSSER",
+		"State" : "LA",
+		"Latitude" : "+30.655912"
+	},
+	{
+		"Longitude" : "-090.491168",
+		"Zipcode" : "70443",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "INDEPENDENCE",
+		"State" : "LA",
+		"Latitude" : "+30.651594"
+	},
+	{
+		"Longitude" : "-090.428043",
+		"Zipcode" : "70444",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "KENTWOOD",
+		"State" : "LA",
+		"Latitude" : "+30.814466"
+	},
+	{
+		"Longitude" : "-089.900397",
+		"Zipcode" : "70445",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "LACOMBE",
+		"State" : "LA",
+		"Latitude" : "+30.386606"
+	},
+	{
+		"Longitude" : "-090.361759",
+		"Zipcode" : "70446",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "LORANGER",
+		"State" : "LA",
+		"Latitude" : "+30.635647"
+	},
+	{
+		"Longitude" : "-090.001553",
+		"Zipcode" : "70447",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "MADISONVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.389107"
+	},
+	{
+		"Longitude" : "-089.977719",
+		"Zipcode" : "70448",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "MANDEVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.377060"
+	},
+	{
+		"Longitude" : "-090.685853",
+		"Zipcode" : "70449",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "MAUREPAS",
+		"State" : "LA",
+		"Latitude" : "+30.342352"
+	},
+	{
+		"Longitude" : "-090.043651",
+		"Zipcode" : "70450",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MOUNT HERMON",
+		"State" : "LA",
+		"Latitude" : "+30.918210"
+	},
+	{
+		"Longitude" : "-090.475981",
+		"Zipcode" : "70451",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TANGIPAHOA",
+		"City" : "NATALBANY",
+		"State" : "LA",
+		"Latitude" : "+30.531157"
+	},
+	{
+		"Longitude" : "-089.921823",
+		"Zipcode" : "70452",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "PEARL RIVER",
+		"State" : "LA",
+		"Latitude" : "+30.423603"
+	},
+	{
+		"Longitude" : "-090.802770",
+		"Zipcode" : "70453",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT HELENA",
+		"City" : "PINE GROVE",
+		"State" : "LA",
+		"Latitude" : "+30.676164"
+	},
+	{
+		"Longitude" : "-090.393867",
+		"Zipcode" : "70454",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "PONCHATOULA",
+		"State" : "LA",
+		"Latitude" : "+30.467958"
+	},
+	{
+		"Longitude" : "-090.300373",
+		"Zipcode" : "70455",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "ROBERT",
+		"State" : "LA",
+		"Latitude" : "+30.533384"
+	},
+	{
+		"Longitude" : "-090.501975",
+		"Zipcode" : "70456",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "ROSELAND",
+		"State" : "LA",
+		"Latitude" : "+30.654562"
+	},
+	{
+		"Longitude" : "-089.881256",
+		"Zipcode" : "70457",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT TAMMANY",
+		"City" : "SAINT BENEDICT",
+		"State" : "LA",
+		"Latitude" : "+30.425510"
+	},
+	{
+		"Longitude" : "-089.976592",
+		"Zipcode" : "70458",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "SLIDELL",
+		"State" : "LA",
+		"Latitude" : "+30.446993"
+	},
+	{
+		"Longitude" : "-089.881256",
+		"Zipcode" : "70459",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "SLIDELL",
+		"State" : "LA",
+		"Latitude" : "+30.425510"
+	},
+	{
+		"Longitude" : "-089.909750",
+		"Zipcode" : "70460",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "SLIDELL",
+		"State" : "LA",
+		"Latitude" : "+30.379561"
+	},
+	{
+		"Longitude" : "-089.712618",
+		"Zipcode" : "70461",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "SLIDELL",
+		"State" : "LA",
+		"Latitude" : "+30.249740"
+	},
+	{
+		"Longitude" : "-090.588723",
+		"Zipcode" : "70462",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "SPRINGFIELD",
+		"State" : "LA",
+		"Latitude" : "+30.387413"
+	},
+	{
+		"Longitude" : "-089.895502",
+		"Zipcode" : "70463",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT TAMMANY",
+		"City" : "SUN",
+		"State" : "LA",
+		"Latitude" : "+30.653805"
+	},
+	{
+		"Longitude" : "-089.885927",
+		"Zipcode" : "70464",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT TAMMANY",
+		"City" : "TALISHEEK",
+		"State" : "LA",
+		"Latitude" : "+30.534697"
+	},
+	{
+		"Longitude" : "-090.512950",
+		"Zipcode" : "70465",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TANGIPAHOA",
+		"City" : "TANGIPAHOA",
+		"State" : "LA",
+		"Latitude" : "+30.863873"
+	},
+	{
+		"Longitude" : "-090.439399",
+		"Zipcode" : "70466",
+		"ZipClass" : "STANDARD",
+		"County" : "TANGIPAHOA",
+		"City" : "TICKFAW",
+		"State" : "LA",
+		"Latitude" : "+30.572825"
+	},
+	{
+		"Longitude" : "-089.820725",
+		"Zipcode" : "70467",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ANGIE",
+		"State" : "LA",
+		"Latitude" : "+30.901690"
+	},
+	{
+		"Longitude" : "-089.881256",
+		"Zipcode" : "70469",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "SLIDELL",
+		"State" : "LA",
+		"Latitude" : "+30.425510"
+	},
+	{
+		"Longitude" : "-089.881256",
+		"Zipcode" : "70470",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "MANDEVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.425510"
+	},
+	{
+		"Longitude" : "-089.975815",
+		"Zipcode" : "70471",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT TAMMANY",
+		"City" : "MANDEVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.343159"
+	},
+	{
+		"Longitude" : "-092.066574",
+		"Zipcode" : "70501",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.232955"
+	},
+	{
+		"Longitude" : "-092.026969",
+		"Zipcode" : "70502",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.319799"
+	},
+	{
+		"Longitude" : "-092.059521",
+		"Zipcode" : "70503",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.202892"
+	},
+	{
+		"Longitude" : "-092.018660",
+		"Zipcode" : "70504",
+		"ZipClass" : "UNIQUE",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.213850"
+	},
+	{
+		"Longitude" : "-092.018770",
+		"Zipcode" : "70505",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.202251"
+	},
+	{
+		"Longitude" : "-092.066315",
+		"Zipcode" : "70506",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.176093"
+	},
+	{
+		"Longitude" : "-092.038679",
+		"Zipcode" : "70507",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.252800"
+	},
+	{
+		"Longitude" : "-092.026859",
+		"Zipcode" : "70508",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.181866"
+	},
+	{
+		"Longitude" : "-092.000019",
+		"Zipcode" : "70509",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.156506"
+	},
+	{
+		"Longitude" : "-092.241595",
+		"Zipcode" : "70510",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILION",
+		"City" : "ABBEVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.946603"
+	},
+	{
+		"Longitude" : "-092.176655",
+		"Zipcode" : "70511",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILION",
+		"City" : "ABBEVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.032434"
+	},
+	{
+		"Longitude" : "-091.967292",
+		"Zipcode" : "70512",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "ARNAUDVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.474902"
+	},
+	{
+		"Longitude" : "-091.878675",
+		"Zipcode" : "70513",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IBERIA",
+		"City" : "AVERY ISLAND",
+		"State" : "LA",
+		"Latitude" : "+30.045066"
+	},
+	{
+		"Longitude" : "-091.545263",
+		"Zipcode" : "70514",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARY",
+		"City" : "BALDWIN",
+		"State" : "LA",
+		"Latitude" : "+29.846077"
+	},
+	{
+		"Longitude" : "-092.519207",
+		"Zipcode" : "70515",
+		"ZipClass" : "STANDARD",
+		"County" : "EVANGELINE",
+		"City" : "BASILE",
+		"State" : "LA",
+		"Latitude" : "+30.678370"
+	},
+	{
+		"Longitude" : "-092.345888",
+		"Zipcode" : "70516",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "BRANCH",
+		"State" : "LA",
+		"Latitude" : "+30.344615"
+	},
+	{
+		"Longitude" : "-091.828827",
+		"Zipcode" : "70517",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARTIN",
+		"City" : "BREAUX BRIDGE",
+		"State" : "LA",
+		"Latitude" : "+30.240316"
+	},
+	{
+		"Longitude" : "-091.963869",
+		"Zipcode" : "70518",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "BROUSSARD",
+		"State" : "LA",
+		"Latitude" : "+30.160600"
+	},
+	{
+		"Longitude" : "-091.911387",
+		"Zipcode" : "70519",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARTIN",
+		"City" : "CADE",
+		"State" : "LA",
+		"Latitude" : "+30.079692"
+	},
+	{
+		"Longitude" : "-092.047919",
+		"Zipcode" : "70520",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "CARENCRO",
+		"State" : "LA",
+		"Latitude" : "+30.238176"
+	},
+	{
+		"Longitude" : "-091.854758",
+		"Zipcode" : "70521",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARTIN",
+		"City" : "CECILIA",
+		"State" : "LA",
+		"Latitude" : "+30.344923"
+	},
+	{
+		"Longitude" : "-091.439679",
+		"Zipcode" : "70522",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARY",
+		"City" : "CENTERVILLE",
+		"State" : "LA",
+		"Latitude" : "+29.752260"
+	},
+	{
+		"Longitude" : "-091.539372",
+		"Zipcode" : "70523",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARY",
+		"City" : "CHARENTON",
+		"State" : "LA",
+		"Latitude" : "+29.867131"
+	},
+	{
+		"Longitude" : "-092.287372",
+		"Zipcode" : "70524",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EVANGELINE",
+		"City" : "CHATAIGNIER",
+		"State" : "LA",
+		"Latitude" : "+30.575361"
+	},
+	{
+		"Longitude" : "-092.318696",
+		"Zipcode" : "70525",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "CHURCH POINT",
+		"State" : "LA",
+		"Latitude" : "+30.382556"
+	},
+	{
+		"Longitude" : "-092.438484",
+		"Zipcode" : "70526",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "CROWLEY",
+		"State" : "LA",
+		"Latitude" : "+30.228294"
+	},
+	{
+		"Longitude" : "-092.301795",
+		"Zipcode" : "70527",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "CROWLEY",
+		"State" : "LA",
+		"Latitude" : "+30.228409"
+	},
+	{
+		"Longitude" : "-091.987226",
+		"Zipcode" : "70528",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILION",
+		"City" : "DELCAMBRE",
+		"State" : "LA",
+		"Latitude" : "+29.984693"
+	},
+	{
+		"Longitude" : "-092.168953",
+		"Zipcode" : "70529",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "DUSON",
+		"State" : "LA",
+		"Latitude" : "+30.187978"
+	},
+	{
+		"Longitude" : "-092.486465",
+		"Zipcode" : "70531",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "EGAN",
+		"State" : "LA",
+		"Latitude" : "+30.256951"
+	},
+	{
+		"Longitude" : "-092.713680",
+		"Zipcode" : "70532",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "ELTON",
+		"State" : "LA",
+		"Latitude" : "+30.426249"
+	},
+	{
+		"Longitude" : "-092.045277",
+		"Zipcode" : "70533",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILION",
+		"City" : "ERATH",
+		"State" : "LA",
+		"Latitude" : "+29.947394"
+	},
+	{
+		"Longitude" : "-092.447152",
+		"Zipcode" : "70534",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ACADIA",
+		"City" : "ESTHERWOOD",
+		"State" : "LA",
+		"Latitude" : "+30.184157"
+	},
+	{
+		"Longitude" : "-092.210855",
+		"Zipcode" : "70535",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "EUNICE",
+		"State" : "LA",
+		"Latitude" : "+30.507236"
+	},
+	{
+		"Longitude" : "-092.471305",
+		"Zipcode" : "70537",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "EVANGELINE",
+		"State" : "LA",
+		"Latitude" : "+30.203238"
+	},
+	{
+		"Longitude" : "-091.540902",
+		"Zipcode" : "70538",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARY",
+		"City" : "FRANKLIN",
+		"State" : "LA",
+		"Latitude" : "+29.720652"
+	},
+	{
+		"Longitude" : "-091.466962",
+		"Zipcode" : "70540",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARY",
+		"City" : "GARDEN CITY",
+		"State" : "LA",
+		"Latitude" : "+29.763270"
+	},
+	{
+		"Longitude" : "-092.031178",
+		"Zipcode" : "70541",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LANDRY",
+		"City" : "GRAND COTEAU",
+		"State" : "LA",
+		"Latitude" : "+30.417402"
+	},
+	{
+		"Longitude" : "-092.560894",
+		"Zipcode" : "70542",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILION",
+		"City" : "GUEYDAN",
+		"State" : "LA",
+		"Latitude" : "+30.010373"
+	},
+	{
+		"Longitude" : "-092.469182",
+		"Zipcode" : "70543",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "IOTA",
+		"State" : "LA",
+		"Latitude" : "+30.299682"
+	},
+	{
+		"Longitude" : "-091.724248",
+		"Zipcode" : "70544",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERIA",
+		"City" : "JEANERETTE",
+		"State" : "LA",
+		"Latitude" : "+29.936497"
+	},
+	{
+		"Longitude" : "-092.694110",
+		"Zipcode" : "70546",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "JENNINGS",
+		"State" : "LA",
+		"Latitude" : "+30.259096"
+	},
+	{
+		"Longitude" : "-092.315721",
+		"Zipcode" : "70548",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILION",
+		"City" : "KAPLAN",
+		"State" : "LA",
+		"Latitude" : "+29.875194"
+	},
+	{
+		"Longitude" : "-092.781945",
+		"Zipcode" : "70549",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "LAKE ARTHUR",
+		"State" : "LA",
+		"Latitude" : "+30.260341"
+	},
+	{
+		"Longitude" : "-092.160849",
+		"Zipcode" : "70550",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LANDRY",
+		"City" : "LAWTELL",
+		"State" : "LA",
+		"Latitude" : "+30.543842"
+	},
+	{
+		"Longitude" : "-091.973736",
+		"Zipcode" : "70551",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LANDRY",
+		"City" : "LEONVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.475194"
+	},
+	{
+		"Longitude" : "-091.683294",
+		"Zipcode" : "70552",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERIA",
+		"City" : "LOREAUVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.052016"
+	},
+	{
+		"Longitude" : "-092.425103",
+		"Zipcode" : "70554",
+		"ZipClass" : "STANDARD",
+		"County" : "EVANGELINE",
+		"City" : "MAMOU",
+		"State" : "LA",
+		"Latitude" : "+30.714716"
+	},
+	{
+		"Longitude" : "-092.147849",
+		"Zipcode" : "70555",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILION",
+		"City" : "MAURICE",
+		"State" : "LA",
+		"Latitude" : "+30.074655"
+	},
+	{
+		"Longitude" : "-092.572176",
+		"Zipcode" : "70556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ACADIA",
+		"City" : "MERMENTAU",
+		"State" : "LA",
+		"Latitude" : "+30.186145"
+	},
+	{
+		"Longitude" : "-092.064797",
+		"Zipcode" : "70558",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAFAYETTE",
+		"City" : "MILTON",
+		"State" : "LA",
+		"Latitude" : "+30.098819"
+	},
+	{
+		"Longitude" : "-092.476684",
+		"Zipcode" : "70559",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "MORSE",
+		"State" : "LA",
+		"Latitude" : "+30.129756"
+	},
+	{
+		"Longitude" : "-091.832747",
+		"Zipcode" : "70560",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERIA",
+		"City" : "NEW IBERIA",
+		"State" : "LA",
+		"Latitude" : "+29.949527"
+	},
+	{
+		"Longitude" : "-091.633100",
+		"Zipcode" : "70562",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERIA",
+		"City" : "NEW IBERIA",
+		"State" : "LA",
+		"Latitude" : "+29.739932"
+	},
+	{
+		"Longitude" : "-091.749604",
+		"Zipcode" : "70563",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERIA",
+		"City" : "NEW IBERIA",
+		"State" : "LA",
+		"Latitude" : "+30.024515"
+	},
+	{
+		"Longitude" : "-091.812552",
+		"Zipcode" : "70569",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IBERIA",
+		"City" : "LYDIA",
+		"State" : "LA",
+		"Latitude" : "+29.909643"
+	},
+	{
+		"Longitude" : "-092.009830",
+		"Zipcode" : "70570",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "OPELOUSAS",
+		"State" : "LA",
+		"Latitude" : "+30.529765"
+	},
+	{
+		"Longitude" : "-092.086077",
+		"Zipcode" : "70571",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "OPELOUSAS",
+		"State" : "LA",
+		"Latitude" : "+30.574450"
+	},
+	{
+		"Longitude" : "-092.158982",
+		"Zipcode" : "70575",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERMILION",
+		"City" : "PERRY",
+		"State" : "LA",
+		"Latitude" : "+29.866543"
+	},
+	{
+		"Longitude" : "-092.411722",
+		"Zipcode" : "70576",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EVANGELINE",
+		"City" : "PINE PRAIRIE",
+		"State" : "LA",
+		"Latitude" : "+30.756671"
+	},
+	{
+		"Longitude" : "-091.918924",
+		"Zipcode" : "70577",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "PORT BARRE",
+		"State" : "LA",
+		"Latitude" : "+30.544276"
+	},
+	{
+		"Longitude" : "-092.261328",
+		"Zipcode" : "70578",
+		"ZipClass" : "STANDARD",
+		"County" : "ACADIA",
+		"City" : "RAYNE",
+		"State" : "LA",
+		"Latitude" : "+30.256405"
+	},
+	{
+		"Longitude" : "-092.421915",
+		"Zipcode" : "70580",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EVANGELINE",
+		"City" : "REDDELL",
+		"State" : "LA",
+		"Latitude" : "+30.700768"
+	},
+	{
+		"Longitude" : "-092.742134",
+		"Zipcode" : "70581",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "ROANOKE",
+		"State" : "LA",
+		"Latitude" : "+30.246362"
+	},
+	{
+		"Longitude" : "-091.779374",
+		"Zipcode" : "70582",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARTIN",
+		"City" : "SAINT MARTINVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.223672"
+	},
+	{
+		"Longitude" : "-092.100669",
+		"Zipcode" : "70583",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "SCOTT",
+		"State" : "LA",
+		"Latitude" : "+30.273000"
+	},
+	{
+		"Longitude" : "-092.065702",
+		"Zipcode" : "70584",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "SUNSET",
+		"State" : "LA",
+		"Latitude" : "+30.471399"
+	},
+	{
+		"Longitude" : "-092.430522",
+		"Zipcode" : "70585",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EVANGELINE",
+		"City" : "TURKEY CREEK",
+		"State" : "LA",
+		"Latitude" : "+30.901424"
+	},
+	{
+		"Longitude" : "-092.386968",
+		"Zipcode" : "70586",
+		"ZipClass" : "STANDARD",
+		"County" : "EVANGELINE",
+		"City" : "VILLE PLATTE",
+		"State" : "LA",
+		"Latitude" : "+30.724974"
+	},
+	{
+		"Longitude" : "-092.048517",
+		"Zipcode" : "70589",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "WASHINGTON",
+		"State" : "LA",
+		"Latitude" : "+30.694115"
+	},
+	{
+		"Longitude" : "-092.833656",
+		"Zipcode" : "70591",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "WELSH",
+		"State" : "LA",
+		"Latitude" : "+30.294276"
+	},
+	{
+		"Longitude" : "-092.022573",
+		"Zipcode" : "70592",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "YOUNGSVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.140330"
+	},
+	{
+		"Longitude" : "-092.095109",
+		"Zipcode" : "70593",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.208120"
+	},
+	{
+		"Longitude" : "-092.095109",
+		"Zipcode" : "70596",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.208120"
+	},
+	{
+		"Longitude" : "-092.095109",
+		"Zipcode" : "70598",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LAFAYETTE",
+		"State" : "LA",
+		"Latitude" : "+30.208120"
+	},
+	{
+		"Longitude" : "-093.214903",
+		"Zipcode" : "70601",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.233355"
+	},
+	{
+		"Longitude" : "-093.326527",
+		"Zipcode" : "70602",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.264232"
+	},
+	{
+		"Longitude" : "-093.245056",
+		"Zipcode" : "70605",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.130378"
+	},
+	{
+		"Longitude" : "-093.326527",
+		"Zipcode" : "70606",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.264232"
+	},
+	{
+		"Longitude" : "-093.183478",
+		"Zipcode" : "70607",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.124378"
+	},
+	{
+		"Longitude" : "-093.326527",
+		"Zipcode" : "70609",
+		"ZipClass" : "UNIQUE",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.264232"
+	},
+	{
+		"Longitude" : "-093.204847",
+		"Zipcode" : "70611",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.335834"
+	},
+	{
+		"Longitude" : "-093.326527",
+		"Zipcode" : "70612",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.264232"
+	},
+	{
+		"Longitude" : "-093.114623",
+		"Zipcode" : "70615",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.258498"
+	},
+	{
+		"Longitude" : "-093.326527",
+		"Zipcode" : "70616",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.264232"
+	},
+	{
+		"Longitude" : "-093.326527",
+		"Zipcode" : "70629",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "LAKE CHARLES",
+		"State" : "LA",
+		"Latitude" : "+30.264232"
+	},
+	{
+		"Longitude" : "-093.037173",
+		"Zipcode" : "70630",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "BELL CITY",
+		"State" : "LA",
+		"Latitude" : "+30.105386"
+	},
+	{
+		"Longitude" : "-093.437979",
+		"Zipcode" : "70631",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMERON",
+		"City" : "CAMERON",
+		"State" : "LA",
+		"Latitude" : "+29.791099"
+	},
+	{
+		"Longitude" : "-093.051554",
+		"Zipcode" : "70632",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMERON",
+		"City" : "CREOLE",
+		"State" : "LA",
+		"Latitude" : "+29.807493"
+	},
+	{
+		"Longitude" : "-093.268731",
+		"Zipcode" : "70633",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "DEQUINCY",
+		"State" : "LA",
+		"Latitude" : "+30.358944"
+	},
+	{
+		"Longitude" : "-093.299574",
+		"Zipcode" : "70634",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUREGARD",
+		"City" : "DERIDDER",
+		"State" : "LA",
+		"Latitude" : "+30.651656"
+	},
+	{
+		"Longitude" : "-093.020236",
+		"Zipcode" : "70637",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUREGARD",
+		"City" : "DRY CREEK",
+		"State" : "LA",
+		"Latitude" : "+30.743467"
+	},
+	{
+		"Longitude" : "-092.758262",
+		"Zipcode" : "70638",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEN",
+		"City" : "ELIZABETH",
+		"State" : "LA",
+		"Latitude" : "+30.818176"
+	},
+	{
+		"Longitude" : "-093.520348",
+		"Zipcode" : "70639",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "EVANS",
+		"State" : "LA",
+		"Latitude" : "+30.968420"
+	},
+	{
+		"Longitude" : "-092.946269",
+		"Zipcode" : "70640",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "FENTON",
+		"State" : "LA",
+		"Latitude" : "+30.355020"
+	},
+	{
+		"Longitude" : "-093.200936",
+		"Zipcode" : "70642",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERNON",
+		"City" : "FULLERTON",
+		"State" : "LA",
+		"Latitude" : "+31.111979"
+	},
+	{
+		"Longitude" : "-092.926076",
+		"Zipcode" : "70643",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMERON",
+		"City" : "GRAND CHENIER",
+		"State" : "LA",
+		"Latitude" : "+29.764417"
+	},
+	{
+		"Longitude" : "-092.933723",
+		"Zipcode" : "70644",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEN",
+		"City" : "GRANT",
+		"State" : "LA",
+		"Latitude" : "+30.770681"
+	},
+	{
+		"Longitude" : "-093.368241",
+		"Zipcode" : "70645",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMERON",
+		"City" : "HACKBERRY",
+		"State" : "LA",
+		"Latitude" : "+29.897443"
+	},
+	{
+		"Longitude" : "-092.945098",
+		"Zipcode" : "70646",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALCASIEU",
+		"City" : "HAYES",
+		"State" : "LA",
+		"Latitude" : "+30.111380"
+	},
+	{
+		"Longitude" : "-093.033305",
+		"Zipcode" : "70647",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "IOWA",
+		"State" : "LA",
+		"Latitude" : "+30.239624"
+	},
+	{
+		"Longitude" : "-092.928777",
+		"Zipcode" : "70648",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "KINDER",
+		"State" : "LA",
+		"Latitude" : "+30.578402"
+	},
+	{
+		"Longitude" : "-092.877409",
+		"Zipcode" : "70650",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "LACASSINE",
+		"State" : "LA",
+		"Latitude" : "+30.261021"
+	},
+	{
+		"Longitude" : "-092.980987",
+		"Zipcode" : "70651",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEN",
+		"City" : "LEBLANC",
+		"State" : "LA",
+		"Latitude" : "+30.512276"
+	},
+	{
+		"Longitude" : "-093.223551",
+		"Zipcode" : "70652",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUREGARD",
+		"City" : "LONGVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.585628"
+	},
+	{
+		"Longitude" : "-093.441983",
+		"Zipcode" : "70653",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUREGARD",
+		"City" : "MERRYVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.682899"
+	},
+	{
+		"Longitude" : "-092.906757",
+		"Zipcode" : "70654",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "MITTIE",
+		"State" : "LA",
+		"Latitude" : "+30.703476"
+	},
+	{
+		"Longitude" : "-092.763802",
+		"Zipcode" : "70655",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "OBERLIN",
+		"State" : "LA",
+		"Latitude" : "+30.644704"
+	},
+	{
+		"Longitude" : "-093.046679",
+		"Zipcode" : "70656",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "PITKIN",
+		"State" : "LA",
+		"Latitude" : "+30.987139"
+	},
+	{
+		"Longitude" : "-093.148903",
+		"Zipcode" : "70657",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUREGARD",
+		"City" : "RAGLEY",
+		"State" : "LA",
+		"Latitude" : "+30.528185"
+	},
+	{
+		"Longitude" : "-093.036823",
+		"Zipcode" : "70658",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "REEVES",
+		"State" : "LA",
+		"Latitude" : "+30.511148"
+	},
+	{
+		"Longitude" : "-093.195312",
+		"Zipcode" : "70659",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERNON",
+		"City" : "ROSEPINE",
+		"State" : "LA",
+		"Latitude" : "+30.923606"
+	},
+	{
+		"Longitude" : "-093.369139",
+		"Zipcode" : "70660",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUREGARD",
+		"City" : "SINGER",
+		"State" : "LA",
+		"Latitude" : "+30.593966"
+	},
+	{
+		"Longitude" : "-093.643003",
+		"Zipcode" : "70661",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "STARKS",
+		"State" : "LA",
+		"Latitude" : "+30.312173"
+	},
+	{
+		"Longitude" : "-093.010616",
+		"Zipcode" : "70662",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUREGARD",
+		"City" : "SUGARTOWN",
+		"State" : "LA",
+		"Latitude" : "+30.803752"
+	},
+	{
+		"Longitude" : "-093.435063",
+		"Zipcode" : "70663",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "SULPHUR",
+		"State" : "LA",
+		"Latitude" : "+30.300185"
+	},
+	{
+		"Longitude" : "-093.326527",
+		"Zipcode" : "70664",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "SULPHUR",
+		"State" : "LA",
+		"Latitude" : "+30.264232"
+	},
+	{
+		"Longitude" : "-093.443701",
+		"Zipcode" : "70665",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "SULPHUR",
+		"State" : "LA",
+		"Latitude" : "+30.200948"
+	},
+	{
+		"Longitude" : "-093.583787",
+		"Zipcode" : "70668",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "VINTON",
+		"State" : "LA",
+		"Latitude" : "+30.208206"
+	},
+	{
+		"Longitude" : "-093.275454",
+		"Zipcode" : "70669",
+		"ZipClass" : "STANDARD",
+		"County" : "CALCASIEU",
+		"City" : "WESTLAKE",
+		"State" : "LA",
+		"Latitude" : "+30.240705"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70704",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BAKER",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-090.877022",
+		"Zipcode" : "70706",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "DENHAM SPRINGS",
+		"State" : "LA",
+		"Latitude" : "+30.570887"
+	},
+	{
+		"Longitude" : "-090.869481",
+		"Zipcode" : "70707",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "GONZALES",
+		"State" : "LA",
+		"Latitude" : "+30.204707"
+	},
+	{
+		"Longitude" : "-091.263088",
+		"Zipcode" : "70710",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST BATON ROUGE",
+		"City" : "ADDIS",
+		"State" : "LA",
+		"Latitude" : "+30.362992"
+	},
+	{
+		"Longitude" : "-090.742229",
+		"Zipcode" : "70711",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "ALBANY",
+		"State" : "LA",
+		"Latitude" : "+30.527008"
+	},
+	{
+		"Longitude" : "-091.538682",
+		"Zipcode" : "70712",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEST FELICIANA",
+		"City" : "ANGOLA",
+		"State" : "LA",
+		"Latitude" : "+30.973370"
+	},
+	{
+		"Longitude" : "-091.126275",
+		"Zipcode" : "70714",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BAKER",
+		"State" : "LA",
+		"Latitude" : "+30.578637"
+	},
+	{
+		"Longitude" : "-091.694354",
+		"Zipcode" : "70715",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "BATCHELOR",
+		"State" : "LA",
+		"Latitude" : "+30.829754"
+	},
+	{
+		"Longitude" : "-091.360260",
+		"Zipcode" : "70716",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IBERVILLE",
+		"City" : "BAYOU GOULA",
+		"State" : "LA",
+		"Latitude" : "+30.261384"
+	},
+	{
+		"Longitude" : "-091.588570",
+		"Zipcode" : "70717",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "BLANKS",
+		"State" : "LA",
+		"Latitude" : "+30.566266"
+	},
+	{
+		"Longitude" : "-090.868876",
+		"Zipcode" : "70718",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ASCENSION",
+		"City" : "BRITTANY",
+		"State" : "LA",
+		"Latitude" : "+30.201004"
+	},
+	{
+		"Longitude" : "-091.273501",
+		"Zipcode" : "70719",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST BATON ROUGE",
+		"City" : "BRUSLY",
+		"State" : "LA",
+		"Latitude" : "+30.390091"
+	},
+	{
+		"Longitude" : "-091.339546",
+		"Zipcode" : "70720",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST BATON ROUGE",
+		"City" : "BUECHE",
+		"State" : "LA",
+		"Latitude" : "+30.596789"
+	},
+	{
+		"Longitude" : "-091.104709",
+		"Zipcode" : "70721",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "CARVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.232366"
+	},
+	{
+		"Longitude" : "-090.960294",
+		"Zipcode" : "70722",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST FELICIANA",
+		"City" : "CLINTON",
+		"State" : "LA",
+		"Latitude" : "+30.842734"
+	},
+	{
+		"Longitude" : "-090.858531",
+		"Zipcode" : "70723",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JAMES",
+		"City" : "CONVENT",
+		"State" : "LA",
+		"Latitude" : "+30.051774"
+	},
+	{
+		"Longitude" : "-090.963042",
+		"Zipcode" : "70725",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "DARROW",
+		"State" : "LA",
+		"Latitude" : "+30.134188"
+	},
+	{
+		"Longitude" : "-090.902723",
+		"Zipcode" : "70726",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "DENHAM SPRINGS",
+		"State" : "LA",
+		"Latitude" : "+30.459026"
+	},
+	{
+		"Longitude" : "-090.843449",
+		"Zipcode" : "70727",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "DENHAM SPRINGS",
+		"State" : "LA",
+		"Latitude" : "+30.337495"
+	},
+	{
+		"Longitude" : "-090.945836",
+		"Zipcode" : "70728",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ASCENSION",
+		"City" : "DUPLESSIS",
+		"State" : "LA",
+		"Latitude" : "+30.295446"
+	},
+	{
+		"Longitude" : "-091.394396",
+		"Zipcode" : "70729",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST BATON ROUGE",
+		"City" : "ERWINVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.551335"
+	},
+	{
+		"Longitude" : "-091.124098",
+		"Zipcode" : "70730",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST FELICIANA",
+		"City" : "ETHEL",
+		"State" : "LA",
+		"Latitude" : "+30.828705"
+	},
+	{
+		"Longitude" : "-091.626406",
+		"Zipcode" : "70732",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "FORDOCHE",
+		"State" : "LA",
+		"Latitude" : "+30.657644"
+	},
+	{
+		"Longitude" : "-090.779704",
+		"Zipcode" : "70733",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "FRENCH SETTLEMENT",
+		"State" : "LA",
+		"Latitude" : "+30.306570"
+	},
+	{
+		"Longitude" : "-090.992636",
+		"Zipcode" : "70734",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "GEISMAR",
+		"State" : "LA",
+		"Latitude" : "+30.205118"
+	},
+	{
+		"Longitude" : "-091.329160",
+		"Zipcode" : "70736",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "GLYNN",
+		"State" : "LA",
+		"Latitude" : "+30.643098"
+	},
+	{
+		"Longitude" : "-090.924800",
+		"Zipcode" : "70737",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "GONZALES",
+		"State" : "LA",
+		"Latitude" : "+30.219419"
+	},
+	{
+		"Longitude" : "-090.869481",
+		"Zipcode" : "70738",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "BURNSIDE",
+		"State" : "LA",
+		"Latitude" : "+30.204707"
+	},
+	{
+		"Longitude" : "-090.963516",
+		"Zipcode" : "70739",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "GREENWELL SPRINGS",
+		"State" : "LA",
+		"Latitude" : "+30.574145"
+	},
+	{
+		"Longitude" : "-091.412678",
+		"Zipcode" : "70740",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "GROSSE TETE",
+		"State" : "LA",
+		"Latitude" : "+30.371497"
+	},
+	{
+		"Longitude" : "-090.781355",
+		"Zipcode" : "70743",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT JAMES",
+		"City" : "HESTER",
+		"State" : "LA",
+		"Latitude" : "+30.020595"
+	},
+	{
+		"Longitude" : "-090.696724",
+		"Zipcode" : "70744",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "HOLDEN",
+		"State" : "LA",
+		"Latitude" : "+30.507099"
+	},
+	{
+		"Longitude" : "-091.710850",
+		"Zipcode" : "70747",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POINTE COUPEE",
+		"City" : "INNIS",
+		"State" : "LA",
+		"Latitude" : "+30.902018"
+	},
+	{
+		"Longitude" : "-091.198736",
+		"Zipcode" : "70748",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST FELICIANA",
+		"City" : "JACKSON",
+		"State" : "LA",
+		"Latitude" : "+30.808675"
+	},
+	{
+		"Longitude" : "-091.411031",
+		"Zipcode" : "70749",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "JARREAU",
+		"State" : "LA",
+		"Latitude" : "+30.630136"
+	},
+	{
+		"Longitude" : "-091.907178",
+		"Zipcode" : "70750",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "KROTZ SPRINGS",
+		"State" : "LA",
+		"Latitude" : "+30.525441"
+	},
+	{
+		"Longitude" : "-091.566273",
+		"Zipcode" : "70751",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POINTE COUPEE",
+		"City" : "LABARRE",
+		"State" : "LA",
+		"Latitude" : "+30.751300"
+	},
+	{
+		"Longitude" : "-091.446813",
+		"Zipcode" : "70752",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "LAKELAND",
+		"State" : "LA",
+		"Latitude" : "+30.575993"
+	},
+	{
+		"Longitude" : "-091.735390",
+		"Zipcode" : "70753",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "LETTSWORTH",
+		"State" : "LA",
+		"Latitude" : "+30.936504"
+	},
+	{
+		"Longitude" : "-090.743125",
+		"Zipcode" : "70754",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "LIVINGSTON",
+		"State" : "LA",
+		"Latitude" : "+30.407207"
+	},
+	{
+		"Longitude" : "-091.548373",
+		"Zipcode" : "70755",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "LIVONIA",
+		"State" : "LA",
+		"Latitude" : "+30.574555"
+	},
+	{
+		"Longitude" : "-091.628222",
+		"Zipcode" : "70756",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "LOTTIE",
+		"State" : "LA",
+		"Latitude" : "+30.572542"
+	},
+	{
+		"Longitude" : "-091.490655",
+		"Zipcode" : "70757",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "MARINGOUIN",
+		"State" : "LA",
+		"Latitude" : "+30.435891"
+	},
+	{
+		"Longitude" : "-091.651669",
+		"Zipcode" : "70759",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "MORGANZA",
+		"State" : "LA",
+		"Latitude" : "+30.778438"
+	},
+	{
+		"Longitude" : "-091.500474",
+		"Zipcode" : "70760",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "NEW ROADS",
+		"State" : "LA",
+		"Latitude" : "+30.687199"
+	},
+	{
+		"Longitude" : "-091.024752",
+		"Zipcode" : "70761",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST FELICIANA",
+		"City" : "NORWOOD",
+		"State" : "LA",
+		"Latitude" : "+30.959067"
+	},
+	{
+		"Longitude" : "-091.456649",
+		"Zipcode" : "70762",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "OSCAR",
+		"State" : "LA",
+		"Latitude" : "+30.616102"
+	},
+	{
+		"Longitude" : "-090.743705",
+		"Zipcode" : "70763",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JAMES",
+		"City" : "PAULINA",
+		"State" : "LA",
+		"Latitude" : "+30.041815"
+	},
+	{
+		"Longitude" : "-091.267904",
+		"Zipcode" : "70764",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "PLAQUEMINE",
+		"State" : "LA",
+		"Latitude" : "+30.215233"
+	},
+	{
+		"Longitude" : "-091.360260",
+		"Zipcode" : "70765",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "PLAQUEMINE",
+		"State" : "LA",
+		"Latitude" : "+30.261384"
+	},
+	{
+		"Longitude" : "-091.309262",
+		"Zipcode" : "70767",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST BATON ROUGE",
+		"City" : "PORT ALLEN",
+		"State" : "LA",
+		"Latitude" : "+30.494882"
+	},
+	{
+		"Longitude" : "-090.926014",
+		"Zipcode" : "70769",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "PRAIRIEVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.287275"
+	},
+	{
+		"Longitude" : "-090.974252",
+		"Zipcode" : "70770",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "PRIDE",
+		"State" : "LA",
+		"Latitude" : "+30.646585"
+	},
+	{
+		"Longitude" : "-091.466482",
+		"Zipcode" : "70772",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "ROSEDALE",
+		"State" : "LA",
+		"Latitude" : "+30.435586"
+	},
+	{
+		"Longitude" : "-091.415059",
+		"Zipcode" : "70773",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "ROUGON",
+		"State" : "LA",
+		"Latitude" : "+30.602606"
+	},
+	{
+		"Longitude" : "-090.827056",
+		"Zipcode" : "70774",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "SAINT AMANT",
+		"State" : "LA",
+		"Latitude" : "+30.236364"
+	},
+	{
+		"Longitude" : "-091.418642",
+		"Zipcode" : "70775",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST FELICIANA",
+		"City" : "SAINT FRANCISVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.869398"
+	},
+	{
+		"Longitude" : "-091.085716",
+		"Zipcode" : "70776",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "SAINT GABRIEL",
+		"State" : "LA",
+		"Latitude" : "+30.252790"
+	},
+	{
+		"Longitude" : "-091.073760",
+		"Zipcode" : "70777",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST FELICIANA",
+		"City" : "SLAUGHTER",
+		"State" : "LA",
+		"Latitude" : "+30.757110"
+	},
+	{
+		"Longitude" : "-090.880484",
+		"Zipcode" : "70778",
+		"ZipClass" : "STANDARD",
+		"County" : "ASCENSION",
+		"City" : "SORRENTO",
+		"State" : "LA",
+		"Latitude" : "+30.186506"
+	},
+	{
+		"Longitude" : "-091.166024",
+		"Zipcode" : "70780",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "SUNSHINE",
+		"State" : "LA",
+		"Latitude" : "+30.295921"
+	},
+	{
+		"Longitude" : "-091.487668",
+		"Zipcode" : "70781",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "TORBERT",
+		"State" : "LA",
+		"Latitude" : "+30.561711"
+	},
+	{
+		"Longitude" : "-091.518541",
+		"Zipcode" : "70782",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEST FELICIANA",
+		"City" : "TUNICA",
+		"State" : "LA",
+		"Latitude" : "+30.969401"
+	},
+	{
+		"Longitude" : "-091.476768",
+		"Zipcode" : "70783",
+		"ZipClass" : "STANDARD",
+		"County" : "POINTE COUPEE",
+		"City" : "VENTRESS",
+		"State" : "LA",
+		"Latitude" : "+30.689213"
+	},
+	{
+		"Longitude" : "-091.358149",
+		"Zipcode" : "70784",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEST FELICIANA",
+		"City" : "WAKEFIELD",
+		"State" : "LA",
+		"Latitude" : "+30.917453"
+	},
+	{
+		"Longitude" : "-090.836232",
+		"Zipcode" : "70785",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "WALKER",
+		"State" : "LA",
+		"Latitude" : "+30.549316"
+	},
+	{
+		"Longitude" : "-090.958219",
+		"Zipcode" : "70786",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LIVINGSTON",
+		"City" : "WATSON",
+		"State" : "LA",
+		"Latitude" : "+30.550219"
+	},
+	{
+		"Longitude" : "-091.456167",
+		"Zipcode" : "70787",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEST FELICIANA",
+		"City" : "WEYANOKE",
+		"State" : "LA",
+		"Latitude" : "+30.936227"
+	},
+	{
+		"Longitude" : "-091.146472",
+		"Zipcode" : "70788",
+		"ZipClass" : "STANDARD",
+		"County" : "IBERVILLE",
+		"City" : "WHITE CASTLE",
+		"State" : "LA",
+		"Latitude" : "+30.159290"
+	},
+	{
+		"Longitude" : "-091.098267",
+		"Zipcode" : "70789",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST FELICIANA",
+		"City" : "WILSON",
+		"State" : "LA",
+		"Latitude" : "+30.914247"
+	},
+	{
+		"Longitude" : "-091.129053",
+		"Zipcode" : "70791",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "ZACHARY",
+		"State" : "LA",
+		"Latitude" : "+30.641035"
+	},
+	{
+		"Longitude" : "-090.802759",
+		"Zipcode" : "70792",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JAMES",
+		"City" : "UNCLE SAM",
+		"State" : "LA",
+		"Latitude" : "+30.027914"
+	},
+	{
+		"Longitude" : "-091.185607",
+		"Zipcode" : "70801",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.449240"
+	},
+	{
+		"Longitude" : "-091.155956",
+		"Zipcode" : "70802",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.443040"
+	},
+	{
+		"Longitude" : "-091.186834",
+		"Zipcode" : "70803",
+		"ZipClass" : "UNIQUE",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.405002"
+	},
+	{
+		"Longitude" : "-091.133905",
+		"Zipcode" : "70804",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.386267"
+	},
+	{
+		"Longitude" : "-091.104954",
+		"Zipcode" : "70805",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.473889"
+	},
+	{
+		"Longitude" : "-091.138455",
+		"Zipcode" : "70806",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.451040"
+	},
+	{
+		"Longitude" : "-091.183243",
+		"Zipcode" : "70807",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.507910"
+	},
+	{
+		"Longitude" : "-091.143906",
+		"Zipcode" : "70808",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.408291"
+	},
+	{
+		"Longitude" : "-091.077942",
+		"Zipcode" : "70809",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.429365"
+	},
+	{
+		"Longitude" : "-091.072118",
+		"Zipcode" : "70810",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.355342"
+	},
+	{
+		"Longitude" : "-091.152456",
+		"Zipcode" : "70811",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.555687"
+	},
+	{
+		"Longitude" : "-091.110905",
+		"Zipcode" : "70812",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.499538"
+	},
+	{
+		"Longitude" : "-091.194863",
+		"Zipcode" : "70813",
+		"ZipClass" : "UNIQUE",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.520111"
+	},
+	{
+		"Longitude" : "-091.072704",
+		"Zipcode" : "70814",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.488289"
+	},
+	{
+		"Longitude" : "-091.068254",
+		"Zipcode" : "70815",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.453040"
+	},
+	{
+		"Longitude" : "-091.023502",
+		"Zipcode" : "70816",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.429490"
+	},
+	{
+		"Longitude" : "-090.972423",
+		"Zipcode" : "70817",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.384123"
+	},
+	{
+		"Longitude" : "-091.037528",
+		"Zipcode" : "70818",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.473100"
+	},
+	{
+		"Longitude" : "-091.012194",
+		"Zipcode" : "70819",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.467539"
+	},
+	{
+		"Longitude" : "-091.176156",
+		"Zipcode" : "70820",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.373042"
+	},
+	{
+		"Longitude" : "-091.044723",
+		"Zipcode" : "70821",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.461252"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70822",
+		"ZipClass" : "UNIQUE",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70823",
+		"ZipClass" : "UNIQUE",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70825",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70826",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.082468",
+		"Zipcode" : "70827",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.433837"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70831",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70833",
+		"ZipClass" : "UNIQUE",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70835",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.089154",
+		"Zipcode" : "70836",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.391991"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70837",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.205400",
+		"Zipcode" : "70874",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.590238"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70879",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70883",
+		"ZipClass" : "UNIQUE",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70884",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70892",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.171456",
+		"Zipcode" : "70893",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.412991"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70894",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70895",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70896",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-091.080373",
+		"Zipcode" : "70898",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST BATON ROUGE",
+		"City" : "BATON ROUGE",
+		"State" : "LA",
+		"Latitude" : "+30.515890"
+	},
+	{
+		"Longitude" : "-092.970592",
+		"Zipcode" : "71001",
+		"ZipClass" : "STANDARD",
+		"County" : "BIENVILLE",
+		"City" : "ARCADIA",
+		"State" : "LA",
+		"Latitude" : "+32.376273"
+	},
+	{
+		"Longitude" : "-093.090606",
+		"Zipcode" : "71002",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATCHITOCHES",
+		"City" : "ASHLAND",
+		"State" : "LA",
+		"Latitude" : "+32.137843"
+	},
+	{
+		"Longitude" : "-093.033603",
+		"Zipcode" : "71003",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "ATHENS",
+		"State" : "LA",
+		"Latitude" : "+32.685520"
+	},
+	{
+		"Longitude" : "-093.883624",
+		"Zipcode" : "71004",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "BELCHER",
+		"State" : "LA",
+		"Latitude" : "+32.774283"
+	},
+	{
+		"Longitude" : "-093.637590",
+		"Zipcode" : "71006",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "BENTON",
+		"State" : "LA",
+		"Latitude" : "+32.725032"
+	},
+	{
+		"Longitude" : "-094.004646",
+		"Zipcode" : "71007",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "BETHANY",
+		"State" : "LA",
+		"Latitude" : "+32.339309"
+	},
+	{
+		"Longitude" : "-092.996065",
+		"Zipcode" : "71008",
+		"ZipClass" : "STANDARD",
+		"County" : "BIENVILLE",
+		"City" : "BIENVILLE",
+		"State" : "LA",
+		"Latitude" : "+32.355774"
+	},
+	{
+		"Longitude" : "-093.896895",
+		"Zipcode" : "71009",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CADDO",
+		"City" : "BLANCHARD",
+		"State" : "LA",
+		"Latitude" : "+32.632741"
+	},
+	{
+		"Longitude" : "-093.104385",
+		"Zipcode" : "71016",
+		"ZipClass" : "STANDARD",
+		"County" : "BIENVILLE",
+		"City" : "CASTOR",
+		"State" : "LA",
+		"Latitude" : "+32.240987"
+	},
+	{
+		"Longitude" : "-093.407704",
+		"Zipcode" : "71018",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "COTTON VALLEY",
+		"State" : "LA",
+		"Latitude" : "+32.801138"
+	},
+	{
+		"Longitude" : "-093.264819",
+		"Zipcode" : "71019",
+		"ZipClass" : "STANDARD",
+		"County" : "RED RIVER",
+		"City" : "COUSHATTA",
+		"State" : "LA",
+		"Latitude" : "+32.023096"
+	},
+	{
+		"Longitude" : "-093.448474",
+		"Zipcode" : "71021",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEBSTER",
+		"City" : "CULLEN",
+		"State" : "LA",
+		"Latitude" : "+32.934771"
+	},
+	{
+		"Longitude" : "-093.392015",
+		"Zipcode" : "71023",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "DOYLINE",
+		"State" : "LA",
+		"Latitude" : "+32.688512"
+	},
+	{
+		"Longitude" : "-093.308919",
+		"Zipcode" : "71024",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "DUBBERLY",
+		"State" : "LA",
+		"Latitude" : "+32.687275"
+	},
+	{
+		"Longitude" : "-093.367949",
+		"Zipcode" : "71025",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RED RIVER",
+		"City" : "EAST POINT",
+		"State" : "LA",
+		"Latitude" : "+32.062391"
+	},
+	{
+		"Longitude" : "-093.790471",
+		"Zipcode" : "71027",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "FRIERSON",
+		"State" : "LA",
+		"Latitude" : "+32.172214"
+	},
+	{
+		"Longitude" : "-093.047718",
+		"Zipcode" : "71028",
+		"ZipClass" : "STANDARD",
+		"County" : "BIENVILLE",
+		"City" : "GIBSLAND",
+		"State" : "LA",
+		"Latitude" : "+32.475847"
+	},
+	{
+		"Longitude" : "-093.830134",
+		"Zipcode" : "71029",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "GILLIAM",
+		"State" : "LA",
+		"Latitude" : "+32.835482"
+	},
+	{
+		"Longitude" : "-093.842634",
+		"Zipcode" : "71030",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "GLOSTER",
+		"State" : "LA",
+		"Latitude" : "+32.111056"
+	},
+	{
+		"Longitude" : "-092.945356",
+		"Zipcode" : "71031",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "GOLDONNA",
+		"State" : "LA",
+		"Latitude" : "+31.953139"
+	},
+	{
+		"Longitude" : "-093.820738",
+		"Zipcode" : "71032",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "GRAND CANE",
+		"State" : "LA",
+		"Latitude" : "+32.095910"
+	},
+	{
+		"Longitude" : "-093.989086",
+		"Zipcode" : "71033",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "GREENWOOD",
+		"State" : "LA",
+		"Latitude" : "+32.429968"
+	},
+	{
+		"Longitude" : "-093.367949",
+		"Zipcode" : "71034",
+		"ZipClass" : "STANDARD",
+		"County" : "RED RIVER",
+		"City" : "HALL SUMMIT",
+		"State" : "LA",
+		"Latitude" : "+32.062391"
+	},
+	{
+		"Longitude" : "-093.367949",
+		"Zipcode" : "71036",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RED RIVER",
+		"City" : "HARMON",
+		"State" : "LA",
+		"Latitude" : "+32.062391"
+	},
+	{
+		"Longitude" : "-093.533104",
+		"Zipcode" : "71037",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "HAUGHTON",
+		"State" : "LA",
+		"Latitude" : "+32.585005"
+	},
+	{
+		"Longitude" : "-093.033657",
+		"Zipcode" : "71038",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "HAYNESVILLE",
+		"State" : "LA",
+		"Latitude" : "+32.833762"
+	},
+	{
+		"Longitude" : "-093.288906",
+		"Zipcode" : "71039",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "HEFLIN",
+		"State" : "LA",
+		"Latitude" : "+32.474113"
+	},
+	{
+		"Longitude" : "-093.000406",
+		"Zipcode" : "71040",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "HOMER",
+		"State" : "LA",
+		"Latitude" : "+32.775361"
+	},
+	{
+		"Longitude" : "-093.877571",
+		"Zipcode" : "71043",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "HOSSTON",
+		"State" : "LA",
+		"Latitude" : "+32.896272"
+	},
+	{
+		"Longitude" : "-093.900321",
+		"Zipcode" : "71044",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "IDA",
+		"State" : "LA",
+		"Latitude" : "+32.924377"
+	},
+	{
+		"Longitude" : "-093.078363",
+		"Zipcode" : "71045",
+		"ZipClass" : "STANDARD",
+		"County" : "BIENVILLE",
+		"City" : "JAMESTOWN",
+		"State" : "LA",
+		"Latitude" : "+32.415006"
+	},
+	{
+		"Longitude" : "-093.839512",
+		"Zipcode" : "71046",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "KEATCHIE",
+		"State" : "LA",
+		"Latitude" : "+32.107786"
+	},
+	{
+		"Longitude" : "-093.903930",
+		"Zipcode" : "71047",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "KEITHVILLE",
+		"State" : "LA",
+		"Latitude" : "+32.388579"
+	},
+	{
+		"Longitude" : "-092.866469",
+		"Zipcode" : "71048",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "LISBON",
+		"State" : "LA",
+		"Latitude" : "+32.818938"
+	},
+	{
+		"Longitude" : "-093.865925",
+		"Zipcode" : "71049",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "LOGANSPORT",
+		"State" : "LA",
+		"Latitude" : "+32.046684"
+	},
+	{
+		"Longitude" : "-093.913834",
+		"Zipcode" : "71050",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "LONGSTREET",
+		"State" : "LA",
+		"Latitude" : "+32.117539"
+	},
+	{
+		"Longitude" : "-093.523207",
+		"Zipcode" : "71051",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "ELM GROVE",
+		"State" : "LA",
+		"Latitude" : "+32.361547"
+	},
+	{
+		"Longitude" : "-093.709777",
+		"Zipcode" : "71052",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "MANSFIELD",
+		"State" : "LA",
+		"Latitude" : "+32.039947"
+	},
+	{
+		"Longitude" : "-093.312837",
+		"Zipcode" : "71055",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "MINDEN",
+		"State" : "LA",
+		"Latitude" : "+32.725217"
+	},
+	{
+		"Longitude" : "-093.250705",
+		"Zipcode" : "71058",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "MINDEN",
+		"State" : "LA",
+		"Latitude" : "+32.576948"
+	},
+	{
+		"Longitude" : "-093.976775",
+		"Zipcode" : "71060",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "MOORINGSPORT",
+		"State" : "LA",
+		"Latitude" : "+32.594798"
+	},
+	{
+		"Longitude" : "-093.966734",
+		"Zipcode" : "71061",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "OIL CITY",
+		"State" : "LA",
+		"Latitude" : "+32.755816"
+	},
+	{
+		"Longitude" : "-093.563309",
+		"Zipcode" : "71063",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "PELICAN",
+		"State" : "LA",
+		"Latitude" : "+31.911977"
+	},
+	{
+		"Longitude" : "-093.647824",
+		"Zipcode" : "71064",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "PLAIN DEALING",
+		"State" : "LA",
+		"Latitude" : "+32.768412"
+	},
+	{
+		"Longitude" : "-093.534539",
+		"Zipcode" : "71065",
+		"ZipClass" : "STANDARD",
+		"County" : "SABINE",
+		"City" : "PLEASANT HILL",
+		"State" : "LA",
+		"Latitude" : "+31.794655"
+	},
+	{
+		"Longitude" : "-093.196609",
+		"Zipcode" : "71066",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATCHITOCHES",
+		"City" : "POWHATAN",
+		"State" : "LA",
+		"Latitude" : "+31.874059"
+	},
+	{
+		"Longitude" : "-093.508650",
+		"Zipcode" : "71067",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "PRINCETON",
+		"State" : "LA",
+		"Latitude" : "+32.597435"
+	},
+	{
+		"Longitude" : "-093.238047",
+		"Zipcode" : "71068",
+		"ZipClass" : "STANDARD",
+		"County" : "BIENVILLE",
+		"City" : "RINGGOLD",
+		"State" : "LA",
+		"Latitude" : "+32.382223"
+	},
+	{
+		"Longitude" : "-093.968905",
+		"Zipcode" : "71069",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "RODESSA",
+		"State" : "LA",
+		"Latitude" : "+32.963310"
+	},
+	{
+		"Longitude" : "-092.917020",
+		"Zipcode" : "71070",
+		"ZipClass" : "STANDARD",
+		"County" : "BIENVILLE",
+		"City" : "SALINE",
+		"State" : "LA",
+		"Latitude" : "+32.196980"
+	},
+	{
+		"Longitude" : "-093.391177",
+		"Zipcode" : "71071",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "SAREPTA",
+		"State" : "LA",
+		"Latitude" : "+32.758417"
+	},
+	{
+		"Longitude" : "-093.327139",
+		"Zipcode" : "71072",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "SHONGALOO",
+		"State" : "LA",
+		"Latitude" : "+32.743330"
+	},
+	{
+		"Longitude" : "-093.342675",
+		"Zipcode" : "71073",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "SIBLEY",
+		"State" : "LA",
+		"Latitude" : "+32.652472"
+	},
+	{
+		"Longitude" : "-093.406102",
+		"Zipcode" : "71075",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "SPRINGHILL",
+		"State" : "LA",
+		"Latitude" : "+32.771459"
+	},
+	{
+		"Longitude" : "-093.867325",
+		"Zipcode" : "71078",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "STONEWALL",
+		"State" : "LA",
+		"Latitude" : "+32.173318"
+	},
+	{
+		"Longitude" : "-092.811145",
+		"Zipcode" : "71079",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "SUMMERFIELD",
+		"State" : "LA",
+		"Latitude" : "+32.945404"
+	},
+	{
+		"Longitude" : "-093.101086",
+		"Zipcode" : "71080",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BIENVILLE",
+		"City" : "TAYLOR",
+		"State" : "LA",
+		"Latitude" : "+32.366002"
+	},
+	{
+		"Longitude" : "-093.950401",
+		"Zipcode" : "71082",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "VIVIAN",
+		"State" : "LA",
+		"Latitude" : "+32.842330"
+	},
+	{
+		"Longitude" : "-093.750228",
+		"Zipcode" : "71101",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.498202"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71102",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.775978",
+		"Zipcode" : "71103",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.492552"
+	},
+	{
+		"Longitude" : "-093.730764",
+		"Zipcode" : "71104",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.483313"
+	},
+	{
+		"Longitude" : "-093.712906",
+		"Zipcode" : "71105",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.450453"
+	},
+	{
+		"Longitude" : "-093.711612",
+		"Zipcode" : "71106",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.391170"
+	},
+	{
+		"Longitude" : "-093.873770",
+		"Zipcode" : "71107",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.601593"
+	},
+	{
+		"Longitude" : "-093.816458",
+		"Zipcode" : "71108",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.602557"
+	},
+	{
+		"Longitude" : "-093.814327",
+		"Zipcode" : "71109",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.464053"
+	},
+	{
+		"Longitude" : "-093.640362",
+		"Zipcode" : "71110",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "BARKSDALE AFB",
+		"State" : "LA",
+		"Latitude" : "+32.513749"
+	},
+	{
+		"Longitude" : "-093.586698",
+		"Zipcode" : "71111",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "BOSSIER CITY",
+		"State" : "LA",
+		"Latitude" : "+32.516708"
+	},
+	{
+		"Longitude" : "-093.645620",
+		"Zipcode" : "71112",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "BOSSIER CITY",
+		"State" : "LA",
+		"Latitude" : "+32.460209"
+	},
+	{
+		"Longitude" : "-093.608968",
+		"Zipcode" : "71113",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "BOSSIER CITY",
+		"State" : "LA",
+		"Latitude" : "+32.627620"
+	},
+	{
+		"Longitude" : "-093.609198",
+		"Zipcode" : "71115",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.340125"
+	},
+	{
+		"Longitude" : "-093.805255",
+		"Zipcode" : "71118",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.535809"
+	},
+	{
+		"Longitude" : "-093.925724",
+		"Zipcode" : "71119",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.478881"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71120",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.924607",
+		"Zipcode" : "71129",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.346853"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71130",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71133",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71134",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71135",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71136",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71137",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71138",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71148",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71149",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71151",
+		"ZipClass" : "UNIQUE",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71152",
+		"ZipClass" : "UNIQUE",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71153",
+		"ZipClass" : "UNIQUE",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71154",
+		"ZipClass" : "UNIQUE",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71156",
+		"ZipClass" : "UNIQUE",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71161",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71162",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71163",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71164",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71165",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.752560",
+		"Zipcode" : "71166",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "SHREVEPORT",
+		"State" : "LA",
+		"Latitude" : "+32.607556"
+	},
+	{
+		"Longitude" : "-093.608968",
+		"Zipcode" : "71171",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "BOSSIER CITY",
+		"State" : "LA",
+		"Latitude" : "+32.627620"
+	},
+	{
+		"Longitude" : "-093.608968",
+		"Zipcode" : "71172",
+		"ZipClass" : "STANDARD",
+		"County" : "BOSSIER",
+		"City" : "BOSSIER CITY",
+		"State" : "LA",
+		"Latitude" : "+32.627620"
+	},
+	{
+		"Longitude" : "-092.094583",
+		"Zipcode" : "71201",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.502833"
+	},
+	{
+		"Longitude" : "-092.072206",
+		"Zipcode" : "71202",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.386844"
+	},
+	{
+		"Longitude" : "-092.027228",
+		"Zipcode" : "71203",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.600213"
+	},
+	{
+		"Longitude" : "-092.159354",
+		"Zipcode" : "71207",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.490777"
+	},
+	{
+		"Longitude" : "-092.075615",
+		"Zipcode" : "71208",
+		"ZipClass" : "UNIQUE",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.496764"
+	},
+	{
+		"Longitude" : "-092.075583",
+		"Zipcode" : "71209",
+		"ZipClass" : "UNIQUE",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.527693"
+	},
+	{
+		"Longitude" : "-092.159354",
+		"Zipcode" : "71210",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.490777"
+	},
+	{
+		"Longitude" : "-092.159354",
+		"Zipcode" : "71211",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.490777"
+	},
+	{
+		"Longitude" : "-092.072683",
+		"Zipcode" : "71212",
+		"ZipClass" : "UNIQUE",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.528593"
+	},
+	{
+		"Longitude" : "-092.159354",
+		"Zipcode" : "71213",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.490777"
+	},
+	{
+		"Longitude" : "-091.732788",
+		"Zipcode" : "71218",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "ARCHIBALD",
+		"State" : "LA",
+		"Latitude" : "+32.409446"
+	},
+	{
+		"Longitude" : "-091.685430",
+		"Zipcode" : "71219",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BASKIN",
+		"State" : "LA",
+		"Latitude" : "+32.311261"
+	},
+	{
+		"Longitude" : "-091.873723",
+		"Zipcode" : "71220",
+		"ZipClass" : "STANDARD",
+		"County" : "MOREHOUSE",
+		"City" : "BASTROP",
+		"State" : "LA",
+		"Latitude" : "+32.795041"
+	},
+	{
+		"Longitude" : "-091.843528",
+		"Zipcode" : "71221",
+		"ZipClass" : "STANDARD",
+		"County" : "MOREHOUSE",
+		"City" : "BASTROP",
+		"State" : "LA",
+		"Latitude" : "+32.823863"
+	},
+	{
+		"Longitude" : "-092.471522",
+		"Zipcode" : "71222",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "BERNICE",
+		"State" : "LA",
+		"Latitude" : "+32.837199"
+	},
+	{
+		"Longitude" : "-091.653002",
+		"Zipcode" : "71223",
+		"ZipClass" : "STANDARD",
+		"County" : "MOREHOUSE",
+		"City" : "BONITA",
+		"State" : "LA",
+		"Latitude" : "+32.906387"
+	},
+	{
+		"Longitude" : "-092.337078",
+		"Zipcode" : "71225",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "CALHOUN",
+		"State" : "LA",
+		"Latitude" : "+32.496897"
+	},
+	{
+		"Longitude" : "-092.441180",
+		"Zipcode" : "71226",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "CHATHAM",
+		"State" : "LA",
+		"Latitude" : "+32.299690"
+	},
+	{
+		"Longitude" : "-092.611834",
+		"Zipcode" : "71227",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CHOUDRANT",
+		"State" : "LA",
+		"Latitude" : "+32.585408"
+	},
+	{
+		"Longitude" : "-091.812865",
+		"Zipcode" : "71229",
+		"ZipClass" : "STANDARD",
+		"County" : "MOREHOUSE",
+		"City" : "COLLINSTON",
+		"State" : "LA",
+		"Latitude" : "+32.663142"
+	},
+	{
+		"Longitude" : "-091.691899",
+		"Zipcode" : "71230",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "CROWVILLE",
+		"State" : "LA",
+		"Latitude" : "+32.138935"
+	},
+	{
+		"Longitude" : "-091.631433",
+		"Zipcode" : "71232",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "DELHI",
+		"State" : "LA",
+		"Latitude" : "+32.445598"
+	},
+	{
+		"Longitude" : "-091.216458",
+		"Zipcode" : "71233",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "DELTA",
+		"State" : "LA",
+		"Latitude" : "+32.341594"
+	},
+	{
+		"Longitude" : "-092.362320",
+		"Zipcode" : "71234",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "DOWNSVILLE",
+		"State" : "LA",
+		"Latitude" : "+32.664242"
+	},
+	{
+		"Longitude" : "-092.699642",
+		"Zipcode" : "71235",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "DUBACH",
+		"State" : "LA",
+		"Latitude" : "+32.644564"
+	},
+	{
+		"Longitude" : "-091.499713",
+		"Zipcode" : "71237",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST CARROLL",
+		"City" : "EPPS",
+		"State" : "LA",
+		"Latitude" : "+32.718098"
+	},
+	{
+		"Longitude" : "-092.459917",
+		"Zipcode" : "71238",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "EROS",
+		"State" : "LA",
+		"Latitude" : "+32.353757"
+	},
+	{
+		"Longitude" : "-092.159354",
+		"Zipcode" : "71240",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OUACHITA",
+		"City" : "FAIRBANKS",
+		"State" : "LA",
+		"Latitude" : "+32.490777"
+	},
+	{
+		"Longitude" : "-092.395250",
+		"Zipcode" : "71241",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "FARMERVILLE",
+		"State" : "LA",
+		"Latitude" : "+32.777031"
+	},
+	{
+		"Longitude" : "-091.398944",
+		"Zipcode" : "71242",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEST CARROLL",
+		"City" : "FOREST",
+		"State" : "LA",
+		"Latitude" : "+32.823880"
+	},
+	{
+		"Longitude" : "-091.766549",
+		"Zipcode" : "71243",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FORT NECESSITY",
+		"State" : "LA",
+		"Latitude" : "+31.981305"
+	},
+	{
+		"Longitude" : "-092.735930",
+		"Zipcode" : "71245",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GRAMBLING",
+		"State" : "LA",
+		"Latitude" : "+32.515626"
+	},
+	{
+		"Longitude" : "-092.714630",
+		"Zipcode" : "71247",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "HODGE",
+		"State" : "LA",
+		"Latitude" : "+32.280774"
+	},
+	{
+		"Longitude" : "-091.691899",
+		"Zipcode" : "71249",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "JIGGER",
+		"State" : "LA",
+		"Latitude" : "+32.138935"
+	},
+	{
+		"Longitude" : "-091.580528",
+		"Zipcode" : "71250",
+		"ZipClass" : "STANDARD",
+		"County" : "MOREHOUSE",
+		"City" : "JONES",
+		"State" : "LA",
+		"Latitude" : "+32.946560"
+	},
+	{
+		"Longitude" : "-092.575528",
+		"Zipcode" : "71251",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "JONESBORO",
+		"State" : "LA",
+		"Latitude" : "+32.228472"
+	},
+	{
+		"Longitude" : "-091.450183",
+		"Zipcode" : "71253",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEST CARROLL",
+		"City" : "KILBOURNE",
+		"State" : "LA",
+		"Latitude" : "+32.794027"
+	},
+	{
+		"Longitude" : "-091.252622",
+		"Zipcode" : "71254",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST CARROLL",
+		"City" : "LAKE PROVIDENCE",
+		"State" : "LA",
+		"Latitude" : "+32.796407"
+	},
+	{
+		"Longitude" : "-092.687277",
+		"Zipcode" : "71256",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "LILLIE",
+		"State" : "LA",
+		"Latitude" : "+32.956279"
+	},
+	{
+		"Longitude" : "-091.741639",
+		"Zipcode" : "71259",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "MANGHAM",
+		"State" : "LA",
+		"Latitude" : "+32.343608"
+	},
+	{
+		"Longitude" : "-092.286190",
+		"Zipcode" : "71260",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "MARION",
+		"State" : "LA",
+		"Latitude" : "+32.871556"
+	},
+	{
+		"Longitude" : "-091.727614",
+		"Zipcode" : "71261",
+		"ZipClass" : "STANDARD",
+		"County" : "MOREHOUSE",
+		"City" : "MER ROUGE",
+		"State" : "LA",
+		"Latitude" : "+32.793556"
+	},
+	{
+		"Longitude" : "-091.430209",
+		"Zipcode" : "71263",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST CARROLL",
+		"City" : "OAK GROVE",
+		"State" : "LA",
+		"Latitude" : "+32.873125"
+	},
+	{
+		"Longitude" : "-091.759778",
+		"Zipcode" : "71264",
+		"ZipClass" : "STANDARD",
+		"County" : "MOREHOUSE",
+		"City" : "OAK RIDGE",
+		"State" : "LA",
+		"Latitude" : "+32.606213"
+	},
+	{
+		"Longitude" : "-091.510077",
+		"Zipcode" : "71266",
+		"ZipClass" : "STANDARD",
+		"County" : "WEST CARROLL",
+		"City" : "PIONEER",
+		"State" : "LA",
+		"Latitude" : "+32.736836"
+	},
+	{
+		"Longitude" : "-092.672165",
+		"Zipcode" : "71268",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "QUITMAN",
+		"State" : "LA",
+		"Latitude" : "+32.337632"
+	},
+	{
+		"Longitude" : "-091.743314",
+		"Zipcode" : "71269",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "RAYVILLE",
+		"State" : "LA",
+		"Latitude" : "+32.445645"
+	},
+	{
+		"Longitude" : "-092.639756",
+		"Zipcode" : "71270",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "RUSTON",
+		"State" : "LA",
+		"Latitude" : "+32.580553"
+	},
+	{
+		"Longitude" : "-092.649298",
+		"Zipcode" : "71272",
+		"ZipClass" : "UNIQUE",
+		"County" : "LINCOLN",
+		"City" : "RUSTON",
+		"State" : "LA",
+		"Latitude" : "+32.525825"
+	},
+	{
+		"Longitude" : "-092.648384",
+		"Zipcode" : "71273",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "RUSTON",
+		"State" : "LA",
+		"Latitude" : "+32.606535"
+	},
+	{
+		"Longitude" : "-092.708389",
+		"Zipcode" : "71275",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SIMSBORO",
+		"State" : "LA",
+		"Latitude" : "+32.597482"
+	},
+	{
+		"Longitude" : "-091.230175",
+		"Zipcode" : "71276",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST CARROLL",
+		"City" : "SONDHEIMER",
+		"State" : "LA",
+		"Latitude" : "+32.771315"
+	},
+	{
+		"Longitude" : "-092.574611",
+		"Zipcode" : "71277",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SPEARSVILLE",
+		"State" : "LA",
+		"Latitude" : "+32.916505"
+	},
+	{
+		"Longitude" : "-091.856326",
+		"Zipcode" : "71279",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "START",
+		"State" : "LA",
+		"Latitude" : "+32.491910"
+	},
+	{
+		"Longitude" : "-092.060082",
+		"Zipcode" : "71280",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "STERLINGTON",
+		"State" : "LA",
+		"Latitude" : "+32.617816"
+	},
+	{
+		"Longitude" : "-092.159354",
+		"Zipcode" : "71281",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OUACHITA",
+		"City" : "SWARTZ",
+		"State" : "LA",
+		"Latitude" : "+32.490777"
+	},
+	{
+		"Longitude" : "-091.064535",
+		"Zipcode" : "71282",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "TALLULAH",
+		"State" : "LA",
+		"Latitude" : "+32.432600"
+	},
+	{
+		"Longitude" : "-091.216458",
+		"Zipcode" : "71284",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "TALLULAH",
+		"State" : "LA",
+		"Latitude" : "+32.341594"
+	},
+	{
+		"Longitude" : "-091.230175",
+		"Zipcode" : "71286",
+		"ZipClass" : "STANDARD",
+		"County" : "EAST CARROLL",
+		"City" : "TRANSYLVANIA",
+		"State" : "LA",
+		"Latitude" : "+32.771315"
+	},
+	{
+		"Longitude" : "-092.165880",
+		"Zipcode" : "71291",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "WEST MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.497932"
+	},
+	{
+		"Longitude" : "-092.203654",
+		"Zipcode" : "71292",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "WEST MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.402367"
+	},
+	{
+		"Longitude" : "-092.159354",
+		"Zipcode" : "71294",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "WEST MONROE",
+		"State" : "LA",
+		"Latitude" : "+32.490777"
+	},
+	{
+		"Longitude" : "-091.705926",
+		"Zipcode" : "71295",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WINNSBORO",
+		"State" : "LA",
+		"Latitude" : "+32.118121"
+	},
+	{
+		"Longitude" : "-092.431184",
+		"Zipcode" : "71301",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "ALEXANDRIA",
+		"State" : "LA",
+		"Latitude" : "+31.175885"
+	},
+	{
+		"Longitude" : "-092.367497",
+		"Zipcode" : "71302",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "ALEXANDRIA",
+		"State" : "LA",
+		"Latitude" : "+31.164904"
+	},
+	{
+		"Longitude" : "-092.534340",
+		"Zipcode" : "71303",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "ALEXANDRIA",
+		"State" : "LA",
+		"Latitude" : "+31.259983"
+	},
+	{
+		"Longitude" : "-092.446135",
+		"Zipcode" : "71306",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "ALEXANDRIA",
+		"State" : "LA",
+		"Latitude" : "+31.075638"
+	},
+	{
+		"Longitude" : "-092.526927",
+		"Zipcode" : "71307",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "ALEXANDRIA",
+		"State" : "LA",
+		"Latitude" : "+31.203393"
+	},
+	{
+		"Longitude" : "-092.619593",
+		"Zipcode" : "71309",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "ALEXANDRIA",
+		"State" : "LA",
+		"Latitude" : "+31.304730"
+	},
+	{
+		"Longitude" : "-092.398384",
+		"Zipcode" : "71315",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "ALEXANDRIA",
+		"State" : "LA",
+		"Latitude" : "+31.139651"
+	},
+	{
+		"Longitude" : "-091.823219",
+		"Zipcode" : "71316",
+		"ZipClass" : "STANDARD",
+		"County" : "CONCORDIA",
+		"City" : "ACME",
+		"State" : "LA",
+		"Latitude" : "+31.308416"
+	},
+	{
+		"Longitude" : "-091.906093",
+		"Zipcode" : "71320",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AVOYELLES",
+		"City" : "BORDELONVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.091942"
+	},
+	{
+		"Longitude" : "-092.110503",
+		"Zipcode" : "71322",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "BUNKIE",
+		"State" : "LA",
+		"Latitude" : "+30.939962"
+	},
+	{
+		"Longitude" : "-092.194478",
+		"Zipcode" : "71323",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "CENTER POINT",
+		"State" : "LA",
+		"Latitude" : "+31.235297"
+	},
+	{
+		"Longitude" : "-091.691899",
+		"Zipcode" : "71324",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "CHASE",
+		"State" : "LA",
+		"Latitude" : "+32.138935"
+	},
+	{
+		"Longitude" : "-092.383486",
+		"Zipcode" : "71325",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "CHENEYVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.047041"
+	},
+	{
+		"Longitude" : "-091.516323",
+		"Zipcode" : "71326",
+		"ZipClass" : "STANDARD",
+		"County" : "CONCORDIA",
+		"City" : "CLAYTON",
+		"State" : "LA",
+		"Latitude" : "+31.715764"
+	},
+	{
+		"Longitude" : "-091.995281",
+		"Zipcode" : "71327",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "COTTONPORT",
+		"State" : "LA",
+		"Latitude" : "+30.973616"
+	},
+	{
+		"Longitude" : "-092.223300",
+		"Zipcode" : "71328",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "DEVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.358696"
+	},
+	{
+		"Longitude" : "-091.978990",
+		"Zipcode" : "71329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AVOYELLES",
+		"City" : "DUPONT",
+		"State" : "LA",
+		"Latitude" : "+31.095889"
+	},
+	{
+		"Longitude" : "-092.258880",
+		"Zipcode" : "71330",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RAPIDES",
+		"City" : "ECHO",
+		"State" : "LA",
+		"Latitude" : "+31.119858"
+	},
+	{
+		"Longitude" : "-092.113774",
+		"Zipcode" : "71331",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "EFFIE",
+		"State" : "LA",
+		"Latitude" : "+31.222424"
+	},
+	{
+		"Longitude" : "-092.067027",
+		"Zipcode" : "71333",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "EVERGREEN",
+		"State" : "LA",
+		"Latitude" : "+30.916140"
+	},
+	{
+		"Longitude" : "-091.550218",
+		"Zipcode" : "71334",
+		"ZipClass" : "STANDARD",
+		"County" : "CONCORDIA",
+		"City" : "FERRIDAY",
+		"State" : "LA",
+		"Latitude" : "+31.660219"
+	},
+	{
+		"Longitude" : "-091.619049",
+		"Zipcode" : "71336",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "GILBERT",
+		"State" : "LA",
+		"Latitude" : "+31.999512"
+	},
+	{
+		"Longitude" : "-091.904161",
+		"Zipcode" : "71339",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AVOYELLES",
+		"City" : "HAMBURG",
+		"State" : "LA",
+		"Latitude" : "+31.037572"
+	},
+	{
+		"Longitude" : "-091.890463",
+		"Zipcode" : "71340",
+		"ZipClass" : "STANDARD",
+		"County" : "CATAHOULA",
+		"City" : "HARRISONBURG",
+		"State" : "LA",
+		"Latitude" : "+31.746835"
+	},
+	{
+		"Longitude" : "-092.041225",
+		"Zipcode" : "71341",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "HESSMER",
+		"State" : "LA",
+		"Latitude" : "+31.112517"
+	},
+	{
+		"Longitude" : "-092.140733",
+		"Zipcode" : "71342",
+		"ZipClass" : "STANDARD",
+		"County" : "LA SALLE",
+		"City" : "JENA",
+		"State" : "LA",
+		"Latitude" : "+31.606030"
+	},
+	{
+		"Longitude" : "-091.867780",
+		"Zipcode" : "71343",
+		"ZipClass" : "STANDARD",
+		"County" : "CATAHOULA",
+		"City" : "JONESVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.686225"
+	},
+	{
+		"Longitude" : "-092.014840",
+		"Zipcode" : "71345",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LANDRY",
+		"City" : "LEBEAU",
+		"State" : "LA",
+		"Latitude" : "+30.770459"
+	},
+	{
+		"Longitude" : "-092.439933",
+		"Zipcode" : "71346",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "LECOMPTE",
+		"State" : "LA",
+		"Latitude" : "+31.092797"
+	},
+	{
+		"Longitude" : "-092.526927",
+		"Zipcode" : "71348",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RAPIDES",
+		"City" : "LIBUSE",
+		"State" : "LA",
+		"Latitude" : "+31.203393"
+	},
+	{
+		"Longitude" : "-092.049086",
+		"Zipcode" : "71350",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "MANSURA",
+		"State" : "LA",
+		"Latitude" : "+31.064478"
+	},
+	{
+		"Longitude" : "-092.019522",
+		"Zipcode" : "71351",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "MARKSVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.114424"
+	},
+	{
+		"Longitude" : "-091.793232",
+		"Zipcode" : "71353",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "MELVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.716462"
+	},
+	{
+		"Longitude" : "-091.724573",
+		"Zipcode" : "71354",
+		"ZipClass" : "STANDARD",
+		"County" : "CONCORDIA",
+		"City" : "MONTEREY",
+		"State" : "LA",
+		"Latitude" : "+31.347431"
+	},
+	{
+		"Longitude" : "-091.874829",
+		"Zipcode" : "71355",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "MOREAUVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.098840"
+	},
+	{
+		"Longitude" : "-092.031647",
+		"Zipcode" : "71356",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "MORROW",
+		"State" : "LA",
+		"Latitude" : "+30.791878"
+	},
+	{
+		"Longitude" : "-091.242511",
+		"Zipcode" : "71357",
+		"ZipClass" : "STANDARD",
+		"County" : "TENSAS",
+		"City" : "NEWELLTON",
+		"State" : "LA",
+		"Latitude" : "+32.038254"
+	},
+	{
+		"Longitude" : "-091.895195",
+		"Zipcode" : "71358",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LANDRY",
+		"City" : "PALMETTO",
+		"State" : "LA",
+		"Latitude" : "+30.726620"
+	},
+	{
+		"Longitude" : "-092.526927",
+		"Zipcode" : "71359",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAPIDES",
+		"City" : "PINEVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.203393"
+	},
+	{
+		"Longitude" : "-092.320275",
+		"Zipcode" : "71360",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "PINEVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.223184"
+	},
+	{
+		"Longitude" : "-092.419836",
+		"Zipcode" : "71361",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "PINEVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.369230"
+	},
+	{
+		"Longitude" : "-092.001767",
+		"Zipcode" : "71362",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "PLAUCHEVILLE",
+		"State" : "LA",
+		"Latitude" : "+30.992478"
+	},
+	{
+		"Longitude" : "-091.779410",
+		"Zipcode" : "71363",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CATAHOULA",
+		"City" : "RHINEHART",
+		"State" : "LA",
+		"Latitude" : "+31.596272"
+	},
+	{
+		"Longitude" : "-092.526927",
+		"Zipcode" : "71365",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RAPIDES",
+		"City" : "RUBY",
+		"State" : "LA",
+		"Latitude" : "+31.203393"
+	},
+	{
+		"Longitude" : "-091.239631",
+		"Zipcode" : "71366",
+		"ZipClass" : "STANDARD",
+		"County" : "TENSAS",
+		"City" : "SAINT JOSEPH",
+		"State" : "LA",
+		"Latitude" : "+31.919051"
+	},
+	{
+		"Longitude" : "-092.296364",
+		"Zipcode" : "71367",
+		"ZipClass" : "STANDARD",
+		"County" : "EVANGELINE",
+		"City" : "SAINT LANDRY",
+		"State" : "LA",
+		"Latitude" : "+30.899787"
+	},
+	{
+		"Longitude" : "-091.661308",
+		"Zipcode" : "71368",
+		"ZipClass" : "STANDARD",
+		"County" : "CATAHOULA",
+		"City" : "SICILY ISLAND",
+		"State" : "LA",
+		"Latitude" : "+31.848184"
+	},
+	{
+		"Longitude" : "-091.894355",
+		"Zipcode" : "71369",
+		"ZipClass" : "STANDARD",
+		"County" : "AVOYELLES",
+		"City" : "SIMMESPORT",
+		"State" : "LA",
+		"Latitude" : "+30.946808"
+	},
+	{
+		"Longitude" : "-092.177637",
+		"Zipcode" : "71371",
+		"ZipClass" : "STANDARD",
+		"County" : "LA SALLE",
+		"City" : "TROUT",
+		"State" : "LA",
+		"Latitude" : "+31.697711"
+	},
+	{
+		"Longitude" : "-091.546425",
+		"Zipcode" : "71373",
+		"ZipClass" : "STANDARD",
+		"County" : "CONCORDIA",
+		"City" : "VIDALIA",
+		"State" : "LA",
+		"Latitude" : "+31.408218"
+	},
+	{
+		"Longitude" : "-091.387110",
+		"Zipcode" : "71375",
+		"ZipClass" : "STANDARD",
+		"County" : "TENSAS",
+		"City" : "WATERPROOF",
+		"State" : "LA",
+		"Latitude" : "+31.805761"
+	},
+	{
+		"Longitude" : "-091.752932",
+		"Zipcode" : "71377",
+		"ZipClass" : "STANDARD",
+		"County" : "CONCORDIA",
+		"City" : "WILDSVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.590328"
+	},
+	{
+		"Longitude" : "-091.660042",
+		"Zipcode" : "71378",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WISNER",
+		"State" : "LA",
+		"Latitude" : "+31.961337"
+	},
+	{
+		"Longitude" : "-091.779410",
+		"Zipcode" : "71401",
+		"ZipClass" : "STANDARD",
+		"County" : "CATAHOULA",
+		"City" : "AIMWELL",
+		"State" : "LA",
+		"Latitude" : "+31.596272"
+	},
+	{
+		"Longitude" : "-093.268452",
+		"Zipcode" : "71403",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "ANACOCO",
+		"State" : "LA",
+		"Latitude" : "+31.142302"
+	},
+	{
+		"Longitude" : "-092.795773",
+		"Zipcode" : "71404",
+		"ZipClass" : "STANDARD",
+		"County" : "WINN",
+		"City" : "ATLANTA",
+		"State" : "LA",
+		"Latitude" : "+31.775958"
+	},
+	{
+		"Longitude" : "-092.394536",
+		"Zipcode" : "71405",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RAPIDES",
+		"City" : "BALL",
+		"State" : "LA",
+		"Latitude" : "+31.415125"
+	},
+	{
+		"Longitude" : "-093.493958",
+		"Zipcode" : "71406",
+		"ZipClass" : "STANDARD",
+		"County" : "SABINE",
+		"City" : "BELMONT",
+		"State" : "LA",
+		"Latitude" : "+31.730633"
+	},
+	{
+		"Longitude" : "-092.480731",
+		"Zipcode" : "71407",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BENTLEY",
+		"State" : "LA",
+		"Latitude" : "+31.518701"
+	},
+	{
+		"Longitude" : "-092.655743",
+		"Zipcode" : "71409",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "BOYCE",
+		"State" : "LA",
+		"Latitude" : "+31.251382"
+	},
+	{
+		"Longitude" : "-092.792418",
+		"Zipcode" : "71410",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINN",
+		"City" : "CALVIN",
+		"State" : "LA",
+		"Latitude" : "+31.961279"
+	},
+	{
+		"Longitude" : "-093.148989",
+		"Zipcode" : "71411",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "CAMPTI",
+		"State" : "LA",
+		"Latitude" : "+31.830090"
+	},
+	{
+		"Longitude" : "-093.021608",
+		"Zipcode" : "71414",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATCHITOCHES",
+		"City" : "CLARENCE",
+		"State" : "LA",
+		"Latitude" : "+31.818209"
+	},
+	{
+		"Longitude" : "-092.164903",
+		"Zipcode" : "71415",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALDWELL",
+		"City" : "CLARKS",
+		"State" : "LA",
+		"Latitude" : "+32.055505"
+	},
+	{
+		"Longitude" : "-092.855770",
+		"Zipcode" : "71416",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "CLOUTIERVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.517836"
+	},
+	{
+		"Longitude" : "-092.653269",
+		"Zipcode" : "71417",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "COLFAX",
+		"State" : "LA",
+		"Latitude" : "+31.527636"
+	},
+	{
+		"Longitude" : "-092.117670",
+		"Zipcode" : "71418",
+		"ZipClass" : "STANDARD",
+		"County" : "CALDWELL",
+		"City" : "COLUMBIA",
+		"State" : "LA",
+		"Latitude" : "+32.102189"
+	},
+	{
+		"Longitude" : "-093.690163",
+		"Zipcode" : "71419",
+		"ZipClass" : "STANDARD",
+		"County" : "SABINE",
+		"City" : "CONVERSE",
+		"State" : "LA",
+		"Latitude" : "+31.733858"
+	},
+	{
+		"Longitude" : "-092.565469",
+		"Zipcode" : "71422",
+		"ZipClass" : "STANDARD",
+		"County" : "WINN",
+		"City" : "DODSON",
+		"State" : "LA",
+		"Latitude" : "+32.072883"
+	},
+	{
+		"Longitude" : "-092.673718",
+		"Zipcode" : "71423",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "DRY PRONG",
+		"State" : "LA",
+		"Latitude" : "+31.552466"
+	},
+	{
+		"Longitude" : "-092.700294",
+		"Zipcode" : "71424",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "ELMER",
+		"State" : "LA",
+		"Latitude" : "+31.178183"
+	},
+	{
+		"Longitude" : "-091.922802",
+		"Zipcode" : "71425",
+		"ZipClass" : "STANDARD",
+		"County" : "CATAHOULA",
+		"City" : "ENTERPRISE",
+		"State" : "LA",
+		"Latitude" : "+31.920835"
+	},
+	{
+		"Longitude" : "-093.464539",
+		"Zipcode" : "71426",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SABINE",
+		"City" : "FISHER",
+		"State" : "LA",
+		"Latitude" : "+31.493332"
+	},
+	{
+		"Longitude" : "-092.893591",
+		"Zipcode" : "71427",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "FLATWOODS",
+		"State" : "LA",
+		"Latitude" : "+31.375488"
+	},
+	{
+		"Longitude" : "-093.097958",
+		"Zipcode" : "71428",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATCHITOCHES",
+		"City" : "FLORA",
+		"State" : "LA",
+		"Latitude" : "+31.612444"
+	},
+	{
+		"Longitude" : "-093.430975",
+		"Zipcode" : "71429",
+		"ZipClass" : "STANDARD",
+		"County" : "SABINE",
+		"City" : "FLORIEN",
+		"State" : "LA",
+		"Latitude" : "+31.343315"
+	},
+	{
+		"Longitude" : "-092.448853",
+		"Zipcode" : "71430",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "FOREST HILL",
+		"State" : "LA",
+		"Latitude" : "+31.157736"
+	},
+	{
+		"Longitude" : "-092.677545",
+		"Zipcode" : "71431",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "GARDNER",
+		"State" : "LA",
+		"Latitude" : "+31.258681"
+	},
+	{
+		"Longitude" : "-092.470407",
+		"Zipcode" : "71432",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "GEORGETOWN",
+		"State" : "LA",
+		"Latitude" : "+31.648593"
+	},
+	{
+		"Longitude" : "-092.616008",
+		"Zipcode" : "71433",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "GLENMORA",
+		"State" : "LA",
+		"Latitude" : "+31.026188"
+	},
+	{
+		"Longitude" : "-092.998576",
+		"Zipcode" : "71434",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATCHITOCHES",
+		"City" : "GORUM",
+		"State" : "LA",
+		"Latitude" : "+31.503751"
+	},
+	{
+		"Longitude" : "-092.169835",
+		"Zipcode" : "71435",
+		"ZipClass" : "STANDARD",
+		"County" : "CALDWELL",
+		"City" : "GRAYSON",
+		"State" : "LA",
+		"Latitude" : "+32.066996"
+	},
+	{
+		"Longitude" : "-092.737515",
+		"Zipcode" : "71438",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "HINESTON",
+		"State" : "LA",
+		"Latitude" : "+31.166914"
+	},
+	{
+		"Longitude" : "-093.221228",
+		"Zipcode" : "71439",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "HORNBECK",
+		"State" : "LA",
+		"Latitude" : "+31.316133"
+	},
+	{
+		"Longitude" : "-092.565884",
+		"Zipcode" : "71440",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINN",
+		"City" : "JOYCE",
+		"State" : "LA",
+		"Latitude" : "+31.951166"
+	},
+	{
+		"Longitude" : "-092.182480",
+		"Zipcode" : "71441",
+		"ZipClass" : "STANDARD",
+		"County" : "CALDWELL",
+		"City" : "KELLY",
+		"State" : "LA",
+		"Latitude" : "+31.964848"
+	},
+	{
+		"Longitude" : "-093.361238",
+		"Zipcode" : "71443",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERNON",
+		"City" : "KURTHWOOD",
+		"State" : "LA",
+		"Latitude" : "+31.101900"
+	},
+	{
+		"Longitude" : "-093.104943",
+		"Zipcode" : "71444",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "LACAMP",
+		"State" : "LA",
+		"Latitude" : "+31.120174"
+	},
+	{
+		"Longitude" : "-093.173622",
+		"Zipcode" : "71446",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "LEESVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.125636"
+	},
+	{
+		"Longitude" : "-092.792811",
+		"Zipcode" : "71447",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "LENA",
+		"State" : "LA",
+		"Latitude" : "+31.361027"
+	},
+	{
+		"Longitude" : "-092.526927",
+		"Zipcode" : "71448",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RAPIDES",
+		"City" : "LONGLEAF",
+		"State" : "LA",
+		"Latitude" : "+31.203393"
+	},
+	{
+		"Longitude" : "-093.511550",
+		"Zipcode" : "71449",
+		"ZipClass" : "STANDARD",
+		"County" : "SABINE",
+		"City" : "MANY",
+		"State" : "LA",
+		"Latitude" : "+31.530019"
+	},
+	{
+		"Longitude" : "-093.361235",
+		"Zipcode" : "71450",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "MARTHAVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.786990"
+	},
+	{
+		"Longitude" : "-093.171095",
+		"Zipcode" : "71452",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "MELROSE",
+		"State" : "LA",
+		"Latitude" : "+31.679336"
+	},
+	{
+		"Longitude" : "-092.660865",
+		"Zipcode" : "71454",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MONTGOMERY",
+		"State" : "LA",
+		"Latitude" : "+31.671495"
+	},
+	{
+		"Longitude" : "-092.953251",
+		"Zipcode" : "71455",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "MORA",
+		"State" : "LA",
+		"Latitude" : "+31.423432"
+	},
+	{
+		"Longitude" : "-093.072487",
+		"Zipcode" : "71456",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "NATCHEZ",
+		"State" : "LA",
+		"Latitude" : "+31.690431"
+	},
+	{
+		"Longitude" : "-093.109141",
+		"Zipcode" : "71457",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "NATCHITOCHES",
+		"State" : "LA",
+		"Latitude" : "+31.709880"
+	},
+	{
+		"Longitude" : "-093.079055",
+		"Zipcode" : "71458",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "NATCHITOCHES",
+		"State" : "LA",
+		"Latitude" : "+31.747563"
+	},
+	{
+		"Longitude" : "-093.234790",
+		"Zipcode" : "71459",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "LEESVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.029825"
+	},
+	{
+		"Longitude" : "-093.621234",
+		"Zipcode" : "71460",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SABINE",
+		"City" : "NEGREET",
+		"State" : "LA",
+		"Latitude" : "+31.448907"
+	},
+	{
+		"Longitude" : "-093.311433",
+		"Zipcode" : "71461",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "NEWLLANO",
+		"State" : "LA",
+		"Latitude" : "+31.096279"
+	},
+	{
+		"Longitude" : "-093.709535",
+		"Zipcode" : "71462",
+		"ZipClass" : "STANDARD",
+		"County" : "SABINE",
+		"City" : "NOBLE",
+		"State" : "LA",
+		"Latitude" : "+31.699522"
+	},
+	{
+		"Longitude" : "-092.771752",
+		"Zipcode" : "71463",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "OAKDALE",
+		"State" : "LA",
+		"Latitude" : "+30.769826"
+	},
+	{
+		"Longitude" : "-092.208993",
+		"Zipcode" : "71465",
+		"ZipClass" : "STANDARD",
+		"County" : "LA SALLE",
+		"City" : "OLLA",
+		"State" : "LA",
+		"Latitude" : "+31.805736"
+	},
+	{
+		"Longitude" : "-092.637241",
+		"Zipcode" : "71466",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "OTIS",
+		"State" : "LA",
+		"Latitude" : "+31.200683"
+	},
+	{
+		"Longitude" : "-092.396314",
+		"Zipcode" : "71467",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "POLLOCK",
+		"State" : "LA",
+		"Latitude" : "+31.566680"
+	},
+	{
+		"Longitude" : "-093.118485",
+		"Zipcode" : "71468",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "PROVENCAL",
+		"State" : "LA",
+		"Latitude" : "+31.583252"
+	},
+	{
+		"Longitude" : "-093.186289",
+		"Zipcode" : "71469",
+		"ZipClass" : "STANDARD",
+		"County" : "NATCHITOCHES",
+		"City" : "ROBELINE",
+		"State" : "LA",
+		"Latitude" : "+31.633931"
+	},
+	{
+		"Longitude" : "-092.927989",
+		"Zipcode" : "71471",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINN",
+		"City" : "SAINT MAURICE",
+		"State" : "LA",
+		"Latitude" : "+31.749699"
+	},
+	{
+		"Longitude" : "-092.785799",
+		"Zipcode" : "71472",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "SIEPER",
+		"State" : "LA",
+		"Latitude" : "+31.197632"
+	},
+	{
+		"Longitude" : "-092.449469",
+		"Zipcode" : "71473",
+		"ZipClass" : "STANDARD",
+		"County" : "WINN",
+		"City" : "SIKES",
+		"State" : "LA",
+		"Latitude" : "+32.042737"
+	},
+	{
+		"Longitude" : "-093.016983",
+		"Zipcode" : "71474",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERNON",
+		"City" : "SIMPSON",
+		"State" : "LA",
+		"Latitude" : "+31.257037"
+	},
+	{
+		"Longitude" : "-093.200936",
+		"Zipcode" : "71475",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERNON",
+		"City" : "SLAGLE",
+		"State" : "LA",
+		"Latitude" : "+31.111979"
+	},
+	{
+		"Longitude" : "-092.604193",
+		"Zipcode" : "71477",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RAPIDES",
+		"City" : "TIOGA",
+		"State" : "LA",
+		"Latitude" : "+31.399855"
+	},
+	{
+		"Longitude" : "-092.291333",
+		"Zipcode" : "71479",
+		"ZipClass" : "STANDARD",
+		"County" : "LA SALLE",
+		"City" : "TULLOS",
+		"State" : "LA",
+		"Latitude" : "+31.861954"
+	},
+	{
+		"Longitude" : "-092.291463",
+		"Zipcode" : "71480",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LA SALLE",
+		"City" : "URANIA",
+		"State" : "LA",
+		"Latitude" : "+31.864998"
+	},
+	{
+		"Longitude" : "-092.584830",
+		"Zipcode" : "71481",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "VERDA",
+		"State" : "LA",
+		"Latitude" : "+31.592547"
+	},
+	{
+		"Longitude" : "-092.669269",
+		"Zipcode" : "71483",
+		"ZipClass" : "STANDARD",
+		"County" : "WINN",
+		"City" : "WINNFIELD",
+		"State" : "LA",
+		"Latitude" : "+31.914948"
+	},
+	{
+		"Longitude" : "-092.532189",
+		"Zipcode" : "71485",
+		"ZipClass" : "STANDARD",
+		"County" : "RAPIDES",
+		"City" : "WOODWORTH",
+		"State" : "LA",
+		"Latitude" : "+31.163485"
+	},
+	{
+		"Longitude" : "-093.637939",
+		"Zipcode" : "71486",
+		"ZipClass" : "STANDARD",
+		"County" : "SABINE",
+		"City" : "ZWOLLE",
+		"State" : "LA",
+		"Latitude" : "+31.641760"
+	},
+	{
+		"Longitude" : "-093.289988",
+		"Zipcode" : "71496",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "LEESVILLE",
+		"State" : "LA",
+		"Latitude" : "+31.110298"
+	},
+	{
+		"Longitude" : "-093.079055",
+		"Zipcode" : "71497",
+		"ZipClass" : "UNIQUE",
+		"County" : "NATCHITOCHES",
+		"City" : "NATCHITOCHES",
+		"State" : "LA",
+		"Latitude" : "+31.747563"
+	}
+]}

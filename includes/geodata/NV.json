@@ -1,0 +1,2046 @@
+{
+	"result":[
+	{
+		"Longitude" : "-114.819717",
+		"Zipcode" : "88901",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "THE LAKES",
+		"State" : "NV",
+		"Latitude" : "+36.322484"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "88905",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "THE LAKES",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-115.143709",
+		"Zipcode" : "89001",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ALAMO",
+		"State" : "NV",
+		"Latitude" : "+37.472491"
+	},
+	{
+		"Longitude" : "-116.609372",
+		"Zipcode" : "89003",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NYE",
+		"City" : "BEATTY",
+		"State" : "NV",
+		"Latitude" : "+36.819857"
+	},
+	{
+		"Longitude" : "-115.608969",
+		"Zipcode" : "89004",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "BLUE DIAMOND",
+		"State" : "NV",
+		"Latitude" : "+36.088098"
+	},
+	{
+		"Longitude" : "-114.829520",
+		"Zipcode" : "89005",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "BOULDER CITY",
+		"State" : "NV",
+		"Latitude" : "+36.020563"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89006",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "BOULDER CITY",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.128106",
+		"Zipcode" : "89007",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "BUNKERVILLE",
+		"State" : "NV",
+		"Latitude" : "+36.768399"
+	},
+	{
+		"Longitude" : "-114.431896",
+		"Zipcode" : "89008",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CALIENTE",
+		"State" : "NV",
+		"Latitude" : "+38.017162"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89009",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-117.604871",
+		"Zipcode" : "89010",
+		"ZipClass" : "STANDARD",
+		"County" : "ESMERALDA",
+		"City" : "DYER",
+		"State" : "NV",
+		"Latitude" : "+37.585111"
+	},
+	{
+		"Longitude" : "-114.919174",
+		"Zipcode" : "89011",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : "+36.106464"
+	},
+	{
+		"Longitude" : "-115.141185",
+		"Zipcode" : "89012",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : "+36.075327"
+	},
+	{
+		"Longitude" : "-117.796454",
+		"Zipcode" : "89013",
+		"ZipClass" : "STANDARD",
+		"County" : "ESMERALDA",
+		"City" : "GOLDFIELD",
+		"State" : "NV",
+		"Latitude" : "+37.722454"
+	},
+	{
+		"Longitude" : "-114.804393",
+		"Zipcode" : "89014",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : "+36.283135"
+	},
+	{
+		"Longitude" : "-115.193902",
+		"Zipcode" : "89015",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : "+35.983950"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89016",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-115.226154",
+		"Zipcode" : "89017",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HIKO",
+		"State" : "NV",
+		"Latitude" : "+37.592635"
+	},
+	{
+		"Longitude" : "-115.535079",
+		"Zipcode" : "89018",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "INDIAN SPRINGS",
+		"State" : "NV",
+		"Latitude" : "+36.431289"
+	},
+	{
+		"Longitude" : "-115.540529",
+		"Zipcode" : "89019",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "JEAN",
+		"State" : "NV",
+		"Latitude" : "+35.736806"
+	},
+	{
+		"Longitude" : "-116.549634",
+		"Zipcode" : "89020",
+		"ZipClass" : "STANDARD",
+		"County" : "NYE",
+		"City" : "AMARGOSA VALLEY",
+		"State" : "NV",
+		"Latitude" : "+36.539018"
+	},
+	{
+		"Longitude" : "-114.468251",
+		"Zipcode" : "89021",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "LOGANDALE",
+		"State" : "NV",
+		"Latitude" : "+36.593525"
+	},
+	{
+		"Longitude" : "-116.310045",
+		"Zipcode" : "89022",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NYE",
+		"City" : "MANHATTAN",
+		"State" : "NV",
+		"Latitude" : "+38.702281"
+	},
+	{
+		"Longitude" : "-116.598559",
+		"Zipcode" : "89023",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NYE",
+		"City" : "MERCURY",
+		"State" : "NV",
+		"Latitude" : "+37.583805"
+	},
+	{
+		"Longitude" : "-114.072236",
+		"Zipcode" : "89024",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "MESQUITE",
+		"State" : "NV",
+		"Latitude" : "+36.810062"
+	},
+	{
+		"Longitude" : "-114.651381",
+		"Zipcode" : "89025",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "MOAPA",
+		"State" : "NV",
+		"Latitude" : "+36.691647"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89026",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "JEAN",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.728855",
+		"Zipcode" : "89027",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "MESQUITE",
+		"State" : "NV",
+		"Latitude" : "+36.437362"
+	},
+	{
+		"Longitude" : "-114.746447",
+		"Zipcode" : "89028",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAUGHLIN",
+		"State" : "NV",
+		"Latitude" : "+35.160398"
+	},
+	{
+		"Longitude" : "-114.675298",
+		"Zipcode" : "89029",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAUGHLIN",
+		"State" : "NV",
+		"Latitude" : "+35.819678"
+	},
+	{
+		"Longitude" : "-115.154310",
+		"Zipcode" : "89030",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NORTH LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.225271"
+	},
+	{
+		"Longitude" : "-115.143685",
+		"Zipcode" : "89031",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NORTH LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.277966"
+	},
+	{
+		"Longitude" : "-115.170919",
+		"Zipcode" : "89032",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NORTH LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.217968"
+	},
+	{
+		"Longitude" : "-115.134488",
+		"Zipcode" : "89033",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NORTH LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.284511"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89036",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NORTH LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.871384",
+		"Zipcode" : "89039",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "CAL NEV ARI",
+		"State" : "NV",
+		"Latitude" : "+35.252249"
+	},
+	{
+		"Longitude" : "-114.473191",
+		"Zipcode" : "89040",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "OVERTON",
+		"State" : "NV",
+		"Latitude" : "+36.570259"
+	},
+	{
+		"Longitude" : "-116.004795",
+		"Zipcode" : "89041",
+		"ZipClass" : "STANDARD",
+		"County" : "NYE",
+		"City" : "PAHRUMP",
+		"State" : "NV",
+		"Latitude" : "+36.655797"
+	},
+	{
+		"Longitude" : "-114.972405",
+		"Zipcode" : "89042",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "PANACA",
+		"State" : "NV",
+		"Latitude" : "+37.759736"
+	},
+	{
+		"Longitude" : "-114.972405",
+		"Zipcode" : "89043",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "PIOCHE",
+		"State" : "NV",
+		"Latitude" : "+37.759736"
+	},
+	{
+		"Longitude" : "-116.598559",
+		"Zipcode" : "89045",
+		"ZipClass" : "STANDARD",
+		"County" : "NYE",
+		"City" : "ROUND MOUNTAIN",
+		"State" : "NV",
+		"Latitude" : "+37.583805"
+	},
+	{
+		"Longitude" : "-114.892999",
+		"Zipcode" : "89046",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "SEARCHLIGHT",
+		"State" : "NV",
+		"Latitude" : "+35.332725"
+	},
+	{
+		"Longitude" : "-117.796454",
+		"Zipcode" : "89047",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ESMERALDA",
+		"City" : "SILVERPEAK",
+		"State" : "NV",
+		"Latitude" : "+37.722454"
+	},
+	{
+		"Longitude" : "-116.160572",
+		"Zipcode" : "89048",
+		"ZipClass" : "STANDARD",
+		"County" : "NYE",
+		"City" : "PAHRUMP",
+		"State" : "NV",
+		"Latitude" : "+36.242371"
+	},
+	{
+		"Longitude" : "-116.624808",
+		"Zipcode" : "89049",
+		"ZipClass" : "STANDARD",
+		"County" : "NYE",
+		"City" : "TONOPAH",
+		"State" : "NV",
+		"Latitude" : "+38.262575"
+	},
+	{
+		"Longitude" : "-115.116652",
+		"Zipcode" : "89052",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : "+35.987798"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89053",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "89060",
+		"ZipClass" : "STANDARD",
+		"County" : "NYE",
+		"City" : "PAHRUMP",
+		"State" : "NV",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "89061",
+		"ZipClass" : "STANDARD",
+		"County" : "NYE",
+		"City" : "PAHRUMP",
+		"State" : "NV",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89070",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "INDIAN SPRINGS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "89074",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "89077",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "HENDERSON",
+		"State" : "NV",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "89084",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NORTH LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "89086",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NORTH LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-115.106470",
+		"Zipcode" : "89101",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.173720"
+	},
+	{
+		"Longitude" : "-115.390646",
+		"Zipcode" : "89102",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.281327"
+	},
+	{
+		"Longitude" : "-114.891987",
+		"Zipcode" : "89103",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.336890"
+	},
+	{
+		"Longitude" : "-115.106002",
+		"Zipcode" : "89104",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.113372"
+	},
+	{
+		"Longitude" : "-115.167635",
+		"Zipcode" : "89106",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.181169"
+	},
+	{
+		"Longitude" : "-115.208529",
+		"Zipcode" : "89107",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.169069"
+	},
+	{
+		"Longitude" : "-115.214037",
+		"Zipcode" : "89108",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.218667"
+	},
+	{
+		"Longitude" : "-115.405210",
+		"Zipcode" : "89109",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.989223"
+	},
+	{
+		"Longitude" : "-115.125031",
+		"Zipcode" : "89110",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.183652"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89111",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-115.025559",
+		"Zipcode" : "89112",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.157764"
+	},
+	{
+		"Longitude" : "-115.289522",
+		"Zipcode" : "89113",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.057605"
+	},
+	{
+		"Longitude" : "-115.101508",
+		"Zipcode" : "89114",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.011339"
+	},
+	{
+		"Longitude" : "-115.064105",
+		"Zipcode" : "89115",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.220075"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89116",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-115.217932",
+		"Zipcode" : "89117",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.130992"
+	},
+	{
+		"Longitude" : "-115.233131",
+		"Zipcode" : "89118",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.030073"
+	},
+	{
+		"Longitude" : "-115.148313",
+		"Zipcode" : "89119",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.089022"
+	},
+	{
+		"Longitude" : "-115.367158",
+		"Zipcode" : "89120",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.310827"
+	},
+	{
+		"Longitude" : "-115.091530",
+		"Zipcode" : "89121",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.122271"
+	},
+	{
+		"Longitude" : "-114.989134",
+		"Zipcode" : "89122",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.111224"
+	},
+	{
+		"Longitude" : "-115.157513",
+		"Zipcode" : "89123",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.988844"
+	},
+	{
+		"Longitude" : "-115.369128",
+		"Zipcode" : "89124",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.167987"
+	},
+	{
+		"Longitude" : "-115.265529",
+		"Zipcode" : "89125",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.223528"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89126",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89127",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-115.240180",
+		"Zipcode" : "89128",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.119038"
+	},
+	{
+		"Longitude" : "-115.178996",
+		"Zipcode" : "89129",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.794298"
+	},
+	{
+		"Longitude" : "-115.222064",
+		"Zipcode" : "89130",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.246153"
+	},
+	{
+		"Longitude" : "-115.253899",
+		"Zipcode" : "89131",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.343521"
+	},
+	{
+		"Longitude" : "-115.151937",
+		"Zipcode" : "89132",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.018981"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89133",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-115.342404",
+		"Zipcode" : "89134",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.126524"
+	},
+	{
+		"Longitude" : "-115.326081",
+		"Zipcode" : "89135",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.137829"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89137",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89138",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-115.211805",
+		"Zipcode" : "89139",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.012873"
+	},
+	{
+		"Longitude" : "-115.207290",
+		"Zipcode" : "89141",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.010397"
+	},
+	{
+		"Longitude" : "-115.040429",
+		"Zipcode" : "89142",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.147978"
+	},
+	{
+		"Longitude" : "-115.261939",
+		"Zipcode" : "89143",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.317804"
+	},
+	{
+		"Longitude" : "-115.318350",
+		"Zipcode" : "89144",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.178088"
+	},
+	{
+		"Longitude" : "-115.282751",
+		"Zipcode" : "89145",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.169273"
+	},
+	{
+		"Longitude" : "-115.224185",
+		"Zipcode" : "89146",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.142369"
+	},
+	{
+		"Longitude" : "-115.243814",
+		"Zipcode" : "89147",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.159421"
+	},
+	{
+		"Longitude" : "-115.272463",
+		"Zipcode" : "89148",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.062903"
+	},
+	{
+		"Longitude" : "-115.288521",
+		"Zipcode" : "89149",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.276465"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89150",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89151",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89152",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89153",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89154",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89155",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-115.036376",
+		"Zipcode" : "89156",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+36.203430"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89159",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89160",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89163",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "THE LAKES",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89164",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89170",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89173",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89177",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89180",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89185",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89191",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NELLIS AFB",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89193",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89195",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.972061",
+		"Zipcode" : "89199",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LAS VEGAS",
+		"State" : "NV",
+		"Latitude" : "+35.927901"
+	},
+	{
+		"Longitude" : "-114.840433",
+		"Zipcode" : "89301",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE PINE",
+		"City" : "ELY",
+		"State" : "NV",
+		"Latitude" : "+39.314155"
+	},
+	{
+		"Longitude" : "-117.196690",
+		"Zipcode" : "89310",
+		"ZipClass" : "STANDARD",
+		"County" : "LANDER",
+		"City" : "AUSTIN",
+		"State" : "NV",
+		"Latitude" : "+40.046976"
+	},
+	{
+		"Longitude" : "-114.243831",
+		"Zipcode" : "89311",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE PINE",
+		"City" : "BAKER",
+		"State" : "NV",
+		"Latitude" : "+38.955899"
+	},
+	{
+		"Longitude" : "-114.977022",
+		"Zipcode" : "89314",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE PINE",
+		"City" : "DUCKWATER",
+		"State" : "NV",
+		"Latitude" : "+39.402924"
+	},
+	{
+		"Longitude" : "-114.824507",
+		"Zipcode" : "89315",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE PINE",
+		"City" : "ELY",
+		"State" : "NV",
+		"Latitude" : "+39.332636"
+	},
+	{
+		"Longitude" : "-115.993806",
+		"Zipcode" : "89316",
+		"ZipClass" : "STANDARD",
+		"County" : "EUREKA",
+		"City" : "EUREKA",
+		"State" : "NV",
+		"Latitude" : "+39.547797"
+	},
+	{
+		"Longitude" : "-115.006865",
+		"Zipcode" : "89317",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITE PINE",
+		"City" : "LUND",
+		"State" : "NV",
+		"Latitude" : "+38.864122"
+	},
+	{
+		"Longitude" : "-114.779100",
+		"Zipcode" : "89318",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITE PINE",
+		"City" : "MC GILL",
+		"State" : "NV",
+		"Latitude" : "+39.403429"
+	},
+	{
+		"Longitude" : "-114.885945",
+		"Zipcode" : "89319",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITE PINE",
+		"City" : "RUTH",
+		"State" : "NV",
+		"Latitude" : "+39.342631"
+	},
+	{
+		"Longitude" : "-119.971133",
+		"Zipcode" : "89402",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "CRYSTAL BAY",
+		"State" : "NV",
+		"Latitude" : "+39.239457"
+	},
+	{
+		"Longitude" : "-119.482264",
+		"Zipcode" : "89403",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "DAYTON",
+		"State" : "NV",
+		"Latitude" : "+39.103007"
+	},
+	{
+		"Longitude" : "-118.174506",
+		"Zipcode" : "89404",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUMBOLDT",
+		"City" : "DENIO",
+		"State" : "NV",
+		"Latitude" : "+41.263287"
+	},
+	{
+		"Longitude" : "-119.348515",
+		"Zipcode" : "89405",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHOE",
+		"City" : "EMPIRE",
+		"State" : "NV",
+		"Latitude" : "+40.613152"
+	},
+	{
+		"Longitude" : "-118.296879",
+		"Zipcode" : "89406",
+		"ZipClass" : "STANDARD",
+		"County" : "CHURCHILL",
+		"City" : "FALLON",
+		"State" : "NV",
+		"Latitude" : "+39.479393"
+	},
+	{
+		"Longitude" : "-118.842431",
+		"Zipcode" : "89407",
+		"ZipClass" : "STANDARD",
+		"County" : "CHURCHILL",
+		"City" : "FALLON",
+		"State" : "NV",
+		"Latitude" : "+39.525628"
+	},
+	{
+		"Longitude" : "-119.196644",
+		"Zipcode" : "89408",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "FERNLEY",
+		"State" : "NV",
+		"Latitude" : "+39.489212"
+	},
+	{
+		"Longitude" : "-117.928173",
+		"Zipcode" : "89409",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NYE",
+		"City" : "GABBS",
+		"State" : "NV",
+		"Latitude" : "+38.863664"
+	},
+	{
+		"Longitude" : "-119.649498",
+		"Zipcode" : "89410",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "GARDNERVILLE",
+		"State" : "NV",
+		"Latitude" : "+38.818277"
+	},
+	{
+		"Longitude" : "-119.822837",
+		"Zipcode" : "89411",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "GENOA",
+		"State" : "NV",
+		"Latitude" : "+39.034129"
+	},
+	{
+		"Longitude" : "-119.356505",
+		"Zipcode" : "89412",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHOE",
+		"City" : "GERLACH",
+		"State" : "NV",
+		"Latitude" : "+40.652505"
+	},
+	{
+		"Longitude" : "-119.942771",
+		"Zipcode" : "89413",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "GLENBROOK",
+		"State" : "NV",
+		"Latitude" : "+39.050936"
+	},
+	{
+		"Longitude" : "-117.494182",
+		"Zipcode" : "89414",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMBOLDT",
+		"City" : "GOLCONDA",
+		"State" : "NV",
+		"Latitude" : "+40.950867"
+	},
+	{
+		"Longitude" : "-118.690644",
+		"Zipcode" : "89415",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "HAWTHORNE",
+		"State" : "NV",
+		"Latitude" : "+38.576848"
+	},
+	{
+		"Longitude" : "-118.288693",
+		"Zipcode" : "89418",
+		"ZipClass" : "STANDARD",
+		"County" : "PERSHING",
+		"City" : "IMLAY",
+		"State" : "NV",
+		"Latitude" : "+40.649475"
+	},
+	{
+		"Longitude" : "-118.400276",
+		"Zipcode" : "89419",
+		"ZipClass" : "STANDARD",
+		"County" : "PERSHING",
+		"City" : "LOVELOCK",
+		"State" : "NV",
+		"Latitude" : "+40.251285"
+	},
+	{
+		"Longitude" : "-118.423999",
+		"Zipcode" : "89420",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "LUNING",
+		"State" : "NV",
+		"Latitude" : "+38.484178"
+	},
+	{
+		"Longitude" : "-117.673683",
+		"Zipcode" : "89421",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUMBOLDT",
+		"City" : "MC DERMITT",
+		"State" : "NV",
+		"Latitude" : "+41.970838"
+	},
+	{
+		"Longitude" : "-118.109585",
+		"Zipcode" : "89422",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINERAL",
+		"City" : "MINA",
+		"State" : "NV",
+		"Latitude" : "+38.387008"
+	},
+	{
+		"Longitude" : "-119.729731",
+		"Zipcode" : "89423",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "MINDEN",
+		"State" : "NV",
+		"Latitude" : "+39.008718"
+	},
+	{
+		"Longitude" : "-119.360545",
+		"Zipcode" : "89424",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHOE",
+		"City" : "NIXON",
+		"State" : "NV",
+		"Latitude" : "+39.827156"
+	},
+	{
+		"Longitude" : "-118.174506",
+		"Zipcode" : "89425",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMBOLDT",
+		"City" : "OROVADA",
+		"State" : "NV",
+		"Latitude" : "+41.263287"
+	},
+	{
+		"Longitude" : "-118.174506",
+		"Zipcode" : "89426",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUMBOLDT",
+		"City" : "PARADISE VALLEY",
+		"State" : "NV",
+		"Latitude" : "+41.263287"
+	},
+	{
+		"Longitude" : "-118.833128",
+		"Zipcode" : "89427",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINERAL",
+		"City" : "SCHURZ",
+		"State" : "NV",
+		"Latitude" : "+38.970781"
+	},
+	{
+		"Longitude" : "-119.638802",
+		"Zipcode" : "89428",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LYON",
+		"City" : "SILVER CITY",
+		"State" : "NV",
+		"Latitude" : "+39.265240"
+	},
+	{
+		"Longitude" : "-119.391468",
+		"Zipcode" : "89429",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "SILVER SPRINGS",
+		"State" : "NV",
+		"Latitude" : "+39.439405"
+	},
+	{
+		"Longitude" : "-119.302929",
+		"Zipcode" : "89430",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "SMITH",
+		"State" : "NV",
+		"Latitude" : "+38.773292"
+	},
+	{
+		"Longitude" : "-119.640601",
+		"Zipcode" : "89431",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "SPARKS",
+		"State" : "NV",
+		"Latitude" : "+40.039169"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89432",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "SPARKS",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.804924",
+		"Zipcode" : "89433",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "SUN VALLEY",
+		"State" : "NV",
+		"Latitude" : "+39.748304"
+	},
+	{
+		"Longitude" : "-119.716747",
+		"Zipcode" : "89434",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "SPARKS",
+		"State" : "NV",
+		"Latitude" : "+39.591728"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89435",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "SPARKS",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.659053",
+		"Zipcode" : "89436",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "SPARKS",
+		"State" : "NV",
+		"Latitude" : "+39.651879"
+	},
+	{
+		"Longitude" : "-118.174506",
+		"Zipcode" : "89438",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUMBOLDT",
+		"City" : "VALMY",
+		"State" : "NV",
+		"Latitude" : "+41.263287"
+	},
+	{
+		"Longitude" : "-119.983252",
+		"Zipcode" : "89439",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHOE",
+		"City" : "VERDI",
+		"State" : "NV",
+		"Latitude" : "+39.516486"
+	},
+	{
+		"Longitude" : "-119.613509",
+		"Zipcode" : "89440",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STOREY",
+		"City" : "VIRGINIA CITY",
+		"State" : "NV",
+		"Latitude" : "+39.332488"
+	},
+	{
+		"Longitude" : "-119.302787",
+		"Zipcode" : "89442",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHOE",
+		"City" : "WADSWORTH",
+		"State" : "NV",
+		"Latitude" : "+39.639846"
+	},
+	{
+		"Longitude" : "-119.352280",
+		"Zipcode" : "89444",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "WELLINGTON",
+		"State" : "NV",
+		"Latitude" : "+38.844747"
+	},
+	{
+		"Longitude" : "-117.706799",
+		"Zipcode" : "89445",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMBOLDT",
+		"City" : "WINNEMUCCA",
+		"State" : "NV",
+		"Latitude" : "+41.213481"
+	},
+	{
+		"Longitude" : "-117.760165",
+		"Zipcode" : "89446",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMBOLDT",
+		"City" : "WINNEMUCCA",
+		"State" : "NV",
+		"Latitude" : "+41.076358"
+	},
+	{
+		"Longitude" : "-119.228631",
+		"Zipcode" : "89447",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "YERINGTON",
+		"State" : "NV",
+		"Latitude" : "+39.080415"
+	},
+	{
+		"Longitude" : "-119.911397",
+		"Zipcode" : "89448",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "ZEPHYR COVE",
+		"State" : "NV",
+		"Latitude" : "+39.020403"
+	},
+	{
+		"Longitude" : "-119.732977",
+		"Zipcode" : "89449",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "STATELINE",
+		"State" : "NV",
+		"Latitude" : "+38.860647"
+	},
+	{
+		"Longitude" : "-119.946371",
+		"Zipcode" : "89450",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "INCLINE VILLAGE",
+		"State" : "NV",
+		"Latitude" : "+39.256357"
+	},
+	{
+		"Longitude" : "-119.935619",
+		"Zipcode" : "89451",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "INCLINE VILLAGE",
+		"State" : "NV",
+		"Latitude" : "+39.253908"
+	},
+	{
+		"Longitude" : "-119.956585",
+		"Zipcode" : "89452",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "INCLINE VILLAGE",
+		"State" : "NV",
+		"Latitude" : "+39.259103"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "89494",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHOE",
+		"City" : "SPARKS",
+		"State" : "NV",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-118.343592",
+		"Zipcode" : "89496",
+		"ZipClass" : "UNIQUE",
+		"County" : "CHURCHILL",
+		"City" : "FALLON",
+		"State" : "NV",
+		"Latitude" : "+39.537979"
+	},
+	{
+		"Longitude" : "-119.704614",
+		"Zipcode" : "89501",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.655580"
+	},
+	{
+		"Longitude" : "-119.753826",
+		"Zipcode" : "89502",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.579526"
+	},
+	{
+		"Longitude" : "-119.901957",
+		"Zipcode" : "89503",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.547117"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89504",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.835275",
+		"Zipcode" : "89505",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.522410"
+	},
+	{
+		"Longitude" : "-119.811146",
+		"Zipcode" : "89506",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.695488"
+	},
+	{
+		"Longitude" : "-119.816374",
+		"Zipcode" : "89507",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.542310"
+	},
+	{
+		"Longitude" : "-119.857022",
+		"Zipcode" : "89509",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.413458"
+	},
+	{
+		"Longitude" : "-119.604367",
+		"Zipcode" : "89510",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.906211"
+	},
+	{
+		"Longitude" : "-119.805700",
+		"Zipcode" : "89511",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.360265"
+	},
+	{
+		"Longitude" : "-119.879069",
+		"Zipcode" : "89512",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.545363"
+	},
+	{
+		"Longitude" : "-119.293722",
+		"Zipcode" : "89513",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.631922"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89515",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89520",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.639031",
+		"Zipcode" : "89523",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.549297"
+	},
+	{
+		"Longitude" : "-119.906109",
+		"Zipcode" : "89533",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+39.543941"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89557",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89570",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89595",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.586934",
+		"Zipcode" : "89599",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHOE",
+		"City" : "RENO",
+		"State" : "NV",
+		"Latitude" : "+40.541218"
+	},
+	{
+		"Longitude" : "-119.730740",
+		"Zipcode" : "89701",
+		"ZipClass" : "STANDARD",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.154485"
+	},
+	{
+		"Longitude" : "-119.758750",
+		"Zipcode" : "89702",
+		"ZipClass" : "STANDARD",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.135503"
+	},
+	{
+		"Longitude" : "-119.800294",
+		"Zipcode" : "89703",
+		"ZipClass" : "STANDARD",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.164225"
+	},
+	{
+		"Longitude" : "-119.722803",
+		"Zipcode" : "89704",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHOE",
+		"City" : "WASHOE VALLEY",
+		"State" : "NV",
+		"Latitude" : "+39.453739"
+	},
+	{
+		"Longitude" : "-119.805916",
+		"Zipcode" : "89705",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.055424"
+	},
+	{
+		"Longitude" : "-119.752626",
+		"Zipcode" : "89706",
+		"ZipClass" : "STANDARD",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.202517"
+	},
+	{
+		"Longitude" : "-119.776409",
+		"Zipcode" : "89711",
+		"ZipClass" : "UNIQUE",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.167833"
+	},
+	{
+		"Longitude" : "-119.776409",
+		"Zipcode" : "89712",
+		"ZipClass" : "UNIQUE",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.167833"
+	},
+	{
+		"Longitude" : "-119.776409",
+		"Zipcode" : "89713",
+		"ZipClass" : "UNIQUE",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.167833"
+	},
+	{
+		"Longitude" : "-119.776409",
+		"Zipcode" : "89714",
+		"ZipClass" : "UNIQUE",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.167833"
+	},
+	{
+		"Longitude" : "-119.776409",
+		"Zipcode" : "89721",
+		"ZipClass" : "STANDARD",
+		"County" : "CARSON CITY",
+		"City" : "CARSON CITY",
+		"State" : "NV",
+		"Latitude" : "+39.167833"
+	},
+	{
+		"Longitude" : "-115.534429",
+		"Zipcode" : "89801",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "ELKO",
+		"State" : "NV",
+		"Latitude" : "+40.905583"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89802",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "ELKO",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89803",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "ELKO",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-115.595581",
+		"Zipcode" : "89815",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "SPRING CREEK",
+		"State" : "NV",
+		"Latitude" : "+40.751905"
+	},
+	{
+		"Longitude" : "-116.974803",
+		"Zipcode" : "89820",
+		"ZipClass" : "STANDARD",
+		"County" : "LANDER",
+		"City" : "BATTLE MOUNTAIN",
+		"State" : "NV",
+		"Latitude" : "+40.042115"
+	},
+	{
+		"Longitude" : "-116.581275",
+		"Zipcode" : "89821",
+		"ZipClass" : "STANDARD",
+		"County" : "EUREKA",
+		"City" : "CRESCENT VALLEY",
+		"State" : "NV",
+		"Latitude" : "+40.413793"
+	},
+	{
+		"Longitude" : "-116.103154",
+		"Zipcode" : "89822",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "CARLIN",
+		"State" : "NV",
+		"Latitude" : "+40.715931"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89823",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "DEETH",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89824",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ELKO",
+		"City" : "HALLECK",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89825",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "JACKPOT",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89826",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "JARBIDGE",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-115.554233",
+		"Zipcode" : "89828",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "LAMOILLE",
+		"State" : "NV",
+		"Latitude" : "+40.744704"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89830",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ELKO",
+		"City" : "MONTELLO",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89831",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "MOUNTAIN CITY",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-116.007157",
+		"Zipcode" : "89832",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ELKO",
+		"City" : "OWYHEE",
+		"State" : "NV",
+		"Latitude" : "+41.748280"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89833",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "RUBY VALLEY",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-115.529596",
+		"Zipcode" : "89834",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "TUSCARORA",
+		"State" : "NV",
+		"Latitude" : "+41.059414"
+	},
+	{
+		"Longitude" : "-114.821761",
+		"Zipcode" : "89835",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKO",
+		"City" : "WELLS",
+		"State" : "NV",
+		"Latitude" : "+41.543923"
+	},
+	{
+		"Longitude" : "-114.412635",
+		"Zipcode" : "89883",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ELKO",
+		"City" : "WEST WENDOVER",
+		"State" : "NV",
+		"Latitude" : "+40.504545"
+	}
+]}

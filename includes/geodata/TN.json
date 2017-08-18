@@ -1,0 +1,7248 @@
+{
+	"result":[
+	{
+		"Longitude" : "-087.018127",
+		"Zipcode" : "37010",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTSON",
+		"City" : "ADAMS",
+		"State" : "TN",
+		"Latitude" : "+36.556825"
+	},
+	{
+		"Longitude" : "-086.882500",
+		"Zipcode" : "37011",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "ANTIOCH",
+		"State" : "TN",
+		"Latitude" : "+36.170556"
+	},
+	{
+		"Longitude" : "-085.997115",
+		"Zipcode" : "37012",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "ALEXANDRIA",
+		"State" : "TN",
+		"Latitude" : "+36.034524"
+	},
+	{
+		"Longitude" : "-086.645598",
+		"Zipcode" : "37013",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "ANTIOCH",
+		"State" : "TN",
+		"Latitude" : "+36.036032"
+	},
+	{
+		"Longitude" : "-086.663307",
+		"Zipcode" : "37014",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "ARRINGTON",
+		"State" : "TN",
+		"Latitude" : "+35.856609"
+	},
+	{
+		"Longitude" : "-087.083657",
+		"Zipcode" : "37015",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEATHAM",
+		"City" : "ASHLAND CITY",
+		"State" : "TN",
+		"Latitude" : "+36.297807"
+	},
+	{
+		"Longitude" : "-086.112561",
+		"Zipcode" : "37016",
+		"ZipClass" : "STANDARD",
+		"County" : "CANNON",
+		"City" : "AUBURNTOWN",
+		"State" : "TN",
+		"Latitude" : "+35.933832"
+	},
+	{
+		"Longitude" : "-086.183248",
+		"Zipcode" : "37018",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "BEECHGROVE",
+		"State" : "TN",
+		"Latitude" : "+35.643787"
+	},
+	{
+		"Longitude" : "-086.762712",
+		"Zipcode" : "37019",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BELFAST",
+		"State" : "TN",
+		"Latitude" : "+35.431968"
+	},
+	{
+		"Longitude" : "-086.399852",
+		"Zipcode" : "37020",
+		"ZipClass" : "STANDARD",
+		"County" : "BEDFORD",
+		"City" : "BELL BUCKLE",
+		"State" : "TN",
+		"Latitude" : "+35.580793"
+	},
+	{
+		"Longitude" : "-086.460853",
+		"Zipcode" : "37022",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "BETHPAGE",
+		"State" : "TN",
+		"Latitude" : "+36.477191"
+	},
+	{
+		"Longitude" : "-087.774854",
+		"Zipcode" : "37023",
+		"ZipClass" : "STANDARD",
+		"County" : "STEWART",
+		"City" : "BIG ROCK",
+		"State" : "TN",
+		"Latitude" : "+36.580898"
+	},
+	{
+		"Longitude" : "-086.907565",
+		"Zipcode" : "37024",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "BRENTWOOD",
+		"State" : "TN",
+		"Latitude" : "+35.874553"
+	},
+	{
+		"Longitude" : "-087.348964",
+		"Zipcode" : "37025",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "BON AQUA",
+		"State" : "TN",
+		"Latitude" : "+35.921710"
+	},
+	{
+		"Longitude" : "-086.107742",
+		"Zipcode" : "37026",
+		"ZipClass" : "STANDARD",
+		"County" : "CANNON",
+		"City" : "BRADYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.701738"
+	},
+	{
+		"Longitude" : "-086.816058",
+		"Zipcode" : "37027",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "BRENTWOOD",
+		"State" : "TN",
+		"Latitude" : "+35.982981"
+	},
+	{
+		"Longitude" : "-087.843106",
+		"Zipcode" : "37028",
+		"ZipClass" : "STANDARD",
+		"County" : "STEWART",
+		"City" : "BUMPUS MILLS",
+		"State" : "TN",
+		"Latitude" : "+36.584621"
+	},
+	{
+		"Longitude" : "-087.262840",
+		"Zipcode" : "37029",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKSON",
+		"City" : "BURNS",
+		"State" : "TN",
+		"Latitude" : "+36.039122"
+	},
+	{
+		"Longitude" : "-085.951740",
+		"Zipcode" : "37030",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "CARTHAGE",
+		"State" : "TN",
+		"Latitude" : "+36.276278"
+	},
+	{
+		"Longitude" : "-086.310674",
+		"Zipcode" : "37031",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "CASTALIAN SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+36.380555"
+	},
+	{
+		"Longitude" : "-087.008437",
+		"Zipcode" : "37032",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTSON",
+		"City" : "CEDAR HILL",
+		"State" : "TN",
+		"Latitude" : "+36.521638"
+	},
+	{
+		"Longitude" : "-087.502405",
+		"Zipcode" : "37033",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "CENTERVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.750099"
+	},
+	{
+		"Longitude" : "-086.718225",
+		"Zipcode" : "37034",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "CHAPEL HILL",
+		"State" : "TN",
+		"Latitude" : "+35.640617"
+	},
+	{
+		"Longitude" : "-087.112668",
+		"Zipcode" : "37035",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEATHAM",
+		"City" : "CHAPMANSBORO",
+		"State" : "TN",
+		"Latitude" : "+36.376837"
+	},
+	{
+		"Longitude" : "-087.278993",
+		"Zipcode" : "37036",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKSON",
+		"City" : "CHARLOTTE",
+		"State" : "TN",
+		"Latitude" : "+36.232191"
+	},
+	{
+		"Longitude" : "-086.368041",
+		"Zipcode" : "37037",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "CHRISTIANA",
+		"State" : "TN",
+		"Latitude" : "+35.695974"
+	},
+	{
+		"Longitude" : "-087.308491",
+		"Zipcode" : "37040",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CLARKSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.516740"
+	},
+	{
+		"Longitude" : "-087.377197",
+		"Zipcode" : "37041",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CLARKSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.477428"
+	},
+	{
+		"Longitude" : "-087.399188",
+		"Zipcode" : "37042",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CLARKSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.501766"
+	},
+	{
+		"Longitude" : "-087.301283",
+		"Zipcode" : "37043",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CLARKSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.512666"
+	},
+	{
+		"Longitude" : "-087.353008",
+		"Zipcode" : "37044",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CLARKSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.531398"
+	},
+	{
+		"Longitude" : "-086.726133",
+		"Zipcode" : "37046",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "COLLEGE GROVE",
+		"State" : "TN",
+		"Latitude" : "+35.790897"
+	},
+	{
+		"Longitude" : "-086.829364",
+		"Zipcode" : "37047",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "CORNERSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.354815"
+	},
+	{
+		"Longitude" : "-086.528398",
+		"Zipcode" : "37048",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "COTTONTOWN",
+		"State" : "TN",
+		"Latitude" : "+36.485607"
+	},
+	{
+		"Longitude" : "-086.712734",
+		"Zipcode" : "37049",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTSON",
+		"City" : "CROSS PLAINS",
+		"State" : "TN",
+		"Latitude" : "+36.521044"
+	},
+	{
+		"Longitude" : "-087.701641",
+		"Zipcode" : "37050",
+		"ZipClass" : "STANDARD",
+		"County" : "STEWART",
+		"City" : "CUMBERLAND CITY",
+		"State" : "TN",
+		"Latitude" : "+36.452109"
+	},
+	{
+		"Longitude" : "-087.391396",
+		"Zipcode" : "37051",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKSON",
+		"City" : "CUMBERLAND FURNACE",
+		"State" : "TN",
+		"Latitude" : "+36.272071"
+	},
+	{
+		"Longitude" : "-087.376496",
+		"Zipcode" : "37052",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CUNNINGHAM",
+		"State" : "TN",
+		"Latitude" : "+36.398614"
+	},
+	{
+		"Longitude" : "-087.396417",
+		"Zipcode" : "37055",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKSON",
+		"City" : "DICKSON",
+		"State" : "TN",
+		"Latitude" : "+36.141461"
+	},
+	{
+		"Longitude" : "-087.352971",
+		"Zipcode" : "37056",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKSON",
+		"City" : "DICKSON",
+		"State" : "TN",
+		"Latitude" : "+36.146949"
+	},
+	{
+		"Longitude" : "-086.037379",
+		"Zipcode" : "37057",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "DIXON SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+36.358212"
+	},
+	{
+		"Longitude" : "-087.878742",
+		"Zipcode" : "37058",
+		"ZipClass" : "STANDARD",
+		"County" : "STEWART",
+		"City" : "DOVER",
+		"State" : "TN",
+		"Latitude" : "+36.494203"
+	},
+	{
+		"Longitude" : "-085.945143",
+		"Zipcode" : "37059",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "DOWELLTOWN",
+		"State" : "TN",
+		"Latitude" : "+35.993753"
+	},
+	{
+		"Longitude" : "-086.558626",
+		"Zipcode" : "37060",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "EAGLEVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.731680"
+	},
+	{
+		"Longitude" : "-087.749245",
+		"Zipcode" : "37061",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "ERIN",
+		"State" : "TN",
+		"Latitude" : "+36.288768"
+	},
+	{
+		"Longitude" : "-087.135938",
+		"Zipcode" : "37062",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "FAIRVIEW",
+		"State" : "TN",
+		"Latitude" : "+35.978050"
+	},
+	{
+		"Longitude" : "-086.420958",
+		"Zipcode" : "37063",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RUTHERFORD",
+		"City" : "FOSTERVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.859565"
+	},
+	{
+		"Longitude" : "-086.965691",
+		"Zipcode" : "37064",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "FRANKLIN",
+		"State" : "TN",
+		"Latitude" : "+35.890746"
+	},
+	{
+		"Longitude" : "-086.921416",
+		"Zipcode" : "37065",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "FRANKLIN",
+		"State" : "TN",
+		"Latitude" : "+35.895085"
+	},
+	{
+		"Longitude" : "-086.449479",
+		"Zipcode" : "37066",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "GALLATIN",
+		"State" : "TN",
+		"Latitude" : "+36.401201"
+	},
+	{
+		"Longitude" : "-086.765537",
+		"Zipcode" : "37067",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "FRANKLIN",
+		"State" : "TN",
+		"Latitude" : "+35.912072"
+	},
+	{
+		"Longitude" : "-086.907565",
+		"Zipcode" : "37068",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "FRANKLIN",
+		"State" : "TN",
+		"Latitude" : "+35.874553"
+	},
+	{
+		"Longitude" : "-086.910623",
+		"Zipcode" : "37069",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "FRANKLIN",
+		"State" : "TN",
+		"Latitude" : "+35.979553"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37070",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "GOODLETTSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.304922",
+		"Zipcode" : "37071",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILSON",
+		"City" : "GLADEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.156231"
+	},
+	{
+		"Longitude" : "-086.775747",
+		"Zipcode" : "37072",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "GOODLETTSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.341450"
+	},
+	{
+		"Longitude" : "-086.809567",
+		"Zipcode" : "37073",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTSON",
+		"City" : "GREENBRIER",
+		"State" : "TN",
+		"Latitude" : "+36.437397"
+	},
+	{
+		"Longitude" : "-086.143252",
+		"Zipcode" : "37074",
+		"ZipClass" : "STANDARD",
+		"County" : "TROUSDALE",
+		"City" : "HARTSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.402012"
+	},
+	{
+		"Longitude" : "-086.612045",
+		"Zipcode" : "37075",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "HENDERSONVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.347551"
+	},
+	{
+		"Longitude" : "-086.583994",
+		"Zipcode" : "37076",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "HERMITAGE",
+		"State" : "TN",
+		"Latitude" : "+36.153572"
+	},
+	{
+		"Longitude" : "-086.621095",
+		"Zipcode" : "37077",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "HENDERSONVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.304701"
+	},
+	{
+		"Longitude" : "-087.810501",
+		"Zipcode" : "37078",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMPHREYS",
+		"City" : "HURRICANE MILLS",
+		"State" : "TN",
+		"Latitude" : "+35.923959"
+	},
+	{
+		"Longitude" : "-087.697982",
+		"Zipcode" : "37079",
+		"ZipClass" : "STANDARD",
+		"County" : "STEWART",
+		"City" : "INDIAN MOUND",
+		"State" : "TN",
+		"Latitude" : "+36.490214"
+	},
+	{
+		"Longitude" : "-086.899299",
+		"Zipcode" : "37080",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "JOELTON",
+		"State" : "TN",
+		"Latitude" : "+36.326101"
+	},
+	{
+		"Longitude" : "-087.089254",
+		"Zipcode" : "37082",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEATHAM",
+		"City" : "KINGSTON SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+36.189656"
+	},
+	{
+		"Longitude" : "-086.025585",
+		"Zipcode" : "37083",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "LAFAYETTE",
+		"State" : "TN",
+		"Latitude" : "+36.527720"
+	},
+	{
+		"Longitude" : "-086.291678",
+		"Zipcode" : "37085",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "LASCASSAS",
+		"State" : "TN",
+		"Latitude" : "+35.936886"
+	},
+	{
+		"Longitude" : "-086.559194",
+		"Zipcode" : "37086",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "LA VERGNE",
+		"State" : "TN",
+		"Latitude" : "+36.008511"
+	},
+	{
+		"Longitude" : "-086.291167",
+		"Zipcode" : "37087",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "LEBANON",
+		"State" : "TN",
+		"Latitude" : "+36.267266"
+	},
+	{
+		"Longitude" : "-086.304922",
+		"Zipcode" : "37088",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "LEBANON",
+		"State" : "TN",
+		"Latitude" : "+36.156231"
+	},
+	{
+		"Longitude" : "-086.420958",
+		"Zipcode" : "37089",
+		"ZipClass" : "UNIQUE",
+		"County" : "RUTHERFORD",
+		"City" : "LA VERGNE",
+		"State" : "TN",
+		"Latitude" : "+35.859565"
+	},
+	{
+		"Longitude" : "-086.263000",
+		"Zipcode" : "37090",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "LEBANON",
+		"State" : "TN",
+		"Latitude" : "+36.118515"
+	},
+	{
+		"Longitude" : "-086.792003",
+		"Zipcode" : "37091",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "LEWISBURG",
+		"State" : "TN",
+		"Latitude" : "+35.504165"
+	},
+	{
+		"Longitude" : "-085.944738",
+		"Zipcode" : "37095",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "LIBERTY",
+		"State" : "TN",
+		"Latitude" : "+35.999286"
+	},
+	{
+		"Longitude" : "-087.856665",
+		"Zipcode" : "37096",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "LINDEN",
+		"State" : "TN",
+		"Latitude" : "+35.594367"
+	},
+	{
+		"Longitude" : "-087.787992",
+		"Zipcode" : "37097",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "LOBELVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.786732"
+	},
+	{
+		"Longitude" : "-087.312683",
+		"Zipcode" : "37098",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "LYLES",
+		"State" : "TN",
+		"Latitude" : "+35.850248"
+	},
+	{
+		"Longitude" : "-087.659245",
+		"Zipcode" : "37101",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMPHREYS",
+		"City" : "MC EWEN",
+		"State" : "TN",
+		"Latitude" : "+36.066188"
+	},
+	{
+		"Longitude" : "-085.778151",
+		"Zipcode" : "37110",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "MC MINNVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.684033"
+	},
+	{
+		"Longitude" : "-085.777633",
+		"Zipcode" : "37111",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "MC MINNVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.678368"
+	},
+	{
+		"Longitude" : "-086.706296",
+		"Zipcode" : "37115",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "MADISON",
+		"State" : "TN",
+		"Latitude" : "+36.259503"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37116",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "MADISON",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.194870",
+		"Zipcode" : "37118",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "MILTON",
+		"State" : "TN",
+		"Latitude" : "+35.908701"
+	},
+	{
+		"Longitude" : "-086.539028",
+		"Zipcode" : "37119",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUMNER",
+		"City" : "MITCHELLVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.631981"
+	},
+	{
+		"Longitude" : "-086.304922",
+		"Zipcode" : "37121",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "MOUNT JULIET",
+		"State" : "TN",
+		"Latitude" : "+36.156231"
+	},
+	{
+		"Longitude" : "-086.468695",
+		"Zipcode" : "37122",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "MOUNT JULIET",
+		"State" : "TN",
+		"Latitude" : "+36.184603"
+	},
+	{
+		"Longitude" : "-086.372158",
+		"Zipcode" : "37127",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "MURFREESBORO",
+		"State" : "TN",
+		"Latitude" : "+35.762951"
+	},
+	{
+		"Longitude" : "-086.486683",
+		"Zipcode" : "37128",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "MURFREESBORO",
+		"State" : "TN",
+		"Latitude" : "+35.845418"
+	},
+	{
+		"Longitude" : "-086.423535",
+		"Zipcode" : "37129",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "MURFREESBORO",
+		"State" : "TN",
+		"Latitude" : "+35.901746"
+	},
+	{
+		"Longitude" : "-086.357780",
+		"Zipcode" : "37130",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "MURFREESBORO",
+		"State" : "TN",
+		"Latitude" : "+35.886984"
+	},
+	{
+		"Longitude" : "-086.420958",
+		"Zipcode" : "37131",
+		"ZipClass" : "UNIQUE",
+		"County" : "RUTHERFORD",
+		"City" : "MURFREESBORO",
+		"State" : "TN",
+		"Latitude" : "+35.859565"
+	},
+	{
+		"Longitude" : "-086.420958",
+		"Zipcode" : "37132",
+		"ZipClass" : "UNIQUE",
+		"County" : "RUTHERFORD",
+		"City" : "MURFREESBORO",
+		"State" : "TN",
+		"Latitude" : "+35.859565"
+	},
+	{
+		"Longitude" : "-086.420958",
+		"Zipcode" : "37133",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "MURFREESBORO",
+		"State" : "TN",
+		"Latitude" : "+35.859565"
+	},
+	{
+		"Longitude" : "-087.938738",
+		"Zipcode" : "37134",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMPHREYS",
+		"City" : "NEW JOHNSONVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.014193"
+	},
+	{
+		"Longitude" : "-086.675349",
+		"Zipcode" : "37135",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "NOLENSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.925201"
+	},
+	{
+		"Longitude" : "-086.304922",
+		"Zipcode" : "37136",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILSON",
+		"City" : "NORENE",
+		"State" : "TN",
+		"Latitude" : "+36.156231"
+	},
+	{
+		"Longitude" : "-087.491254",
+		"Zipcode" : "37137",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "NUNNELLY",
+		"State" : "TN",
+		"Latitude" : "+35.873344"
+	},
+	{
+		"Longitude" : "-086.633545",
+		"Zipcode" : "37138",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "OLD HICKORY",
+		"State" : "TN",
+		"Latitude" : "+36.137706"
+	},
+	{
+		"Longitude" : "-087.642386",
+		"Zipcode" : "37140",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "ONLY",
+		"State" : "TN",
+		"Latitude" : "+35.877706"
+	},
+	{
+		"Longitude" : "-086.665180",
+		"Zipcode" : "37141",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTSON",
+		"City" : "ORLINDA",
+		"State" : "TN",
+		"Latitude" : "+36.616801"
+	},
+	{
+		"Longitude" : "-087.492837",
+		"Zipcode" : "37142",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "PALMYRA",
+		"State" : "TN",
+		"Latitude" : "+36.402215"
+	},
+	{
+		"Longitude" : "-087.039855",
+		"Zipcode" : "37143",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEATHAM",
+		"City" : "PEGRAM",
+		"State" : "TN",
+		"Latitude" : "+36.135105"
+	},
+	{
+		"Longitude" : "-086.639625",
+		"Zipcode" : "37144",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "PETERSBURG",
+		"State" : "TN",
+		"Latitude" : "+35.285712"
+	},
+	{
+		"Longitude" : "-085.918944",
+		"Zipcode" : "37145",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "PLEASANT SHADE",
+		"State" : "TN",
+		"Latitude" : "+36.346164"
+	},
+	{
+		"Longitude" : "-087.047966",
+		"Zipcode" : "37146",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEATHAM",
+		"City" : "PLEASANT VIEW",
+		"State" : "TN",
+		"Latitude" : "+36.271077"
+	},
+	{
+		"Longitude" : "-087.662335",
+		"Zipcode" : "37147",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "PLEASANTVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.692395"
+	},
+	{
+		"Longitude" : "-086.515887",
+		"Zipcode" : "37148",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "PORTLAND",
+		"State" : "TN",
+		"Latitude" : "+36.547545"
+	},
+	{
+		"Longitude" : "-086.148505",
+		"Zipcode" : "37149",
+		"ZipClass" : "STANDARD",
+		"County" : "CANNON",
+		"City" : "READYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.803620"
+	},
+	{
+		"Longitude" : "-085.866182",
+		"Zipcode" : "37150",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "RED BOILING SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+36.517717"
+	},
+	{
+		"Longitude" : "-086.045992",
+		"Zipcode" : "37151",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "RIDDLETON",
+		"State" : "TN",
+		"Latitude" : "+36.314537"
+	},
+	{
+		"Longitude" : "-086.772247",
+		"Zipcode" : "37152",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROBERTSON",
+		"City" : "RIDGETOP",
+		"State" : "TN",
+		"Latitude" : "+36.402548"
+	},
+	{
+		"Longitude" : "-086.542707",
+		"Zipcode" : "37153",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "ROCKVALE",
+		"State" : "TN",
+		"Latitude" : "+35.766806"
+	},
+	{
+		"Longitude" : "-087.377197",
+		"Zipcode" : "37155",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "SAINT BETHLEHEM",
+		"State" : "TN",
+		"Latitude" : "+36.477428"
+	},
+	{
+		"Longitude" : "-086.462357",
+		"Zipcode" : "37160",
+		"ZipClass" : "STANDARD",
+		"County" : "BEDFORD",
+		"City" : "SHELBYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.486335"
+	},
+	{
+		"Longitude" : "-086.489019",
+		"Zipcode" : "37161",
+		"ZipClass" : "UNIQUE",
+		"County" : "BEDFORD",
+		"City" : "SHELBYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.471531"
+	},
+	{
+		"Longitude" : "-086.450042",
+		"Zipcode" : "37162",
+		"ZipClass" : "STANDARD",
+		"County" : "BEDFORD",
+		"City" : "SHELBYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.510825"
+	},
+	{
+		"Longitude" : "-087.458058",
+		"Zipcode" : "37165",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DICKSON",
+		"City" : "SLAYDEN",
+		"State" : "TN",
+		"Latitude" : "+36.283543"
+	},
+	{
+		"Longitude" : "-085.835635",
+		"Zipcode" : "37166",
+		"ZipClass" : "STANDARD",
+		"County" : "DEKALB",
+		"City" : "SMITHVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.958503"
+	},
+	{
+		"Longitude" : "-086.453360",
+		"Zipcode" : "37167",
+		"ZipClass" : "STANDARD",
+		"County" : "RUTHERFORD",
+		"City" : "SMYRNA",
+		"State" : "TN",
+		"Latitude" : "+35.856167"
+	},
+	{
+		"Longitude" : "-087.316272",
+		"Zipcode" : "37171",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SOUTHSIDE",
+		"State" : "TN",
+		"Latitude" : "+36.361093"
+	},
+	{
+		"Longitude" : "-086.888624",
+		"Zipcode" : "37172",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTSON",
+		"City" : "SPRINGFIELD",
+		"State" : "TN",
+		"Latitude" : "+36.513510"
+	},
+	{
+		"Longitude" : "-086.901661",
+		"Zipcode" : "37174",
+		"ZipClass" : "STANDARD",
+		"County" : "MAURY",
+		"City" : "SPRING HILL",
+		"State" : "TN",
+		"Latitude" : "+35.712381"
+	},
+	{
+		"Longitude" : "-087.747374",
+		"Zipcode" : "37175",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "STEWART",
+		"State" : "TN",
+		"Latitude" : "+36.272979"
+	},
+	{
+		"Longitude" : "-087.798852",
+		"Zipcode" : "37178",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "TENNESSEE RIDGE",
+		"State" : "TN",
+		"Latitude" : "+36.315226"
+	},
+	{
+		"Longitude" : "-086.891286",
+		"Zipcode" : "37179",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSON",
+		"City" : "THOMPSONS STATION",
+		"State" : "TN",
+		"Latitude" : "+35.809026"
+	},
+	{
+		"Longitude" : "-086.573246",
+		"Zipcode" : "37180",
+		"ZipClass" : "STANDARD",
+		"County" : "BEDFORD",
+		"City" : "UNIONVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.622306"
+	},
+	{
+		"Longitude" : "-087.465507",
+		"Zipcode" : "37181",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKSON",
+		"City" : "VANLEER",
+		"State" : "TN",
+		"Latitude" : "+36.245657"
+	},
+	{
+		"Longitude" : "-086.335135",
+		"Zipcode" : "37183",
+		"ZipClass" : "STANDARD",
+		"County" : "BEDFORD",
+		"City" : "WARTRACE",
+		"State" : "TN",
+		"Latitude" : "+35.501239"
+	},
+	{
+		"Longitude" : "-086.151145",
+		"Zipcode" : "37184",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "WATERTOWN",
+		"State" : "TN",
+		"Latitude" : "+36.087694"
+	},
+	{
+		"Longitude" : "-087.827460",
+		"Zipcode" : "37185",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMPHREYS",
+		"City" : "WAVERLY",
+		"State" : "TN",
+		"Latitude" : "+36.032353"
+	},
+	{
+		"Longitude" : "-086.305594",
+		"Zipcode" : "37186",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "WESTMORELAND",
+		"State" : "TN",
+		"Latitude" : "+36.572762"
+	},
+	{
+		"Longitude" : "-087.226354",
+		"Zipcode" : "37187",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKSON",
+		"City" : "WHITE BLUFF",
+		"State" : "TN",
+		"Latitude" : "+36.124378"
+	},
+	{
+		"Longitude" : "-086.689867",
+		"Zipcode" : "37188",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTSON",
+		"City" : "WHITE HOUSE",
+		"State" : "TN",
+		"Latitude" : "+36.481635"
+	},
+	{
+		"Longitude" : "-086.832048",
+		"Zipcode" : "37189",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "WHITES CREEK",
+		"State" : "TN",
+		"Latitude" : "+36.276652"
+	},
+	{
+		"Longitude" : "-086.033176",
+		"Zipcode" : "37190",
+		"ZipClass" : "STANDARD",
+		"County" : "CANNON",
+		"City" : "WOODBURY",
+		"State" : "TN",
+		"Latitude" : "+35.836335"
+	},
+	{
+		"Longitude" : "-087.538989",
+		"Zipcode" : "37191",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "WOODLAWN",
+		"State" : "TN",
+		"Latitude" : "+36.495848"
+	},
+	{
+		"Longitude" : "-086.778098",
+		"Zipcode" : "37201",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.165688"
+	},
+	{
+		"Longitude" : "-086.827254",
+		"Zipcode" : "37202",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.340304"
+	},
+	{
+		"Longitude" : "-086.791598",
+		"Zipcode" : "37203",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.150406"
+	},
+	{
+		"Longitude" : "-086.850099",
+		"Zipcode" : "37204",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.119294"
+	},
+	{
+		"Longitude" : "-086.865776",
+		"Zipcode" : "37205",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.108558"
+	},
+	{
+		"Longitude" : "-086.735750",
+		"Zipcode" : "37206",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.180143"
+	},
+	{
+		"Longitude" : "-086.784698",
+		"Zipcode" : "37207",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.233916"
+	},
+	{
+		"Longitude" : "-086.810198",
+		"Zipcode" : "37208",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.174256"
+	},
+	{
+		"Longitude" : "-086.899950",
+		"Zipcode" : "37209",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.142007"
+	},
+	{
+		"Longitude" : "-086.729947",
+		"Zipcode" : "37210",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.137475"
+	},
+	{
+		"Longitude" : "-086.718347",
+		"Zipcode" : "37211",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.070359"
+	},
+	{
+		"Longitude" : "-086.803748",
+		"Zipcode" : "37212",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.132607"
+	},
+	{
+		"Longitude" : "-086.762899",
+		"Zipcode" : "37213",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.168626"
+	},
+	{
+		"Longitude" : "-086.662146",
+		"Zipcode" : "37214",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.174205"
+	},
+	{
+		"Longitude" : "-086.885987",
+		"Zipcode" : "37215",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.086531"
+	},
+	{
+		"Longitude" : "-086.723997",
+		"Zipcode" : "37216",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.204255"
+	},
+	{
+		"Longitude" : "-086.662914",
+		"Zipcode" : "37217",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.107372"
+	},
+	{
+		"Longitude" : "-086.895850",
+		"Zipcode" : "37218",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.234304"
+	},
+	{
+		"Longitude" : "-086.781748",
+		"Zipcode" : "37219",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.161906"
+	},
+	{
+		"Longitude" : "-086.782098",
+		"Zipcode" : "37220",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.067109"
+	},
+	{
+		"Longitude" : "-086.963852",
+		"Zipcode" : "37221",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.066160"
+	},
+	{
+		"Longitude" : "-086.980116",
+		"Zipcode" : "37222",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.056164"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37224",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37227",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.808300",
+		"Zipcode" : "37228",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.193205"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37229",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37230",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37232",
+		"ZipClass" : "UNIQUE",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37234",
+		"ZipClass" : "UNIQUE",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37235",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37236",
+		"ZipClass" : "UNIQUE",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37237",
+		"ZipClass" : "UNIQUE",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37238",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37239",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37240",
+		"ZipClass" : "UNIQUE",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37241",
+		"ZipClass" : "UNIQUE",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37242",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.784498",
+		"Zipcode" : "37243",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.167606"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37244",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37245",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.789998",
+		"Zipcode" : "37246",
+		"ZipClass" : "UNIQUE",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.158606"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37247",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37248",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37249",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-086.785248",
+		"Zipcode" : "37250",
+		"ZipClass" : "UNIQUE",
+		"County" : "DAVIDSON",
+		"City" : "NASHVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.186605"
+	},
+	{
+		"Longitude" : "-085.789682",
+		"Zipcode" : "37301",
+		"ZipClass" : "STANDARD",
+		"County" : "GRUNDY",
+		"City" : "ALTAMONT",
+		"State" : "TN",
+		"Latitude" : "+35.360328"
+	},
+	{
+		"Longitude" : "-085.018914",
+		"Zipcode" : "37302",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "APISON",
+		"State" : "TN",
+		"Latitude" : "+35.017572"
+	},
+	{
+		"Longitude" : "-084.639820",
+		"Zipcode" : "37303",
+		"ZipClass" : "STANDARD",
+		"County" : "MCMINN",
+		"City" : "ATHENS",
+		"State" : "TN",
+		"Latitude" : "+35.457491"
+	},
+	{
+		"Longitude" : "-085.138046",
+		"Zipcode" : "37304",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "BAKEWELL",
+		"State" : "TN",
+		"Latitude" : "+35.345216"
+	},
+	{
+		"Longitude" : "-085.699601",
+		"Zipcode" : "37305",
+		"ZipClass" : "STANDARD",
+		"County" : "GRUNDY",
+		"City" : "BEERSHEBA SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+35.373473"
+	},
+	{
+		"Longitude" : "-086.175941",
+		"Zipcode" : "37306",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BELVIDERE",
+		"State" : "TN",
+		"Latitude" : "+35.089483"
+	},
+	{
+		"Longitude" : "-084.521805",
+		"Zipcode" : "37307",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "BENTON",
+		"State" : "TN",
+		"Latitude" : "+35.130815"
+	},
+	{
+		"Longitude" : "-085.009853",
+		"Zipcode" : "37308",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "BIRCHWOOD",
+		"State" : "TN",
+		"Latitude" : "+35.312806"
+	},
+	{
+		"Longitude" : "-084.736414",
+		"Zipcode" : "37309",
+		"ZipClass" : "STANDARD",
+		"County" : "MCMINN",
+		"City" : "CALHOUN",
+		"State" : "TN",
+		"Latitude" : "+35.322816"
+	},
+	{
+		"Longitude" : "-084.793619",
+		"Zipcode" : "37310",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "CHARLESTON",
+		"State" : "TN",
+		"Latitude" : "+35.263700"
+	},
+	{
+		"Longitude" : "-084.874031",
+		"Zipcode" : "37311",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "CLEVELAND",
+		"State" : "TN",
+		"Latitude" : "+35.149223"
+	},
+	{
+		"Longitude" : "-084.868440",
+		"Zipcode" : "37312",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "CLEVELAND",
+		"State" : "TN",
+		"Latitude" : "+35.255097"
+	},
+	{
+		"Longitude" : "-085.700310",
+		"Zipcode" : "37313",
+		"ZipClass" : "STANDARD",
+		"County" : "GRUNDY",
+		"City" : "COALMONT",
+		"State" : "TN",
+		"Latitude" : "+35.351615"
+	},
+	{
+		"Longitude" : "-084.303121",
+		"Zipcode" : "37314",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "COKERCREEK",
+		"State" : "TN",
+		"Latitude" : "+35.246689"
+	},
+	{
+		"Longitude" : "-085.057359",
+		"Zipcode" : "37315",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMILTON",
+		"City" : "COLLEGEDALE",
+		"State" : "TN",
+		"Latitude" : "+35.047891"
+	},
+	{
+		"Longitude" : "-084.732656",
+		"Zipcode" : "37316",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POLK",
+		"City" : "CONASAUGA",
+		"State" : "TN",
+		"Latitude" : "+34.997057"
+	},
+	{
+		"Longitude" : "-084.374828",
+		"Zipcode" : "37317",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "COPPERHILL",
+		"State" : "TN",
+		"Latitude" : "+35.020673"
+	},
+	{
+		"Longitude" : "-086.016657",
+		"Zipcode" : "37318",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "COWAN",
+		"State" : "TN",
+		"Latitude" : "+35.178335"
+	},
+	{
+		"Longitude" : "-084.861885",
+		"Zipcode" : "37320",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "CLEVELAND",
+		"State" : "TN",
+		"Latitude" : "+35.172720"
+	},
+	{
+		"Longitude" : "-084.979171",
+		"Zipcode" : "37321",
+		"ZipClass" : "STANDARD",
+		"County" : "RHEA",
+		"City" : "DAYTON",
+		"State" : "TN",
+		"Latitude" : "+35.556414"
+	},
+	{
+		"Longitude" : "-084.845460",
+		"Zipcode" : "37322",
+		"ZipClass" : "STANDARD",
+		"County" : "MEIGS",
+		"City" : "DECATUR",
+		"State" : "TN",
+		"Latitude" : "+35.484053"
+	},
+	{
+		"Longitude" : "-084.845707",
+		"Zipcode" : "37323",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "CLEVELAND",
+		"State" : "TN",
+		"Latitude" : "+35.136098"
+	},
+	{
+		"Longitude" : "-086.068439",
+		"Zipcode" : "37324",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "DECHERD",
+		"State" : "TN",
+		"Latitude" : "+35.255505"
+	},
+	{
+		"Longitude" : "-084.573882",
+		"Zipcode" : "37325",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "DELANO",
+		"State" : "TN",
+		"Latitude" : "+35.240205"
+	},
+	{
+		"Longitude" : "-084.379169",
+		"Zipcode" : "37326",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POLK",
+		"City" : "DUCKTOWN",
+		"State" : "TN",
+		"Latitude" : "+35.033927"
+	},
+	{
+		"Longitude" : "-085.376504",
+		"Zipcode" : "37327",
+		"ZipClass" : "STANDARD",
+		"County" : "SEQUATCHIE",
+		"City" : "DUNLAP",
+		"State" : "TN",
+		"Latitude" : "+35.386535"
+	},
+	{
+		"Longitude" : "-086.412827",
+		"Zipcode" : "37328",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ELORA",
+		"State" : "TN",
+		"Latitude" : "+35.068833"
+	},
+	{
+		"Longitude" : "-084.488998",
+		"Zipcode" : "37329",
+		"ZipClass" : "STANDARD",
+		"County" : "MCMINN",
+		"City" : "ENGLEWOOD",
+		"State" : "TN",
+		"Latitude" : "+35.374591"
+	},
+	{
+		"Longitude" : "-086.056548",
+		"Zipcode" : "37330",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ESTILL SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+35.270666"
+	},
+	{
+		"Longitude" : "-084.534548",
+		"Zipcode" : "37331",
+		"ZipClass" : "STANDARD",
+		"County" : "MCMINN",
+		"City" : "ETOWAH",
+		"State" : "TN",
+		"Latitude" : "+35.347928"
+	},
+	{
+		"Longitude" : "-084.945661",
+		"Zipcode" : "37332",
+		"ZipClass" : "STANDARD",
+		"County" : "RHEA",
+		"City" : "EVENSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.531335"
+	},
+	{
+		"Longitude" : "-084.328172",
+		"Zipcode" : "37333",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "FARNER",
+		"State" : "TN",
+		"Latitude" : "+35.130810"
+	},
+	{
+		"Longitude" : "-086.601925",
+		"Zipcode" : "37334",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "FAYETTEVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.168227"
+	},
+	{
+		"Longitude" : "-086.412954",
+		"Zipcode" : "37335",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "FLINTVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.058083"
+	},
+	{
+		"Longitude" : "-084.935342",
+		"Zipcode" : "37336",
+		"ZipClass" : "STANDARD",
+		"County" : "MEIGS",
+		"City" : "GEORGETOWN",
+		"State" : "TN",
+		"Latitude" : "+35.310427"
+	},
+	{
+		"Longitude" : "-084.942494",
+		"Zipcode" : "37337",
+		"ZipClass" : "STANDARD",
+		"County" : "RHEA",
+		"City" : "GRANDVIEW",
+		"State" : "TN",
+		"Latitude" : "+35.623951"
+	},
+	{
+		"Longitude" : "-084.998978",
+		"Zipcode" : "37338",
+		"ZipClass" : "STANDARD",
+		"County" : "RHEA",
+		"City" : "GRAYSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.602658"
+	},
+	{
+		"Longitude" : "-085.653738",
+		"Zipcode" : "37339",
+		"ZipClass" : "STANDARD",
+		"County" : "GRUNDY",
+		"City" : "GRUETLI LAAGER",
+		"State" : "TN",
+		"Latitude" : "+35.385223"
+	},
+	{
+		"Longitude" : "-085.517231",
+		"Zipcode" : "37340",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "GUILD",
+		"State" : "TN",
+		"Latitude" : "+35.029115"
+	},
+	{
+		"Longitude" : "-085.091744",
+		"Zipcode" : "37341",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "HARRISON",
+		"State" : "TN",
+		"Latitude" : "+35.214176"
+	},
+	{
+		"Longitude" : "-085.965585",
+		"Zipcode" : "37342",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "HILLSBORO",
+		"State" : "TN",
+		"Latitude" : "+35.380586"
+	},
+	{
+		"Longitude" : "-085.210240",
+		"Zipcode" : "37343",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "HIXSON",
+		"State" : "TN",
+		"Latitude" : "+35.166775"
+	},
+	{
+		"Longitude" : "-086.255410",
+		"Zipcode" : "37345",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "HUNTLAND",
+		"State" : "TN",
+		"Latitude" : "+35.045745"
+	},
+	{
+		"Longitude" : "-085.589691",
+		"Zipcode" : "37347",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "JASPER",
+		"State" : "TN",
+		"Latitude" : "+35.097012"
+	},
+	{
+		"Longitude" : "-086.418625",
+		"Zipcode" : "37348",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "KELSO",
+		"State" : "TN",
+		"Latitude" : "+35.103977"
+	},
+	{
+		"Longitude" : "-086.074820",
+		"Zipcode" : "37349",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "MANCHESTER",
+		"State" : "TN",
+		"Latitude" : "+35.497637"
+	},
+	{
+		"Longitude" : "-085.301627",
+		"Zipcode" : "37350",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "LOOKOUT MOUNTAIN",
+		"State" : "TN",
+		"Latitude" : "+35.130697"
+	},
+	{
+		"Longitude" : "-085.263100",
+		"Zipcode" : "37351",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMILTON",
+		"City" : "LUPTON CITY",
+		"State" : "TN",
+		"Latitude" : "+35.104522"
+	},
+	{
+		"Longitude" : "-086.305403",
+		"Zipcode" : "37352",
+		"ZipClass" : "STANDARD",
+		"County" : "MOORE",
+		"City" : "LYNCHBURG",
+		"State" : "TN",
+		"Latitude" : "+35.282767"
+	},
+	{
+		"Longitude" : "-084.889237",
+		"Zipcode" : "37353",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "MC DONALD",
+		"State" : "TN",
+		"Latitude" : "+35.160258"
+	},
+	{
+		"Longitude" : "-084.339520",
+		"Zipcode" : "37354",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "MADISONVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.491574"
+	},
+	{
+		"Longitude" : "-086.069880",
+		"Zipcode" : "37355",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "MANCHESTER",
+		"State" : "TN",
+		"Latitude" : "+35.517946"
+	},
+	{
+		"Longitude" : "-085.822933",
+		"Zipcode" : "37356",
+		"ZipClass" : "STANDARD",
+		"County" : "GRUNDY",
+		"City" : "MONTEAGLE",
+		"State" : "TN",
+		"Latitude" : "+35.264698"
+	},
+	{
+		"Longitude" : "-085.875966",
+		"Zipcode" : "37357",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "MORRISON",
+		"State" : "TN",
+		"Latitude" : "+35.621365"
+	},
+	{
+		"Longitude" : "-086.467197",
+		"Zipcode" : "37359",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "MULBERRY",
+		"State" : "TN",
+		"Latitude" : "+35.194599"
+	},
+	{
+		"Longitude" : "-086.305194",
+		"Zipcode" : "37360",
+		"ZipClass" : "STANDARD",
+		"County" : "BEDFORD",
+		"City" : "NORMANDY",
+		"State" : "TN",
+		"Latitude" : "+35.468961"
+	},
+	{
+		"Longitude" : "-084.689716",
+		"Zipcode" : "37361",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "OCOEE",
+		"State" : "TN",
+		"Latitude" : "+35.101062"
+	},
+	{
+		"Longitude" : "-084.735366",
+		"Zipcode" : "37362",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "OLDFORT",
+		"State" : "TN",
+		"Latitude" : "+35.049197"
+	},
+	{
+		"Longitude" : "-085.060369",
+		"Zipcode" : "37363",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "OOLTEWAH",
+		"State" : "TN",
+		"Latitude" : "+35.120227"
+	},
+	{
+		"Longitude" : "-084.861885",
+		"Zipcode" : "37364",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "CLEVELAND",
+		"State" : "TN",
+		"Latitude" : "+35.172720"
+	},
+	{
+		"Longitude" : "-085.699601",
+		"Zipcode" : "37365",
+		"ZipClass" : "STANDARD",
+		"County" : "GRUNDY",
+		"City" : "PALMER",
+		"State" : "TN",
+		"Latitude" : "+35.373473"
+	},
+	{
+		"Longitude" : "-085.699601",
+		"Zipcode" : "37366",
+		"ZipClass" : "STANDARD",
+		"County" : "GRUNDY",
+		"City" : "PELHAM",
+		"State" : "TN",
+		"Latitude" : "+35.373473"
+	},
+	{
+		"Longitude" : "-085.210253",
+		"Zipcode" : "37367",
+		"ZipClass" : "STANDARD",
+		"County" : "BLEDSOE",
+		"City" : "PIKEVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.609437"
+	},
+	{
+		"Longitude" : "-084.502303",
+		"Zipcode" : "37369",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "RELIANCE",
+		"State" : "TN",
+		"Latitude" : "+35.171646"
+	},
+	{
+		"Longitude" : "-084.695085",
+		"Zipcode" : "37370",
+		"ZipClass" : "STANDARD",
+		"County" : "MCMINN",
+		"City" : "RICEVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.373143"
+	},
+	{
+		"Longitude" : "-084.641623",
+		"Zipcode" : "37371",
+		"ZipClass" : "STANDARD",
+		"County" : "MCMINN",
+		"City" : "ATHENS",
+		"State" : "TN",
+		"Latitude" : "+35.441376"
+	},
+	{
+		"Longitude" : "-086.098338",
+		"Zipcode" : "37372",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SAINT ANDREWS",
+		"State" : "TN",
+		"Latitude" : "+35.175522"
+	},
+	{
+		"Longitude" : "-085.104336",
+		"Zipcode" : "37373",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "SALE CREEK",
+		"State" : "TN",
+		"Latitude" : "+35.388975"
+	},
+	{
+		"Longitude" : "-085.632114",
+		"Zipcode" : "37374",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SEQUATCHIE",
+		"State" : "TN",
+		"Latitude" : "+35.170416"
+	},
+	{
+		"Longitude" : "-086.065460",
+		"Zipcode" : "37375",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SEWANEE",
+		"State" : "TN",
+		"Latitude" : "+35.184313"
+	},
+	{
+		"Longitude" : "-085.930195",
+		"Zipcode" : "37376",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SHERWOOD",
+		"State" : "TN",
+		"Latitude" : "+35.045233"
+	},
+	{
+		"Longitude" : "-085.319805",
+		"Zipcode" : "37377",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "SIGNAL MOUNTAIN",
+		"State" : "TN",
+		"Latitude" : "+35.175117"
+	},
+	{
+		"Longitude" : "-085.777633",
+		"Zipcode" : "37378",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "SMARTT",
+		"State" : "TN",
+		"Latitude" : "+35.678368"
+	},
+	{
+		"Longitude" : "-085.198979",
+		"Zipcode" : "37379",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "SODDY DAISY",
+		"State" : "TN",
+		"Latitude" : "+35.211052"
+	},
+	{
+		"Longitude" : "-085.655679",
+		"Zipcode" : "37380",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SOUTH PITTSBURG",
+		"State" : "TN",
+		"Latitude" : "+35.109722"
+	},
+	{
+		"Longitude" : "-084.819767",
+		"Zipcode" : "37381",
+		"ZipClass" : "STANDARD",
+		"County" : "RHEA",
+		"City" : "SPRING CITY",
+		"State" : "TN",
+		"Latitude" : "+35.693499"
+	},
+	{
+		"Longitude" : "-086.074820",
+		"Zipcode" : "37382",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COFFEE",
+		"City" : "SUMMITVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.497637"
+	},
+	{
+		"Longitude" : "-085.903522",
+		"Zipcode" : "37383",
+		"ZipClass" : "UNIQUE",
+		"County" : "FRANKLIN",
+		"City" : "SEWANEE",
+		"State" : "TN",
+		"Latitude" : "+35.180503"
+	},
+	{
+		"Longitude" : "-085.209082",
+		"Zipcode" : "37384",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "SODDY DAISY",
+		"State" : "TN",
+		"Latitude" : "+35.221092"
+	},
+	{
+		"Longitude" : "-084.272243",
+		"Zipcode" : "37385",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "TELLICO PLAINS",
+		"State" : "TN",
+		"Latitude" : "+35.376907"
+	},
+	{
+		"Longitude" : "-085.761237",
+		"Zipcode" : "37387",
+		"ZipClass" : "STANDARD",
+		"County" : "GRUNDY",
+		"City" : "TRACY CITY",
+		"State" : "TN",
+		"Latitude" : "+35.273159"
+	},
+	{
+		"Longitude" : "-086.197898",
+		"Zipcode" : "37388",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "TULLAHOMA",
+		"State" : "TN",
+		"Latitude" : "+35.497968"
+	},
+	{
+		"Longitude" : "-086.074820",
+		"Zipcode" : "37389",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "ARNOLD AFB",
+		"State" : "TN",
+		"Latitude" : "+35.497637"
+	},
+	{
+		"Longitude" : "-084.376621",
+		"Zipcode" : "37391",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "TURTLETOWN",
+		"State" : "TN",
+		"Latitude" : "+35.089723"
+	},
+	{
+		"Longitude" : "-085.842163",
+		"Zipcode" : "37394",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "VIOLA",
+		"State" : "TN",
+		"Latitude" : "+35.527616"
+	},
+	{
+		"Longitude" : "-084.928921",
+		"Zipcode" : "37395",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RHEA",
+		"City" : "WATTS BAR DAM",
+		"State" : "TN",
+		"Latitude" : "+35.617220"
+	},
+	{
+		"Longitude" : "-085.529023",
+		"Zipcode" : "37396",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "WHITESIDE",
+		"State" : "TN",
+		"Latitude" : "+35.020638"
+	},
+	{
+		"Longitude" : "-085.530468",
+		"Zipcode" : "37397",
+		"ZipClass" : "STANDARD",
+		"County" : "SEQUATCHIE",
+		"City" : "WHITWELL",
+		"State" : "TN",
+		"Latitude" : "+35.171226"
+	},
+	{
+		"Longitude" : "-086.102966",
+		"Zipcode" : "37398",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WINCHESTER",
+		"State" : "TN",
+		"Latitude" : "+35.146602"
+	},
+	{
+		"Longitude" : "-085.206426",
+		"Zipcode" : "37401",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.017818"
+	},
+	{
+		"Longitude" : "-085.312907",
+		"Zipcode" : "37402",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.046323"
+	},
+	{
+		"Longitude" : "-085.292207",
+		"Zipcode" : "37403",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.047273"
+	},
+	{
+		"Longitude" : "-085.271756",
+		"Zipcode" : "37404",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.024174"
+	},
+	{
+		"Longitude" : "-085.335675",
+		"Zipcode" : "37405",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.089664"
+	},
+	{
+		"Longitude" : "-085.250058",
+		"Zipcode" : "37406",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.067272"
+	},
+	{
+		"Longitude" : "-085.289806",
+		"Zipcode" : "37407",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.002474"
+	},
+	{
+		"Longitude" : "-085.306850",
+		"Zipcode" : "37408",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.029154"
+	},
+	{
+		"Longitude" : "-085.331395",
+		"Zipcode" : "37409",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.003374"
+	},
+	{
+		"Longitude" : "-085.308956",
+		"Zipcode" : "37410",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.003070"
+	},
+	{
+		"Longitude" : "-085.245455",
+		"Zipcode" : "37411",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.035273"
+	},
+	{
+		"Longitude" : "-085.238392",
+		"Zipcode" : "37412",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.001524"
+	},
+	{
+		"Longitude" : "-085.209082",
+		"Zipcode" : "37414",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.221092"
+	},
+	{
+		"Longitude" : "-085.265017",
+		"Zipcode" : "37415",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.129075"
+	},
+	{
+		"Longitude" : "-085.182663",
+		"Zipcode" : "37416",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.102747"
+	},
+	{
+		"Longitude" : "-085.340522",
+		"Zipcode" : "37419",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.050162"
+	},
+	{
+		"Longitude" : "-085.153781",
+		"Zipcode" : "37421",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.040495"
+	},
+	{
+		"Longitude" : "-085.209082",
+		"Zipcode" : "37422",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.221092"
+	},
+	{
+		"Longitude" : "-085.209082",
+		"Zipcode" : "37424",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.221092"
+	},
+	{
+		"Longitude" : "-085.209082",
+		"Zipcode" : "37450",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CHATTANOOGA",
+		"State" : "TN",
+		"Latitude" : "+35.221092"
+	},
+	{
+		"Longitude" : "-089.990415",
+		"Zipcode" : "37501",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.169255"
+	},
+	{
+		"Longitude" : "-082.387716",
+		"Zipcode" : "37601",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JOHNSON CITY",
+		"State" : "TN",
+		"Latitude" : "+36.341700"
+	},
+	{
+		"Longitude" : "-082.501212",
+		"Zipcode" : "37602",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JOHNSON CITY",
+		"State" : "TN",
+		"Latitude" : "+36.271729"
+	},
+	{
+		"Longitude" : "-082.387422",
+		"Zipcode" : "37604",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JOHNSON CITY",
+		"State" : "TN",
+		"Latitude" : "+36.308229"
+	},
+	{
+		"Longitude" : "-082.383792",
+		"Zipcode" : "37605",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JOHNSON CITY",
+		"State" : "TN",
+		"Latitude" : "+36.315795"
+	},
+	{
+		"Longitude" : "-082.562649",
+		"Zipcode" : "37614",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JOHNSON CITY",
+		"State" : "TN",
+		"Latitude" : "+36.157086"
+	},
+	{
+		"Longitude" : "-082.492958",
+		"Zipcode" : "37615",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JOHNSON CITY",
+		"State" : "TN",
+		"Latitude" : "+36.352451"
+	},
+	{
+		"Longitude" : "-082.734005",
+		"Zipcode" : "37616",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "AFTON",
+		"State" : "TN",
+		"Latitude" : "+36.227409"
+	},
+	{
+		"Longitude" : "-082.369895",
+		"Zipcode" : "37617",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "BLOUNTVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.525039"
+	},
+	{
+		"Longitude" : "-082.261059",
+		"Zipcode" : "37618",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "BLUFF CITY",
+		"State" : "TN",
+		"Latitude" : "+36.479403"
+	},
+	{
+		"Longitude" : "-082.192545",
+		"Zipcode" : "37620",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "BRISTOL",
+		"State" : "TN",
+		"Latitude" : "+36.531703"
+	},
+	{
+		"Longitude" : "-082.264460",
+		"Zipcode" : "37621",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "BRISTOL",
+		"State" : "TN",
+		"Latitude" : "+36.504158"
+	},
+	{
+		"Longitude" : "-082.264460",
+		"Zipcode" : "37625",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "BRISTOL",
+		"State" : "TN",
+		"Latitude" : "+36.504158"
+	},
+	{
+		"Longitude" : "-081.919401",
+		"Zipcode" : "37640",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "BUTLER",
+		"State" : "TN",
+		"Latitude" : "+36.362685"
+	},
+	{
+		"Longitude" : "-082.690504",
+		"Zipcode" : "37641",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "CHUCKEY",
+		"State" : "TN",
+		"Latitude" : "+36.256939"
+	},
+	{
+		"Longitude" : "-082.732009",
+		"Zipcode" : "37642",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWKINS",
+		"City" : "CHURCH HILL",
+		"State" : "TN",
+		"Latitude" : "+36.495148"
+	},
+	{
+		"Longitude" : "-082.122892",
+		"Zipcode" : "37643",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "ELIZABETHTON",
+		"State" : "TN",
+		"Latitude" : "+36.330784"
+	},
+	{
+		"Longitude" : "-082.051765",
+		"Zipcode" : "37644",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "ELIZABETHTON",
+		"State" : "TN",
+		"Latitude" : "+36.436637"
+	},
+	{
+		"Longitude" : "-082.683281",
+		"Zipcode" : "37645",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWKINS",
+		"City" : "MOUNT CARMEL",
+		"State" : "TN",
+		"Latitude" : "+36.564092"
+	},
+	{
+		"Longitude" : "-082.399677",
+		"Zipcode" : "37650",
+		"ZipClass" : "STANDARD",
+		"County" : "UNICOI",
+		"City" : "ERWIN",
+		"State" : "TN",
+		"Latitude" : "+36.068330"
+	},
+	{
+		"Longitude" : "-082.558738",
+		"Zipcode" : "37656",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FALL BRANCH",
+		"State" : "TN",
+		"Latitude" : "+36.307671"
+	},
+	{
+		"Longitude" : "-082.545757",
+		"Zipcode" : "37657",
+		"ZipClass" : "STANDARD",
+		"County" : "UNICOI",
+		"City" : "FLAG POND",
+		"State" : "TN",
+		"Latitude" : "+36.027038"
+	},
+	{
+		"Longitude" : "-082.149749",
+		"Zipcode" : "37658",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "HAMPTON",
+		"State" : "TN",
+		"Latitude" : "+36.253660"
+	},
+	{
+		"Longitude" : "-082.489065",
+		"Zipcode" : "37659",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JONESBOROUGH",
+		"State" : "TN",
+		"Latitude" : "+36.289189"
+	},
+	{
+		"Longitude" : "-082.547615",
+		"Zipcode" : "37660",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "KINGSPORT",
+		"State" : "TN",
+		"Latitude" : "+36.514384"
+	},
+	{
+		"Longitude" : "-082.529816",
+		"Zipcode" : "37662",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "KINGSPORT",
+		"State" : "TN",
+		"Latitude" : "+36.530517"
+	},
+	{
+		"Longitude" : "-082.483400",
+		"Zipcode" : "37663",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "KINGSPORT",
+		"State" : "TN",
+		"Latitude" : "+36.471520"
+	},
+	{
+		"Longitude" : "-082.496969",
+		"Zipcode" : "37664",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "KINGSPORT",
+		"State" : "TN",
+		"Latitude" : "+36.503789"
+	},
+	{
+		"Longitude" : "-082.573274",
+		"Zipcode" : "37665",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "KINGSPORT",
+		"State" : "TN",
+		"Latitude" : "+36.579851"
+	},
+	{
+		"Longitude" : "-082.264460",
+		"Zipcode" : "37669",
+		"ZipClass" : "UNIQUE",
+		"County" : "SULLIVAN",
+		"City" : "KINGSPORT",
+		"State" : "TN",
+		"Latitude" : "+36.504158"
+	},
+	{
+		"Longitude" : "-081.796303",
+		"Zipcode" : "37680",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "LAUREL BLOOMERY",
+		"State" : "TN",
+		"Latitude" : "+36.526206"
+	},
+	{
+		"Longitude" : "-082.582954",
+		"Zipcode" : "37681",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LIMESTONE",
+		"State" : "TN",
+		"Latitude" : "+36.251851"
+	},
+	{
+		"Longitude" : "-082.305359",
+		"Zipcode" : "37682",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARTER",
+		"City" : "MILLIGAN COLLEGE",
+		"State" : "TN",
+		"Latitude" : "+36.296007"
+	},
+	{
+		"Longitude" : "-081.823043",
+		"Zipcode" : "37683",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "MOUNTAIN CITY",
+		"State" : "TN",
+		"Latitude" : "+36.451666"
+	},
+	{
+		"Longitude" : "-082.501212",
+		"Zipcode" : "37684",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "MOUNTAIN HOME",
+		"State" : "TN",
+		"Latitude" : "+36.271729"
+	},
+	{
+		"Longitude" : "-082.340731",
+		"Zipcode" : "37686",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "PINEY FLATS",
+		"State" : "TN",
+		"Latitude" : "+36.449142"
+	},
+	{
+		"Longitude" : "-082.097785",
+		"Zipcode" : "37687",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "ROAN MOUNTAIN",
+		"State" : "TN",
+		"Latitude" : "+36.219570"
+	},
+	{
+		"Longitude" : "-081.879863",
+		"Zipcode" : "37688",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHADY VALLEY",
+		"State" : "TN",
+		"Latitude" : "+36.540700"
+	},
+	{
+		"Longitude" : "-082.564040",
+		"Zipcode" : "37690",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "TELFORD",
+		"State" : "TN",
+		"Latitude" : "+36.244143"
+	},
+	{
+		"Longitude" : "-081.758240",
+		"Zipcode" : "37691",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "TRADE",
+		"State" : "TN",
+		"Latitude" : "+36.375484"
+	},
+	{
+		"Longitude" : "-082.316667",
+		"Zipcode" : "37692",
+		"ZipClass" : "STANDARD",
+		"County" : "UNICOI",
+		"City" : "UNICOI",
+		"State" : "TN",
+		"Latitude" : "+36.201952"
+	},
+	{
+		"Longitude" : "-082.266921",
+		"Zipcode" : "37694",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "WATAUGA",
+		"State" : "TN",
+		"Latitude" : "+36.384473"
+	},
+	{
+		"Longitude" : "-082.264460",
+		"Zipcode" : "37699",
+		"ZipClass" : "UNIQUE",
+		"County" : "SULLIVAN",
+		"City" : "PINEY FLATS",
+		"State" : "TN",
+		"Latitude" : "+36.504158"
+	},
+	{
+		"Longitude" : "-083.987698",
+		"Zipcode" : "37701",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "ALCOA",
+		"State" : "TN",
+		"Latitude" : "+35.815758"
+	},
+	{
+		"Longitude" : "-084.068808",
+		"Zipcode" : "37705",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "ANDERSONVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.202528"
+	},
+	{
+		"Longitude" : "-083.636479",
+		"Zipcode" : "37707",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "ARTHUR",
+		"State" : "TN",
+		"Latitude" : "+36.566257"
+	},
+	{
+		"Longitude" : "-083.493998",
+		"Zipcode" : "37708",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAINGER",
+		"City" : "BEAN STATION",
+		"State" : "TN",
+		"Latitude" : "+36.250636"
+	},
+	{
+		"Longitude" : "-083.681920",
+		"Zipcode" : "37709",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAINGER",
+		"City" : "BLAINE",
+		"State" : "TN",
+		"Latitude" : "+36.161793"
+	},
+	{
+		"Longitude" : "-084.299217",
+		"Zipcode" : "37710",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "BRICEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.162585"
+	},
+	{
+		"Longitude" : "-083.121290",
+		"Zipcode" : "37711",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWKINS",
+		"City" : "BULLS GAP",
+		"State" : "TN",
+		"Latitude" : "+36.314262"
+	},
+	{
+		"Longitude" : "-083.121619",
+		"Zipcode" : "37713",
+		"ZipClass" : "STANDARD",
+		"County" : "COCKE",
+		"City" : "BYBEE",
+		"State" : "TN",
+		"Latitude" : "+36.104208"
+	},
+	{
+		"Longitude" : "-084.202980",
+		"Zipcode" : "37714",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "CARYVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.302779"
+	},
+	{
+		"Longitude" : "-083.947827",
+		"Zipcode" : "37715",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "CLAIRFIELD",
+		"State" : "TN",
+		"Latitude" : "+36.560275"
+	},
+	{
+		"Longitude" : "-084.174460",
+		"Zipcode" : "37716",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "CLINTON",
+		"State" : "TN",
+		"Latitude" : "+36.105314"
+	},
+	{
+		"Longitude" : "-084.167208",
+		"Zipcode" : "37717",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "CLINTON",
+		"State" : "TN",
+		"Latitude" : "+36.110028"
+	},
+	{
+		"Longitude" : "-084.390727",
+		"Zipcode" : "37719",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "COALFIELD",
+		"State" : "TN",
+		"Latitude" : "+36.035211"
+	},
+	{
+		"Longitude" : "-083.817508",
+		"Zipcode" : "37721",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "CORRYTON",
+		"State" : "TN",
+		"Latitude" : "+36.029286"
+	},
+	{
+		"Longitude" : "-083.203929",
+		"Zipcode" : "37722",
+		"ZipClass" : "STANDARD",
+		"County" : "COCKE",
+		"City" : "COSBY",
+		"State" : "TN",
+		"Latitude" : "+35.839769"
+	},
+	{
+		"Longitude" : "-084.812093",
+		"Zipcode" : "37723",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CRAB ORCHARD",
+		"State" : "TN",
+		"Latitude" : "+35.951478"
+	},
+	{
+		"Longitude" : "-083.690318",
+		"Zipcode" : "37724",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "CUMBERLAND GAP",
+		"State" : "TN",
+		"Latitude" : "+36.556666"
+	},
+	{
+		"Longitude" : "-083.423276",
+		"Zipcode" : "37725",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DANDRIDGE",
+		"State" : "TN",
+		"Latitude" : "+36.000789"
+	},
+	{
+		"Longitude" : "-084.793510",
+		"Zipcode" : "37726",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "DEER LODGE",
+		"State" : "TN",
+		"Latitude" : "+36.202427"
+	},
+	{
+		"Longitude" : "-083.006316",
+		"Zipcode" : "37727",
+		"ZipClass" : "STANDARD",
+		"County" : "COCKE",
+		"City" : "DEL RIO",
+		"State" : "TN",
+		"Latitude" : "+35.909233"
+	},
+	{
+		"Longitude" : "-084.045356",
+		"Zipcode" : "37729",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "DUFF",
+		"State" : "TN",
+		"Latitude" : "+36.508642"
+	},
+	{
+		"Longitude" : "-083.964644",
+		"Zipcode" : "37730",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAIBORNE",
+		"City" : "EAGAN",
+		"State" : "TN",
+		"Latitude" : "+36.550453"
+	},
+	{
+		"Longitude" : "-083.057056",
+		"Zipcode" : "37731",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWKINS",
+		"City" : "EIDSON",
+		"State" : "TN",
+		"Latitude" : "+36.510756"
+	},
+	{
+		"Longitude" : "-084.616597",
+		"Zipcode" : "37732",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCOTT",
+		"City" : "ELGIN",
+		"State" : "TN",
+		"Latitude" : "+36.387879"
+	},
+	{
+		"Longitude" : "-084.713666",
+		"Zipcode" : "37733",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "RUGBY",
+		"State" : "TN",
+		"Latitude" : "+36.351914"
+	},
+	{
+		"Longitude" : "-084.101182",
+		"Zipcode" : "37737",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "FRIENDSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.758228"
+	},
+	{
+		"Longitude" : "-083.436982",
+		"Zipcode" : "37738",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "GATLINBURG",
+		"State" : "TN",
+		"Latitude" : "+35.727782"
+	},
+	{
+		"Longitude" : "-084.189652",
+		"Zipcode" : "37742",
+		"ZipClass" : "STANDARD",
+		"County" : "LOUDON",
+		"City" : "GREENBACK",
+		"State" : "TN",
+		"Latitude" : "+35.674723"
+	},
+	{
+		"Longitude" : "-082.869219",
+		"Zipcode" : "37743",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "GREENEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.131582"
+	},
+	{
+		"Longitude" : "-082.854836",
+		"Zipcode" : "37744",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "GREENEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.168271"
+	},
+	{
+		"Longitude" : "-082.823780",
+		"Zipcode" : "37745",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "GREENEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.245521"
+	},
+	{
+		"Longitude" : "-084.516642",
+		"Zipcode" : "37748",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "HARRIMAN",
+		"State" : "TN",
+		"Latitude" : "+35.919953"
+	},
+	{
+		"Longitude" : "-083.573282",
+		"Zipcode" : "37752",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "HARROGATE",
+		"State" : "TN",
+		"Latitude" : "+36.532527"
+	},
+	{
+		"Longitude" : "-083.098214",
+		"Zipcode" : "37753",
+		"ZipClass" : "STANDARD",
+		"County" : "COCKE",
+		"City" : "HARTFORD",
+		"State" : "TN",
+		"Latitude" : "+35.824140"
+	},
+	{
+		"Longitude" : "-084.041266",
+		"Zipcode" : "37754",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "HEISKELL",
+		"State" : "TN",
+		"Latitude" : "+36.087461"
+	},
+	{
+		"Longitude" : "-084.543615",
+		"Zipcode" : "37755",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "HELENWOOD",
+		"State" : "TN",
+		"Latitude" : "+36.425232"
+	},
+	{
+		"Longitude" : "-084.449208",
+		"Zipcode" : "37756",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "HUNTSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.354403"
+	},
+	{
+		"Longitude" : "-084.155750",
+		"Zipcode" : "37757",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "JACKSBORO",
+		"State" : "TN",
+		"Latitude" : "+36.307449"
+	},
+	{
+		"Longitude" : "-083.457262",
+		"Zipcode" : "37760",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "JEFFERSON CITY",
+		"State" : "TN",
+		"Latitude" : "+36.099030"
+	},
+	{
+		"Longitude" : "-084.148034",
+		"Zipcode" : "37762",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "JELLICO",
+		"State" : "TN",
+		"Latitude" : "+36.446193"
+	},
+	{
+		"Longitude" : "-084.521104",
+		"Zipcode" : "37763",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "KINGSTON",
+		"State" : "TN",
+		"Latitude" : "+35.816595"
+	},
+	{
+		"Longitude" : "-083.602564",
+		"Zipcode" : "37764",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "KODAK",
+		"State" : "TN",
+		"Latitude" : "+35.974032"
+	},
+	{
+		"Longitude" : "-083.151270",
+		"Zipcode" : "37765",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "KYLES FORD",
+		"State" : "TN",
+		"Latitude" : "+36.493188"
+	},
+	{
+		"Longitude" : "-084.090654",
+		"Zipcode" : "37766",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "LA FOLLETTE",
+		"State" : "TN",
+		"Latitude" : "+36.424766"
+	},
+	{
+		"Longitude" : "-084.118107",
+		"Zipcode" : "37769",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "LAKE CITY",
+		"State" : "TN",
+		"Latitude" : "+36.198793"
+	},
+	{
+		"Longitude" : "-084.695508",
+		"Zipcode" : "37770",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "LANCING",
+		"State" : "TN",
+		"Latitude" : "+36.146631"
+	},
+	{
+		"Longitude" : "-084.283650",
+		"Zipcode" : "37771",
+		"ZipClass" : "STANDARD",
+		"County" : "LOUDON",
+		"City" : "LENOIR CITY",
+		"State" : "TN",
+		"Latitude" : "+35.826473"
+	},
+	{
+		"Longitude" : "-084.256679",
+		"Zipcode" : "37772",
+		"ZipClass" : "STANDARD",
+		"County" : "LOUDON",
+		"City" : "LENOIR CITY",
+		"State" : "TN",
+		"Latitude" : "+35.787243"
+	},
+	{
+		"Longitude" : "-083.678621",
+		"Zipcode" : "37773",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "LONE MOUNTAIN",
+		"State" : "TN",
+		"Latitude" : "+36.466398"
+	},
+	{
+		"Longitude" : "-084.344062",
+		"Zipcode" : "37774",
+		"ZipClass" : "STANDARD",
+		"County" : "LOUDON",
+		"City" : "LOUDON",
+		"State" : "TN",
+		"Latitude" : "+35.738092"
+	},
+	{
+		"Longitude" : "-084.045460",
+		"Zipcode" : "37777",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "LOUISVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.827859"
+	},
+	{
+		"Longitude" : "-083.275211",
+		"Zipcode" : "37778",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMBLEN",
+		"City" : "LOWLAND",
+		"State" : "TN",
+		"Latitude" : "+36.213293"
+	},
+	{
+		"Longitude" : "-083.771137",
+		"Zipcode" : "37779",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "LUTTRELL",
+		"State" : "TN",
+		"Latitude" : "+36.218058"
+	},
+	{
+		"Longitude" : "-084.076895",
+		"Zipcode" : "37801",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "MARYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.688378"
+	},
+	{
+		"Longitude" : "-083.933815",
+		"Zipcode" : "37802",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "MARYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.728283"
+	},
+	{
+		"Longitude" : "-083.995621",
+		"Zipcode" : "37803",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "MARYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.653917"
+	},
+	{
+		"Longitude" : "-083.885212",
+		"Zipcode" : "37804",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "MARYVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.799053"
+	},
+	{
+		"Longitude" : "-083.737262",
+		"Zipcode" : "37806",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "MASCOT",
+		"State" : "TN",
+		"Latitude" : "+36.085904"
+	},
+	{
+		"Longitude" : "-083.806991",
+		"Zipcode" : "37807",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "MAYNARDVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.294236"
+	},
+	{
+		"Longitude" : "-082.994077",
+		"Zipcode" : "37809",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "MIDWAY",
+		"State" : "TN",
+		"Latitude" : "+36.154227"
+	},
+	{
+		"Longitude" : "-083.083417",
+		"Zipcode" : "37810",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "MOHAWK",
+		"State" : "TN",
+		"Latitude" : "+36.179069"
+	},
+	{
+		"Longitude" : "-083.184274",
+		"Zipcode" : "37811",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWKINS",
+		"City" : "MOORESBURG",
+		"State" : "TN",
+		"Latitude" : "+36.356017"
+	},
+	{
+		"Longitude" : "-083.261343",
+		"Zipcode" : "37813",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMBLEN",
+		"City" : "MORRISTOWN",
+		"State" : "TN",
+		"Latitude" : "+36.188826"
+	},
+	{
+		"Longitude" : "-083.309840",
+		"Zipcode" : "37814",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMBLEN",
+		"City" : "MORRISTOWN",
+		"State" : "TN",
+		"Latitude" : "+36.224258"
+	},
+	{
+		"Longitude" : "-083.275211",
+		"Zipcode" : "37815",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMBLEN",
+		"City" : "MORRISTOWN",
+		"State" : "TN",
+		"Latitude" : "+36.213293"
+	},
+	{
+		"Longitude" : "-083.275211",
+		"Zipcode" : "37816",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMBLEN",
+		"City" : "MORRISTOWN",
+		"State" : "TN",
+		"Latitude" : "+36.213293"
+	},
+	{
+		"Longitude" : "-082.976161",
+		"Zipcode" : "37818",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "MOSHEIM",
+		"State" : "TN",
+		"Latitude" : "+36.173296"
+	},
+	{
+		"Longitude" : "-084.192358",
+		"Zipcode" : "37819",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "NEWCOMB",
+		"State" : "TN",
+		"Latitude" : "+36.556524"
+	},
+	{
+		"Longitude" : "-083.559174",
+		"Zipcode" : "37820",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "NEW MARKET",
+		"State" : "TN",
+		"Latitude" : "+36.086723"
+	},
+	{
+		"Longitude" : "-083.159605",
+		"Zipcode" : "37821",
+		"ZipClass" : "STANDARD",
+		"County" : "COCKE",
+		"City" : "NEWPORT",
+		"State" : "TN",
+		"Latitude" : "+36.002440"
+	},
+	{
+		"Longitude" : "-083.106554",
+		"Zipcode" : "37822",
+		"ZipClass" : "STANDARD",
+		"County" : "COCKE",
+		"City" : "NEWPORT",
+		"State" : "TN",
+		"Latitude" : "+35.947688"
+	},
+	{
+		"Longitude" : "-083.591129",
+		"Zipcode" : "37824",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "NEW TAZEWELL",
+		"State" : "TN",
+		"Latitude" : "+36.449963"
+	},
+	{
+		"Longitude" : "-083.583199",
+		"Zipcode" : "37825",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "NEW TAZEWELL",
+		"State" : "TN",
+		"Latitude" : "+36.454861"
+	},
+	{
+		"Longitude" : "-084.582782",
+		"Zipcode" : "37826",
+		"ZipClass" : "STANDARD",
+		"County" : "MCMINN",
+		"City" : "NIOTA",
+		"State" : "TN",
+		"Latitude" : "+35.542073"
+	},
+	{
+		"Longitude" : "-084.085785",
+		"Zipcode" : "37828",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANDERSON",
+		"City" : "NORRIS",
+		"State" : "TN",
+		"Latitude" : "+36.200476"
+	},
+	{
+		"Longitude" : "-084.595764",
+		"Zipcode" : "37829",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "OAKDALE",
+		"State" : "TN",
+		"Latitude" : "+35.984852"
+	},
+	{
+		"Longitude" : "-084.243175",
+		"Zipcode" : "37830",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "OAK RIDGE",
+		"State" : "TN",
+		"Latitude" : "+36.019381"
+	},
+	{
+		"Longitude" : "-084.195796",
+		"Zipcode" : "37831",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "OAK RIDGE",
+		"State" : "TN",
+		"Latitude" : "+36.105971"
+	},
+	{
+		"Longitude" : "-084.440586",
+		"Zipcode" : "37840",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "OLIVER SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+36.049427"
+	},
+	{
+		"Longitude" : "-084.517984",
+		"Zipcode" : "37841",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "ONEIDA",
+		"State" : "TN",
+		"Latitude" : "+36.509395"
+	},
+	{
+		"Longitude" : "-084.792927",
+		"Zipcode" : "37842",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "OZONE",
+		"State" : "TN",
+		"Latitude" : "+35.875430"
+	},
+	{
+		"Longitude" : "-083.054705",
+		"Zipcode" : "37843",
+		"ZipClass" : "STANDARD",
+		"County" : "COCKE",
+		"City" : "PARROTTSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.023406"
+	},
+	{
+		"Longitude" : "-084.442969",
+		"Zipcode" : "37845",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "PETROS",
+		"State" : "TN",
+		"Latitude" : "+36.081406"
+	},
+	{
+		"Longitude" : "-084.431236",
+		"Zipcode" : "37846",
+		"ZipClass" : "STANDARD",
+		"County" : "LOUDON",
+		"City" : "PHILADELPHIA",
+		"State" : "TN",
+		"Latitude" : "+35.678118"
+	},
+	{
+		"Longitude" : "-084.201074",
+		"Zipcode" : "37847",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "PIONEER",
+		"State" : "TN",
+		"Latitude" : "+36.418966"
+	},
+	{
+		"Longitude" : "-083.493998",
+		"Zipcode" : "37848",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAINGER",
+		"City" : "POWDER SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+36.250636"
+	},
+	{
+		"Longitude" : "-084.021456",
+		"Zipcode" : "37849",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "POWELL",
+		"State" : "TN",
+		"Latitude" : "+36.071877"
+	},
+	{
+		"Longitude" : "-083.813920",
+		"Zipcode" : "37851",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAIBORNE",
+		"City" : "PRUDEN",
+		"State" : "TN",
+		"Latitude" : "+36.557884"
+	},
+	{
+		"Longitude" : "-084.581147",
+		"Zipcode" : "37852",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "ROBBINS",
+		"State" : "TN",
+		"Latitude" : "+36.377044"
+	},
+	{
+		"Longitude" : "-083.906157",
+		"Zipcode" : "37853",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "ROCKFORD",
+		"State" : "TN",
+		"Latitude" : "+35.837548"
+	},
+	{
+		"Longitude" : "-084.656532",
+		"Zipcode" : "37854",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "ROCKWOOD",
+		"State" : "TN",
+		"Latitude" : "+35.843277"
+	},
+	{
+		"Longitude" : "-082.949145",
+		"Zipcode" : "37857",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWKINS",
+		"City" : "ROGERSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.415976"
+	},
+	{
+		"Longitude" : "-083.185535",
+		"Zipcode" : "37860",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMBLEN",
+		"City" : "RUSSELLVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.244307"
+	},
+	{
+		"Longitude" : "-083.554826",
+		"Zipcode" : "37861",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAINGER",
+		"City" : "RUTLEDGE",
+		"State" : "TN",
+		"Latitude" : "+36.230696"
+	},
+	{
+		"Longitude" : "-083.572214",
+		"Zipcode" : "37862",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "SEVIERVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.833278"
+	},
+	{
+		"Longitude" : "-083.568939",
+		"Zipcode" : "37863",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "PIGEON FORGE",
+		"State" : "TN",
+		"Latitude" : "+35.833910"
+	},
+	{
+		"Longitude" : "-083.613849",
+		"Zipcode" : "37864",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "SEVIERVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.854211"
+	},
+	{
+		"Longitude" : "-083.711272",
+		"Zipcode" : "37865",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "SEYMOUR",
+		"State" : "TN",
+		"Latitude" : "+35.860530"
+	},
+	{
+		"Longitude" : "-083.820390",
+		"Zipcode" : "37866",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SHARPS CHAPEL",
+		"State" : "TN",
+		"Latitude" : "+36.342768"
+	},
+	{
+		"Longitude" : "-083.647254",
+		"Zipcode" : "37867",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAIBORNE",
+		"City" : "SHAWANEE",
+		"State" : "TN",
+		"Latitude" : "+36.580283"
+	},
+	{
+		"Longitude" : "-083.556134",
+		"Zipcode" : "37868",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "PIGEON FORGE",
+		"State" : "TN",
+		"Latitude" : "+35.880902"
+	},
+	{
+		"Longitude" : "-083.185624",
+		"Zipcode" : "37869",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "SNEEDVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.509867"
+	},
+	{
+		"Longitude" : "-083.823282",
+		"Zipcode" : "37870",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "SPEEDWELL",
+		"State" : "TN",
+		"Latitude" : "+36.484040"
+	},
+	{
+		"Longitude" : "-083.656829",
+		"Zipcode" : "37871",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "STRAWBERRY PLAINS",
+		"State" : "TN",
+		"Latitude" : "+36.068694"
+	},
+	{
+		"Longitude" : "-084.599987",
+		"Zipcode" : "37872",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "SUNBRIGHT",
+		"State" : "TN",
+		"Latitude" : "+36.182465"
+	},
+	{
+		"Longitude" : "-082.857862",
+		"Zipcode" : "37873",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWKINS",
+		"City" : "SURGOINSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.520167"
+	},
+	{
+		"Longitude" : "-084.410561",
+		"Zipcode" : "37874",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "SWEETWATER",
+		"State" : "TN",
+		"Latitude" : "+35.571343"
+	},
+	{
+		"Longitude" : "-083.514320",
+		"Zipcode" : "37876",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "SEVIERVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.849046"
+	},
+	{
+		"Longitude" : "-083.407043",
+		"Zipcode" : "37877",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMBLEN",
+		"City" : "TALBOTT",
+		"State" : "TN",
+		"Latitude" : "+36.177707"
+	},
+	{
+		"Longitude" : "-083.992315",
+		"Zipcode" : "37878",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "TALLASSEE",
+		"State" : "TN",
+		"Latitude" : "+35.584404"
+	},
+	{
+		"Longitude" : "-083.522140",
+		"Zipcode" : "37879",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "TAZEWELL",
+		"State" : "TN",
+		"Latitude" : "+36.471886"
+	},
+	{
+		"Longitude" : "-084.825054",
+		"Zipcode" : "37880",
+		"ZipClass" : "STANDARD",
+		"County" : "MEIGS",
+		"City" : "TEN MILE",
+		"State" : "TN",
+		"Latitude" : "+35.520244"
+	},
+	{
+		"Longitude" : "-083.493998",
+		"Zipcode" : "37881",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAINGER",
+		"City" : "THORN HILL",
+		"State" : "TN",
+		"Latitude" : "+36.250636"
+	},
+	{
+		"Longitude" : "-083.751242",
+		"Zipcode" : "37882",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "TOWNSEND",
+		"State" : "TN",
+		"Latitude" : "+35.682298"
+	},
+	{
+		"Longitude" : "-084.225767",
+		"Zipcode" : "37885",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "VONORE",
+		"State" : "TN",
+		"Latitude" : "+35.531891"
+	},
+	{
+		"Longitude" : "-083.804833",
+		"Zipcode" : "37886",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "WALLAND",
+		"State" : "TN",
+		"Latitude" : "+35.754464"
+	},
+	{
+		"Longitude" : "-084.560491",
+		"Zipcode" : "37887",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "WARTBURG",
+		"State" : "TN",
+		"Latitude" : "+36.031584"
+	},
+	{
+		"Longitude" : "-083.493998",
+		"Zipcode" : "37888",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAINGER",
+		"City" : "WASHBURN",
+		"State" : "TN",
+		"Latitude" : "+36.250636"
+	},
+	{
+		"Longitude" : "-083.299826",
+		"Zipcode" : "37890",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WHITE PINE",
+		"State" : "TN",
+		"Latitude" : "+36.077612"
+	},
+	{
+		"Longitude" : "-083.146114",
+		"Zipcode" : "37891",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMBLEN",
+		"City" : "WHITESBURG",
+		"State" : "TN",
+		"Latitude" : "+36.256858"
+	},
+	{
+		"Longitude" : "-084.414551",
+		"Zipcode" : "37892",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "WINFIELD",
+		"State" : "TN",
+		"Latitude" : "+36.548200"
+	},
+	{
+		"Longitude" : "-083.884804",
+		"Zipcode" : "37901",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.032334"
+	},
+	{
+		"Longitude" : "-083.875822",
+		"Zipcode" : "37902",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.944976"
+	},
+	{
+		"Longitude" : "-084.010109",
+		"Zipcode" : "37909",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.944822"
+	},
+	{
+		"Longitude" : "-084.015635",
+		"Zipcode" : "37912",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.981701"
+	},
+	{
+		"Longitude" : "-083.784109",
+		"Zipcode" : "37914",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.983366"
+	},
+	{
+		"Longitude" : "-083.905415",
+		"Zipcode" : "37915",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990369"
+	},
+	{
+		"Longitude" : "-083.973635",
+		"Zipcode" : "37916",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.933783"
+	},
+	{
+		"Longitude" : "-083.910527",
+		"Zipcode" : "37917",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.998447"
+	},
+	{
+		"Longitude" : "-083.909603",
+		"Zipcode" : "37918",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.065908"
+	},
+	{
+		"Longitude" : "-084.042240",
+		"Zipcode" : "37919",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.937391"
+	},
+	{
+		"Longitude" : "-083.938689",
+		"Zipcode" : "37920",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.892920"
+	},
+	{
+		"Longitude" : "-083.932092",
+		"Zipcode" : "37921",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.021873"
+	},
+	{
+		"Longitude" : "-084.119383",
+		"Zipcode" : "37922",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.858018"
+	},
+	{
+		"Longitude" : "-084.082405",
+		"Zipcode" : "37923",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.924795"
+	},
+	{
+		"Longitude" : "-083.975603",
+		"Zipcode" : "37924",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.985081"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37927",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37928",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.795492",
+		"Zipcode" : "37929",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.922421"
+	},
+	{
+		"Longitude" : "-083.953554",
+		"Zipcode" : "37930",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.902900"
+	},
+	{
+		"Longitude" : "-084.125653",
+		"Zipcode" : "37931",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.976167"
+	},
+	{
+		"Longitude" : "-084.148074",
+		"Zipcode" : "37932",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.933487"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37933",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.935206",
+		"Zipcode" : "37938",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.116665"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37939",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37940",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37950",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37990",
+		"ZipClass" : "UNIQUE",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37995",
+		"ZipClass" : "UNIQUE",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37996",
+		"ZipClass" : "UNIQUE",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.962180",
+		"Zipcode" : "37997",
+		"ZipClass" : "UNIQUE",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.990142"
+	},
+	{
+		"Longitude" : "-083.750258",
+		"Zipcode" : "37998",
+		"ZipClass" : "UNIQUE",
+		"County" : "KNOX",
+		"City" : "KNOXVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.935134"
+	},
+	{
+		"Longitude" : "-089.086594",
+		"Zipcode" : "38001",
+		"ZipClass" : "STANDARD",
+		"County" : "CROCKETT",
+		"City" : "ALAMO",
+		"State" : "TN",
+		"Latitude" : "+35.806106"
+	},
+	{
+		"Longitude" : "-089.752615",
+		"Zipcode" : "38002",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "ARLINGTON",
+		"State" : "TN",
+		"Latitude" : "+35.292102"
+	},
+	{
+		"Longitude" : "-089.809562",
+		"Zipcode" : "38004",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "ATOKA",
+		"State" : "TN",
+		"Latitude" : "+35.454301"
+	},
+	{
+		"Longitude" : "-089.104516",
+		"Zipcode" : "38006",
+		"ZipClass" : "STANDARD",
+		"County" : "CROCKETT",
+		"City" : "BELLS",
+		"State" : "TN",
+		"Latitude" : "+35.753570"
+	},
+	{
+		"Longitude" : "-089.437684",
+		"Zipcode" : "38007",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DYER",
+		"City" : "BOGOTA",
+		"State" : "TN",
+		"Latitude" : "+36.158668"
+	},
+	{
+		"Longitude" : "-088.986448",
+		"Zipcode" : "38008",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "BOLIVAR",
+		"State" : "TN",
+		"Latitude" : "+35.197635"
+	},
+	{
+		"Longitude" : "-089.488020",
+		"Zipcode" : "38010",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "BRADEN",
+		"State" : "TN",
+		"Latitude" : "+35.288624"
+	},
+	{
+		"Longitude" : "-089.745307",
+		"Zipcode" : "38011",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "BRIGHTON",
+		"State" : "TN",
+		"Latitude" : "+35.473412"
+	},
+	{
+		"Longitude" : "-089.276381",
+		"Zipcode" : "38012",
+		"ZipClass" : "STANDARD",
+		"County" : "HAYWOOD",
+		"City" : "BROWNSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.633418"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38014",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHELBY",
+		"City" : "BRUNSWICK",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.738952",
+		"Zipcode" : "38015",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "BURLISON",
+		"State" : "TN",
+		"Latitude" : "+35.551009"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "38016",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "CORDOVA",
+		"State" : "TN",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-089.699083",
+		"Zipcode" : "38017",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "COLLIERVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.080992"
+	},
+	{
+		"Longitude" : "-089.900314",
+		"Zipcode" : "38018",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "CORDOVA",
+		"State" : "TN",
+		"Latitude" : "+35.104589"
+	},
+	{
+		"Longitude" : "-089.635520",
+		"Zipcode" : "38019",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "COVINGTON",
+		"State" : "TN",
+		"Latitude" : "+35.541624"
+	},
+	{
+		"Longitude" : "-089.175275",
+		"Zipcode" : "38021",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CROCKETT",
+		"City" : "CROCKETT MILLS",
+		"State" : "TN",
+		"Latitude" : "+35.871014"
+	},
+	{
+		"Longitude" : "-089.934290",
+		"Zipcode" : "38023",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "DRUMMONDS",
+		"State" : "TN",
+		"Latitude" : "+35.460696"
+	},
+	{
+		"Longitude" : "-089.438461",
+		"Zipcode" : "38024",
+		"ZipClass" : "STANDARD",
+		"County" : "DYER",
+		"City" : "DYERSBURG",
+		"State" : "TN",
+		"Latitude" : "+36.036069"
+	},
+	{
+		"Longitude" : "-089.443779",
+		"Zipcode" : "38025",
+		"ZipClass" : "STANDARD",
+		"County" : "DYER",
+		"City" : "DYERSBURG",
+		"State" : "TN",
+		"Latitude" : "+36.046851"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38027",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "COLLIERVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.684982",
+		"Zipcode" : "38028",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "EADS",
+		"State" : "TN",
+		"Latitude" : "+35.175796"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38029",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHELBY",
+		"City" : "ELLENDALE",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.561464",
+		"Zipcode" : "38030",
+		"ZipClass" : "STANDARD",
+		"County" : "DYER",
+		"City" : "FINLEY",
+		"State" : "TN",
+		"Latitude" : "+36.068517"
+	},
+	{
+		"Longitude" : "-089.207168",
+		"Zipcode" : "38034",
+		"ZipClass" : "STANDARD",
+		"County" : "CROCKETT",
+		"City" : "FRIENDSHIP",
+		"State" : "TN",
+		"Latitude" : "+35.843638"
+	},
+	{
+		"Longitude" : "-089.619816",
+		"Zipcode" : "38036",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "GALLAWAY",
+		"State" : "TN",
+		"Latitude" : "+35.327428"
+	},
+	{
+		"Longitude" : "-089.646955",
+		"Zipcode" : "38037",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "GATES",
+		"State" : "TN",
+		"Latitude" : "+35.792984"
+	},
+	{
+		"Longitude" : "-089.140622",
+		"Zipcode" : "38039",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "GRAND JUNCTION",
+		"State" : "TN",
+		"Latitude" : "+35.055153"
+	},
+	{
+		"Longitude" : "-089.531217",
+		"Zipcode" : "38040",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "HALLS",
+		"State" : "TN",
+		"Latitude" : "+35.840794"
+	},
+	{
+		"Longitude" : "-089.696162",
+		"Zipcode" : "38041",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "HENNING",
+		"State" : "TN",
+		"Latitude" : "+35.659259"
+	},
+	{
+		"Longitude" : "-089.075852",
+		"Zipcode" : "38042",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "HICKORY VALLEY",
+		"State" : "TN",
+		"Latitude" : "+35.124195"
+	},
+	{
+		"Longitude" : "-088.955968",
+		"Zipcode" : "38044",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "HORNSBY",
+		"State" : "TN",
+		"Latitude" : "+35.189276"
+	},
+	{
+		"Longitude" : "-089.232185",
+		"Zipcode" : "38045",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "LACONIA",
+		"State" : "TN",
+		"Latitude" : "+35.290428"
+	},
+	{
+		"Longitude" : "-089.350387",
+		"Zipcode" : "38046",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "LA GRANGE",
+		"State" : "TN",
+		"Latitude" : "+35.104860"
+	},
+	{
+		"Longitude" : "-089.560879",
+		"Zipcode" : "38047",
+		"ZipClass" : "STANDARD",
+		"County" : "DYER",
+		"City" : "LENOX",
+		"State" : "TN",
+		"Latitude" : "+36.063765"
+	},
+	{
+		"Longitude" : "-089.481362",
+		"Zipcode" : "38048",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "MACON",
+		"State" : "TN",
+		"Latitude" : "+35.150660"
+	},
+	{
+		"Longitude" : "-089.563798",
+		"Zipcode" : "38049",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "MASON",
+		"State" : "TN",
+		"Latitude" : "+35.443164"
+	},
+	{
+		"Longitude" : "-089.227284",
+		"Zipcode" : "38050",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CROCKETT",
+		"City" : "MAURY CITY",
+		"State" : "TN",
+		"Latitude" : "+35.837913"
+	},
+	{
+		"Longitude" : "-088.912495",
+		"Zipcode" : "38052",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "MIDDLETON",
+		"State" : "TN",
+		"Latitude" : "+35.086247"
+	},
+	{
+		"Longitude" : "-089.892286",
+		"Zipcode" : "38053",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MILLINGTON",
+		"State" : "TN",
+		"Latitude" : "+35.320197"
+	},
+	{
+		"Longitude" : "-089.870636",
+		"Zipcode" : "38054",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MILLINGTON",
+		"State" : "TN",
+		"Latitude" : "+35.334132"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38055",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MILLINGTON",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.443779",
+		"Zipcode" : "38056",
+		"ZipClass" : "STANDARD",
+		"County" : "DYER",
+		"City" : "MISTON",
+		"State" : "TN",
+		"Latitude" : "+36.046851"
+	},
+	{
+		"Longitude" : "-089.337870",
+		"Zipcode" : "38057",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "MOSCOW",
+		"State" : "TN",
+		"Latitude" : "+35.077518"
+	},
+	{
+		"Longitude" : "-089.711843",
+		"Zipcode" : "38058",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "MUNFORD",
+		"State" : "TN",
+		"Latitude" : "+35.463075"
+	},
+	{
+		"Longitude" : "-089.272827",
+		"Zipcode" : "38059",
+		"ZipClass" : "STANDARD",
+		"County" : "DYER",
+		"City" : "NEWBERN",
+		"State" : "TN",
+		"Latitude" : "+36.113717"
+	},
+	{
+		"Longitude" : "-089.489977",
+		"Zipcode" : "38060",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "OAKLAND",
+		"State" : "TN",
+		"Latitude" : "+35.234809"
+	},
+	{
+		"Longitude" : "-088.957929",
+		"Zipcode" : "38061",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "POCAHONTAS",
+		"State" : "TN",
+		"Latitude" : "+35.075589"
+	},
+	{
+		"Longitude" : "-089.661120",
+		"Zipcode" : "38063",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "RIPLEY",
+		"State" : "TN",
+		"Latitude" : "+35.754505"
+	},
+	{
+		"Longitude" : "-089.421234",
+		"Zipcode" : "38066",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "ROSSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.084994"
+	},
+	{
+		"Longitude" : "-089.005719",
+		"Zipcode" : "38067",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "SAULSBURY",
+		"State" : "TN",
+		"Latitude" : "+35.084166"
+	},
+	{
+		"Longitude" : "-089.409857",
+		"Zipcode" : "38068",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "SOMERVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.259373"
+	},
+	{
+		"Longitude" : "-089.339146",
+		"Zipcode" : "38069",
+		"ZipClass" : "STANDARD",
+		"County" : "HAYWOOD",
+		"City" : "STANTON",
+		"State" : "TN",
+		"Latitude" : "+35.456111"
+	},
+	{
+		"Longitude" : "-089.243405",
+		"Zipcode" : "38070",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DYER",
+		"City" : "TIGRETT",
+		"State" : "TN",
+		"Latitude" : "+35.942019"
+	},
+	{
+		"Longitude" : "-089.818781",
+		"Zipcode" : "38071",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TIPTON",
+		"City" : "TIPTON",
+		"State" : "TN",
+		"Latitude" : "+35.414319"
+	},
+	{
+		"Longitude" : "-088.990028",
+		"Zipcode" : "38074",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "BOLIVAR",
+		"State" : "TN",
+		"Latitude" : "+35.213371"
+	},
+	{
+		"Longitude" : "-089.126324",
+		"Zipcode" : "38075",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "WHITEVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.314672"
+	},
+	{
+		"Longitude" : "-089.422466",
+		"Zipcode" : "38076",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "WILLISTON",
+		"State" : "TN",
+		"Latitude" : "+35.141626"
+	},
+	{
+		"Longitude" : "-089.522851",
+		"Zipcode" : "38077",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "WYNNBURG",
+		"State" : "TN",
+		"Latitude" : "+36.344296"
+	},
+	{
+		"Longitude" : "-089.472468",
+		"Zipcode" : "38079",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "TIPTONVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.355290"
+	},
+	{
+		"Longitude" : "-089.465379",
+		"Zipcode" : "38080",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "RIDGELY",
+		"State" : "TN",
+		"Latitude" : "+36.259730"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38083",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MILLINGTON",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38088",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "CORDOVA",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.847782",
+		"Zipcode" : "38101",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.050667"
+	},
+	{
+		"Longitude" : "-090.049631",
+		"Zipcode" : "38103",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.154875"
+	},
+	{
+		"Longitude" : "-090.002079",
+		"Zipcode" : "38104",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.135730"
+	},
+	{
+		"Longitude" : "-090.033959",
+		"Zipcode" : "38105",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.151820"
+	},
+	{
+		"Longitude" : "-090.042984",
+		"Zipcode" : "38106",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.096351"
+	},
+	{
+		"Longitude" : "-090.017716",
+		"Zipcode" : "38107",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.170953"
+	},
+	{
+		"Longitude" : "-089.973060",
+		"Zipcode" : "38108",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.175239"
+	},
+	{
+		"Longitude" : "-090.094757",
+		"Zipcode" : "38109",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.053795"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38110",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.948119",
+		"Zipcode" : "38111",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.109560"
+	},
+	{
+		"Longitude" : "-089.981523",
+		"Zipcode" : "38112",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.146285"
+	},
+	{
+		"Longitude" : "-089.984484",
+		"Zipcode" : "38113",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.127380"
+	},
+	{
+		"Longitude" : "-089.985187",
+		"Zipcode" : "38114",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.099348"
+	},
+	{
+		"Longitude" : "-089.864023",
+		"Zipcode" : "38115",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.057906"
+	},
+	{
+		"Longitude" : "-090.011090",
+		"Zipcode" : "38116",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.032879"
+	},
+	{
+		"Longitude" : "-089.906749",
+		"Zipcode" : "38117",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.113588"
+	},
+	{
+		"Longitude" : "-089.930187",
+		"Zipcode" : "38118",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.037585"
+	},
+	{
+		"Longitude" : "-089.841963",
+		"Zipcode" : "38119",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.078775"
+	},
+	{
+		"Longitude" : "-089.842541",
+		"Zipcode" : "38120",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.123644"
+	},
+	{
+		"Longitude" : "-089.918514",
+		"Zipcode" : "38122",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.157958"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38124",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.782647",
+		"Zipcode" : "38125",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.028829"
+	},
+	{
+		"Longitude" : "-090.044782",
+		"Zipcode" : "38126",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.127163"
+	},
+	{
+		"Longitude" : "-090.011979",
+		"Zipcode" : "38127",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.243460"
+	},
+	{
+		"Longitude" : "-089.920266",
+		"Zipcode" : "38128",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.223442"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38130",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.992905",
+		"Zipcode" : "38131",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.064837"
+	},
+	{
+		"Longitude" : "-090.003349",
+		"Zipcode" : "38132",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.068014"
+	},
+	{
+		"Longitude" : "-089.791656",
+		"Zipcode" : "38133",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.208941"
+	},
+	{
+		"Longitude" : "-089.857389",
+		"Zipcode" : "38134",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.184469"
+	},
+	{
+		"Longitude" : "-089.843594",
+		"Zipcode" : "38135",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.234976"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38136",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38137",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.792638",
+		"Zipcode" : "38138",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "GERMANTOWN",
+		"State" : "TN",
+		"Latitude" : "+35.087530"
+	},
+	{
+		"Longitude" : "-089.759979",
+		"Zipcode" : "38139",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "GERMANTOWN",
+		"State" : "TN",
+		"Latitude" : "+35.077091"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38140",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.853346",
+		"Zipcode" : "38141",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.014466"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38142",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38143",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38145",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38146",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38147",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38148",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38150",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38151",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38152",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38157",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38159",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38161",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38163",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38165",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38166",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38167",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38168",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38173",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38174",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38175",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38177",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38181",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38182",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38183",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "GERMANTOWN",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38184",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38186",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38187",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38188",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38190",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38193",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38194",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38195",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-089.971538",
+		"Zipcode" : "38197",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHELBY",
+		"City" : "MEMPHIS",
+		"State" : "TN",
+		"Latitude" : "+35.201738"
+	},
+	{
+		"Longitude" : "-088.495094",
+		"Zipcode" : "38201",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "MC KENZIE",
+		"State" : "TN",
+		"Latitude" : "+36.077501"
+	},
+	{
+		"Longitude" : "-088.635869",
+		"Zipcode" : "38220",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "ATWOOD",
+		"State" : "TN",
+		"Latitude" : "+35.989910"
+	},
+	{
+		"Longitude" : "-088.046704",
+		"Zipcode" : "38221",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "BIG SANDY",
+		"State" : "TN",
+		"Latitude" : "+36.246599"
+	},
+	{
+		"Longitude" : "-088.179868",
+		"Zipcode" : "38222",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "BUCHANAN",
+		"State" : "TN",
+		"Latitude" : "+36.428005"
+	},
+	{
+		"Longitude" : "-088.260367",
+		"Zipcode" : "38223",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENRY",
+		"City" : "COMO",
+		"State" : "TN",
+		"Latitude" : "+36.310995"
+	},
+	{
+		"Longitude" : "-088.466035",
+		"Zipcode" : "38224",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "COTTAGE GROVE",
+		"State" : "TN",
+		"Latitude" : "+36.401598"
+	},
+	{
+		"Longitude" : "-088.742473",
+		"Zipcode" : "38225",
+		"ZipClass" : "STANDARD",
+		"County" : "WEAKLEY",
+		"City" : "DRESDEN",
+		"State" : "TN",
+		"Latitude" : "+36.313605"
+	},
+	{
+		"Longitude" : "-088.677715",
+		"Zipcode" : "38226",
+		"ZipClass" : "STANDARD",
+		"County" : "WEAKLEY",
+		"City" : "DUKEDOM",
+		"State" : "TN",
+		"Latitude" : "+36.347497"
+	},
+	{
+		"Longitude" : "-088.616346",
+		"Zipcode" : "38229",
+		"ZipClass" : "STANDARD",
+		"County" : "WEAKLEY",
+		"City" : "GLEASON",
+		"State" : "TN",
+		"Latitude" : "+36.224842"
+	},
+	{
+		"Longitude" : "-088.781253",
+		"Zipcode" : "38230",
+		"ZipClass" : "STANDARD",
+		"County" : "WEAKLEY",
+		"City" : "GREENFIELD",
+		"State" : "TN",
+		"Latitude" : "+36.213708"
+	},
+	{
+		"Longitude" : "-088.421701",
+		"Zipcode" : "38231",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "HENRY",
+		"State" : "TN",
+		"Latitude" : "+36.221214"
+	},
+	{
+		"Longitude" : "-089.333345",
+		"Zipcode" : "38232",
+		"ZipClass" : "STANDARD",
+		"County" : "OBION",
+		"City" : "HORNBEAK",
+		"State" : "TN",
+		"Latitude" : "+36.352880"
+	},
+	{
+		"Longitude" : "-089.028993",
+		"Zipcode" : "38233",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "KENTON",
+		"State" : "TN",
+		"Latitude" : "+36.134323"
+	},
+	{
+		"Longitude" : "-088.574447",
+		"Zipcode" : "38235",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "MC LEMORESVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.977824"
+	},
+	{
+		"Longitude" : "-088.277355",
+		"Zipcode" : "38236",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "MANSFIELD",
+		"State" : "TN",
+		"Latitude" : "+36.176184"
+	},
+	{
+		"Longitude" : "-088.782561",
+		"Zipcode" : "38237",
+		"ZipClass" : "STANDARD",
+		"County" : "WEAKLEY",
+		"City" : "MARTIN",
+		"State" : "TN",
+		"Latitude" : "+36.324103"
+	},
+	{
+		"Longitude" : "-088.738132",
+		"Zipcode" : "38238",
+		"ZipClass" : "UNIQUE",
+		"County" : "WEAKLEY",
+		"City" : "MARTIN",
+		"State" : "TN",
+		"Latitude" : "+36.282357"
+	},
+	{
+		"Longitude" : "-089.292228",
+		"Zipcode" : "38240",
+		"ZipClass" : "STANDARD",
+		"County" : "OBION",
+		"City" : "OBION",
+		"State" : "TN",
+		"Latitude" : "+36.271215"
+	},
+	{
+		"Longitude" : "-088.611055",
+		"Zipcode" : "38241",
+		"ZipClass" : "STANDARD",
+		"County" : "WEAKLEY",
+		"City" : "PALMERSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.391905"
+	},
+	{
+		"Longitude" : "-088.315916",
+		"Zipcode" : "38242",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "PARIS",
+		"State" : "TN",
+		"Latitude" : "+36.315860"
+	},
+	{
+		"Longitude" : "-088.304762",
+		"Zipcode" : "38251",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "PURYEAR",
+		"State" : "TN",
+		"Latitude" : "+36.333902"
+	},
+	{
+		"Longitude" : "-089.073128",
+		"Zipcode" : "38253",
+		"ZipClass" : "STANDARD",
+		"County" : "OBION",
+		"City" : "RIVES",
+		"State" : "TN",
+		"Latitude" : "+36.310755"
+	},
+	{
+		"Longitude" : "-089.353821",
+		"Zipcode" : "38254",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OBION",
+		"City" : "SAMBURG",
+		"State" : "TN",
+		"Latitude" : "+36.379051"
+	},
+	{
+		"Longitude" : "-088.860371",
+		"Zipcode" : "38255",
+		"ZipClass" : "STANDARD",
+		"County" : "WEAKLEY",
+		"City" : "SHARON",
+		"State" : "TN",
+		"Latitude" : "+36.241614"
+	},
+	{
+		"Longitude" : "-088.157201",
+		"Zipcode" : "38256",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "SPRINGVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.295353"
+	},
+	{
+		"Longitude" : "-089.083960",
+		"Zipcode" : "38257",
+		"ZipClass" : "STANDARD",
+		"County" : "OBION",
+		"City" : "SOUTH FULTON",
+		"State" : "TN",
+		"Latitude" : "+36.381482"
+	},
+	{
+		"Longitude" : "-088.606605",
+		"Zipcode" : "38258",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "TREZEVANT",
+		"State" : "TN",
+		"Latitude" : "+36.040631"
+	},
+	{
+		"Longitude" : "-089.198503",
+		"Zipcode" : "38259",
+		"ZipClass" : "STANDARD",
+		"County" : "DYER",
+		"City" : "TRIMBLE",
+		"State" : "TN",
+		"Latitude" : "+36.168626"
+	},
+	{
+		"Longitude" : "-089.210108",
+		"Zipcode" : "38260",
+		"ZipClass" : "STANDARD",
+		"County" : "OBION",
+		"City" : "TROY",
+		"State" : "TN",
+		"Latitude" : "+36.358606"
+	},
+	{
+		"Longitude" : "-089.122231",
+		"Zipcode" : "38261",
+		"ZipClass" : "STANDARD",
+		"County" : "OBION",
+		"City" : "UNION CITY",
+		"State" : "TN",
+		"Latitude" : "+36.354638"
+	},
+	{
+		"Longitude" : "-089.233227",
+		"Zipcode" : "38271",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OBION",
+		"City" : "WOODLAND MILLS",
+		"State" : "TN",
+		"Latitude" : "+36.458295"
+	},
+	{
+		"Longitude" : "-089.149881",
+		"Zipcode" : "38281",
+		"ZipClass" : "STANDARD",
+		"County" : "OBION",
+		"City" : "UNION CITY",
+		"State" : "TN",
+		"Latitude" : "+36.354384"
+	},
+	{
+		"Longitude" : "-088.862742",
+		"Zipcode" : "38301",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "JACKSON",
+		"State" : "TN",
+		"Latitude" : "+35.570424"
+	},
+	{
+		"Longitude" : "-088.841225",
+		"Zipcode" : "38302",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "JACKSON",
+		"State" : "TN",
+		"Latitude" : "+35.612405"
+	},
+	{
+		"Longitude" : "-088.841225",
+		"Zipcode" : "38303",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "JACKSON",
+		"State" : "TN",
+		"Latitude" : "+35.612405"
+	},
+	{
+		"Longitude" : "-088.835682",
+		"Zipcode" : "38305",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "JACKSON",
+		"State" : "TN",
+		"Latitude" : "+35.652446"
+	},
+	{
+		"Longitude" : "-088.841225",
+		"Zipcode" : "38308",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "JACKSON",
+		"State" : "TN",
+		"Latitude" : "+35.612405"
+	},
+	{
+		"Longitude" : "-088.447528",
+		"Zipcode" : "38310",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "ADAMSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.271057"
+	},
+	{
+		"Longitude" : "-088.121113",
+		"Zipcode" : "38311",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "BATH SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+35.448494"
+	},
+	{
+		"Longitude" : "-088.660454",
+		"Zipcode" : "38313",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "BEECH BLUFF",
+		"State" : "TN",
+		"Latitude" : "+35.613916"
+	},
+	{
+		"Longitude" : "-088.841225",
+		"Zipcode" : "38314",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "JACKSON",
+		"State" : "TN",
+		"Latitude" : "+35.612405"
+	},
+	{
+		"Longitude" : "-088.626639",
+		"Zipcode" : "38315",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "BETHEL SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+35.272195"
+	},
+	{
+		"Longitude" : "-088.804199",
+		"Zipcode" : "38316",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "BRADFORD",
+		"State" : "TN",
+		"Latitude" : "+36.057402"
+	},
+	{
+		"Longitude" : "-088.282103",
+		"Zipcode" : "38317",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "BRUCETON",
+		"State" : "TN",
+		"Latitude" : "+36.056026"
+	},
+	{
+		"Longitude" : "-088.270214",
+		"Zipcode" : "38318",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "BUENA VISTA",
+		"State" : "TN",
+		"Latitude" : "+35.961327"
+	},
+	{
+		"Longitude" : "-088.101856",
+		"Zipcode" : "38320",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "CAMDEN",
+		"State" : "TN",
+		"Latitude" : "+36.082972"
+	},
+	{
+		"Longitude" : "-088.529538",
+		"Zipcode" : "38321",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CEDAR GROVE",
+		"State" : "TN",
+		"Latitude" : "+35.871790"
+	},
+	{
+		"Longitude" : "-088.393430",
+		"Zipcode" : "38324",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "CLARKSBURG",
+		"State" : "TN",
+		"Latitude" : "+35.867454"
+	},
+	{
+		"Longitude" : "-088.292167",
+		"Zipcode" : "38326",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "COUNCE",
+		"State" : "TN",
+		"Latitude" : "+35.110079"
+	},
+	{
+		"Longitude" : "-088.319171",
+		"Zipcode" : "38327",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "CRUMP",
+		"State" : "TN",
+		"Latitude" : "+35.219095"
+	},
+	{
+		"Longitude" : "-088.215928",
+		"Zipcode" : "38328",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "DARDEN",
+		"State" : "TN",
+		"Latitude" : "+35.666113"
+	},
+	{
+		"Longitude" : "-088.114375",
+		"Zipcode" : "38329",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "DECATURVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.536264"
+	},
+	{
+		"Longitude" : "-089.036758",
+		"Zipcode" : "38330",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "DYER",
+		"State" : "TN",
+		"Latitude" : "+36.080961"
+	},
+	{
+		"Longitude" : "-089.131915",
+		"Zipcode" : "38331",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GIBSON",
+		"City" : "EATON",
+		"State" : "TN",
+		"Latitude" : "+35.969336"
+	},
+	{
+		"Longitude" : "-088.429204",
+		"Zipcode" : "38332",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "ENVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.428488"
+	},
+	{
+		"Longitude" : "-087.981970",
+		"Zipcode" : "38333",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "EVA",
+		"State" : "TN",
+		"Latitude" : "+36.114158"
+	},
+	{
+		"Longitude" : "-088.567203",
+		"Zipcode" : "38334",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "FINGER",
+		"State" : "TN",
+		"Latitude" : "+35.268959"
+	},
+	{
+		"Longitude" : "-089.032672",
+		"Zipcode" : "38336",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CROCKETT",
+		"City" : "FRUITVALE",
+		"State" : "TN",
+		"Latitude" : "+35.748414"
+	},
+	{
+		"Longitude" : "-089.026456",
+		"Zipcode" : "38337",
+		"ZipClass" : "STANDARD",
+		"County" : "CROCKETT",
+		"City" : "GADSDEN",
+		"State" : "TN",
+		"Latitude" : "+35.780292"
+	},
+	{
+		"Longitude" : "-088.846372",
+		"Zipcode" : "38338",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GIBSON",
+		"City" : "GIBSON",
+		"State" : "TN",
+		"Latitude" : "+35.870849"
+	},
+	{
+		"Longitude" : "-088.504368",
+		"Zipcode" : "38339",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "GUYS",
+		"State" : "TN",
+		"Latitude" : "+35.056023"
+	},
+	{
+		"Longitude" : "-088.642991",
+		"Zipcode" : "38340",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "HENDERSON",
+		"State" : "TN",
+		"Latitude" : "+35.407562"
+	},
+	{
+		"Longitude" : "-088.078052",
+		"Zipcode" : "38341",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "HOLLADAY",
+		"State" : "TN",
+		"Latitude" : "+35.905992"
+	},
+	{
+		"Longitude" : "-088.291871",
+		"Zipcode" : "38342",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "HOLLOW ROCK",
+		"State" : "TN",
+		"Latitude" : "+36.050380"
+	},
+	{
+		"Longitude" : "-088.931010",
+		"Zipcode" : "38343",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "HUMBOLDT",
+		"State" : "TN",
+		"Latitude" : "+35.880408"
+	},
+	{
+		"Longitude" : "-088.433709",
+		"Zipcode" : "38344",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "HUNTINGDON",
+		"State" : "TN",
+		"Latitude" : "+35.985967"
+	},
+	{
+		"Longitude" : "-088.496219",
+		"Zipcode" : "38345",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "HURON",
+		"State" : "TN",
+		"Latitude" : "+35.621106"
+	},
+	{
+		"Longitude" : "-088.805599",
+		"Zipcode" : "38346",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GIBSON",
+		"City" : "IDLEWILD",
+		"State" : "TN",
+		"Latitude" : "+36.030588"
+	},
+	{
+		"Longitude" : "-088.491318",
+		"Zipcode" : "38347",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "JACKS CREEK",
+		"State" : "TN",
+		"Latitude" : "+35.471954"
+	},
+	{
+		"Longitude" : "-088.640325",
+		"Zipcode" : "38348",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "LAVINIA",
+		"State" : "TN",
+		"Latitude" : "+35.860641"
+	},
+	{
+		"Longitude" : "-088.412139",
+		"Zipcode" : "38351",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "LEXINGTON",
+		"State" : "TN",
+		"Latitude" : "+35.675767"
+	},
+	{
+		"Longitude" : "-088.537854",
+		"Zipcode" : "38352",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "LURAY",
+		"State" : "TN",
+		"Latitude" : "+35.535462"
+	},
+	{
+		"Longitude" : "-088.753157",
+		"Zipcode" : "38355",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "MEDINA",
+		"State" : "TN",
+		"Latitude" : "+35.813893"
+	},
+	{
+		"Longitude" : "-088.911302",
+		"Zipcode" : "38356",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MEDON",
+		"State" : "TN",
+		"Latitude" : "+35.482255"
+	},
+	{
+		"Longitude" : "-088.565035",
+		"Zipcode" : "38357",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "MICHIE",
+		"State" : "TN",
+		"Latitude" : "+35.139103"
+	},
+	{
+		"Longitude" : "-088.813982",
+		"Zipcode" : "38358",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "MILAN",
+		"State" : "TN",
+		"Latitude" : "+35.920312"
+	},
+	{
+		"Longitude" : "-088.388143",
+		"Zipcode" : "38359",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "MILLEDGEVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.367207"
+	},
+	{
+		"Longitude" : "-088.274636",
+		"Zipcode" : "38361",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "MORRIS CHAPEL",
+		"State" : "TN",
+		"Latitude" : "+35.300156"
+	},
+	{
+		"Longitude" : "-088.780118",
+		"Zipcode" : "38362",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "OAKFIELD",
+		"State" : "TN",
+		"Latitude" : "+35.724238"
+	},
+	{
+		"Longitude" : "-088.111755",
+		"Zipcode" : "38363",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "PARSONS",
+		"State" : "TN",
+		"Latitude" : "+35.697465"
+	},
+	{
+		"Longitude" : "-088.225601",
+		"Zipcode" : "38365",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARDIN",
+		"City" : "PICKWICK DAM",
+		"State" : "TN",
+		"Latitude" : "+35.038284"
+	},
+	{
+		"Longitude" : "-088.747695",
+		"Zipcode" : "38366",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "PINSON",
+		"State" : "TN",
+		"Latitude" : "+35.485000"
+	},
+	{
+		"Longitude" : "-088.641833",
+		"Zipcode" : "38367",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "RAMER",
+		"State" : "TN",
+		"Latitude" : "+35.065178"
+	},
+	{
+		"Longitude" : "-088.368317",
+		"Zipcode" : "38368",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "REAGAN",
+		"State" : "TN",
+		"Latitude" : "+35.501858"
+	},
+	{
+		"Longitude" : "-088.959639",
+		"Zipcode" : "38369",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "RUTHERFORD",
+		"State" : "TN",
+		"Latitude" : "+36.127152"
+	},
+	{
+		"Longitude" : "-088.242750",
+		"Zipcode" : "38370",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "SALTILLO",
+		"State" : "TN",
+		"Latitude" : "+35.322354"
+	},
+	{
+		"Longitude" : "-088.298898",
+		"Zipcode" : "38371",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "SARDIS",
+		"State" : "TN",
+		"Latitude" : "+35.467143"
+	},
+	{
+		"Longitude" : "-088.179203",
+		"Zipcode" : "38372",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "SAVANNAH",
+		"State" : "TN",
+		"Latitude" : "+35.210571"
+	},
+	{
+		"Longitude" : "-088.213800",
+		"Zipcode" : "38374",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "SCOTTS HILL",
+		"State" : "TN",
+		"Latitude" : "+35.466358"
+	},
+	{
+		"Longitude" : "-088.580145",
+		"Zipcode" : "38375",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "SELMER",
+		"State" : "TN",
+		"Latitude" : "+35.214443"
+	},
+	{
+		"Longitude" : "-088.346807",
+		"Zipcode" : "38376",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "SHILOH",
+		"State" : "TN",
+		"Latitude" : "+35.126018"
+	},
+	{
+		"Longitude" : "-088.826923",
+		"Zipcode" : "38377",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARDEMAN",
+		"City" : "SILERTON",
+		"State" : "TN",
+		"Latitude" : "+35.356040"
+	},
+	{
+		"Longitude" : "-088.683882",
+		"Zipcode" : "38378",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "SPRING CREEK",
+		"State" : "TN",
+		"Latitude" : "+35.766822"
+	},
+	{
+		"Longitude" : "-088.443952",
+		"Zipcode" : "38379",
+		"ZipClass" : "STANDARD",
+		"County" : "MCNAIRY",
+		"City" : "STANTONVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.164604"
+	},
+	{
+		"Longitude" : "-088.041426",
+		"Zipcode" : "38380",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "SUGAR TREE",
+		"State" : "TN",
+		"Latitude" : "+35.785097"
+	},
+	{
+		"Longitude" : "-088.942458",
+		"Zipcode" : "38381",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDEMAN",
+		"City" : "TOONE",
+		"State" : "TN",
+		"Latitude" : "+35.343473"
+	},
+	{
+		"Longitude" : "-088.981500",
+		"Zipcode" : "38382",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "TRENTON",
+		"State" : "TN",
+		"Latitude" : "+35.967130"
+	},
+	{
+		"Longitude" : "-088.289175",
+		"Zipcode" : "38387",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WESTPORT",
+		"State" : "TN",
+		"Latitude" : "+35.884516"
+	},
+	{
+		"Longitude" : "-088.348263",
+		"Zipcode" : "38388",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "WILDERSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.768119"
+	},
+	{
+		"Longitude" : "-089.111653",
+		"Zipcode" : "38389",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GIBSON",
+		"City" : "YORKVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.135364"
+	},
+	{
+		"Longitude" : "-088.357504",
+		"Zipcode" : "38390",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "YUMA",
+		"State" : "TN",
+		"Latitude" : "+35.845800"
+	},
+	{
+		"Longitude" : "-088.988401",
+		"Zipcode" : "38391",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "DENMARK",
+		"State" : "TN",
+		"Latitude" : "+35.540108"
+	},
+	{
+		"Longitude" : "-089.027133",
+		"Zipcode" : "38392",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MERCER",
+		"State" : "TN",
+		"Latitude" : "+35.481628"
+	},
+	{
+		"Longitude" : "-088.645577",
+		"Zipcode" : "38393",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCNAIRY",
+		"City" : "CHEWALLA",
+		"State" : "TN",
+		"Latitude" : "+34.996870"
+	},
+	{
+		"Longitude" : "-087.004040",
+		"Zipcode" : "38401",
+		"ZipClass" : "STANDARD",
+		"County" : "MAURY",
+		"City" : "COLUMBIA",
+		"State" : "TN",
+		"Latitude" : "+35.623997"
+	},
+	{
+		"Longitude" : "-087.068172",
+		"Zipcode" : "38402",
+		"ZipClass" : "STANDARD",
+		"County" : "MAURY",
+		"City" : "COLUMBIA",
+		"State" : "TN",
+		"Latitude" : "+35.629413"
+	},
+	{
+		"Longitude" : "-087.930163",
+		"Zipcode" : "38425",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "CLIFTON",
+		"State" : "TN",
+		"Latitude" : "+35.388038"
+	},
+	{
+		"Longitude" : "-086.883959",
+		"Zipcode" : "38449",
+		"ZipClass" : "STANDARD",
+		"County" : "GILES",
+		"City" : "ARDMORE",
+		"State" : "TN",
+		"Latitude" : "+35.055109"
+	},
+	{
+		"Longitude" : "-087.786778",
+		"Zipcode" : "38450",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "COLLINWOOD",
+		"State" : "TN",
+		"Latitude" : "+35.180623"
+	},
+	{
+		"Longitude" : "-087.093094",
+		"Zipcode" : "38451",
+		"ZipClass" : "STANDARD",
+		"County" : "MAURY",
+		"City" : "CULLEOKA",
+		"State" : "TN",
+		"Latitude" : "+35.493211"
+	},
+	{
+		"Longitude" : "-087.827937",
+		"Zipcode" : "38452",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "CYPRESS INN",
+		"State" : "TN",
+		"Latitude" : "+35.195385"
+	},
+	{
+		"Longitude" : "-086.716719",
+		"Zipcode" : "38453",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "DELLROSE",
+		"State" : "TN",
+		"Latitude" : "+35.092452"
+	},
+	{
+		"Longitude" : "-087.357729",
+		"Zipcode" : "38454",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "DUCK RIVER",
+		"State" : "TN",
+		"Latitude" : "+35.748030"
+	},
+	{
+		"Longitude" : "-086.895305",
+		"Zipcode" : "38455",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILES",
+		"City" : "ELKTON",
+		"State" : "TN",
+		"Latitude" : "+35.053920"
+	},
+	{
+		"Longitude" : "-087.307286",
+		"Zipcode" : "38456",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "ETHRIDGE",
+		"State" : "TN",
+		"Latitude" : "+35.339549"
+	},
+	{
+		"Longitude" : "-087.291424",
+		"Zipcode" : "38457",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "FIVE POINTS",
+		"State" : "TN",
+		"Latitude" : "+35.035472"
+	},
+	{
+		"Longitude" : "-086.850038",
+		"Zipcode" : "38459",
+		"ZipClass" : "STANDARD",
+		"County" : "GILES",
+		"City" : "FRANKEWING",
+		"State" : "TN",
+		"Latitude" : "+35.183444"
+	},
+	{
+		"Longitude" : "-087.143713",
+		"Zipcode" : "38460",
+		"ZipClass" : "STANDARD",
+		"County" : "GILES",
+		"City" : "GOODSPRING",
+		"State" : "TN",
+		"Latitude" : "+35.077182"
+	},
+	{
+		"Longitude" : "-087.294020",
+		"Zipcode" : "38461",
+		"ZipClass" : "STANDARD",
+		"County" : "MAURY",
+		"City" : "HAMPSHIRE",
+		"State" : "TN",
+		"Latitude" : "+35.627022"
+	},
+	{
+		"Longitude" : "-087.489057",
+		"Zipcode" : "38462",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "HOHENWALD",
+		"State" : "TN",
+		"Latitude" : "+35.526554"
+	},
+	{
+		"Longitude" : "-087.549745",
+		"Zipcode" : "38463",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "IRON CITY",
+		"State" : "TN",
+		"Latitude" : "+35.071320"
+	},
+	{
+		"Longitude" : "-087.397143",
+		"Zipcode" : "38464",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "LAWRENCEBURG",
+		"State" : "TN",
+		"Latitude" : "+35.235493"
+	},
+	{
+		"Longitude" : "-087.295169",
+		"Zipcode" : "38468",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "LEOMA",
+		"State" : "TN",
+		"Latitude" : "+35.149182"
+	},
+	{
+		"Longitude" : "-087.433561",
+		"Zipcode" : "38469",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "LORETTO",
+		"State" : "TN",
+		"Latitude" : "+35.078858"
+	},
+	{
+		"Longitude" : "-087.901086",
+		"Zipcode" : "38471",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "LUTTS",
+		"State" : "TN",
+		"Latitude" : "+35.083472"
+	},
+	{
+		"Longitude" : "-087.023994",
+		"Zipcode" : "38472",
+		"ZipClass" : "STANDARD",
+		"County" : "GILES",
+		"City" : "LYNNVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.254073"
+	},
+	{
+		"Longitude" : "-087.150744",
+		"Zipcode" : "38473",
+		"ZipClass" : "STANDARD",
+		"County" : "GILES",
+		"City" : "MINOR HILL",
+		"State" : "TN",
+		"Latitude" : "+35.036274"
+	},
+	{
+		"Longitude" : "-087.209525",
+		"Zipcode" : "38474",
+		"ZipClass" : "STANDARD",
+		"County" : "MAURY",
+		"City" : "MOUNT PLEASANT",
+		"State" : "TN",
+		"Latitude" : "+35.541801"
+	},
+	{
+		"Longitude" : "-088.053366",
+		"Zipcode" : "38475",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "OLIVEHILL",
+		"State" : "TN",
+		"Latitude" : "+35.264369"
+	},
+	{
+		"Longitude" : "-087.259140",
+		"Zipcode" : "38476",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "PRIMM SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+35.803869"
+	},
+	{
+		"Longitude" : "-087.000953",
+		"Zipcode" : "38477",
+		"ZipClass" : "STANDARD",
+		"County" : "GILES",
+		"City" : "PROSPECT",
+		"State" : "TN",
+		"Latitude" : "+35.093795"
+	},
+	{
+		"Longitude" : "-087.015664",
+		"Zipcode" : "38478",
+		"ZipClass" : "STANDARD",
+		"County" : "GILES",
+		"City" : "PULASKI",
+		"State" : "TN",
+		"Latitude" : "+35.217373"
+	},
+	{
+		"Longitude" : "-087.493360",
+		"Zipcode" : "38481",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SAINT JOSEPH",
+		"State" : "TN",
+		"Latitude" : "+35.034741"
+	},
+	{
+		"Longitude" : "-087.146428",
+		"Zipcode" : "38482",
+		"ZipClass" : "STANDARD",
+		"County" : "MAURY",
+		"City" : "SANTA FE",
+		"State" : "TN",
+		"Latitude" : "+35.772652"
+	},
+	{
+		"Longitude" : "-087.399717",
+		"Zipcode" : "38483",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SUMMERTOWN",
+		"State" : "TN",
+		"Latitude" : "+35.239335"
+	},
+	{
+		"Longitude" : "-087.775459",
+		"Zipcode" : "38485",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "WAYNESBORO",
+		"State" : "TN",
+		"Latitude" : "+35.345882"
+	},
+	{
+		"Longitude" : "-087.402375",
+		"Zipcode" : "38486",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "WESTPOINT",
+		"State" : "TN",
+		"Latitude" : "+35.170415"
+	},
+	{
+		"Longitude" : "-087.212698",
+		"Zipcode" : "38487",
+		"ZipClass" : "STANDARD",
+		"County" : "MAURY",
+		"City" : "WILLIAMSPORT",
+		"State" : "TN",
+		"Latitude" : "+35.722628"
+	},
+	{
+		"Longitude" : "-086.717885",
+		"Zipcode" : "38488",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TAFT",
+		"State" : "TN",
+		"Latitude" : "+35.052581"
+	},
+	{
+		"Longitude" : "-085.542327",
+		"Zipcode" : "38501",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "COOKEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.217846"
+	},
+	{
+		"Longitude" : "-085.454779",
+		"Zipcode" : "38502",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "COOKEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.141824"
+	},
+	{
+		"Longitude" : "-085.454779",
+		"Zipcode" : "38503",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "COOKEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.141824"
+	},
+	{
+		"Longitude" : "-084.775579",
+		"Zipcode" : "38504",
+		"ZipClass" : "STANDARD",
+		"County" : "FENTRESS",
+		"City" : "ALLARDT",
+		"State" : "TN",
+		"Latitude" : "+36.381838"
+	},
+	{
+		"Longitude" : "-085.454779",
+		"Zipcode" : "38505",
+		"ZipClass" : "UNIQUE",
+		"County" : "PUTNAM",
+		"City" : "COOKEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.141824"
+	},
+	{
+		"Longitude" : "-085.469451",
+		"Zipcode" : "38506",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "COOKEVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.182723"
+	},
+	{
+		"Longitude" : "-085.346687",
+		"Zipcode" : "38541",
+		"ZipClass" : "STANDARD",
+		"County" : "OVERTON",
+		"City" : "ALLONS",
+		"State" : "TN",
+		"Latitude" : "+36.481086"
+	},
+	{
+		"Longitude" : "-085.203098",
+		"Zipcode" : "38542",
+		"ZipClass" : "STANDARD",
+		"County" : "OVERTON",
+		"City" : "ALLRED",
+		"State" : "TN",
+		"Latitude" : "+36.323952"
+	},
+	{
+		"Longitude" : "-085.189932",
+		"Zipcode" : "38543",
+		"ZipClass" : "STANDARD",
+		"County" : "OVERTON",
+		"City" : "ALPINE",
+		"State" : "TN",
+		"Latitude" : "+36.364735"
+	},
+	{
+		"Longitude" : "-085.663021",
+		"Zipcode" : "38544",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "BAXTER",
+		"State" : "TN",
+		"Latitude" : "+36.118922"
+	},
+	{
+		"Longitude" : "-085.664611",
+		"Zipcode" : "38545",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "BLOOMINGTON SPRINGS",
+		"State" : "TN",
+		"Latitude" : "+36.207497"
+	},
+	{
+		"Longitude" : "-086.006360",
+		"Zipcode" : "38547",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "BRUSH CREEK",
+		"State" : "TN",
+		"Latitude" : "+36.166413"
+	},
+	{
+		"Longitude" : "-085.533995",
+		"Zipcode" : "38548",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "BUFFALO VALLEY",
+		"State" : "TN",
+		"Latitude" : "+36.163921"
+	},
+	{
+		"Longitude" : "-085.162523",
+		"Zipcode" : "38549",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKETT",
+		"City" : "BYRDSTOWN",
+		"State" : "TN",
+		"Latitude" : "+36.552982"
+	},
+	{
+		"Longitude" : "-085.619169",
+		"Zipcode" : "38550",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "CAMPAIGN",
+		"State" : "TN",
+		"Latitude" : "+35.773417"
+	},
+	{
+		"Longitude" : "-085.512924",
+		"Zipcode" : "38551",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CELINA",
+		"State" : "TN",
+		"Latitude" : "+36.547777"
+	},
+	{
+		"Longitude" : "-085.825952",
+		"Zipcode" : "38552",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "CHESTNUT MOUND",
+		"State" : "TN",
+		"Latitude" : "+36.212422"
+	},
+	{
+		"Longitude" : "-085.011311",
+		"Zipcode" : "38553",
+		"ZipClass" : "STANDARD",
+		"County" : "FENTRESS",
+		"City" : "CLARKRANGE",
+		"State" : "TN",
+		"Latitude" : "+36.197616"
+	},
+	{
+		"Longitude" : "-085.160197",
+		"Zipcode" : "38554",
+		"ZipClass" : "STANDARD",
+		"County" : "OVERTON",
+		"City" : "CRAWFORD",
+		"State" : "TN",
+		"Latitude" : "+36.244711"
+	},
+	{
+		"Longitude" : "-085.051431",
+		"Zipcode" : "38555",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CROSSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.962348"
+	},
+	{
+		"Longitude" : "-084.935655",
+		"Zipcode" : "38556",
+		"ZipClass" : "STANDARD",
+		"County" : "FENTRESS",
+		"City" : "JAMESTOWN",
+		"State" : "TN",
+		"Latitude" : "+36.384844"
+	},
+	{
+		"Longitude" : "-085.012389",
+		"Zipcode" : "38557",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CROSSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.988457"
+	},
+	{
+		"Longitude" : "-085.014224",
+		"Zipcode" : "38558",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CROSSVILLE",
+		"State" : "TN",
+		"Latitude" : "+35.960491"
+	},
+	{
+		"Longitude" : "-085.519057",
+		"Zipcode" : "38559",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "DOYLE",
+		"State" : "TN",
+		"Latitude" : "+35.835572"
+	},
+	{
+		"Longitude" : "-085.862182",
+		"Zipcode" : "38560",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "ELMWOOD",
+		"State" : "TN",
+		"Latitude" : "+36.218759"
+	},
+	{
+		"Longitude" : "-085.681124",
+		"Zipcode" : "38562",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "GAINESBORO",
+		"State" : "TN",
+		"Latitude" : "+36.369292"
+	},
+	{
+		"Longitude" : "-085.982033",
+		"Zipcode" : "38563",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "GORDONSVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.209988"
+	},
+	{
+		"Longitude" : "-085.748452",
+		"Zipcode" : "38564",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "GRANVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.278335"
+	},
+	{
+		"Longitude" : "-085.001540",
+		"Zipcode" : "38565",
+		"ZipClass" : "STANDARD",
+		"County" : "FENTRESS",
+		"City" : "GRIMSLEY",
+		"State" : "TN",
+		"Latitude" : "+36.259849"
+	},
+	{
+		"Longitude" : "-085.914313",
+		"Zipcode" : "38567",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "HICKMAN",
+		"State" : "TN",
+		"Latitude" : "+36.138347"
+	},
+	{
+		"Longitude" : "-085.446431",
+		"Zipcode" : "38568",
+		"ZipClass" : "STANDARD",
+		"County" : "OVERTON",
+		"City" : "HILHAM",
+		"State" : "TN",
+		"Latitude" : "+36.422652"
+	},
+	{
+		"Longitude" : "-085.859146",
+		"Zipcode" : "38569",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "LANCASTER",
+		"State" : "TN",
+		"Latitude" : "+36.124389"
+	},
+	{
+		"Longitude" : "-085.329392",
+		"Zipcode" : "38570",
+		"ZipClass" : "STANDARD",
+		"County" : "OVERTON",
+		"City" : "LIVINGSTON",
+		"State" : "TN",
+		"Latitude" : "+36.385190"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "38571",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CROSSVILLE",
+		"State" : "TN",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "38572",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CROSSVILLE",
+		"State" : "TN",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-085.229094",
+		"Zipcode" : "38573",
+		"ZipClass" : "STANDARD",
+		"County" : "OVERTON",
+		"City" : "MONROE",
+		"State" : "TN",
+		"Latitude" : "+36.452484"
+	},
+	{
+		"Longitude" : "-085.234938",
+		"Zipcode" : "38574",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "MONTEREY",
+		"State" : "TN",
+		"Latitude" : "+36.117716"
+	},
+	{
+		"Longitude" : "-085.631181",
+		"Zipcode" : "38575",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MOSS",
+		"State" : "TN",
+		"Latitude" : "+36.552546"
+	},
+	{
+		"Longitude" : "-084.951245",
+		"Zipcode" : "38577",
+		"ZipClass" : "STANDARD",
+		"County" : "FENTRESS",
+		"City" : "PALL MALL",
+		"State" : "TN",
+		"Latitude" : "+36.532956"
+	},
+	{
+		"Longitude" : "-085.162272",
+		"Zipcode" : "38578",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "PLEASANT HILL",
+		"State" : "TN",
+		"Latitude" : "+36.007405"
+	},
+	{
+		"Longitude" : "-085.546347",
+		"Zipcode" : "38579",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "QUEBECK",
+		"State" : "TN",
+		"Latitude" : "+35.836776"
+	},
+	{
+		"Longitude" : "-085.304796",
+		"Zipcode" : "38580",
+		"ZipClass" : "STANDARD",
+		"County" : "OVERTON",
+		"City" : "RICKMAN",
+		"State" : "TN",
+		"Latitude" : "+36.281225"
+	},
+	{
+		"Longitude" : "-085.678847",
+		"Zipcode" : "38581",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "ROCK ISLAND",
+		"State" : "TN",
+		"Latitude" : "+35.766758"
+	},
+	{
+		"Longitude" : "-085.729463",
+		"Zipcode" : "38582",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "SILVER POINT",
+		"State" : "TN",
+		"Latitude" : "+36.107377"
+	},
+	{
+		"Longitude" : "-085.439246",
+		"Zipcode" : "38583",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "SPARTA",
+		"State" : "TN",
+		"Latitude" : "+35.943857"
+	},
+	{
+		"Longitude" : "-085.434355",
+		"Zipcode" : "38585",
+		"ZipClass" : "STANDARD",
+		"County" : "VAN BUREN",
+		"City" : "SPENCER",
+		"State" : "TN",
+		"Latitude" : "+35.677816"
+	},
+	{
+		"Longitude" : "-085.609235",
+		"Zipcode" : "38587",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "WALLING",
+		"State" : "TN",
+		"Latitude" : "+35.866476"
+	},
+	{
+		"Longitude" : "-085.707955",
+		"Zipcode" : "38588",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "WHITLEYVILLE",
+		"State" : "TN",
+		"Latitude" : "+36.433214"
+	},
+	{
+		"Longitude" : "-085.091312",
+		"Zipcode" : "38589",
+		"ZipClass" : "STANDARD",
+		"County" : "FENTRESS",
+		"City" : "WILDER",
+		"State" : "TN",
+		"Latitude" : "+36.282181"
+	}
+]}

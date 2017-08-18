@@ -1,0 +1,8220 @@
+{
+	"result":[
+	{
+		"Longitude" : "-087.973717",
+		"Zipcode" : "53001",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "ADELL",
+		"State" : "WI",
+		"Latitude" : "+43.658488"
+	},
+	{
+		"Longitude" : "-088.262190",
+		"Zipcode" : "53002",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ALLENTON",
+		"State" : "WI",
+		"Latitude" : "+43.382128"
+	},
+	{
+		"Longitude" : "-088.525315",
+		"Zipcode" : "53003",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "ASHIPPUN",
+		"State" : "WI",
+		"Latitude" : "+43.217506"
+	},
+	{
+		"Longitude" : "-087.918042",
+		"Zipcode" : "53004",
+		"ZipClass" : "STANDARD",
+		"County" : "OZAUKEE",
+		"City" : "BELGIUM",
+		"State" : "WI",
+		"Latitude" : "+43.499631"
+	},
+	{
+		"Longitude" : "-088.105906",
+		"Zipcode" : "53005",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "BROOKFIELD",
+		"State" : "WI",
+		"Latitude" : "+43.062707"
+	},
+	{
+		"Longitude" : "-088.523020",
+		"Zipcode" : "53006",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "BROWNSVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.602789"
+	},
+	{
+		"Longitude" : "-088.071489",
+		"Zipcode" : "53007",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "BUTLER",
+		"State" : "WI",
+		"Latitude" : "+43.108459"
+	},
+	{
+		"Longitude" : "-088.302997",
+		"Zipcode" : "53008",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "BROOKFIELD",
+		"State" : "WI",
+		"Latitude" : "+43.018696"
+	},
+	{
+		"Longitude" : "-088.350947",
+		"Zipcode" : "53010",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "CAMPBELLSPORT",
+		"State" : "WI",
+		"Latitude" : "+43.682727"
+	},
+	{
+		"Longitude" : "-088.048378",
+		"Zipcode" : "53011",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "CASCADE",
+		"State" : "WI",
+		"Latitude" : "+43.725504"
+	},
+	{
+		"Longitude" : "-088.004033",
+		"Zipcode" : "53012",
+		"ZipClass" : "STANDARD",
+		"County" : "OZAUKEE",
+		"City" : "CEDARBURG",
+		"State" : "WI",
+		"Latitude" : "+43.321475"
+	},
+	{
+		"Longitude" : "-087.855320",
+		"Zipcode" : "53013",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "CEDAR GROVE",
+		"State" : "WI",
+		"Latitude" : "+43.590548"
+	},
+	{
+		"Longitude" : "-088.185906",
+		"Zipcode" : "53014",
+		"ZipClass" : "STANDARD",
+		"County" : "CALUMET",
+		"City" : "CHILTON",
+		"State" : "WI",
+		"Latitude" : "+44.020561"
+	},
+	{
+		"Longitude" : "-087.803460",
+		"Zipcode" : "53015",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "CLEVELAND",
+		"State" : "WI",
+		"Latitude" : "+43.935653"
+	},
+	{
+		"Longitude" : "-088.720642",
+		"Zipcode" : "53016",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "CLYMAN",
+		"State" : "WI",
+		"Latitude" : "+43.315460"
+	},
+	{
+		"Longitude" : "-088.241501",
+		"Zipcode" : "53017",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "COLGATE",
+		"State" : "WI",
+		"Latitude" : "+43.209445"
+	},
+	{
+		"Longitude" : "-088.386519",
+		"Zipcode" : "53018",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "DELAFIELD",
+		"State" : "WI",
+		"Latitude" : "+43.015666"
+	},
+	{
+		"Longitude" : "-088.503840",
+		"Zipcode" : "53019",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "EDEN",
+		"State" : "WI",
+		"Latitude" : "+43.672543"
+	},
+	{
+		"Longitude" : "-087.991500",
+		"Zipcode" : "53020",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "ELKHART LAKE",
+		"State" : "WI",
+		"Latitude" : "+43.827363"
+	},
+	{
+		"Longitude" : "-087.961162",
+		"Zipcode" : "53021",
+		"ZipClass" : "STANDARD",
+		"County" : "OZAUKEE",
+		"City" : "FREDONIA",
+		"State" : "WI",
+		"Latitude" : "+43.477015"
+	},
+	{
+		"Longitude" : "-088.124711",
+		"Zipcode" : "53022",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GERMANTOWN",
+		"State" : "WI",
+		"Latitude" : "+43.235477"
+	},
+	{
+		"Longitude" : "-088.041299",
+		"Zipcode" : "53023",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "GLENBEULAH",
+		"State" : "WI",
+		"Latitude" : "+43.772128"
+	},
+	{
+		"Longitude" : "-087.941040",
+		"Zipcode" : "53024",
+		"ZipClass" : "STANDARD",
+		"County" : "OZAUKEE",
+		"City" : "GRAFTON",
+		"State" : "WI",
+		"Latitude" : "+43.299956"
+	},
+	{
+		"Longitude" : "-087.618716",
+		"Zipcode" : "53026",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHEBOYGAN",
+		"City" : "GREENBUSH",
+		"State" : "WI",
+		"Latitude" : "+43.718294"
+	},
+	{
+		"Longitude" : "-088.319032",
+		"Zipcode" : "53027",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HARTFORD",
+		"State" : "WI",
+		"Latitude" : "+43.357616"
+	},
+	{
+		"Longitude" : "-088.336087",
+		"Zipcode" : "53029",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "HARTLAND",
+		"State" : "WI",
+		"Latitude" : "+43.123679"
+	},
+	{
+		"Longitude" : "-087.915705",
+		"Zipcode" : "53031",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHEBOYGAN",
+		"City" : "HINGHAM",
+		"State" : "WI",
+		"Latitude" : "+43.639395"
+	},
+	{
+		"Longitude" : "-088.624268",
+		"Zipcode" : "53032",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "HORICON",
+		"State" : "WI",
+		"Latitude" : "+43.422045"
+	},
+	{
+		"Longitude" : "-088.252892",
+		"Zipcode" : "53033",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HUBERTUS",
+		"State" : "WI",
+		"Latitude" : "+43.367185"
+	},
+	{
+		"Longitude" : "-088.603032",
+		"Zipcode" : "53034",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "HUSTISFORD",
+		"State" : "WI",
+		"Latitude" : "+43.330523"
+	},
+	{
+		"Longitude" : "-088.581515",
+		"Zipcode" : "53035",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "IRON RIDGE",
+		"State" : "WI",
+		"Latitude" : "+43.362960"
+	},
+	{
+		"Longitude" : "-088.588628",
+		"Zipcode" : "53036",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "IXONIA",
+		"State" : "WI",
+		"Latitude" : "+43.147748"
+	},
+	{
+		"Longitude" : "-088.152212",
+		"Zipcode" : "53037",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JACKSON",
+		"State" : "WI",
+		"Latitude" : "+43.323930"
+	},
+	{
+		"Longitude" : "-088.743276",
+		"Zipcode" : "53038",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "JOHNSON CREEK",
+		"State" : "WI",
+		"Latitude" : "+43.092348"
+	},
+	{
+		"Longitude" : "-088.710157",
+		"Zipcode" : "53039",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "JUNEAU",
+		"State" : "WI",
+		"Latitude" : "+43.372221"
+	},
+	{
+		"Longitude" : "-088.206447",
+		"Zipcode" : "53040",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "KEWASKUM",
+		"State" : "WI",
+		"Latitude" : "+43.499425"
+	},
+	{
+		"Longitude" : "-087.955059",
+		"Zipcode" : "53042",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "KIEL",
+		"State" : "WI",
+		"Latitude" : "+43.963170"
+	},
+	{
+		"Longitude" : "-087.776246",
+		"Zipcode" : "53044",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "KOHLER",
+		"State" : "WI",
+		"Latitude" : "+43.748441"
+	},
+	{
+		"Longitude" : "-088.155890",
+		"Zipcode" : "53045",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "BROOKFIELD",
+		"State" : "WI",
+		"Latitude" : "+43.060810"
+	},
+	{
+		"Longitude" : "-088.164427",
+		"Zipcode" : "53046",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "LANNON",
+		"State" : "WI",
+		"Latitude" : "+43.153279"
+	},
+	{
+		"Longitude" : "-088.628100",
+		"Zipcode" : "53047",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "LEBANON",
+		"State" : "WI",
+		"Latitude" : "+43.256793"
+	},
+	{
+		"Longitude" : "-088.480811",
+		"Zipcode" : "53048",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "LOMIRA",
+		"State" : "WI",
+		"Latitude" : "+43.516912"
+	},
+	{
+		"Longitude" : "-088.287108",
+		"Zipcode" : "53049",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "MALONE",
+		"State" : "WI",
+		"Latitude" : "+43.875302"
+	},
+	{
+		"Longitude" : "-088.545925",
+		"Zipcode" : "53050",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "MAYVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.483463"
+	},
+	{
+		"Longitude" : "-088.227543",
+		"Zipcode" : "53051",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "MENOMONEE FALLS",
+		"State" : "WI",
+		"Latitude" : "+43.124189"
+	},
+	{
+		"Longitude" : "-088.302997",
+		"Zipcode" : "53052",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "MENOMONEE FALLS",
+		"State" : "WI",
+		"Latitude" : "+43.018696"
+	},
+	{
+		"Longitude" : "-088.309750",
+		"Zipcode" : "53056",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUKESHA",
+		"City" : "MERTON",
+		"State" : "WI",
+		"Latitude" : "+43.146023"
+	},
+	{
+		"Longitude" : "-088.443585",
+		"Zipcode" : "53057",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "MOUNT CALVARY",
+		"State" : "WI",
+		"Latitude" : "+43.711957"
+	},
+	{
+		"Longitude" : "-088.402480",
+		"Zipcode" : "53058",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "NASHOTAH",
+		"State" : "WI",
+		"Latitude" : "+43.109127"
+	},
+	{
+		"Longitude" : "-088.533958",
+		"Zipcode" : "53059",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "NEOSHO",
+		"State" : "WI",
+		"Latitude" : "+43.289809"
+	},
+	{
+		"Longitude" : "-088.062338",
+		"Zipcode" : "53060",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "NEWBURG",
+		"State" : "WI",
+		"Latitude" : "+43.433807"
+	},
+	{
+		"Longitude" : "-088.101954",
+		"Zipcode" : "53061",
+		"ZipClass" : "STANDARD",
+		"County" : "CALUMET",
+		"City" : "NEW HOLSTEIN",
+		"State" : "WI",
+		"Latitude" : "+43.949886"
+	},
+	{
+		"Longitude" : "-088.223131",
+		"Zipcode" : "53062",
+		"ZipClass" : "UNIQUE",
+		"County" : "CALUMET",
+		"City" : "NEW HOLSTEIN",
+		"State" : "WI",
+		"Latitude" : "+44.067942"
+	},
+	{
+		"Longitude" : "-087.792815",
+		"Zipcode" : "53063",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "NEWTON",
+		"State" : "WI",
+		"Latitude" : "+43.957599"
+	},
+	{
+		"Longitude" : "-088.302997",
+		"Zipcode" : "53064",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUKESHA",
+		"City" : "NORTH LAKE",
+		"State" : "WI",
+		"Latitude" : "+43.018696"
+	},
+	{
+		"Longitude" : "-088.678209",
+		"Zipcode" : "53065",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "OAKFIELD",
+		"State" : "WI",
+		"Latitude" : "+43.690246"
+	},
+	{
+		"Longitude" : "-088.463305",
+		"Zipcode" : "53066",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "OCONOMOWOC",
+		"State" : "WI",
+		"Latitude" : "+43.087062"
+	},
+	{
+		"Longitude" : "-088.439353",
+		"Zipcode" : "53069",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "OKAUCHEE",
+		"State" : "WI",
+		"Latitude" : "+43.117886"
+	},
+	{
+		"Longitude" : "-087.810616",
+		"Zipcode" : "53070",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "OOSTBURG",
+		"State" : "WI",
+		"Latitude" : "+43.620857"
+	},
+	{
+		"Longitude" : "-088.264875",
+		"Zipcode" : "53072",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "PEWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.080185"
+	},
+	{
+		"Longitude" : "-087.975773",
+		"Zipcode" : "53073",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "PLYMOUTH",
+		"State" : "WI",
+		"Latitude" : "+43.768454"
+	},
+	{
+		"Longitude" : "-087.881232",
+		"Zipcode" : "53074",
+		"ZipClass" : "STANDARD",
+		"County" : "OZAUKEE",
+		"City" : "PORT WASHINGTON",
+		"State" : "WI",
+		"Latitude" : "+43.387702"
+	},
+	{
+		"Longitude" : "-088.000555",
+		"Zipcode" : "53075",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "RANDOM LAKE",
+		"State" : "WI",
+		"Latitude" : "+43.582924"
+	},
+	{
+		"Longitude" : "-088.206716",
+		"Zipcode" : "53076",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "RICHFIELD",
+		"State" : "WI",
+		"Latitude" : "+43.272700"
+	},
+	{
+		"Longitude" : "-088.504428",
+		"Zipcode" : "53078",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "RUBICON",
+		"State" : "WI",
+		"Latitude" : "+43.304408"
+	},
+	{
+		"Longitude" : "-088.201679",
+		"Zipcode" : "53079",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "SAINT CLOUD",
+		"State" : "WI",
+		"Latitude" : "+43.797531"
+	},
+	{
+		"Longitude" : "-087.947537",
+		"Zipcode" : "53080",
+		"ZipClass" : "STANDARD",
+		"County" : "OZAUKEE",
+		"City" : "SAUKVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.432544"
+	},
+	{
+		"Longitude" : "-087.856793",
+		"Zipcode" : "53081",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "SHEBOYGAN",
+		"State" : "WI",
+		"Latitude" : "+43.722489"
+	},
+	{
+		"Longitude" : "-087.618716",
+		"Zipcode" : "53082",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "SHEBOYGAN",
+		"State" : "WI",
+		"Latitude" : "+43.718294"
+	},
+	{
+		"Longitude" : "-087.860803",
+		"Zipcode" : "53083",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "SHEBOYGAN",
+		"State" : "WI",
+		"Latitude" : "+43.775428"
+	},
+	{
+		"Longitude" : "-087.853069",
+		"Zipcode" : "53085",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "SHEBOYGAN FALLS",
+		"State" : "WI",
+		"Latitude" : "+43.726404"
+	},
+	{
+		"Longitude" : "-088.260878",
+		"Zipcode" : "53086",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SLINGER",
+		"State" : "WI",
+		"Latitude" : "+43.327417"
+	},
+	{
+		"Longitude" : "-088.312404",
+		"Zipcode" : "53088",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALUMET",
+		"City" : "STOCKBRIDGE",
+		"State" : "WI",
+		"Latitude" : "+44.080455"
+	},
+	{
+		"Longitude" : "-088.245381",
+		"Zipcode" : "53089",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "SUSSEX",
+		"State" : "WI",
+		"Latitude" : "+43.148887"
+	},
+	{
+		"Longitude" : "-088.196310",
+		"Zipcode" : "53090",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WEST BEND",
+		"State" : "WI",
+		"Latitude" : "+43.443839"
+	},
+	{
+		"Longitude" : "-088.450107",
+		"Zipcode" : "53091",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "THERESA",
+		"State" : "WI",
+		"Latitude" : "+43.483635"
+	},
+	{
+		"Longitude" : "-087.981188",
+		"Zipcode" : "53092",
+		"ZipClass" : "STANDARD",
+		"County" : "OZAUKEE",
+		"City" : "THIENSVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.235856"
+	},
+	{
+		"Longitude" : "-087.930254",
+		"Zipcode" : "53093",
+		"ZipClass" : "STANDARD",
+		"County" : "SHEBOYGAN",
+		"City" : "WALDO",
+		"State" : "WI",
+		"Latitude" : "+43.662704"
+	},
+	{
+		"Longitude" : "-088.743595",
+		"Zipcode" : "53094",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WATERTOWN",
+		"State" : "WI",
+		"Latitude" : "+43.132599"
+	},
+	{
+		"Longitude" : "-088.195862",
+		"Zipcode" : "53095",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WEST BEND",
+		"State" : "WI",
+		"Latitude" : "+43.422223"
+	},
+	{
+		"Longitude" : "-087.980914",
+		"Zipcode" : "53097",
+		"ZipClass" : "STANDARD",
+		"County" : "OZAUKEE",
+		"City" : "MEQUON",
+		"State" : "WI",
+		"Latitude" : "+43.247112"
+	},
+	{
+		"Longitude" : "-088.715408",
+		"Zipcode" : "53098",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "WATERTOWN",
+		"State" : "WI",
+		"Latitude" : "+43.276444"
+	},
+	{
+		"Longitude" : "-088.704914",
+		"Zipcode" : "53099",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "WOODLAND",
+		"State" : "WI",
+		"Latitude" : "+43.414202"
+	},
+	{
+		"Longitude" : "-087.662878",
+		"Zipcode" : "53101",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENOSHA",
+		"City" : "BASSETT",
+		"State" : "WI",
+		"Latitude" : "+42.580980"
+	},
+	{
+		"Longitude" : "-088.079983",
+		"Zipcode" : "53102",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "BENET LAKE",
+		"State" : "WI",
+		"Latitude" : "+42.500141"
+	},
+	{
+		"Longitude" : "-088.205514",
+		"Zipcode" : "53103",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "BIG BEND",
+		"State" : "WI",
+		"Latitude" : "+42.882441"
+	},
+	{
+		"Longitude" : "-088.028986",
+		"Zipcode" : "53104",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "BRISTOL",
+		"State" : "WI",
+		"Latitude" : "+42.553518"
+	},
+	{
+		"Longitude" : "-088.228793",
+		"Zipcode" : "53105",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "BURLINGTON",
+		"State" : "WI",
+		"Latitude" : "+42.692103"
+	},
+	{
+		"Longitude" : "-087.930936",
+		"Zipcode" : "53108",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "CALEDONIA",
+		"State" : "WI",
+		"Latitude" : "+42.803697"
+	},
+	{
+		"Longitude" : "-088.144386",
+		"Zipcode" : "53109",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENOSHA",
+		"City" : "CAMP LAKE",
+		"State" : "WI",
+		"Latitude" : "+42.535968"
+	},
+	{
+		"Longitude" : "-087.866831",
+		"Zipcode" : "53110",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "CUDAHY",
+		"State" : "WI",
+		"Latitude" : "+42.948015"
+	},
+	{
+		"Longitude" : "-088.660964",
+		"Zipcode" : "53114",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "DARIEN",
+		"State" : "WI",
+		"Latitude" : "+42.658281"
+	},
+	{
+		"Longitude" : "-088.653496",
+		"Zipcode" : "53115",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "DELAVAN",
+		"State" : "WI",
+		"Latitude" : "+42.641556"
+	},
+	{
+		"Longitude" : "-088.444097",
+		"Zipcode" : "53118",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "DOUSMAN",
+		"State" : "WI",
+		"Latitude" : "+42.951536"
+	},
+	{
+		"Longitude" : "-088.474890",
+		"Zipcode" : "53119",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "EAGLE",
+		"State" : "WI",
+		"Latitude" : "+42.929074"
+	},
+	{
+		"Longitude" : "-088.507327",
+		"Zipcode" : "53120",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "EAST TROY",
+		"State" : "WI",
+		"Latitude" : "+42.756533"
+	},
+	{
+		"Longitude" : "-088.563961",
+		"Zipcode" : "53121",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "ELKHORN",
+		"State" : "WI",
+		"Latitude" : "+42.671666"
+	},
+	{
+		"Longitude" : "-088.087888",
+		"Zipcode" : "53122",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "ELM GROVE",
+		"State" : "WI",
+		"Latitude" : "+43.048211"
+	},
+	{
+		"Longitude" : "-088.463036",
+		"Zipcode" : "53125",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "FONTANA",
+		"State" : "WI",
+		"Latitude" : "+42.545625"
+	},
+	{
+		"Longitude" : "-087.995471",
+		"Zipcode" : "53126",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "FRANKSVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.785553"
+	},
+	{
+		"Longitude" : "-088.374455",
+		"Zipcode" : "53127",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUKESHA",
+		"City" : "GENESEE DEPOT",
+		"State" : "WI",
+		"Latitude" : "+42.960098"
+	},
+	{
+		"Longitude" : "-088.438624",
+		"Zipcode" : "53128",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "GENOA CITY",
+		"State" : "WI",
+		"Latitude" : "+42.549412"
+	},
+	{
+		"Longitude" : "-087.998935",
+		"Zipcode" : "53129",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "GREENDALE",
+		"State" : "WI",
+		"Latitude" : "+42.937765"
+	},
+	{
+		"Longitude" : "-088.046454",
+		"Zipcode" : "53130",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "HALES CORNERS",
+		"State" : "WI",
+		"Latitude" : "+42.943614"
+	},
+	{
+		"Longitude" : "-088.009597",
+		"Zipcode" : "53132",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "FRANKLIN",
+		"State" : "WI",
+		"Latitude" : "+42.887289"
+	},
+	{
+		"Longitude" : "-088.672600",
+		"Zipcode" : "53137",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HELENVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.008958"
+	},
+	{
+		"Longitude" : "-088.541721",
+		"Zipcode" : "53138",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALWORTH",
+		"City" : "HONEY CREEK",
+		"State" : "WI",
+		"Latitude" : "+42.667490"
+	},
+	{
+		"Longitude" : "-088.120616",
+		"Zipcode" : "53139",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "KANSASVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.720022"
+	},
+	{
+		"Longitude" : "-087.830375",
+		"Zipcode" : "53140",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "KENOSHA",
+		"State" : "WI",
+		"Latitude" : "+42.622449"
+	},
+	{
+		"Longitude" : "-087.662878",
+		"Zipcode" : "53141",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "KENOSHA",
+		"State" : "WI",
+		"Latitude" : "+42.580980"
+	},
+	{
+		"Longitude" : "-087.925876",
+		"Zipcode" : "53142",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "KENOSHA",
+		"State" : "WI",
+		"Latitude" : "+42.558221"
+	},
+	{
+		"Longitude" : "-087.824828",
+		"Zipcode" : "53143",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "KENOSHA",
+		"State" : "WI",
+		"Latitude" : "+42.536070"
+	},
+	{
+		"Longitude" : "-087.948079",
+		"Zipcode" : "53144",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "KENOSHA",
+		"State" : "WI",
+		"Latitude" : "+42.618427"
+	},
+	{
+		"Longitude" : "-088.177554",
+		"Zipcode" : "53146",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "NEW BERLIN",
+		"State" : "WI",
+		"Latitude" : "+42.969924"
+	},
+	{
+		"Longitude" : "-088.520230",
+		"Zipcode" : "53147",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "LAKE GENEVA",
+		"State" : "WI",
+		"Latitude" : "+42.617877"
+	},
+	{
+		"Longitude" : "-088.359044",
+		"Zipcode" : "53148",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALWORTH",
+		"City" : "LYONS",
+		"State" : "WI",
+		"Latitude" : "+42.648665"
+	},
+	{
+		"Longitude" : "-088.329731",
+		"Zipcode" : "53149",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "MUKWONAGO",
+		"State" : "WI",
+		"Latitude" : "+42.975940"
+	},
+	{
+		"Longitude" : "-088.132708",
+		"Zipcode" : "53150",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "MUSKEGO",
+		"State" : "WI",
+		"Latitude" : "+42.887990"
+	},
+	{
+		"Longitude" : "-088.127689",
+		"Zipcode" : "53151",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "NEW BERLIN",
+		"State" : "WI",
+		"Latitude" : "+42.973459"
+	},
+	{
+		"Longitude" : "-088.232632",
+		"Zipcode" : "53152",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENOSHA",
+		"City" : "NEW MUNSTER",
+		"State" : "WI",
+		"Latitude" : "+42.574616"
+	},
+	{
+		"Longitude" : "-088.401712",
+		"Zipcode" : "53153",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "NORTH PRAIRIE",
+		"State" : "WI",
+		"Latitude" : "+42.940971"
+	},
+	{
+		"Longitude" : "-087.891980",
+		"Zipcode" : "53154",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "OAK CREEK",
+		"State" : "WI",
+		"Latitude" : "+42.886266"
+	},
+	{
+		"Longitude" : "-088.597120",
+		"Zipcode" : "53156",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PALMYRA",
+		"State" : "WI",
+		"Latitude" : "+42.893937"
+	},
+	{
+		"Longitude" : "-088.358167",
+		"Zipcode" : "53157",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALWORTH",
+		"City" : "PELL LAKE",
+		"State" : "WI",
+		"Latitude" : "+42.540048"
+	},
+	{
+		"Longitude" : "-087.885546",
+		"Zipcode" : "53158",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "PLEASANT PRAIRIE",
+		"State" : "WI",
+		"Latitude" : "+42.529260"
+	},
+	{
+		"Longitude" : "-088.296914",
+		"Zipcode" : "53159",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENOSHA",
+		"City" : "POWERS LAKE",
+		"State" : "WI",
+		"Latitude" : "+42.555695"
+	},
+	{
+		"Longitude" : "-088.243586",
+		"Zipcode" : "53167",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RACINE",
+		"City" : "ROCHESTER",
+		"State" : "WI",
+		"Latitude" : "+42.748168"
+	},
+	{
+		"Longitude" : "-088.137535",
+		"Zipcode" : "53168",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "SALEM",
+		"State" : "WI",
+		"Latitude" : "+42.574598"
+	},
+	{
+		"Longitude" : "-088.160836",
+		"Zipcode" : "53170",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "SILVER LAKE",
+		"State" : "WI",
+		"Latitude" : "+42.552018"
+	},
+	{
+		"Longitude" : "-087.903161",
+		"Zipcode" : "53171",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENOSHA",
+		"City" : "SOMERS",
+		"State" : "WI",
+		"Latitude" : "+42.642298"
+	},
+	{
+		"Longitude" : "-087.950533",
+		"Zipcode" : "53172",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "SOUTH MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+42.911616"
+	},
+	{
+		"Longitude" : "-088.415987",
+		"Zipcode" : "53176",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALWORTH",
+		"City" : "SPRINGFIELD",
+		"State" : "WI",
+		"Latitude" : "+42.636038"
+	},
+	{
+		"Longitude" : "-087.934013",
+		"Zipcode" : "53177",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "STURTEVANT",
+		"State" : "WI",
+		"Latitude" : "+42.712962"
+	},
+	{
+		"Longitude" : "-088.600429",
+		"Zipcode" : "53178",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "SULLIVAN",
+		"State" : "WI",
+		"Latitude" : "+43.018327"
+	},
+	{
+		"Longitude" : "-088.138001",
+		"Zipcode" : "53179",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "TREVOR",
+		"State" : "WI",
+		"Latitude" : "+42.517168"
+	},
+	{
+		"Longitude" : "-088.235389",
+		"Zipcode" : "53181",
+		"ZipClass" : "STANDARD",
+		"County" : "KENOSHA",
+		"City" : "TWIN LAKES",
+		"State" : "WI",
+		"Latitude" : "+42.523887"
+	},
+	{
+		"Longitude" : "-088.083092",
+		"Zipcode" : "53182",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "UNION GROVE",
+		"State" : "WI",
+		"Latitude" : "+42.739435"
+	},
+	{
+		"Longitude" : "-088.376916",
+		"Zipcode" : "53183",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "WALES",
+		"State" : "WI",
+		"Latitude" : "+43.003573"
+	},
+	{
+		"Longitude" : "-088.597153",
+		"Zipcode" : "53184",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "WALWORTH",
+		"State" : "WI",
+		"Latitude" : "+42.561543"
+	},
+	{
+		"Longitude" : "-088.197361",
+		"Zipcode" : "53185",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "WATERFORD",
+		"State" : "WI",
+		"Latitude" : "+42.763168"
+	},
+	{
+		"Longitude" : "-088.217715",
+		"Zipcode" : "53186",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "WAUKESHA",
+		"State" : "WI",
+		"Latitude" : "+42.987835"
+	},
+	{
+		"Longitude" : "-088.302997",
+		"Zipcode" : "53187",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "WAUKESHA",
+		"State" : "WI",
+		"Latitude" : "+43.018696"
+	},
+	{
+		"Longitude" : "-088.241786",
+		"Zipcode" : "53188",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "WAUKESHA",
+		"State" : "WI",
+		"Latitude" : "+42.994564"
+	},
+	{
+		"Longitude" : "-088.296321",
+		"Zipcode" : "53189",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUKESHA",
+		"City" : "WAUKESHA",
+		"State" : "WI",
+		"Latitude" : "+42.951630"
+	},
+	{
+		"Longitude" : "-088.592559",
+		"Zipcode" : "53190",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "WHITEWATER",
+		"State" : "WI",
+		"Latitude" : "+42.784255"
+	},
+	{
+		"Longitude" : "-088.635035",
+		"Zipcode" : "53191",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "WILLIAMS BAY",
+		"State" : "WI",
+		"Latitude" : "+42.691288"
+	},
+	{
+		"Longitude" : "-088.191337",
+		"Zipcode" : "53192",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENOSHA",
+		"City" : "WILMOT",
+		"State" : "WI",
+		"Latitude" : "+42.507165"
+	},
+	{
+		"Longitude" : "-087.662878",
+		"Zipcode" : "53194",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENOSHA",
+		"City" : "WOODWORTH",
+		"State" : "WI",
+		"Latitude" : "+42.580980"
+	},
+	{
+		"Longitude" : "-088.484322",
+		"Zipcode" : "53195",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALWORTH",
+		"City" : "ZENDA",
+		"State" : "WI",
+		"Latitude" : "+42.513649"
+	},
+	{
+		"Longitude" : "-087.958409",
+		"Zipcode" : "53201",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.011264"
+	},
+	{
+		"Longitude" : "-087.894734",
+		"Zipcode" : "53202",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.043213"
+	},
+	{
+		"Longitude" : "-087.916534",
+		"Zipcode" : "53203",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.038313"
+	},
+	{
+		"Longitude" : "-087.925534",
+		"Zipcode" : "53204",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.019463"
+	},
+	{
+		"Longitude" : "-087.933185",
+		"Zipcode" : "53205",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.053112"
+	},
+	{
+		"Longitude" : "-087.933135",
+		"Zipcode" : "53206",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.074311"
+	},
+	{
+		"Longitude" : "-087.894682",
+		"Zipcode" : "53207",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+42.975115"
+	},
+	{
+		"Longitude" : "-087.963536",
+		"Zipcode" : "53208",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.045962"
+	},
+	{
+		"Longitude" : "-087.942653",
+		"Zipcode" : "53209",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.140909"
+	},
+	{
+		"Longitude" : "-087.973786",
+		"Zipcode" : "53210",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.071111"
+	},
+	{
+		"Longitude" : "-087.889534",
+		"Zipcode" : "53211",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.082018"
+	},
+	{
+		"Longitude" : "-087.907178",
+		"Zipcode" : "53212",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.074862"
+	},
+	{
+		"Longitude" : "-087.999511",
+		"Zipcode" : "53213",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.075461"
+	},
+	{
+		"Longitude" : "-088.017587",
+		"Zipcode" : "53214",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.021514"
+	},
+	{
+		"Longitude" : "-087.942935",
+		"Zipcode" : "53215",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.006014"
+	},
+	{
+		"Longitude" : "-087.976988",
+		"Zipcode" : "53216",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.086244"
+	},
+	{
+		"Longitude" : "-087.933386",
+		"Zipcode" : "53217",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.134460"
+	},
+	{
+		"Longitude" : "-087.991687",
+		"Zipcode" : "53218",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.115460"
+	},
+	{
+		"Longitude" : "-087.990335",
+		"Zipcode" : "53219",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+42.995814"
+	},
+	{
+		"Longitude" : "-087.993285",
+		"Zipcode" : "53220",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+42.955864"
+	},
+	{
+		"Longitude" : "-087.987933",
+		"Zipcode" : "53221",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+42.950565"
+	},
+	{
+		"Longitude" : "-088.036938",
+		"Zipcode" : "53222",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.082161"
+	},
+	{
+		"Longitude" : "-087.977896",
+		"Zipcode" : "53223",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.162959"
+	},
+	{
+		"Longitude" : "-088.022586",
+		"Zipcode" : "53224",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.163122"
+	},
+	{
+		"Longitude" : "-088.040188",
+		"Zipcode" : "53225",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.115159"
+	},
+	{
+		"Longitude" : "-088.041387",
+		"Zipcode" : "53226",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.049312"
+	},
+	{
+		"Longitude" : "-088.031418",
+		"Zipcode" : "53227",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.000926"
+	},
+	{
+		"Longitude" : "-088.043386",
+		"Zipcode" : "53228",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+42.967564"
+	},
+	{
+		"Longitude" : "-087.933529",
+		"Zipcode" : "53233",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.037213"
+	},
+	{
+		"Longitude" : "-087.569664",
+		"Zipcode" : "53234",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.017412"
+	},
+	{
+		"Longitude" : "-087.873732",
+		"Zipcode" : "53235",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+42.969865"
+	},
+	{
+		"Longitude" : "-087.569664",
+		"Zipcode" : "53237",
+		"ZipClass" : "STANDARD",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.017412"
+	},
+	{
+		"Longitude" : "-087.913934",
+		"Zipcode" : "53259",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.038663"
+	},
+	{
+		"Longitude" : "-088.060440",
+		"Zipcode" : "53263",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.074583"
+	},
+	{
+		"Longitude" : "-087.909834",
+		"Zipcode" : "53267",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.044013"
+	},
+	{
+		"Longitude" : "-087.909584",
+		"Zipcode" : "53268",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.038513"
+	},
+	{
+		"Longitude" : "-087.903634",
+		"Zipcode" : "53270",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.038763"
+	},
+	{
+		"Longitude" : "-087.569664",
+		"Zipcode" : "53274",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.017412"
+	},
+	{
+		"Longitude" : "-087.902384",
+		"Zipcode" : "53277",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.038863"
+	},
+	{
+		"Longitude" : "-087.902384",
+		"Zipcode" : "53278",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.038863"
+	},
+	{
+		"Longitude" : "-087.957786",
+		"Zipcode" : "53280",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.040963"
+	},
+	{
+		"Longitude" : "-087.957786",
+		"Zipcode" : "53281",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.040963"
+	},
+	{
+		"Longitude" : "-087.569664",
+		"Zipcode" : "53284",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.017412"
+	},
+	{
+		"Longitude" : "-087.569664",
+		"Zipcode" : "53285",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.017412"
+	},
+	{
+		"Longitude" : "-087.909784",
+		"Zipcode" : "53288",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.040613"
+	},
+	{
+		"Longitude" : "-087.914034",
+		"Zipcode" : "53290",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.037263"
+	},
+	{
+		"Longitude" : "-087.919135",
+		"Zipcode" : "53293",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.040813"
+	},
+	{
+		"Longitude" : "-087.569664",
+		"Zipcode" : "53295",
+		"ZipClass" : "UNIQUE",
+		"County" : "MILWAUKEE",
+		"City" : "MILWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.017412"
+	},
+	{
+		"Longitude" : "-087.675979",
+		"Zipcode" : "53401",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.727153"
+	},
+	{
+		"Longitude" : "-087.821815",
+		"Zipcode" : "53402",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.755628"
+	},
+	{
+		"Longitude" : "-087.835901",
+		"Zipcode" : "53403",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.700619"
+	},
+	{
+		"Longitude" : "-087.812275",
+		"Zipcode" : "53404",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.756718"
+	},
+	{
+		"Longitude" : "-087.820925",
+		"Zipcode" : "53405",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.731827"
+	},
+	{
+		"Longitude" : "-087.866213",
+		"Zipcode" : "53406",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.729930"
+	},
+	{
+		"Longitude" : "-087.782818",
+		"Zipcode" : "53407",
+		"ZipClass" : "UNIQUE",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.731224"
+	},
+	{
+		"Longitude" : "-087.675979",
+		"Zipcode" : "53408",
+		"ZipClass" : "STANDARD",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.727153"
+	},
+	{
+		"Longitude" : "-087.675979",
+		"Zipcode" : "53490",
+		"ZipClass" : "UNIQUE",
+		"County" : "RACINE",
+		"City" : "RACINE",
+		"State" : "WI",
+		"Latitude" : "+42.727153"
+	},
+	{
+		"Longitude" : "-089.070448",
+		"Zipcode" : "53501",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCK",
+		"City" : "AFTON",
+		"State" : "WI",
+		"Latitude" : "+42.605454"
+	},
+	{
+		"Longitude" : "-089.451230",
+		"Zipcode" : "53502",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "ALBANY",
+		"State" : "WI",
+		"Latitude" : "+42.712827"
+	},
+	{
+		"Longitude" : "-089.947679",
+		"Zipcode" : "53503",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "ARENA",
+		"State" : "WI",
+		"Latitude" : "+43.119643"
+	},
+	{
+		"Longitude" : "-089.922697",
+		"Zipcode" : "53504",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "ARGYLE",
+		"State" : "WI",
+		"Latitude" : "+42.690143"
+	},
+	{
+		"Longitude" : "-088.830650",
+		"Zipcode" : "53505",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "AVALON",
+		"State" : "WI",
+		"Latitude" : "+42.659301"
+	},
+	{
+		"Longitude" : "-090.280725",
+		"Zipcode" : "53506",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "AVOCA",
+		"State" : "WI",
+		"Latitude" : "+43.138475"
+	},
+	{
+		"Longitude" : "-089.897387",
+		"Zipcode" : "53507",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "BARNEVELD",
+		"State" : "WI",
+		"Latitude" : "+43.008396"
+	},
+	{
+		"Longitude" : "-089.586339",
+		"Zipcode" : "53508",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "BELLEVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.903829"
+	},
+	{
+		"Longitude" : "-090.263828",
+		"Zipcode" : "53510",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "BELMONT",
+		"State" : "WI",
+		"Latitude" : "+42.685375"
+	},
+	{
+		"Longitude" : "-089.086045",
+		"Zipcode" : "53511",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "BELOIT",
+		"State" : "WI",
+		"Latitude" : "+42.562039"
+	},
+	{
+		"Longitude" : "-089.072779",
+		"Zipcode" : "53512",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "BELOIT",
+		"State" : "WI",
+		"Latitude" : "+42.669779"
+	},
+	{
+		"Longitude" : "-089.624544",
+		"Zipcode" : "53515",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "BLACK EARTH",
+		"State" : "WI",
+		"Latitude" : "+43.113953"
+	},
+	{
+		"Longitude" : "-090.104765",
+		"Zipcode" : "53516",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "BLANCHARDVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.693258"
+	},
+	{
+		"Longitude" : "-089.804576",
+		"Zipcode" : "53517",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "BLUE MOUNDS",
+		"State" : "WI",
+		"Latitude" : "+43.038220"
+	},
+	{
+		"Longitude" : "-090.571655",
+		"Zipcode" : "53518",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BLUE RIVER",
+		"State" : "WI",
+		"Latitude" : "+42.970450"
+	},
+	{
+		"Longitude" : "-089.580126",
+		"Zipcode" : "53520",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "BRODHEAD",
+		"State" : "WI",
+		"Latitude" : "+42.605797"
+	},
+	{
+		"Longitude" : "-089.582703",
+		"Zipcode" : "53521",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "BROOKLYN",
+		"State" : "WI",
+		"Latitude" : "+42.717122"
+	},
+	{
+		"Longitude" : "-089.778793",
+		"Zipcode" : "53522",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "BROWNTOWN",
+		"State" : "WI",
+		"Latitude" : "+42.563199"
+	},
+	{
+		"Longitude" : "-089.080742",
+		"Zipcode" : "53523",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "CAMBRIDGE",
+		"State" : "WI",
+		"Latitude" : "+42.987505"
+	},
+	{
+		"Longitude" : "-088.859993",
+		"Zipcode" : "53525",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "CLINTON",
+		"State" : "WI",
+		"Latitude" : "+42.562390"
+	},
+	{
+		"Longitude" : "-090.369319",
+		"Zipcode" : "53526",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "COBB",
+		"State" : "WI",
+		"Latitude" : "+42.963325"
+	},
+	{
+		"Longitude" : "-089.196996",
+		"Zipcode" : "53527",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "COTTAGE GROVE",
+		"State" : "WI",
+		"Latitude" : "+43.071165"
+	},
+	{
+		"Longitude" : "-089.695091",
+		"Zipcode" : "53528",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "CROSS PLAINS",
+		"State" : "WI",
+		"Latitude" : "+43.106453"
+	},
+	{
+		"Longitude" : "-089.523346",
+		"Zipcode" : "53529",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "DANE",
+		"State" : "WI",
+		"Latitude" : "+43.239966"
+	},
+	{
+		"Longitude" : "-090.134781",
+		"Zipcode" : "53530",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "DARLINGTON",
+		"State" : "WI",
+		"Latitude" : "+42.691120"
+	},
+	{
+		"Longitude" : "-089.091798",
+		"Zipcode" : "53531",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "DEERFIELD",
+		"State" : "WI",
+		"Latitude" : "+43.057662"
+	},
+	{
+		"Longitude" : "-089.260855",
+		"Zipcode" : "53532",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "DE FOREST",
+		"State" : "WI",
+		"Latitude" : "+43.149066"
+	},
+	{
+		"Longitude" : "-090.192522",
+		"Zipcode" : "53533",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "DODGEVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.007063"
+	},
+	{
+		"Longitude" : "-089.101389",
+		"Zipcode" : "53534",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "EDGERTON",
+		"State" : "WI",
+		"Latitude" : "+42.803797"
+	},
+	{
+		"Longitude" : "-090.133932",
+		"Zipcode" : "53535",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IOWA",
+		"City" : "EDMUND",
+		"State" : "WI",
+		"Latitude" : "+43.011323"
+	},
+	{
+		"Longitude" : "-089.250152",
+		"Zipcode" : "53536",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "EVANSVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.766359"
+	},
+	{
+		"Longitude" : "-089.211151",
+		"Zipcode" : "53537",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCK",
+		"City" : "FOOTVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.672575"
+	},
+	{
+		"Longitude" : "-088.841626",
+		"Zipcode" : "53538",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "FORT ATKINSON",
+		"State" : "WI",
+		"Latitude" : "+42.926467"
+	},
+	{
+		"Longitude" : "-090.261804",
+		"Zipcode" : "53540",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "GOTHAM",
+		"State" : "WI",
+		"Latitude" : "+43.234509"
+	},
+	{
+		"Longitude" : "-090.031186",
+		"Zipcode" : "53541",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "GRATIOT",
+		"State" : "WI",
+		"Latitude" : "+42.579894"
+	},
+	{
+		"Longitude" : "-089.159420",
+		"Zipcode" : "53542",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "HANOVER",
+		"State" : "WI",
+		"Latitude" : "+42.632325"
+	},
+	{
+		"Longitude" : "-090.133812",
+		"Zipcode" : "53543",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "HIGHLAND",
+		"State" : "WI",
+		"Latitude" : "+42.991078"
+	},
+	{
+		"Longitude" : "-089.923881",
+		"Zipcode" : "53544",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "HOLLANDALE",
+		"State" : "WI",
+		"Latitude" : "+42.871497"
+	},
+	{
+		"Longitude" : "-089.112201",
+		"Zipcode" : "53545",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "JANESVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.710981"
+	},
+	{
+		"Longitude" : "-088.947859",
+		"Zipcode" : "53546",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "JANESVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.663574"
+	},
+	{
+		"Longitude" : "-089.030111",
+		"Zipcode" : "53547",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "JANESVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.729359"
+	},
+	{
+		"Longitude" : "-088.759793",
+		"Zipcode" : "53549",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "JEFFERSON",
+		"State" : "WI",
+		"Latitude" : "+42.993502"
+	},
+	{
+		"Longitude" : "-089.507906",
+		"Zipcode" : "53550",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "JUDA",
+		"State" : "WI",
+		"Latitude" : "+42.564434"
+	},
+	{
+		"Longitude" : "-088.913251",
+		"Zipcode" : "53551",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LAKE MILLS",
+		"State" : "WI",
+		"Latitude" : "+43.080902"
+	},
+	{
+		"Longitude" : "-090.320561",
+		"Zipcode" : "53553",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "LINDEN",
+		"State" : "WI",
+		"Latitude" : "+42.963106"
+	},
+	{
+		"Longitude" : "-090.511593",
+		"Zipcode" : "53554",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "LIVINGSTON",
+		"State" : "WI",
+		"Latitude" : "+42.898716"
+	},
+	{
+		"Longitude" : "-089.557023",
+		"Zipcode" : "53555",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "LODI",
+		"State" : "WI",
+		"Latitude" : "+43.342813"
+	},
+	{
+		"Longitude" : "-090.265197",
+		"Zipcode" : "53556",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "LONE ROCK",
+		"State" : "WI",
+		"Latitude" : "+43.241475"
+	},
+	{
+		"Longitude" : "-088.791442",
+		"Zipcode" : "53557",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "LOWELL",
+		"State" : "WI",
+		"Latitude" : "+43.343056"
+	},
+	{
+		"Longitude" : "-089.363862",
+		"Zipcode" : "53558",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MC FARLAND",
+		"State" : "WI",
+		"Latitude" : "+43.010519"
+	},
+	{
+		"Longitude" : "-089.091315",
+		"Zipcode" : "53559",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MARSHALL",
+		"State" : "WI",
+		"Latitude" : "+43.173921"
+	},
+	{
+		"Longitude" : "-089.729261",
+		"Zipcode" : "53560",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MAZOMANIE",
+		"State" : "WI",
+		"Latitude" : "+43.190983"
+	},
+	{
+		"Longitude" : "-089.663960",
+		"Zipcode" : "53561",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "MERRIMAC",
+		"State" : "WI",
+		"Latitude" : "+43.364531"
+	},
+	{
+		"Longitude" : "-089.529153",
+		"Zipcode" : "53562",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MIDDLETON",
+		"State" : "WI",
+		"Latitude" : "+43.114772"
+	},
+	{
+		"Longitude" : "-089.041277",
+		"Zipcode" : "53563",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "MILTON",
+		"State" : "WI",
+		"Latitude" : "+42.737804"
+	},
+	{
+		"Longitude" : "-090.152558",
+		"Zipcode" : "53565",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "MINERAL POINT",
+		"State" : "WI",
+		"Latitude" : "+42.989701"
+	},
+	{
+		"Longitude" : "-089.656994",
+		"Zipcode" : "53566",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "MONROE",
+		"State" : "WI",
+		"Latitude" : "+42.612966"
+	},
+	{
+		"Longitude" : "-090.492475",
+		"Zipcode" : "53569",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MONTFORT",
+		"State" : "WI",
+		"Latitude" : "+43.031263"
+	},
+	{
+		"Longitude" : "-089.621013",
+		"Zipcode" : "53570",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "MONTICELLO",
+		"State" : "WI",
+		"Latitude" : "+42.743050"
+	},
+	{
+		"Longitude" : "-089.356403",
+		"Zipcode" : "53571",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DANE",
+		"City" : "MORRISONVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.277325"
+	},
+	{
+		"Longitude" : "-089.513903",
+		"Zipcode" : "53572",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MOUNT HOREB",
+		"State" : "WI",
+		"Latitude" : "+42.973438"
+	},
+	{
+		"Longitude" : "-090.488423",
+		"Zipcode" : "53573",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MUSCODA",
+		"State" : "WI",
+		"Latitude" : "+43.123400"
+	},
+	{
+		"Longitude" : "-089.651287",
+		"Zipcode" : "53574",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "NEW GLARUS",
+		"State" : "WI",
+		"Latitude" : "+42.816273"
+	},
+	{
+		"Longitude" : "-089.389642",
+		"Zipcode" : "53575",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "OREGON",
+		"State" : "WI",
+		"Latitude" : "+42.933918"
+	},
+	{
+		"Longitude" : "-089.233129",
+		"Zipcode" : "53576",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "ORFORDVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.614273"
+	},
+	{
+		"Longitude" : "-090.022327",
+		"Zipcode" : "53577",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "PLAIN",
+		"State" : "WI",
+		"Latitude" : "+43.293776"
+	},
+	{
+		"Longitude" : "-089.808407",
+		"Zipcode" : "53578",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "PRAIRIE DU SAC",
+		"State" : "WI",
+		"Latitude" : "+43.360759"
+	},
+	{
+		"Longitude" : "-088.887444",
+		"Zipcode" : "53579",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "REESEVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.287987"
+	},
+	{
+		"Longitude" : "-090.377784",
+		"Zipcode" : "53580",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "REWEY",
+		"State" : "WI",
+		"Latitude" : "+42.856934"
+	},
+	{
+		"Longitude" : "-090.430225",
+		"Zipcode" : "53581",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "RICHLAND CENTER",
+		"State" : "WI",
+		"Latitude" : "+43.366148"
+	},
+	{
+		"Longitude" : "-089.986458",
+		"Zipcode" : "53582",
+		"ZipClass" : "STANDARD",
+		"County" : "IOWA",
+		"City" : "RIDGEWAY",
+		"State" : "WI",
+		"Latitude" : "+43.016577"
+	},
+	{
+		"Longitude" : "-089.895840",
+		"Zipcode" : "53583",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "SAUK CITY",
+		"State" : "WI",
+		"Latitude" : "+43.251127"
+	},
+	{
+		"Longitude" : "-090.287566",
+		"Zipcode" : "53584",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "SEXTONVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.279435"
+	},
+	{
+		"Longitude" : "-088.623745",
+		"Zipcode" : "53585",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "SHARON",
+		"State" : "WI",
+		"Latitude" : "+42.607688"
+	},
+	{
+		"Longitude" : "-090.113635",
+		"Zipcode" : "53586",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "SHULLSBURG",
+		"State" : "WI",
+		"Latitude" : "+42.605221"
+	},
+	{
+		"Longitude" : "-089.931751",
+		"Zipcode" : "53587",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "SOUTH WAYNE",
+		"State" : "WI",
+		"Latitude" : "+42.579926"
+	},
+	{
+		"Longitude" : "-090.040066",
+		"Zipcode" : "53588",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "SPRING GREEN",
+		"State" : "WI",
+		"Latitude" : "+43.230001"
+	},
+	{
+		"Longitude" : "-089.168354",
+		"Zipcode" : "53589",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "STOUGHTON",
+		"State" : "WI",
+		"Latitude" : "+42.931289"
+	},
+	{
+		"Longitude" : "-089.209418",
+		"Zipcode" : "53590",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "SUN PRAIRIE",
+		"State" : "WI",
+		"Latitude" : "+43.195712"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53591",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "SUN PRAIRIE",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.566512",
+		"Zipcode" : "53593",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "VERONA",
+		"State" : "WI",
+		"Latitude" : "+42.995697"
+	},
+	{
+		"Longitude" : "-088.947513",
+		"Zipcode" : "53594",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WATERLOO",
+		"State" : "WI",
+		"Latitude" : "+43.129040"
+	},
+	{
+		"Longitude" : "-090.141299",
+		"Zipcode" : "53595",
+		"ZipClass" : "UNIQUE",
+		"County" : "IOWA",
+		"City" : "DODGEVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.976078"
+	},
+	{
+		"Longitude" : "-089.262880",
+		"Zipcode" : "53596",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "SUN PRAIRIE",
+		"State" : "WI",
+		"Latitude" : "+43.192403"
+	},
+	{
+		"Longitude" : "-089.322655",
+		"Zipcode" : "53597",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "WAUNAKEE",
+		"State" : "WI",
+		"Latitude" : "+43.183972"
+	},
+	{
+		"Longitude" : "-089.341780",
+		"Zipcode" : "53598",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "WINDSOR",
+		"State" : "WI",
+		"Latitude" : "+43.207783"
+	},
+	{
+		"Longitude" : "-089.862202",
+		"Zipcode" : "53599",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAFAYETTE",
+		"City" : "WOODFORD",
+		"State" : "WI",
+		"Latitude" : "+42.649309"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53701",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53702",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.352764",
+		"Zipcode" : "53703",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.053085"
+	},
+	{
+		"Longitude" : "-089.322135",
+		"Zipcode" : "53704",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.104429"
+	},
+	{
+		"Longitude" : "-089.456810",
+		"Zipcode" : "53705",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.073147"
+	},
+	{
+		"Longitude" : "-089.413326",
+		"Zipcode" : "53706",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.077755"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53707",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53708",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53709",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53710",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.417973",
+		"Zipcode" : "53711",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.021252"
+	},
+	{
+		"Longitude" : "-089.397066",
+		"Zipcode" : "53713",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.037167"
+	},
+	{
+		"Longitude" : "-089.312644",
+		"Zipcode" : "53714",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.118663"
+	},
+	{
+		"Longitude" : "-089.394619",
+		"Zipcode" : "53715",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.061839"
+	},
+	{
+		"Longitude" : "-089.313327",
+		"Zipcode" : "53716",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.063103"
+	},
+	{
+		"Longitude" : "-089.656734",
+		"Zipcode" : "53717",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.015966"
+	},
+	{
+		"Longitude" : "-089.249067",
+		"Zipcode" : "53718",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.114160"
+	},
+	{
+		"Longitude" : "-089.494568",
+		"Zipcode" : "53719",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.031250"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53725",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53726",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53744",
+		"ZipClass" : "STANDARD",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53777",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53778",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.324196",
+		"Zipcode" : "53779",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.098202"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53780",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53782",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.285235",
+		"Zipcode" : "53783",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.159550"
+	},
+	{
+		"Longitude" : "-089.338447",
+		"Zipcode" : "53784",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.048908"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53785",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53786",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53787",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.376320",
+		"Zipcode" : "53788",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.076691"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53789",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53790",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53791",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53792",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53793",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-089.423861",
+		"Zipcode" : "53794",
+		"ZipClass" : "UNIQUE",
+		"County" : "DANE",
+		"City" : "MADISON",
+		"State" : "WI",
+		"Latitude" : "+43.069560"
+	},
+	{
+		"Longitude" : "-090.823145",
+		"Zipcode" : "53801",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BAGLEY",
+		"State" : "WI",
+		"Latitude" : "+42.796401"
+	},
+	{
+		"Longitude" : "-090.936354",
+		"Zipcode" : "53802",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "BEETOWN",
+		"State" : "WI",
+		"Latitude" : "+42.873625"
+	},
+	{
+		"Longitude" : "-090.350817",
+		"Zipcode" : "53803",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "BENTON",
+		"State" : "WI",
+		"Latitude" : "+42.554499"
+	},
+	{
+		"Longitude" : "-090.907665",
+		"Zipcode" : "53804",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BLOOMINGTON",
+		"State" : "WI",
+		"Latitude" : "+42.838191"
+	},
+	{
+		"Longitude" : "-090.779071",
+		"Zipcode" : "53805",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BOSCOBEL",
+		"State" : "WI",
+		"Latitude" : "+42.896051"
+	},
+	{
+		"Longitude" : "-090.945303",
+		"Zipcode" : "53806",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "CASSVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.782451"
+	},
+	{
+		"Longitude" : "-090.699166",
+		"Zipcode" : "53807",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "CUBA CITY",
+		"State" : "WI",
+		"Latitude" : "+42.751647"
+	},
+	{
+		"Longitude" : "-090.583298",
+		"Zipcode" : "53808",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "DICKEYVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.635081"
+	},
+	{
+		"Longitude" : "-090.677324",
+		"Zipcode" : "53809",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "FENNIMORE",
+		"State" : "WI",
+		"Latitude" : "+42.806387"
+	},
+	{
+		"Longitude" : "-090.982153",
+		"Zipcode" : "53810",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "GLEN HAVEN",
+		"State" : "WI",
+		"Latitude" : "+42.822065"
+	},
+	{
+		"Longitude" : "-090.536322",
+		"Zipcode" : "53811",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "HAZEL GREEN",
+		"State" : "WI",
+		"Latitude" : "+42.543893"
+	},
+	{
+		"Longitude" : "-090.791337",
+		"Zipcode" : "53812",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "KIELER",
+		"State" : "WI",
+		"Latitude" : "+42.859325"
+	},
+	{
+		"Longitude" : "-090.684965",
+		"Zipcode" : "53813",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "LANCASTER",
+		"State" : "WI",
+		"Latitude" : "+42.864155"
+	},
+	{
+		"Longitude" : "-090.849620",
+		"Zipcode" : "53816",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MOUNT HOPE",
+		"State" : "WI",
+		"Latitude" : "+42.975521"
+	},
+	{
+		"Longitude" : "-090.964596",
+		"Zipcode" : "53817",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "PATCH GROVE",
+		"State" : "WI",
+		"Latitude" : "+42.942183"
+	},
+	{
+		"Longitude" : "-090.644975",
+		"Zipcode" : "53818",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "PLATTEVILLE",
+		"State" : "WI",
+		"Latitude" : "+42.795971"
+	},
+	{
+		"Longitude" : "-090.731654",
+		"Zipcode" : "53820",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "POTOSI",
+		"State" : "WI",
+		"Latitude" : "+42.692445"
+	},
+	{
+		"Longitude" : "-091.069064",
+		"Zipcode" : "53821",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "PRAIRIE DU CHIEN",
+		"State" : "WI",
+		"Latitude" : "+43.084008"
+	},
+	{
+		"Longitude" : "-090.791337",
+		"Zipcode" : "53824",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "SINSINAWA",
+		"State" : "WI",
+		"Latitude" : "+42.859325"
+	},
+	{
+		"Longitude" : "-090.583575",
+		"Zipcode" : "53825",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "STITZER",
+		"State" : "WI",
+		"Latitude" : "+42.926596"
+	},
+	{
+		"Longitude" : "-090.957097",
+		"Zipcode" : "53826",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "WAUZEKA",
+		"State" : "WI",
+		"Latitude" : "+43.110147"
+	},
+	{
+		"Longitude" : "-090.853002",
+		"Zipcode" : "53827",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "WOODMAN",
+		"State" : "WI",
+		"Latitude" : "+43.035813"
+	},
+	{
+		"Longitude" : "-089.399335",
+		"Zipcode" : "53901",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "PORTAGE",
+		"State" : "WI",
+		"Latitude" : "+43.506660"
+	},
+	{
+		"Longitude" : "-089.827509",
+		"Zipcode" : "53910",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "ADAMS",
+		"State" : "WI",
+		"Latitude" : "+43.892066"
+	},
+	{
+		"Longitude" : "-089.360610",
+		"Zipcode" : "53911",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "ARLINGTON",
+		"State" : "WI",
+		"Latitude" : "+43.336846"
+	},
+	{
+		"Longitude" : "-089.863957",
+		"Zipcode" : "53913",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "BARABOO",
+		"State" : "WI",
+		"Latitude" : "+43.446602"
+	},
+	{
+		"Longitude" : "-088.862852",
+		"Zipcode" : "53916",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "BEAVER DAM",
+		"State" : "WI",
+		"Latitude" : "+43.466482"
+	},
+	{
+		"Longitude" : "-088.704914",
+		"Zipcode" : "53917",
+		"ZipClass" : "UNIQUE",
+		"County" : "DODGE",
+		"City" : "BEAVER DAM",
+		"State" : "WI",
+		"Latitude" : "+43.414202"
+	},
+	{
+		"Longitude" : "-088.622450",
+		"Zipcode" : "53919",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "BRANDON",
+		"State" : "WI",
+		"Latitude" : "+43.740975"
+	},
+	{
+		"Longitude" : "-089.551629",
+		"Zipcode" : "53920",
+		"ZipClass" : "STANDARD",
+		"County" : "MARQUETTE",
+		"City" : "BRIGGSVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.707600"
+	},
+	{
+		"Longitude" : "-088.733460",
+		"Zipcode" : "53922",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "BURNETT",
+		"State" : "WI",
+		"Latitude" : "+43.517272"
+	},
+	{
+		"Longitude" : "-089.151730",
+		"Zipcode" : "53923",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "CAMBRIA",
+		"State" : "WI",
+		"Latitude" : "+43.550235"
+	},
+	{
+		"Longitude" : "-090.282250",
+		"Zipcode" : "53924",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "CAZENOVIA",
+		"State" : "WI",
+		"Latitude" : "+43.463580"
+	},
+	{
+		"Longitude" : "-089.120880",
+		"Zipcode" : "53925",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "COLUMBUS",
+		"State" : "WI",
+		"Latitude" : "+43.356900"
+	},
+	{
+		"Longitude" : "-089.186656",
+		"Zipcode" : "53926",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN LAKE",
+		"City" : "DALTON",
+		"State" : "WI",
+		"Latitude" : "+43.679317"
+	},
+	{
+		"Longitude" : "-089.941771",
+		"Zipcode" : "53927",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "DELLWOOD",
+		"State" : "WI",
+		"Latitude" : "+43.955460"
+	},
+	{
+		"Longitude" : "-089.149069",
+		"Zipcode" : "53928",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLUMBIA",
+		"City" : "DOYLESTOWN",
+		"State" : "WI",
+		"Latitude" : "+43.426605"
+	},
+	{
+		"Longitude" : "-090.104460",
+		"Zipcode" : "53929",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNEAU",
+		"City" : "ELROY",
+		"State" : "WI",
+		"Latitude" : "+43.827020"
+	},
+	{
+		"Longitude" : "-089.483441",
+		"Zipcode" : "53930",
+		"ZipClass" : "STANDARD",
+		"County" : "MARQUETTE",
+		"City" : "ENDEAVOR",
+		"State" : "WI",
+		"Latitude" : "+43.686600"
+	},
+	{
+		"Longitude" : "-088.866516",
+		"Zipcode" : "53931",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FOND DU LAC",
+		"City" : "FAIRWATER",
+		"State" : "WI",
+		"Latitude" : "+43.747481"
+	},
+	{
+		"Longitude" : "-089.070459",
+		"Zipcode" : "53932",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "FALL RIVER",
+		"State" : "WI",
+		"Latitude" : "+43.417126"
+	},
+	{
+		"Longitude" : "-088.895723",
+		"Zipcode" : "53933",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "FOX LAKE",
+		"State" : "WI",
+		"Latitude" : "+43.568169"
+	},
+	{
+		"Longitude" : "-089.777051",
+		"Zipcode" : "53934",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "FRIENDSHIP",
+		"State" : "WI",
+		"Latitude" : "+43.997966"
+	},
+	{
+		"Longitude" : "-089.059310",
+		"Zipcode" : "53935",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLUMBIA",
+		"City" : "FRIESLAND",
+		"State" : "WI",
+		"Latitude" : "+43.590116"
+	},
+	{
+		"Longitude" : "-089.727510",
+		"Zipcode" : "53936",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "GRAND MARSH",
+		"State" : "WI",
+		"Latitude" : "+43.947894"
+	},
+	{
+		"Longitude" : "-090.128539",
+		"Zipcode" : "53937",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "HILLPOINT",
+		"State" : "WI",
+		"Latitude" : "+43.390863"
+	},
+	{
+		"Longitude" : "-089.130237",
+		"Zipcode" : "53939",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREEN LAKE",
+		"City" : "KINGSTON",
+		"State" : "WI",
+		"Latitude" : "+43.691100"
+	},
+	{
+		"Longitude" : "-089.791242",
+		"Zipcode" : "53940",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAUK",
+		"City" : "LAKE DELTON",
+		"State" : "WI",
+		"Latitude" : "+43.593912"
+	},
+	{
+		"Longitude" : "-090.117243",
+		"Zipcode" : "53941",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "LA VALLE",
+		"State" : "WI",
+		"Latitude" : "+43.547459"
+	},
+	{
+		"Longitude" : "-090.161478",
+		"Zipcode" : "53942",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAUK",
+		"City" : "LIME RIDGE",
+		"State" : "WI",
+		"Latitude" : "+43.468211"
+	},
+	{
+		"Longitude" : "-090.017885",
+		"Zipcode" : "53943",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "LOGANVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.385775"
+	},
+	{
+		"Longitude" : "-089.949337",
+		"Zipcode" : "53944",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNEAU",
+		"City" : "LYNDON STATION",
+		"State" : "WI",
+		"Latitude" : "+43.714061"
+	},
+	{
+		"Longitude" : "-089.065361",
+		"Zipcode" : "53946",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN LAKE",
+		"City" : "MARKESAN",
+		"State" : "WI",
+		"Latitude" : "+43.723578"
+	},
+	{
+		"Longitude" : "-089.138441",
+		"Zipcode" : "53947",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREEN LAKE",
+		"City" : "MARQUETTE",
+		"State" : "WI",
+		"Latitude" : "+43.746464"
+	},
+	{
+		"Longitude" : "-090.072420",
+		"Zipcode" : "53948",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNEAU",
+		"City" : "MAUSTON",
+		"State" : "WI",
+		"Latitude" : "+43.908679"
+	},
+	{
+		"Longitude" : "-089.372011",
+		"Zipcode" : "53949",
+		"ZipClass" : "STANDARD",
+		"County" : "MARQUETTE",
+		"City" : "MONTELLO",
+		"State" : "WI",
+		"Latitude" : "+43.812581"
+	},
+	{
+		"Longitude" : "-090.165918",
+		"Zipcode" : "53950",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNEAU",
+		"City" : "NEW LISBON",
+		"State" : "WI",
+		"Latitude" : "+43.911145"
+	},
+	{
+		"Longitude" : "-089.872232",
+		"Zipcode" : "53951",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "NORTH FREEDOM",
+		"State" : "WI",
+		"Latitude" : "+43.403100"
+	},
+	{
+		"Longitude" : "-089.463944",
+		"Zipcode" : "53952",
+		"ZipClass" : "STANDARD",
+		"County" : "MARQUETTE",
+		"City" : "OXFORD",
+		"State" : "WI",
+		"Latitude" : "+43.767789"
+	},
+	{
+		"Longitude" : "-089.457600",
+		"Zipcode" : "53953",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARQUETTE",
+		"City" : "PACKWAUKEE",
+		"State" : "WI",
+		"Latitude" : "+43.764385"
+	},
+	{
+		"Longitude" : "-089.314590",
+		"Zipcode" : "53954",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "PARDEEVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.516772"
+	},
+	{
+		"Longitude" : "-089.394518",
+		"Zipcode" : "53955",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "POYNETTE",
+		"State" : "WI",
+		"Latitude" : "+43.433273"
+	},
+	{
+		"Longitude" : "-088.946714",
+		"Zipcode" : "53956",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "RANDOLPH",
+		"State" : "WI",
+		"Latitude" : "+43.534002"
+	},
+	{
+		"Longitude" : "-089.006845",
+		"Zipcode" : "53957",
+		"ZipClass" : "UNIQUE",
+		"County" : "COLUMBIA",
+		"City" : "RANDOLPH",
+		"State" : "WI",
+		"Latitude" : "+43.535249"
+	},
+	{
+		"Longitude" : "-089.955890",
+		"Zipcode" : "53958",
+		"ZipClass" : "UNIQUE",
+		"County" : "SAUK",
+		"City" : "REEDSBURG",
+		"State" : "WI",
+		"Latitude" : "+43.393767"
+	},
+	{
+		"Longitude" : "-089.966806",
+		"Zipcode" : "53959",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "REEDSBURG",
+		"State" : "WI",
+		"Latitude" : "+43.482108"
+	},
+	{
+		"Longitude" : "-089.250177",
+		"Zipcode" : "53960",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "RIO",
+		"State" : "WI",
+		"Latitude" : "+43.398335"
+	},
+	{
+		"Longitude" : "-089.931931",
+		"Zipcode" : "53961",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUK",
+		"City" : "ROCK SPRINGS",
+		"State" : "WI",
+		"Latitude" : "+43.459884"
+	},
+	{
+		"Longitude" : "-090.049489",
+		"Zipcode" : "53962",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JUNEAU",
+		"City" : "UNION CENTER",
+		"State" : "WI",
+		"Latitude" : "+43.945210"
+	},
+	{
+		"Longitude" : "-088.754483",
+		"Zipcode" : "53963",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "WAUPUN",
+		"State" : "WI",
+		"Latitude" : "+43.459309"
+	},
+	{
+		"Longitude" : "-089.478459",
+		"Zipcode" : "53964",
+		"ZipClass" : "STANDARD",
+		"County" : "MARQUETTE",
+		"City" : "WESTFIELD",
+		"State" : "WI",
+		"Latitude" : "+43.848698"
+	},
+	{
+		"Longitude" : "-089.441680",
+		"Zipcode" : "53965",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "WISCONSIN DELLS",
+		"State" : "WI",
+		"Latitude" : "+43.568982"
+	},
+	{
+		"Longitude" : "-090.203595",
+		"Zipcode" : "53968",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNEAU",
+		"City" : "WONEWOC",
+		"State" : "WI",
+		"Latitude" : "+43.690867"
+	},
+	{
+		"Longitude" : "-089.304970",
+		"Zipcode" : "53969",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLUMBIA",
+		"City" : "WYOCENA",
+		"State" : "WI",
+		"Latitude" : "+43.498907"
+	},
+	{
+		"Longitude" : "-092.401379",
+		"Zipcode" : "54001",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "AMERY",
+		"State" : "WI",
+		"Latitude" : "+45.348566"
+	},
+	{
+		"Longitude" : "-092.441061",
+		"Zipcode" : "54002",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "BALDWIN",
+		"State" : "WI",
+		"Latitude" : "+44.969171"
+	},
+	{
+		"Longitude" : "-092.448434",
+		"Zipcode" : "54003",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "BELDENVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.789742"
+	},
+	{
+		"Longitude" : "-092.430772",
+		"Zipcode" : "54004",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "CLAYTON",
+		"State" : "WI",
+		"Latitude" : "+45.314840"
+	},
+	{
+		"Longitude" : "-092.429816",
+		"Zipcode" : "54005",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "CLEAR LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.282945"
+	},
+	{
+		"Longitude" : "-092.662155",
+		"Zipcode" : "54006",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "CUSHING",
+		"State" : "WI",
+		"Latitude" : "+45.554321"
+	},
+	{
+		"Longitude" : "-092.379021",
+		"Zipcode" : "54007",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "DEER PARK",
+		"State" : "WI",
+		"Latitude" : "+45.087504"
+	},
+	{
+		"Longitude" : "-092.549952",
+		"Zipcode" : "54009",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "DRESSER",
+		"State" : "WI",
+		"Latitude" : "+45.361790"
+	},
+	{
+		"Longitude" : "-092.465532",
+		"Zipcode" : "54010",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "EAST ELLSWORTH",
+		"State" : "WI",
+		"Latitude" : "+44.734759"
+	},
+	{
+		"Longitude" : "-092.548289",
+		"Zipcode" : "54011",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "ELLSWORTH",
+		"State" : "WI",
+		"Latitude" : "+44.740142"
+	},
+	{
+		"Longitude" : "-092.276235",
+		"Zipcode" : "54012",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "EMERALD",
+		"State" : "WI",
+		"Latitude" : "+45.114530"
+	},
+	{
+		"Longitude" : "-092.248403",
+		"Zipcode" : "54013",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "GLENWOOD CITY",
+		"State" : "WI",
+		"Latitude" : "+45.060365"
+	},
+	{
+		"Longitude" : "-092.573652",
+		"Zipcode" : "54014",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "HAGER CITY",
+		"State" : "WI",
+		"Latitude" : "+44.655504"
+	},
+	{
+		"Longitude" : "-092.456512",
+		"Zipcode" : "54015",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "HAMMOND",
+		"State" : "WI",
+		"Latitude" : "+44.966939"
+	},
+	{
+		"Longitude" : "-092.481156",
+		"Zipcode" : "54016",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "HUDSON",
+		"State" : "WI",
+		"Latitude" : "+44.971853"
+	},
+	{
+		"Longitude" : "-092.496993",
+		"Zipcode" : "54017",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "NEW RICHMOND",
+		"State" : "WI",
+		"Latitude" : "+45.090925"
+	},
+	{
+		"Longitude" : "-092.535618",
+		"Zipcode" : "54020",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "OSCEOLA",
+		"State" : "WI",
+		"Latitude" : "+45.283783"
+	},
+	{
+		"Longitude" : "-092.640483",
+		"Zipcode" : "54021",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PRESCOTT",
+		"State" : "WI",
+		"Latitude" : "+44.747209"
+	},
+	{
+		"Longitude" : "-092.595365",
+		"Zipcode" : "54022",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "RIVER FALLS",
+		"State" : "WI",
+		"Latitude" : "+44.802351"
+	},
+	{
+		"Longitude" : "-092.597620",
+		"Zipcode" : "54023",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "ROBERTS",
+		"State" : "WI",
+		"Latitude" : "+44.974357"
+	},
+	{
+		"Longitude" : "-092.611733",
+		"Zipcode" : "54024",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "SAINT CROIX FALLS",
+		"State" : "WI",
+		"Latitude" : "+45.509689"
+	},
+	{
+		"Longitude" : "-092.474419",
+		"Zipcode" : "54025",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "SOMERSET",
+		"State" : "WI",
+		"Latitude" : "+45.081379"
+	},
+	{
+		"Longitude" : "-092.480793",
+		"Zipcode" : "54026",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "STAR PRAIRIE",
+		"State" : "WI",
+		"Latitude" : "+45.265619"
+	},
+	{
+		"Longitude" : "-092.256050",
+		"Zipcode" : "54027",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "WILSON",
+		"State" : "WI",
+		"Latitude" : "+44.945813"
+	},
+	{
+		"Longitude" : "-092.376526",
+		"Zipcode" : "54028",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "WOODVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.946202"
+	},
+	{
+		"Longitude" : "-092.746568",
+		"Zipcode" : "54082",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "HOULTON",
+		"State" : "WI",
+		"Latitude" : "+45.080119"
+	},
+	{
+		"Longitude" : "-088.044067",
+		"Zipcode" : "54101",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "ABRAMS",
+		"State" : "WI",
+		"Latitude" : "+44.792284"
+	},
+	{
+		"Longitude" : "-088.049604",
+		"Zipcode" : "54102",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "AMBERG",
+		"State" : "WI",
+		"Latitude" : "+45.492839"
+	},
+	{
+		"Longitude" : "-088.530545",
+		"Zipcode" : "54103",
+		"ZipClass" : "STANDARD",
+		"County" : "FOREST",
+		"City" : "ARMSTRONG CREEK",
+		"State" : "WI",
+		"Latitude" : "+45.672311"
+	},
+	{
+		"Longitude" : "-088.246901",
+		"Zipcode" : "54104",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "ATHELSTANE",
+		"State" : "WI",
+		"Latitude" : "+45.420602"
+	},
+	{
+		"Longitude" : "-088.454719",
+		"Zipcode" : "54106",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "BLACK CREEK",
+		"State" : "WI",
+		"Latitude" : "+44.470235"
+	},
+	{
+		"Longitude" : "-088.454312",
+		"Zipcode" : "54107",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "BONDUEL",
+		"State" : "WI",
+		"Latitude" : "+44.699153"
+	},
+	{
+		"Longitude" : "-088.133876",
+		"Zipcode" : "54110",
+		"ZipClass" : "STANDARD",
+		"County" : "CALUMET",
+		"City" : "BRILLION",
+		"State" : "WI",
+		"Latitude" : "+44.163209"
+	},
+	{
+		"Longitude" : "-088.391648",
+		"Zipcode" : "54111",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "CECIL",
+		"State" : "WI",
+		"Latitude" : "+44.810274"
+	},
+	{
+		"Longitude" : "-088.002389",
+		"Zipcode" : "54112",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "COLEMAN",
+		"State" : "WI",
+		"Latitude" : "+45.306273"
+	},
+	{
+		"Longitude" : "-088.361208",
+		"Zipcode" : "54113",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "COMBINED LOCKS",
+		"State" : "WI",
+		"Latitude" : "+44.348711"
+	},
+	{
+		"Longitude" : "-088.078001",
+		"Zipcode" : "54114",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "CRIVITZ",
+		"State" : "WI",
+		"Latitude" : "+45.261661"
+	},
+	{
+		"Longitude" : "-087.978279",
+		"Zipcode" : "54115",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "DE PERE",
+		"State" : "WI",
+		"Latitude" : "+44.453629"
+	},
+	{
+		"Longitude" : "-088.222435",
+		"Zipcode" : "54119",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "DUNBAR",
+		"State" : "WI",
+		"Latitude" : "+45.591557"
+	},
+	{
+		"Longitude" : "-088.475650",
+		"Zipcode" : "54120",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "FENCE",
+		"State" : "WI",
+		"Latitude" : "+45.744470"
+	},
+	{
+		"Longitude" : "-088.284254",
+		"Zipcode" : "54121",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "FLORENCE",
+		"State" : "WI",
+		"Latitude" : "+45.845525"
+	},
+	{
+		"Longitude" : "-088.151532",
+		"Zipcode" : "54123",
+		"ZipClass" : "STANDARD",
+		"County" : "CALUMET",
+		"City" : "FOREST JUNCTION",
+		"State" : "WI",
+		"Latitude" : "+44.211065"
+	},
+	{
+		"Longitude" : "-088.174299",
+		"Zipcode" : "54124",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "GILLETT",
+		"State" : "WI",
+		"Latitude" : "+44.916397"
+	},
+	{
+		"Longitude" : "-088.333152",
+		"Zipcode" : "54125",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "GOODMAN",
+		"State" : "WI",
+		"Latitude" : "+45.648826"
+	},
+	{
+		"Longitude" : "-088.037736",
+		"Zipcode" : "54126",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREENLEAF",
+		"State" : "WI",
+		"Latitude" : "+44.347365"
+	},
+	{
+		"Longitude" : "-088.269238",
+		"Zipcode" : "54127",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHAWANO",
+		"City" : "GREEN VALLEY",
+		"State" : "WI",
+		"Latitude" : "+44.804687"
+	},
+	{
+		"Longitude" : "-088.732786",
+		"Zipcode" : "54128",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "GRESHAM",
+		"State" : "WI",
+		"Latitude" : "+44.806061"
+	},
+	{
+		"Longitude" : "-088.195124",
+		"Zipcode" : "54129",
+		"ZipClass" : "STANDARD",
+		"County" : "CALUMET",
+		"City" : "HILBERT",
+		"State" : "WI",
+		"Latitude" : "+44.146516"
+	},
+	{
+		"Longitude" : "-088.295776",
+		"Zipcode" : "54130",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "KAUKAUNA",
+		"State" : "WI",
+		"Latitude" : "+44.334465"
+	},
+	{
+		"Longitude" : "-088.464873",
+		"Zipcode" : "54131",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "FREEDOM",
+		"State" : "WI",
+		"Latitude" : "+44.416326"
+	},
+	{
+		"Longitude" : "-088.575133",
+		"Zipcode" : "54135",
+		"ZipClass" : "STANDARD",
+		"County" : "MENOMINEE",
+		"City" : "KESHENA",
+		"State" : "WI",
+		"Latitude" : "+44.886460"
+	},
+	{
+		"Longitude" : "-088.473445",
+		"Zipcode" : "54136",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "KIMBERLY",
+		"State" : "WI",
+		"Latitude" : "+44.303208"
+	},
+	{
+		"Longitude" : "-088.289822",
+		"Zipcode" : "54137",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "KRAKOW",
+		"State" : "WI",
+		"Latitude" : "+44.755693"
+	},
+	{
+		"Longitude" : "-088.477771",
+		"Zipcode" : "54138",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "LAKEWOOD",
+		"State" : "WI",
+		"Latitude" : "+45.308254"
+	},
+	{
+		"Longitude" : "-088.214802",
+		"Zipcode" : "54139",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "LENA",
+		"State" : "WI",
+		"Latitude" : "+45.063468"
+	},
+	{
+		"Longitude" : "-088.316305",
+		"Zipcode" : "54140",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "LITTLE CHUTE",
+		"State" : "WI",
+		"Latitude" : "+44.294746"
+	},
+	{
+		"Longitude" : "-087.995493",
+		"Zipcode" : "54141",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "LITTLE SUAMICO",
+		"State" : "WI",
+		"Latitude" : "+44.744566"
+	},
+	{
+		"Longitude" : "-087.716311",
+		"Zipcode" : "54143",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "MARINETTE",
+		"State" : "WI",
+		"Latitude" : "+45.086805"
+	},
+	{
+		"Longitude" : "-088.478890",
+		"Zipcode" : "54149",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "MOUNTAIN",
+		"State" : "WI",
+		"Latitude" : "+45.095725"
+	},
+	{
+		"Longitude" : "-088.618552",
+		"Zipcode" : "54150",
+		"ZipClass" : "STANDARD",
+		"County" : "MENOMINEE",
+		"City" : "NEOPIT",
+		"State" : "WI",
+		"Latitude" : "+44.868930"
+	},
+	{
+		"Longitude" : "-087.918821",
+		"Zipcode" : "54151",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "NIAGARA",
+		"State" : "WI",
+		"Latitude" : "+45.579448"
+	},
+	{
+		"Longitude" : "-088.458164",
+		"Zipcode" : "54152",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OUTAGAMIE",
+		"City" : "NICHOLS",
+		"State" : "WI",
+		"Latitude" : "+44.566799"
+	},
+	{
+		"Longitude" : "-088.082586",
+		"Zipcode" : "54153",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "OCONTO",
+		"State" : "WI",
+		"Latitude" : "+44.897088"
+	},
+	{
+		"Longitude" : "-088.125829",
+		"Zipcode" : "54154",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "OCONTO FALLS",
+		"State" : "WI",
+		"Latitude" : "+44.901999"
+	},
+	{
+		"Longitude" : "-088.233330",
+		"Zipcode" : "54155",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "ONEIDA",
+		"State" : "WI",
+		"Latitude" : "+44.447167"
+	},
+	{
+		"Longitude" : "-087.904337",
+		"Zipcode" : "54156",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "PEMBINE",
+		"State" : "WI",
+		"Latitude" : "+45.392437"
+	},
+	{
+		"Longitude" : "-087.902000",
+		"Zipcode" : "54157",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "PESHTIGO",
+		"State" : "WI",
+		"Latitude" : "+45.174269"
+	},
+	{
+		"Longitude" : "-087.827400",
+		"Zipcode" : "54159",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "PORTERFIELD",
+		"State" : "WI",
+		"Latitude" : "+45.205901"
+	},
+	{
+		"Longitude" : "-088.096495",
+		"Zipcode" : "54160",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALUMET",
+		"City" : "POTTER",
+		"State" : "WI",
+		"Latitude" : "+44.119917"
+	},
+	{
+		"Longitude" : "-087.977136",
+		"Zipcode" : "54161",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "POUND",
+		"State" : "WI",
+		"Latitude" : "+45.117544"
+	},
+	{
+		"Longitude" : "-088.103417",
+		"Zipcode" : "54162",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "PULASKI",
+		"State" : "WI",
+		"Latitude" : "+44.583761"
+	},
+	{
+		"Longitude" : "-088.463328",
+		"Zipcode" : "54165",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "SEYMOUR",
+		"State" : "WI",
+		"Latitude" : "+44.430443"
+	},
+	{
+		"Longitude" : "-088.664156",
+		"Zipcode" : "54166",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "SHAWANO",
+		"State" : "WI",
+		"Latitude" : "+44.745058"
+	},
+	{
+		"Longitude" : "-088.229438",
+		"Zipcode" : "54169",
+		"ZipClass" : "STANDARD",
+		"County" : "CALUMET",
+		"City" : "SHERWOOD",
+		"State" : "WI",
+		"Latitude" : "+44.167388"
+	},
+	{
+		"Longitude" : "-088.589547",
+		"Zipcode" : "54170",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "SHIOCTON",
+		"State" : "WI",
+		"Latitude" : "+44.482935"
+	},
+	{
+		"Longitude" : "-088.121792",
+		"Zipcode" : "54171",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "SOBIESKI",
+		"State" : "WI",
+		"Latitude" : "+44.726641"
+	},
+	{
+		"Longitude" : "-088.122034",
+		"Zipcode" : "54173",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "SUAMICO",
+		"State" : "WI",
+		"Latitude" : "+44.635701"
+	},
+	{
+		"Longitude" : "-088.418694",
+		"Zipcode" : "54174",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "SURING",
+		"State" : "WI",
+		"Latitude" : "+45.111843"
+	},
+	{
+		"Longitude" : "-088.605896",
+		"Zipcode" : "54175",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONTO",
+		"City" : "TOWNSEND",
+		"State" : "WI",
+		"Latitude" : "+45.309457"
+	},
+	{
+		"Longitude" : "-087.876231",
+		"Zipcode" : "54177",
+		"ZipClass" : "STANDARD",
+		"County" : "MARINETTE",
+		"City" : "WAUSAUKEE",
+		"State" : "WI",
+		"Latitude" : "+45.383307"
+	},
+	{
+		"Longitude" : "-088.124743",
+		"Zipcode" : "54180",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "WRIGHTSTOWN",
+		"State" : "WI",
+		"Latitude" : "+44.494921"
+	},
+	{
+		"Longitude" : "-088.369842",
+		"Zipcode" : "54182",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "ZACHOW",
+		"State" : "WI",
+		"Latitude" : "+44.731453"
+	},
+	{
+		"Longitude" : "-087.540266",
+		"Zipcode" : "54201",
+		"ZipClass" : "STANDARD",
+		"County" : "KEWAUNEE",
+		"City" : "ALGOMA",
+		"State" : "WI",
+		"Latitude" : "+44.596017"
+	},
+	{
+		"Longitude" : "-087.146030",
+		"Zipcode" : "54202",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "BAILEYS HARBOR",
+		"State" : "WI",
+		"Latitude" : "+45.077002"
+	},
+	{
+		"Longitude" : "-087.483874",
+		"Zipcode" : "54203",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MANITOWOC",
+		"City" : "BRANCH",
+		"State" : "WI",
+		"Latitude" : "+44.109853"
+	},
+	{
+		"Longitude" : "-087.625888",
+		"Zipcode" : "54204",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "BRUSSELS",
+		"State" : "WI",
+		"Latitude" : "+44.752379"
+	},
+	{
+		"Longitude" : "-087.637308",
+		"Zipcode" : "54205",
+		"ZipClass" : "STANDARD",
+		"County" : "KEWAUNEE",
+		"City" : "CASCO",
+		"State" : "WI",
+		"Latitude" : "+44.596082"
+	},
+	{
+		"Longitude" : "-087.990241",
+		"Zipcode" : "54207",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MANITOWOC",
+		"City" : "COLLINS",
+		"State" : "WI",
+		"Latitude" : "+44.091021"
+	},
+	{
+		"Longitude" : "-087.885734",
+		"Zipcode" : "54208",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "DENMARK",
+		"State" : "WI",
+		"Latitude" : "+44.459153"
+	},
+	{
+		"Longitude" : "-087.266031",
+		"Zipcode" : "54209",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "EGG HARBOR",
+		"State" : "WI",
+		"Latitude" : "+45.012261"
+	},
+	{
+		"Longitude" : "-087.044698",
+		"Zipcode" : "54210",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "ELLISON BAY",
+		"State" : "WI",
+		"Latitude" : "+45.253108"
+	},
+	{
+		"Longitude" : "-087.171024",
+		"Zipcode" : "54211",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOOR",
+		"City" : "EPHRAIM",
+		"State" : "WI",
+		"Latitude" : "+45.159184"
+	},
+	{
+		"Longitude" : "-087.209899",
+		"Zipcode" : "54212",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "FISH CREEK",
+		"State" : "WI",
+		"Latitude" : "+45.110380"
+	},
+	{
+		"Longitude" : "-087.528122",
+		"Zipcode" : "54213",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "FORESTVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.722418"
+	},
+	{
+		"Longitude" : "-087.715629",
+		"Zipcode" : "54214",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MANITOWOC",
+		"City" : "FRANCIS CREEK",
+		"State" : "WI",
+		"Latitude" : "+44.204875"
+	},
+	{
+		"Longitude" : "-087.801651",
+		"Zipcode" : "54215",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MANITOWOC",
+		"City" : "KELLNERSVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.222585"
+	},
+	{
+		"Longitude" : "-087.592719",
+		"Zipcode" : "54216",
+		"ZipClass" : "STANDARD",
+		"County" : "KEWAUNEE",
+		"City" : "KEWAUNEE",
+		"State" : "WI",
+		"Latitude" : "+44.438185"
+	},
+	{
+		"Longitude" : "-087.670551",
+		"Zipcode" : "54217",
+		"ZipClass" : "STANDARD",
+		"County" : "KEWAUNEE",
+		"City" : "LUXEMBURG",
+		"State" : "WI",
+		"Latitude" : "+44.541977"
+	},
+	{
+		"Longitude" : "-087.714403",
+		"Zipcode" : "54220",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "MANITOWOC",
+		"State" : "WI",
+		"Latitude" : "+44.109709"
+	},
+	{
+		"Longitude" : "-087.599031",
+		"Zipcode" : "54221",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "MANITOWOC",
+		"State" : "WI",
+		"Latitude" : "+44.132295"
+	},
+	{
+		"Longitude" : "-087.006012",
+		"Zipcode" : "54226",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOOR",
+		"City" : "MAPLEWOOD",
+		"State" : "WI",
+		"Latitude" : "+45.059713"
+	},
+	{
+		"Longitude" : "-087.801651",
+		"Zipcode" : "54227",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "MARIBEL",
+		"State" : "WI",
+		"Latitude" : "+44.276554"
+	},
+	{
+		"Longitude" : "-087.739206",
+		"Zipcode" : "54228",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "MISHICOT",
+		"State" : "WI",
+		"Latitude" : "+44.167783"
+	},
+	{
+		"Longitude" : "-087.833306",
+		"Zipcode" : "54229",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "NEW FRANKEN",
+		"State" : "WI",
+		"Latitude" : "+44.571416"
+	},
+	{
+		"Longitude" : "-087.904684",
+		"Zipcode" : "54230",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "REEDSVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.142382"
+	},
+	{
+		"Longitude" : "-087.922351",
+		"Zipcode" : "54232",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MANITOWOC",
+		"City" : "SAINT NAZIANZ",
+		"State" : "WI",
+		"Latitude" : "+44.005714"
+	},
+	{
+		"Longitude" : "-087.101748",
+		"Zipcode" : "54234",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "SISTER BAY",
+		"State" : "WI",
+		"Latitude" : "+45.178293"
+	},
+	{
+		"Longitude" : "-087.384142",
+		"Zipcode" : "54235",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "STURGEON BAY",
+		"State" : "WI",
+		"Latitude" : "+44.945314"
+	},
+	{
+		"Longitude" : "-087.632398",
+		"Zipcode" : "54240",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MANITOWOC",
+		"City" : "TISCH MILLS",
+		"State" : "WI",
+		"Latitude" : "+44.282802"
+	},
+	{
+		"Longitude" : "-087.627759",
+		"Zipcode" : "54241",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "TWO RIVERS",
+		"State" : "WI",
+		"Latitude" : "+44.225538"
+	},
+	{
+		"Longitude" : "-087.899912",
+		"Zipcode" : "54245",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "VALDERS",
+		"State" : "WI",
+		"Latitude" : "+44.053321"
+	},
+	{
+		"Longitude" : "-086.897472",
+		"Zipcode" : "54246",
+		"ZipClass" : "STANDARD",
+		"County" : "DOOR",
+		"City" : "WASHINGTON ISLAND",
+		"State" : "WI",
+		"Latitude" : "+45.373786"
+	},
+	{
+		"Longitude" : "-087.781594",
+		"Zipcode" : "54247",
+		"ZipClass" : "STANDARD",
+		"County" : "MANITOWOC",
+		"City" : "WHITELAW",
+		"State" : "WI",
+		"Latitude" : "+44.189293"
+	},
+	{
+		"Longitude" : "-087.976051",
+		"Zipcode" : "54301",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.494385"
+	},
+	{
+		"Longitude" : "-087.978652",
+		"Zipcode" : "54302",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.495042"
+	},
+	{
+		"Longitude" : "-088.078803",
+		"Zipcode" : "54303",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.552247"
+	},
+	{
+		"Longitude" : "-088.032443",
+		"Zipcode" : "54304",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.497541"
+	},
+	{
+		"Longitude" : "-088.007382",
+		"Zipcode" : "54305",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.460064"
+	},
+	{
+		"Longitude" : "-088.007382",
+		"Zipcode" : "54306",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.460064"
+	},
+	{
+		"Longitude" : "-088.007382",
+		"Zipcode" : "54307",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.460064"
+	},
+	{
+		"Longitude" : "-087.805912",
+		"Zipcode" : "54308",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.459509"
+	},
+	{
+		"Longitude" : "-087.957687",
+		"Zipcode" : "54311",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.523605"
+	},
+	{
+		"Longitude" : "-087.995970",
+		"Zipcode" : "54313",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.549640"
+	},
+	{
+		"Longitude" : "-088.007382",
+		"Zipcode" : "54324",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.460064"
+	},
+	{
+		"Longitude" : "-088.111252",
+		"Zipcode" : "54344",
+		"ZipClass" : "UNIQUE",
+		"County" : "BROWN",
+		"City" : "GREEN BAY",
+		"State" : "WI",
+		"Latitude" : "+44.425040"
+	},
+	{
+		"Longitude" : "-089.794002",
+		"Zipcode" : "54401",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "WAUSAU",
+		"State" : "WI",
+		"Latitude" : "+44.961874"
+	},
+	{
+		"Longitude" : "-089.770100",
+		"Zipcode" : "54402",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "WAUSAU",
+		"State" : "WI",
+		"Latitude" : "+44.900936"
+	},
+	{
+		"Longitude" : "-089.531804",
+		"Zipcode" : "54403",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "WAUSAU",
+		"State" : "WI",
+		"Latitude" : "+44.952863"
+	},
+	{
+		"Longitude" : "-090.021360",
+		"Zipcode" : "54404",
+		"ZipClass" : "UNIQUE",
+		"County" : "WOOD",
+		"City" : "MARSHFIELD",
+		"State" : "WI",
+		"Latitude" : "+44.466554"
+	},
+	{
+		"Longitude" : "-090.374893",
+		"Zipcode" : "54405",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "ABBOTSFORD",
+		"State" : "WI",
+		"Latitude" : "+44.960186"
+	},
+	{
+		"Longitude" : "-089.335313",
+		"Zipcode" : "54406",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "AMHERST",
+		"State" : "WI",
+		"Latitude" : "+44.393087"
+	},
+	{
+		"Longitude" : "-089.356252",
+		"Zipcode" : "54407",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "AMHERST JUNCTION",
+		"State" : "WI",
+		"Latitude" : "+44.530435"
+	},
+	{
+		"Longitude" : "-089.357822",
+		"Zipcode" : "54408",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "ANIWA",
+		"State" : "WI",
+		"Latitude" : "+45.008812"
+	},
+	{
+		"Longitude" : "-089.093942",
+		"Zipcode" : "54409",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "ANTIGO",
+		"State" : "WI",
+		"Latitude" : "+45.160809"
+	},
+	{
+		"Longitude" : "-090.007245",
+		"Zipcode" : "54410",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "ARPIN",
+		"State" : "WI",
+		"Latitude" : "+44.535658"
+	},
+	{
+		"Longitude" : "-090.007765",
+		"Zipcode" : "54411",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "ATHENS",
+		"State" : "WI",
+		"Latitude" : "+44.982348"
+	},
+	{
+		"Longitude" : "-090.005320",
+		"Zipcode" : "54412",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "AUBURNDALE",
+		"State" : "WI",
+		"Latitude" : "+44.559652"
+	},
+	{
+		"Longitude" : "-090.140404",
+		"Zipcode" : "54413",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WOOD",
+		"City" : "BABCOCK",
+		"State" : "WI",
+		"Latitude" : "+44.298272"
+	},
+	{
+		"Longitude" : "-089.104200",
+		"Zipcode" : "54414",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "BIRNAMWOOD",
+		"State" : "WI",
+		"Latitude" : "+44.919163"
+	},
+	{
+		"Longitude" : "-089.918563",
+		"Zipcode" : "54415",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WOOD",
+		"City" : "BLENKER",
+		"State" : "WI",
+		"Latitude" : "+44.619128"
+	},
+	{
+		"Longitude" : "-088.838922",
+		"Zipcode" : "54416",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "BOWLER",
+		"State" : "WI",
+		"Latitude" : "+44.898739"
+	},
+	{
+		"Longitude" : "-089.654118",
+		"Zipcode" : "54417",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARATHON",
+		"City" : "BROKAW",
+		"State" : "WI",
+		"Latitude" : "+45.027350"
+	},
+	{
+		"Longitude" : "-088.994008",
+		"Zipcode" : "54418",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "BRYANT",
+		"State" : "WI",
+		"Latitude" : "+45.160395"
+	},
+	{
+		"Longitude" : "-090.375852",
+		"Zipcode" : "54420",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "CHILI",
+		"State" : "WI",
+		"Latitude" : "+44.606893"
+	},
+	{
+		"Longitude" : "-090.384734",
+		"Zipcode" : "54421",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "COLBY",
+		"State" : "WI",
+		"Latitude" : "+44.879977"
+	},
+	{
+		"Longitude" : "-090.527920",
+		"Zipcode" : "54422",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "CURTISS",
+		"State" : "WI",
+		"Latitude" : "+44.944027"
+	},
+	{
+		"Longitude" : "-089.586502",
+		"Zipcode" : "54423",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "CUSTER",
+		"State" : "WI",
+		"Latitude" : "+44.580724"
+	},
+	{
+		"Longitude" : "-089.086848",
+		"Zipcode" : "54424",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "DEERBROOK",
+		"State" : "WI",
+		"Latitude" : "+45.272303"
+	},
+	{
+		"Longitude" : "-090.374411",
+		"Zipcode" : "54425",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "DORCHESTER",
+		"State" : "WI",
+		"Latitude" : "+44.996496"
+	},
+	{
+		"Longitude" : "-090.012469",
+		"Zipcode" : "54426",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "EDGAR",
+		"State" : "WI",
+		"Latitude" : "+44.904647"
+	},
+	{
+		"Longitude" : "-089.301349",
+		"Zipcode" : "54427",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "ELAND",
+		"State" : "WI",
+		"Latitude" : "+44.808419"
+	},
+	{
+		"Longitude" : "-089.143347",
+		"Zipcode" : "54428",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "ELCHO",
+		"State" : "WI",
+		"Latitude" : "+45.413361"
+	},
+	{
+		"Longitude" : "-089.247809",
+		"Zipcode" : "54429",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARATHON",
+		"City" : "ELDERON",
+		"State" : "WI",
+		"Latitude" : "+44.780171"
+	},
+	{
+		"Longitude" : "-088.834590",
+		"Zipcode" : "54430",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "ELTON",
+		"State" : "WI",
+		"Latitude" : "+45.212455"
+	},
+	{
+		"Longitude" : "-089.770100",
+		"Zipcode" : "54432",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "GALLOWAY",
+		"State" : "WI",
+		"Latitude" : "+44.900936"
+	},
+	{
+		"Longitude" : "-090.632113",
+		"Zipcode" : "54433",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "GILMAN",
+		"State" : "WI",
+		"Latitude" : "+45.197791"
+	},
+	{
+		"Longitude" : "-090.484132",
+		"Zipcode" : "54434",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "JUMP RIVER",
+		"State" : "WI",
+		"Latitude" : "+45.206757"
+	},
+	{
+		"Longitude" : "-089.607232",
+		"Zipcode" : "54435",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GLEASON",
+		"State" : "WI",
+		"Latitude" : "+45.380970"
+	},
+	{
+		"Longitude" : "-090.457313",
+		"Zipcode" : "54436",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "GRANTON",
+		"State" : "WI",
+		"Latitude" : "+44.607247"
+	},
+	{
+		"Longitude" : "-090.675600",
+		"Zipcode" : "54437",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "GREENWOOD",
+		"State" : "WI",
+		"Latitude" : "+44.660403"
+	},
+	{
+		"Longitude" : "-090.484132",
+		"Zipcode" : "54439",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAYLOR",
+		"City" : "HANNIBAL",
+		"State" : "WI",
+		"Latitude" : "+45.206757"
+	},
+	{
+		"Longitude" : "-089.513916",
+		"Zipcode" : "54440",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "HATLEY",
+		"State" : "WI",
+		"Latitude" : "+44.797963"
+	},
+	{
+		"Longitude" : "-090.105056",
+		"Zipcode" : "54441",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "HEWITT",
+		"State" : "WI",
+		"Latitude" : "+44.645875"
+	},
+	{
+		"Longitude" : "-089.670022",
+		"Zipcode" : "54442",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "IRMA",
+		"State" : "WI",
+		"Latitude" : "+45.366386"
+	},
+	{
+		"Longitude" : "-089.707997",
+		"Zipcode" : "54443",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "JUNCTION CITY",
+		"State" : "WI",
+		"Latitude" : "+44.588962"
+	},
+	{
+		"Longitude" : "-089.032136",
+		"Zipcode" : "54444",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LANGLADE",
+		"City" : "KEMPSTER",
+		"State" : "WI",
+		"Latitude" : "+45.249382"
+	},
+	{
+		"Longitude" : "-090.634557",
+		"Zipcode" : "54446",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LOYAL",
+		"State" : "WI",
+		"Latitude" : "+44.729482"
+	},
+	{
+		"Longitude" : "-090.769811",
+		"Zipcode" : "54447",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "LUBLIN",
+		"State" : "WI",
+		"Latitude" : "+45.166580"
+	},
+	{
+		"Longitude" : "-089.800770",
+		"Zipcode" : "54448",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "MARATHON",
+		"State" : "WI",
+		"Latitude" : "+44.875437"
+	},
+	{
+		"Longitude" : "-090.190595",
+		"Zipcode" : "54449",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "MARSHFIELD",
+		"State" : "WI",
+		"Latitude" : "+44.589394"
+	},
+	{
+		"Longitude" : "-089.047379",
+		"Zipcode" : "54450",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHAWANO",
+		"City" : "MATTOON",
+		"State" : "WI",
+		"Latitude" : "+45.006232"
+	},
+	{
+		"Longitude" : "-090.445798",
+		"Zipcode" : "54451",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "MEDFORD",
+		"State" : "WI",
+		"Latitude" : "+45.164705"
+	},
+	{
+		"Longitude" : "-089.713291",
+		"Zipcode" : "54452",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "MERRILL",
+		"State" : "WI",
+		"Latitude" : "+45.217518"
+	},
+	{
+		"Longitude" : "-089.904543",
+		"Zipcode" : "54454",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "MILLADORE",
+		"State" : "WI",
+		"Latitude" : "+44.598179"
+	},
+	{
+		"Longitude" : "-089.701277",
+		"Zipcode" : "54455",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "MOSINEE",
+		"State" : "WI",
+		"Latitude" : "+44.809226"
+	},
+	{
+		"Longitude" : "-090.669407",
+		"Zipcode" : "54456",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NEILLSVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.688149"
+	},
+	{
+		"Longitude" : "-089.920843",
+		"Zipcode" : "54457",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "NEKOOSA",
+		"State" : "WI",
+		"Latitude" : "+44.299968"
+	},
+	{
+		"Longitude" : "-089.310944",
+		"Zipcode" : "54458",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PORTAGE",
+		"City" : "NELSONVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.490241"
+	},
+	{
+		"Longitude" : "-090.287732",
+		"Zipcode" : "54459",
+		"ZipClass" : "STANDARD",
+		"County" : "PRICE",
+		"City" : "OGEMA",
+		"State" : "WI",
+		"Latitude" : "+45.451541"
+	},
+	{
+		"Longitude" : "-090.627475",
+		"Zipcode" : "54460",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "OWEN",
+		"State" : "WI",
+		"Latitude" : "+44.900923"
+	},
+	{
+		"Longitude" : "-088.971242",
+		"Zipcode" : "54462",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "PEARSON",
+		"State" : "WI",
+		"Latitude" : "+45.386148"
+	},
+	{
+		"Longitude" : "-089.236033",
+		"Zipcode" : "54463",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "PELICAN LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.525897"
+	},
+	{
+		"Longitude" : "-089.032136",
+		"Zipcode" : "54464",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LANGLADE",
+		"City" : "PHLOX",
+		"State" : "WI",
+		"Latitude" : "+45.249382"
+	},
+	{
+		"Longitude" : "-088.950339",
+		"Zipcode" : "54465",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "PICKEREL",
+		"State" : "WI",
+		"Latitude" : "+45.362544"
+	},
+	{
+		"Longitude" : "-090.190911",
+		"Zipcode" : "54466",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "PITTSVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.408897"
+	},
+	{
+		"Longitude" : "-089.565507",
+		"Zipcode" : "54467",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "PLOVER",
+		"State" : "WI",
+		"Latitude" : "+44.413942"
+	},
+	{
+		"Longitude" : "-089.876274",
+		"Zipcode" : "54469",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "PORT EDWARDS",
+		"State" : "WI",
+		"Latitude" : "+44.350934"
+	},
+	{
+		"Longitude" : "-090.168991",
+		"Zipcode" : "54470",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "RIB LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.208013"
+	},
+	{
+		"Longitude" : "-089.364964",
+		"Zipcode" : "54471",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "RINGLE",
+		"State" : "WI",
+		"Latitude" : "+44.929692"
+	},
+	{
+		"Longitude" : "-090.021360",
+		"Zipcode" : "54472",
+		"ZipClass" : "UNIQUE",
+		"County" : "WOOD",
+		"City" : "MARSHFIELD",
+		"State" : "WI",
+		"Latitude" : "+44.466554"
+	},
+	{
+		"Longitude" : "-089.356834",
+		"Zipcode" : "54473",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "ROSHOLT",
+		"State" : "WI",
+		"Latitude" : "+44.605786"
+	},
+	{
+		"Longitude" : "-089.712935",
+		"Zipcode" : "54474",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "ROTHSCHILD",
+		"State" : "WI",
+		"Latitude" : "+44.898819"
+	},
+	{
+		"Longitude" : "-089.795501",
+		"Zipcode" : "54475",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "RUDOLPH",
+		"State" : "WI",
+		"Latitude" : "+44.474097"
+	},
+	{
+		"Longitude" : "-089.576968",
+		"Zipcode" : "54476",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "SCHOFIELD",
+		"State" : "WI",
+		"Latitude" : "+44.866501"
+	},
+	{
+		"Longitude" : "-090.141112",
+		"Zipcode" : "54479",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "SPENCER",
+		"State" : "WI",
+		"Latitude" : "+44.805167"
+	},
+	{
+		"Longitude" : "-090.302783",
+		"Zipcode" : "54480",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "STETSONVILLE",
+		"State" : "WI",
+		"Latitude" : "+45.194050"
+	},
+	{
+		"Longitude" : "-089.531871",
+		"Zipcode" : "54481",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "STEVENS POINT",
+		"State" : "WI",
+		"Latitude" : "+44.551808"
+	},
+	{
+		"Longitude" : "-090.030674",
+		"Zipcode" : "54484",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "STRATFORD",
+		"State" : "WI",
+		"Latitude" : "+44.809072"
+	},
+	{
+		"Longitude" : "-089.217933",
+		"Zipcode" : "54485",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "SUMMIT LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.396466"
+	},
+	{
+		"Longitude" : "-089.039052",
+		"Zipcode" : "54486",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "TIGERTON",
+		"State" : "WI",
+		"Latitude" : "+44.759840"
+	},
+	{
+		"Longitude" : "-089.765239",
+		"Zipcode" : "54487",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TOMAHAWK",
+		"State" : "WI",
+		"Latitude" : "+45.337814"
+	},
+	{
+		"Longitude" : "-090.257456",
+		"Zipcode" : "54488",
+		"ZipClass" : "STANDARD",
+		"County" : "MARATHON",
+		"City" : "UNITY",
+		"State" : "WI",
+		"Latitude" : "+44.840956"
+	},
+	{
+		"Longitude" : "-090.003283",
+		"Zipcode" : "54489",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "VESPER",
+		"State" : "WI",
+		"Latitude" : "+44.462338"
+	},
+	{
+		"Longitude" : "-090.401519",
+		"Zipcode" : "54490",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "WESTBORO",
+		"State" : "WI",
+		"Latitude" : "+45.330939"
+	},
+	{
+		"Longitude" : "-088.803154",
+		"Zipcode" : "54491",
+		"ZipClass" : "STANDARD",
+		"County" : "LANGLADE",
+		"City" : "WHITE LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.248003"
+	},
+	{
+		"Longitude" : "-089.528584",
+		"Zipcode" : "54492",
+		"ZipClass" : "UNIQUE",
+		"County" : "PORTAGE",
+		"City" : "STEVENS POINT",
+		"State" : "WI",
+		"Latitude" : "+44.509433"
+	},
+	{
+		"Longitude" : "-090.769733",
+		"Zipcode" : "54493",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "WILLARD",
+		"State" : "WI",
+		"Latitude" : "+44.715341"
+	},
+	{
+		"Longitude" : "-089.918546",
+		"Zipcode" : "54494",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "WISCONSIN RAPIDS",
+		"State" : "WI",
+		"Latitude" : "+44.379694"
+	},
+	{
+		"Longitude" : "-089.922751",
+		"Zipcode" : "54495",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "WISCONSIN RAPIDS",
+		"State" : "WI",
+		"Latitude" : "+44.388082"
+	},
+	{
+		"Longitude" : "-090.638388",
+		"Zipcode" : "54498",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "WITHEE",
+		"State" : "WI",
+		"Latitude" : "+44.944248"
+	},
+	{
+		"Longitude" : "-089.114760",
+		"Zipcode" : "54499",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "WITTENBERG",
+		"State" : "WI",
+		"Latitude" : "+44.801314"
+	},
+	{
+		"Longitude" : "-089.386562",
+		"Zipcode" : "54501",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "RHINELANDER",
+		"State" : "WI",
+		"Latitude" : "+45.704474"
+	},
+	{
+		"Longitude" : "-088.810386",
+		"Zipcode" : "54511",
+		"ZipClass" : "STANDARD",
+		"County" : "FOREST",
+		"City" : "ARGONNE",
+		"State" : "WI",
+		"Latitude" : "+45.711791"
+	},
+	{
+		"Longitude" : "-089.531393",
+		"Zipcode" : "54512",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "BOULDER JUNCTION",
+		"State" : "WI",
+		"Latitude" : "+46.078442"
+	},
+	{
+		"Longitude" : "-090.166914",
+		"Zipcode" : "54513",
+		"ZipClass" : "STANDARD",
+		"County" : "PRICE",
+		"City" : "BRANTWOOD",
+		"State" : "WI",
+		"Latitude" : "+45.584525"
+	},
+	{
+		"Longitude" : "-090.628174",
+		"Zipcode" : "54514",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLAND",
+		"City" : "BUTTERNUT",
+		"State" : "WI",
+		"Latitude" : "+46.394779"
+	},
+	{
+		"Longitude" : "-090.504465",
+		"Zipcode" : "54515",
+		"ZipClass" : "STANDARD",
+		"County" : "PRICE",
+		"City" : "CATAWBA",
+		"State" : "WI",
+		"Latitude" : "+45.535762"
+	},
+	{
+		"Longitude" : "-090.442721",
+		"Zipcode" : "54517",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLAND",
+		"City" : "CLAM LAKE",
+		"State" : "WI",
+		"Latitude" : "+46.645163"
+	},
+	{
+		"Longitude" : "-089.260939",
+		"Zipcode" : "54519",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "CONOVER",
+		"State" : "WI",
+		"Latitude" : "+46.072385"
+	},
+	{
+		"Longitude" : "-088.891846",
+		"Zipcode" : "54520",
+		"ZipClass" : "STANDARD",
+		"County" : "FOREST",
+		"City" : "CRANDON",
+		"State" : "WI",
+		"Latitude" : "+45.511846"
+	},
+	{
+		"Longitude" : "-089.265609",
+		"Zipcode" : "54521",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "EAGLE RIVER",
+		"State" : "WI",
+		"Latitude" : "+45.988126"
+	},
+	{
+		"Longitude" : "-090.453045",
+		"Zipcode" : "54524",
+		"ZipClass" : "STANDARD",
+		"County" : "PRICE",
+		"City" : "FIFIELD",
+		"State" : "WI",
+		"Latitude" : "+45.814336"
+	},
+	{
+		"Longitude" : "-090.191139",
+		"Zipcode" : "54525",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IRON",
+		"City" : "GILE",
+		"State" : "WI",
+		"Latitude" : "+46.395746"
+	},
+	{
+		"Longitude" : "-090.847935",
+		"Zipcode" : "54526",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSK",
+		"City" : "GLEN FLORA",
+		"State" : "WI",
+		"Latitude" : "+45.486195"
+	},
+	{
+		"Longitude" : "-090.611172",
+		"Zipcode" : "54527",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLAND",
+		"City" : "GLIDDEN",
+		"State" : "WI",
+		"Latitude" : "+46.126107"
+	},
+	{
+		"Longitude" : "-089.663974",
+		"Zipcode" : "54529",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "HARSHAW",
+		"State" : "WI",
+		"Latitude" : "+45.690115"
+	},
+	{
+		"Longitude" : "-090.743138",
+		"Zipcode" : "54530",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSK",
+		"City" : "HAWKINS",
+		"State" : "WI",
+		"Latitude" : "+45.518558"
+	},
+	{
+		"Longitude" : "-089.821598",
+		"Zipcode" : "54531",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "HAZELHURST",
+		"State" : "WI",
+		"Latitude" : "+45.748350"
+	},
+	{
+		"Longitude" : "-089.735524",
+		"Zipcode" : "54532",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HEAFFORD JUNCTION",
+		"State" : "WI",
+		"Latitude" : "+45.337678"
+	},
+	{
+		"Longitude" : "-090.221645",
+		"Zipcode" : "54534",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "HURLEY",
+		"State" : "WI",
+		"Latitude" : "+46.371032"
+	},
+	{
+		"Longitude" : "-090.342024",
+		"Zipcode" : "54536",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IRON",
+		"City" : "IRON BELT",
+		"State" : "WI",
+		"Latitude" : "+46.318241"
+	},
+	{
+		"Longitude" : "-090.606178",
+		"Zipcode" : "54537",
+		"ZipClass" : "STANDARD",
+		"County" : "PRICE",
+		"City" : "KENNAN",
+		"State" : "WI",
+		"Latitude" : "+45.528816"
+	},
+	{
+		"Longitude" : "-089.765660",
+		"Zipcode" : "54538",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "LAC DU FLAMBEAU",
+		"State" : "WI",
+		"Latitude" : "+46.068073"
+	},
+	{
+		"Longitude" : "-089.574808",
+		"Zipcode" : "54539",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "LAKE TOMAHAWK",
+		"State" : "WI",
+		"Latitude" : "+45.775685"
+	},
+	{
+		"Longitude" : "-089.444514",
+		"Zipcode" : "54540",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "LAND O LAKES",
+		"State" : "WI",
+		"Latitude" : "+46.073659"
+	},
+	{
+		"Longitude" : "-088.706496",
+		"Zipcode" : "54541",
+		"ZipClass" : "STANDARD",
+		"County" : "FOREST",
+		"City" : "LAONA",
+		"State" : "WI",
+		"Latitude" : "+45.561723"
+	},
+	{
+		"Longitude" : "-088.623498",
+		"Zipcode" : "54542",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "LONG LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.913837"
+	},
+	{
+		"Longitude" : "-089.557263",
+		"Zipcode" : "54543",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ONEIDA",
+		"City" : "MC NAUGHTON",
+		"State" : "WI",
+		"Latitude" : "+45.722930"
+	},
+	{
+		"Longitude" : "-089.845465",
+		"Zipcode" : "54545",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "MANITOWISH WATERS",
+		"State" : "WI",
+		"Latitude" : "+46.155097"
+	},
+	{
+		"Longitude" : "-090.746141",
+		"Zipcode" : "54546",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLAND",
+		"City" : "MELLEN",
+		"State" : "WI",
+		"Latitude" : "+46.320677"
+	},
+	{
+		"Longitude" : "-090.110725",
+		"Zipcode" : "54547",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "MERCER",
+		"State" : "WI",
+		"Latitude" : "+46.143746"
+	},
+	{
+		"Longitude" : "-089.824294",
+		"Zipcode" : "54548",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "MINOCQUA",
+		"State" : "WI",
+		"Latitude" : "+45.827583"
+	},
+	{
+		"Longitude" : "-090.309085",
+		"Zipcode" : "54550",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "MONTREAL",
+		"State" : "WI",
+		"Latitude" : "+46.396613"
+	},
+	{
+		"Longitude" : "-090.360373",
+		"Zipcode" : "54552",
+		"ZipClass" : "STANDARD",
+		"County" : "PRICE",
+		"City" : "PARK FALLS",
+		"State" : "WI",
+		"Latitude" : "+45.846473"
+	},
+	{
+		"Longitude" : "-089.257762",
+		"Zipcode" : "54554",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "PHELPS",
+		"State" : "WI",
+		"Latitude" : "+46.092807"
+	},
+	{
+		"Longitude" : "-090.370984",
+		"Zipcode" : "54555",
+		"ZipClass" : "STANDARD",
+		"County" : "PRICE",
+		"City" : "PHILLIPS",
+		"State" : "WI",
+		"Latitude" : "+45.724607"
+	},
+	{
+		"Longitude" : "-090.281660",
+		"Zipcode" : "54556",
+		"ZipClass" : "STANDARD",
+		"County" : "PRICE",
+		"City" : "PRENTICE",
+		"State" : "WI",
+		"Latitude" : "+45.532944"
+	},
+	{
+		"Longitude" : "-089.738691",
+		"Zipcode" : "54557",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "PRESQUE ISLE",
+		"State" : "WI",
+		"Latitude" : "+46.200011"
+	},
+	{
+		"Longitude" : "-089.686925",
+		"Zipcode" : "54558",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "SAINT GERMAIN",
+		"State" : "WI",
+		"Latitude" : "+45.942092"
+	},
+	{
+		"Longitude" : "-090.402719",
+		"Zipcode" : "54559",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "SAXON",
+		"State" : "WI",
+		"Latitude" : "+46.502552"
+	},
+	{
+		"Longitude" : "-089.497889",
+		"Zipcode" : "54560",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "SAYNER",
+		"State" : "WI",
+		"Latitude" : "+46.020230"
+	},
+	{
+		"Longitude" : "-089.485834",
+		"Zipcode" : "54561",
+		"ZipClass" : "STANDARD",
+		"County" : "VILAS",
+		"City" : "STAR LAKE",
+		"State" : "WI",
+		"Latitude" : "+46.061297"
+	},
+	{
+		"Longitude" : "-089.157339",
+		"Zipcode" : "54562",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "THREE LAKES",
+		"State" : "WI",
+		"Latitude" : "+45.762075"
+	},
+	{
+		"Longitude" : "-090.964443",
+		"Zipcode" : "54563",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSK",
+		"City" : "TONY",
+		"State" : "WI",
+		"Latitude" : "+45.451970"
+	},
+	{
+		"Longitude" : "-089.943993",
+		"Zipcode" : "54564",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "TRIPOLI",
+		"State" : "WI",
+		"Latitude" : "+45.725515"
+	},
+	{
+		"Longitude" : "-090.434344",
+		"Zipcode" : "54565",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "UPSON",
+		"State" : "WI",
+		"Latitude" : "+46.370313"
+	},
+	{
+		"Longitude" : "-088.619413",
+		"Zipcode" : "54566",
+		"ZipClass" : "STANDARD",
+		"County" : "FOREST",
+		"City" : "WABENO",
+		"State" : "WI",
+		"Latitude" : "+45.443574"
+	},
+	{
+		"Longitude" : "-089.653705",
+		"Zipcode" : "54568",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "WOODRUFF",
+		"State" : "WI",
+		"Latitude" : "+45.859618"
+	},
+	{
+		"Longitude" : "-091.132072",
+		"Zipcode" : "54601",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "LA CROSSE",
+		"State" : "WI",
+		"Latitude" : "+43.854560"
+	},
+	{
+		"Longitude" : "-091.167621",
+		"Zipcode" : "54602",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "LA CROSSE",
+		"State" : "WI",
+		"Latitude" : "+43.907739"
+	},
+	{
+		"Longitude" : "-091.246238",
+		"Zipcode" : "54603",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "LA CROSSE",
+		"State" : "WI",
+		"Latitude" : "+43.853763"
+	},
+	{
+		"Longitude" : "-091.836481",
+		"Zipcode" : "54610",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "ALMA",
+		"State" : "WI",
+		"Latitude" : "+44.346721"
+	},
+	{
+		"Longitude" : "-090.975918",
+		"Zipcode" : "54611",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ALMA CENTER",
+		"State" : "WI",
+		"Latitude" : "+44.451027"
+	},
+	{
+		"Longitude" : "-091.387699",
+		"Zipcode" : "54612",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "ARCADIA",
+		"State" : "WI",
+		"Latitude" : "+44.251711"
+	},
+	{
+		"Longitude" : "-089.803877",
+		"Zipcode" : "54613",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "ARKDALE",
+		"State" : "WI",
+		"Latitude" : "+44.079992"
+	},
+	{
+		"Longitude" : "-091.081457",
+		"Zipcode" : "54614",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "BANGOR",
+		"State" : "WI",
+		"Latitude" : "+43.919308"
+	},
+	{
+		"Longitude" : "-090.831280",
+		"Zipcode" : "54615",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "BLACK RIVER FALLS",
+		"State" : "WI",
+		"Latitude" : "+44.295394"
+	},
+	{
+		"Longitude" : "-091.264753",
+		"Zipcode" : "54616",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "BLAIR",
+		"State" : "WI",
+		"Latitude" : "+44.251701"
+	},
+	{
+		"Longitude" : "-090.239261",
+		"Zipcode" : "54618",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNEAU",
+		"City" : "CAMP DOUGLAS",
+		"State" : "WI",
+		"Latitude" : "+43.988481"
+	},
+	{
+		"Longitude" : "-090.699047",
+		"Zipcode" : "54619",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "CASHTON",
+		"State" : "WI",
+		"Latitude" : "+43.851133"
+	},
+	{
+		"Longitude" : "-090.842289",
+		"Zipcode" : "54620",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "CATARACT",
+		"State" : "WI",
+		"Latitude" : "+44.087601"
+	},
+	{
+		"Longitude" : "-090.741409",
+		"Zipcode" : "54621",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "CHASEBURG",
+		"State" : "WI",
+		"Latitude" : "+43.667006"
+	},
+	{
+		"Longitude" : "-091.741701",
+		"Zipcode" : "54622",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "COCHRANE",
+		"State" : "WI",
+		"Latitude" : "+44.237714"
+	},
+	{
+		"Longitude" : "-091.043819",
+		"Zipcode" : "54623",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "COON VALLEY",
+		"State" : "WI",
+		"Latitude" : "+43.574486"
+	},
+	{
+		"Longitude" : "-091.133309",
+		"Zipcode" : "54624",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "DE SOTO",
+		"State" : "WI",
+		"Latitude" : "+43.480668"
+	},
+	{
+		"Longitude" : "-091.520432",
+		"Zipcode" : "54625",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "DODGE",
+		"State" : "WI",
+		"Latitude" : "+44.143090"
+	},
+	{
+		"Longitude" : "-091.034135",
+		"Zipcode" : "54626",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "EASTMAN",
+		"State" : "WI",
+		"Latitude" : "+43.220573"
+	},
+	{
+		"Longitude" : "-091.257707",
+		"Zipcode" : "54627",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "ETTRICK",
+		"State" : "WI",
+		"Latitude" : "+44.184171"
+	},
+	{
+		"Longitude" : "-091.054678",
+		"Zipcode" : "54628",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "FERRYVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.319219"
+	},
+	{
+		"Longitude" : "-091.674962",
+		"Zipcode" : "54629",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "FOUNTAIN CITY",
+		"State" : "WI",
+		"Latitude" : "+44.170774"
+	},
+	{
+		"Longitude" : "-091.339528",
+		"Zipcode" : "54630",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "GALESVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.094809"
+	},
+	{
+		"Longitude" : "-090.831780",
+		"Zipcode" : "54631",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "GAYS MILLS",
+		"State" : "WI",
+		"Latitude" : "+43.269667"
+	},
+	{
+		"Longitude" : "-090.837971",
+		"Zipcode" : "54632",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "GENOA",
+		"State" : "WI",
+		"Latitude" : "+43.618089"
+	},
+	{
+		"Longitude" : "-090.659829",
+		"Zipcode" : "54634",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "HILLSBORO",
+		"State" : "WI",
+		"Latitude" : "+43.616843"
+	},
+	{
+		"Longitude" : "-091.044171",
+		"Zipcode" : "54635",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HIXTON",
+		"State" : "WI",
+		"Latitude" : "+44.403760"
+	},
+	{
+		"Longitude" : "-091.223484",
+		"Zipcode" : "54636",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "HOLMEN",
+		"State" : "WI",
+		"Latitude" : "+43.968617"
+	},
+	{
+		"Longitude" : "-090.272928",
+		"Zipcode" : "54637",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNEAU",
+		"City" : "HUSTLER",
+		"State" : "WI",
+		"Latitude" : "+43.880130"
+	},
+	{
+		"Longitude" : "-090.402650",
+		"Zipcode" : "54638",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "KENDALL",
+		"State" : "WI",
+		"Latitude" : "+43.816431"
+	},
+	{
+		"Longitude" : "-090.636482",
+		"Zipcode" : "54639",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "LA FARGE",
+		"State" : "WI",
+		"Latitude" : "+43.600044"
+	},
+	{
+		"Longitude" : "-091.022031",
+		"Zipcode" : "54640",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "LYNXVILLE",
+		"State" : "WI",
+		"Latitude" : "+43.266172"
+	},
+	{
+		"Longitude" : "-090.049489",
+		"Zipcode" : "54641",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JUNEAU",
+		"City" : "MATHER",
+		"State" : "WI",
+		"Latitude" : "+43.945210"
+	},
+	{
+		"Longitude" : "-090.979249",
+		"Zipcode" : "54642",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MELROSE",
+		"State" : "WI",
+		"Latitude" : "+44.196358"
+	},
+	{
+		"Longitude" : "-090.635831",
+		"Zipcode" : "54643",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "MILLSTON",
+		"State" : "WI",
+		"Latitude" : "+44.186869"
+	},
+	{
+		"Longitude" : "-091.032950",
+		"Zipcode" : "54644",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "MINDORO",
+		"State" : "WI",
+		"Latitude" : "+44.021422"
+	},
+	{
+		"Longitude" : "-090.940479",
+		"Zipcode" : "54645",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRAWFORD",
+		"City" : "MOUNT STERLING",
+		"State" : "WI",
+		"Latitude" : "+43.206361"
+	},
+	{
+		"Longitude" : "-090.130552",
+		"Zipcode" : "54646",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNEAU",
+		"City" : "NECEDAH",
+		"State" : "WI",
+		"Latitude" : "+44.022637"
+	},
+	{
+		"Longitude" : "-090.647476",
+		"Zipcode" : "54648",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "NORWALK",
+		"State" : "WI",
+		"Latitude" : "+43.831590"
+	},
+	{
+		"Longitude" : "-090.361161",
+		"Zipcode" : "54649",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "OAKDALE",
+		"State" : "WI",
+		"Latitude" : "+43.971514"
+	},
+	{
+		"Longitude" : "-091.130399",
+		"Zipcode" : "54650",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "ONALASKA",
+		"State" : "WI",
+		"Latitude" : "+43.886664"
+	},
+	{
+		"Longitude" : "-090.548053",
+		"Zipcode" : "54651",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "ONTARIO",
+		"State" : "WI",
+		"Latitude" : "+43.696538"
+	},
+	{
+		"Longitude" : "-090.774539",
+		"Zipcode" : "54652",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "READSTOWN",
+		"State" : "WI",
+		"Latitude" : "+43.470286"
+	},
+	{
+		"Longitude" : "-090.950732",
+		"Zipcode" : "54653",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "ROCKLAND",
+		"State" : "WI",
+		"Latitude" : "+43.841142"
+	},
+	{
+		"Longitude" : "-090.940479",
+		"Zipcode" : "54654",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRAWFORD",
+		"City" : "SENECA",
+		"State" : "WI",
+		"Latitude" : "+43.206361"
+	},
+	{
+		"Longitude" : "-090.808363",
+		"Zipcode" : "54655",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "SOLDIERS GROVE",
+		"State" : "WI",
+		"Latitude" : "+43.369813"
+	},
+	{
+		"Longitude" : "-090.752783",
+		"Zipcode" : "54656",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "SPARTA",
+		"State" : "WI",
+		"Latitude" : "+43.949925"
+	},
+	{
+		"Longitude" : "-090.924336",
+		"Zipcode" : "54657",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "STEUBEN",
+		"State" : "WI",
+		"Latitude" : "+43.274205"
+	},
+	{
+		"Longitude" : "-091.134346",
+		"Zipcode" : "54658",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "STODDARD",
+		"State" : "WI",
+		"Latitude" : "+43.669102"
+	},
+	{
+		"Longitude" : "-091.087671",
+		"Zipcode" : "54659",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "TAYLOR",
+		"State" : "WI",
+		"Latitude" : "+44.291449"
+	},
+	{
+		"Longitude" : "-090.473336",
+		"Zipcode" : "54660",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "TOMAH",
+		"State" : "WI",
+		"Latitude" : "+43.983826"
+	},
+	{
+		"Longitude" : "-091.460168",
+		"Zipcode" : "54661",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "TREMPEALEAU",
+		"State" : "WI",
+		"Latitude" : "+44.076755"
+	},
+	{
+		"Longitude" : "-090.562005",
+		"Zipcode" : "54662",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "TUNNEL CITY",
+		"State" : "WI",
+		"Latitude" : "+44.003084"
+	},
+	{
+		"Longitude" : "-090.706816",
+		"Zipcode" : "54664",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "VIOLA",
+		"State" : "WI",
+		"Latitude" : "+43.501783"
+	},
+	{
+		"Longitude" : "-090.991573",
+		"Zipcode" : "54665",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "VIROQUA",
+		"State" : "WI",
+		"Latitude" : "+43.530515"
+	},
+	{
+		"Longitude" : "-090.466582",
+		"Zipcode" : "54666",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "WARRENS",
+		"State" : "WI",
+		"Latitude" : "+43.987879"
+	},
+	{
+		"Longitude" : "-090.841723",
+		"Zipcode" : "54667",
+		"ZipClass" : "STANDARD",
+		"County" : "VERNON",
+		"City" : "WESTBY",
+		"State" : "WI",
+		"Latitude" : "+43.653701"
+	},
+	{
+		"Longitude" : "-091.120198",
+		"Zipcode" : "54669",
+		"ZipClass" : "STANDARD",
+		"County" : "LA CROSSE",
+		"City" : "WEST SALEM",
+		"State" : "WI",
+		"Latitude" : "+43.897572"
+	},
+	{
+		"Longitude" : "-090.468791",
+		"Zipcode" : "54670",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "WILTON",
+		"State" : "WI",
+		"Latitude" : "+43.848835"
+	},
+	{
+		"Longitude" : "-091.473097",
+		"Zipcode" : "54701",
+		"ZipClass" : "STANDARD",
+		"County" : "EAU CLAIRE",
+		"City" : "EAU CLAIRE",
+		"State" : "WI",
+		"Latitude" : "+44.756530"
+	},
+	{
+		"Longitude" : "-091.285931",
+		"Zipcode" : "54702",
+		"ZipClass" : "STANDARD",
+		"County" : "EAU CLAIRE",
+		"City" : "EAU CLAIRE",
+		"State" : "WI",
+		"Latitude" : "+44.726626"
+	},
+	{
+		"Longitude" : "-091.477897",
+		"Zipcode" : "54703",
+		"ZipClass" : "STANDARD",
+		"County" : "EAU CLAIRE",
+		"City" : "EAU CLAIRE",
+		"State" : "WI",
+		"Latitude" : "+44.804560"
+	},
+	{
+		"Longitude" : "-091.442253",
+		"Zipcode" : "54720",
+		"ZipClass" : "STANDARD",
+		"County" : "EAU CLAIRE",
+		"City" : "ALTOONA",
+		"State" : "WI",
+		"Latitude" : "+44.803612"
+	},
+	{
+		"Longitude" : "-092.062219",
+		"Zipcode" : "54721",
+		"ZipClass" : "STANDARD",
+		"County" : "PEPIN",
+		"City" : "ARKANSAW",
+		"State" : "WI",
+		"Latitude" : "+44.602774"
+	},
+	{
+		"Longitude" : "-091.212598",
+		"Zipcode" : "54722",
+		"ZipClass" : "STANDARD",
+		"County" : "EAU CLAIRE",
+		"City" : "AUGUSTA",
+		"State" : "WI",
+		"Latitude" : "+44.726811"
+	},
+	{
+		"Longitude" : "-092.435186",
+		"Zipcode" : "54723",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "BAY CITY",
+		"State" : "WI",
+		"Latitude" : "+44.631517"
+	},
+	{
+		"Longitude" : "-091.408026",
+		"Zipcode" : "54724",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "BLOOMER",
+		"State" : "WI",
+		"Latitude" : "+45.042352"
+	},
+	{
+		"Longitude" : "-092.013036",
+		"Zipcode" : "54725",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "BOYCEVILLE",
+		"State" : "WI",
+		"Latitude" : "+45.075804"
+	},
+	{
+		"Longitude" : "-091.175615",
+		"Zipcode" : "54726",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "BOYD",
+		"State" : "WI",
+		"Latitude" : "+45.005210"
+	},
+	{
+		"Longitude" : "-091.353301",
+		"Zipcode" : "54727",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "CADOTT",
+		"State" : "WI",
+		"Latitude" : "+45.015803"
+	},
+	{
+		"Longitude" : "-091.828102",
+		"Zipcode" : "54728",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "CHETEK",
+		"State" : "WI",
+		"Latitude" : "+45.405423"
+	},
+	{
+		"Longitude" : "-091.319492",
+		"Zipcode" : "54729",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "CHIPPEWA FALLS",
+		"State" : "WI",
+		"Latitude" : "+44.958689"
+	},
+	{
+		"Longitude" : "-091.888046",
+		"Zipcode" : "54730",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "COLFAX",
+		"State" : "WI",
+		"Latitude" : "+45.037889"
+	},
+	{
+		"Longitude" : "-091.088353",
+		"Zipcode" : "54731",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSK",
+		"City" : "CONRATH",
+		"State" : "WI",
+		"Latitude" : "+45.357563"
+	},
+	{
+		"Longitude" : "-091.170922",
+		"Zipcode" : "54732",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "CORNELL",
+		"State" : "WI",
+		"Latitude" : "+45.125153"
+	},
+	{
+		"Longitude" : "-091.845156",
+		"Zipcode" : "54733",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "DALLAS",
+		"State" : "WI",
+		"Latitude" : "+45.261871"
+	},
+	{
+		"Longitude" : "-092.099665",
+		"Zipcode" : "54734",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "DOWNING",
+		"State" : "WI",
+		"Latitude" : "+45.001949"
+	},
+	{
+		"Longitude" : "-091.903440",
+		"Zipcode" : "54735",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DUNN",
+		"City" : "DOWNSVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.946496"
+	},
+	{
+		"Longitude" : "-091.831869",
+		"Zipcode" : "54736",
+		"ZipClass" : "STANDARD",
+		"County" : "PEPIN",
+		"City" : "DURAND",
+		"State" : "WI",
+		"Latitude" : "+44.640224"
+	},
+	{
+		"Longitude" : "-092.041910",
+		"Zipcode" : "54737",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "EAU GALLE",
+		"State" : "WI",
+		"Latitude" : "+44.749316"
+	},
+	{
+		"Longitude" : "-091.411701",
+		"Zipcode" : "54738",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "ELEVA",
+		"State" : "WI",
+		"Latitude" : "+44.394025"
+	},
+	{
+		"Longitude" : "-091.736968",
+		"Zipcode" : "54739",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "ELK MOUND",
+		"State" : "WI",
+		"Latitude" : "+44.855107"
+	},
+	{
+		"Longitude" : "-092.226414",
+		"Zipcode" : "54740",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "ELMWOOD",
+		"State" : "WI",
+		"Latitude" : "+44.744453"
+	},
+	{
+		"Longitude" : "-091.014753",
+		"Zipcode" : "54741",
+		"ZipClass" : "STANDARD",
+		"County" : "EAU CLAIRE",
+		"City" : "FAIRCHILD",
+		"State" : "WI",
+		"Latitude" : "+44.659822"
+	},
+	{
+		"Longitude" : "-091.306304",
+		"Zipcode" : "54742",
+		"ZipClass" : "STANDARD",
+		"County" : "EAU CLAIRE",
+		"City" : "FALL CREEK",
+		"State" : "WI",
+		"Latitude" : "+44.762892"
+	},
+	{
+		"Longitude" : "-091.806396",
+		"Zipcode" : "54743",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BUFFALO",
+		"City" : "GILMANTON",
+		"State" : "WI",
+		"Latitude" : "+44.311074"
+	},
+	{
+		"Longitude" : "-091.881754",
+		"Zipcode" : "54744",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "HILLSDALE",
+		"State" : "WI",
+		"Latitude" : "+45.319786"
+	},
+	{
+		"Longitude" : "-091.121308",
+		"Zipcode" : "54745",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "HOLCOMBE",
+		"State" : "WI",
+		"Latitude" : "+45.150752"
+	},
+	{
+		"Longitude" : "-090.709853",
+		"Zipcode" : "54746",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HUMBIRD",
+		"State" : "WI",
+		"Latitude" : "+44.516708"
+	},
+	{
+		"Longitude" : "-091.443718",
+		"Zipcode" : "54747",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "INDEPENDENCE",
+		"State" : "WI",
+		"Latitude" : "+44.356483"
+	},
+	{
+		"Longitude" : "-091.256794",
+		"Zipcode" : "54748",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "JIM FALLS",
+		"State" : "WI",
+		"Latitude" : "+45.088875"
+	},
+	{
+		"Longitude" : "-092.075210",
+		"Zipcode" : "54749",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "KNAPP",
+		"State" : "WI",
+		"Latitude" : "+44.947538"
+	},
+	{
+		"Longitude" : "-092.290720",
+		"Zipcode" : "54750",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "MAIDEN ROCK",
+		"State" : "WI",
+		"Latitude" : "+44.623923"
+	},
+	{
+		"Longitude" : "-091.943198",
+		"Zipcode" : "54751",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "MENOMONIE",
+		"State" : "WI",
+		"Latitude" : "+44.867809"
+	},
+	{
+		"Longitude" : "-090.796318",
+		"Zipcode" : "54754",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MERRILLAN",
+		"State" : "WI",
+		"Latitude" : "+44.436841"
+	},
+	{
+		"Longitude" : "-091.680680",
+		"Zipcode" : "54755",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "MONDOVI",
+		"State" : "WI",
+		"Latitude" : "+44.487730"
+	},
+	{
+		"Longitude" : "-091.910518",
+		"Zipcode" : "54756",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "NELSON",
+		"State" : "WI",
+		"Latitude" : "+44.473584"
+	},
+	{
+		"Longitude" : "-091.486707",
+		"Zipcode" : "54757",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "NEW AUBURN",
+		"State" : "WI",
+		"Latitude" : "+45.118159"
+	},
+	{
+		"Longitude" : "-091.347015",
+		"Zipcode" : "54758",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "OSSEO",
+		"State" : "WI",
+		"Latitude" : "+44.333502"
+	},
+	{
+		"Longitude" : "-092.131821",
+		"Zipcode" : "54759",
+		"ZipClass" : "STANDARD",
+		"County" : "PEPIN",
+		"City" : "PEPIN",
+		"State" : "WI",
+		"Latitude" : "+44.509108"
+	},
+	{
+		"Longitude" : "-091.207421",
+		"Zipcode" : "54760",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TREMPEALEAU",
+		"City" : "PIGEON FALLS",
+		"State" : "WI",
+		"Latitude" : "+44.424863"
+	},
+	{
+		"Longitude" : "-092.180419",
+		"Zipcode" : "54761",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PLUM CITY",
+		"State" : "WI",
+		"Latitude" : "+44.619607"
+	},
+	{
+		"Longitude" : "-091.992842",
+		"Zipcode" : "54762",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "PRAIRIE FARM",
+		"State" : "WI",
+		"Latitude" : "+45.262353"
+	},
+	{
+		"Longitude" : "-091.875797",
+		"Zipcode" : "54763",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "RIDGELAND",
+		"State" : "WI",
+		"Latitude" : "+45.168279"
+	},
+	{
+		"Longitude" : "-091.903440",
+		"Zipcode" : "54764",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "ROCK FALLS",
+		"State" : "WI",
+		"Latitude" : "+44.946496"
+	},
+	{
+		"Longitude" : "-091.699794",
+		"Zipcode" : "54765",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DUNN",
+		"City" : "SAND CREEK",
+		"State" : "WI",
+		"Latitude" : "+45.142866"
+	},
+	{
+		"Longitude" : "-090.887173",
+		"Zipcode" : "54766",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSK",
+		"City" : "SHELDON",
+		"State" : "WI",
+		"Latitude" : "+45.349548"
+	},
+	{
+		"Longitude" : "-092.283761",
+		"Zipcode" : "54767",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "SPRING VALLEY",
+		"State" : "WI",
+		"Latitude" : "+44.781928"
+	},
+	{
+		"Longitude" : "-091.069525",
+		"Zipcode" : "54768",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "STANLEY",
+		"State" : "WI",
+		"Latitude" : "+44.993395"
+	},
+	{
+		"Longitude" : "-092.232594",
+		"Zipcode" : "54769",
+		"ZipClass" : "STANDARD",
+		"County" : "PEPIN",
+		"City" : "STOCKHOLM",
+		"State" : "WI",
+		"Latitude" : "+44.508365"
+	},
+	{
+		"Longitude" : "-091.394415",
+		"Zipcode" : "54770",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "STRUM",
+		"State" : "WI",
+		"Latitude" : "+44.387425"
+	},
+	{
+		"Longitude" : "-090.790684",
+		"Zipcode" : "54771",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "THORP",
+		"State" : "WI",
+		"Latitude" : "+44.894112"
+	},
+	{
+		"Longitude" : "-091.879257",
+		"Zipcode" : "54772",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "WHEELER",
+		"State" : "WI",
+		"Latitude" : "+45.094148"
+	},
+	{
+		"Longitude" : "-091.285758",
+		"Zipcode" : "54773",
+		"ZipClass" : "STANDARD",
+		"County" : "TREMPEALEAU",
+		"City" : "WHITEHALL",
+		"State" : "WI",
+		"Latitude" : "+44.443778"
+	},
+	{
+		"Longitude" : "-091.294397",
+		"Zipcode" : "54774",
+		"ZipClass" : "UNIQUE",
+		"County" : "CHIPPEWA",
+		"City" : "CHIPPEWA FALLS",
+		"State" : "WI",
+		"Latitude" : "+45.074130"
+	},
+	{
+		"Longitude" : "-091.811707",
+		"Zipcode" : "54801",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHBURN",
+		"City" : "SPOONER",
+		"State" : "WI",
+		"Latitude" : "+45.922016"
+	},
+	{
+		"Longitude" : "-091.965942",
+		"Zipcode" : "54805",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "ALMENA",
+		"State" : "WI",
+		"Latitude" : "+45.434373"
+	},
+	{
+		"Longitude" : "-090.738773",
+		"Zipcode" : "54806",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLAND",
+		"City" : "ASHLAND",
+		"State" : "WI",
+		"Latitude" : "+46.558577"
+	},
+	{
+		"Longitude" : "-092.378752",
+		"Zipcode" : "54810",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "BALSAM LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.421648"
+	},
+	{
+		"Longitude" : "-091.867790",
+		"Zipcode" : "54812",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "BARRON",
+		"State" : "WI",
+		"Latitude" : "+45.477340"
+	},
+	{
+		"Longitude" : "-092.016728",
+		"Zipcode" : "54813",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "BARRONETT",
+		"State" : "WI",
+		"Latitude" : "+45.557393"
+	},
+	{
+		"Longitude" : "-090.915934",
+		"Zipcode" : "54814",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "BAYFIELD",
+		"State" : "WI",
+		"Latitude" : "+46.853517"
+	},
+	{
+		"Longitude" : "-091.143254",
+		"Zipcode" : "54816",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "BENOIT",
+		"State" : "WI",
+		"Latitude" : "+46.682796"
+	},
+	{
+		"Longitude" : "-091.615044",
+		"Zipcode" : "54817",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHBURN",
+		"City" : "BIRCHWOOD",
+		"State" : "WI",
+		"Latitude" : "+45.732675"
+	},
+	{
+		"Longitude" : "-091.848206",
+		"Zipcode" : "54818",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "BRILL",
+		"State" : "WI",
+		"Latitude" : "+45.423409"
+	},
+	{
+		"Longitude" : "-091.293073",
+		"Zipcode" : "54819",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSK",
+		"City" : "BRUCE",
+		"State" : "WI",
+		"Latitude" : "+45.469246"
+	},
+	{
+		"Longitude" : "-091.605419",
+		"Zipcode" : "54820",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "BRULE",
+		"State" : "WI",
+		"Latitude" : "+46.555409"
+	},
+	{
+		"Longitude" : "-091.189305",
+		"Zipcode" : "54821",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "CABLE",
+		"State" : "WI",
+		"Latitude" : "+46.210180"
+	},
+	{
+		"Longitude" : "-091.684410",
+		"Zipcode" : "54822",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "CAMERON",
+		"State" : "WI",
+		"Latitude" : "+45.465645"
+	},
+	{
+		"Longitude" : "-092.544088",
+		"Zipcode" : "54824",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "CENTURIA",
+		"State" : "WI",
+		"Latitude" : "+45.420898"
+	},
+	{
+		"Longitude" : "-092.037821",
+		"Zipcode" : "54826",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "COMSTOCK",
+		"State" : "WI",
+		"Latitude" : "+45.495679"
+	},
+	{
+		"Longitude" : "-091.092821",
+		"Zipcode" : "54827",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "CORNUCOPIA",
+		"State" : "WI",
+		"Latitude" : "+46.834502"
+	},
+	{
+		"Longitude" : "-091.291784",
+		"Zipcode" : "54828",
+		"ZipClass" : "STANDARD",
+		"County" : "SAWYER",
+		"City" : "COUDERAY",
+		"State" : "WI",
+		"Latitude" : "+45.837967"
+	},
+	{
+		"Longitude" : "-091.899489",
+		"Zipcode" : "54829",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "CUMBERLAND",
+		"State" : "WI",
+		"Latitude" : "+45.427720"
+	},
+	{
+		"Longitude" : "-092.292996",
+		"Zipcode" : "54830",
+		"ZipClass" : "STANDARD",
+		"County" : "BURNETT",
+		"City" : "DANBURY",
+		"State" : "WI",
+		"Latitude" : "+45.972603"
+	},
+	{
+		"Longitude" : "-091.143254",
+		"Zipcode" : "54832",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "DRUMMOND",
+		"State" : "WI",
+		"Latitude" : "+46.682796"
+	},
+	{
+		"Longitude" : "-091.476541",
+		"Zipcode" : "54834",
+		"ZipClass" : "STANDARD",
+		"County" : "SAWYER",
+		"City" : "EDGEWATER",
+		"State" : "WI",
+		"Latitude" : "+45.742371"
+	},
+	{
+		"Longitude" : "-091.224718",
+		"Zipcode" : "54835",
+		"ZipClass" : "STANDARD",
+		"County" : "SAWYER",
+		"City" : "EXELAND",
+		"State" : "WI",
+		"Latitude" : "+45.780382"
+	},
+	{
+		"Longitude" : "-092.171445",
+		"Zipcode" : "54836",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "FOXBORO",
+		"State" : "WI",
+		"Latitude" : "+46.452892"
+	},
+	{
+		"Longitude" : "-092.429333",
+		"Zipcode" : "54837",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "FREDERIC",
+		"State" : "WI",
+		"Latitude" : "+45.526263"
+	},
+	{
+		"Longitude" : "-091.894633",
+		"Zipcode" : "54838",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "GORDON",
+		"State" : "WI",
+		"Latitude" : "+46.293033"
+	},
+	{
+		"Longitude" : "-091.143254",
+		"Zipcode" : "54839",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "GRAND VIEW",
+		"State" : "WI",
+		"Latitude" : "+46.682796"
+	},
+	{
+		"Longitude" : "-092.693513",
+		"Zipcode" : "54840",
+		"ZipClass" : "STANDARD",
+		"County" : "BURNETT",
+		"City" : "GRANTSBURG",
+		"State" : "WI",
+		"Latitude" : "+45.795342"
+	},
+	{
+		"Longitude" : "-091.801751",
+		"Zipcode" : "54841",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "HAUGEN",
+		"State" : "WI",
+		"Latitude" : "+45.620445"
+	},
+	{
+		"Longitude" : "-091.862136",
+		"Zipcode" : "54842",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "HAWTHORNE",
+		"State" : "WI",
+		"Latitude" : "+46.514162"
+	},
+	{
+		"Longitude" : "-091.278308",
+		"Zipcode" : "54843",
+		"ZipClass" : "STANDARD",
+		"County" : "SAWYER",
+		"City" : "HAYWARD",
+		"State" : "WI",
+		"Latitude" : "+45.955223"
+	},
+	{
+		"Longitude" : "-091.143254",
+		"Zipcode" : "54844",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "HERBSTER",
+		"State" : "WI",
+		"Latitude" : "+46.682796"
+	},
+	{
+		"Longitude" : "-092.153743",
+		"Zipcode" : "54845",
+		"ZipClass" : "STANDARD",
+		"County" : "BURNETT",
+		"City" : "HERTEL",
+		"State" : "WI",
+		"Latitude" : "+45.799612"
+	},
+	{
+		"Longitude" : "-090.761153",
+		"Zipcode" : "54846",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLAND",
+		"City" : "HIGH BRIDGE",
+		"State" : "WI",
+		"Latitude" : "+46.376072"
+	},
+	{
+		"Longitude" : "-091.437437",
+		"Zipcode" : "54847",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "IRON RIVER",
+		"State" : "WI",
+		"Latitude" : "+46.599552"
+	},
+	{
+		"Longitude" : "-091.094300",
+		"Zipcode" : "54848",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSK",
+		"City" : "LADYSMITH",
+		"State" : "WI",
+		"Latitude" : "+45.490835"
+	},
+	{
+		"Longitude" : "-091.713420",
+		"Zipcode" : "54849",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LAKE NEBAGAMON",
+		"State" : "WI",
+		"Latitude" : "+46.493011"
+	},
+	{
+		"Longitude" : "-090.692287",
+		"Zipcode" : "54850",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ASHLAND",
+		"City" : "LA POINTE",
+		"State" : "WI",
+		"Latitude" : "+46.803272"
+	},
+	{
+		"Longitude" : "-092.521938",
+		"Zipcode" : "54851",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "LEWIS",
+		"State" : "WI",
+		"Latitude" : "+45.468941"
+	},
+	{
+		"Longitude" : "-092.467658",
+		"Zipcode" : "54853",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "LUCK",
+		"State" : "WI",
+		"Latitude" : "+45.455357"
+	},
+	{
+		"Longitude" : "-091.733798",
+		"Zipcode" : "54854",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "MAPLE",
+		"State" : "WI",
+		"Latitude" : "+46.652638"
+	},
+	{
+		"Longitude" : "-090.840821",
+		"Zipcode" : "54855",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLAND",
+		"City" : "MARENGO",
+		"State" : "WI",
+		"Latitude" : "+46.366834"
+	},
+	{
+		"Longitude" : "-091.116899",
+		"Zipcode" : "54856",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "MASON",
+		"State" : "WI",
+		"Latitude" : "+46.362341"
+	},
+	{
+		"Longitude" : "-091.619650",
+		"Zipcode" : "54857",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "MIKANA",
+		"State" : "WI",
+		"Latitude" : "+45.609562"
+	},
+	{
+		"Longitude" : "-092.461712",
+		"Zipcode" : "54858",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "MILLTOWN",
+		"State" : "WI",
+		"Latitude" : "+45.515830"
+	},
+	{
+		"Longitude" : "-091.859913",
+		"Zipcode" : "54859",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHBURN",
+		"City" : "MINONG",
+		"State" : "WI",
+		"Latitude" : "+46.097090"
+	},
+	{
+		"Longitude" : "-090.619716",
+		"Zipcode" : "54861",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ASHLAND",
+		"City" : "ODANAH",
+		"State" : "WI",
+		"Latitude" : "+46.560783"
+	},
+	{
+		"Longitude" : "-091.127234",
+		"Zipcode" : "54862",
+		"ZipClass" : "STANDARD",
+		"County" : "SAWYER",
+		"City" : "OJIBWA",
+		"State" : "WI",
+		"Latitude" : "+45.797008"
+	},
+	{
+		"Longitude" : "-091.815333",
+		"Zipcode" : "54864",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "POPLAR",
+		"State" : "WI",
+		"Latitude" : "+46.594249"
+	},
+	{
+		"Longitude" : "-091.353195",
+		"Zipcode" : "54865",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "PORT WING",
+		"State" : "WI",
+		"Latitude" : "+46.715564"
+	},
+	{
+		"Longitude" : "-091.268979",
+		"Zipcode" : "54867",
+		"ZipClass" : "STANDARD",
+		"County" : "SAWYER",
+		"City" : "RADISSON",
+		"State" : "WI",
+		"Latitude" : "+45.800649"
+	},
+	{
+		"Longitude" : "-091.826575",
+		"Zipcode" : "54868",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "RICE LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.519692"
+	},
+	{
+		"Longitude" : "-091.775875",
+		"Zipcode" : "54870",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHBURN",
+		"City" : "SARONA",
+		"State" : "WI",
+		"Latitude" : "+45.737140"
+	},
+	{
+		"Longitude" : "-091.792150",
+		"Zipcode" : "54871",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHBURN",
+		"City" : "SHELL LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.878356"
+	},
+	{
+		"Longitude" : "-092.385751",
+		"Zipcode" : "54872",
+		"ZipClass" : "STANDARD",
+		"County" : "BURNETT",
+		"City" : "SIREN",
+		"State" : "WI",
+		"Latitude" : "+45.782741"
+	},
+	{
+		"Longitude" : "-091.810992",
+		"Zipcode" : "54873",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "SOLON SPRINGS",
+		"State" : "WI",
+		"Latitude" : "+46.417261"
+	},
+	{
+		"Longitude" : "-091.935156",
+		"Zipcode" : "54874",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "SOUTH RANGE",
+		"State" : "WI",
+		"Latitude" : "+46.568809"
+	},
+	{
+		"Longitude" : "-091.675448",
+		"Zipcode" : "54875",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHBURN",
+		"City" : "SPRINGBROOK",
+		"State" : "WI",
+		"Latitude" : "+45.945201"
+	},
+	{
+		"Longitude" : "-091.462771",
+		"Zipcode" : "54876",
+		"ZipClass" : "STANDARD",
+		"County" : "SAWYER",
+		"City" : "STONE LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.821216"
+	},
+	{
+		"Longitude" : "-092.117578",
+		"Zipcode" : "54880",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "SUPERIOR",
+		"State" : "WI",
+		"Latitude" : "+46.574982"
+	},
+	{
+		"Longitude" : "-091.886372",
+		"Zipcode" : "54888",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHBURN",
+		"City" : "TREGO",
+		"State" : "WI",
+		"Latitude" : "+45.966368"
+	},
+	{
+		"Longitude" : "-092.074695",
+		"Zipcode" : "54889",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRON",
+		"City" : "TURTLE LAKE",
+		"State" : "WI",
+		"Latitude" : "+45.400115"
+	},
+	{
+		"Longitude" : "-091.921631",
+		"Zipcode" : "54890",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "WASCOTT",
+		"State" : "WI",
+		"Latitude" : "+46.525129"
+	},
+	{
+		"Longitude" : "-090.904151",
+		"Zipcode" : "54891",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYFIELD",
+		"City" : "WASHBURN",
+		"State" : "WI",
+		"Latitude" : "+46.697289"
+	},
+	{
+		"Longitude" : "-092.302860",
+		"Zipcode" : "54893",
+		"ZipClass" : "STANDARD",
+		"County" : "BURNETT",
+		"City" : "WEBSTER",
+		"State" : "WI",
+		"Latitude" : "+45.869606"
+	},
+	{
+		"Longitude" : "-091.423051",
+		"Zipcode" : "54895",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSK",
+		"City" : "WEYERHAEUSER",
+		"State" : "WI",
+		"Latitude" : "+45.409130"
+	},
+	{
+		"Longitude" : "-091.014362",
+		"Zipcode" : "54896",
+		"ZipClass" : "STANDARD",
+		"County" : "SAWYER",
+		"City" : "WINTER",
+		"State" : "WI",
+		"Latitude" : "+45.832746"
+	},
+	{
+		"Longitude" : "-088.557560",
+		"Zipcode" : "54901",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "OSHKOSH",
+		"State" : "WI",
+		"Latitude" : "+44.005661"
+	},
+	{
+		"Longitude" : "-088.526025",
+		"Zipcode" : "54902",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "OSHKOSH",
+		"State" : "WI",
+		"Latitude" : "+43.994610"
+	},
+	{
+		"Longitude" : "-088.644873",
+		"Zipcode" : "54903",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "OSHKOSH",
+		"State" : "WI",
+		"Latitude" : "+44.068580"
+	},
+	{
+		"Longitude" : "-088.623779",
+		"Zipcode" : "54904",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "OSHKOSH",
+		"State" : "WI",
+		"Latitude" : "+44.062366"
+	},
+	{
+		"Longitude" : "-088.644873",
+		"Zipcode" : "54906",
+		"ZipClass" : "UNIQUE",
+		"County" : "WINNEBAGO",
+		"City" : "OSHKOSH",
+		"State" : "WI",
+		"Latitude" : "+44.068580"
+	},
+	{
+		"Longitude" : "-089.356552",
+		"Zipcode" : "54909",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "ALMOND",
+		"State" : "WI",
+		"Latitude" : "+44.379544"
+	},
+	{
+		"Longitude" : "-088.370856",
+		"Zipcode" : "54911",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "APPLETON",
+		"State" : "WI",
+		"Latitude" : "+44.275702"
+	},
+	{
+		"Longitude" : "-088.464873",
+		"Zipcode" : "54912",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "APPLETON",
+		"State" : "WI",
+		"Latitude" : "+44.416326"
+	},
+	{
+		"Longitude" : "-088.434297",
+		"Zipcode" : "54913",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "APPLETON",
+		"State" : "WI",
+		"Latitude" : "+44.345553"
+	},
+	{
+		"Longitude" : "-088.486307",
+		"Zipcode" : "54914",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "APPLETON",
+		"State" : "WI",
+		"Latitude" : "+44.271285"
+	},
+	{
+		"Longitude" : "-088.444396",
+		"Zipcode" : "54915",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "APPLETON",
+		"State" : "WI",
+		"Latitude" : "+44.373778"
+	},
+	{
+		"Longitude" : "-088.464873",
+		"Zipcode" : "54919",
+		"ZipClass" : "UNIQUE",
+		"County" : "OUTAGAMIE",
+		"City" : "APPLETON",
+		"State" : "WI",
+		"Latitude" : "+44.416326"
+	},
+	{
+		"Longitude" : "-089.526303",
+		"Zipcode" : "54921",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTAGE",
+		"City" : "BANCROFT",
+		"State" : "WI",
+		"Latitude" : "+44.341602"
+	},
+	{
+		"Longitude" : "-088.559628",
+		"Zipcode" : "54922",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "BEAR CREEK",
+		"State" : "WI",
+		"Latitude" : "+44.432373"
+	},
+	{
+		"Longitude" : "-089.027124",
+		"Zipcode" : "54923",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN LAKE",
+		"City" : "BERLIN",
+		"State" : "WI",
+		"Latitude" : "+43.915726"
+	},
+	{
+		"Longitude" : "-089.016622",
+		"Zipcode" : "54926",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUPACA",
+		"City" : "BIG FALLS",
+		"State" : "WI",
+		"Latitude" : "+44.617819"
+	},
+	{
+		"Longitude" : "-088.653949",
+		"Zipcode" : "54927",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINNEBAGO",
+		"City" : "BUTTE DES MORTS",
+		"State" : "WI",
+		"Latitude" : "+44.103137"
+	},
+	{
+		"Longitude" : "-088.876673",
+		"Zipcode" : "54928",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "CAROLINE",
+		"State" : "WI",
+		"Latitude" : "+44.735836"
+	},
+	{
+		"Longitude" : "-088.868093",
+		"Zipcode" : "54929",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "CLINTONVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.593386"
+	},
+	{
+		"Longitude" : "-089.486854",
+		"Zipcode" : "54930",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUSHARA",
+		"City" : "COLOMA",
+		"State" : "WI",
+		"Latitude" : "+44.026085"
+	},
+	{
+		"Longitude" : "-088.464873",
+		"Zipcode" : "54931",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OUTAGAMIE",
+		"City" : "DALE",
+		"State" : "WI",
+		"Latitude" : "+44.416326"
+	},
+	{
+		"Longitude" : "-088.582166",
+		"Zipcode" : "54932",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "ELDORADO",
+		"State" : "WI",
+		"Latitude" : "+43.832253"
+	},
+	{
+		"Longitude" : "-088.704318",
+		"Zipcode" : "54933",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUPACA",
+		"City" : "EMBARRASS",
+		"State" : "WI",
+		"Latitude" : "+44.668605"
+	},
+	{
+		"Longitude" : "-088.839692",
+		"Zipcode" : "54934",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINNEBAGO",
+		"City" : "EUREKA",
+		"State" : "WI",
+		"Latitude" : "+44.003153"
+	},
+	{
+		"Longitude" : "-088.523176",
+		"Zipcode" : "54935",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "FOND DU LAC",
+		"State" : "WI",
+		"Latitude" : "+43.734724"
+	},
+	{
+		"Longitude" : "-088.522984",
+		"Zipcode" : "54936",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "FOND DU LAC",
+		"State" : "WI",
+		"Latitude" : "+43.740559"
+	},
+	{
+		"Longitude" : "-088.605657",
+		"Zipcode" : "54937",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "FOND DU LAC",
+		"State" : "WI",
+		"Latitude" : "+43.765009"
+	},
+	{
+		"Longitude" : "-088.833282",
+		"Zipcode" : "54940",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "FREMONT",
+		"State" : "WI",
+		"Latitude" : "+44.272779"
+	},
+	{
+		"Longitude" : "-088.985883",
+		"Zipcode" : "54941",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN LAKE",
+		"City" : "GREEN LAKE",
+		"State" : "WI",
+		"Latitude" : "+43.856270"
+	},
+	{
+		"Longitude" : "-088.556406",
+		"Zipcode" : "54942",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "GREENVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.286983"
+	},
+	{
+		"Longitude" : "-089.491566",
+		"Zipcode" : "54943",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUSHARA",
+		"City" : "HANCOCK",
+		"State" : "WI",
+		"Latitude" : "+44.103548"
+	},
+	{
+		"Longitude" : "-088.588244",
+		"Zipcode" : "54944",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "HORTONVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.342058"
+	},
+	{
+		"Longitude" : "-089.071142",
+		"Zipcode" : "54945",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "IOLA",
+		"State" : "WI",
+		"Latitude" : "+44.572209"
+	},
+	{
+		"Longitude" : "-089.146258",
+		"Zipcode" : "54946",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUPACA",
+		"City" : "KING",
+		"State" : "WI",
+		"Latitude" : "+44.336537"
+	},
+	{
+		"Longitude" : "-088.688629",
+		"Zipcode" : "54947",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "LARSEN",
+		"State" : "WI",
+		"Latitude" : "+44.194993"
+	},
+	{
+		"Longitude" : "-088.890714",
+		"Zipcode" : "54948",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "LEOPOLIS",
+		"State" : "WI",
+		"Latitude" : "+44.781006"
+	},
+	{
+		"Longitude" : "-088.926954",
+		"Zipcode" : "54949",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "MANAWA",
+		"State" : "WI",
+		"Latitude" : "+44.488057"
+	},
+	{
+		"Longitude" : "-088.937717",
+		"Zipcode" : "54950",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "MARION",
+		"State" : "WI",
+		"Latitude" : "+44.546623"
+	},
+	{
+		"Longitude" : "-088.464873",
+		"Zipcode" : "54951",
+		"ZipClass" : "STANDARD",
+		"County" : "OUTAGAMIE",
+		"City" : "MEDINA",
+		"State" : "WI",
+		"Latitude" : "+44.416326"
+	},
+	{
+		"Longitude" : "-088.569088",
+		"Zipcode" : "54952",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "MENASHA",
+		"State" : "WI",
+		"Latitude" : "+44.141025"
+	},
+	{
+		"Longitude" : "-088.658087",
+		"Zipcode" : "54956",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "NEENAH",
+		"State" : "WI",
+		"Latitude" : "+44.170785"
+	},
+	{
+		"Longitude" : "-088.678863",
+		"Zipcode" : "54957",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "NEENAH",
+		"State" : "WI",
+		"Latitude" : "+44.198944"
+	},
+	{
+		"Longitude" : "-089.310982",
+		"Zipcode" : "54960",
+		"ZipClass" : "STANDARD",
+		"County" : "MARQUETTE",
+		"City" : "NESHKORO",
+		"State" : "WI",
+		"Latitude" : "+43.922097"
+	},
+	{
+		"Longitude" : "-088.859107",
+		"Zipcode" : "54961",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "NEW LONDON",
+		"State" : "WI",
+		"Latitude" : "+44.405595"
+	},
+	{
+		"Longitude" : "-088.993214",
+		"Zipcode" : "54962",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "OGDENSBURG",
+		"State" : "WI",
+		"Latitude" : "+44.426783"
+	},
+	{
+		"Longitude" : "-088.754887",
+		"Zipcode" : "54963",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "OMRO",
+		"State" : "WI",
+		"Latitude" : "+44.050782"
+	},
+	{
+		"Longitude" : "-088.719180",
+		"Zipcode" : "54964",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "PICKETT",
+		"State" : "WI",
+		"Latitude" : "+43.956653"
+	},
+	{
+		"Longitude" : "-089.020960",
+		"Zipcode" : "54965",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUSHARA",
+		"City" : "PINE RIVER",
+		"State" : "WI",
+		"Latitude" : "+44.155967"
+	},
+	{
+		"Longitude" : "-089.297481",
+		"Zipcode" : "54966",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUSHARA",
+		"City" : "PLAINFIELD",
+		"State" : "WI",
+		"Latitude" : "+44.191887"
+	},
+	{
+		"Longitude" : "-088.986361",
+		"Zipcode" : "54967",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUSHARA",
+		"City" : "POY SIPPI",
+		"State" : "WI",
+		"Latitude" : "+44.134044"
+	},
+	{
+		"Longitude" : "-089.122651",
+		"Zipcode" : "54968",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN LAKE",
+		"City" : "PRINCETON",
+		"State" : "WI",
+		"Latitude" : "+43.832741"
+	},
+	{
+		"Longitude" : "-088.775457",
+		"Zipcode" : "54969",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUPACA",
+		"City" : "READFIELD",
+		"State" : "WI",
+		"Latitude" : "+44.269991"
+	},
+	{
+		"Longitude" : "-089.217031",
+		"Zipcode" : "54970",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUSHARA",
+		"City" : "REDGRANITE",
+		"State" : "WI",
+		"Latitude" : "+44.080217"
+	},
+	{
+		"Longitude" : "-088.533445",
+		"Zipcode" : "54971",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "RIPON",
+		"State" : "WI",
+		"Latitude" : "+43.782526"
+	},
+	{
+		"Longitude" : "-088.659504",
+		"Zipcode" : "54974",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "ROSENDALE",
+		"State" : "WI",
+		"Latitude" : "+43.775697"
+	},
+	{
+		"Longitude" : "-088.915027",
+		"Zipcode" : "54975",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUPACA",
+		"City" : "ROYALTON",
+		"State" : "WI",
+		"Latitude" : "+44.461926"
+	},
+	{
+		"Longitude" : "-089.096856",
+		"Zipcode" : "54976",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAUSHARA",
+		"City" : "SAXEVILLE",
+		"State" : "WI",
+		"Latitude" : "+44.209313"
+	},
+	{
+		"Longitude" : "-089.146915",
+		"Zipcode" : "54977",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "SCANDINAVIA",
+		"State" : "WI",
+		"Latitude" : "+44.451051"
+	},
+	{
+		"Longitude" : "-088.898362",
+		"Zipcode" : "54978",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWANO",
+		"City" : "TILLEDA",
+		"State" : "WI",
+		"Latitude" : "+44.796040"
+	},
+	{
+		"Longitude" : "-088.543924",
+		"Zipcode" : "54979",
+		"ZipClass" : "STANDARD",
+		"County" : "FOND DU LAC",
+		"City" : "VAN DYNE",
+		"State" : "WI",
+		"Latitude" : "+43.839613"
+	},
+	{
+		"Longitude" : "-088.771167",
+		"Zipcode" : "54980",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINNEBAGO",
+		"City" : "WAUKAU",
+		"State" : "WI",
+		"Latitude" : "+43.988578"
+	},
+	{
+		"Longitude" : "-089.046680",
+		"Zipcode" : "54981",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "WAUPACA",
+		"State" : "WI",
+		"Latitude" : "+44.429163"
+	},
+	{
+		"Longitude" : "-089.271177",
+		"Zipcode" : "54982",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUSHARA",
+		"City" : "WAUTOMA",
+		"State" : "WI",
+		"Latitude" : "+44.075321"
+	},
+	{
+		"Longitude" : "-088.922821",
+		"Zipcode" : "54983",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUPACA",
+		"City" : "WEYAUWEGA",
+		"State" : "WI",
+		"Latitude" : "+44.332498"
+	},
+	{
+		"Longitude" : "-089.223228",
+		"Zipcode" : "54984",
+		"ZipClass" : "STANDARD",
+		"County" : "WAUSHARA",
+		"City" : "WILD ROSE",
+		"State" : "WI",
+		"Latitude" : "+44.168882"
+	},
+	{
+		"Longitude" : "-088.517762",
+		"Zipcode" : "54985",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINNEBAGO",
+		"City" : "WINNEBAGO",
+		"State" : "WI",
+		"Latitude" : "+44.070584"
+	},
+	{
+		"Longitude" : "-088.745129",
+		"Zipcode" : "54986",
+		"ZipClass" : "STANDARD",
+		"County" : "WINNEBAGO",
+		"City" : "WINNECONNE",
+		"State" : "WI",
+		"Latitude" : "+44.124886"
+	},
+	{
+		"Longitude" : "-088.915027",
+		"Zipcode" : "54990",
+		"ZipClass" : "UNIQUE",
+		"County" : "WAUPACA",
+		"City" : "IOLA",
+		"State" : "WI",
+		"Latitude" : "+44.461926"
+	}
+]}

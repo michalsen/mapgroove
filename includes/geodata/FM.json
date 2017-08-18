@@ -1,0 +1,39 @@
+{
+	"result":[
+	{
+		"Longitude" : "+151.503116",
+		"Zipcode" : "96941",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FEDERATED STATES OF MICRO",
+		"City" : "POHNPEI",
+		"State" : "FM",
+		"Latitude" : "+07.138297"
+	},
+	{
+		"Longitude" : "+151.503116",
+		"Zipcode" : "96942",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FEDERATED STATES OF MICRO",
+		"City" : "CHUUK",
+		"State" : "FM",
+		"Latitude" : "+07.138297"
+	},
+	{
+		"Longitude" : "+151.503116",
+		"Zipcode" : "96943",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FEDERATED STATES OF MICRO",
+		"City" : "YAP",
+		"State" : "FM",
+		"Latitude" : "+07.138297"
+	},
+	{
+		"Longitude" : "+151.503116",
+		"Zipcode" : "96944",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FEDERATED STATES OF MICRO",
+		"City" : "KOSRAE",
+		"State" : "FM",
+		"Latitude" : "+07.138297"
+	}
+]}

@@ -1,0 +1,7626 @@
+{
+	"result":[
+	{
+		"Longitude" : "-086.466833",
+		"Zipcode" : "35004",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "MOODY",
+		"State" : "AL",
+		"Latitude" : "+33.603543"
+	},
+	{
+		"Longitude" : "-086.987228",
+		"Zipcode" : "35005",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ADAMSVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.578097"
+	},
+	{
+		"Longitude" : "-087.207592",
+		"Zipcode" : "35006",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ADGER",
+		"State" : "AL",
+		"Latitude" : "+33.437653"
+	},
+	{
+		"Longitude" : "-086.794377",
+		"Zipcode" : "35007",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "ALABASTER",
+		"State" : "AL",
+		"Latitude" : "+33.193415"
+	},
+	{
+		"Longitude" : "-085.805026",
+		"Zipcode" : "35010",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAPOOSA",
+		"City" : "ALEXANDER CITY",
+		"State" : "AL",
+		"Latitude" : "+32.930079"
+	},
+	{
+		"Longitude" : "-085.958001",
+		"Zipcode" : "35011",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAPOOSA",
+		"City" : "ALEXANDER CITY",
+		"State" : "AL",
+		"Latitude" : "+32.990191"
+	},
+	{
+		"Longitude" : "-086.449262",
+		"Zipcode" : "35013",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BLOUNT",
+		"City" : "ALLGOOD",
+		"State" : "AL",
+		"Latitude" : "+33.922162"
+	},
+	{
+		"Longitude" : "-086.233878",
+		"Zipcode" : "35014",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLADEGA",
+		"City" : "ALPINE",
+		"State" : "AL",
+		"Latitude" : "+33.403969"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35015",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "ALTON",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.365403",
+		"Zipcode" : "35016",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "ARAB",
+		"State" : "AL",
+		"Latitude" : "+34.393855"
+	},
+	{
+		"Longitude" : "-086.712779",
+		"Zipcode" : "35019",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "BAILEYTON",
+		"State" : "AL",
+		"Latitude" : "+34.265451"
+	},
+	{
+		"Longitude" : "-086.888570",
+		"Zipcode" : "35020",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BESSEMER",
+		"State" : "AL",
+		"Latitude" : "+33.441602"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35021",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BESSEMER",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.968328",
+		"Zipcode" : "35022",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BESSEMER",
+		"State" : "AL",
+		"Latitude" : "+33.352745"
+	},
+	{
+		"Longitude" : "-086.944763",
+		"Zipcode" : "35023",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BESSEMER",
+		"State" : "AL",
+		"Latitude" : "+33.478989"
+	},
+	{
+		"Longitude" : "-086.559625",
+		"Zipcode" : "35031",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "BLOUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.091285"
+	},
+	{
+		"Longitude" : "-086.338572",
+		"Zipcode" : "35032",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TALLADEGA",
+		"City" : "BON AIR",
+		"State" : "AL",
+		"Latitude" : "+33.256886"
+	},
+	{
+		"Longitude" : "-087.003767",
+		"Zipcode" : "35033",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "BREMEN",
+		"State" : "AL",
+		"Latitude" : "+33.957886"
+	},
+	{
+		"Longitude" : "-087.220392",
+		"Zipcode" : "35034",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "BRENT",
+		"State" : "AL",
+		"Latitude" : "+32.989499"
+	},
+	{
+		"Longitude" : "-086.959800",
+		"Zipcode" : "35035",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "BRIERFIELD",
+		"State" : "AL",
+		"Latitude" : "+33.016616"
+	},
+	{
+		"Longitude" : "-086.916202",
+		"Zipcode" : "35036",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "BROOKSIDE",
+		"State" : "AL",
+		"Latitude" : "+33.636280"
+	},
+	{
+		"Longitude" : "-087.202136",
+		"Zipcode" : "35038",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALKER",
+		"City" : "BURNWELL",
+		"State" : "AL",
+		"Latitude" : "+33.804411"
+	},
+	{
+		"Longitude" : "-086.725315",
+		"Zipcode" : "35040",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "CALERA",
+		"State" : "AL",
+		"Latitude" : "+33.138832"
+	},
+	{
+		"Longitude" : "-086.931818",
+		"Zipcode" : "35041",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "CARDIFF",
+		"State" : "AL",
+		"Latitude" : "+33.646720"
+	},
+	{
+		"Longitude" : "-087.139316",
+		"Zipcode" : "35042",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "CENTREVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.948233"
+	},
+	{
+		"Longitude" : "-086.656328",
+		"Zipcode" : "35043",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "CHELSEA",
+		"State" : "AL",
+		"Latitude" : "+33.298238"
+	},
+	{
+		"Longitude" : "-086.364148",
+		"Zipcode" : "35044",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLADEGA",
+		"City" : "CHILDERSBURG",
+		"State" : "AL",
+		"Latitude" : "+33.245885"
+	},
+	{
+		"Longitude" : "-086.652875",
+		"Zipcode" : "35045",
+		"ZipClass" : "STANDARD",
+		"County" : "CHILTON",
+		"City" : "CLANTON",
+		"State" : "AL",
+		"Latitude" : "+32.856632"
+	},
+	{
+		"Longitude" : "-086.648931",
+		"Zipcode" : "35046",
+		"ZipClass" : "STANDARD",
+		"County" : "CHILTON",
+		"City" : "CLANTON",
+		"State" : "AL",
+		"Latitude" : "+32.886365"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35048",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "CLAY",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.559850",
+		"Zipcode" : "35049",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "CLEVELAND",
+		"State" : "AL",
+		"Latitude" : "+33.977816"
+	},
+	{
+		"Longitude" : "-086.554849",
+		"Zipcode" : "35051",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "COLUMBIANA",
+		"State" : "AL",
+		"Latitude" : "+33.232849"
+	},
+	{
+		"Longitude" : "-086.392283",
+		"Zipcode" : "35052",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT CLAIR",
+		"City" : "COOK SPRINGS",
+		"State" : "AL",
+		"Latitude" : "+33.589518"
+	},
+	{
+		"Longitude" : "-087.051404",
+		"Zipcode" : "35053",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "CRANE HILL",
+		"State" : "AL",
+		"Latitude" : "+34.044614"
+	},
+	{
+		"Longitude" : "-086.300691",
+		"Zipcode" : "35054",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "CROPWELL",
+		"State" : "AL",
+		"Latitude" : "+33.529643"
+	},
+	{
+		"Longitude" : "-086.853185",
+		"Zipcode" : "35055",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "CULLMAN",
+		"State" : "AL",
+		"Latitude" : "+34.111067"
+	},
+	{
+		"Longitude" : "-086.895226",
+		"Zipcode" : "35056",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "CULLMAN",
+		"State" : "AL",
+		"Latitude" : "+34.196448"
+	},
+	{
+		"Longitude" : "-086.944713",
+		"Zipcode" : "35057",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "CULLMAN",
+		"State" : "AL",
+		"Latitude" : "+34.087769"
+	},
+	{
+		"Longitude" : "-086.752029",
+		"Zipcode" : "35058",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "CULLMAN",
+		"State" : "AL",
+		"Latitude" : "+34.209766"
+	},
+	{
+		"Longitude" : "-086.929443",
+		"Zipcode" : "35060",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "DOCENA",
+		"State" : "AL",
+		"Latitude" : "+33.558905"
+	},
+	{
+		"Longitude" : "-086.960864",
+		"Zipcode" : "35061",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DOLOMITE",
+		"State" : "AL",
+		"Latitude" : "+33.460807"
+	},
+	{
+		"Longitude" : "-087.054641",
+		"Zipcode" : "35062",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "DORA",
+		"State" : "AL",
+		"Latitude" : "+33.735709"
+	},
+	{
+		"Longitude" : "-087.027469",
+		"Zipcode" : "35063",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "EMPIRE",
+		"State" : "AL",
+		"Latitude" : "+33.827269"
+	},
+	{
+		"Longitude" : "-086.925391",
+		"Zipcode" : "35064",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "FAIRFIELD",
+		"State" : "AL",
+		"Latitude" : "+33.475407"
+	},
+	{
+		"Longitude" : "-086.826491",
+		"Zipcode" : "35068",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "FULTONDALE",
+		"State" : "AL",
+		"Latitude" : "+33.601739"
+	},
+	{
+		"Longitude" : "-086.749950",
+		"Zipcode" : "35070",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CULLMAN",
+		"City" : "GARDEN CITY",
+		"State" : "AL",
+		"Latitude" : "+34.005773"
+	},
+	{
+		"Longitude" : "-086.848289",
+		"Zipcode" : "35071",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GARDENDALE",
+		"State" : "AL",
+		"Latitude" : "+33.706150"
+	},
+	{
+		"Longitude" : "-086.079106",
+		"Zipcode" : "35072",
+		"ZipClass" : "STANDARD",
+		"County" : "COOSA",
+		"City" : "GOODWATER",
+		"State" : "AL",
+		"Latitude" : "+33.058725"
+	},
+	{
+		"Longitude" : "-086.801693",
+		"Zipcode" : "35073",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GRAYSVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.659545"
+	},
+	{
+		"Longitude" : "-087.118044",
+		"Zipcode" : "35074",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BIBB",
+		"City" : "GREEN POND",
+		"State" : "AL",
+		"Latitude" : "+33.202691"
+	},
+	{
+		"Longitude" : "-086.841753",
+		"Zipcode" : "35077",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "HANCEVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.034276"
+	},
+	{
+		"Longitude" : "-086.459291",
+		"Zipcode" : "35078",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "HARPERSVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.199274"
+	},
+	{
+		"Longitude" : "-086.745469",
+		"Zipcode" : "35079",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "HAYDEN",
+		"State" : "AL",
+		"Latitude" : "+33.953352"
+	},
+	{
+		"Longitude" : "-086.901975",
+		"Zipcode" : "35080",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "HELENA",
+		"State" : "AL",
+		"Latitude" : "+33.266341"
+	},
+	{
+		"Longitude" : "-086.138624",
+		"Zipcode" : "35082",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "HOLLINS",
+		"State" : "AL",
+		"Latitude" : "+33.116229"
+	},
+	{
+		"Longitude" : "-086.791286",
+		"Zipcode" : "35083",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "HOLLY POND",
+		"State" : "AL",
+		"Latitude" : "+34.152149"
+	},
+	{
+		"Longitude" : "-086.734146",
+		"Zipcode" : "35085",
+		"ZipClass" : "STANDARD",
+		"County" : "CHILTON",
+		"City" : "JEMISON",
+		"State" : "AL",
+		"Latitude" : "+32.970056"
+	},
+	{
+		"Longitude" : "-086.576125",
+		"Zipcode" : "35087",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "JOPPA",
+		"State" : "AL",
+		"Latitude" : "+34.272537"
+	},
+	{
+		"Longitude" : "-086.095801",
+		"Zipcode" : "35089",
+		"ZipClass" : "STANDARD",
+		"County" : "COOSA",
+		"City" : "KELLYTON",
+		"State" : "AL",
+		"Latitude" : "+32.934298"
+	},
+	{
+		"Longitude" : "-086.800573",
+		"Zipcode" : "35091",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "KIMBERLY",
+		"State" : "AL",
+		"Latitude" : "+33.769928"
+	},
+	{
+		"Longitude" : "-086.584472",
+		"Zipcode" : "35094",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LEEDS",
+		"State" : "AL",
+		"Latitude" : "+33.518280"
+	},
+	{
+		"Longitude" : "-086.255605",
+		"Zipcode" : "35096",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLADEGA",
+		"City" : "LINCOLN",
+		"State" : "AL",
+		"Latitude" : "+33.445821"
+	},
+	{
+		"Longitude" : "-086.626094",
+		"Zipcode" : "35097",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "LOCUST FORK",
+		"State" : "AL",
+		"Latitude" : "+33.904975"
+	},
+	{
+		"Longitude" : "-087.026554",
+		"Zipcode" : "35098",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "LOGAN",
+		"State" : "AL",
+		"Latitude" : "+34.137678"
+	},
+	{
+		"Longitude" : "-087.048881",
+		"Zipcode" : "35111",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MC CALLA",
+		"State" : "AL",
+		"Latitude" : "+33.299704"
+	},
+	{
+		"Longitude" : "-086.465640",
+		"Zipcode" : "35112",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT CLAIR",
+		"City" : "MARGARET",
+		"State" : "AL",
+		"Latitude" : "+33.695814"
+	},
+	{
+		"Longitude" : "-086.733796",
+		"Zipcode" : "35114",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MAYLENE",
+		"State" : "AL",
+		"Latitude" : "+33.337916"
+	},
+	{
+		"Longitude" : "-086.883586",
+		"Zipcode" : "35115",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MONTEVALLO",
+		"State" : "AL",
+		"Latitude" : "+33.136658"
+	},
+	{
+		"Longitude" : "-086.763967",
+		"Zipcode" : "35116",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MORRIS",
+		"State" : "AL",
+		"Latitude" : "+33.727106"
+	},
+	{
+		"Longitude" : "-086.875181",
+		"Zipcode" : "35117",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MOUNT OLIVE",
+		"State" : "AL",
+		"Latitude" : "+33.637322"
+	},
+	{
+		"Longitude" : "-087.051031",
+		"Zipcode" : "35118",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MULGA",
+		"State" : "AL",
+		"Latitude" : "+33.536339"
+	},
+	{
+		"Longitude" : "-086.769698",
+		"Zipcode" : "35119",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "NEW CASTLE",
+		"State" : "AL",
+		"Latitude" : "+33.650832"
+	},
+	{
+		"Longitude" : "-086.383360",
+		"Zipcode" : "35120",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "ODENVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.657096"
+	},
+	{
+		"Longitude" : "-086.553500",
+		"Zipcode" : "35121",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "ONEONTA",
+		"State" : "AL",
+		"Latitude" : "+33.968171"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35123",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "PALMERDALE",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.767961",
+		"Zipcode" : "35124",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "PELHAM",
+		"State" : "AL",
+		"Latitude" : "+33.293157"
+	},
+	{
+		"Longitude" : "-086.325995",
+		"Zipcode" : "35125",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "PELL CITY",
+		"State" : "AL",
+		"Latitude" : "+33.592484"
+	},
+	{
+		"Longitude" : "-086.645081",
+		"Zipcode" : "35126",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PINSON",
+		"State" : "AL",
+		"Latitude" : "+33.729880"
+	},
+	{
+		"Longitude" : "-086.884204",
+		"Zipcode" : "35127",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PLEASANT GROVE",
+		"State" : "AL",
+		"Latitude" : "+33.549138"
+	},
+	{
+		"Longitude" : "-086.336607",
+		"Zipcode" : "35128",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "PELL CITY",
+		"State" : "AL",
+		"Latitude" : "+33.587299"
+	},
+	{
+		"Longitude" : "-087.124359",
+		"Zipcode" : "35130",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "QUINTON",
+		"State" : "AL",
+		"Latitude" : "+33.721814"
+	},
+	{
+		"Longitude" : "-086.247460",
+		"Zipcode" : "35131",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "RAGLAND",
+		"State" : "AL",
+		"Latitude" : "+33.715229"
+	},
+	{
+		"Longitude" : "-086.586724",
+		"Zipcode" : "35133",
+		"ZipClass" : "STANDARD",
+		"County" : "BLOUNT",
+		"City" : "REMLAP",
+		"State" : "AL",
+		"Latitude" : "+33.845846"
+	},
+	{
+		"Longitude" : "-086.221589",
+		"Zipcode" : "35135",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "RIVERSIDE",
+		"State" : "AL",
+		"Latitude" : "+33.622079"
+	},
+	{
+		"Longitude" : "-086.156068",
+		"Zipcode" : "35136",
+		"ZipClass" : "STANDARD",
+		"County" : "COOSA",
+		"City" : "ROCKFORD",
+		"State" : "AL",
+		"Latitude" : "+32.897085"
+	},
+	{
+		"Longitude" : "-086.781162",
+		"Zipcode" : "35137",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHELBY",
+		"City" : "SAGINAW",
+		"State" : "AL",
+		"Latitude" : "+33.206302"
+	},
+	{
+		"Longitude" : "-086.975856",
+		"Zipcode" : "35139",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "SAYRE",
+		"State" : "AL",
+		"Latitude" : "+33.711096"
+	},
+	{
+		"Longitude" : "-086.873470",
+		"Zipcode" : "35142",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "SHANNON",
+		"State" : "AL",
+		"Latitude" : "+33.406869"
+	},
+	{
+		"Longitude" : "-086.550392",
+		"Zipcode" : "35143",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "SHELBY",
+		"State" : "AL",
+		"Latitude" : "+33.080188"
+	},
+	{
+		"Longitude" : "-086.683891",
+		"Zipcode" : "35144",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "SILURIA",
+		"State" : "AL",
+		"Latitude" : "+33.282410"
+	},
+	{
+		"Longitude" : "-086.403202",
+		"Zipcode" : "35146",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "SPRINGVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.705871"
+	},
+	{
+		"Longitude" : "-086.544426",
+		"Zipcode" : "35147",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "STERRETT",
+		"State" : "AL",
+		"Latitude" : "+33.419068"
+	},
+	{
+		"Longitude" : "-087.046100",
+		"Zipcode" : "35148",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "SUMITON",
+		"State" : "AL",
+		"Latitude" : "+33.757716"
+	},
+	{
+		"Longitude" : "-086.204925",
+		"Zipcode" : "35149",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TALLADEGA",
+		"City" : "SYCAMORE",
+		"State" : "AL",
+		"Latitude" : "+33.272776"
+	},
+	{
+		"Longitude" : "-086.228703",
+		"Zipcode" : "35150",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLADEGA",
+		"City" : "SYLACAUGA",
+		"State" : "AL",
+		"Latitude" : "+33.316003"
+	},
+	{
+		"Longitude" : "-086.357359",
+		"Zipcode" : "35151",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLADEGA",
+		"City" : "SYLACAUGA",
+		"State" : "AL",
+		"Latitude" : "+33.175552"
+	},
+	{
+		"Longitude" : "-086.144681",
+		"Zipcode" : "35160",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLADEGA",
+		"City" : "TALLADEGA",
+		"State" : "AL",
+		"Latitude" : "+33.387375"
+	},
+	{
+		"Longitude" : "-086.102782",
+		"Zipcode" : "35161",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLADEGA",
+		"City" : "TALLADEGA",
+		"State" : "AL",
+		"Latitude" : "+33.420206"
+	},
+	{
+		"Longitude" : "-086.756368",
+		"Zipcode" : "35171",
+		"ZipClass" : "STANDARD",
+		"County" : "CHILTON",
+		"City" : "THORSBY",
+		"State" : "AL",
+		"Latitude" : "+32.893156"
+	},
+	{
+		"Longitude" : "-086.724855",
+		"Zipcode" : "35172",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "TRAFFORD",
+		"State" : "AL",
+		"Latitude" : "+33.810179"
+	},
+	{
+		"Longitude" : "-086.585890",
+		"Zipcode" : "35173",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "TRUSSVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.646334"
+	},
+	{
+		"Longitude" : "-086.501338",
+		"Zipcode" : "35175",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "UNION GROVE",
+		"State" : "AL",
+		"Latitude" : "+34.433986"
+	},
+	{
+		"Longitude" : "-086.509972",
+		"Zipcode" : "35176",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "VANDIVER",
+		"State" : "AL",
+		"Latitude" : "+33.464255"
+	},
+	{
+		"Longitude" : "-086.561300",
+		"Zipcode" : "35178",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "VINCENT",
+		"State" : "AL",
+		"Latitude" : "+33.309634"
+	},
+	{
+		"Longitude" : "-086.925471",
+		"Zipcode" : "35179",
+		"ZipClass" : "STANDARD",
+		"County" : "CULLMAN",
+		"City" : "VINEMONT",
+		"State" : "AL",
+		"Latitude" : "+34.258747"
+	},
+	{
+		"Longitude" : "-086.829871",
+		"Zipcode" : "35180",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WARRIOR",
+		"State" : "AL",
+		"Latitude" : "+33.790134"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35181",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "WATSON",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.256658",
+		"Zipcode" : "35182",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT CLAIR",
+		"City" : "WATTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.706786"
+	},
+	{
+		"Longitude" : "-086.303403",
+		"Zipcode" : "35183",
+		"ZipClass" : "STANDARD",
+		"County" : "COOSA",
+		"City" : "WEOGUFKA",
+		"State" : "AL",
+		"Latitude" : "+33.067670"
+	},
+	{
+		"Longitude" : "-087.141467",
+		"Zipcode" : "35184",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "WEST BLOCTON",
+		"State" : "AL",
+		"Latitude" : "+33.102111"
+	},
+	{
+		"Longitude" : "-086.543692",
+		"Zipcode" : "35185",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHELBY",
+		"City" : "WESTOVER",
+		"State" : "AL",
+		"Latitude" : "+33.335629"
+	},
+	{
+		"Longitude" : "-086.496647",
+		"Zipcode" : "35186",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "WILSONVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.285635"
+	},
+	{
+		"Longitude" : "-086.879328",
+		"Zipcode" : "35187",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHELBY",
+		"City" : "WILTON",
+		"State" : "AL",
+		"Latitude" : "+33.081040"
+	},
+	{
+		"Longitude" : "-087.165935",
+		"Zipcode" : "35188",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "WOODSTOCK",
+		"State" : "AL",
+		"Latitude" : "+33.179940"
+	},
+	{
+		"Longitude" : "-086.801904",
+		"Zipcode" : "35201",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.456412"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35202",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.807889",
+		"Zipcode" : "35203",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.519204"
+	},
+	{
+		"Longitude" : "-086.837898",
+		"Zipcode" : "35204",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.524455"
+	},
+	{
+		"Longitude" : "-086.782584",
+		"Zipcode" : "35205",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.569398"
+	},
+	{
+		"Longitude" : "-086.705192",
+		"Zipcode" : "35206",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.566137"
+	},
+	{
+		"Longitude" : "-086.837341",
+		"Zipcode" : "35207",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.572576"
+	},
+	{
+		"Longitude" : "-086.879941",
+		"Zipcode" : "35208",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.498055"
+	},
+	{
+		"Longitude" : "-086.808213",
+		"Zipcode" : "35209",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.465336"
+	},
+	{
+		"Longitude" : "-086.734969",
+		"Zipcode" : "35210",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.579661"
+	},
+	{
+		"Longitude" : "-086.864909",
+		"Zipcode" : "35211",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.457170"
+	},
+	{
+		"Longitude" : "-086.749538",
+		"Zipcode" : "35212",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.547803"
+	},
+	{
+		"Longitude" : "-086.749588",
+		"Zipcode" : "35213",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.455408"
+	},
+	{
+		"Longitude" : "-086.905859",
+		"Zipcode" : "35214",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.575142"
+	},
+	{
+		"Longitude" : "-086.806040",
+		"Zipcode" : "35215",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.542055"
+	},
+	{
+		"Longitude" : "-086.781340",
+		"Zipcode" : "35216",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.560140"
+	},
+	{
+		"Longitude" : "-086.856553",
+		"Zipcode" : "35217",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.560760"
+	},
+	{
+		"Longitude" : "-086.895191",
+		"Zipcode" : "35218",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.506305"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35219",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35220",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.898341",
+		"Zipcode" : "35221",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.453807"
+	},
+	{
+		"Longitude" : "-086.763788",
+		"Zipcode" : "35222",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.523204"
+	},
+	{
+		"Longitude" : "-086.726838",
+		"Zipcode" : "35223",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.499513"
+	},
+	{
+		"Longitude" : "-086.974735",
+		"Zipcode" : "35224",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.521455"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35225",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.834563",
+		"Zipcode" : "35226",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.396723"
+	},
+	{
+		"Longitude" : "-086.911841",
+		"Zipcode" : "35228",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.455807"
+	},
+	{
+		"Longitude" : "-086.790389",
+		"Zipcode" : "35229",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.462856"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35230",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35231",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35232",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.802339",
+		"Zipcode" : "35233",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.508205"
+	},
+	{
+		"Longitude" : "-086.832440",
+		"Zipcode" : "35234",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.513505"
+	},
+	{
+		"Longitude" : "-086.649293",
+		"Zipcode" : "35235",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.632816"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35236",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35237",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35238",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.776926",
+		"Zipcode" : "35240",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.425892"
+	},
+	{
+		"Longitude" : "-086.704571",
+		"Zipcode" : "35242",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.381339"
+	},
+	{
+		"Longitude" : "-086.750203",
+		"Zipcode" : "35243",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.445932"
+	},
+	{
+		"Longitude" : "-086.949784",
+		"Zipcode" : "35244",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.351944"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35245",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35246",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35249",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35253",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35254",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35255",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35259",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35260",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35261",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.809390",
+		"Zipcode" : "35263",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.522505"
+	},
+	{
+		"Longitude" : "-086.853075",
+		"Zipcode" : "35266",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.372861"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35277",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35278",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35279",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35280",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35281",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35282",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35283",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35285",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35286",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35287",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.928542",
+		"Zipcode" : "35288",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.445808"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35289",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35290",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35291",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35292",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35293",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35294",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35295",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35296",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35297",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35298",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-086.929208",
+		"Zipcode" : "35299",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "BIRMINGHAM",
+		"State" : "AL",
+		"Latitude" : "+33.544622"
+	},
+	{
+		"Longitude" : "-087.597599",
+		"Zipcode" : "35401",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.241899"
+	},
+	{
+		"Longitude" : "-087.453224",
+		"Zipcode" : "35402",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.306606"
+	},
+	{
+		"Longitude" : "-087.526953",
+		"Zipcode" : "35403",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.204450"
+	},
+	{
+		"Longitude" : "-087.482744",
+		"Zipcode" : "35404",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.182563"
+	},
+	{
+		"Longitude" : "-087.518144",
+		"Zipcode" : "35405",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.104070"
+	},
+	{
+		"Longitude" : "-087.533495",
+		"Zipcode" : "35406",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.335596"
+	},
+	{
+		"Longitude" : "-087.453224",
+		"Zipcode" : "35407",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.306606"
+	},
+	{
+		"Longitude" : "-087.189750",
+		"Zipcode" : "35440",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TUSCALOOSA",
+		"City" : "ABERNANT",
+		"State" : "AL",
+		"Latitude" : "+33.311014"
+	},
+	{
+		"Longitude" : "-087.721868",
+		"Zipcode" : "35441",
+		"ZipClass" : "STANDARD",
+		"County" : "HALE",
+		"City" : "AKRON",
+		"State" : "AL",
+		"Latitude" : "+32.855347"
+	},
+	{
+		"Longitude" : "-088.061517",
+		"Zipcode" : "35442",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "ALICEVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.236962"
+	},
+	{
+		"Longitude" : "-087.967724",
+		"Zipcode" : "35443",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "BOLIGEE",
+		"State" : "AL",
+		"Latitude" : "+32.737366"
+	},
+	{
+		"Longitude" : "-087.277818",
+		"Zipcode" : "35444",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "BROOKWOOD",
+		"State" : "AL",
+		"Latitude" : "+33.333139"
+	},
+	{
+		"Longitude" : "-087.754733",
+		"Zipcode" : "35446",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "BUHL",
+		"State" : "AL",
+		"Latitude" : "+33.230568"
+	},
+	{
+		"Longitude" : "-088.117113",
+		"Zipcode" : "35447",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "CARROLLTON",
+		"State" : "AL",
+		"Latitude" : "+33.289682"
+	},
+	{
+		"Longitude" : "-087.956884",
+		"Zipcode" : "35448",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENE",
+		"City" : "CLINTON",
+		"State" : "AL",
+		"Latitude" : "+32.835692"
+	},
+	{
+		"Longitude" : "-087.338369",
+		"Zipcode" : "35449",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TUSCALOOSA",
+		"City" : "COALING",
+		"State" : "AL",
+		"Latitude" : "+33.135876"
+	},
+	{
+		"Longitude" : "-087.688789",
+		"Zipcode" : "35452",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "COKER",
+		"State" : "AL",
+		"Latitude" : "+33.293358"
+	},
+	{
+		"Longitude" : "-087.383843",
+		"Zipcode" : "35453",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "COTTONDALE",
+		"State" : "AL",
+		"Latitude" : "+33.181780"
+	},
+	{
+		"Longitude" : "-087.432921",
+		"Zipcode" : "35456",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "DUNCANVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.072735"
+	},
+	{
+		"Longitude" : "-087.776584",
+		"Zipcode" : "35457",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "ECHOLA",
+		"State" : "AL",
+		"Latitude" : "+33.294004"
+	},
+	{
+		"Longitude" : "-087.801689",
+		"Zipcode" : "35458",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "ELROD",
+		"State" : "AL",
+		"Latitude" : "+33.367757"
+	},
+	{
+		"Longitude" : "-088.285932",
+		"Zipcode" : "35459",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "EMELLE",
+		"State" : "AL",
+		"Latitude" : "+32.621168"
+	},
+	{
+		"Longitude" : "-088.120605",
+		"Zipcode" : "35460",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "EPES",
+		"State" : "AL",
+		"Latitude" : "+32.672049"
+	},
+	{
+		"Longitude" : "-088.209276",
+		"Zipcode" : "35461",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "ETHELSVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.413277"
+	},
+	{
+		"Longitude" : "-087.893016",
+		"Zipcode" : "35462",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "EUTAW",
+		"State" : "AL",
+		"Latitude" : "+32.836298"
+	},
+	{
+		"Longitude" : "-087.697507",
+		"Zipcode" : "35463",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "FOSTERS",
+		"State" : "AL",
+		"Latitude" : "+33.084337"
+	},
+	{
+		"Longitude" : "-088.145715",
+		"Zipcode" : "35464",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "GAINESVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.778274"
+	},
+	{
+		"Longitude" : "-087.875835",
+		"Zipcode" : "35466",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "GORDO",
+		"State" : "AL",
+		"Latitude" : "+33.290717"
+	},
+	{
+		"Longitude" : "-087.453224",
+		"Zipcode" : "35468",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TUSCALOOSA",
+		"City" : "KELLERMAN",
+		"State" : "AL",
+		"Latitude" : "+33.306606"
+	},
+	{
+		"Longitude" : "-087.956884",
+		"Zipcode" : "35469",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "KNOXVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.835692"
+	},
+	{
+		"Longitude" : "-088.133322",
+		"Zipcode" : "35470",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "LIVINGSTON",
+		"State" : "AL",
+		"Latitude" : "+32.571432"
+	},
+	{
+		"Longitude" : "-088.088514",
+		"Zipcode" : "35471",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PICKENS",
+		"City" : "MC SHAN",
+		"State" : "AL",
+		"Latitude" : "+33.262603"
+	},
+	{
+		"Longitude" : "-087.537152",
+		"Zipcode" : "35473",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "NORTHPORT",
+		"State" : "AL",
+		"Latitude" : "+33.347539"
+	},
+	{
+		"Longitude" : "-087.593514",
+		"Zipcode" : "35474",
+		"ZipClass" : "STANDARD",
+		"County" : "HALE",
+		"City" : "MOUNDVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.910756"
+	},
+	{
+		"Longitude" : "-087.559894",
+		"Zipcode" : "35475",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "NORTHPORT",
+		"State" : "AL",
+		"Latitude" : "+33.399240"
+	},
+	{
+		"Longitude" : "-087.538006",
+		"Zipcode" : "35476",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "NORTHPORT",
+		"State" : "AL",
+		"Latitude" : "+33.356502"
+	},
+	{
+		"Longitude" : "-088.237388",
+		"Zipcode" : "35477",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUMTER",
+		"City" : "PANOLA",
+		"State" : "AL",
+		"Latitude" : "+32.872597"
+	},
+	{
+		"Longitude" : "-087.453224",
+		"Zipcode" : "35478",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TUSCALOOSA",
+		"City" : "PETERSON",
+		"State" : "AL",
+		"Latitude" : "+33.306606"
+	},
+	{
+		"Longitude" : "-087.762393",
+		"Zipcode" : "35480",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "RALPH",
+		"State" : "AL",
+		"Latitude" : "+33.127407"
+	},
+	{
+		"Longitude" : "-088.042923",
+		"Zipcode" : "35481",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "REFORM",
+		"State" : "AL",
+		"Latitude" : "+33.314928"
+	},
+	{
+		"Longitude" : "-087.453224",
+		"Zipcode" : "35482",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TUSCALOOSA",
+		"City" : "SAMANTHA",
+		"State" : "AL",
+		"Latitude" : "+33.306606"
+	},
+	{
+		"Longitude" : "-087.453224",
+		"Zipcode" : "35485",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.306606"
+	},
+	{
+		"Longitude" : "-087.793794",
+		"Zipcode" : "35486",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.272662"
+	},
+	{
+		"Longitude" : "-087.585902",
+		"Zipcode" : "35487",
+		"ZipClass" : "UNIQUE",
+		"County" : "TUSCALOOSA",
+		"City" : "TUSCALOOSA",
+		"State" : "AL",
+		"Latitude" : "+33.307222"
+	},
+	{
+		"Longitude" : "-087.225842",
+		"Zipcode" : "35490",
+		"ZipClass" : "STANDARD",
+		"County" : "TUSCALOOSA",
+		"City" : "VANCE",
+		"State" : "AL",
+		"Latitude" : "+33.226133"
+	},
+	{
+		"Longitude" : "-087.956884",
+		"Zipcode" : "35491",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENE",
+		"City" : "WEST GREENE",
+		"State" : "AL",
+		"Latitude" : "+32.835692"
+	},
+	{
+		"Longitude" : "-087.316923",
+		"Zipcode" : "35501",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "JASPER",
+		"State" : "AL",
+		"Latitude" : "+33.796234"
+	},
+	{
+		"Longitude" : "-087.293888",
+		"Zipcode" : "35502",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "JASPER",
+		"State" : "AL",
+		"Latitude" : "+33.901993"
+	},
+	{
+		"Longitude" : "-087.307386",
+		"Zipcode" : "35503",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "JASPER",
+		"State" : "AL",
+		"Latitude" : "+33.915182"
+	},
+	{
+		"Longitude" : "-087.235474",
+		"Zipcode" : "35504",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "JASPER",
+		"State" : "AL",
+		"Latitude" : "+33.818309"
+	},
+	{
+		"Longitude" : "-087.358538",
+		"Zipcode" : "35540",
+		"ZipClass" : "STANDARD",
+		"County" : "WINSTON",
+		"City" : "ADDISON",
+		"State" : "AL",
+		"Latitude" : "+34.229897"
+	},
+	{
+		"Longitude" : "-087.188237",
+		"Zipcode" : "35541",
+		"ZipClass" : "STANDARD",
+		"County" : "WINSTON",
+		"City" : "ARLEY",
+		"State" : "AL",
+		"Latitude" : "+34.095345"
+	},
+	{
+		"Longitude" : "-087.774117",
+		"Zipcode" : "35542",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "BANKSTON",
+		"State" : "AL",
+		"Latitude" : "+33.712675"
+	},
+	{
+		"Longitude" : "-087.739592",
+		"Zipcode" : "35543",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "BEAR CREEK",
+		"State" : "AL",
+		"Latitude" : "+34.164930"
+	},
+	{
+		"Longitude" : "-088.018981",
+		"Zipcode" : "35544",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "BEAVERTON",
+		"State" : "AL",
+		"Latitude" : "+33.950211"
+	},
+	{
+		"Longitude" : "-087.923872",
+		"Zipcode" : "35545",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "BELK",
+		"State" : "AL",
+		"Latitude" : "+33.645228"
+	},
+	{
+		"Longitude" : "-087.676862",
+		"Zipcode" : "35546",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "BERRY",
+		"State" : "AL",
+		"Latitude" : "+33.634468"
+	},
+	{
+		"Longitude" : "-087.756670",
+		"Zipcode" : "35548",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "BRILLIANT",
+		"State" : "AL",
+		"Latitude" : "+34.038126"
+	},
+	{
+		"Longitude" : "-087.455456",
+		"Zipcode" : "35549",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "CARBON HILL",
+		"State" : "AL",
+		"Latitude" : "+33.772696"
+	},
+	{
+		"Longitude" : "-087.225644",
+		"Zipcode" : "35550",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "CORDOVA",
+		"State" : "AL",
+		"Latitude" : "+33.740956"
+	},
+	{
+		"Longitude" : "-087.373241",
+		"Zipcode" : "35551",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINSTON",
+		"City" : "DELMAR",
+		"State" : "AL",
+		"Latitude" : "+34.145939"
+	},
+	{
+		"Longitude" : "-088.153299",
+		"Zipcode" : "35552",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "DETROIT",
+		"State" : "AL",
+		"Latitude" : "+34.025325"
+	},
+	{
+		"Longitude" : "-087.360437",
+		"Zipcode" : "35553",
+		"ZipClass" : "STANDARD",
+		"County" : "WINSTON",
+		"City" : "DOUBLE SPRINGS",
+		"State" : "AL",
+		"Latitude" : "+34.121357"
+	},
+	{
+		"Longitude" : "-087.613508",
+		"Zipcode" : "35554",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "ELDRIDGE",
+		"State" : "AL",
+		"Latitude" : "+33.928560"
+	},
+	{
+		"Longitude" : "-087.809908",
+		"Zipcode" : "35555",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "FAYETTE",
+		"State" : "AL",
+		"Latitude" : "+33.720050"
+	},
+	{
+		"Longitude" : "-087.696401",
+		"Zipcode" : "35559",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "GLEN ALLEN",
+		"State" : "AL",
+		"Latitude" : "+33.889566"
+	},
+	{
+		"Longitude" : "-087.237372",
+		"Zipcode" : "35560",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALKER",
+		"City" : "GOODSPRINGS",
+		"State" : "AL",
+		"Latitude" : "+33.679503"
+	},
+	{
+		"Longitude" : "-087.813808",
+		"Zipcode" : "35563",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "GUIN",
+		"State" : "AL",
+		"Latitude" : "+34.078901"
+	},
+	{
+		"Longitude" : "-087.828236",
+		"Zipcode" : "35564",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "HACKLEBURG",
+		"State" : "AL",
+		"Latitude" : "+34.122514"
+	},
+	{
+		"Longitude" : "-087.505293",
+		"Zipcode" : "35565",
+		"ZipClass" : "STANDARD",
+		"County" : "WINSTON",
+		"City" : "HALEYVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.179569"
+	},
+	{
+		"Longitude" : "-087.994648",
+		"Zipcode" : "35570",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "HAMILTON",
+		"State" : "AL",
+		"Latitude" : "+34.167583"
+	},
+	{
+		"Longitude" : "-087.946916",
+		"Zipcode" : "35571",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "HODGES",
+		"State" : "AL",
+		"Latitude" : "+34.373392"
+	},
+	{
+		"Longitude" : "-087.278600",
+		"Zipcode" : "35572",
+		"ZipClass" : "STANDARD",
+		"County" : "WINSTON",
+		"City" : "HOUSTON",
+		"State" : "AL",
+		"Latitude" : "+34.188775"
+	},
+	{
+		"Longitude" : "-087.524264",
+		"Zipcode" : "35573",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALKER",
+		"City" : "KANSAS",
+		"State" : "AL",
+		"Latitude" : "+33.921690"
+	},
+	{
+		"Longitude" : "-087.994770",
+		"Zipcode" : "35574",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "KENNEDY",
+		"State" : "AL",
+		"Latitude" : "+33.615308"
+	},
+	{
+		"Longitude" : "-087.552646",
+		"Zipcode" : "35575",
+		"ZipClass" : "STANDARD",
+		"County" : "WINSTON",
+		"City" : "LYNN",
+		"State" : "AL",
+		"Latitude" : "+34.049571"
+	},
+	{
+		"Longitude" : "-088.131425",
+		"Zipcode" : "35576",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "MILLPORT",
+		"State" : "AL",
+		"Latitude" : "+33.606342"
+	},
+	{
+		"Longitude" : "-087.600815",
+		"Zipcode" : "35577",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINSTON",
+		"City" : "NATURAL BRIDGE",
+		"State" : "AL",
+		"Latitude" : "+34.093409"
+	},
+	{
+		"Longitude" : "-087.469627",
+		"Zipcode" : "35578",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "NAUVOO",
+		"State" : "AL",
+		"Latitude" : "+33.885529"
+	},
+	{
+		"Longitude" : "-087.376844",
+		"Zipcode" : "35579",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "OAKMAN",
+		"State" : "AL",
+		"Latitude" : "+33.664909"
+	},
+	{
+		"Longitude" : "-087.298601",
+		"Zipcode" : "35580",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "PARRISH",
+		"State" : "AL",
+		"Latitude" : "+33.713348"
+	},
+	{
+		"Longitude" : "-087.859392",
+		"Zipcode" : "35581",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "PHIL CAMPBELL",
+		"State" : "AL",
+		"Latitude" : "+34.390917"
+	},
+	{
+		"Longitude" : "-088.067792",
+		"Zipcode" : "35582",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "RED BAY",
+		"State" : "AL",
+		"Latitude" : "+34.453468"
+	},
+	{
+		"Longitude" : "-087.077898",
+		"Zipcode" : "35584",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALKER",
+		"City" : "SIPSEY",
+		"State" : "AL",
+		"Latitude" : "+33.820144"
+	},
+	{
+		"Longitude" : "-087.814460",
+		"Zipcode" : "35585",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SPRUCE PINE",
+		"State" : "AL",
+		"Latitude" : "+34.424572"
+	},
+	{
+		"Longitude" : "-088.106670",
+		"Zipcode" : "35586",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "SULLIGENT",
+		"State" : "AL",
+		"Latitude" : "+33.854224"
+	},
+	{
+		"Longitude" : "-087.440648",
+		"Zipcode" : "35587",
+		"ZipClass" : "STANDARD",
+		"County" : "WALKER",
+		"City" : "TOWNLEY",
+		"State" : "AL",
+		"Latitude" : "+33.793322"
+	},
+	{
+		"Longitude" : "-088.086009",
+		"Zipcode" : "35592",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "VERNON",
+		"State" : "AL",
+		"Latitude" : "+33.732286"
+	},
+	{
+		"Longitude" : "-087.954816",
+		"Zipcode" : "35593",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "VINA",
+		"State" : "AL",
+		"Latitude" : "+34.404307"
+	},
+	{
+		"Longitude" : "-087.814078",
+		"Zipcode" : "35594",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "WINFIELD",
+		"State" : "AL",
+		"Latitude" : "+34.062000"
+	},
+	{
+		"Longitude" : "-086.995551",
+		"Zipcode" : "35601",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "DECATUR",
+		"State" : "AL",
+		"Latitude" : "+34.549833"
+	},
+	{
+		"Longitude" : "-087.088142",
+		"Zipcode" : "35602",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "DECATUR",
+		"State" : "AL",
+		"Latitude" : "+34.606216"
+	},
+	{
+		"Longitude" : "-086.965560",
+		"Zipcode" : "35603",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "DECATUR",
+		"State" : "AL",
+		"Latitude" : "+34.538320"
+	},
+	{
+		"Longitude" : "-086.829930",
+		"Zipcode" : "35609",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "DECATUR",
+		"State" : "AL",
+		"Latitude" : "+34.495365"
+	},
+	{
+		"Longitude" : "-087.273375",
+		"Zipcode" : "35610",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "ANDERSON",
+		"State" : "AL",
+		"Latitude" : "+34.942388"
+	},
+	{
+		"Longitude" : "-087.103488",
+		"Zipcode" : "35611",
+		"ZipClass" : "STANDARD",
+		"County" : "LIMESTONE",
+		"City" : "ATHENS",
+		"State" : "AL",
+		"Latitude" : "+34.764976"
+	},
+	{
+		"Longitude" : "-087.030479",
+		"Zipcode" : "35612",
+		"ZipClass" : "STANDARD",
+		"County" : "LIMESTONE",
+		"City" : "ATHENS",
+		"State" : "AL",
+		"Latitude" : "+34.774907"
+	},
+	{
+		"Longitude" : "-086.886679",
+		"Zipcode" : "35613",
+		"ZipClass" : "STANDARD",
+		"County" : "LIMESTONE",
+		"City" : "ATHENS",
+		"State" : "AL",
+		"Latitude" : "+34.831704"
+	},
+	{
+		"Longitude" : "-087.060696",
+		"Zipcode" : "35614",
+		"ZipClass" : "STANDARD",
+		"County" : "LIMESTONE",
+		"City" : "ATHENS",
+		"State" : "AL",
+		"Latitude" : "+34.847364"
+	},
+	{
+		"Longitude" : "-087.030479",
+		"Zipcode" : "35615",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LIMESTONE",
+		"City" : "BELLE MINA",
+		"State" : "AL",
+		"Latitude" : "+34.774907"
+	},
+	{
+		"Longitude" : "-087.906240",
+		"Zipcode" : "35616",
+		"ZipClass" : "STANDARD",
+		"County" : "COLBERT",
+		"City" : "CHEROKEE",
+		"State" : "AL",
+		"Latitude" : "+34.733866"
+	},
+	{
+		"Longitude" : "-087.706859",
+		"Zipcode" : "35617",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAUDERDALE",
+		"City" : "CLOVERDALE",
+		"State" : "AL",
+		"Latitude" : "+34.869964"
+	},
+	{
+		"Longitude" : "-087.289620",
+		"Zipcode" : "35618",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "COURTLAND",
+		"State" : "AL",
+		"Latitude" : "+34.673954"
+	},
+	{
+		"Longitude" : "-087.054151",
+		"Zipcode" : "35619",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "DANVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.459389"
+	},
+	{
+		"Longitude" : "-086.972554",
+		"Zipcode" : "35620",
+		"ZipClass" : "STANDARD",
+		"County" : "LIMESTONE",
+		"City" : "ELKMONT",
+		"State" : "AL",
+		"Latitude" : "+34.899993"
+	},
+	{
+		"Longitude" : "-086.736410",
+		"Zipcode" : "35621",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "EVA",
+		"State" : "AL",
+		"Latitude" : "+34.367528"
+	},
+	{
+		"Longitude" : "-086.899143",
+		"Zipcode" : "35622",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "FALKVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.361909"
+	},
+	{
+		"Longitude" : "-087.686915",
+		"Zipcode" : "35630",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "FLORENCE",
+		"State" : "AL",
+		"Latitude" : "+34.869601"
+	},
+	{
+		"Longitude" : "-087.706859",
+		"Zipcode" : "35631",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "FLORENCE",
+		"State" : "AL",
+		"Latitude" : "+34.869964"
+	},
+	{
+		"Longitude" : "-087.706859",
+		"Zipcode" : "35632",
+		"ZipClass" : "UNIQUE",
+		"County" : "LAUDERDALE",
+		"City" : "FLORENCE",
+		"State" : "AL",
+		"Latitude" : "+34.869964"
+	},
+	{
+		"Longitude" : "-087.742362",
+		"Zipcode" : "35633",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "FLORENCE",
+		"State" : "AL",
+		"Latitude" : "+34.880706"
+	},
+	{
+		"Longitude" : "-087.794596",
+		"Zipcode" : "35634",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "FLORENCE",
+		"State" : "AL",
+		"Latitude" : "+34.900446"
+	},
+	{
+		"Longitude" : "-086.934715",
+		"Zipcode" : "35640",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "HARTSELLE",
+		"State" : "AL",
+		"Latitude" : "+34.491606"
+	},
+	{
+		"Longitude" : "-087.267871",
+		"Zipcode" : "35643",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "HILLSBORO",
+		"State" : "AL",
+		"Latitude" : "+34.635459"
+	},
+	{
+		"Longitude" : "-087.501350",
+		"Zipcode" : "35645",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "KILLEN",
+		"State" : "AL",
+		"Latitude" : "+34.907715"
+	},
+	{
+		"Longitude" : "-087.533990",
+		"Zipcode" : "35646",
+		"ZipClass" : "STANDARD",
+		"County" : "COLBERT",
+		"City" : "LEIGHTON",
+		"State" : "AL",
+		"Latitude" : "+34.677233"
+	},
+	{
+		"Longitude" : "-087.100579",
+		"Zipcode" : "35647",
+		"ZipClass" : "STANDARD",
+		"County" : "LIMESTONE",
+		"City" : "LESTER",
+		"State" : "AL",
+		"Latitude" : "+34.959647"
+	},
+	{
+		"Longitude" : "-087.365663",
+		"Zipcode" : "35648",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "LEXINGTON",
+		"State" : "AL",
+		"Latitude" : "+34.944077"
+	},
+	{
+		"Longitude" : "-086.874641",
+		"Zipcode" : "35649",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LIMESTONE",
+		"City" : "MOORESVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.625877"
+	},
+	{
+		"Longitude" : "-087.299281",
+		"Zipcode" : "35650",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "MOULTON",
+		"State" : "AL",
+		"Latitude" : "+34.492894"
+	},
+	{
+		"Longitude" : "-087.476911",
+		"Zipcode" : "35651",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "MOUNT HOPE",
+		"State" : "AL",
+		"Latitude" : "+34.479260"
+	},
+	{
+		"Longitude" : "-087.321426",
+		"Zipcode" : "35652",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "ROGERSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.844868"
+	},
+	{
+		"Longitude" : "-087.854726",
+		"Zipcode" : "35653",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "RUSSELLVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.444903"
+	},
+	{
+		"Longitude" : "-087.647762",
+		"Zipcode" : "35654",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "RUSSELLVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.467520"
+	},
+	{
+		"Longitude" : "-087.710054",
+		"Zipcode" : "35660",
+		"ZipClass" : "STANDARD",
+		"County" : "COLBERT",
+		"City" : "SHEFFIELD",
+		"State" : "AL",
+		"Latitude" : "+34.691165"
+	},
+	{
+		"Longitude" : "-087.700040",
+		"Zipcode" : "35661",
+		"ZipClass" : "STANDARD",
+		"County" : "COLBERT",
+		"City" : "MUSCLE SHOALS",
+		"State" : "AL",
+		"Latitude" : "+34.758537"
+	},
+	{
+		"Longitude" : "-087.966575",
+		"Zipcode" : "35662",
+		"ZipClass" : "STANDARD",
+		"County" : "COLBERT",
+		"City" : "MUSCLE SHOALS",
+		"State" : "AL",
+		"Latitude" : "+34.757152"
+	},
+	{
+		"Longitude" : "-086.729737",
+		"Zipcode" : "35670",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "SOMERVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.436256"
+	},
+	{
+		"Longitude" : "-086.962519",
+		"Zipcode" : "35671",
+		"ZipClass" : "STANDARD",
+		"County" : "LIMESTONE",
+		"City" : "TANNER",
+		"State" : "AL",
+		"Latitude" : "+34.679634"
+	},
+	{
+		"Longitude" : "-087.418659",
+		"Zipcode" : "35672",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "TOWN CREEK",
+		"State" : "AL",
+		"Latitude" : "+34.633251"
+	},
+	{
+		"Longitude" : "-087.078896",
+		"Zipcode" : "35673",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "TRINITY",
+		"State" : "AL",
+		"Latitude" : "+34.591393"
+	},
+	{
+		"Longitude" : "-087.749232",
+		"Zipcode" : "35674",
+		"ZipClass" : "STANDARD",
+		"County" : "COLBERT",
+		"City" : "TUSCUMBIA",
+		"State" : "AL",
+		"Latitude" : "+34.666040"
+	},
+	{
+		"Longitude" : "-087.991142",
+		"Zipcode" : "35677",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "WATERLOO",
+		"State" : "AL",
+		"Latitude" : "+34.925311"
+	},
+	{
+		"Longitude" : "-086.829930",
+		"Zipcode" : "35699",
+		"ZipClass" : "UNIQUE",
+		"County" : "MORGAN",
+		"City" : "DECATUR",
+		"State" : "AL",
+		"Latitude" : "+34.495365"
+	},
+	{
+		"Longitude" : "-086.844257",
+		"Zipcode" : "35739",
+		"ZipClass" : "STANDARD",
+		"County" : "LIMESTONE",
+		"City" : "ARDMORE",
+		"State" : "AL",
+		"Latitude" : "+34.961697"
+	},
+	{
+		"Longitude" : "-085.803464",
+		"Zipcode" : "35740",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "BRIDGEPORT",
+		"State" : "AL",
+		"Latitude" : "+34.799983"
+	},
+	{
+		"Longitude" : "-086.475425",
+		"Zipcode" : "35741",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "BROWNSBORO",
+		"State" : "AL",
+		"Latitude" : "+34.719303"
+	},
+	{
+		"Longitude" : "-087.030479",
+		"Zipcode" : "35742",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LIMESTONE",
+		"City" : "CAPSHAW",
+		"State" : "AL",
+		"Latitude" : "+34.774907"
+	},
+	{
+		"Longitude" : "-085.911106",
+		"Zipcode" : "35744",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "DUTTON",
+		"State" : "AL",
+		"Latitude" : "+34.603350"
+	},
+	{
+		"Longitude" : "-086.190432",
+		"Zipcode" : "35745",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ESTILLFORK",
+		"State" : "AL",
+		"Latitude" : "+34.925315"
+	},
+	{
+		"Longitude" : "-085.980220",
+		"Zipcode" : "35746",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "FACKLER",
+		"State" : "AL",
+		"Latitude" : "+34.753430"
+	},
+	{
+		"Longitude" : "-086.289976",
+		"Zipcode" : "35747",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "GRANT",
+		"State" : "AL",
+		"Latitude" : "+34.418470"
+	},
+	{
+		"Longitude" : "-086.403530",
+		"Zipcode" : "35748",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "GURLEY",
+		"State" : "AL",
+		"Latitude" : "+34.722737"
+	},
+	{
+		"Longitude" : "-086.703349",
+		"Zipcode" : "35749",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HARVEST",
+		"State" : "AL",
+		"Latitude" : "+34.829768"
+	},
+	{
+		"Longitude" : "-086.581015",
+		"Zipcode" : "35750",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HAZEL GREEN",
+		"State" : "AL",
+		"Latitude" : "+34.937132"
+	},
+	{
+		"Longitude" : "-086.274287",
+		"Zipcode" : "35751",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HOLLYTREE",
+		"State" : "AL",
+		"Latitude" : "+34.795490"
+	},
+	{
+		"Longitude" : "-085.887684",
+		"Zipcode" : "35752",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HOLLYWOOD",
+		"State" : "AL",
+		"Latitude" : "+34.807443"
+	},
+	{
+		"Longitude" : "-086.624880",
+		"Zipcode" : "35754",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "LACEYS SPRING",
+		"State" : "AL",
+		"Latitude" : "+34.505440"
+	},
+	{
+		"Longitude" : "-086.020239",
+		"Zipcode" : "35755",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "LANGSTON",
+		"State" : "AL",
+		"Latitude" : "+34.733585"
+	},
+	{
+		"Longitude" : "-086.754233",
+		"Zipcode" : "35756",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MADISON",
+		"State" : "AL",
+		"Latitude" : "+34.651409"
+	},
+	{
+		"Longitude" : "-086.744163",
+		"Zipcode" : "35757",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MADISON",
+		"State" : "AL",
+		"Latitude" : "+34.778246"
+	},
+	{
+		"Longitude" : "-086.742478",
+		"Zipcode" : "35758",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MADISON",
+		"State" : "AL",
+		"Latitude" : "+34.710815"
+	},
+	{
+		"Longitude" : "-086.555622",
+		"Zipcode" : "35759",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MERIDIANVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.881860"
+	},
+	{
+		"Longitude" : "-086.385064",
+		"Zipcode" : "35760",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "NEW HOPE",
+		"State" : "AL",
+		"Latitude" : "+34.561120"
+	},
+	{
+		"Longitude" : "-086.452042",
+		"Zipcode" : "35761",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "NEW MARKET",
+		"State" : "AL",
+		"Latitude" : "+34.893332"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35762",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "NORMAL",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.464438",
+		"Zipcode" : "35763",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "OWENS CROSS ROADS",
+		"State" : "AL",
+		"Latitude" : "+34.724161"
+	},
+	{
+		"Longitude" : "-086.306794",
+		"Zipcode" : "35764",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PAINT ROCK",
+		"State" : "AL",
+		"Latitude" : "+34.703063"
+	},
+	{
+		"Longitude" : "-086.016699",
+		"Zipcode" : "35765",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PISGAH",
+		"State" : "AL",
+		"Latitude" : "+34.669329"
+	},
+	{
+		"Longitude" : "-086.251275",
+		"Zipcode" : "35766",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PRINCETON",
+		"State" : "AL",
+		"Latitude" : "+34.871329"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35767",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "RYLAND",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.142151",
+		"Zipcode" : "35768",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SCOTTSBORO",
+		"State" : "AL",
+		"Latitude" : "+34.750724"
+	},
+	{
+		"Longitude" : "-086.056162",
+		"Zipcode" : "35769",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SCOTTSBORO",
+		"State" : "AL",
+		"Latitude" : "+34.617951"
+	},
+	{
+		"Longitude" : "-085.958355",
+		"Zipcode" : "35771",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SECTION",
+		"State" : "AL",
+		"Latitude" : "+34.671536"
+	},
+	{
+		"Longitude" : "-085.871317",
+		"Zipcode" : "35772",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "STEVENSON",
+		"State" : "AL",
+		"Latitude" : "+34.856233"
+	},
+	{
+		"Longitude" : "-086.681104",
+		"Zipcode" : "35773",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "TONEY",
+		"State" : "AL",
+		"Latitude" : "+34.904492"
+	},
+	{
+		"Longitude" : "-086.073788",
+		"Zipcode" : "35774",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "TRENTON",
+		"State" : "AL",
+		"Latitude" : "+34.717551"
+	},
+	{
+		"Longitude" : "-086.687136",
+		"Zipcode" : "35775",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "VALHERMOSO SPRINGS",
+		"State" : "AL",
+		"Latitude" : "+34.541985"
+	},
+	{
+		"Longitude" : "-086.076117",
+		"Zipcode" : "35776",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "WOODVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.746425"
+	},
+	{
+		"Longitude" : "-086.556439",
+		"Zipcode" : "35801",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.718428"
+	},
+	{
+		"Longitude" : "-086.560608",
+		"Zipcode" : "35802",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.660866"
+	},
+	{
+		"Longitude" : "-086.536754",
+		"Zipcode" : "35803",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.586390"
+	},
+	{
+		"Longitude" : "-086.585312",
+		"Zipcode" : "35804",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.728366"
+	},
+	{
+		"Longitude" : "-086.628864",
+		"Zipcode" : "35805",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.702327"
+	},
+	{
+		"Longitude" : "-086.686994",
+		"Zipcode" : "35806",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.761840"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35807",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.612147",
+		"Zipcode" : "35808",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.677627"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35809",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.593583",
+		"Zipcode" : "35810",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.797685"
+	},
+	{
+		"Longitude" : "-086.513152",
+		"Zipcode" : "35811",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.791497"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35812",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35813",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35814",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35815",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.628643",
+		"Zipcode" : "35816",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.753078"
+	},
+	{
+		"Longitude" : "-086.752294",
+		"Zipcode" : "35824",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.645603"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35893",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35894",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35895",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35896",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35897",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.522913",
+		"Zipcode" : "35898",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733964"
+	},
+	{
+		"Longitude" : "-086.645592",
+		"Zipcode" : "35899",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.733898"
+	},
+	{
+		"Longitude" : "-086.074145",
+		"Zipcode" : "35901",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "GADSDEN",
+		"State" : "AL",
+		"Latitude" : "+34.024285"
+	},
+	{
+		"Longitude" : "-085.803434",
+		"Zipcode" : "35902",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "GADSDEN",
+		"State" : "AL",
+		"Latitude" : "+33.984062"
+	},
+	{
+		"Longitude" : "-085.907668",
+		"Zipcode" : "35903",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "GADSDEN",
+		"State" : "AL",
+		"Latitude" : "+33.984547"
+	},
+	{
+		"Longitude" : "-086.107869",
+		"Zipcode" : "35904",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "GADSDEN",
+		"State" : "AL",
+		"Latitude" : "+34.057440"
+	},
+	{
+		"Longitude" : "-085.957593",
+		"Zipcode" : "35905",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "GADSDEN",
+		"State" : "AL",
+		"Latitude" : "+33.935230"
+	},
+	{
+		"Longitude" : "-086.085173",
+		"Zipcode" : "35906",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "RAINBOW CITY",
+		"State" : "AL",
+		"Latitude" : "+34.033764"
+	},
+	{
+		"Longitude" : "-085.973173",
+		"Zipcode" : "35907",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "GADSDEN",
+		"State" : "AL",
+		"Latitude" : "+33.959647"
+	},
+	{
+		"Longitude" : "-086.242033",
+		"Zipcode" : "35950",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "ALBERTVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.314291"
+	},
+	{
+		"Longitude" : "-086.193529",
+		"Zipcode" : "35951",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "ALBERTVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.322334"
+	},
+	{
+		"Longitude" : "-086.209599",
+		"Zipcode" : "35952",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "ALTOONA",
+		"State" : "AL",
+		"Latitude" : "+34.070970"
+	},
+	{
+		"Longitude" : "-086.216884",
+		"Zipcode" : "35953",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "ASHVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.785173"
+	},
+	{
+		"Longitude" : "-086.061397",
+		"Zipcode" : "35954",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "ATTALLA",
+		"State" : "AL",
+		"Latitude" : "+34.051848"
+	},
+	{
+		"Longitude" : "-086.166021",
+		"Zipcode" : "35956",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BOAZ",
+		"State" : "AL",
+		"Latitude" : "+34.267000"
+	},
+	{
+		"Longitude" : "-086.229092",
+		"Zipcode" : "35957",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BOAZ",
+		"State" : "AL",
+		"Latitude" : "+34.280737"
+	},
+	{
+		"Longitude" : "-085.649240",
+		"Zipcode" : "35958",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "BRYANT",
+		"State" : "AL",
+		"Latitude" : "+34.917606"
+	},
+	{
+		"Longitude" : "-085.611793",
+		"Zipcode" : "35959",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "CEDAR BLUFF",
+		"State" : "AL",
+		"Latitude" : "+34.359072"
+	},
+	{
+		"Longitude" : "-085.590218",
+		"Zipcode" : "35960",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "CENTRE",
+		"State" : "AL",
+		"Latitude" : "+34.110859"
+	},
+	{
+		"Longitude" : "-085.857690",
+		"Zipcode" : "35961",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "COLLINSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.337295"
+	},
+	{
+		"Longitude" : "-086.004164",
+		"Zipcode" : "35962",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "CROSSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.302028"
+	},
+	{
+		"Longitude" : "-085.923978",
+		"Zipcode" : "35963",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "DAWSON",
+		"State" : "AL",
+		"Latitude" : "+34.359123"
+	},
+	{
+		"Longitude" : "-086.319824",
+		"Zipcode" : "35964",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARSHALL",
+		"City" : "DOUGLAS",
+		"State" : "AL",
+		"Latitude" : "+34.349620"
+	},
+	{
+		"Longitude" : "-085.720245",
+		"Zipcode" : "35966",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "FLAT ROCK",
+		"State" : "AL",
+		"Latitude" : "+34.803085"
+	},
+	{
+		"Longitude" : "-085.828068",
+		"Zipcode" : "35967",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "FORT PAYNE",
+		"State" : "AL",
+		"Latitude" : "+34.417112"
+	},
+	{
+		"Longitude" : "-085.797851",
+		"Zipcode" : "35968",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "FORT PAYNE",
+		"State" : "AL",
+		"Latitude" : "+34.507242"
+	},
+	{
+		"Longitude" : "-085.898669",
+		"Zipcode" : "35971",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "FYFFE",
+		"State" : "AL",
+		"Latitude" : "+34.430380"
+	},
+	{
+		"Longitude" : "-086.224672",
+		"Zipcode" : "35972",
+		"ZipClass" : "STANDARD",
+		"County" : "ETOWAH",
+		"City" : "GALLANT",
+		"State" : "AL",
+		"Latitude" : "+34.002330"
+	},
+	{
+		"Longitude" : "-085.557307",
+		"Zipcode" : "35973",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "GAYLESVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.373726"
+	},
+	{
+		"Longitude" : "-086.023970",
+		"Zipcode" : "35974",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "GERALDINE",
+		"State" : "AL",
+		"Latitude" : "+34.359204"
+	},
+	{
+		"Longitude" : "-086.038915",
+		"Zipcode" : "35975",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "GROVEOAK",
+		"State" : "AL",
+		"Latitude" : "+34.435197"
+	},
+	{
+		"Longitude" : "-086.275180",
+		"Zipcode" : "35976",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "GUNTERSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.344851"
+	},
+	{
+		"Longitude" : "-085.730615",
+		"Zipcode" : "35978",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "HENAGAR",
+		"State" : "AL",
+		"Latitude" : "+34.600393"
+	},
+	{
+		"Longitude" : "-085.619582",
+		"Zipcode" : "35979",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HIGDON",
+		"State" : "AL",
+		"Latitude" : "+34.839084"
+	},
+	{
+		"Longitude" : "-086.343937",
+		"Zipcode" : "35980",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "HORTON",
+		"State" : "AL",
+		"Latitude" : "+34.209898"
+	},
+	{
+		"Longitude" : "-085.658943",
+		"Zipcode" : "35981",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "IDER",
+		"State" : "AL",
+		"Latitude" : "+34.719358"
+	},
+	{
+		"Longitude" : "-085.748018",
+		"Zipcode" : "35983",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "LEESBURG",
+		"State" : "AL",
+		"Latitude" : "+34.144013"
+	},
+	{
+		"Longitude" : "-085.578584",
+		"Zipcode" : "35984",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "MENTONE",
+		"State" : "AL",
+		"Latitude" : "+34.556856"
+	},
+	{
+		"Longitude" : "-085.761585",
+		"Zipcode" : "35986",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "RAINSVILLE",
+		"State" : "AL",
+		"Latitude" : "+34.419163"
+	},
+	{
+		"Longitude" : "-086.243593",
+		"Zipcode" : "35987",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CLAIR",
+		"City" : "STEELE",
+		"State" : "AL",
+		"Latitude" : "+33.916778"
+	},
+	{
+		"Longitude" : "-085.729289",
+		"Zipcode" : "35988",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "SYLVANIA",
+		"State" : "AL",
+		"Latitude" : "+34.570198"
+	},
+	{
+		"Longitude" : "-085.689133",
+		"Zipcode" : "35989",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "VALLEY HEAD",
+		"State" : "AL",
+		"Latitude" : "+34.487900"
+	},
+	{
+		"Longitude" : "-086.275434",
+		"Zipcode" : "35990",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ETOWAH",
+		"City" : "WALNUT GROVE",
+		"State" : "AL",
+		"Latitude" : "+34.056618"
+	},
+	{
+		"Longitude" : "-086.721712",
+		"Zipcode" : "36003",
+		"ZipClass" : "STANDARD",
+		"County" : "AUTAUGA",
+		"City" : "AUTAUGAVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.450328"
+	},
+	{
+		"Longitude" : "-085.928538",
+		"Zipcode" : "36005",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "BANKS",
+		"State" : "AL",
+		"Latitude" : "+31.839131"
+	},
+	{
+		"Longitude" : "-086.711472",
+		"Zipcode" : "36006",
+		"ZipClass" : "STANDARD",
+		"County" : "AUTAUGA",
+		"City" : "BILLINGSLEY",
+		"State" : "AL",
+		"Latitude" : "+32.576407"
+	},
+	{
+		"Longitude" : "-086.572711",
+		"Zipcode" : "36008",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AUTAUGA",
+		"City" : "BOOTH",
+		"State" : "AL",
+		"Latitude" : "+32.501649"
+	},
+	{
+		"Longitude" : "-086.327501",
+		"Zipcode" : "36009",
+		"ZipClass" : "STANDARD",
+		"County" : "CRENSHAW",
+		"City" : "BRANTLEY",
+		"State" : "AL",
+		"Latitude" : "+31.560143"
+	},
+	{
+		"Longitude" : "-085.816261",
+		"Zipcode" : "36010",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "BRUNDIDGE",
+		"State" : "AL",
+		"Latitude" : "+31.713427"
+	},
+	{
+		"Longitude" : "-086.186132",
+		"Zipcode" : "36013",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CECIL",
+		"State" : "AL",
+		"Latitude" : "+32.310624"
+	},
+	{
+		"Longitude" : "-086.734317",
+		"Zipcode" : "36015",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BUTLER",
+		"City" : "CHAPMAN",
+		"State" : "AL",
+		"Latitude" : "+31.642713"
+	},
+	{
+		"Longitude" : "-085.421299",
+		"Zipcode" : "36016",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "CLAYTON",
+		"State" : "AL",
+		"Latitude" : "+31.805322"
+	},
+	{
+		"Longitude" : "-085.561944",
+		"Zipcode" : "36017",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "CLIO",
+		"State" : "AL",
+		"Latitude" : "+31.749142"
+	},
+	{
+		"Longitude" : "-086.332245",
+		"Zipcode" : "36020",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "COOSADA",
+		"State" : "AL",
+		"Latitude" : "+32.505625"
+	},
+	{
+		"Longitude" : "-086.358420",
+		"Zipcode" : "36022",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "DEATSVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.614355"
+	},
+	{
+		"Longitude" : "-085.803427",
+		"Zipcode" : "36023",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAPOOSA",
+		"City" : "EAST TALLASSEE",
+		"State" : "AL",
+		"Latitude" : "+32.800155"
+	},
+	{
+		"Longitude" : "-086.036529",
+		"Zipcode" : "36024",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "ECLECTIC",
+		"State" : "AL",
+		"Latitude" : "+32.645178"
+	},
+	{
+		"Longitude" : "-086.134553",
+		"Zipcode" : "36025",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "ELMORE",
+		"State" : "AL",
+		"Latitude" : "+32.632954"
+	},
+	{
+		"Longitude" : "-086.121600",
+		"Zipcode" : "36026",
+		"ZipClass" : "STANDARD",
+		"County" : "COOSA",
+		"City" : "EQUALITY",
+		"State" : "AL",
+		"Latitude" : "+32.775220"
+	},
+	{
+		"Longitude" : "-085.389969",
+		"Zipcode" : "36027",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "EUFAULA",
+		"State" : "AL",
+		"Latitude" : "+31.914745"
+	},
+	{
+		"Longitude" : "-086.354365",
+		"Zipcode" : "36028",
+		"ZipClass" : "STANDARD",
+		"County" : "CRENSHAW",
+		"City" : "DOZIER",
+		"State" : "AL",
+		"Latitude" : "+31.518541"
+	},
+	{
+		"Longitude" : "-085.704649",
+		"Zipcode" : "36029",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCK",
+		"City" : "FITZPATRICK",
+		"State" : "AL",
+		"Latitude" : "+32.092808"
+	},
+	{
+		"Longitude" : "-086.837211",
+		"Zipcode" : "36030",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "FOREST HOME",
+		"State" : "AL",
+		"Latitude" : "+31.850138"
+	},
+	{
+		"Longitude" : "-085.752417",
+		"Zipcode" : "36031",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MACON",
+		"City" : "FORT DAVIS",
+		"State" : "AL",
+		"Latitude" : "+32.250651"
+	},
+	{
+		"Longitude" : "-086.608238",
+		"Zipcode" : "36032",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "FORT DEPOSIT",
+		"State" : "AL",
+		"Latitude" : "+32.012850"
+	},
+	{
+		"Longitude" : "-086.634844",
+		"Zipcode" : "36033",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "GEORGIANA",
+		"State" : "AL",
+		"Latitude" : "+31.624666"
+	},
+	{
+		"Longitude" : "-086.167727",
+		"Zipcode" : "36034",
+		"ZipClass" : "STANDARD",
+		"County" : "CRENSHAW",
+		"City" : "GLENWOOD",
+		"State" : "AL",
+		"Latitude" : "+31.611203"
+	},
+	{
+		"Longitude" : "-086.092603",
+		"Zipcode" : "36035",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "GOSHEN",
+		"State" : "AL",
+		"Latitude" : "+31.810302"
+	},
+	{
+		"Longitude" : "-086.166847",
+		"Zipcode" : "36036",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GRADY",
+		"State" : "AL",
+		"Latitude" : "+32.011697"
+	},
+	{
+		"Longitude" : "-086.596233",
+		"Zipcode" : "36037",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "GREENVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.796729"
+	},
+	{
+		"Longitude" : "-086.444833",
+		"Zipcode" : "36038",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COVINGTON",
+		"City" : "GANTT",
+		"State" : "AL",
+		"Latitude" : "+31.260882"
+	},
+	{
+		"Longitude" : "-085.813517",
+		"Zipcode" : "36039",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "HARDAWAY",
+		"State" : "AL",
+		"Latitude" : "+32.293879"
+	},
+	{
+		"Longitude" : "-086.597157",
+		"Zipcode" : "36040",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "HAYNEVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.152198"
+	},
+	{
+		"Longitude" : "-086.306248",
+		"Zipcode" : "36041",
+		"ZipClass" : "STANDARD",
+		"County" : "CRENSHAW",
+		"City" : "HIGHLAND HOME",
+		"State" : "AL",
+		"Latitude" : "+31.945789"
+	},
+	{
+		"Longitude" : "-086.405406",
+		"Zipcode" : "36042",
+		"ZipClass" : "STANDARD",
+		"County" : "CRENSHAW",
+		"City" : "HONORAVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.871334"
+	},
+	{
+		"Longitude" : "-086.380464",
+		"Zipcode" : "36043",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "HOPE HULL",
+		"State" : "AL",
+		"Latitude" : "+32.206441"
+	},
+	{
+		"Longitude" : "-086.132981",
+		"Zipcode" : "36045",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "KENT",
+		"State" : "AL",
+		"Latitude" : "+32.587631"
+	},
+	{
+		"Longitude" : "-086.356906",
+		"Zipcode" : "36046",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "LAPINE",
+		"State" : "AL",
+		"Latitude" : "+32.081409"
+	},
+	{
+		"Longitude" : "-086.510331",
+		"Zipcode" : "36047",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "LETOHATCHEE",
+		"State" : "AL",
+		"Latitude" : "+32.072616"
+	},
+	{
+		"Longitude" : "-085.551104",
+		"Zipcode" : "36048",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "LOUISVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.785579"
+	},
+	{
+		"Longitude" : "-086.291595",
+		"Zipcode" : "36049",
+		"ZipClass" : "STANDARD",
+		"County" : "CRENSHAW",
+		"City" : "LUVERNE",
+		"State" : "AL",
+		"Latitude" : "+31.754655"
+	},
+	{
+		"Longitude" : "-086.516424",
+		"Zipcode" : "36051",
+		"ZipClass" : "STANDARD",
+		"County" : "AUTAUGA",
+		"City" : "MARBURY",
+		"State" : "AL",
+		"Latitude" : "+32.601807"
+	},
+	{
+		"Longitude" : "-086.036354",
+		"Zipcode" : "36052",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MATHEWS",
+		"State" : "AL",
+		"Latitude" : "+32.239196"
+	},
+	{
+		"Longitude" : "-085.704649",
+		"Zipcode" : "36053",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCK",
+		"City" : "MIDWAY",
+		"State" : "AL",
+		"Latitude" : "+32.092808"
+	},
+	{
+		"Longitude" : "-086.225602",
+		"Zipcode" : "36054",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "MILLBROOK",
+		"State" : "AL",
+		"Latitude" : "+32.584717"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36057",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "MOUNT MEIGS",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-085.704649",
+		"Zipcode" : "36061",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCK",
+		"City" : "PEROTE",
+		"State" : "AL",
+		"Latitude" : "+32.092808"
+	},
+	{
+		"Longitude" : "-086.323949",
+		"Zipcode" : "36062",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRENSHAW",
+		"City" : "PETREY",
+		"State" : "AL",
+		"Latitude" : "+31.745890"
+	},
+	{
+		"Longitude" : "-086.092590",
+		"Zipcode" : "36064",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "PIKE ROAD",
+		"State" : "AL",
+		"Latitude" : "+32.296092"
+	},
+	{
+		"Longitude" : "-086.060586",
+		"Zipcode" : "36065",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "PINE LEVEL",
+		"State" : "AL",
+		"Latitude" : "+32.072585"
+	},
+	{
+		"Longitude" : "-086.440879",
+		"Zipcode" : "36066",
+		"ZipClass" : "STANDARD",
+		"County" : "AUTAUGA",
+		"City" : "PRATTVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.509190"
+	},
+	{
+		"Longitude" : "-086.658347",
+		"Zipcode" : "36067",
+		"ZipClass" : "STANDARD",
+		"County" : "AUTAUGA",
+		"City" : "PRATTVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.540642"
+	},
+	{
+		"Longitude" : "-086.666272",
+		"Zipcode" : "36068",
+		"ZipClass" : "STANDARD",
+		"County" : "AUTAUGA",
+		"City" : "PRATTVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.507893"
+	},
+	{
+		"Longitude" : "-086.174619",
+		"Zipcode" : "36069",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "RAMER",
+		"State" : "AL",
+		"Latitude" : "+32.089321"
+	},
+	{
+		"Longitude" : "-086.371489",
+		"Zipcode" : "36071",
+		"ZipClass" : "STANDARD",
+		"County" : "CRENSHAW",
+		"City" : "RUTLEDGE",
+		"State" : "AL",
+		"Latitude" : "+31.706155"
+	},
+	{
+		"Longitude" : "-085.166028",
+		"Zipcode" : "36072",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "EUFAULA",
+		"State" : "AL",
+		"Latitude" : "+31.826055"
+	},
+	{
+		"Longitude" : "-085.910123",
+		"Zipcode" : "36075",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "SHORTER",
+		"State" : "AL",
+		"Latitude" : "+32.383939"
+	},
+	{
+		"Longitude" : "-085.985078",
+		"Zipcode" : "36078",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "TALLASSEE",
+		"State" : "AL",
+		"Latitude" : "+32.594995"
+	},
+	{
+		"Longitude" : "-085.954983",
+		"Zipcode" : "36079",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "TROY",
+		"State" : "AL",
+		"Latitude" : "+31.802786"
+	},
+	{
+		"Longitude" : "-086.257604",
+		"Zipcode" : "36080",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "TITUS",
+		"State" : "AL",
+		"Latitude" : "+32.700393"
+	},
+	{
+		"Longitude" : "-085.966268",
+		"Zipcode" : "36081",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "TROY",
+		"State" : "AL",
+		"Latitude" : "+31.869128"
+	},
+	{
+		"Longitude" : "-085.964713",
+		"Zipcode" : "36082",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIKE",
+		"City" : "TROY",
+		"State" : "AL",
+		"Latitude" : "+31.816474"
+	},
+	{
+		"Longitude" : "-085.666710",
+		"Zipcode" : "36083",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "TUSKEGEE",
+		"State" : "AL",
+		"Latitude" : "+32.372144"
+	},
+	{
+		"Longitude" : "-085.738032",
+		"Zipcode" : "36087",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MACON",
+		"City" : "TUSKEGEE INSTITUTE",
+		"State" : "AL",
+		"Latitude" : "+32.409260"
+	},
+	{
+		"Longitude" : "-085.725250",
+		"Zipcode" : "36088",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "TUSKEGEE INSTITUTE",
+		"State" : "AL",
+		"Latitude" : "+32.414501"
+	},
+	{
+		"Longitude" : "-085.742406",
+		"Zipcode" : "36089",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLOCK",
+		"City" : "UNION SPRINGS",
+		"State" : "AL",
+		"Latitude" : "+32.142191"
+	},
+	{
+		"Longitude" : "-086.644088",
+		"Zipcode" : "36091",
+		"ZipClass" : "STANDARD",
+		"County" : "CHILTON",
+		"City" : "VERBENA",
+		"State" : "AL",
+		"Latitude" : "+32.776052"
+	},
+	{
+		"Longitude" : "-086.215304",
+		"Zipcode" : "36092",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "WETUMPKA",
+		"State" : "AL",
+		"Latitude" : "+32.592659"
+	},
+	{
+		"Longitude" : "-086.099371",
+		"Zipcode" : "36093",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "WETUMPKA",
+		"State" : "AL",
+		"Latitude" : "+32.562179"
+	},
+	{
+		"Longitude" : "-086.257817",
+		"Zipcode" : "36101",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.356988"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36102",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.287316",
+		"Zipcode" : "36103",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.346158"
+	},
+	{
+		"Longitude" : "-086.289182",
+		"Zipcode" : "36104",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.373788"
+	},
+	{
+		"Longitude" : "-086.290586",
+		"Zipcode" : "36105",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.225580"
+	},
+	{
+		"Longitude" : "-086.257517",
+		"Zipcode" : "36106",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.353338"
+	},
+	{
+		"Longitude" : "-086.280718",
+		"Zipcode" : "36107",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.380587"
+	},
+	{
+		"Longitude" : "-086.373820",
+		"Zipcode" : "36108",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.340688"
+	},
+	{
+		"Longitude" : "-086.239667",
+		"Zipcode" : "36109",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.390547"
+	},
+	{
+		"Longitude" : "-086.253327",
+		"Zipcode" : "36110",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.441374"
+	},
+	{
+		"Longitude" : "-086.267317",
+		"Zipcode" : "36111",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.342438"
+	},
+	{
+		"Longitude" : "-086.345719",
+		"Zipcode" : "36112",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.374287"
+	},
+	{
+		"Longitude" : "-086.303868",
+		"Zipcode" : "36113",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.384587"
+	},
+	{
+		"Longitude" : "-086.253867",
+		"Zipcode" : "36114",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.403987"
+	},
+	{
+		"Longitude" : "-086.247417",
+		"Zipcode" : "36115",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.407587"
+	},
+	{
+		"Longitude" : "-086.228765",
+		"Zipcode" : "36116",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.285501"
+	},
+	{
+		"Longitude" : "-086.116486",
+		"Zipcode" : "36117",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.370048"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36118",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36119",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36120",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36121",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36123",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36124",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36125",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36130",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36131",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36132",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36133",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36134",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36135",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36140",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36141",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36142",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36177",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-086.208528",
+		"Zipcode" : "36191",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY",
+		"State" : "AL",
+		"Latitude" : "+32.233377"
+	},
+	{
+		"Longitude" : "-085.792328",
+		"Zipcode" : "36201",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ANNISTON",
+		"State" : "AL",
+		"Latitude" : "+33.759768"
+	},
+	{
+		"Longitude" : "-085.837828",
+		"Zipcode" : "36202",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ANNISTON",
+		"State" : "AL",
+		"Latitude" : "+33.762195"
+	},
+	{
+		"Longitude" : "-085.899397",
+		"Zipcode" : "36203",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "OXFORD",
+		"State" : "AL",
+		"Latitude" : "+33.725908"
+	},
+	{
+		"Longitude" : "-085.837828",
+		"Zipcode" : "36204",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ANNISTON",
+		"State" : "AL",
+		"Latitude" : "+33.762195"
+	},
+	{
+		"Longitude" : "-085.793257",
+		"Zipcode" : "36205",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ANNISTON",
+		"State" : "AL",
+		"Latitude" : "+33.735842"
+	},
+	{
+		"Longitude" : "-085.759952",
+		"Zipcode" : "36206",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ANNISTON",
+		"State" : "AL",
+		"Latitude" : "+33.806783"
+	},
+	{
+		"Longitude" : "-085.753344",
+		"Zipcode" : "36207",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ANNISTON",
+		"State" : "AL",
+		"Latitude" : "+33.720373"
+	},
+	{
+		"Longitude" : "-085.904456",
+		"Zipcode" : "36250",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ALEXANDRIA",
+		"State" : "AL",
+		"Latitude" : "+33.780861"
+	},
+	{
+		"Longitude" : "-085.847477",
+		"Zipcode" : "36251",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "ASHLAND",
+		"State" : "AL",
+		"Latitude" : "+33.234539"
+	},
+	{
+		"Longitude" : "-085.837828",
+		"Zipcode" : "36253",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALHOUN",
+		"City" : "BYNUM",
+		"State" : "AL",
+		"Latitude" : "+33.762195"
+	},
+	{
+		"Longitude" : "-085.699116",
+		"Zipcode" : "36254",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALHOUN",
+		"City" : "CHOCCOLOCCO",
+		"State" : "AL",
+		"Latitude" : "+33.657349"
+	},
+	{
+		"Longitude" : "-085.745014",
+		"Zipcode" : "36255",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CRAGFORD",
+		"State" : "AL",
+		"Latitude" : "+33.193639"
+	},
+	{
+		"Longitude" : "-085.696391",
+		"Zipcode" : "36256",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAPOOSA",
+		"City" : "DAVISTON",
+		"State" : "AL",
+		"Latitude" : "+33.022741"
+	},
+	{
+		"Longitude" : "-085.837828",
+		"Zipcode" : "36257",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALHOUN",
+		"City" : "DE ARMANVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.762195"
+	},
+	{
+		"Longitude" : "-085.711041",
+		"Zipcode" : "36258",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "DELTA",
+		"State" : "AL",
+		"Latitude" : "+33.418514"
+	},
+	{
+		"Longitude" : "-085.991753",
+		"Zipcode" : "36260",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "EASTABOGA",
+		"State" : "AL",
+		"Latitude" : "+33.640094"
+	},
+	{
+		"Longitude" : "-085.509902",
+		"Zipcode" : "36261",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLEBURNE",
+		"City" : "EDWARDSVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.706595"
+	},
+	{
+		"Longitude" : "-085.463112",
+		"Zipcode" : "36262",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "FRUITHURST",
+		"State" : "AL",
+		"Latitude" : "+33.779335"
+	},
+	{
+		"Longitude" : "-085.369167",
+		"Zipcode" : "36263",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "GRAHAM",
+		"State" : "AL",
+		"Latitude" : "+33.456308"
+	},
+	{
+		"Longitude" : "-085.502022",
+		"Zipcode" : "36264",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "HEFLIN",
+		"State" : "AL",
+		"Latitude" : "+33.627166"
+	},
+	{
+		"Longitude" : "-085.758295",
+		"Zipcode" : "36265",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "JACKSONVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.853627"
+	},
+	{
+		"Longitude" : "-085.789238",
+		"Zipcode" : "36266",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "LINEVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.340127"
+	},
+	{
+		"Longitude" : "-085.941752",
+		"Zipcode" : "36267",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "MILLERVILLE",
+		"State" : "AL",
+		"Latitude" : "+33.180820"
+	},
+	{
+		"Longitude" : "-085.920854",
+		"Zipcode" : "36268",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLADEGA",
+		"City" : "MUNFORD",
+		"State" : "AL",
+		"Latitude" : "+33.486183"
+	},
+	{
+		"Longitude" : "-085.394198",
+		"Zipcode" : "36269",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "MUSCADINE",
+		"State" : "AL",
+		"Latitude" : "+33.729152"
+	},
+	{
+		"Longitude" : "-085.468493",
+		"Zipcode" : "36270",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "NEWELL",
+		"State" : "AL",
+		"Latitude" : "+33.429780"
+	},
+	{
+		"Longitude" : "-085.905573",
+		"Zipcode" : "36271",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "OHATCHEE",
+		"State" : "AL",
+		"Latitude" : "+33.807215"
+	},
+	{
+		"Longitude" : "-085.795257",
+		"Zipcode" : "36272",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "PIEDMONT",
+		"State" : "AL",
+		"Latitude" : "+33.827328"
+	},
+	{
+		"Longitude" : "-085.382010",
+		"Zipcode" : "36273",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "RANBURNE",
+		"State" : "AL",
+		"Latitude" : "+33.565683"
+	},
+	{
+		"Longitude" : "-085.405707",
+		"Zipcode" : "36274",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "ROANOKE",
+		"State" : "AL",
+		"Latitude" : "+33.216876"
+	},
+	{
+		"Longitude" : "-085.552143",
+		"Zipcode" : "36275",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHEROKEE",
+		"City" : "SPRING GARDEN",
+		"State" : "AL",
+		"Latitude" : "+33.977829"
+	},
+	{
+		"Longitude" : "-085.480892",
+		"Zipcode" : "36276",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "WADLEY",
+		"State" : "AL",
+		"Latitude" : "+33.207578"
+	},
+	{
+		"Longitude" : "-085.835693",
+		"Zipcode" : "36277",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "WEAVER",
+		"State" : "AL",
+		"Latitude" : "+33.814080"
+	},
+	{
+		"Longitude" : "-085.498377",
+		"Zipcode" : "36278",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "WEDOWEE",
+		"State" : "AL",
+		"Latitude" : "+33.318053"
+	},
+	{
+		"Longitude" : "-085.870970",
+		"Zipcode" : "36279",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "WELLINGTON",
+		"State" : "AL",
+		"Latitude" : "+33.866182"
+	},
+	{
+		"Longitude" : "-085.372497",
+		"Zipcode" : "36280",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "WOODLAND",
+		"State" : "AL",
+		"Latitude" : "+33.351626"
+	},
+	{
+		"Longitude" : "-085.371845",
+		"Zipcode" : "36301",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "DOTHAN",
+		"State" : "AL",
+		"Latitude" : "+31.148124"
+	},
+	{
+		"Longitude" : "-085.355931",
+		"Zipcode" : "36302",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "DOTHAN",
+		"State" : "AL",
+		"Latitude" : "+31.156018"
+	},
+	{
+		"Longitude" : "-085.322984",
+		"Zipcode" : "36303",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "DOTHAN",
+		"State" : "AL",
+		"Latitude" : "+31.160148"
+	},
+	{
+		"Longitude" : "-085.355931",
+		"Zipcode" : "36304",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "DOTHAN",
+		"State" : "AL",
+		"Latitude" : "+31.156018"
+	},
+	{
+		"Longitude" : "-085.482800",
+		"Zipcode" : "36305",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "DOTHAN",
+		"State" : "AL",
+		"Latitude" : "+31.219697"
+	},
+	{
+		"Longitude" : "-085.222965",
+		"Zipcode" : "36310",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "ABBEVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.559402"
+	},
+	{
+		"Longitude" : "-085.633907",
+		"Zipcode" : "36311",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "ARITON",
+		"State" : "AL",
+		"Latitude" : "+31.455485"
+	},
+	{
+		"Longitude" : "-085.262314",
+		"Zipcode" : "36312",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "ASHFORD",
+		"State" : "AL",
+		"Latitude" : "+31.189627"
+	},
+	{
+		"Longitude" : "-085.813687",
+		"Zipcode" : "36313",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GENEVA",
+		"City" : "BELLWOOD",
+		"State" : "AL",
+		"Latitude" : "+31.150094"
+	},
+	{
+		"Longitude" : "-085.839340",
+		"Zipcode" : "36314",
+		"ZipClass" : "STANDARD",
+		"County" : "GENEVA",
+		"City" : "BLACK",
+		"State" : "AL",
+		"Latitude" : "+31.096354"
+	},
+	{
+		"Longitude" : "-085.813483",
+		"Zipcode" : "36316",
+		"ZipClass" : "STANDARD",
+		"County" : "GENEVA",
+		"City" : "CHANCELLOR",
+		"State" : "AL",
+		"Latitude" : "+31.176749"
+	},
+	{
+		"Longitude" : "-085.603458",
+		"Zipcode" : "36317",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "CLOPTON",
+		"State" : "AL",
+		"Latitude" : "+31.407872"
+	},
+	{
+		"Longitude" : "-085.946093",
+		"Zipcode" : "36318",
+		"ZipClass" : "STANDARD",
+		"County" : "GENEVA",
+		"City" : "COFFEE SPRINGS",
+		"State" : "AL",
+		"Latitude" : "+31.149764"
+	},
+	{
+		"Longitude" : "-085.171875",
+		"Zipcode" : "36319",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "COLUMBIA",
+		"State" : "AL",
+		"Latitude" : "+31.225140"
+	},
+	{
+		"Longitude" : "-085.314295",
+		"Zipcode" : "36320",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "COTTONWOOD",
+		"State" : "AL",
+		"Latitude" : "+31.099623"
+	},
+	{
+		"Longitude" : "-085.301373",
+		"Zipcode" : "36321",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "COWARTS",
+		"State" : "AL",
+		"Latitude" : "+31.202473"
+	},
+	{
+		"Longitude" : "-085.705129",
+		"Zipcode" : "36322",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "DALEVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.272415"
+	},
+	{
+		"Longitude" : "-086.083517",
+		"Zipcode" : "36323",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "ELBA",
+		"State" : "AL",
+		"Latitude" : "+31.407434"
+	},
+	{
+		"Longitude" : "-085.942956",
+		"Zipcode" : "36330",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "ENTERPRISE",
+		"State" : "AL",
+		"Latitude" : "+31.315846"
+	},
+	{
+		"Longitude" : "-085.903640",
+		"Zipcode" : "36331",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "ENTERPRISE",
+		"State" : "AL",
+		"Latitude" : "+31.297817"
+	},
+	{
+		"Longitude" : "-085.784393",
+		"Zipcode" : "36340",
+		"ZipClass" : "STANDARD",
+		"County" : "GENEVA",
+		"City" : "GENEVA",
+		"State" : "AL",
+		"Latitude" : "+31.053473"
+	},
+	{
+		"Longitude" : "-085.168005",
+		"Zipcode" : "36343",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "GORDON",
+		"State" : "AL",
+		"Latitude" : "+31.080374"
+	},
+	{
+		"Longitude" : "-085.690252",
+		"Zipcode" : "36344",
+		"ZipClass" : "STANDARD",
+		"County" : "GENEVA",
+		"City" : "HARTFORD",
+		"State" : "AL",
+		"Latitude" : "+31.105822"
+	},
+	{
+		"Longitude" : "-085.301240",
+		"Zipcode" : "36345",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "HEADLAND",
+		"State" : "AL",
+		"Latitude" : "+31.357917"
+	},
+	{
+		"Longitude" : "-085.970956",
+		"Zipcode" : "36346",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "JACK",
+		"State" : "AL",
+		"Latitude" : "+31.565157"
+	},
+	{
+		"Longitude" : "-085.559235",
+		"Zipcode" : "36349",
+		"ZipClass" : "STANDARD",
+		"County" : "GENEVA",
+		"City" : "MALVERN",
+		"State" : "AL",
+		"Latitude" : "+31.121244"
+	},
+	{
+		"Longitude" : "-085.511331",
+		"Zipcode" : "36350",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "MIDLAND CITY",
+		"State" : "AL",
+		"Latitude" : "+31.334940"
+	},
+	{
+		"Longitude" : "-085.927933",
+		"Zipcode" : "36351",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "NEW BROCKTON",
+		"State" : "AL",
+		"Latitude" : "+31.398322"
+	},
+	{
+		"Longitude" : "-085.659319",
+		"Zipcode" : "36352",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "NEWTON",
+		"State" : "AL",
+		"Latitude" : "+31.352897"
+	},
+	{
+		"Longitude" : "-085.366472",
+		"Zipcode" : "36353",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "NEWVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.411109"
+	},
+	{
+		"Longitude" : "-085.651820",
+		"Zipcode" : "36360",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "OZARK",
+		"State" : "AL",
+		"Latitude" : "+31.450171"
+	},
+	{
+		"Longitude" : "-085.603458",
+		"Zipcode" : "36361",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "OZARK",
+		"State" : "AL",
+		"Latitude" : "+31.407872"
+	},
+	{
+		"Longitude" : "-085.737811",
+		"Zipcode" : "36362",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "FORT RUCKER",
+		"State" : "AL",
+		"Latitude" : "+31.327347"
+	},
+	{
+		"Longitude" : "-085.157345",
+		"Zipcode" : "36370",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "PANSEY",
+		"State" : "AL",
+		"Latitude" : "+31.140310"
+	},
+	{
+		"Longitude" : "-085.526330",
+		"Zipcode" : "36371",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DALE",
+		"City" : "PINCKARD",
+		"State" : "AL",
+		"Latitude" : "+31.307446"
+	},
+	{
+		"Longitude" : "-085.113506",
+		"Zipcode" : "36373",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "SHORTERVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.501042"
+	},
+	{
+		"Longitude" : "-085.536957",
+		"Zipcode" : "36374",
+		"ZipClass" : "STANDARD",
+		"County" : "DALE",
+		"City" : "SKIPPERVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.574779"
+	},
+	{
+		"Longitude" : "-085.564508",
+		"Zipcode" : "36375",
+		"ZipClass" : "STANDARD",
+		"County" : "GENEVA",
+		"City" : "SLOCOMB",
+		"State" : "AL",
+		"Latitude" : "+31.137138"
+	},
+	{
+		"Longitude" : "-085.264387",
+		"Zipcode" : "36376",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "WEBB",
+		"State" : "AL",
+		"Latitude" : "+31.252306"
+	},
+	{
+		"Longitude" : "-087.052004",
+		"Zipcode" : "36401",
+		"ZipClass" : "STANDARD",
+		"County" : "CONECUH",
+		"City" : "EVERGREEN",
+		"State" : "AL",
+		"Latitude" : "+31.489241"
+	},
+	{
+		"Longitude" : "-086.386398",
+		"Zipcode" : "36420",
+		"ZipClass" : "STANDARD",
+		"County" : "COVINGTON",
+		"City" : "ANDALUSIA",
+		"State" : "AL",
+		"Latitude" : "+31.304166"
+	},
+	{
+		"Longitude" : "-087.250028",
+		"Zipcode" : "36425",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BEATRICE",
+		"State" : "AL",
+		"Latitude" : "+31.567790"
+	},
+	{
+		"Longitude" : "-087.096126",
+		"Zipcode" : "36426",
+		"ZipClass" : "STANDARD",
+		"County" : "ESCAMBIA",
+		"City" : "BREWTON",
+		"State" : "AL",
+		"Latitude" : "+31.129427"
+	},
+	{
+		"Longitude" : "-087.264040",
+		"Zipcode" : "36427",
+		"ZipClass" : "STANDARD",
+		"County" : "ESCAMBIA",
+		"City" : "BREWTON",
+		"State" : "AL",
+		"Latitude" : "+31.091784"
+	},
+	{
+		"Longitude" : "-087.044687",
+		"Zipcode" : "36429",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CONECUH",
+		"City" : "BROOKLYN",
+		"State" : "AL",
+		"Latitude" : "+31.466945"
+	},
+	{
+		"Longitude" : "-087.345345",
+		"Zipcode" : "36431",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "BURNT CORN",
+		"State" : "AL",
+		"Latitude" : "+31.529531"
+	},
+	{
+		"Longitude" : "-086.998104",
+		"Zipcode" : "36432",
+		"ZipClass" : "STANDARD",
+		"County" : "CONECUH",
+		"City" : "CASTLEBERRY",
+		"State" : "AL",
+		"Latitude" : "+31.370941"
+	},
+	{
+		"Longitude" : "-087.412893",
+		"Zipcode" : "36435",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "COY",
+		"State" : "AL",
+		"Latitude" : "+31.871803"
+	},
+	{
+		"Longitude" : "-087.840875",
+		"Zipcode" : "36436",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "DICKINSON",
+		"State" : "AL",
+		"Latitude" : "+31.588420"
+	},
+	{
+		"Longitude" : "-087.339329",
+		"Zipcode" : "36439",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "EXCEL",
+		"State" : "AL",
+		"Latitude" : "+31.429472"
+	},
+	{
+		"Longitude" : "-087.199942",
+		"Zipcode" : "36441",
+		"ZipClass" : "STANDARD",
+		"County" : "ESCAMBIA",
+		"City" : "FLOMATON",
+		"State" : "AL",
+		"Latitude" : "+31.060013"
+	},
+	{
+		"Longitude" : "-086.329568",
+		"Zipcode" : "36442",
+		"ZipClass" : "STANDARD",
+		"County" : "COVINGTON",
+		"City" : "FLORALA",
+		"State" : "AL",
+		"Latitude" : "+31.019653"
+	},
+	{
+		"Longitude" : "-087.447935",
+		"Zipcode" : "36444",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "FRANKLIN",
+		"State" : "AL",
+		"Latitude" : "+31.590428"
+	},
+	{
+		"Longitude" : "-087.381527",
+		"Zipcode" : "36445",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "FRISCO CITY",
+		"State" : "AL",
+		"Latitude" : "+31.522005"
+	},
+	{
+		"Longitude" : "-087.741085",
+		"Zipcode" : "36446",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "FULTON",
+		"State" : "AL",
+		"Latitude" : "+31.782639"
+	},
+	{
+		"Longitude" : "-087.345345",
+		"Zipcode" : "36449",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "GOODWAY",
+		"State" : "AL",
+		"Latitude" : "+31.529531"
+	},
+	{
+		"Longitude" : "-087.801307",
+		"Zipcode" : "36451",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "GROVE HILL",
+		"State" : "AL",
+		"Latitude" : "+31.704953"
+	},
+	{
+		"Longitude" : "-086.124023",
+		"Zipcode" : "36453",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEE",
+		"City" : "KINSTON",
+		"State" : "AL",
+		"Latitude" : "+31.238943"
+	},
+	{
+		"Longitude" : "-087.044687",
+		"Zipcode" : "36454",
+		"ZipClass" : "STANDARD",
+		"County" : "CONECUH",
+		"City" : "LENOX",
+		"State" : "AL",
+		"Latitude" : "+31.466945"
+	},
+	{
+		"Longitude" : "-086.444833",
+		"Zipcode" : "36455",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COVINGTON",
+		"City" : "LOCKHART",
+		"State" : "AL",
+		"Latitude" : "+31.260882"
+	},
+	{
+		"Longitude" : "-086.713793",
+		"Zipcode" : "36456",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "MC KENZIE",
+		"State" : "AL",
+		"Latitude" : "+31.546733"
+	},
+	{
+		"Longitude" : "-087.435279",
+		"Zipcode" : "36457",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "MEGARGEL",
+		"State" : "AL",
+		"Latitude" : "+31.361214"
+	},
+	{
+		"Longitude" : "-087.408362",
+		"Zipcode" : "36458",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "MEXIA",
+		"State" : "AL",
+		"Latitude" : "+31.514659"
+	},
+	{
+		"Longitude" : "-087.314222",
+		"Zipcode" : "36460",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "MONROEVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.567130"
+	},
+	{
+		"Longitude" : "-087.341108",
+		"Zipcode" : "36461",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "MONROEVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.522093"
+	},
+	{
+		"Longitude" : "-087.345345",
+		"Zipcode" : "36462",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONROE",
+		"City" : "MONROEVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.529531"
+	},
+	{
+		"Longitude" : "-086.356208",
+		"Zipcode" : "36467",
+		"ZipClass" : "STANDARD",
+		"County" : "COVINGTON",
+		"City" : "OPP",
+		"State" : "AL",
+		"Latitude" : "+31.260401"
+	},
+	{
+		"Longitude" : "-087.428429",
+		"Zipcode" : "36470",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "PERDUE HILL",
+		"State" : "AL",
+		"Latitude" : "+31.508073"
+	},
+	{
+		"Longitude" : "-087.219440",
+		"Zipcode" : "36471",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "PETERMAN",
+		"State" : "AL",
+		"Latitude" : "+31.606263"
+	},
+	{
+		"Longitude" : "-087.044687",
+		"Zipcode" : "36473",
+		"ZipClass" : "STANDARD",
+		"County" : "CONECUH",
+		"City" : "RANGE",
+		"State" : "AL",
+		"Latitude" : "+31.466945"
+	},
+	{
+		"Longitude" : "-086.444833",
+		"Zipcode" : "36474",
+		"ZipClass" : "STANDARD",
+		"County" : "COVINGTON",
+		"City" : "RED LEVEL",
+		"State" : "AL",
+		"Latitude" : "+31.260882"
+	},
+	{
+		"Longitude" : "-087.298377",
+		"Zipcode" : "36475",
+		"ZipClass" : "STANDARD",
+		"County" : "CONECUH",
+		"City" : "REPTON",
+		"State" : "AL",
+		"Latitude" : "+31.371175"
+	},
+	{
+		"Longitude" : "-086.444833",
+		"Zipcode" : "36476",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COVINGTON",
+		"City" : "RIVER FALLS",
+		"State" : "AL",
+		"Latitude" : "+31.260882"
+	},
+	{
+		"Longitude" : "-086.113647",
+		"Zipcode" : "36477",
+		"ZipClass" : "STANDARD",
+		"County" : "GENEVA",
+		"City" : "SAMSON",
+		"State" : "AL",
+		"Latitude" : "+31.071810"
+	},
+	{
+		"Longitude" : "-087.500236",
+		"Zipcode" : "36480",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "URIAH",
+		"State" : "AL",
+		"Latitude" : "+31.541789"
+	},
+	{
+		"Longitude" : "-087.316372",
+		"Zipcode" : "36481",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "VREDENBURGH",
+		"State" : "AL",
+		"Latitude" : "+31.808458"
+	},
+	{
+		"Longitude" : "-087.675884",
+		"Zipcode" : "36482",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "WHATLEY",
+		"State" : "AL",
+		"Latitude" : "+31.674480"
+	},
+	{
+		"Longitude" : "-086.629331",
+		"Zipcode" : "36483",
+		"ZipClass" : "STANDARD",
+		"County" : "COVINGTON",
+		"City" : "WING",
+		"State" : "AL",
+		"Latitude" : "+31.022268"
+	},
+	{
+		"Longitude" : "-087.880106",
+		"Zipcode" : "36501",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ALMA",
+		"State" : "AL",
+		"Latitude" : "+31.482494"
+	},
+	{
+		"Longitude" : "-087.470001",
+		"Zipcode" : "36502",
+		"ZipClass" : "STANDARD",
+		"County" : "ESCAMBIA",
+		"City" : "ATMORE",
+		"State" : "AL",
+		"Latitude" : "+31.119972"
+	},
+	{
+		"Longitude" : "-087.152068",
+		"Zipcode" : "36503",
+		"ZipClass" : "STANDARD",
+		"County" : "ESCAMBIA",
+		"City" : "ATMORE",
+		"State" : "AL",
+		"Latitude" : "+31.128242"
+	},
+	{
+		"Longitude" : "-087.497165",
+		"Zipcode" : "36504",
+		"ZipClass" : "STANDARD",
+		"County" : "ESCAMBIA",
+		"City" : "ATMORE",
+		"State" : "AL",
+		"Latitude" : "+31.015817"
+	},
+	{
+		"Longitude" : "-088.015868",
+		"Zipcode" : "36505",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "AXIS",
+		"State" : "AL",
+		"Latitude" : "+30.939368"
+	},
+	{
+		"Longitude" : "-087.756371",
+		"Zipcode" : "36507",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "BAY MINETTE",
+		"State" : "AL",
+		"Latitude" : "+30.763492"
+	},
+	{
+		"Longitude" : "-088.253643",
+		"Zipcode" : "36509",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "BAYOU LA BATRE",
+		"State" : "AL",
+		"Latitude" : "+30.419006"
+	},
+	{
+		"Longitude" : "-087.753507",
+		"Zipcode" : "36511",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "BON SECOUR",
+		"State" : "AL",
+		"Latitude" : "+30.465497"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36512",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOBILE",
+		"City" : "BUCKS",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.175846",
+		"Zipcode" : "36513",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "CALVERT",
+		"State" : "AL",
+		"Latitude" : "+31.406683"
+	},
+	{
+		"Longitude" : "-087.840875",
+		"Zipcode" : "36515",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "CARLTON",
+		"State" : "AL",
+		"Latitude" : "+31.588420"
+	},
+	{
+		"Longitude" : "-088.245363",
+		"Zipcode" : "36518",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CHATOM",
+		"State" : "AL",
+		"Latitude" : "+31.436682"
+	},
+	{
+		"Longitude" : "-088.181921",
+		"Zipcode" : "36521",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "CHUNCHULA",
+		"State" : "AL",
+		"Latitude" : "+30.929148"
+	},
+	{
+		"Longitude" : "-088.273482",
+		"Zipcode" : "36522",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "CITRONELLE",
+		"State" : "AL",
+		"Latitude" : "+30.798501"
+	},
+	{
+		"Longitude" : "-088.207586",
+		"Zipcode" : "36523",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "CODEN",
+		"State" : "AL",
+		"Latitude" : "+30.390301"
+	},
+	{
+		"Longitude" : "-088.061865",
+		"Zipcode" : "36524",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "COFFEEVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.816246"
+	},
+	{
+		"Longitude" : "-088.090905",
+		"Zipcode" : "36525",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "CREOLA",
+		"State" : "AL",
+		"Latitude" : "+30.944616"
+	},
+	{
+		"Longitude" : "-087.691200",
+		"Zipcode" : "36526",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "DAPHNE",
+		"State" : "AL",
+		"Latitude" : "+30.540328"
+	},
+	{
+		"Longitude" : "-087.900287",
+		"Zipcode" : "36527",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "SPANISH FORT",
+		"State" : "AL",
+		"Latitude" : "+30.737792"
+	},
+	{
+		"Longitude" : "-088.134900",
+		"Zipcode" : "36528",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "DAUPHIN ISLAND",
+		"State" : "AL",
+		"Latitude" : "+30.254867"
+	},
+	{
+		"Longitude" : "-088.175846",
+		"Zipcode" : "36529",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "DEER PARK",
+		"State" : "AL",
+		"Latitude" : "+31.406683"
+	},
+	{
+		"Longitude" : "-087.549041",
+		"Zipcode" : "36530",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "ELBERTA",
+		"State" : "AL",
+		"Latitude" : "+30.412773"
+	},
+	{
+		"Longitude" : "-087.810464",
+		"Zipcode" : "36532",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "FAIRHOPE",
+		"State" : "AL",
+		"Latitude" : "+30.562883"
+	},
+	{
+		"Longitude" : "-087.860613",
+		"Zipcode" : "36533",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "FAIRHOPE",
+		"State" : "AL",
+		"Latitude" : "+30.484131"
+	},
+	{
+		"Longitude" : "-087.692401",
+		"Zipcode" : "36535",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "FOLEY",
+		"State" : "AL",
+		"Latitude" : "+30.467608"
+	},
+	{
+		"Longitude" : "-087.706371",
+		"Zipcode" : "36536",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "FOLEY",
+		"State" : "AL",
+		"Latitude" : "+30.422160"
+	},
+	{
+		"Longitude" : "-088.175846",
+		"Zipcode" : "36538",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FRANKVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.406683"
+	},
+	{
+		"Longitude" : "-088.175846",
+		"Zipcode" : "36539",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FRUITDALE",
+		"State" : "AL",
+		"Latitude" : "+31.406683"
+	},
+	{
+		"Longitude" : "-087.840875",
+		"Zipcode" : "36540",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "GAINESTOWN",
+		"State" : "AL",
+		"Latitude" : "+31.588420"
+	},
+	{
+		"Longitude" : "-088.332468",
+		"Zipcode" : "36541",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "GRAND BAY",
+		"State" : "AL",
+		"Latitude" : "+30.498046"
+	},
+	{
+		"Longitude" : "-087.794246",
+		"Zipcode" : "36542",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "GULF SHORES",
+		"State" : "AL",
+		"Latitude" : "+30.284936"
+	},
+	{
+		"Longitude" : "-087.461537",
+		"Zipcode" : "36543",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ESCAMBIA",
+		"City" : "HUXFORD",
+		"State" : "AL",
+		"Latitude" : "+31.216132"
+	},
+	{
+		"Longitude" : "-088.232843",
+		"Zipcode" : "36544",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "IRVINGTON",
+		"State" : "AL",
+		"Latitude" : "+30.479141"
+	},
+	{
+		"Longitude" : "-087.898539",
+		"Zipcode" : "36545",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "JACKSON",
+		"State" : "AL",
+		"Latitude" : "+31.592985"
+	},
+	{
+		"Longitude" : "-087.629926",
+		"Zipcode" : "36547",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "GULF SHORES",
+		"State" : "AL",
+		"Latitude" : "+30.265325"
+	},
+	{
+		"Longitude" : "-088.175846",
+		"Zipcode" : "36548",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LEROY",
+		"State" : "AL",
+		"Latitude" : "+31.406683"
+	},
+	{
+		"Longitude" : "-087.458796",
+		"Zipcode" : "36549",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "LILLIAN",
+		"State" : "AL",
+		"Latitude" : "+30.397360"
+	},
+	{
+		"Longitude" : "-087.713373",
+		"Zipcode" : "36550",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "LITTLE RIVER",
+		"State" : "AL",
+		"Latitude" : "+31.228960"
+	},
+	{
+		"Longitude" : "-087.667604",
+		"Zipcode" : "36551",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "LOXLEY",
+		"State" : "AL",
+		"Latitude" : "+30.513519"
+	},
+	{
+		"Longitude" : "-088.075266",
+		"Zipcode" : "36553",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MC INTOSH",
+		"State" : "AL",
+		"Latitude" : "+31.209178"
+	},
+	{
+		"Longitude" : "-087.796011",
+		"Zipcode" : "36555",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "MAGNOLIA SPRINGS",
+		"State" : "AL",
+		"Latitude" : "+30.427641"
+	},
+	{
+		"Longitude" : "-088.175846",
+		"Zipcode" : "36556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "MALCOLM",
+		"State" : "AL",
+		"Latitude" : "+31.406683"
+	},
+	{
+		"Longitude" : "-088.294124",
+		"Zipcode" : "36558",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MILLRY",
+		"State" : "AL",
+		"Latitude" : "+31.553004"
+	},
+	{
+		"Longitude" : "-087.900545",
+		"Zipcode" : "36559",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALDWIN",
+		"City" : "MONTROSE",
+		"State" : "AL",
+		"Latitude" : "+30.562308"
+	},
+	{
+		"Longitude" : "-088.057203",
+		"Zipcode" : "36560",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOUNT VERNON",
+		"State" : "AL",
+		"Latitude" : "+31.080313"
+	},
+	{
+		"Longitude" : "-087.581457",
+		"Zipcode" : "36561",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "ORANGE BEACH",
+		"State" : "AL",
+		"Latitude" : "+30.281046"
+	},
+	{
+		"Longitude" : "-087.666699",
+		"Zipcode" : "36562",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "PERDIDO",
+		"State" : "AL",
+		"Latitude" : "+31.040286"
+	},
+	{
+		"Longitude" : "-087.917867",
+		"Zipcode" : "36564",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALDWIN",
+		"City" : "POINT CLEAR",
+		"State" : "AL",
+		"Latitude" : "+30.475955"
+	},
+	{
+		"Longitude" : "-087.577231",
+		"Zipcode" : "36567",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "ROBERTSDALE",
+		"State" : "AL",
+		"Latitude" : "+30.749915"
+	},
+	{
+		"Longitude" : "-088.269865",
+		"Zipcode" : "36568",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOBILE",
+		"City" : "SAINT ELMO",
+		"State" : "AL",
+		"Latitude" : "+30.494340"
+	},
+	{
+		"Longitude" : "-088.090115",
+		"Zipcode" : "36569",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT STEPHENS",
+		"State" : "AL",
+		"Latitude" : "+31.552362"
+	},
+	{
+		"Longitude" : "-087.840875",
+		"Zipcode" : "36570",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "SALITPA",
+		"State" : "AL",
+		"Latitude" : "+31.588420"
+	},
+	{
+		"Longitude" : "-088.118401",
+		"Zipcode" : "36571",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "SARALAND",
+		"State" : "AL",
+		"Latitude" : "+30.869984"
+	},
+	{
+		"Longitude" : "-088.087879",
+		"Zipcode" : "36572",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "SATSUMA",
+		"State" : "AL",
+		"Latitude" : "+30.585158"
+	},
+	{
+		"Longitude" : "-087.603901",
+		"Zipcode" : "36574",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "SEMINOLE",
+		"State" : "AL",
+		"Latitude" : "+30.517150"
+	},
+	{
+		"Longitude" : "-088.272544",
+		"Zipcode" : "36575",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "SEMMES",
+		"State" : "AL",
+		"Latitude" : "+30.779545"
+	},
+	{
+		"Longitude" : "-087.735000",
+		"Zipcode" : "36576",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "SILVERHILL",
+		"State" : "AL",
+		"Latitude" : "+30.527068"
+	},
+	{
+		"Longitude" : "-087.701950",
+		"Zipcode" : "36577",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "SPANISH FORT",
+		"State" : "AL",
+		"Latitude" : "+30.732789"
+	},
+	{
+		"Longitude" : "-087.728987",
+		"Zipcode" : "36578",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALDWIN",
+		"City" : "STAPLETON",
+		"State" : "AL",
+		"Latitude" : "+30.858520"
+	},
+	{
+		"Longitude" : "-087.798576",
+		"Zipcode" : "36579",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "STOCKTON",
+		"State" : "AL",
+		"Latitude" : "+31.079113"
+	},
+	{
+		"Longitude" : "-087.703035",
+		"Zipcode" : "36580",
+		"ZipClass" : "STANDARD",
+		"County" : "BALDWIN",
+		"City" : "SUMMERDALE",
+		"State" : "AL",
+		"Latitude" : "+30.468691"
+	},
+	{
+		"Longitude" : "-088.012236",
+		"Zipcode" : "36581",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "SUNFLOWER",
+		"State" : "AL",
+		"Latitude" : "+31.369572"
+	},
+	{
+		"Longitude" : "-088.202250",
+		"Zipcode" : "36582",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "THEODORE",
+		"State" : "AL",
+		"Latitude" : "+30.486565"
+	},
+	{
+		"Longitude" : "-088.175846",
+		"Zipcode" : "36583",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "TIBBIE",
+		"State" : "AL",
+		"Latitude" : "+31.406683"
+	},
+	{
+		"Longitude" : "-088.393047",
+		"Zipcode" : "36584",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "VINEGAR BEND",
+		"State" : "AL",
+		"Latitude" : "+31.213691"
+	},
+	{
+		"Longitude" : "-088.175846",
+		"Zipcode" : "36585",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WAGARVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.406683"
+	},
+	{
+		"Longitude" : "-087.840875",
+		"Zipcode" : "36586",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "WALKER SPRINGS",
+		"State" : "AL",
+		"Latitude" : "+31.588420"
+	},
+	{
+		"Longitude" : "-088.318487",
+		"Zipcode" : "36587",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "WILMER",
+		"State" : "AL",
+		"Latitude" : "+30.812649"
+	},
+	{
+		"Longitude" : "-088.253278",
+		"Zipcode" : "36590",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "THEODORE",
+		"State" : "AL",
+		"Latitude" : "+30.487953"
+	},
+	{
+		"Longitude" : "-088.103184",
+		"Zipcode" : "36601",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.701142"
+	},
+	{
+		"Longitude" : "-088.046698",
+		"Zipcode" : "36602",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.692389"
+	},
+	{
+		"Longitude" : "-088.057773",
+		"Zipcode" : "36603",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.691170"
+	},
+	{
+		"Longitude" : "-088.067048",
+		"Zipcode" : "36604",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.684039"
+	},
+	{
+		"Longitude" : "-088.118975",
+		"Zipcode" : "36605",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.601842"
+	},
+	{
+		"Longitude" : "-088.105200",
+		"Zipcode" : "36606",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.667090"
+	},
+	{
+		"Longitude" : "-088.088073",
+		"Zipcode" : "36607",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.788123"
+	},
+	{
+		"Longitude" : "-088.254450",
+		"Zipcode" : "36608",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.639867"
+	},
+	{
+		"Longitude" : "-088.185603",
+		"Zipcode" : "36609",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.551887"
+	},
+	{
+		"Longitude" : "-088.078949",
+		"Zipcode" : "36610",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.730900"
+	},
+	{
+		"Longitude" : "-088.110850",
+		"Zipcode" : "36611",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.768787"
+	},
+	{
+		"Longitude" : "-088.118001",
+		"Zipcode" : "36612",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.747387"
+	},
+	{
+		"Longitude" : "-088.196296",
+		"Zipcode" : "36613",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "EIGHT MILE",
+		"State" : "AL",
+		"Latitude" : "+30.769758"
+	},
+	{
+		"Longitude" : "-088.211103",
+		"Zipcode" : "36614",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.601892"
+	},
+	{
+		"Longitude" : "-088.062248",
+		"Zipcode" : "36615",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.641090"
+	},
+	{
+		"Longitude" : "-088.126656",
+		"Zipcode" : "36616",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.671048"
+	},
+	{
+		"Longitude" : "-088.096000",
+		"Zipcode" : "36617",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.715588"
+	},
+	{
+		"Longitude" : "-088.149001",
+		"Zipcode" : "36618",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.681689"
+	},
+	{
+		"Longitude" : "-088.216493",
+		"Zipcode" : "36619",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.462987"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36621",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36622",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36623",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36625",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36626",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36628",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36630",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36631",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36633",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36640",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36641",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36644",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36652",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36660",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.231726",
+		"Zipcode" : "36663",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.819010"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36670",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36671",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36675",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36685",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.173652",
+		"Zipcode" : "36688",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.696589"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36689",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36690",
+		"ZipClass" : "UNIQUE",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.177975",
+		"Zipcode" : "36691",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.658865"
+	},
+	{
+		"Longitude" : "-088.174502",
+		"Zipcode" : "36693",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.635741"
+	},
+	{
+		"Longitude" : "-088.226989",
+		"Zipcode" : "36695",
+		"ZipClass" : "STANDARD",
+		"County" : "MOBILE",
+		"City" : "MOBILE",
+		"State" : "AL",
+		"Latitude" : "+30.666959"
+	},
+	{
+		"Longitude" : "-087.055532",
+		"Zipcode" : "36701",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "SELMA",
+		"State" : "AL",
+		"Latitude" : "+32.433720"
+	},
+	{
+		"Longitude" : "-087.124708",
+		"Zipcode" : "36702",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "SELMA",
+		"State" : "AL",
+		"Latitude" : "+32.419259"
+	},
+	{
+		"Longitude" : "-086.959844",
+		"Zipcode" : "36703",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "SELMA",
+		"State" : "AL",
+		"Latitude" : "+32.467164"
+	},
+	{
+		"Longitude" : "-087.354953",
+		"Zipcode" : "36720",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "ALBERTA",
+		"State" : "AL",
+		"Latitude" : "+32.145564"
+	},
+	{
+		"Longitude" : "-087.262260",
+		"Zipcode" : "36721",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "ANNEMANIE",
+		"State" : "AL",
+		"Latitude" : "+32.048079"
+	},
+	{
+		"Longitude" : "-087.569778",
+		"Zipcode" : "36722",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "ARLINGTON",
+		"State" : "AL",
+		"Latitude" : "+32.051214"
+	},
+	{
+		"Longitude" : "-087.294855",
+		"Zipcode" : "36723",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILCOX",
+		"City" : "BOYKIN",
+		"State" : "AL",
+		"Latitude" : "+32.082415"
+	},
+	{
+		"Longitude" : "-087.351944",
+		"Zipcode" : "36726",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "CAMDEN",
+		"State" : "AL",
+		"Latitude" : "+31.998366"
+	},
+	{
+		"Longitude" : "-087.840875",
+		"Zipcode" : "36727",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "CAMPBELL",
+		"State" : "AL",
+		"Latitude" : "+31.588420"
+	},
+	{
+		"Longitude" : "-087.467873",
+		"Zipcode" : "36728",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "CATHERINE",
+		"State" : "AL",
+		"Latitude" : "+32.192472"
+	},
+	{
+		"Longitude" : "-087.824556",
+		"Zipcode" : "36732",
+		"ZipClass" : "STANDARD",
+		"County" : "MARENGO",
+		"City" : "DEMOPOLIS",
+		"State" : "AL",
+		"Latitude" : "+32.384949"
+	},
+	{
+		"Longitude" : "-087.776110",
+		"Zipcode" : "36736",
+		"ZipClass" : "STANDARD",
+		"County" : "MARENGO",
+		"City" : "DIXONS MILLS",
+		"State" : "AL",
+		"Latitude" : "+32.261286"
+	},
+	{
+		"Longitude" : "-087.721033",
+		"Zipcode" : "36738",
+		"ZipClass" : "STANDARD",
+		"County" : "MARENGO",
+		"City" : "FAUNSDALE",
+		"State" : "AL",
+		"Latitude" : "+32.365963"
+	},
+	{
+		"Longitude" : "-087.844122",
+		"Zipcode" : "36740",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "FORKLAND",
+		"State" : "AL",
+		"Latitude" : "+32.610762"
+	},
+	{
+		"Longitude" : "-086.981703",
+		"Zipcode" : "36741",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILCOX",
+		"City" : "FURMAN",
+		"State" : "AL",
+		"Latitude" : "+32.006129"
+	},
+	{
+		"Longitude" : "-087.672092",
+		"Zipcode" : "36742",
+		"ZipClass" : "STANDARD",
+		"County" : "HALE",
+		"City" : "GALLION",
+		"State" : "AL",
+		"Latitude" : "+32.524180"
+	},
+	{
+		"Longitude" : "-087.586079",
+		"Zipcode" : "36744",
+		"ZipClass" : "STANDARD",
+		"County" : "HALE",
+		"City" : "GREENSBORO",
+		"State" : "AL",
+		"Latitude" : "+32.699872"
+	},
+	{
+		"Longitude" : "-087.898611",
+		"Zipcode" : "36745",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARENGO",
+		"City" : "JEFFERSON",
+		"State" : "AL",
+		"Latitude" : "+32.414036"
+	},
+	{
+		"Longitude" : "-087.749847",
+		"Zipcode" : "36748",
+		"ZipClass" : "STANDARD",
+		"County" : "MARENGO",
+		"City" : "LINDEN",
+		"State" : "AL",
+		"Latitude" : "+32.321943"
+	},
+	{
+		"Longitude" : "-086.813834",
+		"Zipcode" : "36749",
+		"ZipClass" : "STANDARD",
+		"County" : "AUTAUGA",
+		"City" : "JONES",
+		"State" : "AL",
+		"Latitude" : "+32.510383"
+	},
+	{
+		"Longitude" : "-086.843808",
+		"Zipcode" : "36750",
+		"ZipClass" : "STANDARD",
+		"County" : "CHILTON",
+		"City" : "MAPLESVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.832170"
+	},
+	{
+		"Longitude" : "-087.577911",
+		"Zipcode" : "36751",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "LOWER PEACH TREE",
+		"State" : "AL",
+		"Latitude" : "+31.902773"
+	},
+	{
+		"Longitude" : "-086.647119",
+		"Zipcode" : "36752",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "LOWNDESBORO",
+		"State" : "AL",
+		"Latitude" : "+32.294321"
+	},
+	{
+		"Longitude" : "-087.262260",
+		"Zipcode" : "36753",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILCOX",
+		"City" : "MC WILLIAMS",
+		"State" : "AL",
+		"Latitude" : "+32.048079"
+	},
+	{
+		"Longitude" : "-087.706019",
+		"Zipcode" : "36754",
+		"ZipClass" : "STANDARD",
+		"County" : "MARENGO",
+		"City" : "MAGNOLIA",
+		"State" : "AL",
+		"Latitude" : "+32.129123"
+	},
+	{
+		"Longitude" : "-087.350401",
+		"Zipcode" : "36756",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "MARION",
+		"State" : "AL",
+		"Latitude" : "+32.608995"
+	},
+	{
+		"Longitude" : "-087.076236",
+		"Zipcode" : "36758",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "PLANTERSVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.484147"
+	},
+	{
+		"Longitude" : "-087.262620",
+		"Zipcode" : "36759",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "MARION JUNCTION",
+		"State" : "AL",
+		"Latitude" : "+32.388235"
+	},
+	{
+		"Longitude" : "-087.063331",
+		"Zipcode" : "36761",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "MINTER",
+		"State" : "AL",
+		"Latitude" : "+32.189926"
+	},
+	{
+		"Longitude" : "-088.003360",
+		"Zipcode" : "36762",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "MORVIN",
+		"State" : "AL",
+		"Latitude" : "+31.940191"
+	},
+	{
+		"Longitude" : "-087.949363",
+		"Zipcode" : "36763",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARENGO",
+		"City" : "MYRTLEWOOD",
+		"State" : "AL",
+		"Latitude" : "+32.251626"
+	},
+	{
+		"Longitude" : "-087.795275",
+		"Zipcode" : "36764",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARENGO",
+		"City" : "NANAFALIA",
+		"State" : "AL",
+		"Latitude" : "+32.268329"
+	},
+	{
+		"Longitude" : "-087.566250",
+		"Zipcode" : "36765",
+		"ZipClass" : "STANDARD",
+		"County" : "HALE",
+		"City" : "NEWBERN",
+		"State" : "AL",
+		"Latitude" : "+32.588190"
+	},
+	{
+		"Longitude" : "-087.074497",
+		"Zipcode" : "36766",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILCOX",
+		"City" : "OAK HILL",
+		"State" : "AL",
+		"Latitude" : "+31.947005"
+	},
+	{
+		"Longitude" : "-087.219864",
+		"Zipcode" : "36767",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "ORRVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.289861"
+	},
+	{
+		"Longitude" : "-087.044855",
+		"Zipcode" : "36768",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "PINE APPLE",
+		"State" : "AL",
+		"Latitude" : "+31.932526"
+	},
+	{
+		"Longitude" : "-087.545406",
+		"Zipcode" : "36769",
+		"ZipClass" : "STANDARD",
+		"County" : "WILCOX",
+		"City" : "PINE HILL",
+		"State" : "AL",
+		"Latitude" : "+31.994807"
+	},
+	{
+		"Longitude" : "-087.376446",
+		"Zipcode" : "36773",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "SAFFORD",
+		"State" : "AL",
+		"Latitude" : "+32.322859"
+	},
+	{
+		"Longitude" : "-087.078655",
+		"Zipcode" : "36775",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "SARDIS",
+		"State" : "AL",
+		"Latitude" : "+32.213977"
+	},
+	{
+		"Longitude" : "-087.705829",
+		"Zipcode" : "36776",
+		"ZipClass" : "STANDARD",
+		"County" : "HALE",
+		"City" : "SAWYERVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.755975"
+	},
+	{
+		"Longitude" : "-087.054284",
+		"Zipcode" : "36778",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILCOX",
+		"City" : "SNOW HILL",
+		"State" : "AL",
+		"Latitude" : "+32.019980"
+	},
+	{
+		"Longitude" : "-087.271667",
+		"Zipcode" : "36779",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "SPROTT",
+		"State" : "AL",
+		"Latitude" : "+32.591207"
+	},
+	{
+		"Longitude" : "-087.832660",
+		"Zipcode" : "36782",
+		"ZipClass" : "STANDARD",
+		"County" : "MARENGO",
+		"City" : "SWEET WATER",
+		"State" : "AL",
+		"Latitude" : "+32.131469"
+	},
+	{
+		"Longitude" : "-087.678612",
+		"Zipcode" : "36783",
+		"ZipClass" : "STANDARD",
+		"County" : "MARENGO",
+		"City" : "THOMASTON",
+		"State" : "AL",
+		"Latitude" : "+32.302397"
+	},
+	{
+		"Longitude" : "-087.769476",
+		"Zipcode" : "36784",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "THOMASVILLE",
+		"State" : "AL",
+		"Latitude" : "+31.745135"
+	},
+	{
+		"Longitude" : "-086.864580",
+		"Zipcode" : "36785",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "TYLER",
+		"State" : "AL",
+		"Latitude" : "+32.323895"
+	},
+	{
+		"Longitude" : "-087.503256",
+		"Zipcode" : "36786",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "UNIONTOWN",
+		"State" : "AL",
+		"Latitude" : "+32.446243"
+	},
+	{
+		"Longitude" : "-086.875759",
+		"Zipcode" : "36790",
+		"ZipClass" : "STANDARD",
+		"County" : "CHILTON",
+		"City" : "STANTON",
+		"State" : "AL",
+		"Latitude" : "+32.723537"
+	},
+	{
+		"Longitude" : "-086.917506",
+		"Zipcode" : "36792",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "RANDOLPH",
+		"State" : "AL",
+		"Latitude" : "+32.931293"
+	},
+	{
+		"Longitude" : "-086.983385",
+		"Zipcode" : "36793",
+		"ZipClass" : "STANDARD",
+		"County" : "BIBB",
+		"City" : "LAWLEY",
+		"State" : "AL",
+		"Latitude" : "+32.891444"
+	},
+	{
+		"Longitude" : "-085.392878",
+		"Zipcode" : "36801",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "OPELIKA",
+		"State" : "AL",
+		"Latitude" : "+32.621147"
+	},
+	{
+		"Longitude" : "-085.349003",
+		"Zipcode" : "36802",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "OPELIKA",
+		"State" : "AL",
+		"Latitude" : "+32.578185"
+	},
+	{
+		"Longitude" : "-085.431517",
+		"Zipcode" : "36803",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "OPELIKA",
+		"State" : "AL",
+		"Latitude" : "+32.522567"
+	},
+	{
+		"Longitude" : "-085.311984",
+		"Zipcode" : "36804",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "OPELIKA",
+		"State" : "AL",
+		"Latitude" : "+32.576792"
+	},
+	{
+		"Longitude" : "-085.468222",
+		"Zipcode" : "36830",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "AUBURN",
+		"State" : "AL",
+		"Latitude" : "+32.547542"
+	},
+	{
+		"Longitude" : "-085.349003",
+		"Zipcode" : "36831",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "AUBURN",
+		"State" : "AL",
+		"Latitude" : "+32.578185"
+	},
+	{
+		"Longitude" : "-085.518913",
+		"Zipcode" : "36832",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "AUBURN",
+		"State" : "AL",
+		"Latitude" : "+32.592036"
+	},
+	{
+		"Longitude" : "-085.349003",
+		"Zipcode" : "36849",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "AUBURN UNIVERSITY",
+		"State" : "AL",
+		"Latitude" : "+32.578185"
+	},
+	{
+		"Longitude" : "-085.703776",
+		"Zipcode" : "36850",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAPOOSA",
+		"City" : "CAMP HILL",
+		"State" : "AL",
+		"Latitude" : "+32.808407"
+	},
+	{
+		"Longitude" : "-085.161497",
+		"Zipcode" : "36851",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RUSSELL",
+		"City" : "COTTONTON",
+		"State" : "AL",
+		"Latitude" : "+32.286092"
+	},
+	{
+		"Longitude" : "-085.275581",
+		"Zipcode" : "36852",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAMBERS",
+		"City" : "CUSSETA",
+		"State" : "AL",
+		"Latitude" : "+32.783137"
+	},
+	{
+		"Longitude" : "-085.744428",
+		"Zipcode" : "36853",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAPOOSA",
+		"City" : "DADEVILLE",
+		"State" : "AL",
+		"Latitude" : "+32.794796"
+	},
+	{
+		"Longitude" : "-085.264695",
+		"Zipcode" : "36854",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAMBERS",
+		"City" : "VALLEY",
+		"State" : "AL",
+		"Latitude" : "+32.885631"
+	},
+	{
+		"Longitude" : "-085.311223",
+		"Zipcode" : "36855",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAMBERS",
+		"City" : "FIVE POINTS",
+		"State" : "AL",
+		"Latitude" : "+32.919340"
+	},
+	{
+		"Longitude" : "-084.997165",
+		"Zipcode" : "36856",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "FORT MITCHELL",
+		"State" : "AL",
+		"Latitude" : "+32.296518"
+	},
+	{
+		"Longitude" : "-085.292938",
+		"Zipcode" : "36858",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "HATCHECHUBBEE",
+		"State" : "AL",
+		"Latitude" : "+32.295844"
+	},
+	{
+		"Longitude" : "-085.008178",
+		"Zipcode" : "36859",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RUSSELL",
+		"City" : "HOLY TRINITY",
+		"State" : "AL",
+		"Latitude" : "+32.229846"
+	},
+	{
+		"Longitude" : "-085.362330",
+		"Zipcode" : "36860",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "HURTSBORO",
+		"State" : "AL",
+		"Latitude" : "+32.238147"
+	},
+	{
+		"Longitude" : "-085.822787",
+		"Zipcode" : "36861",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAPOOSA",
+		"City" : "JACKSONS GAP",
+		"State" : "AL",
+		"Latitude" : "+32.900767"
+	},
+	{
+		"Longitude" : "-085.388079",
+		"Zipcode" : "36862",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAMBERS",
+		"City" : "LAFAYETTE",
+		"State" : "AL",
+		"Latitude" : "+32.912315"
+	},
+	{
+		"Longitude" : "-085.296659",
+		"Zipcode" : "36863",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAMBERS",
+		"City" : "LANETT",
+		"State" : "AL",
+		"Latitude" : "+32.900173"
+	},
+	{
+		"Longitude" : "-085.349003",
+		"Zipcode" : "36865",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "LOACHAPOKA",
+		"State" : "AL",
+		"Latitude" : "+32.578185"
+	},
+	{
+		"Longitude" : "-085.697354",
+		"Zipcode" : "36866",
+		"ZipClass" : "STANDARD",
+		"County" : "MACON",
+		"City" : "NOTASULGA",
+		"State" : "AL",
+		"Latitude" : "+32.536635"
+	},
+	{
+		"Longitude" : "-085.203923",
+		"Zipcode" : "36867",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "PHENIX CITY",
+		"State" : "AL",
+		"Latitude" : "+32.375318"
+	},
+	{
+		"Longitude" : "-085.020604",
+		"Zipcode" : "36868",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "PHENIX CITY",
+		"State" : "AL",
+		"Latitude" : "+32.464614"
+	},
+	{
+		"Longitude" : "-085.111997",
+		"Zipcode" : "36869",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "PHENIX CITY",
+		"State" : "AL",
+		"Latitude" : "+32.318701"
+	},
+	{
+		"Longitude" : "-085.123979",
+		"Zipcode" : "36870",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "PHENIX CITY",
+		"State" : "AL",
+		"Latitude" : "+32.478145"
+	},
+	{
+		"Longitude" : "-085.165575",
+		"Zipcode" : "36871",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "PITTSVIEW",
+		"State" : "AL",
+		"Latitude" : "+32.166569"
+	},
+	{
+		"Longitude" : "-085.349003",
+		"Zipcode" : "36872",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "VALLEY",
+		"State" : "AL",
+		"Latitude" : "+32.578185"
+	},
+	{
+		"Longitude" : "-085.217224",
+		"Zipcode" : "36874",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "SALEM",
+		"State" : "AL",
+		"Latitude" : "+32.580449"
+	},
+	{
+		"Longitude" : "-085.129772",
+		"Zipcode" : "36875",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "SEALE",
+		"State" : "AL",
+		"Latitude" : "+32.257831"
+	},
+	{
+		"Longitude" : "-085.091498",
+		"Zipcode" : "36877",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "SMITHS",
+		"State" : "AL",
+		"Latitude" : "+32.558314"
+	},
+	{
+		"Longitude" : "-085.565954",
+		"Zipcode" : "36879",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "WAVERLY",
+		"State" : "AL",
+		"Latitude" : "+32.681539"
+	},
+	{
+		"Longitude" : "-088.140634",
+		"Zipcode" : "36901",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUMTER",
+		"City" : "BELLAMY",
+		"State" : "AL",
+		"Latitude" : "+32.467134"
+	},
+	{
+		"Longitude" : "-088.273598",
+		"Zipcode" : "36904",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "BUTLER",
+		"State" : "AL",
+		"Latitude" : "+32.115939"
+	},
+	{
+		"Longitude" : "-088.200738",
+		"Zipcode" : "36906",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "CROMWELL",
+		"State" : "AL",
+		"Latitude" : "+32.004227"
+	},
+	{
+		"Longitude" : "-088.329881",
+		"Zipcode" : "36907",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "CUBA",
+		"State" : "AL",
+		"Latitude" : "+32.435545"
+	},
+	{
+		"Longitude" : "-088.323669",
+		"Zipcode" : "36908",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "GILBERTOWN",
+		"State" : "AL",
+		"Latitude" : "+31.922384"
+	},
+	{
+		"Longitude" : "-088.200738",
+		"Zipcode" : "36910",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "JACHIN",
+		"State" : "AL",
+		"Latitude" : "+32.004227"
+	},
+	{
+		"Longitude" : "-088.321388",
+		"Zipcode" : "36912",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "LISMAN",
+		"State" : "AL",
+		"Latitude" : "+32.233182"
+	},
+	{
+		"Longitude" : "-088.200738",
+		"Zipcode" : "36913",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "MELVIN",
+		"State" : "AL",
+		"Latitude" : "+32.004227"
+	},
+	{
+		"Longitude" : "-088.200738",
+		"Zipcode" : "36915",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "NEEDHAM",
+		"State" : "AL",
+		"Latitude" : "+32.004227"
+	},
+	{
+		"Longitude" : "-088.048983",
+		"Zipcode" : "36916",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "PENNINGTON",
+		"State" : "AL",
+		"Latitude" : "+32.209362"
+	},
+	{
+		"Longitude" : "-088.329110",
+		"Zipcode" : "36919",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "SILAS",
+		"State" : "AL",
+		"Latitude" : "+31.947815"
+	},
+	{
+		"Longitude" : "-088.151048",
+		"Zipcode" : "36921",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "TOXEY",
+		"State" : "AL",
+		"Latitude" : "+31.915506"
+	},
+	{
+		"Longitude" : "-088.065479",
+		"Zipcode" : "36922",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "WARD",
+		"State" : "AL",
+		"Latitude" : "+32.210259"
+	},
+	{
+		"Longitude" : "-088.193305",
+		"Zipcode" : "36925",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "YORK",
+		"State" : "AL",
+		"Latitude" : "+32.444907"
+	}
+]}

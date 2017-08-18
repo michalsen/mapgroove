@@ -1,0 +1,5655 @@
+{
+	"result":[
+	{
+		"Longitude" : "-096.949369",
+		"Zipcode" : "68001",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "ABIE",
+		"State" : "NE",
+		"Latitude" : "+41.332034"
+	},
+	{
+		"Longitude" : "-096.317932",
+		"Zipcode" : "68002",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ARLINGTON",
+		"State" : "NE",
+		"Latitude" : "+41.501979"
+	},
+	{
+		"Longitude" : "-096.577634",
+		"Zipcode" : "68003",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "ASHLAND",
+		"State" : "NE",
+		"Latitude" : "+41.102696"
+	},
+	{
+		"Longitude" : "-096.671008",
+		"Zipcode" : "68004",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMING",
+		"City" : "BANCROFT",
+		"State" : "NE",
+		"Latitude" : "+41.995729"
+	},
+	{
+		"Longitude" : "-095.903956",
+		"Zipcode" : "68005",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "BELLEVUE",
+		"State" : "NE",
+		"Latitude" : "+41.132948"
+	},
+	{
+		"Longitude" : "-096.203393",
+		"Zipcode" : "68007",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "BENNINGTON",
+		"State" : "NE",
+		"Latitude" : "+41.357015"
+	},
+	{
+		"Longitude" : "-096.176530",
+		"Zipcode" : "68008",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BLAIR",
+		"State" : "NE",
+		"Latitude" : "+41.543582"
+	},
+	{
+		"Longitude" : "-096.182295",
+		"Zipcode" : "68009",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BLAIR",
+		"State" : "NE",
+		"Latitude" : "+41.538270"
+	},
+	{
+		"Longitude" : "-096.133047",
+		"Zipcode" : "68010",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "BOYS TOWN",
+		"State" : "NE",
+		"Latitude" : "+41.258700"
+	},
+	{
+		"Longitude" : "-096.975393",
+		"Zipcode" : "68014",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "BRUNO",
+		"State" : "NE",
+		"Latitude" : "+41.278245"
+	},
+	{
+		"Longitude" : "-096.631576",
+		"Zipcode" : "68015",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "CEDAR BLUFFS",
+		"State" : "NE",
+		"Latitude" : "+41.365495"
+	},
+	{
+		"Longitude" : "-096.104359",
+		"Zipcode" : "68016",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASS",
+		"City" : "CEDAR CREEK",
+		"State" : "NE",
+		"Latitude" : "+41.042487"
+	},
+	{
+		"Longitude" : "-096.638116",
+		"Zipcode" : "68017",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "CERESCO",
+		"State" : "NE",
+		"Latitude" : "+41.096052"
+	},
+	{
+		"Longitude" : "-096.610014",
+		"Zipcode" : "68018",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "COLON",
+		"State" : "NE",
+		"Latitude" : "+41.307157"
+	},
+	{
+		"Longitude" : "-096.376462",
+		"Zipcode" : "68019",
+		"ZipClass" : "STANDARD",
+		"County" : "BURT",
+		"City" : "CRAIG",
+		"State" : "NE",
+		"Latitude" : "+41.792415"
+	},
+	{
+		"Longitude" : "-096.250681",
+		"Zipcode" : "68020",
+		"ZipClass" : "STANDARD",
+		"County" : "BURT",
+		"City" : "DECATUR",
+		"State" : "NE",
+		"Latitude" : "+41.974318"
+	},
+	{
+		"Longitude" : "-096.238818",
+		"Zipcode" : "68022",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "ELKHORN",
+		"State" : "NE",
+		"Latitude" : "+41.288631"
+	},
+	{
+		"Longitude" : "-096.023829",
+		"Zipcode" : "68023",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FORT CALHOUN",
+		"State" : "NE",
+		"Latitude" : "+41.447307"
+	},
+	{
+		"Longitude" : "-096.501672",
+		"Zipcode" : "68025",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "FREMONT",
+		"State" : "NE",
+		"Latitude" : "+41.487786"
+	},
+	{
+		"Longitude" : "-096.617443",
+		"Zipcode" : "68026",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "FREMONT",
+		"State" : "NE",
+		"Latitude" : "+41.567907"
+	},
+	{
+		"Longitude" : "-096.239744",
+		"Zipcode" : "68028",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "GRETNA",
+		"State" : "NE",
+		"Latitude" : "+41.098888"
+	},
+	{
+		"Longitude" : "-096.273735",
+		"Zipcode" : "68029",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HERMAN",
+		"State" : "NE",
+		"Latitude" : "+41.632560"
+	},
+	{
+		"Longitude" : "-096.465599",
+		"Zipcode" : "68030",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "HOMER",
+		"State" : "NE",
+		"Latitude" : "+42.332188"
+	},
+	{
+		"Longitude" : "-096.549316",
+		"Zipcode" : "68031",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "HOOPER",
+		"State" : "NE",
+		"Latitude" : "+41.621961"
+	},
+	{
+		"Longitude" : "-096.523011",
+		"Zipcode" : "68033",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "ITHACA",
+		"State" : "NE",
+		"Latitude" : "+41.147084"
+	},
+	{
+		"Longitude" : "-096.190348",
+		"Zipcode" : "68034",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "KENNARD",
+		"State" : "NE",
+		"Latitude" : "+41.452560"
+	},
+	{
+		"Longitude" : "-096.444769",
+		"Zipcode" : "68035",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "LESHARA",
+		"State" : "NE",
+		"Latitude" : "+41.339383"
+	},
+	{
+		"Longitude" : "-096.983695",
+		"Zipcode" : "68036",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "LINWOOD",
+		"State" : "NE",
+		"Latitude" : "+41.375639"
+	},
+	{
+		"Longitude" : "-096.084122",
+		"Zipcode" : "68037",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "LOUISVILLE",
+		"State" : "NE",
+		"Latitude" : "+40.979898"
+	},
+	{
+		"Longitude" : "-096.450944",
+		"Zipcode" : "68038",
+		"ZipClass" : "STANDARD",
+		"County" : "BURT",
+		"City" : "LYONS",
+		"State" : "NE",
+		"Latitude" : "+41.951479"
+	},
+	{
+		"Longitude" : "-096.545297",
+		"Zipcode" : "68039",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "MACY",
+		"State" : "NE",
+		"Latitude" : "+42.146597"
+	},
+	{
+		"Longitude" : "-096.647937",
+		"Zipcode" : "68040",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "MALMO",
+		"State" : "NE",
+		"Latitude" : "+41.270638"
+	},
+	{
+		"Longitude" : "-096.640076",
+		"Zipcode" : "68041",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "MEAD",
+		"State" : "NE",
+		"Latitude" : "+41.199990"
+	},
+	{
+		"Longitude" : "-096.430553",
+		"Zipcode" : "68042",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "MEMPHIS",
+		"State" : "NE",
+		"Latitude" : "+41.094587"
+	},
+	{
+		"Longitude" : "-096.520741",
+		"Zipcode" : "68044",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "NICKERSON",
+		"State" : "NE",
+		"Latitude" : "+41.536902"
+	},
+	{
+		"Longitude" : "-096.401432",
+		"Zipcode" : "68045",
+		"ZipClass" : "STANDARD",
+		"County" : "BURT",
+		"City" : "OAKLAND",
+		"State" : "NE",
+		"Latitude" : "+41.845492"
+	},
+	{
+		"Longitude" : "-096.060367",
+		"Zipcode" : "68046",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "PAPILLION",
+		"State" : "NE",
+		"Latitude" : "+41.118594"
+	},
+	{
+		"Longitude" : "-096.723917",
+		"Zipcode" : "68047",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "PENDER",
+		"State" : "NE",
+		"Latitude" : "+42.110449"
+	},
+	{
+		"Longitude" : "-096.001244",
+		"Zipcode" : "68048",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "PLATTSMOUTH",
+		"State" : "NE",
+		"Latitude" : "+40.971961"
+	},
+	{
+		"Longitude" : "-096.823281",
+		"Zipcode" : "68050",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "PRAGUE",
+		"State" : "NE",
+		"Latitude" : "+41.314461"
+	},
+	{
+		"Longitude" : "-096.070433",
+		"Zipcode" : "68054",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "RICHFIELD",
+		"State" : "NE",
+		"Latitude" : "+41.089048"
+	},
+	{
+		"Longitude" : "-096.513859",
+		"Zipcode" : "68055",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "ROSALIE",
+		"State" : "NE",
+		"Latitude" : "+42.056416"
+	},
+	{
+		"Longitude" : "-096.090546",
+		"Zipcode" : "68056",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "ST COLUMBANS",
+		"State" : "NE",
+		"Latitude" : "+41.092703"
+	},
+	{
+		"Longitude" : "-096.588672",
+		"Zipcode" : "68057",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "SCRIBNER",
+		"State" : "NE",
+		"Latitude" : "+41.567768"
+	},
+	{
+		"Longitude" : "-096.246207",
+		"Zipcode" : "68058",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASS",
+		"City" : "SOUTH BEND",
+		"State" : "NE",
+		"Latitude" : "+41.006712"
+	},
+	{
+		"Longitude" : "-096.184792",
+		"Zipcode" : "68059",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "SPRINGFIELD",
+		"State" : "NE",
+		"Latitude" : "+41.066988"
+	},
+	{
+		"Longitude" : "-096.255430",
+		"Zipcode" : "68061",
+		"ZipClass" : "STANDARD",
+		"County" : "BURT",
+		"City" : "TEKAMAH",
+		"State" : "NE",
+		"Latitude" : "+41.808435"
+	},
+	{
+		"Longitude" : "-096.545297",
+		"Zipcode" : "68062",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "THURSTON",
+		"State" : "NE",
+		"Latitude" : "+42.146597"
+	},
+	{
+		"Longitude" : "-096.503746",
+		"Zipcode" : "68063",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "UEHLING",
+		"State" : "NE",
+		"Latitude" : "+41.736896"
+	},
+	{
+		"Longitude" : "-096.344273",
+		"Zipcode" : "68064",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "VALLEY",
+		"State" : "NE",
+		"Latitude" : "+41.342714"
+	},
+	{
+		"Longitude" : "-096.831839",
+		"Zipcode" : "68065",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "VALPARAISO",
+		"State" : "NE",
+		"Latitude" : "+41.108919"
+	},
+	{
+		"Longitude" : "-096.669114",
+		"Zipcode" : "68066",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "WAHOO",
+		"State" : "NE",
+		"Latitude" : "+41.197043"
+	},
+	{
+		"Longitude" : "-096.493734",
+		"Zipcode" : "68067",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "WALTHILL",
+		"State" : "NE",
+		"Latitude" : "+42.149670"
+	},
+	{
+		"Longitude" : "-096.209006",
+		"Zipcode" : "68068",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "WASHINGTON",
+		"State" : "NE",
+		"Latitude" : "+41.395315"
+	},
+	{
+		"Longitude" : "-096.305914",
+		"Zipcode" : "68069",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "WATERLOO",
+		"State" : "NE",
+		"Latitude" : "+41.248299"
+	},
+	{
+		"Longitude" : "-096.758162",
+		"Zipcode" : "68070",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "WESTON",
+		"State" : "NE",
+		"Latitude" : "+41.207240"
+	},
+	{
+		"Longitude" : "-096.472847",
+		"Zipcode" : "68071",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "WINNEBAGO",
+		"State" : "NE",
+		"Latitude" : "+42.238161"
+	},
+	{
+		"Longitude" : "-096.503281",
+		"Zipcode" : "68072",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "WINSLOW",
+		"State" : "NE",
+		"Latitude" : "+41.610230"
+	},
+	{
+		"Longitude" : "-096.453285",
+		"Zipcode" : "68073",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "YUTAN",
+		"State" : "NE",
+		"Latitude" : "+41.211111"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68101",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-095.933564",
+		"Zipcode" : "68102",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.262003"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68103",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-095.998950",
+		"Zipcode" : "68104",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.295396"
+	},
+	{
+		"Longitude" : "-095.964396",
+		"Zipcode" : "68105",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.240468"
+	},
+	{
+		"Longitude" : "-095.999367",
+		"Zipcode" : "68106",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.239005"
+	},
+	{
+		"Longitude" : "-095.950312",
+		"Zipcode" : "68107",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.211348"
+	},
+	{
+		"Longitude" : "-095.964985",
+		"Zipcode" : "68108",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.238140"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68109",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-095.914481",
+		"Zipcode" : "68110",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.295598"
+	},
+	{
+		"Longitude" : "-095.964477",
+		"Zipcode" : "68111",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.295395"
+	},
+	{
+		"Longitude" : "-095.950640",
+		"Zipcode" : "68112",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.353658"
+	},
+	{
+		"Longitude" : "-095.917392",
+		"Zipcode" : "68113",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "OFFUTT A F B",
+		"State" : "NE",
+		"Latitude" : "+41.128191"
+	},
+	{
+		"Longitude" : "-096.053634",
+		"Zipcode" : "68114",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.263262"
+	},
+	{
+		"Longitude" : "-096.167398",
+		"Zipcode" : "68116",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.293997"
+	},
+	{
+		"Longitude" : "-096.001636",
+		"Zipcode" : "68117",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.207194"
+	},
+	{
+		"Longitude" : "-096.176419",
+		"Zipcode" : "68118",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.264155"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68119",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68120",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.070260",
+		"Zipcode" : "68122",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.353003"
+	},
+	{
+		"Longitude" : "-095.939269",
+		"Zipcode" : "68123",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "BELLEVUE",
+		"State" : "NE",
+		"Latitude" : "+41.115628"
+	},
+	{
+		"Longitude" : "-096.052206",
+		"Zipcode" : "68124",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.234670"
+	},
+	{
+		"Longitude" : "-096.061154",
+		"Zipcode" : "68127",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.207414"
+	},
+	{
+		"Longitude" : "-096.061055",
+		"Zipcode" : "68128",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "LA VISTA",
+		"State" : "NE",
+		"Latitude" : "+41.164994"
+	},
+	{
+		"Longitude" : "-096.195060",
+		"Zipcode" : "68130",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.234004"
+	},
+	{
+		"Longitude" : "-095.963832",
+		"Zipcode" : "68131",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.265611"
+	},
+	{
+		"Longitude" : "-096.000888",
+		"Zipcode" : "68132",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.264309"
+	},
+	{
+		"Longitude" : "-096.100064",
+		"Zipcode" : "68133",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "PAPILLION",
+		"State" : "NE",
+		"Latitude" : "+41.129114"
+	},
+	{
+		"Longitude" : "-096.055426",
+		"Zipcode" : "68134",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.302434"
+	},
+	{
+		"Longitude" : "-096.193498",
+		"Zipcode" : "68135",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.205998"
+	},
+	{
+		"Longitude" : "-096.172007",
+		"Zipcode" : "68136",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.169034"
+	},
+	{
+		"Longitude" : "-096.114696",
+		"Zipcode" : "68137",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.207498"
+	},
+	{
+		"Longitude" : "-096.137617",
+		"Zipcode" : "68138",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.154898"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68139",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.101846",
+		"Zipcode" : "68142",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.355850"
+	},
+	{
+		"Longitude" : "-096.118847",
+		"Zipcode" : "68144",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.233498"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68145",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-095.955290",
+		"Zipcode" : "68147",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "BELLEVUE",
+		"State" : "NE",
+		"Latitude" : "+41.175798"
+	},
+	{
+		"Longitude" : "-095.988532",
+		"Zipcode" : "68152",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.354544"
+	},
+	{
+		"Longitude" : "-096.117202",
+		"Zipcode" : "68154",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.286298"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68155",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-095.990942",
+		"Zipcode" : "68157",
+		"ZipClass" : "STANDARD",
+		"County" : "SARPY",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.180985"
+	},
+	{
+		"Longitude" : "-096.104795",
+		"Zipcode" : "68164",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.306689"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68172",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68175",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68176",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68178",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68179",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68180",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68181",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68182",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68183",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "68197",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-096.171104",
+		"Zipcode" : "68198",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "OMAHA",
+		"State" : "NE",
+		"Latitude" : "+41.291736"
+	},
+	{
+		"Longitude" : "-096.513526",
+		"Zipcode" : "68301",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "ADAMS",
+		"State" : "NE",
+		"Latitude" : "+40.456030"
+	},
+	{
+		"Longitude" : "-097.386612",
+		"Zipcode" : "68303",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "ALEXANDRIA",
+		"State" : "NE",
+		"Latitude" : "+40.244068"
+	},
+	{
+		"Longitude" : "-096.378980",
+		"Zipcode" : "68304",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "ALVO",
+		"State" : "NE",
+		"Latitude" : "+40.885316"
+	},
+	{
+		"Longitude" : "-095.843077",
+		"Zipcode" : "68305",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "AUBURN",
+		"State" : "NE",
+		"Latitude" : "+40.428801"
+	},
+	{
+		"Longitude" : "-096.239403",
+		"Zipcode" : "68307",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "AVOCA",
+		"State" : "NE",
+		"Latitude" : "+40.881809"
+	},
+	{
+		"Longitude" : "-096.596300",
+		"Zipcode" : "68309",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "BARNESTON",
+		"State" : "NE",
+		"Latitude" : "+40.041196"
+	},
+	{
+		"Longitude" : "-096.693082",
+		"Zipcode" : "68310",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "BEATRICE",
+		"State" : "NE",
+		"Latitude" : "+40.313364"
+	},
+	{
+		"Longitude" : "-097.234990",
+		"Zipcode" : "68313",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "BEAVER CROSSING",
+		"State" : "NE",
+		"Latitude" : "+40.785436"
+	},
+	{
+		"Longitude" : "-097.034527",
+		"Zipcode" : "68314",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "BEE",
+		"State" : "NE",
+		"Latitude" : "+41.002864"
+	},
+	{
+		"Longitude" : "-097.594987",
+		"Zipcode" : "68315",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "BELVIDERE",
+		"State" : "NE",
+		"Latitude" : "+40.176221"
+	},
+	{
+		"Longitude" : "-097.610404",
+		"Zipcode" : "68316",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "BENEDICT",
+		"State" : "NE",
+		"Latitude" : "+41.003042"
+	},
+	{
+		"Longitude" : "-096.518083",
+		"Zipcode" : "68317",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "BENNET",
+		"State" : "NE",
+		"Latitude" : "+40.664491"
+	},
+	{
+		"Longitude" : "-096.753208",
+		"Zipcode" : "68318",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "BLUE SPRINGS",
+		"State" : "NE",
+		"Latitude" : "+40.299157"
+	},
+	{
+		"Longitude" : "-097.750193",
+		"Zipcode" : "68319",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "BRADSHAW",
+		"State" : "NE",
+		"Latitude" : "+40.930567"
+	},
+	{
+		"Longitude" : "-095.960638",
+		"Zipcode" : "68320",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "BROCK",
+		"State" : "NE",
+		"Latitude" : "+40.479009"
+	},
+	{
+		"Longitude" : "-095.663987",
+		"Zipcode" : "68321",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "BROWNVILLE",
+		"State" : "NE",
+		"Latitude" : "+40.397541"
+	},
+	{
+		"Longitude" : "-097.564950",
+		"Zipcode" : "68322",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "BRUNING",
+		"State" : "NE",
+		"Latitude" : "+40.335959"
+	},
+	{
+		"Longitude" : "-096.348151",
+		"Zipcode" : "68323",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "BURCHARD",
+		"State" : "NE",
+		"Latitude" : "+40.146335"
+	},
+	{
+		"Longitude" : "-096.299662",
+		"Zipcode" : "68324",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "BURR",
+		"State" : "NE",
+		"Latitude" : "+40.536353"
+	},
+	{
+		"Longitude" : "-097.765660",
+		"Zipcode" : "68325",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "BYRON",
+		"State" : "NE",
+		"Latitude" : "+40.005757"
+	},
+	{
+		"Longitude" : "-097.676150",
+		"Zipcode" : "68326",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "CARLETON",
+		"State" : "NE",
+		"Latitude" : "+40.303471"
+	},
+	{
+		"Longitude" : "-097.617985",
+		"Zipcode" : "68327",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "CHESTER",
+		"State" : "NE",
+		"Latitude" : "+40.009370"
+	},
+	{
+		"Longitude" : "-096.850863",
+		"Zipcode" : "68328",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "CLATONIA",
+		"State" : "NE",
+		"Latitude" : "+40.466038"
+	},
+	{
+		"Longitude" : "-096.161196",
+		"Zipcode" : "68329",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "COOK",
+		"State" : "NE",
+		"Latitude" : "+40.510888"
+	},
+	{
+		"Longitude" : "-097.311257",
+		"Zipcode" : "68330",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEWARD",
+		"City" : "CORDOVA",
+		"State" : "NE",
+		"Latitude" : "+40.720174"
+	},
+	{
+		"Longitude" : "-096.752373",
+		"Zipcode" : "68331",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "CORTLAND",
+		"State" : "NE",
+		"Latitude" : "+40.505280"
+	},
+	{
+		"Longitude" : "-096.264780",
+		"Zipcode" : "68332",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "CRAB ORCHARD",
+		"State" : "NE",
+		"Latitude" : "+40.392595"
+	},
+	{
+		"Longitude" : "-097.016925",
+		"Zipcode" : "68333",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "CRETE",
+		"State" : "NE",
+		"Latitude" : "+40.628937"
+	},
+	{
+		"Longitude" : "-097.811467",
+		"Zipcode" : "68335",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "DAVENPORT",
+		"State" : "NE",
+		"Latitude" : "+40.312473"
+	},
+	{
+		"Longitude" : "-096.699697",
+		"Zipcode" : "68336",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "DAVEY",
+		"State" : "NE",
+		"Latitude" : "+40.955071"
+	},
+	{
+		"Longitude" : "-095.830408",
+		"Zipcode" : "68337",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHARDSON",
+		"City" : "DAWSON",
+		"State" : "NE",
+		"Latitude" : "+40.132685"
+	},
+	{
+		"Longitude" : "-097.142390",
+		"Zipcode" : "68338",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DAYKIN",
+		"State" : "NE",
+		"Latitude" : "+40.306449"
+	},
+	{
+		"Longitude" : "-096.850518",
+		"Zipcode" : "68339",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "DENTON",
+		"State" : "NE",
+		"Latitude" : "+40.719464"
+	},
+	{
+		"Longitude" : "-097.723461",
+		"Zipcode" : "68340",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "DESHLER",
+		"State" : "NE",
+		"Latitude" : "+40.139448"
+	},
+	{
+		"Longitude" : "-096.960827",
+		"Zipcode" : "68341",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "DE WITT",
+		"State" : "NE",
+		"Latitude" : "+40.374875"
+	},
+	{
+		"Longitude" : "-097.125705",
+		"Zipcode" : "68342",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DILLER",
+		"State" : "NE",
+		"Latitude" : "+40.109484"
+	},
+	{
+		"Longitude" : "-097.114965",
+		"Zipcode" : "68343",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "DORCHESTER",
+		"State" : "NE",
+		"Latitude" : "+40.646087"
+	},
+	{
+		"Longitude" : "-096.422380",
+		"Zipcode" : "68344",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "DOUGLAS",
+		"State" : "NE",
+		"Latitude" : "+40.569758"
+	},
+	{
+		"Longitude" : "-096.069797",
+		"Zipcode" : "68345",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "DU BOIS",
+		"State" : "NE",
+		"Latitude" : "+40.037725"
+	},
+	{
+		"Longitude" : "-096.030125",
+		"Zipcode" : "68346",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "DUNBAR",
+		"State" : "NE",
+		"Latitude" : "+40.634055"
+	},
+	{
+		"Longitude" : "-096.378887",
+		"Zipcode" : "68347",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "EAGLE",
+		"State" : "NE",
+		"Latitude" : "+40.899936"
+	},
+	{
+		"Longitude" : "-096.127480",
+		"Zipcode" : "68348",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "ELK CREEK",
+		"State" : "NE",
+		"Latitude" : "+40.287778"
+	},
+	{
+		"Longitude" : "-096.323714",
+		"Zipcode" : "68349",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "ELMWOOD",
+		"State" : "NE",
+		"Latitude" : "+40.834419"
+	},
+	{
+		"Longitude" : "-097.081254",
+		"Zipcode" : "68350",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ENDICOTT",
+		"State" : "NE",
+		"Latitude" : "+40.049596"
+	},
+	{
+		"Longitude" : "-097.430884",
+		"Zipcode" : "68351",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "EXETER",
+		"State" : "NE",
+		"Latitude" : "+40.653635"
+	},
+	{
+		"Longitude" : "-097.171023",
+		"Zipcode" : "68352",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "FAIRBURY",
+		"State" : "NE",
+		"Latitude" : "+40.175641"
+	},
+	{
+		"Longitude" : "-097.559927",
+		"Zipcode" : "68354",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "FAIRMONT",
+		"State" : "NE",
+		"Latitude" : "+40.641428"
+	},
+	{
+		"Longitude" : "-095.602053",
+		"Zipcode" : "68355",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHARDSON",
+		"City" : "FALLS CITY",
+		"State" : "NE",
+		"Latitude" : "+40.073908"
+	},
+	{
+		"Longitude" : "-096.535195",
+		"Zipcode" : "68357",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "FILLEY",
+		"State" : "NE",
+		"Latitude" : "+40.284748"
+	},
+	{
+		"Longitude" : "-096.583930",
+		"Zipcode" : "68358",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "FIRTH",
+		"State" : "NE",
+		"Latitude" : "+40.560657"
+	},
+	{
+		"Longitude" : "-097.111028",
+		"Zipcode" : "68359",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "FRIEND",
+		"State" : "NE",
+		"Latitude" : "+40.526915"
+	},
+	{
+		"Longitude" : "-096.967830",
+		"Zipcode" : "68360",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "GARLAND",
+		"State" : "NE",
+		"Latitude" : "+40.966358"
+	},
+	{
+		"Longitude" : "-097.600691",
+		"Zipcode" : "68361",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "GENEVA",
+		"State" : "NE",
+		"Latitude" : "+40.527490"
+	},
+	{
+		"Longitude" : "-097.594987",
+		"Zipcode" : "68362",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "GILEAD",
+		"State" : "NE",
+		"Latitude" : "+40.176221"
+	},
+	{
+		"Longitude" : "-097.196716",
+		"Zipcode" : "68364",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEWARD",
+		"City" : "GOEHNER",
+		"State" : "NE",
+		"Latitude" : "+40.829068"
+	},
+	{
+		"Longitude" : "-097.714675",
+		"Zipcode" : "68365",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "GRAFTON",
+		"State" : "NE",
+		"Latitude" : "+40.629407"
+	},
+	{
+		"Longitude" : "-096.290223",
+		"Zipcode" : "68366",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "GREENWOOD",
+		"State" : "NE",
+		"Latitude" : "+40.905385"
+	},
+	{
+		"Longitude" : "-097.425506",
+		"Zipcode" : "68367",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "GRESHAM",
+		"State" : "NE",
+		"Latitude" : "+41.010433"
+	},
+	{
+		"Longitude" : "-096.799820",
+		"Zipcode" : "68368",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "HALLAM",
+		"State" : "NE",
+		"Latitude" : "+40.573856"
+	},
+	{
+		"Longitude" : "-097.644850",
+		"Zipcode" : "68370",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "HEBRON",
+		"State" : "NE",
+		"Latitude" : "+40.240562"
+	},
+	{
+		"Longitude" : "-097.773811",
+		"Zipcode" : "68371",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "HENDERSON",
+		"State" : "NE",
+		"Latitude" : "+40.796446"
+	},
+	{
+		"Longitude" : "-096.624680",
+		"Zipcode" : "68372",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "HICKMAN",
+		"State" : "NE",
+		"Latitude" : "+40.611890"
+	},
+	{
+		"Longitude" : "-097.497878",
+		"Zipcode" : "68375",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "HUBBELL",
+		"State" : "NE",
+		"Latitude" : "+40.008563"
+	},
+	{
+		"Longitude" : "-095.945731",
+		"Zipcode" : "68376",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHARDSON",
+		"City" : "HUMBOLDT",
+		"State" : "NE",
+		"Latitude" : "+40.167245"
+	},
+	{
+		"Longitude" : "-097.028942",
+		"Zipcode" : "68377",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "JANSEN",
+		"State" : "NE",
+		"Latitude" : "+40.232006"
+	},
+	{
+		"Longitude" : "-096.000386",
+		"Zipcode" : "68378",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "JOHNSON",
+		"State" : "NE",
+		"Latitude" : "+40.345196"
+	},
+	{
+		"Longitude" : "-096.379188",
+		"Zipcode" : "68380",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "LEWISTON",
+		"State" : "NE",
+		"Latitude" : "+40.195573"
+	},
+	{
+		"Longitude" : "-096.689998",
+		"Zipcode" : "68381",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "LIBERTY",
+		"State" : "NE",
+		"Latitude" : "+40.262266"
+	},
+	{
+		"Longitude" : "-096.086904",
+		"Zipcode" : "68382",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OTOE",
+		"City" : "LORTON",
+		"State" : "NE",
+		"Latitude" : "+40.653589"
+	},
+	{
+		"Longitude" : "-097.568381",
+		"Zipcode" : "68401",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "MC COOL JUNCTION",
+		"State" : "NE",
+		"Latitude" : "+40.734852"
+	},
+	{
+		"Longitude" : "-096.813503",
+		"Zipcode" : "68402",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "MALCOLM",
+		"State" : "NE",
+		"Latitude" : "+40.908246"
+	},
+	{
+		"Longitude" : "-096.171189",
+		"Zipcode" : "68403",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASS",
+		"City" : "MANLEY",
+		"State" : "NE",
+		"Latitude" : "+40.923199"
+	},
+	{
+		"Longitude" : "-096.669936",
+		"Zipcode" : "68404",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "MARTELL",
+		"State" : "NE",
+		"Latitude" : "+40.617579"
+	},
+	{
+		"Longitude" : "-097.082489",
+		"Zipcode" : "68405",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "MILFORD",
+		"State" : "NE",
+		"Latitude" : "+40.777860"
+	},
+	{
+		"Longitude" : "-097.385947",
+		"Zipcode" : "68406",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "MILLIGAN",
+		"State" : "NE",
+		"Latitude" : "+40.501806"
+	},
+	{
+		"Longitude" : "-096.268221",
+		"Zipcode" : "68407",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "MURDOCK",
+		"State" : "NE",
+		"Latitude" : "+40.907906"
+	},
+	{
+		"Longitude" : "-095.949383",
+		"Zipcode" : "68409",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "MURRAY",
+		"State" : "NE",
+		"Latitude" : "+40.907670"
+	},
+	{
+		"Longitude" : "-095.907718",
+		"Zipcode" : "68410",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "NEBRASKA CITY",
+		"State" : "NE",
+		"Latitude" : "+40.707742"
+	},
+	{
+		"Longitude" : "-096.015428",
+		"Zipcode" : "68413",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "NEHAWKA",
+		"State" : "NE",
+		"Latitude" : "+40.856763"
+	},
+	{
+		"Longitude" : "-095.676576",
+		"Zipcode" : "68414",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "NEMAHA",
+		"State" : "NE",
+		"Latitude" : "+40.339435"
+	},
+	{
+		"Longitude" : "-096.801542",
+		"Zipcode" : "68415",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "ODELL",
+		"State" : "NE",
+		"Latitude" : "+40.050592"
+	},
+	{
+		"Longitude" : "-097.421084",
+		"Zipcode" : "68416",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "OHIOWA",
+		"State" : "NE",
+		"Latitude" : "+40.454112"
+	},
+	{
+		"Longitude" : "-096.080921",
+		"Zipcode" : "68417",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "OTOE",
+		"State" : "NE",
+		"Latitude" : "+40.750553"
+	},
+	{
+		"Longitude" : "-096.397545",
+		"Zipcode" : "68418",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "PALMYRA",
+		"State" : "NE",
+		"Latitude" : "+40.705559"
+	},
+	{
+		"Longitude" : "-096.512915",
+		"Zipcode" : "68419",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LANCASTER",
+		"City" : "PANAMA",
+		"State" : "NE",
+		"Latitude" : "+40.599807"
+	},
+	{
+		"Longitude" : "-096.151758",
+		"Zipcode" : "68420",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "PAWNEE CITY",
+		"State" : "NE",
+		"Latitude" : "+40.111565"
+	},
+	{
+		"Longitude" : "-095.729589",
+		"Zipcode" : "68421",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "PERU",
+		"State" : "NE",
+		"Latitude" : "+40.477743"
+	},
+	{
+		"Longitude" : "-096.728578",
+		"Zipcode" : "68422",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "PICKRELL",
+		"State" : "NE",
+		"Latitude" : "+40.378063"
+	},
+	{
+		"Longitude" : "-096.968018",
+		"Zipcode" : "68423",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "PLEASANT DALE",
+		"State" : "NE",
+		"Latitude" : "+40.813869"
+	},
+	{
+		"Longitude" : "-097.029005",
+		"Zipcode" : "68424",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PLYMOUTH",
+		"State" : "NE",
+		"Latitude" : "+40.291721"
+	},
+	{
+		"Longitude" : "-096.786573",
+		"Zipcode" : "68428",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "RAYMOND",
+		"State" : "NE",
+		"Latitude" : "+40.934176"
+	},
+	{
+		"Longitude" : "-097.380646",
+		"Zipcode" : "68429",
+		"ZipClass" : "STANDARD",
+		"County" : "THAYER",
+		"City" : "REYNOLDS",
+		"State" : "NE",
+		"Latitude" : "+40.059775"
+	},
+	{
+		"Longitude" : "-096.664859",
+		"Zipcode" : "68430",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "ROCA",
+		"State" : "NE",
+		"Latitude" : "+40.661609"
+	},
+	{
+		"Longitude" : "-095.428531",
+		"Zipcode" : "68431",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHARDSON",
+		"City" : "RULO",
+		"State" : "NE",
+		"Latitude" : "+40.046277"
+	},
+	{
+		"Longitude" : "-095.659484",
+		"Zipcode" : "68433",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHARDSON",
+		"City" : "SALEM",
+		"State" : "NE",
+		"Latitude" : "+40.131136"
+	},
+	{
+		"Longitude" : "-097.101341",
+		"Zipcode" : "68434",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "SEWARD",
+		"State" : "NE",
+		"Latitude" : "+40.915820"
+	},
+	{
+		"Longitude" : "-097.722218",
+		"Zipcode" : "68436",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "SHICKLEY",
+		"State" : "NE",
+		"Latitude" : "+40.416166"
+	},
+	{
+		"Longitude" : "-095.684024",
+		"Zipcode" : "68437",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHARDSON",
+		"City" : "SHUBERT",
+		"State" : "NE",
+		"Latitude" : "+40.236756"
+	},
+	{
+		"Longitude" : "-096.745622",
+		"Zipcode" : "68438",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LANCASTER",
+		"City" : "SPRAGUE",
+		"State" : "NE",
+		"Latitude" : "+40.626661"
+	},
+	{
+		"Longitude" : "-097.251684",
+		"Zipcode" : "68439",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "STAPLEHURST",
+		"State" : "NE",
+		"Latitude" : "+40.959710"
+	},
+	{
+		"Longitude" : "-097.126435",
+		"Zipcode" : "68440",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "STEELE CITY",
+		"State" : "NE",
+		"Latitude" : "+40.152861"
+	},
+	{
+		"Longitude" : "-096.231879",
+		"Zipcode" : "68441",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "STEINAUER",
+		"State" : "NE",
+		"Latitude" : "+40.207313"
+	},
+	{
+		"Longitude" : "-095.772850",
+		"Zipcode" : "68442",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHARDSON",
+		"City" : "STELLA",
+		"State" : "NE",
+		"Latitude" : "+40.231020"
+	},
+	{
+		"Longitude" : "-096.378249",
+		"Zipcode" : "68443",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "STERLING",
+		"State" : "NE",
+		"Latitude" : "+40.463451"
+	},
+	{
+		"Longitude" : "-097.578418",
+		"Zipcode" : "68444",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "STRANG",
+		"State" : "NE",
+		"Latitude" : "+40.418921"
+	},
+	{
+		"Longitude" : "-097.080431",
+		"Zipcode" : "68445",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "SWANTON",
+		"State" : "NE",
+		"Latitude" : "+40.379788"
+	},
+	{
+		"Longitude" : "-096.169603",
+		"Zipcode" : "68446",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "SYRACUSE",
+		"State" : "NE",
+		"Latitude" : "+40.645896"
+	},
+	{
+		"Longitude" : "-096.097374",
+		"Zipcode" : "68447",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "TABLE ROCK",
+		"State" : "NE",
+		"Latitude" : "+40.179541"
+	},
+	{
+		"Longitude" : "-095.998514",
+		"Zipcode" : "68448",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "TALMAGE",
+		"State" : "NE",
+		"Latitude" : "+40.557110"
+	},
+	{
+		"Longitude" : "-096.280341",
+		"Zipcode" : "68450",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "TECUMSEH",
+		"State" : "NE",
+		"Latitude" : "+40.410949"
+	},
+	{
+		"Longitude" : "-098.051184",
+		"Zipcode" : "68452",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "ONG",
+		"State" : "NE",
+		"Latitude" : "+40.524526"
+	},
+	{
+		"Longitude" : "-097.336671",
+		"Zipcode" : "68453",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "TOBIAS",
+		"State" : "NE",
+		"Latitude" : "+40.418436"
+	},
+	{
+		"Longitude" : "-096.270409",
+		"Zipcode" : "68454",
+		"ZipClass" : "STANDARD",
+		"County" : "OTOE",
+		"City" : "UNADILLA",
+		"State" : "NE",
+		"Latitude" : "+40.684941"
+	},
+	{
+		"Longitude" : "-095.903802",
+		"Zipcode" : "68455",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "UNION",
+		"State" : "NE",
+		"Latitude" : "+40.831238"
+	},
+	{
+		"Longitude" : "-097.292178",
+		"Zipcode" : "68456",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "UTICA",
+		"State" : "NE",
+		"Latitude" : "+40.938023"
+	},
+	{
+		"Longitude" : "-095.710477",
+		"Zipcode" : "68457",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHARDSON",
+		"City" : "VERDON",
+		"State" : "NE",
+		"Latitude" : "+40.149228"
+	},
+	{
+		"Longitude" : "-096.689998",
+		"Zipcode" : "68458",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "VIRGINIA",
+		"State" : "NE",
+		"Latitude" : "+40.262266"
+	},
+	{
+		"Longitude" : "-097.437812",
+		"Zipcode" : "68460",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "WACO",
+		"State" : "NE",
+		"Latitude" : "+40.886702"
+	},
+	{
+		"Longitude" : "-096.515859",
+		"Zipcode" : "68461",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "WALTON",
+		"State" : "NE",
+		"Latitude" : "+40.762763"
+	},
+	{
+		"Longitude" : "-096.543431",
+		"Zipcode" : "68462",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "WAVERLY",
+		"State" : "NE",
+		"Latitude" : "+40.935601"
+	},
+	{
+		"Longitude" : "-096.146512",
+		"Zipcode" : "68463",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "WEEPING WATER",
+		"State" : "NE",
+		"Latitude" : "+40.884503"
+	},
+	{
+		"Longitude" : "-097.265045",
+		"Zipcode" : "68464",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "WESTERN",
+		"State" : "NE",
+		"Latitude" : "+40.403717"
+	},
+	{
+		"Longitude" : "-096.968290",
+		"Zipcode" : "68465",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "WILBER",
+		"State" : "NE",
+		"Latitude" : "+40.484136"
+	},
+	{
+		"Longitude" : "-096.666863",
+		"Zipcode" : "68466",
+		"ZipClass" : "STANDARD",
+		"County" : "GAGE",
+		"City" : "WYMORE",
+		"State" : "NE",
+		"Latitude" : "+40.122407"
+	},
+	{
+		"Longitude" : "-097.597278",
+		"Zipcode" : "68467",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "YORK",
+		"State" : "NE",
+		"Latitude" : "+40.890132"
+	},
+	{
+		"Longitude" : "-096.823133",
+		"Zipcode" : "68501",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.865142"
+	},
+	{
+		"Longitude" : "-096.683702",
+		"Zipcode" : "68502",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.813101"
+	},
+	{
+		"Longitude" : "-096.698646",
+		"Zipcode" : "68503",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.845050"
+	},
+	{
+		"Longitude" : "-096.662454",
+		"Zipcode" : "68504",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.853200"
+	},
+	{
+		"Longitude" : "-096.618058",
+		"Zipcode" : "68505",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.900275"
+	},
+	{
+		"Longitude" : "-096.687195",
+		"Zipcode" : "68506",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.804064"
+	},
+	{
+		"Longitude" : "-096.652274",
+		"Zipcode" : "68507",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.889449"
+	},
+	{
+		"Longitude" : "-096.624692",
+		"Zipcode" : "68508",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.798100"
+	},
+	{
+		"Longitude" : "-096.688799",
+		"Zipcode" : "68509",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.784451"
+	},
+	{
+		"Longitude" : "-096.630741",
+		"Zipcode" : "68510",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.835450"
+	},
+	{
+		"Longitude" : "-096.686643",
+		"Zipcode" : "68512",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.785689"
+	},
+	{
+		"Longitude" : "-096.662138",
+		"Zipcode" : "68514",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.940125"
+	},
+	{
+		"Longitude" : "-096.661769",
+		"Zipcode" : "68516",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.777556"
+	},
+	{
+		"Longitude" : "-096.609721",
+		"Zipcode" : "68517",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.939903"
+	},
+	{
+		"Longitude" : "-096.534981",
+		"Zipcode" : "68520",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.784200"
+	},
+	{
+		"Longitude" : "-096.718994",
+		"Zipcode" : "68521",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.863301"
+	},
+	{
+		"Longitude" : "-096.750075",
+		"Zipcode" : "68522",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.784560"
+	},
+	{
+		"Longitude" : "-096.763247",
+		"Zipcode" : "68523",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.735793"
+	},
+	{
+		"Longitude" : "-096.815309",
+		"Zipcode" : "68524",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.879252"
+	},
+	{
+		"Longitude" : "-096.582442",
+		"Zipcode" : "68526",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.743346"
+	},
+	{
+		"Longitude" : "-096.525245",
+		"Zipcode" : "68527",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.855121"
+	},
+	{
+		"Longitude" : "-096.813579",
+		"Zipcode" : "68528",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.855107"
+	},
+	{
+		"Longitude" : "-096.779796",
+		"Zipcode" : "68529",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.879752"
+	},
+	{
+		"Longitude" : "-096.720143",
+		"Zipcode" : "68531",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.900801"
+	},
+	{
+		"Longitude" : "-096.853616",
+		"Zipcode" : "68532",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.777663"
+	},
+	{
+		"Longitude" : "-096.688799",
+		"Zipcode" : "68542",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.784451"
+	},
+	{
+		"Longitude" : "-096.688799",
+		"Zipcode" : "68583",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.784451"
+	},
+	{
+		"Longitude" : "-096.692843",
+		"Zipcode" : "68588",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LINCOLN",
+		"State" : "NE",
+		"Latitude" : "+40.820645"
+	},
+	{
+		"Longitude" : "-097.376314",
+		"Zipcode" : "68601",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "COLUMBUS",
+		"State" : "NE",
+		"Latitude" : "+41.542962"
+	},
+	{
+		"Longitude" : "-097.541795",
+		"Zipcode" : "68602",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "COLUMBUS",
+		"State" : "NE",
+		"Latitude" : "+41.538080"
+	},
+	{
+		"Longitude" : "-098.011092",
+		"Zipcode" : "68620",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "ALBION",
+		"State" : "NE",
+		"Latitude" : "+41.648736"
+	},
+	{
+		"Longitude" : "-096.624657",
+		"Zipcode" : "68621",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "AMES",
+		"State" : "NE",
+		"Latitude" : "+41.499208"
+	},
+	{
+		"Longitude" : "-098.528373",
+		"Zipcode" : "68622",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEELER",
+		"City" : "BARTLETT",
+		"State" : "NE",
+		"Latitude" : "+41.914601"
+	},
+	{
+		"Longitude" : "-098.068163",
+		"Zipcode" : "68623",
+		"ZipClass" : "STANDARD",
+		"County" : "NANCE",
+		"City" : "BELGRADE",
+		"State" : "NE",
+		"Latitude" : "+41.471865"
+	},
+	{
+		"Longitude" : "-097.214802",
+		"Zipcode" : "68624",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "BELLWOOD",
+		"State" : "NE",
+		"Latitude" : "+41.342556"
+	},
+	{
+		"Longitude" : "-096.992319",
+		"Zipcode" : "68626",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "BRAINARD",
+		"State" : "NE",
+		"Latitude" : "+41.143956"
+	},
+	{
+		"Longitude" : "-098.150139",
+		"Zipcode" : "68627",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "CEDAR RAPIDS",
+		"State" : "NE",
+		"Latitude" : "+41.558087"
+	},
+	{
+		"Longitude" : "-097.809370",
+		"Zipcode" : "68628",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRICK",
+		"City" : "CLARKS",
+		"State" : "NE",
+		"Latitude" : "+41.202853"
+	},
+	{
+		"Longitude" : "-097.137751",
+		"Zipcode" : "68629",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "CLARKSON",
+		"State" : "NE",
+		"Latitude" : "+41.663195"
+	},
+	{
+		"Longitude" : "-097.372671",
+		"Zipcode" : "68631",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "CRESTON",
+		"State" : "NE",
+		"Latitude" : "+41.718708"
+	},
+	{
+		"Longitude" : "-097.157229",
+		"Zipcode" : "68632",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "DAVID CITY",
+		"State" : "NE",
+		"Latitude" : "+41.220715"
+	},
+	{
+		"Longitude" : "-096.675369",
+		"Zipcode" : "68633",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "DODGE",
+		"State" : "NE",
+		"Latitude" : "+41.593378"
+	},
+	{
+		"Longitude" : "-097.595435",
+		"Zipcode" : "68634",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLATTE",
+		"City" : "DUNCAN",
+		"State" : "NE",
+		"Latitude" : "+41.393146"
+	},
+	{
+		"Longitude" : "-097.114365",
+		"Zipcode" : "68635",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "DWIGHT",
+		"State" : "NE",
+		"Latitude" : "+41.066016"
+	},
+	{
+		"Longitude" : "-098.083714",
+		"Zipcode" : "68636",
+		"ZipClass" : "STANDARD",
+		"County" : "ANTELOPE",
+		"City" : "ELGIN",
+		"State" : "NE",
+		"Latitude" : "+41.982761"
+	},
+	{
+		"Longitude" : "-098.679988",
+		"Zipcode" : "68637",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEELER",
+		"City" : "ERICSON",
+		"State" : "NE",
+		"Latitude" : "+41.779992"
+	},
+	{
+		"Longitude" : "-097.899889",
+		"Zipcode" : "68638",
+		"ZipClass" : "STANDARD",
+		"County" : "NANCE",
+		"City" : "FULLERTON",
+		"State" : "NE",
+		"Latitude" : "+41.414475"
+	},
+	{
+		"Longitude" : "-097.732584",
+		"Zipcode" : "68640",
+		"ZipClass" : "STANDARD",
+		"County" : "NANCE",
+		"City" : "GENOA",
+		"State" : "NE",
+		"Latitude" : "+41.445863"
+	},
+	{
+		"Longitude" : "-097.103325",
+		"Zipcode" : "68641",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "HOWELLS",
+		"State" : "NE",
+		"Latitude" : "+41.661720"
+	},
+	{
+		"Longitude" : "-097.487407",
+		"Zipcode" : "68642",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "HUMPHREY",
+		"State" : "NE",
+		"Latitude" : "+41.690226"
+	},
+	{
+		"Longitude" : "-097.184984",
+		"Zipcode" : "68643",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "LEIGH",
+		"State" : "NE",
+		"Latitude" : "+41.647114"
+	},
+	{
+		"Longitude" : "-097.694247",
+		"Zipcode" : "68644",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "LINDSAY",
+		"State" : "NE",
+		"Latitude" : "+41.701476"
+	},
+	{
+		"Longitude" : "-097.625525",
+		"Zipcode" : "68647",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "MONROE",
+		"State" : "NE",
+		"Latitude" : "+41.465573"
+	},
+	{
+		"Longitude" : "-096.811409",
+		"Zipcode" : "68648",
+		"ZipClass" : "STANDARD",
+		"County" : "SAUNDERS",
+		"City" : "MORSE BLUFF",
+		"State" : "NE",
+		"Latitude" : "+41.375782"
+	},
+	{
+		"Longitude" : "-096.685416",
+		"Zipcode" : "68649",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "NORTH BEND",
+		"State" : "NE",
+		"Latitude" : "+41.541480"
+	},
+	{
+		"Longitude" : "-097.570000",
+		"Zipcode" : "68651",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "OSCEOLA",
+		"State" : "NE",
+		"Latitude" : "+41.170633"
+	},
+	{
+		"Longitude" : "-098.079960",
+		"Zipcode" : "68652",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "PETERSBURG",
+		"State" : "NE",
+		"Latitude" : "+41.853086"
+	},
+	{
+		"Longitude" : "-097.484880",
+		"Zipcode" : "68653",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "PLATTE CENTER",
+		"State" : "NE",
+		"Latitude" : "+41.537151"
+	},
+	{
+		"Longitude" : "-097.787070",
+		"Zipcode" : "68654",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "POLK",
+		"State" : "NE",
+		"Latitude" : "+41.075237"
+	},
+	{
+		"Longitude" : "-098.062909",
+		"Zipcode" : "68655",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "PRIMROSE",
+		"State" : "NE",
+		"Latitude" : "+41.698452"
+	},
+	{
+		"Longitude" : "-097.181952",
+		"Zipcode" : "68658",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "RISING CITY",
+		"State" : "NE",
+		"Latitude" : "+41.197120"
+	},
+	{
+		"Longitude" : "-096.956019",
+		"Zipcode" : "68659",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "ROGERS",
+		"State" : "NE",
+		"Latitude" : "+41.593926"
+	},
+	{
+		"Longitude" : "-097.863484",
+		"Zipcode" : "68660",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "SAINT EDWARD",
+		"State" : "NE",
+		"Latitude" : "+41.570444"
+	},
+	{
+		"Longitude" : "-097.079635",
+		"Zipcode" : "68661",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "SCHUYLER",
+		"State" : "NE",
+		"Latitude" : "+41.559744"
+	},
+	{
+		"Longitude" : "-097.519253",
+		"Zipcode" : "68662",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "SHELBY",
+		"State" : "NE",
+		"Latitude" : "+41.154703"
+	},
+	{
+		"Longitude" : "-097.723453",
+		"Zipcode" : "68663",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRICK",
+		"City" : "SILVER CREEK",
+		"State" : "NE",
+		"Latitude" : "+41.303844"
+	},
+	{
+		"Longitude" : "-096.787252",
+		"Zipcode" : "68664",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "SNYDER",
+		"State" : "NE",
+		"Latitude" : "+41.648478"
+	},
+	{
+		"Longitude" : "-098.363282",
+		"Zipcode" : "68665",
+		"ZipClass" : "STANDARD",
+		"County" : "GREELEY",
+		"City" : "SPALDING",
+		"State" : "NE",
+		"Latitude" : "+41.688144"
+	},
+	{
+		"Longitude" : "-097.591433",
+		"Zipcode" : "68666",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "STROMSBURG",
+		"State" : "NE",
+		"Latitude" : "+41.114446"
+	},
+	{
+		"Longitude" : "-097.292178",
+		"Zipcode" : "68667",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "SURPRISE",
+		"State" : "NE",
+		"Latitude" : "+41.126818"
+	},
+	{
+		"Longitude" : "-097.224683",
+		"Zipcode" : "68669",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "ULYSSES",
+		"State" : "NE",
+		"Latitude" : "+41.091760"
+	},
+	{
+		"Longitude" : "-097.601189",
+		"Zipcode" : "68701",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "NORFOLK",
+		"State" : "NE",
+		"Latitude" : "+41.996410"
+	},
+	{
+		"Longitude" : "-097.601348",
+		"Zipcode" : "68702",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "NORFOLK",
+		"State" : "NE",
+		"Latitude" : "+41.916476"
+	},
+	{
+		"Longitude" : "-096.884378",
+		"Zipcode" : "68710",
+		"ZipClass" : "STANDARD",
+		"County" : "DIXON",
+		"City" : "ALLEN",
+		"State" : "NE",
+		"Latitude" : "+42.445278"
+	},
+	{
+		"Longitude" : "-099.032048",
+		"Zipcode" : "68711",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "AMELIA",
+		"State" : "NE",
+		"Latitude" : "+42.556421"
+	},
+	{
+		"Longitude" : "-098.975603",
+		"Zipcode" : "68713",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "ATKINSON",
+		"State" : "NE",
+		"Latitude" : "+42.533852"
+	},
+	{
+		"Longitude" : "-099.551245",
+		"Zipcode" : "68714",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "BASSETT",
+		"State" : "NE",
+		"Latitude" : "+42.583147"
+	},
+	{
+		"Longitude" : "-097.568855",
+		"Zipcode" : "68715",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "BATTLE CREEK",
+		"State" : "NE",
+		"Latitude" : "+41.976904"
+	},
+	{
+		"Longitude" : "-096.816403",
+		"Zipcode" : "68716",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMING",
+		"City" : "BEEMER",
+		"State" : "NE",
+		"Latitude" : "+41.909399"
+	},
+	{
+		"Longitude" : "-097.212986",
+		"Zipcode" : "68717",
+		"ZipClass" : "STANDARD",
+		"County" : "CEDAR",
+		"City" : "BELDEN",
+		"State" : "NE",
+		"Latitude" : "+42.429295"
+	},
+	{
+		"Longitude" : "-097.659606",
+		"Zipcode" : "68718",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "BLOOMFIELD",
+		"State" : "NE",
+		"Latitude" : "+42.628731"
+	},
+	{
+		"Longitude" : "-098.781334",
+		"Zipcode" : "68719",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "BRISTOW",
+		"State" : "NE",
+		"Latitude" : "+42.879903"
+	},
+	{
+		"Longitude" : "-098.066911",
+		"Zipcode" : "68720",
+		"ZipClass" : "STANDARD",
+		"County" : "ANTELOPE",
+		"City" : "BRUNSWICK",
+		"State" : "NE",
+		"Latitude" : "+42.176397"
+	},
+	{
+		"Longitude" : "-098.847065",
+		"Zipcode" : "68722",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "BUTTE",
+		"State" : "NE",
+		"Latitude" : "+42.911492"
+	},
+	{
+		"Longitude" : "-097.193337",
+		"Zipcode" : "68723",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "CARROLL",
+		"State" : "NE",
+		"Latitude" : "+42.286328"
+	},
+	{
+		"Longitude" : "-097.866951",
+		"Zipcode" : "68724",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "CENTER",
+		"State" : "NE",
+		"Latitude" : "+42.597304"
+	},
+	{
+		"Longitude" : "-098.749451",
+		"Zipcode" : "68725",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "CHAMBERS",
+		"State" : "NE",
+		"Latitude" : "+42.201860"
+	},
+	{
+		"Longitude" : "-098.066911",
+		"Zipcode" : "68726",
+		"ZipClass" : "STANDARD",
+		"County" : "ANTELOPE",
+		"City" : "CLEARWATER",
+		"State" : "NE",
+		"Latitude" : "+42.176397"
+	},
+	{
+		"Longitude" : "-097.260393",
+		"Zipcode" : "68727",
+		"ZipClass" : "STANDARD",
+		"County" : "CEDAR",
+		"City" : "COLERIDGE",
+		"State" : "NE",
+		"Latitude" : "+42.530505"
+	},
+	{
+		"Longitude" : "-096.853429",
+		"Zipcode" : "68728",
+		"ZipClass" : "STANDARD",
+		"County" : "DIXON",
+		"City" : "CONCORD",
+		"State" : "NE",
+		"Latitude" : "+42.493637"
+	},
+	{
+		"Longitude" : "-097.919351",
+		"Zipcode" : "68729",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "CREIGHTON",
+		"State" : "NE",
+		"Latitude" : "+42.490856"
+	},
+	{
+		"Longitude" : "-097.603391",
+		"Zipcode" : "68730",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "CROFTON",
+		"State" : "NE",
+		"Latitude" : "+42.758387"
+	},
+	{
+		"Longitude" : "-096.565385",
+		"Zipcode" : "68731",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "DAKOTA CITY",
+		"State" : "NE",
+		"Latitude" : "+42.381775"
+	},
+	{
+		"Longitude" : "-096.967598",
+		"Zipcode" : "68732",
+		"ZipClass" : "STANDARD",
+		"County" : "DIXON",
+		"City" : "DIXON",
+		"State" : "NE",
+		"Latitude" : "+42.480297"
+	},
+	{
+		"Longitude" : "-096.639317",
+		"Zipcode" : "68733",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "EMERSON",
+		"State" : "NE",
+		"Latitude" : "+42.361551"
+	},
+	{
+		"Longitude" : "-098.778556",
+		"Zipcode" : "68734",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "EMMET",
+		"State" : "NE",
+		"Latitude" : "+42.492295"
+	},
+	{
+		"Longitude" : "-098.344313",
+		"Zipcode" : "68735",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "EWING",
+		"State" : "NE",
+		"Latitude" : "+42.259207"
+	},
+	{
+		"Longitude" : "-097.319381",
+		"Zipcode" : "68736",
+		"ZipClass" : "STANDARD",
+		"County" : "CEDAR",
+		"City" : "FORDYCE",
+		"State" : "NE",
+		"Latitude" : "+42.728606"
+	},
+	{
+		"Longitude" : "-097.601337",
+		"Zipcode" : "68737",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "FOSTER",
+		"State" : "NE",
+		"Latitude" : "+42.264356"
+	},
+	{
+		"Longitude" : "-097.601337",
+		"Zipcode" : "68738",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "HADAR",
+		"State" : "NE",
+		"Latitude" : "+42.264356"
+	},
+	{
+		"Longitude" : "-097.250509",
+		"Zipcode" : "68739",
+		"ZipClass" : "STANDARD",
+		"County" : "CEDAR",
+		"City" : "HARTINGTON",
+		"State" : "NE",
+		"Latitude" : "+42.591685"
+	},
+	{
+		"Longitude" : "-097.309909",
+		"Zipcode" : "68740",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "HOSKINS",
+		"State" : "NE",
+		"Latitude" : "+42.221141"
+	},
+	{
+		"Longitude" : "-096.603097",
+		"Zipcode" : "68741",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "HUBBARD",
+		"State" : "NE",
+		"Latitude" : "+42.357595"
+	},
+	{
+		"Longitude" : "-098.530866",
+		"Zipcode" : "68742",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "INMAN",
+		"State" : "NE",
+		"Latitude" : "+42.380604"
+	},
+	{
+		"Longitude" : "-096.631738",
+		"Zipcode" : "68743",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "JACKSON",
+		"State" : "NE",
+		"Latitude" : "+42.452053"
+	},
+	{
+		"Longitude" : "-097.142457",
+		"Zipcode" : "68745",
+		"ZipClass" : "STANDARD",
+		"County" : "CEDAR",
+		"City" : "LAUREL",
+		"State" : "NE",
+		"Latitude" : "+42.475072"
+	},
+	{
+		"Longitude" : "-098.781334",
+		"Zipcode" : "68746",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "LYNCH",
+		"State" : "NE",
+		"Latitude" : "+42.879903"
+	},
+	{
+		"Longitude" : "-097.475151",
+		"Zipcode" : "68747",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "MCLEAN",
+		"State" : "NE",
+		"Latitude" : "+42.438634"
+	},
+	{
+		"Longitude" : "-097.484480",
+		"Zipcode" : "68748",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MADISON",
+		"State" : "NE",
+		"Latitude" : "+41.881046"
+	},
+	{
+		"Longitude" : "-097.250378",
+		"Zipcode" : "68749",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CEDAR",
+		"City" : "MAGNET",
+		"State" : "NE",
+		"Latitude" : "+42.609687"
+	},
+	{
+		"Longitude" : "-096.926042",
+		"Zipcode" : "68751",
+		"ZipClass" : "STANDARD",
+		"County" : "DIXON",
+		"City" : "MASKELL",
+		"State" : "NE",
+		"Latitude" : "+42.481711"
+	},
+	{
+		"Longitude" : "-097.782829",
+		"Zipcode" : "68752",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MEADOW GROVE",
+		"State" : "NE",
+		"Latitude" : "+42.034395"
+	},
+	{
+		"Longitude" : "-099.726221",
+		"Zipcode" : "68753",
+		"ZipClass" : "STANDARD",
+		"County" : "KEYA PAHA",
+		"City" : "MILLS",
+		"State" : "NE",
+		"Latitude" : "+42.858168"
+	},
+	{
+		"Longitude" : "-098.781334",
+		"Zipcode" : "68755",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "NAPER",
+		"State" : "NE",
+		"Latitude" : "+42.879903"
+	},
+	{
+		"Longitude" : "-098.131760",
+		"Zipcode" : "68756",
+		"ZipClass" : "STANDARD",
+		"County" : "ANTELOPE",
+		"City" : "NELIGH",
+		"State" : "NE",
+		"Latitude" : "+42.216925"
+	},
+	{
+		"Longitude" : "-096.861558",
+		"Zipcode" : "68757",
+		"ZipClass" : "STANDARD",
+		"County" : "DIXON",
+		"City" : "NEWCASTLE",
+		"State" : "NE",
+		"Latitude" : "+42.494685"
+	},
+	{
+		"Longitude" : "-097.777198",
+		"Zipcode" : "68758",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "NEWMAN GROVE",
+		"State" : "NE",
+		"Latitude" : "+41.747884"
+	},
+	{
+		"Longitude" : "-099.726221",
+		"Zipcode" : "68759",
+		"ZipClass" : "STANDARD",
+		"County" : "KEYA PAHA",
+		"City" : "NEWPORT",
+		"State" : "NE",
+		"Latitude" : "+42.858168"
+	},
+	{
+		"Longitude" : "-097.924783",
+		"Zipcode" : "68760",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "NIOBRARA",
+		"State" : "NE",
+		"Latitude" : "+42.739127"
+	},
+	{
+		"Longitude" : "-098.066911",
+		"Zipcode" : "68761",
+		"ZipClass" : "STANDARD",
+		"County" : "ANTELOPE",
+		"City" : "OAKDALE",
+		"State" : "NE",
+		"Latitude" : "+42.176397"
+	},
+	{
+		"Longitude" : "-098.665685",
+		"Zipcode" : "68763",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "ONEILL",
+		"State" : "NE",
+		"Latitude" : "+42.370456"
+	},
+	{
+		"Longitude" : "-098.239908",
+		"Zipcode" : "68764",
+		"ZipClass" : "STANDARD",
+		"County" : "ANTELOPE",
+		"City" : "ORCHARD",
+		"State" : "NE",
+		"Latitude" : "+42.337003"
+	},
+	{
+		"Longitude" : "-097.598511",
+		"Zipcode" : "68765",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "OSMOND",
+		"State" : "NE",
+		"Latitude" : "+42.360661"
+	},
+	{
+		"Longitude" : "-098.778556",
+		"Zipcode" : "68766",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "PAGE",
+		"State" : "NE",
+		"Latitude" : "+42.492295"
+	},
+	{
+		"Longitude" : "-097.581551",
+		"Zipcode" : "68767",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PIERCE",
+		"State" : "NE",
+		"Latitude" : "+42.224218"
+	},
+	{
+		"Longitude" : "-097.077910",
+		"Zipcode" : "68768",
+		"ZipClass" : "STANDARD",
+		"County" : "STANTON",
+		"City" : "PILGER",
+		"State" : "NE",
+		"Latitude" : "+41.976143"
+	},
+	{
+		"Longitude" : "-097.788065",
+		"Zipcode" : "68769",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PLAINVIEW",
+		"State" : "NE",
+		"Latitude" : "+42.353780"
+	},
+	{
+		"Longitude" : "-096.711058",
+		"Zipcode" : "68770",
+		"ZipClass" : "STANDARD",
+		"County" : "DIXON",
+		"City" : "PONCA",
+		"State" : "NE",
+		"Latitude" : "+42.565991"
+	},
+	{
+		"Longitude" : "-097.319835",
+		"Zipcode" : "68771",
+		"ZipClass" : "STANDARD",
+		"County" : "CEDAR",
+		"City" : "RANDOLPH",
+		"State" : "NE",
+		"Latitude" : "+42.438743"
+	},
+	{
+		"Longitude" : "-099.455891",
+		"Zipcode" : "68772",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "ROSE",
+		"State" : "NE",
+		"Latitude" : "+42.445152"
+	},
+	{
+		"Longitude" : "-098.066911",
+		"Zipcode" : "68773",
+		"ZipClass" : "STANDARD",
+		"County" : "ANTELOPE",
+		"City" : "ROYAL",
+		"State" : "NE",
+		"Latitude" : "+42.176397"
+	},
+	{
+		"Longitude" : "-097.304691",
+		"Zipcode" : "68774",
+		"ZipClass" : "STANDARD",
+		"County" : "CEDAR",
+		"City" : "SAINT HELENA",
+		"State" : "NE",
+		"Latitude" : "+42.804591"
+	},
+	{
+		"Longitude" : "-096.457068",
+		"Zipcode" : "68776",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "SOUTH SIOUX CITY",
+		"State" : "NE",
+		"Latitude" : "+42.459711"
+	},
+	{
+		"Longitude" : "-098.701552",
+		"Zipcode" : "68777",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "SPENCER",
+		"State" : "NE",
+		"Latitude" : "+42.872702"
+	},
+	{
+		"Longitude" : "-099.747046",
+		"Zipcode" : "68778",
+		"ZipClass" : "STANDARD",
+		"County" : "KEYA PAHA",
+		"City" : "SPRINGVIEW",
+		"State" : "NE",
+		"Latitude" : "+42.836424"
+	},
+	{
+		"Longitude" : "-097.203396",
+		"Zipcode" : "68779",
+		"ZipClass" : "STANDARD",
+		"County" : "STANTON",
+		"City" : "STANTON",
+		"State" : "NE",
+		"Latitude" : "+41.982175"
+	},
+	{
+		"Longitude" : "-099.141514",
+		"Zipcode" : "68780",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLT",
+		"City" : "STUART",
+		"State" : "NE",
+		"Latitude" : "+42.599715"
+	},
+	{
+		"Longitude" : "-097.829855",
+		"Zipcode" : "68781",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "TILDEN",
+		"State" : "NE",
+		"Latitude" : "+42.042732"
+	},
+	{
+		"Longitude" : "-098.129817",
+		"Zipcode" : "68783",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "VERDIGRE",
+		"State" : "NE",
+		"Latitude" : "+42.624821"
+	},
+	{
+		"Longitude" : "-096.930286",
+		"Zipcode" : "68784",
+		"ZipClass" : "STANDARD",
+		"County" : "DIXON",
+		"City" : "WAKEFIELD",
+		"State" : "NE",
+		"Latitude" : "+42.307797"
+	},
+	{
+		"Longitude" : "-096.824742",
+		"Zipcode" : "68785",
+		"ZipClass" : "STANDARD",
+		"County" : "DIXON",
+		"City" : "WATERBURY",
+		"State" : "NE",
+		"Latitude" : "+42.512745"
+	},
+	{
+		"Longitude" : "-097.608966",
+		"Zipcode" : "68786",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "WAUSA",
+		"State" : "NE",
+		"Latitude" : "+42.518247"
+	},
+	{
+		"Longitude" : "-096.979049",
+		"Zipcode" : "68787",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "WAYNE",
+		"State" : "NE",
+		"Latitude" : "+42.206417"
+	},
+	{
+		"Longitude" : "-096.777787",
+		"Zipcode" : "68788",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMING",
+		"City" : "WEST POINT",
+		"State" : "NE",
+		"Latitude" : "+41.870968"
+	},
+	{
+		"Longitude" : "-098.004988",
+		"Zipcode" : "68789",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "WINNETOON",
+		"State" : "NE",
+		"Latitude" : "+42.533387"
+	},
+	{
+		"Longitude" : "-097.193232",
+		"Zipcode" : "68790",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "WINSIDE",
+		"State" : "NE",
+		"Latitude" : "+42.155768"
+	},
+	{
+		"Longitude" : "-096.893932",
+		"Zipcode" : "68791",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMING",
+		"City" : "WISNER",
+		"State" : "NE",
+		"Latitude" : "+41.960145"
+	},
+	{
+		"Longitude" : "-097.161919",
+		"Zipcode" : "68792",
+		"ZipClass" : "STANDARD",
+		"County" : "CEDAR",
+		"City" : "WYNOT",
+		"State" : "NE",
+		"Latitude" : "+42.708262"
+	},
+	{
+		"Longitude" : "-098.368698",
+		"Zipcode" : "68801",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GRAND ISLAND",
+		"State" : "NE",
+		"Latitude" : "+40.872270"
+	},
+	{
+		"Longitude" : "-098.502130",
+		"Zipcode" : "68802",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GRAND ISLAND",
+		"State" : "NE",
+		"Latitude" : "+40.872457"
+	},
+	{
+		"Longitude" : "-098.521343",
+		"Zipcode" : "68803",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "GRAND ISLAND",
+		"State" : "NE",
+		"Latitude" : "+40.872531"
+	},
+	{
+		"Longitude" : "-098.504787",
+		"Zipcode" : "68810",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "ALDA",
+		"State" : "NE",
+		"Latitude" : "+40.860721"
+	},
+	{
+		"Longitude" : "-099.292974",
+		"Zipcode" : "68812",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "AMHERST",
+		"State" : "NE",
+		"Latitude" : "+40.916581"
+	},
+	{
+		"Longitude" : "-099.864392",
+		"Zipcode" : "68813",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "ANSELMO",
+		"State" : "NE",
+		"Latitude" : "+41.620773"
+	},
+	{
+		"Longitude" : "-099.381735",
+		"Zipcode" : "68814",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "ANSLEY",
+		"State" : "NE",
+		"Latitude" : "+41.289827"
+	},
+	{
+		"Longitude" : "-099.038945",
+		"Zipcode" : "68815",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "ARCADIA",
+		"State" : "NE",
+		"Latitude" : "+41.522440"
+	},
+	{
+		"Longitude" : "-098.135590",
+		"Zipcode" : "68816",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRICK",
+		"City" : "ARCHER",
+		"State" : "NE",
+		"Latitude" : "+41.140845"
+	},
+	{
+		"Longitude" : "-098.794760",
+		"Zipcode" : "68817",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "ASHTON",
+		"State" : "NE",
+		"Latitude" : "+41.249476"
+	},
+	{
+		"Longitude" : "-098.054272",
+		"Zipcode" : "68818",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "AURORA",
+		"State" : "NE",
+		"Latitude" : "+40.850832"
+	},
+	{
+		"Longitude" : "-099.502374",
+		"Zipcode" : "68819",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "BERWYN",
+		"State" : "NE",
+		"Latitude" : "+41.352010"
+	},
+	{
+		"Longitude" : "-098.681367",
+		"Zipcode" : "68820",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "BOELUS",
+		"State" : "NE",
+		"Latitude" : "+41.119240"
+	},
+	{
+		"Longitude" : "-099.857111",
+		"Zipcode" : "68821",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "BREWSTER",
+		"State" : "NE",
+		"Latitude" : "+41.936376"
+	},
+	{
+		"Longitude" : "-099.621491",
+		"Zipcode" : "68822",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "BROKEN BOW",
+		"State" : "NE",
+		"Latitude" : "+41.451119"
+	},
+	{
+		"Longitude" : "-099.134041",
+		"Zipcode" : "68823",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "BURWELL",
+		"State" : "NE",
+		"Latitude" : "+41.782277"
+	},
+	{
+		"Longitude" : "-098.568185",
+		"Zipcode" : "68824",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "CAIRO",
+		"State" : "NE",
+		"Latitude" : "+40.908706"
+	},
+	{
+		"Longitude" : "-099.921245",
+		"Zipcode" : "68825",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "CALLAWAY",
+		"State" : "NE",
+		"Latitude" : "+41.290502"
+	},
+	{
+		"Longitude" : "-098.010548",
+		"Zipcode" : "68826",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRICK",
+		"City" : "CENTRAL CITY",
+		"State" : "NE",
+		"Latitude" : "+41.162876"
+	},
+	{
+		"Longitude" : "-098.188441",
+		"Zipcode" : "68827",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRICK",
+		"City" : "CHAPMAN",
+		"State" : "NE",
+		"Latitude" : "+41.046263"
+	},
+	{
+		"Longitude" : "-099.728097",
+		"Zipcode" : "68828",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "COMSTOCK",
+		"State" : "NE",
+		"Latitude" : "+41.393902"
+	},
+	{
+		"Longitude" : "-098.546616",
+		"Zipcode" : "68831",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "DANNEBROG",
+		"State" : "NE",
+		"Latitude" : "+41.166140"
+	},
+	{
+		"Longitude" : "-098.446665",
+		"Zipcode" : "68832",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "DONIPHAN",
+		"State" : "NE",
+		"Latitude" : "+40.800367"
+	},
+	{
+		"Longitude" : "-099.977135",
+		"Zipcode" : "68833",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "DUNNING",
+		"State" : "NE",
+		"Latitude" : "+41.912303"
+	},
+	{
+		"Longitude" : "-099.685939",
+		"Zipcode" : "68834",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "EDDYVILLE",
+		"State" : "NE",
+		"Latitude" : "+40.980376"
+	},
+	{
+		"Longitude" : "-098.604437",
+		"Zipcode" : "68835",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "ELBA",
+		"State" : "NE",
+		"Latitude" : "+41.321780"
+	},
+	{
+		"Longitude" : "-099.331426",
+		"Zipcode" : "68836",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "ELM CREEK",
+		"State" : "NE",
+		"Latitude" : "+40.779914"
+	},
+	{
+		"Longitude" : "-098.981592",
+		"Zipcode" : "68837",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "ELYRIA",
+		"State" : "NE",
+		"Latitude" : "+41.567344"
+	},
+	{
+		"Longitude" : "-098.679842",
+		"Zipcode" : "68838",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "FARWELL",
+		"State" : "NE",
+		"Latitude" : "+41.206635"
+	},
+	{
+		"Longitude" : "-098.882818",
+		"Zipcode" : "68840",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "GIBBON",
+		"State" : "NE",
+		"Latitude" : "+40.770884"
+	},
+	{
+		"Longitude" : "-098.158838",
+		"Zipcode" : "68841",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "GILTNER",
+		"State" : "NE",
+		"Latitude" : "+40.763612"
+	},
+	{
+		"Longitude" : "-098.530685",
+		"Zipcode" : "68842",
+		"ZipClass" : "STANDARD",
+		"County" : "GREELEY",
+		"City" : "GREELEY",
+		"State" : "NE",
+		"Latitude" : "+41.563806"
+	},
+	{
+		"Longitude" : "-098.021035",
+		"Zipcode" : "68843",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "HAMPTON",
+		"State" : "NE",
+		"Latitude" : "+40.933448"
+	},
+	{
+		"Longitude" : "-098.975997",
+		"Zipcode" : "68844",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "HAZARD",
+		"State" : "NE",
+		"Latitude" : "+41.220515"
+	},
+	{
+		"Longitude" : "-099.129054",
+		"Zipcode" : "68845",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "KEARNEY",
+		"State" : "NE",
+		"Latitude" : "+40.751410"
+	},
+	{
+		"Longitude" : "-097.991525",
+		"Zipcode" : "68846",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "HORDVILLE",
+		"State" : "NE",
+		"Latitude" : "+40.962667"
+	},
+	{
+		"Longitude" : "-099.073398",
+		"Zipcode" : "68847",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "KEARNEY",
+		"State" : "NE",
+		"Latitude" : "+40.850493"
+	},
+	{
+		"Longitude" : "-099.069318",
+		"Zipcode" : "68848",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "KEARNEY",
+		"State" : "NE",
+		"Latitude" : "+40.686053"
+	},
+	{
+		"Longitude" : "-099.074058",
+		"Zipcode" : "68849",
+		"ZipClass" : "UNIQUE",
+		"County" : "BUFFALO",
+		"City" : "KEARNEY",
+		"State" : "NE",
+		"Latitude" : "+40.849654"
+	},
+	{
+		"Longitude" : "-099.718408",
+		"Zipcode" : "68850",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "LEXINGTON",
+		"State" : "NE",
+		"Latitude" : "+40.873227"
+	},
+	{
+		"Longitude" : "-099.153012",
+		"Zipcode" : "68852",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "LITCHFIELD",
+		"State" : "NE",
+		"Latitude" : "+41.156948"
+	},
+	{
+		"Longitude" : "-098.966954",
+		"Zipcode" : "68853",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "LOUP CITY",
+		"State" : "NE",
+		"Latitude" : "+41.276435"
+	},
+	{
+		"Longitude" : "-098.008324",
+		"Zipcode" : "68854",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "MARQUETTE",
+		"State" : "NE",
+		"Latitude" : "+41.015778"
+	},
+	{
+		"Longitude" : "-099.378710",
+		"Zipcode" : "68855",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "MASON CITY",
+		"State" : "NE",
+		"Latitude" : "+41.283369"
+	},
+	{
+		"Longitude" : "-099.760782",
+		"Zipcode" : "68856",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "MERNA",
+		"State" : "NE",
+		"Latitude" : "+41.484951"
+	},
+	{
+		"Longitude" : "-099.364921",
+		"Zipcode" : "68858",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "MILLER",
+		"State" : "NE",
+		"Latitude" : "+40.952708"
+	},
+	{
+		"Longitude" : "-098.981592",
+		"Zipcode" : "68859",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "NORTH LOUP",
+		"State" : "NE",
+		"Latitude" : "+41.567344"
+	},
+	{
+		"Longitude" : "-099.728097",
+		"Zipcode" : "68860",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "OCONTO",
+		"State" : "NE",
+		"Latitude" : "+41.393902"
+	},
+	{
+		"Longitude" : "-099.283748",
+		"Zipcode" : "68861",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BUFFALO",
+		"City" : "ODESSA",
+		"State" : "NE",
+		"Latitude" : "+40.729960"
+	},
+	{
+		"Longitude" : "-098.932718",
+		"Zipcode" : "68862",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "ORD",
+		"State" : "NE",
+		"Latitude" : "+41.603603"
+	},
+	{
+		"Longitude" : "-099.521933",
+		"Zipcode" : "68863",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "OVERTON",
+		"State" : "NE",
+		"Latitude" : "+40.801246"
+	},
+	{
+		"Longitude" : "-098.182952",
+		"Zipcode" : "68864",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRICK",
+		"City" : "PALMER",
+		"State" : "NE",
+		"Latitude" : "+41.244701"
+	},
+	{
+		"Longitude" : "-098.102223",
+		"Zipcode" : "68865",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "PHILLIPS",
+		"State" : "NE",
+		"Latitude" : "+40.893539"
+	},
+	{
+		"Longitude" : "-099.121861",
+		"Zipcode" : "68866",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "PLEASANTON",
+		"State" : "NE",
+		"Latitude" : "+40.960145"
+	},
+	{
+		"Longitude" : "-098.902302",
+		"Zipcode" : "68869",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "RAVENNA",
+		"State" : "NE",
+		"Latitude" : "+40.960075"
+	},
+	{
+		"Longitude" : "-099.126061",
+		"Zipcode" : "68870",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "RIVERDALE",
+		"State" : "NE",
+		"Latitude" : "+40.829478"
+	},
+	{
+		"Longitude" : "-098.832654",
+		"Zipcode" : "68871",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "ROCKVILLE",
+		"State" : "NE",
+		"Latitude" : "+41.117178"
+	},
+	{
+		"Longitude" : "-098.450297",
+		"Zipcode" : "68872",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "SAINT LIBORY",
+		"State" : "NE",
+		"Latitude" : "+41.096855"
+	},
+	{
+		"Longitude" : "-098.503283",
+		"Zipcode" : "68873",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "SAINT PAUL",
+		"State" : "NE",
+		"Latitude" : "+41.232405"
+	},
+	{
+		"Longitude" : "-099.371585",
+		"Zipcode" : "68874",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "SARGENT",
+		"State" : "NE",
+		"Latitude" : "+41.645695"
+	},
+	{
+		"Longitude" : "-098.703727",
+		"Zipcode" : "68875",
+		"ZipClass" : "STANDARD",
+		"County" : "GREELEY",
+		"City" : "SCOTIA",
+		"State" : "NE",
+		"Latitude" : "+41.467579"
+	},
+	{
+		"Longitude" : "-098.788349",
+		"Zipcode" : "68876",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "SHELTON",
+		"State" : "NE",
+		"Latitude" : "+40.812713"
+	},
+	{
+		"Longitude" : "-099.539866",
+		"Zipcode" : "68878",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "SUMNER",
+		"State" : "NE",
+		"Latitude" : "+40.959402"
+	},
+	{
+		"Longitude" : "-099.454335",
+		"Zipcode" : "68879",
+		"ZipClass" : "STANDARD",
+		"County" : "LOUP",
+		"City" : "TAYLOR",
+		"State" : "NE",
+		"Latitude" : "+41.914060"
+	},
+	{
+		"Longitude" : "-099.728097",
+		"Zipcode" : "68880",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUSTER",
+		"City" : "WEISSERT",
+		"State" : "NE",
+		"Latitude" : "+41.393902"
+	},
+	{
+		"Longitude" : "-099.728097",
+		"Zipcode" : "68881",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "WESTERVILLE",
+		"State" : "NE",
+		"Latitude" : "+41.393902"
+	},
+	{
+		"Longitude" : "-098.431898",
+		"Zipcode" : "68882",
+		"ZipClass" : "STANDARD",
+		"County" : "GREELEY",
+		"City" : "WOLBACH",
+		"State" : "NE",
+		"Latitude" : "+41.397214"
+	},
+	{
+		"Longitude" : "-098.589324",
+		"Zipcode" : "68883",
+		"ZipClass" : "STANDARD",
+		"County" : "HALL",
+		"City" : "WOOD RIVER",
+		"State" : "NE",
+		"Latitude" : "+40.872494"
+	},
+	{
+		"Longitude" : "-098.389035",
+		"Zipcode" : "68901",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "HASTINGS",
+		"State" : "NE",
+		"Latitude" : "+40.582425"
+	},
+	{
+		"Longitude" : "-098.397248",
+		"Zipcode" : "68902",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "HASTINGS",
+		"State" : "NE",
+		"Latitude" : "+40.589594"
+	},
+	{
+		"Longitude" : "-099.352846",
+		"Zipcode" : "68920",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "ALMA",
+		"State" : "NE",
+		"Latitude" : "+40.101761"
+	},
+	{
+		"Longitude" : "-099.842844",
+		"Zipcode" : "68922",
+		"ZipClass" : "STANDARD",
+		"County" : "FURNAS",
+		"City" : "ARAPAHOE",
+		"State" : "NE",
+		"Latitude" : "+40.294628"
+	},
+	{
+		"Longitude" : "-099.405055",
+		"Zipcode" : "68923",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHELPS",
+		"City" : "ATLANTA",
+		"State" : "NE",
+		"Latitude" : "+40.410446"
+	},
+	{
+		"Longitude" : "-099.091654",
+		"Zipcode" : "68924",
+		"ZipClass" : "STANDARD",
+		"County" : "KEARNEY",
+		"City" : "AXTELL",
+		"State" : "NE",
+		"Latitude" : "+40.503390"
+	},
+	{
+		"Longitude" : "-098.463055",
+		"Zipcode" : "68925",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "AYR",
+		"State" : "NE",
+		"Latitude" : "+40.429989"
+	},
+	{
+		"Longitude" : "-099.826930",
+		"Zipcode" : "68926",
+		"ZipClass" : "STANDARD",
+		"County" : "FURNAS",
+		"City" : "BEAVER CITY",
+		"State" : "NE",
+		"Latitude" : "+40.137671"
+	},
+	{
+		"Longitude" : "-099.634275",
+		"Zipcode" : "68927",
+		"ZipClass" : "STANDARD",
+		"County" : "PHELPS",
+		"City" : "BERTRAND",
+		"State" : "NE",
+		"Latitude" : "+40.525235"
+	},
+	{
+		"Longitude" : "-098.597026",
+		"Zipcode" : "68928",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "BLADEN",
+		"State" : "NE",
+		"Latitude" : "+40.323796"
+	},
+	{
+		"Longitude" : "-099.037737",
+		"Zipcode" : "68929",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BLOOMINGTON",
+		"State" : "NE",
+		"Latitude" : "+40.097871"
+	},
+	{
+		"Longitude" : "-098.450468",
+		"Zipcode" : "68930",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "BLUE HILL",
+		"State" : "NE",
+		"Latitude" : "+40.316739"
+	},
+	{
+		"Longitude" : "-098.814655",
+		"Zipcode" : "68932",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CAMPBELL",
+		"State" : "NE",
+		"Latitude" : "+40.306364"
+	},
+	{
+		"Longitude" : "-098.070907",
+		"Zipcode" : "68933",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CLAY CENTER",
+		"State" : "NE",
+		"Latitude" : "+40.565856"
+	},
+	{
+		"Longitude" : "-098.140015",
+		"Zipcode" : "68934",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "DEWEESE",
+		"State" : "NE",
+		"Latitude" : "+40.353980"
+	},
+	{
+		"Longitude" : "-097.905641",
+		"Zipcode" : "68935",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "EDGAR",
+		"State" : "NE",
+		"Latitude" : "+40.379736"
+	},
+	{
+		"Longitude" : "-099.776089",
+		"Zipcode" : "68936",
+		"ZipClass" : "STANDARD",
+		"County" : "FURNAS",
+		"City" : "EDISON",
+		"State" : "NE",
+		"Latitude" : "+40.277359"
+	},
+	{
+		"Longitude" : "-099.831972",
+		"Zipcode" : "68937",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSPER",
+		"City" : "ELWOOD",
+		"State" : "NE",
+		"Latitude" : "+40.569620"
+	},
+	{
+		"Longitude" : "-098.053432",
+		"Zipcode" : "68938",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "FAIRFIELD",
+		"State" : "NE",
+		"Latitude" : "+40.395335"
+	},
+	{
+		"Longitude" : "-098.995406",
+		"Zipcode" : "68939",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FRANKLIN",
+		"State" : "NE",
+		"Latitude" : "+40.096305"
+	},
+	{
+		"Longitude" : "-099.251676",
+		"Zipcode" : "68940",
+		"ZipClass" : "STANDARD",
+		"County" : "PHELPS",
+		"City" : "FUNK",
+		"State" : "NE",
+		"Latitude" : "+40.464046"
+	},
+	{
+		"Longitude" : "-098.255757",
+		"Zipcode" : "68941",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "GLENVIL",
+		"State" : "NE",
+		"Latitude" : "+40.503252"
+	},
+	{
+		"Longitude" : "-098.330001",
+		"Zipcode" : "68942",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "GUIDE ROCK",
+		"State" : "NE",
+		"Latitude" : "+40.071648"
+	},
+	{
+		"Longitude" : "-097.900651",
+		"Zipcode" : "68943",
+		"ZipClass" : "STANDARD",
+		"County" : "NUCKOLLS",
+		"City" : "HARDY",
+		"State" : "NE",
+		"Latitude" : "+40.074907"
+	},
+	{
+		"Longitude" : "-098.096849",
+		"Zipcode" : "68944",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "HARVARD",
+		"State" : "NE",
+		"Latitude" : "+40.620578"
+	},
+	{
+		"Longitude" : "-098.790623",
+		"Zipcode" : "68945",
+		"ZipClass" : "STANDARD",
+		"County" : "KEARNEY",
+		"City" : "HEARTWELL",
+		"State" : "NE",
+		"Latitude" : "+40.554280"
+	},
+	{
+		"Longitude" : "-099.913076",
+		"Zipcode" : "68946",
+		"ZipClass" : "STANDARD",
+		"County" : "FURNAS",
+		"City" : "HENDLEY",
+		"State" : "NE",
+		"Latitude" : "+40.176314"
+	},
+	{
+		"Longitude" : "-099.043138",
+		"Zipcode" : "68947",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "HILDRETH",
+		"State" : "NE",
+		"Latitude" : "+40.337828"
+	},
+	{
+		"Longitude" : "-099.959503",
+		"Zipcode" : "68948",
+		"ZipClass" : "STANDARD",
+		"County" : "FURNAS",
+		"City" : "HOLBROOK",
+		"State" : "NE",
+		"Latitude" : "+40.304641"
+	},
+	{
+		"Longitude" : "-099.325955",
+		"Zipcode" : "68949",
+		"ZipClass" : "STANDARD",
+		"County" : "PHELPS",
+		"City" : "HOLDREGE",
+		"State" : "NE",
+		"Latitude" : "+40.429207"
+	},
+	{
+		"Longitude" : "-098.638633",
+		"Zipcode" : "68950",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "HOLSTEIN",
+		"State" : "NE",
+		"Latitude" : "+40.437334"
+	},
+	{
+		"Longitude" : "-098.500037",
+		"Zipcode" : "68952",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "INAVALE",
+		"State" : "NE",
+		"Latitude" : "+40.176368"
+	},
+	{
+		"Longitude" : "-098.051184",
+		"Zipcode" : "68954",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "INLAND",
+		"State" : "NE",
+		"Latitude" : "+40.524526"
+	},
+	{
+		"Longitude" : "-098.506045",
+		"Zipcode" : "68955",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "JUNIATA",
+		"State" : "NE",
+		"Latitude" : "+40.596951"
+	},
+	{
+		"Longitude" : "-098.610696",
+		"Zipcode" : "68956",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "KENESAW",
+		"State" : "NE",
+		"Latitude" : "+40.611581"
+	},
+	{
+		"Longitude" : "-098.259540",
+		"Zipcode" : "68957",
+		"ZipClass" : "STANDARD",
+		"County" : "NUCKOLLS",
+		"City" : "LAWRENCE",
+		"State" : "NE",
+		"Latitude" : "+40.291047"
+	},
+	{
+		"Longitude" : "-099.508075",
+		"Zipcode" : "68958",
+		"ZipClass" : "STANDARD",
+		"County" : "PHELPS",
+		"City" : "LOOMIS",
+		"State" : "NE",
+		"Latitude" : "+40.477867"
+	},
+	{
+		"Longitude" : "-098.907731",
+		"Zipcode" : "68959",
+		"ZipClass" : "STANDARD",
+		"County" : "KEARNEY",
+		"City" : "MINDEN",
+		"State" : "NE",
+		"Latitude" : "+40.502515"
+	},
+	{
+		"Longitude" : "-099.137325",
+		"Zipcode" : "68960",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "NAPONEE",
+		"State" : "NE",
+		"Latitude" : "+40.074785"
+	},
+	{
+		"Longitude" : "-098.068371",
+		"Zipcode" : "68961",
+		"ZipClass" : "STANDARD",
+		"County" : "NUCKOLLS",
+		"City" : "NELSON",
+		"State" : "NE",
+		"Latitude" : "+40.201050"
+	},
+	{
+		"Longitude" : "-098.792699",
+		"Zipcode" : "68963",
+		"ZipClass" : "STANDARD",
+		"County" : "KEARNEY",
+		"City" : "NORMAN",
+		"State" : "NE",
+		"Latitude" : "+40.478879"
+	},
+	{
+		"Longitude" : "-097.903047",
+		"Zipcode" : "68964",
+		"ZipClass" : "STANDARD",
+		"County" : "NUCKOLLS",
+		"City" : "OAK",
+		"State" : "NE",
+		"Latitude" : "+40.237813"
+	},
+	{
+		"Longitude" : "-099.455110",
+		"Zipcode" : "68966",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "ORLEANS",
+		"State" : "NE",
+		"Latitude" : "+40.130072"
+	},
+	{
+		"Longitude" : "-099.637884",
+		"Zipcode" : "68967",
+		"ZipClass" : "STANDARD",
+		"County" : "FURNAS",
+		"City" : "OXFORD",
+		"State" : "NE",
+		"Latitude" : "+40.254078"
+	},
+	{
+		"Longitude" : "-099.404864",
+		"Zipcode" : "68969",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "RAGAN",
+		"State" : "NE",
+		"Latitude" : "+40.176513"
+	},
+	{
+		"Longitude" : "-098.500021",
+		"Zipcode" : "68970",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "RED CLOUD",
+		"State" : "NE",
+		"Latitude" : "+40.201919"
+	},
+	{
+		"Longitude" : "-099.246197",
+		"Zipcode" : "68971",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "REPUBLICAN CITY",
+		"State" : "NE",
+		"Latitude" : "+40.093106"
+	},
+	{
+		"Longitude" : "-098.952642",
+		"Zipcode" : "68972",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "RIVERTON",
+		"State" : "NE",
+		"Latitude" : "+40.176335"
+	},
+	{
+		"Longitude" : "-098.544036",
+		"Zipcode" : "68973",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "ROSELAND",
+		"State" : "NE",
+		"Latitude" : "+40.466384"
+	},
+	{
+		"Longitude" : "-097.914680",
+		"Zipcode" : "68974",
+		"ZipClass" : "STANDARD",
+		"County" : "NUCKOLLS",
+		"City" : "RUSKIN",
+		"State" : "NE",
+		"Latitude" : "+40.152394"
+	},
+	{
+		"Longitude" : "-097.938811",
+		"Zipcode" : "68975",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "SARONVILLE",
+		"State" : "NE",
+		"Latitude" : "+40.602128"
+	},
+	{
+		"Longitude" : "-099.830345",
+		"Zipcode" : "68976",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSPER",
+		"City" : "SMITHFIELD",
+		"State" : "NE",
+		"Latitude" : "+40.539998"
+	},
+	{
+		"Longitude" : "-099.404864",
+		"Zipcode" : "68977",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "STAMFORD",
+		"State" : "NE",
+		"Latitude" : "+40.176513"
+	},
+	{
+		"Longitude" : "-098.069593",
+		"Zipcode" : "68978",
+		"ZipClass" : "STANDARD",
+		"County" : "NUCKOLLS",
+		"City" : "SUPERIOR",
+		"State" : "NE",
+		"Latitude" : "+40.036673"
+	},
+	{
+		"Longitude" : "-097.855430",
+		"Zipcode" : "68979",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "SUTTON",
+		"State" : "NE",
+		"Latitude" : "+40.507387"
+	},
+	{
+		"Longitude" : "-098.251120",
+		"Zipcode" : "68980",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "TRUMBULL",
+		"State" : "NE",
+		"Latitude" : "+40.639247"
+	},
+	{
+		"Longitude" : "-098.904418",
+		"Zipcode" : "68981",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "UPLAND",
+		"State" : "NE",
+		"Latitude" : "+40.317430"
+	},
+	{
+		"Longitude" : "-099.152181",
+		"Zipcode" : "68982",
+		"ZipClass" : "STANDARD",
+		"County" : "KEARNEY",
+		"City" : "WILCOX",
+		"State" : "NE",
+		"Latitude" : "+40.378795"
+	},
+	{
+		"Longitude" : "-100.620628",
+		"Zipcode" : "69001",
+		"ZipClass" : "STANDARD",
+		"County" : "RED WILLOW",
+		"City" : "MC COOK",
+		"State" : "NE",
+		"Latitude" : "+40.207969"
+	},
+	{
+		"Longitude" : "-100.305432",
+		"Zipcode" : "69020",
+		"ZipClass" : "STANDARD",
+		"County" : "RED WILLOW",
+		"City" : "BARTLEY",
+		"State" : "NE",
+		"Latitude" : "+40.252545"
+	},
+	{
+		"Longitude" : "-101.789168",
+		"Zipcode" : "69021",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNDY",
+		"City" : "BENKELMAN",
+		"State" : "NE",
+		"Latitude" : "+40.103088"
+	},
+	{
+		"Longitude" : "-100.171378",
+		"Zipcode" : "69022",
+		"ZipClass" : "STANDARD",
+		"County" : "FURNAS",
+		"City" : "CAMBRIDGE",
+		"State" : "NE",
+		"Latitude" : "+40.269966"
+	},
+	{
+		"Longitude" : "-101.697240",
+		"Zipcode" : "69023",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "CHAMPION",
+		"State" : "NE",
+		"Latitude" : "+40.524730"
+	},
+	{
+		"Longitude" : "-100.835774",
+		"Zipcode" : "69024",
+		"ZipClass" : "STANDARD",
+		"County" : "HITCHCOCK",
+		"City" : "CULBERTSON",
+		"State" : "NE",
+		"Latitude" : "+40.231495"
+	},
+	{
+		"Longitude" : "-100.543990",
+		"Zipcode" : "69025",
+		"ZipClass" : "STANDARD",
+		"County" : "FRONTIER",
+		"City" : "CURTIS",
+		"State" : "NE",
+		"Latitude" : "+40.643861"
+	},
+	{
+		"Longitude" : "-100.476977",
+		"Zipcode" : "69026",
+		"ZipClass" : "STANDARD",
+		"County" : "RED WILLOW",
+		"City" : "DANBURY",
+		"State" : "NE",
+		"Latitude" : "+40.176507"
+	},
+	{
+		"Longitude" : "-101.697240",
+		"Zipcode" : "69027",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "ENDERS",
+		"State" : "NE",
+		"Latitude" : "+40.524730"
+	},
+	{
+		"Longitude" : "-100.009780",
+		"Zipcode" : "69028",
+		"ZipClass" : "STANDARD",
+		"County" : "FRONTIER",
+		"City" : "EUSTIS",
+		"State" : "NE",
+		"Latitude" : "+40.564186"
+	},
+	{
+		"Longitude" : "-100.173314",
+		"Zipcode" : "69029",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "FARNAM",
+		"State" : "NE",
+		"Latitude" : "+40.740544"
+	},
+	{
+		"Longitude" : "-101.687688",
+		"Zipcode" : "69030",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNDY",
+		"City" : "HAIGLER",
+		"State" : "NE",
+		"Latitude" : "+40.176417"
+	},
+	{
+		"Longitude" : "-101.061328",
+		"Zipcode" : "69031",
+		"ZipClass" : "STANDARD",
+		"County" : "HAYES",
+		"City" : "HAMLET",
+		"State" : "NE",
+		"Latitude" : "+40.524819"
+	},
+	{
+		"Longitude" : "-101.061328",
+		"Zipcode" : "69032",
+		"ZipClass" : "STANDARD",
+		"County" : "HAYES",
+		"City" : "HAYES CENTER",
+		"State" : "NE",
+		"Latitude" : "+40.524819"
+	},
+	{
+		"Longitude" : "-101.632038",
+		"Zipcode" : "69033",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "IMPERIAL",
+		"State" : "NE",
+		"Latitude" : "+40.515114"
+	},
+	{
+		"Longitude" : "-100.365256",
+		"Zipcode" : "69034",
+		"ZipClass" : "STANDARD",
+		"County" : "RED WILLOW",
+		"City" : "INDIANOLA",
+		"State" : "NE",
+		"Latitude" : "+40.240034"
+	},
+	{
+		"Longitude" : "-100.476977",
+		"Zipcode" : "69036",
+		"ZipClass" : "STANDARD",
+		"County" : "RED WILLOW",
+		"City" : "LEBANON",
+		"State" : "NE",
+		"Latitude" : "+40.176507"
+	},
+	{
+		"Longitude" : "-101.687688",
+		"Zipcode" : "69037",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNDY",
+		"City" : "MAX",
+		"State" : "NE",
+		"Latitude" : "+40.176417"
+	},
+	{
+		"Longitude" : "-100.382030",
+		"Zipcode" : "69038",
+		"ZipClass" : "STANDARD",
+		"County" : "FRONTIER",
+		"City" : "MAYWOOD",
+		"State" : "NE",
+		"Latitude" : "+40.524809"
+	},
+	{
+		"Longitude" : "-100.382030",
+		"Zipcode" : "69039",
+		"ZipClass" : "STANDARD",
+		"County" : "FRONTIER",
+		"City" : "MOOREFIELD",
+		"State" : "NE",
+		"Latitude" : "+40.524809"
+	},
+	{
+		"Longitude" : "-101.065001",
+		"Zipcode" : "69040",
+		"ZipClass" : "STANDARD",
+		"County" : "HITCHCOCK",
+		"City" : "PALISADE",
+		"State" : "NE",
+		"Latitude" : "+40.267333"
+	},
+	{
+		"Longitude" : "-101.687688",
+		"Zipcode" : "69041",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNDY",
+		"City" : "PARKS",
+		"State" : "NE",
+		"Latitude" : "+40.176417"
+	},
+	{
+		"Longitude" : "-100.382030",
+		"Zipcode" : "69042",
+		"ZipClass" : "STANDARD",
+		"County" : "FRONTIER",
+		"City" : "STOCKVILLE",
+		"State" : "NE",
+		"Latitude" : "+40.524809"
+	},
+	{
+		"Longitude" : "-101.227939",
+		"Zipcode" : "69043",
+		"ZipClass" : "STANDARD",
+		"County" : "HITCHCOCK",
+		"City" : "STRATTON",
+		"State" : "NE",
+		"Latitude" : "+40.150140"
+	},
+	{
+		"Longitude" : "-101.010823",
+		"Zipcode" : "69044",
+		"ZipClass" : "STANDARD",
+		"County" : "HITCHCOCK",
+		"City" : "TRENTON",
+		"State" : "NE",
+		"Latitude" : "+40.176356"
+	},
+	{
+		"Longitude" : "-101.370507",
+		"Zipcode" : "69045",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "WAUNETA",
+		"State" : "NE",
+		"Latitude" : "+40.416806"
+	},
+	{
+		"Longitude" : "-100.106003",
+		"Zipcode" : "69046",
+		"ZipClass" : "STANDARD",
+		"County" : "FURNAS",
+		"City" : "WILSONVILLE",
+		"State" : "NE",
+		"Latitude" : "+40.112009"
+	},
+	{
+		"Longitude" : "-100.749070",
+		"Zipcode" : "69101",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NORTH PLATTE",
+		"State" : "NE",
+		"Latitude" : "+41.102555"
+	},
+	{
+		"Longitude" : "-100.746912",
+		"Zipcode" : "69103",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NORTH PLATTE",
+		"State" : "NE",
+		"Latitude" : "+41.046447"
+	},
+	{
+		"Longitude" : "-100.194253",
+		"Zipcode" : "69120",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "ARNOLD",
+		"State" : "NE",
+		"Latitude" : "+41.423996"
+	},
+	{
+		"Longitude" : "-101.714495",
+		"Zipcode" : "69121",
+		"ZipClass" : "STANDARD",
+		"County" : "ARTHUR",
+		"City" : "ARTHUR",
+		"State" : "NE",
+		"Latitude" : "+41.554073"
+	},
+	{
+		"Longitude" : "-102.261262",
+		"Zipcode" : "69122",
+		"ZipClass" : "STANDARD",
+		"County" : "DEUEL",
+		"City" : "BIG SPRINGS",
+		"State" : "NE",
+		"Latitude" : "+41.111961"
+	},
+	{
+		"Longitude" : "-100.391826",
+		"Zipcode" : "69123",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BRADY",
+		"State" : "NE",
+		"Latitude" : "+41.049046"
+	},
+	{
+		"Longitude" : "-102.852752",
+		"Zipcode" : "69125",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRILL",
+		"City" : "BROADWATER",
+		"State" : "NE",
+		"Latitude" : "+41.598622"
+	},
+	{
+		"Longitude" : "-101.921709",
+		"Zipcode" : "69127",
+		"ZipClass" : "STANDARD",
+		"County" : "KEITH",
+		"City" : "BRULE",
+		"State" : "NE",
+		"Latitude" : "+41.135819"
+	},
+	{
+		"Longitude" : "-103.891757",
+		"Zipcode" : "69128",
+		"ZipClass" : "STANDARD",
+		"County" : "KIMBALL",
+		"City" : "BUSHNELL",
+		"State" : "NE",
+		"Latitude" : "+41.232626"
+	},
+	{
+		"Longitude" : "-102.421494",
+		"Zipcode" : "69129",
+		"ZipClass" : "STANDARD",
+		"County" : "DEUEL",
+		"City" : "CHAPPELL",
+		"State" : "NE",
+		"Latitude" : "+41.112122"
+	},
+	{
+		"Longitude" : "-099.967448",
+		"Zipcode" : "69130",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "COZAD",
+		"State" : "NE",
+		"Latitude" : "+40.895003"
+	},
+	{
+		"Longitude" : "-103.031435",
+		"Zipcode" : "69131",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "DALTON",
+		"State" : "NE",
+		"Latitude" : "+41.380172"
+	},
+	{
+		"Longitude" : "-100.746912",
+		"Zipcode" : "69132",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "DICKENS",
+		"State" : "NE",
+		"Latitude" : "+41.046447"
+	},
+	{
+		"Longitude" : "-103.714501",
+		"Zipcode" : "69133",
+		"ZipClass" : "STANDARD",
+		"County" : "KIMBALL",
+		"City" : "DIX",
+		"State" : "NE",
+		"Latitude" : "+41.198010"
+	},
+	{
+		"Longitude" : "-101.649075",
+		"Zipcode" : "69134",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "ELSIE",
+		"State" : "NE",
+		"Latitude" : "+40.850739"
+	},
+	{
+		"Longitude" : "-101.126167",
+		"Zipcode" : "69135",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "ELSMERE",
+		"State" : "NE",
+		"Latitude" : "+42.542631"
+	},
+	{
+		"Longitude" : "-100.129125",
+		"Zipcode" : "69138",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "GOTHENBURG",
+		"State" : "NE",
+		"Latitude" : "+40.945256"
+	},
+	{
+		"Longitude" : "-101.725800",
+		"Zipcode" : "69140",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "GRANT",
+		"State" : "NE",
+		"Latitude" : "+40.846046"
+	},
+	{
+		"Longitude" : "-102.983464",
+		"Zipcode" : "69141",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "GURLEY",
+		"State" : "NE",
+		"Latitude" : "+41.315041"
+	},
+	{
+		"Longitude" : "-100.555805",
+		"Zipcode" : "69142",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "HALSEY",
+		"State" : "NE",
+		"Latitude" : "+41.913806"
+	},
+	{
+		"Longitude" : "-100.963080",
+		"Zipcode" : "69143",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HERSHEY",
+		"State" : "NE",
+		"Latitude" : "+40.989930"
+	},
+	{
+		"Longitude" : "-101.604569",
+		"Zipcode" : "69144",
+		"ZipClass" : "STANDARD",
+		"County" : "KEITH",
+		"City" : "KEYSTONE",
+		"State" : "NE",
+		"Latitude" : "+41.293525"
+	},
+	{
+		"Longitude" : "-103.769557",
+		"Zipcode" : "69145",
+		"ZipClass" : "STANDARD",
+		"County" : "KIMBALL",
+		"City" : "KIMBALL",
+		"State" : "NE",
+		"Latitude" : "+41.206972"
+	},
+	{
+		"Longitude" : "-101.767329",
+		"Zipcode" : "69146",
+		"ZipClass" : "STANDARD",
+		"County" : "KEITH",
+		"City" : "LEMOYNE",
+		"State" : "NE",
+		"Latitude" : "+41.323607"
+	},
+	{
+		"Longitude" : "-102.153084",
+		"Zipcode" : "69147",
+		"ZipClass" : "STANDARD",
+		"County" : "GARDEN",
+		"City" : "LEWELLEN",
+		"State" : "NE",
+		"Latitude" : "+41.315509"
+	},
+	{
+		"Longitude" : "-102.476752",
+		"Zipcode" : "69148",
+		"ZipClass" : "STANDARD",
+		"County" : "GARDEN",
+		"City" : "LISCO",
+		"State" : "NE",
+		"Latitude" : "+41.409518"
+	},
+	{
+		"Longitude" : "-102.794277",
+		"Zipcode" : "69149",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "LODGEPOLE",
+		"State" : "NE",
+		"Latitude" : "+41.223638"
+	},
+	{
+		"Longitude" : "-101.649075",
+		"Zipcode" : "69150",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "MADRID",
+		"State" : "NE",
+		"Latitude" : "+40.850739"
+	},
+	{
+		"Longitude" : "-100.583269",
+		"Zipcode" : "69151",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "MAXWELL",
+		"State" : "NE",
+		"Latitude" : "+41.096752"
+	},
+	{
+		"Longitude" : "-101.045192",
+		"Zipcode" : "69152",
+		"ZipClass" : "STANDARD",
+		"County" : "HOOKER",
+		"City" : "MULLEN",
+		"State" : "NE",
+		"Latitude" : "+42.042143"
+	},
+	{
+		"Longitude" : "-101.663033",
+		"Zipcode" : "69153",
+		"ZipClass" : "STANDARD",
+		"County" : "KEITH",
+		"City" : "OGALLALA",
+		"State" : "NE",
+		"Latitude" : "+41.131676"
+	},
+	{
+		"Longitude" : "-102.385678",
+		"Zipcode" : "69154",
+		"ZipClass" : "STANDARD",
+		"County" : "GARDEN",
+		"City" : "OSHKOSH",
+		"State" : "NE",
+		"Latitude" : "+41.377536"
+	},
+	{
+		"Longitude" : "-101.423214",
+		"Zipcode" : "69155",
+		"ZipClass" : "STANDARD",
+		"County" : "KEITH",
+		"City" : "PAXTON",
+		"State" : "NE",
+		"Latitude" : "+41.199097"
+	},
+	{
+		"Longitude" : "-103.247811",
+		"Zipcode" : "69156",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "POTTER",
+		"State" : "NE",
+		"Latitude" : "+41.212817"
+	},
+	{
+		"Longitude" : "-099.977135",
+		"Zipcode" : "69157",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "PURDUM",
+		"State" : "NE",
+		"Latitude" : "+41.912303"
+	},
+	{
+		"Longitude" : "-102.995925",
+		"Zipcode" : "69160",
+		"ZipClass" : "UNIQUE",
+		"County" : "CHEYENNE",
+		"City" : "SIDNEY",
+		"State" : "NE",
+		"Latitude" : "+41.220549"
+	},
+	{
+		"Longitude" : "-100.555805",
+		"Zipcode" : "69161",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "SENECA",
+		"State" : "NE",
+		"Latitude" : "+41.913806"
+	},
+	{
+		"Longitude" : "-103.066015",
+		"Zipcode" : "69162",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "SIDNEY",
+		"State" : "NE",
+		"Latitude" : "+41.161943"
+	},
+	{
+		"Longitude" : "-100.512463",
+		"Zipcode" : "69163",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "STAPLETON",
+		"State" : "NE",
+		"Latitude" : "+41.480166"
+	},
+	{
+		"Longitude" : "-101.136616",
+		"Zipcode" : "69165",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SUTHERLAND",
+		"State" : "NE",
+		"Latitude" : "+41.159700"
+	},
+	{
+		"Longitude" : "-100.557354",
+		"Zipcode" : "69166",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "THEDFORD",
+		"State" : "NE",
+		"Latitude" : "+41.979407"
+	},
+	{
+		"Longitude" : "-101.059489",
+		"Zipcode" : "69167",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "TRYON",
+		"State" : "NE",
+		"Latitude" : "+41.568548"
+	},
+	{
+		"Longitude" : "-101.649075",
+		"Zipcode" : "69168",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "VENANGO",
+		"State" : "NE",
+		"Latitude" : "+40.850739"
+	},
+	{
+		"Longitude" : "-100.746912",
+		"Zipcode" : "69169",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WALLACE",
+		"State" : "NE",
+		"Latitude" : "+41.046447"
+	},
+	{
+		"Longitude" : "-100.760429",
+		"Zipcode" : "69170",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WELLFLEET",
+		"State" : "NE",
+		"Latitude" : "+40.762172"
+	},
+	{
+		"Longitude" : "-100.070257",
+		"Zipcode" : "69171",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWSON",
+		"City" : "WILLOW ISLAND",
+		"State" : "NE",
+		"Latitude" : "+40.892469"
+	},
+	{
+		"Longitude" : "-102.331762",
+		"Zipcode" : "69190",
+		"ZipClass" : "UNIQUE",
+		"County" : "GARDEN",
+		"City" : "OSHKOSH",
+		"State" : "NE",
+		"Latitude" : "+41.615307"
+	},
+	{
+		"Longitude" : "-100.996747",
+		"Zipcode" : "69201",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "VALENTINE",
+		"State" : "NE",
+		"Latitude" : "+42.906836"
+	},
+	{
+		"Longitude" : "-099.852364",
+		"Zipcode" : "69210",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "AINSWORTH",
+		"State" : "NE",
+		"Latitude" : "+42.542734"
+	},
+	{
+		"Longitude" : "-101.126167",
+		"Zipcode" : "69211",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "CODY",
+		"State" : "NE",
+		"Latitude" : "+42.542631"
+	},
+	{
+		"Longitude" : "-101.126167",
+		"Zipcode" : "69212",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "CROOKSTON",
+		"State" : "NE",
+		"Latitude" : "+42.542631"
+	},
+	{
+		"Longitude" : "-099.930477",
+		"Zipcode" : "69214",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "JOHNSTOWN",
+		"State" : "NE",
+		"Latitude" : "+42.465698"
+	},
+	{
+		"Longitude" : "-101.126167",
+		"Zipcode" : "69216",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "KILGORE",
+		"State" : "NE",
+		"Latitude" : "+42.542631"
+	},
+	{
+		"Longitude" : "-099.702813",
+		"Zipcode" : "69217",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "LONG PINE",
+		"State" : "NE",
+		"Latitude" : "+42.533987"
+	},
+	{
+		"Longitude" : "-101.126167",
+		"Zipcode" : "69218",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "MERRIMAN",
+		"State" : "NE",
+		"Latitude" : "+42.542631"
+	},
+	{
+		"Longitude" : "-101.126167",
+		"Zipcode" : "69219",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "NENZEL",
+		"State" : "NE",
+		"Latitude" : "+42.542631"
+	},
+	{
+		"Longitude" : "-101.126167",
+		"Zipcode" : "69220",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "SPARKS",
+		"State" : "NE",
+		"Latitude" : "+42.542631"
+	},
+	{
+		"Longitude" : "-101.126167",
+		"Zipcode" : "69221",
+		"ZipClass" : "STANDARD",
+		"County" : "CHERRY",
+		"City" : "WOOD LAKE",
+		"State" : "NE",
+		"Latitude" : "+42.542631"
+	},
+	{
+		"Longitude" : "-103.073327",
+		"Zipcode" : "69301",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX BUTTE",
+		"City" : "ALLIANCE",
+		"State" : "NE",
+		"Latitude" : "+42.219844"
+	},
+	{
+		"Longitude" : "-103.003835",
+		"Zipcode" : "69331",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRILL",
+		"City" : "ANGORA",
+		"State" : "NE",
+		"Latitude" : "+41.721468"
+	},
+	{
+		"Longitude" : "-101.746919",
+		"Zipcode" : "69333",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "ASHBY",
+		"State" : "NE",
+		"Latitude" : "+41.919117"
+	},
+	{
+		"Longitude" : "-103.327050",
+		"Zipcode" : "69334",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRILL",
+		"City" : "BAYARD",
+		"State" : "NE",
+		"Latitude" : "+41.760711"
+	},
+	{
+		"Longitude" : "-102.471549",
+		"Zipcode" : "69335",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "BINGHAM",
+		"State" : "NE",
+		"Latitude" : "+42.730616"
+	},
+	{
+		"Longitude" : "-103.102335",
+		"Zipcode" : "69336",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRILL",
+		"City" : "BRIDGEPORT",
+		"State" : "NE",
+		"Latitude" : "+41.667733"
+	},
+	{
+		"Longitude" : "-103.138479",
+		"Zipcode" : "69337",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWES",
+		"City" : "CHADRON",
+		"State" : "NE",
+		"Latitude" : "+42.774479"
+	},
+	{
+		"Longitude" : "-103.303223",
+		"Zipcode" : "69339",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWES",
+		"City" : "CRAWFORD",
+		"State" : "NE",
+		"Latitude" : "+42.611517"
+	},
+	{
+		"Longitude" : "-102.399697",
+		"Zipcode" : "69340",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "ELLSWORTH",
+		"State" : "NE",
+		"Latitude" : "+42.502412"
+	},
+	{
+		"Longitude" : "-103.757960",
+		"Zipcode" : "69341",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "GERING",
+		"State" : "NE",
+		"Latitude" : "+41.806020"
+	},
+	{
+		"Longitude" : "-102.314593",
+		"Zipcode" : "69343",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "GORDON",
+		"State" : "NE",
+		"Latitude" : "+42.763456"
+	},
+	{
+		"Longitude" : "-103.710045",
+		"Zipcode" : "69345",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNER",
+		"City" : "HARRISBURG",
+		"State" : "NE",
+		"Latitude" : "+41.546441"
+	},
+	{
+		"Longitude" : "-103.782027",
+		"Zipcode" : "69346",
+		"ZipClass" : "STANDARD",
+		"County" : "SIOUX",
+		"City" : "HARRISON",
+		"State" : "NE",
+		"Latitude" : "+42.631216"
+	},
+	{
+		"Longitude" : "-102.665536",
+		"Zipcode" : "69347",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "HAY SPRINGS",
+		"State" : "NE",
+		"Latitude" : "+42.636894"
+	},
+	{
+		"Longitude" : "-103.097258",
+		"Zipcode" : "69348",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX BUTTE",
+		"City" : "HEMINGFORD",
+		"State" : "NE",
+		"Latitude" : "+42.314537"
+	},
+	{
+		"Longitude" : "-104.045244",
+		"Zipcode" : "69349",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "HENRY",
+		"State" : "NE",
+		"Latitude" : "+41.987327"
+	},
+	{
+		"Longitude" : "-101.751854",
+		"Zipcode" : "69350",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "HYANNIS",
+		"State" : "NE",
+		"Latitude" : "+41.959181"
+	},
+	{
+		"Longitude" : "-102.399697",
+		"Zipcode" : "69351",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "LAKESIDE",
+		"State" : "NE",
+		"Latitude" : "+42.502412"
+	},
+	{
+		"Longitude" : "-103.974153",
+		"Zipcode" : "69352",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "LYMAN",
+		"State" : "NE",
+		"Latitude" : "+41.835492"
+	},
+	{
+		"Longitude" : "-103.416351",
+		"Zipcode" : "69353",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "MCGREW",
+		"State" : "NE",
+		"Latitude" : "+41.746944"
+	},
+	{
+		"Longitude" : "-103.256440",
+		"Zipcode" : "69354",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWES",
+		"City" : "MARSLAND",
+		"State" : "NE",
+		"Latitude" : "+42.524433"
+	},
+	{
+		"Longitude" : "-103.468748",
+		"Zipcode" : "69355",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCOTTS BLUFF",
+		"City" : "MELBETA",
+		"State" : "NE",
+		"Latitude" : "+41.765008"
+	},
+	{
+		"Longitude" : "-103.643939",
+		"Zipcode" : "69356",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "MINATARE",
+		"State" : "NE",
+		"Latitude" : "+41.861192"
+	},
+	{
+		"Longitude" : "-103.803504",
+		"Zipcode" : "69357",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "MITCHELL",
+		"State" : "NE",
+		"Latitude" : "+41.874333"
+	},
+	{
+		"Longitude" : "-103.950162",
+		"Zipcode" : "69358",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "MORRILL",
+		"State" : "NE",
+		"Latitude" : "+41.929379"
+	},
+	{
+		"Longitude" : "-102.463590",
+		"Zipcode" : "69360",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "RUSHVILLE",
+		"State" : "NE",
+		"Latitude" : "+42.716340"
+	},
+	{
+		"Longitude" : "-103.770230",
+		"Zipcode" : "69361",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "SCOTTSBLUFF",
+		"State" : "NE",
+		"Latitude" : "+41.872005"
+	},
+	{
+		"Longitude" : "-103.707260",
+		"Zipcode" : "69363",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTTS BLUFF",
+		"City" : "SCOTTSBLUFF",
+		"State" : "NE",
+		"Latitude" : "+41.851012"
+	},
+	{
+		"Longitude" : "-102.399697",
+		"Zipcode" : "69365",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "WHITECLAY",
+		"State" : "NE",
+		"Latitude" : "+42.502412"
+	},
+	{
+		"Longitude" : "-101.746919",
+		"Zipcode" : "69366",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "WHITMAN",
+		"State" : "NE",
+		"Latitude" : "+41.919117"
+	},
+	{
+		"Longitude" : "-103.299462",
+		"Zipcode" : "69367",
+		"ZipClass" : "STANDARD",
+		"County" : "DAWES",
+		"City" : "WHITNEY",
+		"State" : "NE",
+		"Latitude" : "+42.788579"
+	}
+]}

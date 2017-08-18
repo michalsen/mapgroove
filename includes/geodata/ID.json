@@ -1,0 +1,2991 @@
+{
+	"result":[
+	{
+		"Longitude" : "-112.259807",
+		"Zipcode" : "83201",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "POCATELLO",
+		"State" : "ID",
+		"Latitude" : "+42.770177"
+	},
+	{
+		"Longitude" : "-112.467930",
+		"Zipcode" : "83202",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "POCATELLO",
+		"State" : "ID",
+		"Latitude" : "+42.935728"
+	},
+	{
+		"Longitude" : "-112.428535",
+		"Zipcode" : "83203",
+		"ZipClass" : "STANDARD",
+		"County" : "BINGHAM",
+		"City" : "FORT HALL",
+		"State" : "ID",
+		"Latitude" : "+43.033131"
+	},
+	{
+		"Longitude" : "-112.335661",
+		"Zipcode" : "83204",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "POCATELLO",
+		"State" : "ID",
+		"Latitude" : "+42.725750"
+	},
+	{
+		"Longitude" : "-112.410283",
+		"Zipcode" : "83205",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "POCATELLO",
+		"State" : "ID",
+		"Latitude" : "+42.806160"
+	},
+	{
+		"Longitude" : "-112.313836",
+		"Zipcode" : "83206",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "POCATELLO",
+		"State" : "ID",
+		"Latitude" : "+42.639474"
+	},
+	{
+		"Longitude" : "-112.313836",
+		"Zipcode" : "83209",
+		"ZipClass" : "UNIQUE",
+		"County" : "BANNOCK",
+		"City" : "POCATELLO",
+		"State" : "ID",
+		"Latitude" : "+42.639474"
+	},
+	{
+		"Longitude" : "-112.839971",
+		"Zipcode" : "83210",
+		"ZipClass" : "STANDARD",
+		"County" : "BINGHAM",
+		"City" : "ABERDEEN",
+		"State" : "ID",
+		"Latitude" : "+43.004883"
+	},
+	{
+		"Longitude" : "-112.945777",
+		"Zipcode" : "83211",
+		"ZipClass" : "STANDARD",
+		"County" : "POWER",
+		"City" : "AMERICAN FALLS",
+		"State" : "ID",
+		"Latitude" : "+42.635233"
+	},
+	{
+		"Longitude" : "-112.542643",
+		"Zipcode" : "83212",
+		"ZipClass" : "STANDARD",
+		"County" : "POWER",
+		"City" : "ARBON",
+		"State" : "ID",
+		"Latitude" : "+42.512788"
+	},
+	{
+		"Longitude" : "-113.213308",
+		"Zipcode" : "83213",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTE",
+		"City" : "ARCO",
+		"State" : "ID",
+		"Latitude" : "+43.634236"
+	},
+	{
+		"Longitude" : "-112.259209",
+		"Zipcode" : "83214",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "ARIMO",
+		"State" : "ID",
+		"Latitude" : "+42.566743"
+	},
+	{
+		"Longitude" : "-112.297912",
+		"Zipcode" : "83215",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BINGHAM",
+		"City" : "ATOMIC CITY",
+		"State" : "ID",
+		"Latitude" : "+43.244795"
+	},
+	{
+		"Longitude" : "-111.527930",
+		"Zipcode" : "83217",
+		"ZipClass" : "STANDARD",
+		"County" : "CARIBOU",
+		"City" : "BANCROFT",
+		"State" : "ID",
+		"Latitude" : "+42.813756"
+	},
+	{
+		"Longitude" : "-112.181741",
+		"Zipcode" : "83218",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BINGHAM",
+		"City" : "BASALT",
+		"State" : "ID",
+		"Latitude" : "+43.304278"
+	},
+	{
+		"Longitude" : "-111.373414",
+		"Zipcode" : "83220",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAR LAKE",
+		"City" : "BERN",
+		"State" : "ID",
+		"Latitude" : "+42.295466"
+	},
+	{
+		"Longitude" : "-112.464518",
+		"Zipcode" : "83221",
+		"ZipClass" : "STANDARD",
+		"County" : "BINGHAM",
+		"City" : "BLACKFOOT",
+		"State" : "ID",
+		"Latitude" : "+43.251328"
+	},
+	{
+		"Longitude" : "-111.470801",
+		"Zipcode" : "83223",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BEAR LAKE",
+		"City" : "BLOOMINGTON",
+		"State" : "ID",
+		"Latitude" : "+42.190025"
+	},
+	{
+		"Longitude" : "-114.222666",
+		"Zipcode" : "83226",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "CHALLIS",
+		"State" : "ID",
+		"Latitude" : "+44.505990"
+	},
+	{
+		"Longitude" : "-114.312713",
+		"Zipcode" : "83227",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "CLAYTON",
+		"State" : "ID",
+		"Latitude" : "+44.223970"
+	},
+	{
+		"Longitude" : "-111.997341",
+		"Zipcode" : "83228",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CLIFTON",
+		"State" : "ID",
+		"Latitude" : "+42.207519"
+	},
+	{
+		"Longitude" : "-113.816735",
+		"Zipcode" : "83229",
+		"ZipClass" : "STANDARD",
+		"County" : "LEMHI",
+		"City" : "COBALT",
+		"State" : "ID",
+		"Latitude" : "+44.968059"
+	},
+	{
+		"Longitude" : "-111.596651",
+		"Zipcode" : "83230",
+		"ZipClass" : "STANDARD",
+		"County" : "CARIBOU",
+		"City" : "CONDA",
+		"State" : "ID",
+		"Latitude" : "+42.719102"
+	},
+	{
+		"Longitude" : "-111.977480",
+		"Zipcode" : "83232",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "DAYTON",
+		"State" : "ID",
+		"Latitude" : "+42.145827"
+	},
+	{
+		"Longitude" : "-111.217381",
+		"Zipcode" : "83233",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAR LAKE",
+		"City" : "DINGLE",
+		"State" : "ID",
+		"Latitude" : "+42.177359"
+	},
+	{
+		"Longitude" : "-112.120195",
+		"Zipcode" : "83234",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "DOWNEY",
+		"State" : "ID",
+		"Latitude" : "+42.473005"
+	},
+	{
+		"Longitude" : "-114.312713",
+		"Zipcode" : "83235",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "ELLIS",
+		"State" : "ID",
+		"Latitude" : "+44.223970"
+	},
+	{
+		"Longitude" : "-112.109570",
+		"Zipcode" : "83236",
+		"ZipClass" : "STANDARD",
+		"County" : "BINGHAM",
+		"City" : "FIRTH",
+		"State" : "ID",
+		"Latitude" : "+43.303218"
+	},
+	{
+		"Longitude" : "-111.787055",
+		"Zipcode" : "83237",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FRANKLIN",
+		"State" : "ID",
+		"Latitude" : "+42.028792"
+	},
+	{
+		"Longitude" : "-111.088609",
+		"Zipcode" : "83238",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAR LAKE",
+		"City" : "GENEVA",
+		"State" : "ID",
+		"Latitude" : "+42.331048"
+	},
+	{
+		"Longitude" : "-111.435777",
+		"Zipcode" : "83239",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BEAR LAKE",
+		"City" : "GEORGETOWN",
+		"State" : "ID",
+		"Latitude" : "+42.472875"
+	},
+	{
+		"Longitude" : "-111.766910",
+		"Zipcode" : "83241",
+		"ZipClass" : "STANDARD",
+		"County" : "CARIBOU",
+		"City" : "GRACE",
+		"State" : "ID",
+		"Latitude" : "+42.525874"
+	},
+	{
+		"Longitude" : "-112.599201",
+		"Zipcode" : "83243",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "HOLBROOK",
+		"State" : "ID",
+		"Latitude" : "+42.234859"
+	},
+	{
+		"Longitude" : "-113.087828",
+		"Zipcode" : "83244",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTE",
+		"City" : "HOWE",
+		"State" : "ID",
+		"Latitude" : "+43.908662"
+	},
+	{
+		"Longitude" : "-112.248038",
+		"Zipcode" : "83245",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "INKOM",
+		"State" : "ID",
+		"Latitude" : "+42.670637"
+	},
+	{
+		"Longitude" : "-112.058039",
+		"Zipcode" : "83246",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "LAVA HOT SPRINGS",
+		"State" : "ID",
+		"Latitude" : "+42.601970"
+	},
+	{
+		"Longitude" : "-112.207443",
+		"Zipcode" : "83250",
+		"ZipClass" : "STANDARD",
+		"County" : "BANNOCK",
+		"City" : "MCCAMMON",
+		"State" : "ID",
+		"Latitude" : "+42.611881"
+	},
+	{
+		"Longitude" : "-113.740599",
+		"Zipcode" : "83251",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "MACKAY",
+		"State" : "ID",
+		"Latitude" : "+44.017199"
+	},
+	{
+		"Longitude" : "-112.556004",
+		"Zipcode" : "83252",
+		"ZipClass" : "STANDARD",
+		"County" : "ONEIDA",
+		"City" : "MALAD CITY",
+		"State" : "ID",
+		"Latitude" : "+42.236441"
+	},
+	{
+		"Longitude" : "-113.816735",
+		"Zipcode" : "83253",
+		"ZipClass" : "STANDARD",
+		"County" : "LEMHI",
+		"City" : "MAY",
+		"State" : "ID",
+		"Latitude" : "+44.968059"
+	},
+	{
+		"Longitude" : "-111.296810",
+		"Zipcode" : "83254",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAR LAKE",
+		"City" : "MONTPELIER",
+		"State" : "ID",
+		"Latitude" : "+42.286440"
+	},
+	{
+		"Longitude" : "-113.454400",
+		"Zipcode" : "83255",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTE",
+		"City" : "MOORE",
+		"State" : "ID",
+		"Latitude" : "+43.729598"
+	},
+	{
+		"Longitude" : "-112.442253",
+		"Zipcode" : "83256",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BINGHAM",
+		"City" : "MORELAND",
+		"State" : "ID",
+		"Latitude" : "+43.222648"
+	},
+	{
+		"Longitude" : "-111.420825",
+		"Zipcode" : "83261",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAR LAKE",
+		"City" : "PARIS",
+		"State" : "ID",
+		"Latitude" : "+42.224249"
+	},
+	{
+		"Longitude" : "-112.629467",
+		"Zipcode" : "83262",
+		"ZipClass" : "STANDARD",
+		"County" : "BINGHAM",
+		"City" : "PINGREE",
+		"State" : "ID",
+		"Latitude" : "+43.133647"
+	},
+	{
+		"Longitude" : "-111.812126",
+		"Zipcode" : "83263",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "PRESTON",
+		"State" : "ID",
+		"Latitude" : "+42.207376"
+	},
+	{
+		"Longitude" : "-112.836032",
+		"Zipcode" : "83271",
+		"ZipClass" : "STANDARD",
+		"County" : "POWER",
+		"City" : "ROCKLAND",
+		"State" : "ID",
+		"Latitude" : "+42.490846"
+	},
+	{
+		"Longitude" : "-111.329873",
+		"Zipcode" : "83272",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAR LAKE",
+		"City" : "SAINT CHARLES",
+		"State" : "ID",
+		"Latitude" : "+42.095512"
+	},
+	{
+		"Longitude" : "-112.118813",
+		"Zipcode" : "83274",
+		"ZipClass" : "STANDARD",
+		"County" : "BINGHAM",
+		"City" : "SHELLEY",
+		"State" : "ID",
+		"Latitude" : "+43.349659"
+	},
+	{
+		"Longitude" : "-111.634757",
+		"Zipcode" : "83276",
+		"ZipClass" : "STANDARD",
+		"County" : "CARIBOU",
+		"City" : "SODA SPRINGS",
+		"State" : "ID",
+		"Latitude" : "+42.772866"
+	},
+	{
+		"Longitude" : "-112.672955",
+		"Zipcode" : "83277",
+		"ZipClass" : "STANDARD",
+		"County" : "BINGHAM",
+		"City" : "SPRINGFIELD",
+		"State" : "ID",
+		"Latitude" : "+43.080334"
+	},
+	{
+		"Longitude" : "-114.856089",
+		"Zipcode" : "83278",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "STANLEY",
+		"State" : "ID",
+		"Latitude" : "+44.371442"
+	},
+	{
+		"Longitude" : "-111.978055",
+		"Zipcode" : "83281",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BANNOCK",
+		"City" : "SWANLAKE",
+		"State" : "ID",
+		"Latitude" : "+42.319496"
+	},
+	{
+		"Longitude" : "-111.684093",
+		"Zipcode" : "83283",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "THATCHER",
+		"State" : "ID",
+		"Latitude" : "+42.379408"
+	},
+	{
+		"Longitude" : "-111.267458",
+		"Zipcode" : "83285",
+		"ZipClass" : "STANDARD",
+		"County" : "CARIBOU",
+		"City" : "WAYAN",
+		"State" : "ID",
+		"Latitude" : "+42.892211"
+	},
+	{
+		"Longitude" : "-112.013197",
+		"Zipcode" : "83286",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WESTON",
+		"State" : "ID",
+		"Latitude" : "+42.060353"
+	},
+	{
+		"Longitude" : "-111.441977",
+		"Zipcode" : "83287",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAR LAKE",
+		"City" : "FISH HAVEN",
+		"State" : "ID",
+		"Latitude" : "+42.039684"
+	},
+	{
+		"Longitude" : "-114.629497",
+		"Zipcode" : "83301",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "TWIN FALLS",
+		"State" : "ID",
+		"Latitude" : "+42.443224"
+	},
+	{
+		"Longitude" : "-114.815971",
+		"Zipcode" : "83302",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "ROGERSON",
+		"State" : "ID",
+		"Latitude" : "+42.166936"
+	},
+	{
+		"Longitude" : "-114.519536",
+		"Zipcode" : "83303",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "TWIN FALLS",
+		"State" : "ID",
+		"Latitude" : "+42.456273"
+	},
+	{
+		"Longitude" : "-113.461324",
+		"Zipcode" : "83311",
+		"ZipClass" : "STANDARD",
+		"County" : "CASSIA",
+		"City" : "ALBION",
+		"State" : "ID",
+		"Latitude" : "+42.339326"
+	},
+	{
+		"Longitude" : "-113.628255",
+		"Zipcode" : "83312",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASSIA",
+		"City" : "ALMO",
+		"State" : "ID",
+		"Latitude" : "+42.084606"
+	},
+	{
+		"Longitude" : "-114.217718",
+		"Zipcode" : "83313",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "BELLEVUE",
+		"State" : "ID",
+		"Latitude" : "+43.394760"
+	},
+	{
+		"Longitude" : "-114.887601",
+		"Zipcode" : "83314",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODING",
+		"City" : "BLISS",
+		"State" : "ID",
+		"Latitude" : "+42.918993"
+	},
+	{
+		"Longitude" : "-114.829856",
+		"Zipcode" : "83316",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "BUHL",
+		"State" : "ID",
+		"Latitude" : "+42.586201"
+	},
+	{
+		"Longitude" : "-113.848558",
+		"Zipcode" : "83318",
+		"ZipClass" : "STANDARD",
+		"County" : "CASSIA",
+		"City" : "BURLEY",
+		"State" : "ID",
+		"Latitude" : "+42.399472"
+	},
+	{
+		"Longitude" : "-114.076206",
+		"Zipcode" : "83320",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "CAREY",
+		"State" : "ID",
+		"Latitude" : "+43.391742"
+	},
+	{
+		"Longitude" : "-114.784168",
+		"Zipcode" : "83321",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "CASTLEFORD",
+		"State" : "ID",
+		"Latitude" : "+42.402884"
+	},
+	{
+		"Longitude" : "-114.730694",
+		"Zipcode" : "83322",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMAS",
+		"City" : "CORRAL",
+		"State" : "ID",
+		"Latitude" : "+43.528155"
+	},
+	{
+		"Longitude" : "-113.433757",
+		"Zipcode" : "83323",
+		"ZipClass" : "STANDARD",
+		"County" : "CASSIA",
+		"City" : "DECLO",
+		"State" : "ID",
+		"Latitude" : "+42.524527"
+	},
+	{
+		"Longitude" : "-114.289216",
+		"Zipcode" : "83324",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "DIETRICH",
+		"State" : "ID",
+		"Latitude" : "+42.888995"
+	},
+	{
+		"Longitude" : "-114.246706",
+		"Zipcode" : "83325",
+		"ZipClass" : "STANDARD",
+		"County" : "JEROME",
+		"City" : "EDEN",
+		"State" : "ID",
+		"Latitude" : "+42.586804"
+	},
+	{
+		"Longitude" : "-114.686706",
+		"Zipcode" : "83327",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMAS",
+		"City" : "FAIRFIELD",
+		"State" : "ID",
+		"Latitude" : "+43.368419"
+	},
+	{
+		"Longitude" : "-114.623799",
+		"Zipcode" : "83328",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "FILER",
+		"State" : "ID",
+		"Latitude" : "+42.540760"
+	},
+	{
+		"Longitude" : "-114.773963",
+		"Zipcode" : "83330",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODING",
+		"City" : "GOODING",
+		"State" : "ID",
+		"Latitude" : "+42.907488"
+	},
+	{
+		"Longitude" : "-114.862110",
+		"Zipcode" : "83332",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODING",
+		"City" : "HAGERMAN",
+		"State" : "ID",
+		"Latitude" : "+42.807535"
+	},
+	{
+		"Longitude" : "-114.310080",
+		"Zipcode" : "83333",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "HAILEY",
+		"State" : "ID",
+		"Latitude" : "+43.541950"
+	},
+	{
+		"Longitude" : "-114.207144",
+		"Zipcode" : "83334",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "HANSEN",
+		"State" : "ID",
+		"Latitude" : "+42.451937"
+	},
+	{
+		"Longitude" : "-114.071311",
+		"Zipcode" : "83335",
+		"ZipClass" : "STANDARD",
+		"County" : "JEROME",
+		"City" : "HAZELTON",
+		"State" : "ID",
+		"Latitude" : "+42.596069"
+	},
+	{
+		"Longitude" : "-113.809824",
+		"Zipcode" : "83336",
+		"ZipClass" : "STANDARD",
+		"County" : "MINIDOKA",
+		"City" : "HEYBURN",
+		"State" : "ID",
+		"Latitude" : "+42.564732"
+	},
+	{
+		"Longitude" : "-114.801713",
+		"Zipcode" : "83337",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAMAS",
+		"City" : "HILL CITY",
+		"State" : "ID",
+		"Latitude" : "+43.327700"
+	},
+	{
+		"Longitude" : "-114.374568",
+		"Zipcode" : "83338",
+		"ZipClass" : "STANDARD",
+		"County" : "JEROME",
+		"City" : "JEROME",
+		"State" : "ID",
+		"Latitude" : "+42.736869"
+	},
+	{
+		"Longitude" : "-114.485781",
+		"Zipcode" : "83340",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "KETCHUM",
+		"State" : "ID",
+		"Latitude" : "+43.669159"
+	},
+	{
+		"Longitude" : "-114.367966",
+		"Zipcode" : "83341",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "KIMBERLY",
+		"State" : "ID",
+		"Latitude" : "+42.505410"
+	},
+	{
+		"Longitude" : "-113.392736",
+		"Zipcode" : "83342",
+		"ZipClass" : "STANDARD",
+		"County" : "CASSIA",
+		"City" : "MALTA",
+		"State" : "ID",
+		"Latitude" : "+42.274076"
+	},
+	{
+		"Longitude" : "-113.509762",
+		"Zipcode" : "83343",
+		"ZipClass" : "STANDARD",
+		"County" : "MINIDOKA",
+		"City" : "MINIDOKA",
+		"State" : "ID",
+		"Latitude" : "+42.772955"
+	},
+	{
+		"Longitude" : "-114.120513",
+		"Zipcode" : "83344",
+		"ZipClass" : "STANDARD",
+		"County" : "TWIN FALLS",
+		"City" : "MURTAUGH",
+		"State" : "ID",
+		"Latitude" : "+42.476903"
+	},
+	{
+		"Longitude" : "-113.872032",
+		"Zipcode" : "83346",
+		"ZipClass" : "STANDARD",
+		"County" : "CASSIA",
+		"City" : "OAKLEY",
+		"State" : "ID",
+		"Latitude" : "+42.193954"
+	},
+	{
+		"Longitude" : "-113.790133",
+		"Zipcode" : "83347",
+		"ZipClass" : "STANDARD",
+		"County" : "MINIDOKA",
+		"City" : "PAUL",
+		"State" : "ID",
+		"Latitude" : "+42.684923"
+	},
+	{
+		"Longitude" : "-114.023913",
+		"Zipcode" : "83348",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "PICABO",
+		"State" : "ID",
+		"Latitude" : "+43.298245"
+	},
+	{
+		"Longitude" : "-114.212408",
+		"Zipcode" : "83349",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "RICHFIELD",
+		"State" : "ID",
+		"Latitude" : "+43.060804"
+	},
+	{
+		"Longitude" : "-113.648077",
+		"Zipcode" : "83350",
+		"ZipClass" : "STANDARD",
+		"County" : "MINIDOKA",
+		"City" : "RUPERT",
+		"State" : "ID",
+		"Latitude" : "+42.688753"
+	},
+	{
+		"Longitude" : "-114.414825",
+		"Zipcode" : "83352",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SHOSHONE",
+		"State" : "ID",
+		"Latitude" : "+43.059165"
+	},
+	{
+		"Longitude" : "-114.527235",
+		"Zipcode" : "83353",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BLAINE",
+		"City" : "SUN VALLEY",
+		"State" : "ID",
+		"Latitude" : "+43.684047"
+	},
+	{
+		"Longitude" : "-114.322568",
+		"Zipcode" : "83354",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BLAINE",
+		"City" : "SUN VALLEY",
+		"State" : "ID",
+		"Latitude" : "+43.594633"
+	},
+	{
+		"Longitude" : "-114.730593",
+		"Zipcode" : "83355",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODING",
+		"City" : "WENDELL",
+		"State" : "ID",
+		"Latitude" : "+42.747536"
+	},
+	{
+		"Longitude" : "-111.691535",
+		"Zipcode" : "83401",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "IDAHO FALLS",
+		"State" : "ID",
+		"Latitude" : "+43.516701"
+	},
+	{
+		"Longitude" : "-112.134734",
+		"Zipcode" : "83402",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "IDAHO FALLS",
+		"State" : "ID",
+		"Latitude" : "+43.518240"
+	},
+	{
+		"Longitude" : "-111.333376",
+		"Zipcode" : "83403",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "IDAHO FALLS",
+		"State" : "ID",
+		"Latitude" : "+43.421132"
+	},
+	{
+		"Longitude" : "-111.660433",
+		"Zipcode" : "83404",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "IDAHO FALLS",
+		"State" : "ID",
+		"Latitude" : "+43.433036"
+	},
+	{
+		"Longitude" : "-111.782152",
+		"Zipcode" : "83405",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "IDAHO FALLS",
+		"State" : "ID",
+		"Latitude" : "+43.323306"
+	},
+	{
+		"Longitude" : "-111.963375",
+		"Zipcode" : "83406",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "IDAHO FALLS",
+		"State" : "ID",
+		"Latitude" : "+43.444641"
+	},
+	{
+		"Longitude" : "-111.782152",
+		"Zipcode" : "83415",
+		"ZipClass" : "UNIQUE",
+		"County" : "BONNEVILLE",
+		"City" : "IDAHO FALLS",
+		"State" : "ID",
+		"Latitude" : "+43.323306"
+	},
+	{
+		"Longitude" : "-111.425270",
+		"Zipcode" : "83420",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "ASHTON",
+		"State" : "ID",
+		"Latitude" : "+44.015259"
+	},
+	{
+		"Longitude" : "-111.535095",
+		"Zipcode" : "83421",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREMONT",
+		"City" : "CHESTER",
+		"State" : "ID",
+		"Latitude" : "+44.001141"
+	},
+	{
+		"Longitude" : "-111.158402",
+		"Zipcode" : "83422",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "DRIGGS",
+		"State" : "ID",
+		"Latitude" : "+43.713752"
+	},
+	{
+		"Longitude" : "-112.219898",
+		"Zipcode" : "83423",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "DUBOIS",
+		"State" : "ID",
+		"Latitude" : "+44.177432"
+	},
+	{
+		"Longitude" : "-111.153854",
+		"Zipcode" : "83424",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "FELT",
+		"State" : "ID",
+		"Latitude" : "+43.872755"
+	},
+	{
+		"Longitude" : "-112.260858",
+		"Zipcode" : "83425",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HAMER",
+		"State" : "ID",
+		"Latitude" : "+43.878511"
+	},
+	{
+		"Longitude" : "-111.854263",
+		"Zipcode" : "83427",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "IONA",
+		"State" : "ID",
+		"Latitude" : "+43.407293"
+	},
+	{
+		"Longitude" : "-111.252730",
+		"Zipcode" : "83428",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "IRWIN",
+		"State" : "ID",
+		"Latitude" : "+43.386149"
+	},
+	{
+		"Longitude" : "-111.427555",
+		"Zipcode" : "83429",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "ISLAND PARK",
+		"State" : "ID",
+		"Latitude" : "+44.408347"
+	},
+	{
+		"Longitude" : "-112.023161",
+		"Zipcode" : "83431",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LEWISVILLE",
+		"State" : "ID",
+		"Latitude" : "+43.692913"
+	},
+	{
+		"Longitude" : "-111.601710",
+		"Zipcode" : "83433",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "MACKS INN",
+		"State" : "ID",
+		"Latitude" : "+44.319199"
+	},
+	{
+		"Longitude" : "-112.041547",
+		"Zipcode" : "83434",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MENAN",
+		"State" : "ID",
+		"Latitude" : "+43.714547"
+	},
+	{
+		"Longitude" : "-112.447757",
+		"Zipcode" : "83435",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MONTEVIEW",
+		"State" : "ID",
+		"Latitude" : "+43.871293"
+	},
+	{
+		"Longitude" : "-111.594020",
+		"Zipcode" : "83436",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "NEWDALE",
+		"State" : "ID",
+		"Latitude" : "+43.897670"
+	},
+	{
+		"Longitude" : "-111.601710",
+		"Zipcode" : "83438",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREMONT",
+		"City" : "PARKER",
+		"State" : "ID",
+		"Latitude" : "+44.319199"
+	},
+	{
+		"Longitude" : "-111.771375",
+		"Zipcode" : "83440",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "REXBURG",
+		"State" : "ID",
+		"Latitude" : "+43.791320"
+	},
+	{
+		"Longitude" : "-111.691047",
+		"Zipcode" : "83441",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "REXBURG",
+		"State" : "ID",
+		"Latitude" : "+43.776095"
+	},
+	{
+		"Longitude" : "-111.889325",
+		"Zipcode" : "83442",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "RIGBY",
+		"State" : "ID",
+		"Latitude" : "+43.692206"
+	},
+	{
+		"Longitude" : "-111.714580",
+		"Zipcode" : "83443",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "RIRIE",
+		"State" : "ID",
+		"Latitude" : "+43.641033"
+	},
+	{
+		"Longitude" : "-112.173195",
+		"Zipcode" : "83444",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ROBERTS",
+		"State" : "ID",
+		"Latitude" : "+43.698922"
+	},
+	{
+		"Longitude" : "-111.703605",
+		"Zipcode" : "83445",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "SAINT ANTHONY",
+		"State" : "ID",
+		"Latitude" : "+43.962969"
+	},
+	{
+		"Longitude" : "-112.306237",
+		"Zipcode" : "83446",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "SPENCER",
+		"State" : "ID",
+		"Latitude" : "+44.271785"
+	},
+	{
+		"Longitude" : "-111.601710",
+		"Zipcode" : "83447",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "SQUIRREL",
+		"State" : "ID",
+		"Latitude" : "+44.319199"
+	},
+	{
+		"Longitude" : "-111.693201",
+		"Zipcode" : "83448",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "SUGAR CITY",
+		"State" : "ID",
+		"Latitude" : "+43.847662"
+	},
+	{
+		"Longitude" : "-111.402336",
+		"Zipcode" : "83449",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNEVILLE",
+		"City" : "SWAN VALLEY",
+		"State" : "ID",
+		"Latitude" : "+43.509657"
+	},
+	{
+		"Longitude" : "-112.439084",
+		"Zipcode" : "83450",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "TERRETON",
+		"State" : "ID",
+		"Latitude" : "+43.858860"
+	},
+	{
+		"Longitude" : "-111.650418",
+		"Zipcode" : "83451",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "TETON",
+		"State" : "ID",
+		"Latitude" : "+43.890665"
+	},
+	{
+		"Longitude" : "-111.211829",
+		"Zipcode" : "83452",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "TETONIA",
+		"State" : "ID",
+		"Latitude" : "+43.781382"
+	},
+	{
+		"Longitude" : "-111.957274",
+		"Zipcode" : "83454",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BONNEVILLE",
+		"City" : "UCON",
+		"State" : "ID",
+		"Latitude" : "+43.593567"
+	},
+	{
+		"Longitude" : "-111.132302",
+		"Zipcode" : "83455",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "VICTOR",
+		"State" : "ID",
+		"Latitude" : "+43.638480"
+	},
+	{
+		"Longitude" : "-111.691047",
+		"Zipcode" : "83460",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "REXBURG",
+		"State" : "ID",
+		"Latitude" : "+43.776095"
+	},
+	{
+		"Longitude" : "-113.816735",
+		"Zipcode" : "83462",
+		"ZipClass" : "STANDARD",
+		"County" : "LEMHI",
+		"City" : "CARMEN",
+		"State" : "ID",
+		"Latitude" : "+44.968059"
+	},
+	{
+		"Longitude" : "-113.816735",
+		"Zipcode" : "83463",
+		"ZipClass" : "STANDARD",
+		"County" : "LEMHI",
+		"City" : "GIBBONSVILLE",
+		"State" : "ID",
+		"Latitude" : "+44.968059"
+	},
+	{
+		"Longitude" : "-113.816735",
+		"Zipcode" : "83464",
+		"ZipClass" : "STANDARD",
+		"County" : "LEMHI",
+		"City" : "LEADORE",
+		"State" : "ID",
+		"Latitude" : "+44.968059"
+	},
+	{
+		"Longitude" : "-113.816735",
+		"Zipcode" : "83465",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEMHI",
+		"City" : "LEMHI",
+		"State" : "ID",
+		"Latitude" : "+44.968059"
+	},
+	{
+		"Longitude" : "-113.967272",
+		"Zipcode" : "83466",
+		"ZipClass" : "STANDARD",
+		"County" : "LEMHI",
+		"City" : "NORTH FORK",
+		"State" : "ID",
+		"Latitude" : "+45.612948"
+	},
+	{
+		"Longitude" : "-113.921041",
+		"Zipcode" : "83467",
+		"ZipClass" : "STANDARD",
+		"County" : "LEMHI",
+		"City" : "SALMON",
+		"State" : "ID",
+		"Latitude" : "+45.171856"
+	},
+	{
+		"Longitude" : "-113.816735",
+		"Zipcode" : "83468",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEMHI",
+		"City" : "TENDOY",
+		"State" : "ID",
+		"Latitude" : "+44.968059"
+	},
+	{
+		"Longitude" : "-113.816735",
+		"Zipcode" : "83469",
+		"ZipClass" : "STANDARD",
+		"County" : "LEMHI",
+		"City" : "SHOUP",
+		"State" : "ID",
+		"Latitude" : "+44.968059"
+	},
+	{
+		"Longitude" : "-116.860852",
+		"Zipcode" : "83501",
+		"ZipClass" : "STANDARD",
+		"County" : "NEZ PERCE",
+		"City" : "LEWISTON",
+		"State" : "ID",
+		"Latitude" : "+46.364600"
+	},
+	{
+		"Longitude" : "-116.296141",
+		"Zipcode" : "83520",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "AHSAHKA",
+		"State" : "ID",
+		"Latitude" : "+46.507385"
+	},
+	{
+		"Longitude" : "-115.596198",
+		"Zipcode" : "83522",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "COTTONWOOD",
+		"State" : "ID",
+		"Latitude" : "+45.688686"
+	},
+	{
+		"Longitude" : "-116.539248",
+		"Zipcode" : "83523",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "CRAIGMONT",
+		"State" : "ID",
+		"Latitude" : "+46.269379"
+	},
+	{
+		"Longitude" : "-116.651362",
+		"Zipcode" : "83524",
+		"ZipClass" : "STANDARD",
+		"County" : "NEZ PERCE",
+		"City" : "CULDESAC",
+		"State" : "ID",
+		"Latitude" : "+46.401878"
+	},
+	{
+		"Longitude" : "-115.791688",
+		"Zipcode" : "83525",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "ELK CITY",
+		"State" : "ID",
+		"Latitude" : "+45.822931"
+	},
+	{
+		"Longitude" : "-116.390762",
+		"Zipcode" : "83526",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "FERDINAND",
+		"State" : "ID",
+		"Latitude" : "+46.152621"
+	},
+	{
+		"Longitude" : "-116.197290",
+		"Zipcode" : "83530",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "GRANGEVILLE",
+		"State" : "ID",
+		"Latitude" : "+45.869801"
+	},
+	{
+		"Longitude" : "-115.557407",
+		"Zipcode" : "83531",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "FENN",
+		"State" : "ID",
+		"Latitude" : "+45.889314"
+	},
+	{
+		"Longitude" : "-115.557407",
+		"Zipcode" : "83533",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "GREENCREEK",
+		"State" : "ID",
+		"Latitude" : "+45.889314"
+	},
+	{
+		"Longitude" : "-116.739999",
+		"Zipcode" : "83535",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "JULIAETTA",
+		"State" : "ID",
+		"Latitude" : "+46.582376"
+	},
+	{
+		"Longitude" : "-116.034292",
+		"Zipcode" : "83536",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "KAMIAH",
+		"State" : "ID",
+		"Latitude" : "+46.223289"
+	},
+	{
+		"Longitude" : "-116.573632",
+		"Zipcode" : "83537",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "KENDRICK",
+		"State" : "ID",
+		"Latitude" : "+46.663944"
+	},
+	{
+		"Longitude" : "-115.945949",
+		"Zipcode" : "83539",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "KOOSKIA",
+		"State" : "ID",
+		"Latitude" : "+46.115992"
+	},
+	{
+		"Longitude" : "-116.805125",
+		"Zipcode" : "83540",
+		"ZipClass" : "STANDARD",
+		"County" : "NEZ PERCE",
+		"City" : "LAPWAI",
+		"State" : "ID",
+		"Latitude" : "+46.402671"
+	},
+	{
+		"Longitude" : "-116.377265",
+		"Zipcode" : "83541",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "LENORE",
+		"State" : "ID",
+		"Latitude" : "+46.549573"
+	},
+	{
+		"Longitude" : "-116.323741",
+		"Zipcode" : "83542",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "LUCILE",
+		"State" : "ID",
+		"Latitude" : "+45.536959"
+	},
+	{
+		"Longitude" : "-116.264274",
+		"Zipcode" : "83543",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "NEZPERCE",
+		"State" : "ID",
+		"Latitude" : "+46.296282"
+	},
+	{
+		"Longitude" : "-116.184848",
+		"Zipcode" : "83544",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "OROFINO",
+		"State" : "ID",
+		"Latitude" : "+46.497600"
+	},
+	{
+		"Longitude" : "-116.517114",
+		"Zipcode" : "83545",
+		"ZipClass" : "STANDARD",
+		"County" : "NEZ PERCE",
+		"City" : "PECK",
+		"State" : "ID",
+		"Latitude" : "+46.451381"
+	},
+	{
+		"Longitude" : "-115.804849",
+		"Zipcode" : "83546",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "PIERCE",
+		"State" : "ID",
+		"Latitude" : "+46.443665"
+	},
+	{
+		"Longitude" : "-116.359122",
+		"Zipcode" : "83547",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "POLLOCK",
+		"State" : "ID",
+		"Latitude" : "+45.325345"
+	},
+	{
+		"Longitude" : "-116.538865",
+		"Zipcode" : "83548",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "REUBENS",
+		"State" : "ID",
+		"Latitude" : "+46.323090"
+	},
+	{
+		"Longitude" : "-116.351079",
+		"Zipcode" : "83549",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "RIGGINS",
+		"State" : "ID",
+		"Latitude" : "+45.400163"
+	},
+	{
+		"Longitude" : "-116.804544",
+		"Zipcode" : "83551",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEZ PERCE",
+		"City" : "SPALDING",
+		"State" : "ID",
+		"Latitude" : "+46.400349"
+	},
+	{
+		"Longitude" : "-115.974107",
+		"Zipcode" : "83552",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IDAHO",
+		"City" : "STITES",
+		"State" : "ID",
+		"Latitude" : "+46.117669"
+	},
+	{
+		"Longitude" : "-115.918826",
+		"Zipcode" : "83553",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "WEIPPE",
+		"State" : "ID",
+		"Latitude" : "+46.381159"
+	},
+	{
+		"Longitude" : "-115.557407",
+		"Zipcode" : "83554",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "WHITE BIRD",
+		"State" : "ID",
+		"Latitude" : "+45.889314"
+	},
+	{
+		"Longitude" : "-116.544158",
+		"Zipcode" : "83555",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "WINCHESTER",
+		"State" : "ID",
+		"Latitude" : "+46.242430"
+	},
+	{
+		"Longitude" : "-115.253751",
+		"Zipcode" : "83601",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "ATLANTA",
+		"State" : "ID",
+		"Latitude" : "+43.847915"
+	},
+	{
+		"Longitude" : "-116.065807",
+		"Zipcode" : "83602",
+		"ZipClass" : "STANDARD",
+		"County" : "BOISE",
+		"City" : "BANKS",
+		"State" : "ID",
+		"Latitude" : "+44.088695"
+	},
+	{
+		"Longitude" : "-115.841917",
+		"Zipcode" : "83604",
+		"ZipClass" : "STANDARD",
+		"County" : "OWYHEE",
+		"City" : "BRUNEAU",
+		"State" : "ID",
+		"Latitude" : "+42.613957"
+	},
+	{
+		"Longitude" : "-116.717598",
+		"Zipcode" : "83605",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "CALDWELL",
+		"State" : "ID",
+		"Latitude" : "+43.630795"
+	},
+	{
+		"Longitude" : "-116.798923",
+		"Zipcode" : "83606",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "CALDWELL",
+		"State" : "ID",
+		"Latitude" : "+43.724917"
+	},
+	{
+		"Longitude" : "-116.750109",
+		"Zipcode" : "83607",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "CALDWELL",
+		"State" : "ID",
+		"Latitude" : "+43.618618"
+	},
+	{
+		"Longitude" : "-116.690316",
+		"Zipcode" : "83610",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CAMBRIDGE",
+		"State" : "ID",
+		"Latitude" : "+44.642508"
+	},
+	{
+		"Longitude" : "-115.641659",
+		"Zipcode" : "83611",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "CASCADE",
+		"State" : "ID",
+		"Latitude" : "+44.692713"
+	},
+	{
+		"Longitude" : "-116.548601",
+		"Zipcode" : "83612",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "COUNCIL",
+		"State" : "ID",
+		"Latitude" : "+44.853452"
+	},
+	{
+		"Longitude" : "-116.036911",
+		"Zipcode" : "83615",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "DONNELLY",
+		"State" : "ID",
+		"Latitude" : "+44.665905"
+	},
+	{
+		"Longitude" : "-116.410330",
+		"Zipcode" : "83616",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "EAGLE",
+		"State" : "ID",
+		"Latitude" : "+43.735179"
+	},
+	{
+		"Longitude" : "-116.492657",
+		"Zipcode" : "83617",
+		"ZipClass" : "STANDARD",
+		"County" : "GEM",
+		"City" : "EMMETT",
+		"State" : "ID",
+		"Latitude" : "+43.908876"
+	},
+	{
+		"Longitude" : "-116.900775",
+		"Zipcode" : "83619",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYETTE",
+		"City" : "FRUITLAND",
+		"State" : "ID",
+		"Latitude" : "+43.974615"
+	},
+	{
+		"Longitude" : "-116.429857",
+		"Zipcode" : "83620",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "FRUITVALE",
+		"State" : "ID",
+		"Latitude" : "+44.817671"
+	},
+	{
+		"Longitude" : "-115.909781",
+		"Zipcode" : "83622",
+		"ZipClass" : "STANDARD",
+		"County" : "BOISE",
+		"City" : "GARDEN VALLEY",
+		"State" : "ID",
+		"Latitude" : "+44.091712"
+	},
+	{
+		"Longitude" : "-115.310227",
+		"Zipcode" : "83623",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "GLENNS FERRY",
+		"State" : "ID",
+		"Latitude" : "+42.950333"
+	},
+	{
+		"Longitude" : "-116.510261",
+		"Zipcode" : "83624",
+		"ZipClass" : "STANDARD",
+		"County" : "OWYHEE",
+		"City" : "GRAND VIEW",
+		"State" : "ID",
+		"Latitude" : "+43.300562"
+	},
+	{
+		"Longitude" : "-116.762480",
+		"Zipcode" : "83626",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "GREENLEAF",
+		"State" : "ID",
+		"Latitude" : "+43.679989"
+	},
+	{
+		"Longitude" : "-115.383690",
+		"Zipcode" : "83627",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "HAMMETT",
+		"State" : "ID",
+		"Latitude" : "+42.948206"
+	},
+	{
+		"Longitude" : "-116.968110",
+		"Zipcode" : "83628",
+		"ZipClass" : "STANDARD",
+		"County" : "OWYHEE",
+		"City" : "HOMEDALE",
+		"State" : "ID",
+		"Latitude" : "+43.635593"
+	},
+	{
+		"Longitude" : "-116.118450",
+		"Zipcode" : "83629",
+		"ZipClass" : "STANDARD",
+		"County" : "BOISE",
+		"City" : "HORSESHOE BEND",
+		"State" : "ID",
+		"Latitude" : "+43.969086"
+	},
+	{
+		"Longitude" : "-116.790284",
+		"Zipcode" : "83630",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CANYON",
+		"City" : "HUSTON",
+		"State" : "ID",
+		"Latitude" : "+43.602661"
+	},
+	{
+		"Longitude" : "-115.708048",
+		"Zipcode" : "83631",
+		"ZipClass" : "STANDARD",
+		"County" : "BOISE",
+		"City" : "IDAHO CITY",
+		"State" : "ID",
+		"Latitude" : "+43.883371"
+	},
+	{
+		"Longitude" : "-116.462903",
+		"Zipcode" : "83632",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "INDIAN VALLEY",
+		"State" : "ID",
+		"Latitude" : "+44.560567"
+	},
+	{
+		"Longitude" : "-115.189933",
+		"Zipcode" : "83633",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "KING HILL",
+		"State" : "ID",
+		"Latitude" : "+42.979861"
+	},
+	{
+		"Longitude" : "-116.338457",
+		"Zipcode" : "83634",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "KUNA",
+		"State" : "ID",
+		"Latitude" : "+43.459904"
+	},
+	{
+		"Longitude" : "-115.453583",
+		"Zipcode" : "83635",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "LAKE FORK",
+		"State" : "ID",
+		"Latitude" : "+44.683670"
+	},
+	{
+		"Longitude" : "-116.646209",
+		"Zipcode" : "83636",
+		"ZipClass" : "STANDARD",
+		"County" : "GEM",
+		"City" : "LETHA",
+		"State" : "ID",
+		"Latitude" : "+43.896275"
+	},
+	{
+		"Longitude" : "-115.481823",
+		"Zipcode" : "83637",
+		"ZipClass" : "STANDARD",
+		"County" : "BOISE",
+		"City" : "LOWMAN",
+		"State" : "ID",
+		"Latitude" : "+44.108217"
+	},
+	{
+		"Longitude" : "-116.057987",
+		"Zipcode" : "83638",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "MCCALL",
+		"State" : "ID",
+		"Latitude" : "+44.751960"
+	},
+	{
+		"Longitude" : "-116.731362",
+		"Zipcode" : "83639",
+		"ZipClass" : "STANDARD",
+		"County" : "OWYHEE",
+		"City" : "MARSING",
+		"State" : "ID",
+		"Latitude" : "+43.388977"
+	},
+	{
+		"Longitude" : "-116.583102",
+		"Zipcode" : "83641",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "MELBA",
+		"State" : "ID",
+		"Latitude" : "+43.389331"
+	},
+	{
+		"Longitude" : "-116.421656",
+		"Zipcode" : "83642",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "MERIDIAN",
+		"State" : "ID",
+		"Latitude" : "+43.579067"
+	},
+	{
+		"Longitude" : "-116.449286",
+		"Zipcode" : "83643",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "MESA",
+		"State" : "ID",
+		"Latitude" : "+44.625475"
+	},
+	{
+		"Longitude" : "-116.590338",
+		"Zipcode" : "83644",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "MIDDLETON",
+		"State" : "ID",
+		"Latitude" : "+43.577401"
+	},
+	{
+		"Longitude" : "-116.651974",
+		"Zipcode" : "83645",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MIDVALE",
+		"State" : "ID",
+		"Latitude" : "+44.383040"
+	},
+	{
+		"Longitude" : "-115.720455",
+		"Zipcode" : "83647",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "MOUNTAIN HOME",
+		"State" : "ID",
+		"Latitude" : "+43.156195"
+	},
+	{
+		"Longitude" : "-115.588317",
+		"Zipcode" : "83648",
+		"ZipClass" : "STANDARD",
+		"County" : "ELMORE",
+		"City" : "MOUNTAIN HOME A F B",
+		"State" : "ID",
+		"Latitude" : "+43.009282"
+	},
+	{
+		"Longitude" : "-116.032163",
+		"Zipcode" : "83650",
+		"ZipClass" : "STANDARD",
+		"County" : "OWYHEE",
+		"City" : "MURPHY",
+		"State" : "ID",
+		"Latitude" : "+42.838437"
+	},
+	{
+		"Longitude" : "-116.610630",
+		"Zipcode" : "83651",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "NAMPA",
+		"State" : "ID",
+		"Latitude" : "+43.595567"
+	},
+	{
+		"Longitude" : "-116.620774",
+		"Zipcode" : "83652",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "NAMPA",
+		"State" : "ID",
+		"Latitude" : "+43.707130"
+	},
+	{
+		"Longitude" : "-116.752963",
+		"Zipcode" : "83653",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "NAMPA",
+		"State" : "ID",
+		"Latitude" : "+43.585149"
+	},
+	{
+		"Longitude" : "-116.303451",
+		"Zipcode" : "83654",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "NEW MEADOWS",
+		"State" : "ID",
+		"Latitude" : "+45.086839"
+	},
+	{
+		"Longitude" : "-116.813237",
+		"Zipcode" : "83655",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYETTE",
+		"City" : "NEW PLYMOUTH",
+		"State" : "ID",
+		"Latitude" : "+43.957790"
+	},
+	{
+		"Longitude" : "-116.799727",
+		"Zipcode" : "83656",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CANYON",
+		"City" : "NOTUS",
+		"State" : "ID",
+		"Latitude" : "+43.725933"
+	},
+	{
+		"Longitude" : "-116.273214",
+		"Zipcode" : "83657",
+		"ZipClass" : "STANDARD",
+		"County" : "GEM",
+		"City" : "OLA",
+		"State" : "ID",
+		"Latitude" : "+44.241764"
+	},
+	{
+		"Longitude" : "-116.897455",
+		"Zipcode" : "83660",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "PARMA",
+		"State" : "ID",
+		"Latitude" : "+43.785082"
+	},
+	{
+		"Longitude" : "-116.750704",
+		"Zipcode" : "83661",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYETTE",
+		"City" : "PAYETTE",
+		"State" : "ID",
+		"Latitude" : "+44.063604"
+	},
+	{
+		"Longitude" : "-115.966981",
+		"Zipcode" : "83666",
+		"ZipClass" : "STANDARD",
+		"County" : "BOISE",
+		"City" : "PLACERVILLE",
+		"State" : "ID",
+		"Latitude" : "+44.004244"
+	},
+	{
+		"Longitude" : "-116.485429",
+		"Zipcode" : "83669",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "STAR",
+		"State" : "ID",
+		"Latitude" : "+43.713037"
+	},
+	{
+		"Longitude" : "-116.328567",
+		"Zipcode" : "83670",
+		"ZipClass" : "STANDARD",
+		"County" : "GEM",
+		"City" : "SWEET",
+		"State" : "ID",
+		"Latitude" : "+43.989971"
+	},
+	{
+		"Longitude" : "-115.557407",
+		"Zipcode" : "83671",
+		"ZipClass" : "STANDARD",
+		"County" : "IDAHO",
+		"City" : "WARREN",
+		"State" : "ID",
+		"Latitude" : "+45.889314"
+	},
+	{
+		"Longitude" : "-116.859937",
+		"Zipcode" : "83672",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WEISER",
+		"State" : "ID",
+		"Latitude" : "+44.304193"
+	},
+	{
+		"Longitude" : "-116.919629",
+		"Zipcode" : "83676",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "WILDER",
+		"State" : "ID",
+		"Latitude" : "+43.657855"
+	},
+	{
+		"Longitude" : "-115.453583",
+		"Zipcode" : "83677",
+		"ZipClass" : "STANDARD",
+		"County" : "VALLEY",
+		"City" : "YELLOW PINE",
+		"State" : "ID",
+		"Latitude" : "+44.683670"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83680",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "MERIDIAN",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.612678",
+		"Zipcode" : "83686",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "NAMPA",
+		"State" : "ID",
+		"Latitude" : "+43.549984"
+	},
+	{
+		"Longitude" : "-116.552636",
+		"Zipcode" : "83687",
+		"ZipClass" : "STANDARD",
+		"County" : "CANYON",
+		"City" : "NAMPA",
+		"State" : "ID",
+		"Latitude" : "+43.602302"
+	},
+	{
+		"Longitude" : "-116.272921",
+		"Zipcode" : "83701",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.603768"
+	},
+	{
+		"Longitude" : "-116.195004",
+		"Zipcode" : "83702",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.661963"
+	},
+	{
+		"Longitude" : "-116.248664",
+		"Zipcode" : "83703",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.680432"
+	},
+	{
+		"Longitude" : "-116.290009",
+		"Zipcode" : "83704",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.641467"
+	},
+	{
+		"Longitude" : "-116.223203",
+		"Zipcode" : "83705",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.565639"
+	},
+	{
+		"Longitude" : "-116.137752",
+		"Zipcode" : "83706",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.478618"
+	},
+	{
+		"Longitude" : "-115.997118",
+		"Zipcode" : "83707",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.384690"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83708",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.276002",
+		"Zipcode" : "83709",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.558127"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83711",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.139425",
+		"Zipcode" : "83712",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.587750"
+	},
+	{
+		"Longitude" : "-116.341948",
+		"Zipcode" : "83713",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.634002"
+	},
+	{
+		"Longitude" : "-116.282554",
+		"Zipcode" : "83714",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "GARDEN CITY",
+		"State" : "ID",
+		"Latitude" : "+43.642800"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83715",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.079142",
+		"Zipcode" : "83716",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.441445"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83717",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83719",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83720",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83721",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83722",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83723",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.195159",
+		"Zipcode" : "83724",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.619477"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83725",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83726",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83727",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83728",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83729",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83730",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83731",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83732",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83733",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83735",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83744",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83756",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83757",
+		"ZipClass" : "UNIQUE",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.282259",
+		"Zipcode" : "83788",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.606820"
+	},
+	{
+		"Longitude" : "-116.243984",
+		"Zipcode" : "83799",
+		"ZipClass" : "STANDARD",
+		"County" : "ADA",
+		"City" : "BOISE",
+		"State" : "ID",
+		"Latitude" : "+43.459855"
+	},
+	{
+		"Longitude" : "-116.686007",
+		"Zipcode" : "83801",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "ATHOL",
+		"State" : "ID",
+		"Latitude" : "+47.922361"
+	},
+	{
+		"Longitude" : "-115.644501",
+		"Zipcode" : "83802",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "AVERY",
+		"State" : "ID",
+		"Latitude" : "+47.501205"
+	},
+	{
+		"Longitude" : "-116.549408",
+		"Zipcode" : "83803",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "BAYVIEW",
+		"State" : "ID",
+		"Latitude" : "+47.982174"
+	},
+	{
+		"Longitude" : "-116.604444",
+		"Zipcode" : "83804",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "BLANCHARD",
+		"State" : "ID",
+		"Latitude" : "+48.274708"
+	},
+	{
+		"Longitude" : "-116.398202",
+		"Zipcode" : "83805",
+		"ZipClass" : "STANDARD",
+		"County" : "BOUNDARY",
+		"City" : "BONNERS FERRY",
+		"State" : "ID",
+		"Latitude" : "+48.814078"
+	},
+	{
+		"Longitude" : "-116.407235",
+		"Zipcode" : "83806",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LATAH",
+		"City" : "BOVILL",
+		"State" : "ID",
+		"Latitude" : "+46.871563"
+	},
+	{
+		"Longitude" : "-115.644501",
+		"Zipcode" : "83808",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "CALDER",
+		"State" : "ID",
+		"Latitude" : "+47.501205"
+	},
+	{
+		"Longitude" : "-116.593890",
+		"Zipcode" : "83809",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "CAREYWOOD",
+		"State" : "ID",
+		"Latitude" : "+48.048216"
+	},
+	{
+		"Longitude" : "-116.453134",
+		"Zipcode" : "83810",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "CATALDO",
+		"State" : "ID",
+		"Latitude" : "+47.527719"
+	},
+	{
+		"Longitude" : "-116.128983",
+		"Zipcode" : "83811",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "CLARK FORK",
+		"State" : "ID",
+		"Latitude" : "+48.115891"
+	},
+	{
+		"Longitude" : "-116.281080",
+		"Zipcode" : "83812",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "CLARKIA",
+		"State" : "ID",
+		"Latitude" : "+46.974333"
+	},
+	{
+		"Longitude" : "-116.614684",
+		"Zipcode" : "83813",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "COCOLALLA",
+		"State" : "ID",
+		"Latitude" : "+48.087984"
+	},
+	{
+		"Longitude" : "-116.780869",
+		"Zipcode" : "83814",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "COEUR D ALENE",
+		"State" : "ID",
+		"Latitude" : "+47.728441"
+	},
+	{
+		"Longitude" : "-116.718533",
+		"Zipcode" : "83815",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "COEUR D ALENE",
+		"State" : "ID",
+		"Latitude" : "+47.837453"
+	},
+	{
+		"Longitude" : "-116.682718",
+		"Zipcode" : "83816",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "COEUR D ALENE",
+		"State" : "ID",
+		"Latitude" : "+47.678798"
+	},
+	{
+		"Longitude" : "-116.848660",
+		"Zipcode" : "83821",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "COOLIN",
+		"State" : "ID",
+		"Latitude" : "+48.607807"
+	},
+	{
+		"Longitude" : "-116.978066",
+		"Zipcode" : "83822",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "OLDTOWN",
+		"State" : "ID",
+		"Latitude" : "+48.155185"
+	},
+	{
+		"Longitude" : "-116.525556",
+		"Zipcode" : "83823",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "DEARY",
+		"State" : "ID",
+		"Latitude" : "+46.777036"
+	},
+	{
+		"Longitude" : "-116.915483",
+		"Zipcode" : "83824",
+		"ZipClass" : "STANDARD",
+		"County" : "BENEWAH",
+		"City" : "DESMET",
+		"State" : "ID",
+		"Latitude" : "+47.146411"
+	},
+	{
+		"Longitude" : "-116.545493",
+		"Zipcode" : "83825",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BONNER",
+		"City" : "DOVER",
+		"State" : "ID",
+		"Latitude" : "+48.368750"
+	},
+	{
+		"Longitude" : "-116.540670",
+		"Zipcode" : "83826",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOUNDARY",
+		"City" : "EASTPORT",
+		"State" : "ID",
+		"Latitude" : "+48.750618"
+	},
+	{
+		"Longitude" : "-116.214523",
+		"Zipcode" : "83827",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLEARWATER",
+		"City" : "ELK RIVER",
+		"State" : "ID",
+		"Latitude" : "+46.779553"
+	},
+	{
+		"Longitude" : "-116.528526",
+		"Zipcode" : "83830",
+		"ZipClass" : "STANDARD",
+		"County" : "BENEWAH",
+		"City" : "FERNWOOD",
+		"State" : "ID",
+		"Latitude" : "+47.112423"
+	},
+	{
+		"Longitude" : "-116.903754",
+		"Zipcode" : "83832",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "GENESEE",
+		"State" : "ID",
+		"Latitude" : "+46.604181"
+	},
+	{
+		"Longitude" : "-116.751226",
+		"Zipcode" : "83833",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "HARRISON",
+		"State" : "ID",
+		"Latitude" : "+47.501761"
+	},
+	{
+		"Longitude" : "-116.715837",
+		"Zipcode" : "83834",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "HARVARD",
+		"State" : "ID",
+		"Latitude" : "+46.924095"
+	},
+	{
+		"Longitude" : "-116.742254",
+		"Zipcode" : "83835",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "HAYDEN",
+		"State" : "ID",
+		"Latitude" : "+47.798886"
+	},
+	{
+		"Longitude" : "-116.279202",
+		"Zipcode" : "83836",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "HOPE",
+		"State" : "ID",
+		"Latitude" : "+48.248701"
+	},
+	{
+		"Longitude" : "-116.017660",
+		"Zipcode" : "83837",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "KELLOGG",
+		"State" : "ID",
+		"Latitude" : "+47.515352"
+	},
+	{
+		"Longitude" : "-116.145637",
+		"Zipcode" : "83839",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "KINGSTON",
+		"State" : "ID",
+		"Latitude" : "+47.574471"
+	},
+	{
+		"Longitude" : "-116.515276",
+		"Zipcode" : "83840",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "KOOTENAI",
+		"State" : "ID",
+		"Latitude" : "+48.314378"
+	},
+	{
+		"Longitude" : "-116.824602",
+		"Zipcode" : "83841",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BONNER",
+		"City" : "LACLEDE",
+		"State" : "ID",
+		"Latitude" : "+48.179085"
+	},
+	{
+		"Longitude" : "-116.659053",
+		"Zipcode" : "83842",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "MEDIMONT",
+		"State" : "ID",
+		"Latitude" : "+47.464178"
+	},
+	{
+		"Longitude" : "-116.870147",
+		"Zipcode" : "83843",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "MOSCOW",
+		"State" : "ID",
+		"Latitude" : "+46.735334"
+	},
+	{
+		"Longitude" : "-116.684553",
+		"Zipcode" : "83844",
+		"ZipClass" : "UNIQUE",
+		"County" : "LATAH",
+		"City" : "MOSCOW",
+		"State" : "ID",
+		"Latitude" : "+46.836284"
+	},
+	{
+		"Longitude" : "-116.305402",
+		"Zipcode" : "83845",
+		"ZipClass" : "STANDARD",
+		"County" : "BOUNDARY",
+		"City" : "MOYIE SPRINGS",
+		"State" : "ID",
+		"Latitude" : "+48.695988"
+	},
+	{
+		"Longitude" : "-115.765951",
+		"Zipcode" : "83846",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "MULLAN",
+		"State" : "ID",
+		"Latitude" : "+47.465825"
+	},
+	{
+		"Longitude" : "-116.304264",
+		"Zipcode" : "83847",
+		"ZipClass" : "STANDARD",
+		"County" : "BOUNDARY",
+		"City" : "NAPLES",
+		"State" : "ID",
+		"Latitude" : "+48.694804"
+	},
+	{
+		"Longitude" : "-116.925844",
+		"Zipcode" : "83848",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "NORDMAN",
+		"State" : "ID",
+		"Latitude" : "+48.614631"
+	},
+	{
+		"Longitude" : "-116.021029",
+		"Zipcode" : "83849",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHOSHONE",
+		"City" : "OSBURN",
+		"State" : "ID",
+		"Latitude" : "+47.521132"
+	},
+	{
+		"Longitude" : "-116.041059",
+		"Zipcode" : "83850",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "PINEHURST",
+		"State" : "ID",
+		"Latitude" : "+47.494941"
+	},
+	{
+		"Longitude" : "-116.862018",
+		"Zipcode" : "83851",
+		"ZipClass" : "STANDARD",
+		"County" : "BENEWAH",
+		"City" : "PLUMMER",
+		"State" : "ID",
+		"Latitude" : "+47.243487"
+	},
+	{
+		"Longitude" : "-116.731899",
+		"Zipcode" : "83852",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BONNER",
+		"City" : "PONDERAY",
+		"State" : "ID",
+		"Latitude" : "+48.411377"
+	},
+	{
+		"Longitude" : "-116.540670",
+		"Zipcode" : "83853",
+		"ZipClass" : "STANDARD",
+		"County" : "BOUNDARY",
+		"City" : "PORTHILL",
+		"State" : "ID",
+		"Latitude" : "+48.750618"
+	},
+	{
+		"Longitude" : "-116.946395",
+		"Zipcode" : "83854",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "POST FALLS",
+		"State" : "ID",
+		"Latitude" : "+47.795737"
+	},
+	{
+		"Longitude" : "-116.935859",
+		"Zipcode" : "83855",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "POTLATCH",
+		"State" : "ID",
+		"Latitude" : "+46.950211"
+	},
+	{
+		"Longitude" : "-116.669154",
+		"Zipcode" : "83856",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "PRIEST RIVER",
+		"State" : "ID",
+		"Latitude" : "+48.324253"
+	},
+	{
+		"Longitude" : "-116.804736",
+		"Zipcode" : "83857",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "PRINCETON",
+		"State" : "ID",
+		"Latitude" : "+46.884343"
+	},
+	{
+		"Longitude" : "-116.839411",
+		"Zipcode" : "83858",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "RATHDRUM",
+		"State" : "ID",
+		"Latitude" : "+47.845814"
+	},
+	{
+		"Longitude" : "-116.644705",
+		"Zipcode" : "83860",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "SAGLE",
+		"State" : "ID",
+		"Latitude" : "+48.193853"
+	},
+	{
+		"Longitude" : "-116.646826",
+		"Zipcode" : "83861",
+		"ZipClass" : "STANDARD",
+		"County" : "BENEWAH",
+		"City" : "SAINT MARIES",
+		"State" : "ID",
+		"Latitude" : "+47.279233"
+	},
+	{
+		"Longitude" : "-116.545493",
+		"Zipcode" : "83862",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "SAMUELS",
+		"State" : "ID",
+		"Latitude" : "+48.368750"
+	},
+	{
+		"Longitude" : "-116.553968",
+		"Zipcode" : "83864",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "SANDPOINT",
+		"State" : "ID",
+		"Latitude" : "+48.299486"
+	},
+	{
+		"Longitude" : "-116.625594",
+		"Zipcode" : "83865",
+		"ZipClass" : "STANDARD",
+		"County" : "BONNER",
+		"City" : "COLBURN",
+		"State" : "ID",
+		"Latitude" : "+48.363251"
+	},
+	{
+		"Longitude" : "-116.430997",
+		"Zipcode" : "83866",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENEWAH",
+		"City" : "SANTA",
+		"State" : "ID",
+		"Latitude" : "+47.154416"
+	},
+	{
+		"Longitude" : "-115.965732",
+		"Zipcode" : "83867",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHOSHONE",
+		"City" : "SILVERTON",
+		"State" : "ID",
+		"Latitude" : "+47.498078"
+	},
+	{
+		"Longitude" : "-116.206234",
+		"Zipcode" : "83868",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "SMELTERVILLE",
+		"State" : "ID",
+		"Latitude" : "+47.536163"
+	},
+	{
+		"Longitude" : "-116.811536",
+		"Zipcode" : "83869",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "SPIRIT LAKE",
+		"State" : "ID",
+		"Latitude" : "+47.944549"
+	},
+	{
+		"Longitude" : "-116.918177",
+		"Zipcode" : "83870",
+		"ZipClass" : "STANDARD",
+		"County" : "BENEWAH",
+		"City" : "TENSED",
+		"State" : "ID",
+		"Latitude" : "+47.147494"
+	},
+	{
+		"Longitude" : "-116.714214",
+		"Zipcode" : "83871",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "TROY",
+		"State" : "ID",
+		"Latitude" : "+46.757170"
+	},
+	{
+		"Longitude" : "-116.967516",
+		"Zipcode" : "83872",
+		"ZipClass" : "STANDARD",
+		"County" : "LATAH",
+		"City" : "VIOLA",
+		"State" : "ID",
+		"Latitude" : "+46.871724"
+	},
+	{
+		"Longitude" : "-116.014010",
+		"Zipcode" : "83873",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "WALLACE",
+		"State" : "ID",
+		"Latitude" : "+47.553491"
+	},
+	{
+		"Longitude" : "-115.644501",
+		"Zipcode" : "83874",
+		"ZipClass" : "STANDARD",
+		"County" : "SHOSHONE",
+		"City" : "MURRAY",
+		"State" : "ID",
+		"Latitude" : "+47.501205"
+	},
+	{
+		"Longitude" : "-116.898603",
+		"Zipcode" : "83876",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "WORLEY",
+		"State" : "ID",
+		"Latitude" : "+47.456856"
+	},
+	{
+		"Longitude" : "-116.682718",
+		"Zipcode" : "83877",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOTENAI",
+		"City" : "POST FALLS",
+		"State" : "ID",
+		"Latitude" : "+47.678798"
+	},
+	{
+		"Longitude" : "-116.545493",
+		"Zipcode" : "83888",
+		"ZipClass" : "UNIQUE",
+		"County" : "BONNER",
+		"City" : "SANDPOINT",
+		"State" : "ID",
+		"Latitude" : "+48.368750"
+	}
+]}

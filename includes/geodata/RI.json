@@ -1,0 +1,822 @@
+{
+	"result":[
+	{
+		"Longitude" : "-071.284066",
+		"Zipcode" : "02801",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEWPORT",
+		"City" : "ADAMSVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.530131"
+	},
+	{
+		"Longitude" : "-071.462053",
+		"Zipcode" : "02802",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PROVIDENCE",
+		"City" : "ALBION",
+		"State" : "RI",
+		"Latitude" : "+41.954098"
+	},
+	{
+		"Longitude" : "-071.679251",
+		"Zipcode" : "02804",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ASHAWAY",
+		"State" : "RI",
+		"Latitude" : "+41.322365"
+	},
+	{
+		"Longitude" : "-071.320395",
+		"Zipcode" : "02806",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "BARRINGTON",
+		"State" : "RI",
+		"Latitude" : "+41.742501"
+	},
+	{
+		"Longitude" : "-071.577696",
+		"Zipcode" : "02807",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "BLOCK ISLAND",
+		"State" : "RI",
+		"Latitude" : "+41.188888"
+	},
+	{
+		"Longitude" : "-071.761665",
+		"Zipcode" : "02808",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BRADFORD",
+		"State" : "RI",
+		"Latitude" : "+41.403784"
+	},
+	{
+		"Longitude" : "-071.270400",
+		"Zipcode" : "02809",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "BRISTOL",
+		"State" : "RI",
+		"Latitude" : "+41.678378"
+	},
+	{
+		"Longitude" : "-071.675092",
+		"Zipcode" : "02812",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CAROLINA",
+		"State" : "RI",
+		"Latitude" : "+41.469148"
+	},
+	{
+		"Longitude" : "-071.665420",
+		"Zipcode" : "02813",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CHARLESTOWN",
+		"State" : "RI",
+		"Latitude" : "+41.395079"
+	},
+	{
+		"Longitude" : "-071.688769",
+		"Zipcode" : "02814",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "CHEPACHET",
+		"State" : "RI",
+		"Latitude" : "+41.888971"
+	},
+	{
+		"Longitude" : "-071.655850",
+		"Zipcode" : "02815",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "CLAYVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.770525"
+	},
+	{
+		"Longitude" : "-071.636786",
+		"Zipcode" : "02816",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "COVENTRY",
+		"State" : "RI",
+		"Latitude" : "+41.694251"
+	},
+	{
+		"Longitude" : "-071.667165",
+		"Zipcode" : "02817",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "WEST GREENWICH",
+		"State" : "RI",
+		"Latitude" : "+41.631168"
+	},
+	{
+		"Longitude" : "-071.478002",
+		"Zipcode" : "02818",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "EAST GREENWICH",
+		"State" : "RI",
+		"Latitude" : "+41.643350"
+	},
+	{
+		"Longitude" : "-071.650262",
+		"Zipcode" : "02822",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "EXETER",
+		"State" : "RI",
+		"Latitude" : "+41.546900"
+	},
+	{
+		"Longitude" : "-071.546756",
+		"Zipcode" : "02823",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PROVIDENCE",
+		"City" : "FISKEVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.731200"
+	},
+	{
+		"Longitude" : "-071.563057",
+		"Zipcode" : "02824",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PROVIDENCE",
+		"City" : "FORESTDALE",
+		"State" : "RI",
+		"Latitude" : "+42.000248"
+	},
+	{
+		"Longitude" : "-071.706440",
+		"Zipcode" : "02825",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "FOSTER",
+		"State" : "RI",
+		"Latitude" : "+41.790569"
+	},
+	{
+		"Longitude" : "-071.600848",
+		"Zipcode" : "02826",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PROVIDENCE",
+		"City" : "GLENDALE",
+		"State" : "RI",
+		"Latitude" : "+41.982417"
+	},
+	{
+		"Longitude" : "-071.727467",
+		"Zipcode" : "02827",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "GREENE",
+		"State" : "RI",
+		"Latitude" : "+41.691676"
+	},
+	{
+		"Longitude" : "-071.551682",
+		"Zipcode" : "02828",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "GREENVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.879298"
+	},
+	{
+		"Longitude" : "-071.589357",
+		"Zipcode" : "02829",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PROVIDENCE",
+		"City" : "HARMONY",
+		"State" : "RI",
+		"Latitude" : "+41.879298"
+	},
+	{
+		"Longitude" : "-071.648502",
+		"Zipcode" : "02830",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "HARRISVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.972390"
+	},
+	{
+		"Longitude" : "-071.577746",
+		"Zipcode" : "02831",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "HOPE",
+		"State" : "RI",
+		"Latitude" : "+41.753594"
+	},
+	{
+		"Longitude" : "-071.733875",
+		"Zipcode" : "02832",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HOPE VALLEY",
+		"State" : "RI",
+		"Latitude" : "+41.509632"
+	},
+	{
+		"Longitude" : "-071.772617",
+		"Zipcode" : "02833",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HOPKINTON",
+		"State" : "RI",
+		"Latitude" : "+41.475117"
+	},
+	{
+		"Longitude" : "-071.377247",
+		"Zipcode" : "02835",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWPORT",
+		"City" : "JAMESTOWN",
+		"State" : "RI",
+		"Latitude" : "+41.514120"
+	},
+	{
+		"Longitude" : "-071.620432",
+		"Zipcode" : "02836",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "KENYON",
+		"State" : "RI",
+		"Latitude" : "+41.447427"
+	},
+	{
+		"Longitude" : "-071.166340",
+		"Zipcode" : "02837",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWPORT",
+		"City" : "LITTLE COMPTON",
+		"State" : "RI",
+		"Latitude" : "+41.510257"
+	},
+	{
+		"Longitude" : "-071.475604",
+		"Zipcode" : "02838",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "MANVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.967848"
+	},
+	{
+		"Longitude" : "-071.637581",
+		"Zipcode" : "02839",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "MAPLEVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.941715"
+	},
+	{
+		"Longitude" : "-071.327084",
+		"Zipcode" : "02840",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWPORT",
+		"City" : "NEWPORT",
+		"State" : "RI",
+		"Latitude" : "+41.487552"
+	},
+	{
+		"Longitude" : "-071.299004",
+		"Zipcode" : "02841",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEWPORT",
+		"City" : "NEWPORT",
+		"State" : "RI",
+		"Latitude" : "+41.498977"
+	},
+	{
+		"Longitude" : "-071.273101",
+		"Zipcode" : "02842",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWPORT",
+		"City" : "MIDDLETOWN",
+		"State" : "RI",
+		"Latitude" : "+41.519757"
+	},
+	{
+		"Longitude" : "-071.464801",
+		"Zipcode" : "02852",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "NORTH KINGSTOWN",
+		"State" : "RI",
+		"Latitude" : "+41.586851"
+	},
+	{
+		"Longitude" : "-071.643930",
+		"Zipcode" : "02854",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "NORTH KINGSTOWN",
+		"State" : "RI",
+		"Latitude" : "+41.375317"
+	},
+	{
+		"Longitude" : "-071.655006",
+		"Zipcode" : "02857",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "NORTH SCITUATE",
+		"State" : "RI",
+		"Latitude" : "+41.838827"
+	},
+	{
+		"Longitude" : "-071.647542",
+		"Zipcode" : "02858",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "OAKLAND",
+		"State" : "RI",
+		"Latitude" : "+41.962303"
+	},
+	{
+		"Longitude" : "-071.723316",
+		"Zipcode" : "02859",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PASCOAG",
+		"State" : "RI",
+		"Latitude" : "+41.964150"
+	},
+	{
+		"Longitude" : "-071.392732",
+		"Zipcode" : "02860",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PAWTUCKET",
+		"State" : "RI",
+		"Latitude" : "+41.875149"
+	},
+	{
+		"Longitude" : "-071.369899",
+		"Zipcode" : "02861",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PAWTUCKET",
+		"State" : "RI",
+		"Latitude" : "+41.878249"
+	},
+	{
+		"Longitude" : "-071.369099",
+		"Zipcode" : "02862",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PAWTUCKET",
+		"State" : "RI",
+		"Latitude" : "+41.861250"
+	},
+	{
+		"Longitude" : "-071.394186",
+		"Zipcode" : "02863",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "CENTRAL FALLS",
+		"State" : "RI",
+		"Latitude" : "+41.889849"
+	},
+	{
+		"Longitude" : "-071.432690",
+		"Zipcode" : "02864",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "CUMBERLAND",
+		"State" : "RI",
+		"Latitude" : "+41.949498"
+	},
+	{
+		"Longitude" : "-071.493355",
+		"Zipcode" : "02865",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "LINCOLN",
+		"State" : "RI",
+		"Latitude" : "+41.925298"
+	},
+	{
+		"Longitude" : "-071.264197",
+		"Zipcode" : "02871",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWPORT",
+		"City" : "PORTSMOUTH",
+		"State" : "RI",
+		"Latitude" : "+41.585230"
+	},
+	{
+		"Longitude" : "-071.286834",
+		"Zipcode" : "02872",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "PRUDENCE ISLAND",
+		"State" : "RI",
+		"Latitude" : "+41.707119"
+	},
+	{
+		"Longitude" : "-071.774023",
+		"Zipcode" : "02873",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "ROCKVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.519922"
+	},
+	{
+		"Longitude" : "-071.471752",
+		"Zipcode" : "02874",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAUNDERSTOWN",
+		"State" : "RI",
+		"Latitude" : "+41.478466"
+	},
+	{
+		"Longitude" : "-071.635474",
+		"Zipcode" : "02875",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SHANNOCK",
+		"State" : "RI",
+		"Latitude" : "+41.456039"
+	},
+	{
+		"Longitude" : "-071.576307",
+		"Zipcode" : "02876",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "SLATERSVILLE",
+		"State" : "RI",
+		"Latitude" : "+41.998398"
+	},
+	{
+		"Longitude" : "-071.529854",
+		"Zipcode" : "02877",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SLOCUM",
+		"State" : "RI",
+		"Latitude" : "+41.528900"
+	},
+	{
+		"Longitude" : "-071.175183",
+		"Zipcode" : "02878",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWPORT",
+		"City" : "TIVERTON",
+		"State" : "RI",
+		"Latitude" : "+41.610180"
+	},
+	{
+		"Longitude" : "-071.534202",
+		"Zipcode" : "02879",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WAKEFIELD",
+		"State" : "RI",
+		"Latitude" : "+41.443653"
+	},
+	{
+		"Longitude" : "-071.643930",
+		"Zipcode" : "02880",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WAKEFIELD",
+		"State" : "RI",
+		"Latitude" : "+41.375317"
+	},
+	{
+		"Longitude" : "-071.524317",
+		"Zipcode" : "02881",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "KINGSTON",
+		"State" : "RI",
+		"Latitude" : "+41.482901"
+	},
+	{
+		"Longitude" : "-071.497793",
+		"Zipcode" : "02882",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "NARRAGANSETT",
+		"State" : "RI",
+		"Latitude" : "+41.377185"
+	},
+	{
+		"Longitude" : "-071.643930",
+		"Zipcode" : "02883",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PEACE DALE",
+		"State" : "RI",
+		"Latitude" : "+41.375317"
+	},
+	{
+		"Longitude" : "-071.257492",
+		"Zipcode" : "02885",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "WARREN",
+		"State" : "RI",
+		"Latitude" : "+41.727451"
+	},
+	{
+		"Longitude" : "-071.479020",
+		"Zipcode" : "02886",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "WARWICK",
+		"State" : "RI",
+		"Latitude" : "+41.702470"
+	},
+	{
+		"Longitude" : "-071.557732",
+		"Zipcode" : "02887",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "WARWICK",
+		"State" : "RI",
+		"Latitude" : "+41.682455"
+	},
+	{
+		"Longitude" : "-071.411088",
+		"Zipcode" : "02888",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "WARWICK",
+		"State" : "RI",
+		"Latitude" : "+41.747300"
+	},
+	{
+		"Longitude" : "-071.496048",
+		"Zipcode" : "02889",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "WARWICK",
+		"State" : "RI",
+		"Latitude" : "+41.689182"
+	},
+	{
+		"Longitude" : "-071.710708",
+		"Zipcode" : "02891",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WESTERLY",
+		"State" : "RI",
+		"Latitude" : "+41.284494"
+	},
+	{
+		"Longitude" : "-071.621140",
+		"Zipcode" : "02892",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WEST KINGSTON",
+		"State" : "RI",
+		"Latitude" : "+41.505764"
+	},
+	{
+		"Longitude" : "-071.507304",
+		"Zipcode" : "02893",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "WEST WARWICK",
+		"State" : "RI",
+		"Latitude" : "+41.696822"
+	},
+	{
+		"Longitude" : "-071.707420",
+		"Zipcode" : "02894",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WOOD RIVER JUNCTION",
+		"State" : "RI",
+		"Latitude" : "+41.450050"
+	},
+	{
+		"Longitude" : "-071.519390",
+		"Zipcode" : "02895",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "WOONSOCKET",
+		"State" : "RI",
+		"Latitude" : "+41.984598"
+	},
+	{
+		"Longitude" : "-071.540506",
+		"Zipcode" : "02896",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "NORTH SMITHFIELD",
+		"State" : "RI",
+		"Latitude" : "+41.934348"
+	},
+	{
+		"Longitude" : "-071.662954",
+		"Zipcode" : "02898",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WYOMING",
+		"State" : "RI",
+		"Latitude" : "+41.504089"
+	},
+	{
+		"Longitude" : "-071.414451",
+		"Zipcode" : "02901",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.822750"
+	},
+	{
+		"Longitude" : "-071.424851",
+		"Zipcode" : "02902",
+		"ZipClass" : "UNIQUE",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.818350"
+	},
+	{
+		"Longitude" : "-071.411500",
+		"Zipcode" : "02903",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.819459"
+	},
+	{
+		"Longitude" : "-071.437752",
+		"Zipcode" : "02904",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.854140"
+	},
+	{
+		"Longitude" : "-071.422547",
+		"Zipcode" : "02905",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.803799"
+	},
+	{
+		"Longitude" : "-071.394717",
+		"Zipcode" : "02906",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.837400"
+	},
+	{
+		"Longitude" : "-071.425501",
+		"Zipcode" : "02907",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.797065"
+	},
+	{
+		"Longitude" : "-071.439900",
+		"Zipcode" : "02908",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.837399"
+	},
+	{
+		"Longitude" : "-071.444302",
+		"Zipcode" : "02909",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.820599"
+	},
+	{
+		"Longitude" : "-071.435251",
+		"Zipcode" : "02910",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "CRANSTON",
+		"State" : "RI",
+		"Latitude" : "+41.791700"
+	},
+	{
+		"Longitude" : "-071.449202",
+		"Zipcode" : "02911",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "NORTH PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.838749"
+	},
+	{
+		"Longitude" : "-071.397699",
+		"Zipcode" : "02912",
+		"ZipClass" : "UNIQUE",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.826737"
+	},
+	{
+		"Longitude" : "-071.363348",
+		"Zipcode" : "02914",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "EAST PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.813429"
+	},
+	{
+		"Longitude" : "-071.349697",
+		"Zipcode" : "02915",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "RIVERSIDE",
+		"State" : "RI",
+		"Latitude" : "+41.774300"
+	},
+	{
+		"Longitude" : "-071.355798",
+		"Zipcode" : "02916",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "RUMFORD",
+		"State" : "RI",
+		"Latitude" : "+41.842727"
+	},
+	{
+		"Longitude" : "-071.497804",
+		"Zipcode" : "02917",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "SMITHFIELD",
+		"State" : "RI",
+		"Latitude" : "+41.853899"
+	},
+	{
+		"Longitude" : "-071.440352",
+		"Zipcode" : "02918",
+		"ZipClass" : "UNIQUE",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.841499"
+	},
+	{
+		"Longitude" : "-071.497604",
+		"Zipcode" : "02919",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "JOHNSTON",
+		"State" : "RI",
+		"Latitude" : "+41.870932"
+	},
+	{
+		"Longitude" : "-071.471353",
+		"Zipcode" : "02920",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "CRANSTON",
+		"State" : "RI",
+		"Latitude" : "+41.769300"
+	},
+	{
+		"Longitude" : "-071.476703",
+		"Zipcode" : "02921",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "CRANSTON",
+		"State" : "RI",
+		"Latitude" : "+41.766750"
+	},
+	{
+		"Longitude" : "-071.558518",
+		"Zipcode" : "02940",
+		"ZipClass" : "STANDARD",
+		"County" : "PROVIDENCE",
+		"City" : "PROVIDENCE",
+		"State" : "RI",
+		"Latitude" : "+41.871766"
+	}
+]}

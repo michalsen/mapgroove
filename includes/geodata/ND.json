@@ -1,0 +1,3765 @@
+{
+	"result":[
+	{
+		"Longitude" : "-096.727788",
+		"Zipcode" : "58001",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "ABERCROMBIE",
+		"State" : "ND",
+		"Latitude" : "+46.447936"
+	},
+	{
+		"Longitude" : "-097.214587",
+		"Zipcode" : "58002",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "ABSARAKA",
+		"State" : "ND",
+		"Latitude" : "+46.859694"
+	},
+	{
+		"Longitude" : "-097.271545",
+		"Zipcode" : "58004",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "AMENIA",
+		"State" : "ND",
+		"Latitude" : "+47.021032"
+	},
+	{
+		"Longitude" : "-096.975162",
+		"Zipcode" : "58005",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "ARGUSVILLE",
+		"State" : "ND",
+		"Latitude" : "+47.057026"
+	},
+	{
+		"Longitude" : "-097.140334",
+		"Zipcode" : "58006",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "ARTHUR",
+		"State" : "ND",
+		"Latitude" : "+47.102334"
+	},
+	{
+		"Longitude" : "-097.462894",
+		"Zipcode" : "58007",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "AYR",
+		"State" : "ND",
+		"Latitude" : "+47.013920"
+	},
+	{
+		"Longitude" : "-096.864373",
+		"Zipcode" : "58008",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "BARNEY",
+		"State" : "ND",
+		"Latitude" : "+46.273086"
+	},
+	{
+		"Longitude" : "-097.151692",
+		"Zipcode" : "58009",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "BLANCHARD",
+		"State" : "ND",
+		"Latitude" : "+47.454888"
+	},
+	{
+		"Longitude" : "-097.557491",
+		"Zipcode" : "58011",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "BUFFALO",
+		"State" : "ND",
+		"Latitude" : "+46.920016"
+	},
+	{
+		"Longitude" : "-097.062647",
+		"Zipcode" : "58012",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "CASSELTON",
+		"State" : "ND",
+		"Latitude" : "+47.050272"
+	},
+	{
+		"Longitude" : "-097.529438",
+		"Zipcode" : "58013",
+		"ZipClass" : "STANDARD",
+		"County" : "SARGENT",
+		"City" : "CAYUGA",
+		"State" : "ND",
+		"Latitude" : "+46.062144"
+	},
+	{
+		"Longitude" : "-097.352437",
+		"Zipcode" : "58014",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "CHAFFEE",
+		"State" : "ND",
+		"Latitude" : "+46.775027"
+	},
+	{
+		"Longitude" : "-096.809354",
+		"Zipcode" : "58015",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "CHRISTINE",
+		"State" : "ND",
+		"Latitude" : "+46.593582"
+	},
+	{
+		"Longitude" : "-097.151692",
+		"Zipcode" : "58016",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "CLIFFORD",
+		"State" : "ND",
+		"Latitude" : "+47.454888"
+	},
+	{
+		"Longitude" : "-097.820733",
+		"Zipcode" : "58017",
+		"ZipClass" : "STANDARD",
+		"County" : "SARGENT",
+		"City" : "COGSWELL",
+		"State" : "ND",
+		"Latitude" : "+46.065930"
+	},
+	{
+		"Longitude" : "-096.873653",
+		"Zipcode" : "58018",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLFAX",
+		"State" : "ND",
+		"Latitude" : "+46.457386"
+	},
+	{
+		"Longitude" : "-097.063137",
+		"Zipcode" : "58021",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "DAVENPORT",
+		"State" : "ND",
+		"Latitude" : "+46.731743"
+	},
+	{
+		"Longitude" : "-097.777909",
+		"Zipcode" : "58027",
+		"ZipClass" : "STANDARD",
+		"County" : "RANSOM",
+		"City" : "ENDERLIN",
+		"State" : "ND",
+		"Latitude" : "+46.456337"
+	},
+	{
+		"Longitude" : "-097.377138",
+		"Zipcode" : "58029",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "ERIE",
+		"State" : "ND",
+		"Latitude" : "+47.115505"
+	},
+	{
+		"Longitude" : "-096.907594",
+		"Zipcode" : "58030",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "FAIRMOUNT",
+		"State" : "ND",
+		"Latitude" : "+46.094599"
+	},
+	{
+		"Longitude" : "-097.797553",
+		"Zipcode" : "58031",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "FINGAL",
+		"State" : "ND",
+		"Latitude" : "+46.775099"
+	},
+	{
+		"Longitude" : "-097.633282",
+		"Zipcode" : "58032",
+		"ZipClass" : "STANDARD",
+		"County" : "SARGENT",
+		"City" : "FORMAN",
+		"State" : "ND",
+		"Latitude" : "+46.058634"
+	},
+	{
+		"Longitude" : "-097.909114",
+		"Zipcode" : "58033",
+		"ZipClass" : "STANDARD",
+		"County" : "RANSOM",
+		"City" : "FORT RANSOM",
+		"State" : "ND",
+		"Latitude" : "+46.449387"
+	},
+	{
+		"Longitude" : "-097.408156",
+		"Zipcode" : "58035",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "GALESBURG",
+		"State" : "ND",
+		"Latitude" : "+47.270447"
+	},
+	{
+		"Longitude" : "-096.957752",
+		"Zipcode" : "58036",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "GARDNER",
+		"State" : "ND",
+		"Latitude" : "+47.157949"
+	},
+	{
+		"Longitude" : "-096.969150",
+		"Zipcode" : "58038",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "GRANDIN",
+		"State" : "ND",
+		"Latitude" : "+47.072418"
+	},
+	{
+		"Longitude" : "-096.843465",
+		"Zipcode" : "58039",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "GREAT BEND",
+		"State" : "ND",
+		"Latitude" : "+46.160427"
+	},
+	{
+		"Longitude" : "-097.767735",
+		"Zipcode" : "58040",
+		"ZipClass" : "STANDARD",
+		"County" : "SARGENT",
+		"City" : "GWINNER",
+		"State" : "ND",
+		"Latitude" : "+46.152725"
+	},
+	{
+		"Longitude" : "-096.924730",
+		"Zipcode" : "58041",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "HANKINSON",
+		"State" : "ND",
+		"Latitude" : "+46.073423"
+	},
+	{
+		"Longitude" : "-096.965445",
+		"Zipcode" : "58042",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "HARWOOD",
+		"State" : "ND",
+		"Latitude" : "+46.956511"
+	},
+	{
+		"Longitude" : "-097.544230",
+		"Zipcode" : "58043",
+		"ZipClass" : "STANDARD",
+		"County" : "SARGENT",
+		"City" : "HAVANA",
+		"State" : "ND",
+		"Latitude" : "+45.978943"
+	},
+	{
+		"Longitude" : "-097.060324",
+		"Zipcode" : "58045",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "HILLSBORO",
+		"State" : "ND",
+		"Latitude" : "+47.383461"
+	},
+	{
+		"Longitude" : "-097.713371",
+		"Zipcode" : "58046",
+		"ZipClass" : "STANDARD",
+		"County" : "STEELE",
+		"City" : "HOPE",
+		"State" : "ND",
+		"Latitude" : "+47.323726"
+	},
+	{
+		"Longitude" : "-096.885060",
+		"Zipcode" : "58047",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "HORACE",
+		"State" : "ND",
+		"Latitude" : "+46.710147"
+	},
+	{
+		"Longitude" : "-097.150669",
+		"Zipcode" : "58048",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "HUNTER",
+		"State" : "ND",
+		"Latitude" : "+46.981541"
+	},
+	{
+		"Longitude" : "-097.976311",
+		"Zipcode" : "58049",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "KATHRYN",
+		"State" : "ND",
+		"Latitude" : "+46.717679"
+	},
+	{
+		"Longitude" : "-097.050584",
+		"Zipcode" : "58051",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "KINDRED",
+		"State" : "ND",
+		"Latitude" : "+46.673526"
+	},
+	{
+		"Longitude" : "-097.294037",
+		"Zipcode" : "58052",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "LEONARD",
+		"State" : "ND",
+		"Latitude" : "+46.765575"
+	},
+	{
+		"Longitude" : "-096.994919",
+		"Zipcode" : "58053",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "LIDGERWOOD",
+		"State" : "ND",
+		"Latitude" : "+46.191782"
+	},
+	{
+		"Longitude" : "-097.636917",
+		"Zipcode" : "58054",
+		"ZipClass" : "STANDARD",
+		"County" : "RANSOM",
+		"City" : "LISBON",
+		"State" : "ND",
+		"Latitude" : "+46.455974"
+	},
+	{
+		"Longitude" : "-097.718955",
+		"Zipcode" : "58056",
+		"ZipClass" : "STANDARD",
+		"County" : "STEELE",
+		"City" : "LUVERNE",
+		"State" : "ND",
+		"Latitude" : "+47.455650"
+	},
+	{
+		"Longitude" : "-097.343373",
+		"Zipcode" : "58057",
+		"ZipClass" : "STANDARD",
+		"County" : "RANSOM",
+		"City" : "MCLEOD",
+		"State" : "ND",
+		"Latitude" : "+46.443826"
+	},
+	{
+		"Longitude" : "-096.969366",
+		"Zipcode" : "58058",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "MANTADOR",
+		"State" : "ND",
+		"Latitude" : "+46.160380"
+	},
+	{
+		"Longitude" : "-097.115726",
+		"Zipcode" : "58059",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "MAPLETON",
+		"State" : "ND",
+		"Latitude" : "+46.861424"
+	},
+	{
+		"Longitude" : "-097.477179",
+		"Zipcode" : "58060",
+		"ZipClass" : "STANDARD",
+		"County" : "SARGENT",
+		"City" : "MILNOR",
+		"State" : "ND",
+		"Latitude" : "+46.200657"
+	},
+	{
+		"Longitude" : "-096.861092",
+		"Zipcode" : "58061",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "MOORETON",
+		"State" : "ND",
+		"Latitude" : "+46.315035"
+	},
+	{
+		"Longitude" : "-097.786984",
+		"Zipcode" : "58062",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "NOME",
+		"State" : "ND",
+		"Latitude" : "+46.680795"
+	},
+	{
+		"Longitude" : "-097.789289",
+		"Zipcode" : "58063",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "ORISKA",
+		"State" : "ND",
+		"Latitude" : "+46.964791"
+	},
+	{
+		"Longitude" : "-097.515646",
+		"Zipcode" : "58064",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "PAGE",
+		"State" : "ND",
+		"Latitude" : "+47.000029"
+	},
+	{
+		"Longitude" : "-098.195722",
+		"Zipcode" : "58065",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "PILLSBURY",
+		"State" : "ND",
+		"Latitude" : "+46.650741"
+	},
+	{
+		"Longitude" : "-097.431104",
+		"Zipcode" : "58067",
+		"ZipClass" : "STANDARD",
+		"County" : "SARGENT",
+		"City" : "RUTLAND",
+		"State" : "ND",
+		"Latitude" : "+46.036974"
+	},
+	{
+		"Longitude" : "-097.416257",
+		"Zipcode" : "58068",
+		"ZipClass" : "STANDARD",
+		"County" : "RANSOM",
+		"City" : "SHELDON",
+		"State" : "ND",
+		"Latitude" : "+46.521481"
+	},
+	{
+		"Longitude" : "-097.623070",
+		"Zipcode" : "58069",
+		"ZipClass" : "STANDARD",
+		"County" : "SARGENT",
+		"City" : "STIRUM",
+		"State" : "ND",
+		"Latitude" : "+46.221613"
+	},
+	{
+		"Longitude" : "-097.626101",
+		"Zipcode" : "58071",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "TOWER CITY",
+		"State" : "ND",
+		"Latitude" : "+46.949236"
+	},
+	{
+		"Longitude" : "-098.007534",
+		"Zipcode" : "58072",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "VALLEY CITY",
+		"State" : "ND",
+		"Latitude" : "+46.972286"
+	},
+	{
+		"Longitude" : "-096.917614",
+		"Zipcode" : "58074",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "WAHPETON",
+		"State" : "ND",
+		"Latitude" : "+46.283291"
+	},
+	{
+		"Longitude" : "-096.792057",
+		"Zipcode" : "58075",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "WAHPETON",
+		"State" : "ND",
+		"Latitude" : "+46.336591"
+	},
+	{
+		"Longitude" : "-096.608142",
+		"Zipcode" : "58076",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "WAHPETON",
+		"State" : "ND",
+		"Latitude" : "+46.271839"
+	},
+	{
+		"Longitude" : "-097.013693",
+		"Zipcode" : "58077",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "WALCOTT",
+		"State" : "ND",
+		"Latitude" : "+46.445916"
+	},
+	{
+		"Longitude" : "-096.925828",
+		"Zipcode" : "58078",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "WEST FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.890692"
+	},
+	{
+		"Longitude" : "-097.346067",
+		"Zipcode" : "58079",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "WHEATLAND",
+		"State" : "ND",
+		"Latitude" : "+46.832617"
+	},
+	{
+		"Longitude" : "-097.114080",
+		"Zipcode" : "58081",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "WYNDMERE",
+		"State" : "ND",
+		"Latitude" : "+46.384021"
+	},
+	{
+		"Longitude" : "-096.990615",
+		"Zipcode" : "58102",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.925360"
+	},
+	{
+		"Longitude" : "-096.825841",
+		"Zipcode" : "58103",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.832152"
+	},
+	{
+		"Longitude" : "-096.884106",
+		"Zipcode" : "58104",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.781589"
+	},
+	{
+		"Longitude" : "-096.967371",
+		"Zipcode" : "58105",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.941400"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58106",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58107",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58108",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-096.814800",
+		"Zipcode" : "58109",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.823520"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58121",
+		"ZipClass" : "UNIQUE",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58122",
+		"ZipClass" : "UNIQUE",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58123",
+		"ZipClass" : "UNIQUE",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58124",
+		"ZipClass" : "UNIQUE",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58125",
+		"ZipClass" : "UNIQUE",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-097.229718",
+		"Zipcode" : "58126",
+		"ZipClass" : "UNIQUE",
+		"County" : "CASS",
+		"City" : "FARGO",
+		"State" : "ND",
+		"Latitude" : "+46.934596"
+	},
+	{
+		"Longitude" : "-097.431501",
+		"Zipcode" : "58201",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "GRAND FORKS",
+		"State" : "ND",
+		"Latitude" : "+47.904100"
+	},
+	{
+		"Longitude" : "-097.394446",
+		"Zipcode" : "58202",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "GRAND FORKS",
+		"State" : "ND",
+		"Latitude" : "+47.933481"
+	},
+	{
+		"Longitude" : "-097.301297",
+		"Zipcode" : "58203",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "GRAND FORKS",
+		"State" : "ND",
+		"Latitude" : "+47.892243"
+	},
+	{
+		"Longitude" : "-097.367534",
+		"Zipcode" : "58204",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "GRAND FORKS AFB",
+		"State" : "ND",
+		"Latitude" : "+47.967909"
+	},
+	{
+		"Longitude" : "-097.394446",
+		"Zipcode" : "58205",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "GRAND FORKS AFB",
+		"State" : "ND",
+		"Latitude" : "+47.933481"
+	},
+	{
+		"Longitude" : "-097.394446",
+		"Zipcode" : "58206",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "GRAND FORKS",
+		"State" : "ND",
+		"Latitude" : "+47.933481"
+	},
+	{
+		"Longitude" : "-097.394446",
+		"Zipcode" : "58207",
+		"ZipClass" : "UNIQUE",
+		"County" : "GRAND FORKS",
+		"City" : "GRAND FORKS",
+		"State" : "ND",
+		"Latitude" : "+47.933481"
+	},
+	{
+		"Longitude" : "-097.394446",
+		"Zipcode" : "58208",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "GRAND FORKS",
+		"State" : "ND",
+		"Latitude" : "+47.933481"
+	},
+	{
+		"Longitude" : "-097.997964",
+		"Zipcode" : "58210",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "ADAMS",
+		"State" : "ND",
+		"Latitude" : "+48.383547"
+	},
+	{
+		"Longitude" : "-098.043481",
+		"Zipcode" : "58212",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "ANETA",
+		"State" : "ND",
+		"Latitude" : "+47.766493"
+	},
+	{
+		"Longitude" : "-097.275528",
+		"Zipcode" : "58213",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "ARDOCH",
+		"State" : "ND",
+		"Latitude" : "+48.237795"
+	},
+	{
+		"Longitude" : "-097.494107",
+		"Zipcode" : "58214",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "ARVILLA",
+		"State" : "ND",
+		"Latitude" : "+47.925956"
+	},
+	{
+		"Longitude" : "-097.425430",
+		"Zipcode" : "58216",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "BATHGATE",
+		"State" : "ND",
+		"Latitude" : "+48.874863"
+	},
+	{
+		"Longitude" : "-097.099519",
+		"Zipcode" : "58218",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "BUXTON",
+		"State" : "ND",
+		"Latitude" : "+47.602249"
+	},
+	{
+		"Longitude" : "-097.151692",
+		"Zipcode" : "58219",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "CALEDONIA",
+		"State" : "ND",
+		"Latitude" : "+47.454888"
+	},
+	{
+		"Longitude" : "-097.699122",
+		"Zipcode" : "58220",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "CAVALIER",
+		"State" : "ND",
+		"Latitude" : "+48.738902"
+	},
+	{
+		"Longitude" : "-097.633342",
+		"Zipcode" : "58222",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "CRYSTAL",
+		"State" : "ND",
+		"Latitude" : "+48.644900"
+	},
+	{
+		"Longitude" : "-097.151692",
+		"Zipcode" : "58223",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "CUMMINGS",
+		"State" : "ND",
+		"Latitude" : "+47.454888"
+	},
+	{
+		"Longitude" : "-097.957485",
+		"Zipcode" : "58224",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "DAHLEN",
+		"State" : "ND",
+		"Latitude" : "+48.165871"
+	},
+	{
+		"Longitude" : "-097.362726",
+		"Zipcode" : "58225",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "DRAYTON",
+		"State" : "ND",
+		"Latitude" : "+48.668146"
+	},
+	{
+		"Longitude" : "-097.893218",
+		"Zipcode" : "58227",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "EDINBURG",
+		"State" : "ND",
+		"Latitude" : "+48.499712"
+	},
+	{
+		"Longitude" : "-097.280993",
+		"Zipcode" : "58228",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "EMERADO",
+		"State" : "ND",
+		"Latitude" : "+47.889676"
+	},
+	{
+		"Longitude" : "-098.054828",
+		"Zipcode" : "58229",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "FAIRDALE",
+		"State" : "ND",
+		"Latitude" : "+48.380603"
+	},
+	{
+		"Longitude" : "-097.837070",
+		"Zipcode" : "58230",
+		"ZipClass" : "STANDARD",
+		"County" : "STEELE",
+		"City" : "FINLEY",
+		"State" : "ND",
+		"Latitude" : "+47.512070"
+	},
+	{
+		"Longitude" : "-097.827805",
+		"Zipcode" : "58231",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "FORDVILLE",
+		"State" : "ND",
+		"Latitude" : "+48.281947"
+	},
+	{
+		"Longitude" : "-097.522485",
+		"Zipcode" : "58233",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "FOREST RIVER",
+		"State" : "ND",
+		"Latitude" : "+48.259974"
+	},
+	{
+		"Longitude" : "-097.514081",
+		"Zipcode" : "58235",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "GILBY",
+		"State" : "ND",
+		"Latitude" : "+48.085827"
+	},
+	{
+		"Longitude" : "-097.469623",
+		"Zipcode" : "58236",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PEMBINA",
+		"City" : "GLASSTON",
+		"State" : "ND",
+		"Latitude" : "+48.720149"
+	},
+	{
+		"Longitude" : "-097.437265",
+		"Zipcode" : "58237",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "GRAFTON",
+		"State" : "ND",
+		"Latitude" : "+48.368876"
+	},
+	{
+		"Longitude" : "-097.449975",
+		"Zipcode" : "58238",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "HAMILTON",
+		"State" : "ND",
+		"Latitude" : "+48.778717"
+	},
+	{
+		"Longitude" : "-098.464102",
+		"Zipcode" : "58239",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "HANNAH",
+		"State" : "ND",
+		"Latitude" : "+48.771780"
+	},
+	{
+		"Longitude" : "-097.459319",
+		"Zipcode" : "58240",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "HATTON",
+		"State" : "ND",
+		"Latitude" : "+47.638521"
+	},
+	{
+		"Longitude" : "-097.699287",
+		"Zipcode" : "58241",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "HENSEL",
+		"State" : "ND",
+		"Latitude" : "+48.720338"
+	},
+	{
+		"Longitude" : "-097.677015",
+		"Zipcode" : "58243",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "HOOPLE",
+		"State" : "ND",
+		"Latitude" : "+48.490539"
+	},
+	{
+		"Longitude" : "-097.683056",
+		"Zipcode" : "58244",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "INKSTER",
+		"State" : "ND",
+		"Latitude" : "+48.107863"
+	},
+	{
+		"Longitude" : "-098.288629",
+		"Zipcode" : "58249",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "LANGDON",
+		"State" : "ND",
+		"Latitude" : "+48.753679"
+	},
+	{
+		"Longitude" : "-098.076663",
+		"Zipcode" : "58250",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "LANKIN",
+		"State" : "ND",
+		"Latitude" : "+48.282007"
+	},
+	{
+		"Longitude" : "-097.626389",
+		"Zipcode" : "58251",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "LARIMORE",
+		"State" : "ND",
+		"Latitude" : "+47.911531"
+	},
+	{
+		"Longitude" : "-098.134365",
+		"Zipcode" : "58254",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "MCVILLE",
+		"State" : "ND",
+		"Latitude" : "+47.856367"
+	},
+	{
+		"Longitude" : "-098.464102",
+		"Zipcode" : "58255",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "MAIDA",
+		"State" : "ND",
+		"Latitude" : "+48.771780"
+	},
+	{
+		"Longitude" : "-097.287910",
+		"Zipcode" : "58256",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "MANVEL",
+		"State" : "ND",
+		"Latitude" : "+48.107279"
+	},
+	{
+		"Longitude" : "-097.345104",
+		"Zipcode" : "58257",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "MAYVILLE",
+		"State" : "ND",
+		"Latitude" : "+47.487262"
+	},
+	{
+		"Longitude" : "-097.430451",
+		"Zipcode" : "58258",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "MEKINOCK",
+		"State" : "ND",
+		"Latitude" : "+48.007368"
+	},
+	{
+		"Longitude" : "-098.118574",
+		"Zipcode" : "58259",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "MICHIGAN",
+		"State" : "ND",
+		"Latitude" : "+48.020355"
+	},
+	{
+		"Longitude" : "-098.042871",
+		"Zipcode" : "58260",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "MILTON",
+		"State" : "ND",
+		"Latitude" : "+48.624861"
+	},
+	{
+		"Longitude" : "-097.314367",
+		"Zipcode" : "58261",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "MINTO",
+		"State" : "ND",
+		"Latitude" : "+48.259970"
+	},
+	{
+		"Longitude" : "-097.884115",
+		"Zipcode" : "58262",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "MOUNTAIN",
+		"State" : "ND",
+		"Latitude" : "+48.693099"
+	},
+	{
+		"Longitude" : "-097.512602",
+		"Zipcode" : "58265",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "NECHE",
+		"State" : "ND",
+		"Latitude" : "+48.943793"
+	},
+	{
+		"Longitude" : "-097.817106",
+		"Zipcode" : "58266",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "NIAGARA",
+		"State" : "ND",
+		"Latitude" : "+48.015728"
+	},
+	{
+		"Longitude" : "-097.603773",
+		"Zipcode" : "58267",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "NORTHWOOD",
+		"State" : "ND",
+		"Latitude" : "+47.759107"
+	},
+	{
+		"Longitude" : "-098.464102",
+		"Zipcode" : "58269",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "OSNABROCK",
+		"State" : "ND",
+		"Latitude" : "+48.771780"
+	},
+	{
+		"Longitude" : "-097.774812",
+		"Zipcode" : "58270",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "PARK RIVER",
+		"State" : "ND",
+		"Latitude" : "+48.420411"
+	},
+	{
+		"Longitude" : "-097.288585",
+		"Zipcode" : "58271",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "PEMBINA",
+		"State" : "ND",
+		"Latitude" : "+48.858970"
+	},
+	{
+		"Longitude" : "-098.000193",
+		"Zipcode" : "58272",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "PETERSBURG",
+		"State" : "ND",
+		"Latitude" : "+48.005980"
+	},
+	{
+		"Longitude" : "-097.814390",
+		"Zipcode" : "58273",
+		"ZipClass" : "STANDARD",
+		"County" : "WALSH",
+		"City" : "PISEK",
+		"State" : "ND",
+		"Latitude" : "+48.323898"
+	},
+	{
+		"Longitude" : "-097.244353",
+		"Zipcode" : "58274",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAILL",
+		"City" : "PORTLAND",
+		"State" : "ND",
+		"Latitude" : "+47.582141"
+	},
+	{
+		"Longitude" : "-097.236128",
+		"Zipcode" : "58275",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "REYNOLDS",
+		"State" : "ND",
+		"Latitude" : "+47.872332"
+	},
+	{
+		"Longitude" : "-097.471056",
+		"Zipcode" : "58276",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "SAINT THOMAS",
+		"State" : "ND",
+		"Latitude" : "+48.630369"
+	},
+	{
+		"Longitude" : "-097.718955",
+		"Zipcode" : "58277",
+		"ZipClass" : "STANDARD",
+		"County" : "STEELE",
+		"City" : "SHARON",
+		"State" : "ND",
+		"Latitude" : "+47.455650"
+	},
+	{
+		"Longitude" : "-097.347030",
+		"Zipcode" : "58278",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND FORKS",
+		"City" : "THOMPSON",
+		"State" : "ND",
+		"Latitude" : "+47.785848"
+	},
+	{
+		"Longitude" : "-098.464102",
+		"Zipcode" : "58281",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "WALES",
+		"State" : "ND",
+		"Latitude" : "+48.771780"
+	},
+	{
+		"Longitude" : "-097.797358",
+		"Zipcode" : "58282",
+		"ZipClass" : "STANDARD",
+		"County" : "PEMBINA",
+		"City" : "WALHALLA",
+		"State" : "ND",
+		"Latitude" : "+48.880795"
+	},
+	{
+		"Longitude" : "-098.781979",
+		"Zipcode" : "58301",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "DEVILS LAKE",
+		"State" : "ND",
+		"Latitude" : "+48.264352"
+	},
+	{
+		"Longitude" : "-099.772702",
+		"Zipcode" : "58310",
+		"ZipClass" : "STANDARD",
+		"County" : "ROLETTE",
+		"City" : "AGATE",
+		"State" : "ND",
+		"Latitude" : "+48.770913"
+	},
+	{
+		"Longitude" : "-098.464102",
+		"Zipcode" : "58311",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "ALSEN",
+		"State" : "ND",
+		"Latitude" : "+48.771780"
+	},
+	{
+		"Longitude" : "-099.992145",
+		"Zipcode" : "58313",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "BALTA",
+		"State" : "ND",
+		"Latitude" : "+48.104177"
+	},
+	{
+		"Longitude" : "-099.799919",
+		"Zipcode" : "58316",
+		"ZipClass" : "STANDARD",
+		"County" : "ROLETTE",
+		"City" : "BELCOURT",
+		"State" : "ND",
+		"Latitude" : "+48.777557"
+	},
+	{
+		"Longitude" : "-099.231730",
+		"Zipcode" : "58317",
+		"ZipClass" : "STANDARD",
+		"County" : "TOWNER",
+		"City" : "BISBEE",
+		"State" : "ND",
+		"Latitude" : "+48.588070"
+	},
+	{
+		"Longitude" : "-100.601174",
+		"Zipcode" : "58318",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "BOTTINEAU",
+		"State" : "ND",
+		"Latitude" : "+48.830347"
+	},
+	{
+		"Longitude" : "-099.664406",
+		"Zipcode" : "58319",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "BREMEN",
+		"State" : "ND",
+		"Latitude" : "+47.663508"
+	},
+	{
+		"Longitude" : "-099.404705",
+		"Zipcode" : "58320",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "BRINSMADE",
+		"State" : "ND",
+		"Latitude" : "+48.286410"
+	},
+	{
+		"Longitude" : "-098.400599",
+		"Zipcode" : "58321",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "BROCKET",
+		"State" : "ND",
+		"Latitude" : "+48.238222"
+	},
+	{
+		"Longitude" : "-098.464102",
+		"Zipcode" : "58323",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "CALVIN",
+		"State" : "ND",
+		"Latitude" : "+48.771780"
+	},
+	{
+		"Longitude" : "-099.231923",
+		"Zipcode" : "58324",
+		"ZipClass" : "STANDARD",
+		"County" : "TOWNER",
+		"City" : "CANDO",
+		"State" : "ND",
+		"Latitude" : "+48.500121"
+	},
+	{
+		"Longitude" : "-099.070499",
+		"Zipcode" : "58325",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "CHURCHS FERRY",
+		"State" : "ND",
+		"Latitude" : "+48.290000"
+	},
+	{
+		"Longitude" : "-098.573116",
+		"Zipcode" : "58327",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "CRARY",
+		"State" : "ND",
+		"Latitude" : "+48.091012"
+	},
+	{
+		"Longitude" : "-100.024102",
+		"Zipcode" : "58329",
+		"ZipClass" : "STANDARD",
+		"County" : "ROLETTE",
+		"City" : "DUNSEITH",
+		"State" : "ND",
+		"Latitude" : "+48.856083"
+	},
+	{
+		"Longitude" : "-098.499630",
+		"Zipcode" : "58330",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "EDMORE",
+		"State" : "ND",
+		"Latitude" : "+48.422614"
+	},
+	{
+		"Longitude" : "-099.123224",
+		"Zipcode" : "58331",
+		"ZipClass" : "STANDARD",
+		"County" : "TOWNER",
+		"City" : "EGELAND",
+		"State" : "ND",
+		"Latitude" : "+48.652908"
+	},
+	{
+		"Longitude" : "-099.538336",
+		"Zipcode" : "58332",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "ESMOND",
+		"State" : "ND",
+		"Latitude" : "+48.059736"
+	},
+	{
+		"Longitude" : "-099.186842",
+		"Zipcode" : "58335",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENSON",
+		"City" : "FORT TOTTEN",
+		"State" : "ND",
+		"Latitude" : "+48.108758"
+	},
+	{
+		"Longitude" : "-099.667737",
+		"Zipcode" : "58337",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WELLS",
+		"City" : "HAMBERG",
+		"State" : "ND",
+		"Latitude" : "+47.587372"
+	},
+	{
+		"Longitude" : "-098.644371",
+		"Zipcode" : "58338",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "HAMPDEN",
+		"State" : "ND",
+		"Latitude" : "+48.499953"
+	},
+	{
+		"Longitude" : "-099.427769",
+		"Zipcode" : "58339",
+		"ZipClass" : "STANDARD",
+		"County" : "TOWNER",
+		"City" : "HANSBORO",
+		"State" : "ND",
+		"Latitude" : "+48.900063"
+	},
+	{
+		"Longitude" : "-099.747755",
+		"Zipcode" : "58341",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "HARVEY",
+		"State" : "ND",
+		"Latitude" : "+47.703539"
+	},
+	{
+		"Longitude" : "-099.689358",
+		"Zipcode" : "58343",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "KNOX",
+		"State" : "ND",
+		"Latitude" : "+48.301215"
+	},
+	{
+		"Longitude" : "-098.324631",
+		"Zipcode" : "58344",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "LAKOTA",
+		"State" : "ND",
+		"Latitude" : "+47.971966"
+	},
+	{
+		"Longitude" : "-098.438346",
+		"Zipcode" : "58345",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "LAWTON",
+		"State" : "ND",
+		"Latitude" : "+48.275146"
+	},
+	{
+		"Longitude" : "-099.432466",
+		"Zipcode" : "58346",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "LEEDS",
+		"State" : "ND",
+		"Latitude" : "+48.165312"
+	},
+	{
+		"Longitude" : "-099.535801",
+		"Zipcode" : "58348",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "MADDOCK",
+		"State" : "ND",
+		"Latitude" : "+47.999093"
+	},
+	{
+		"Longitude" : "-099.389810",
+		"Zipcode" : "58351",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "MINNEWAUKAN",
+		"State" : "ND",
+		"Latitude" : "+48.130016"
+	},
+	{
+		"Longitude" : "-098.835465",
+		"Zipcode" : "58352",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "MUNICH",
+		"State" : "ND",
+		"Latitude" : "+48.669370"
+	},
+	{
+		"Longitude" : "-099.838063",
+		"Zipcode" : "58353",
+		"ZipClass" : "STANDARD",
+		"County" : "ROLETTE",
+		"City" : "MYLO",
+		"State" : "ND",
+		"Latitude" : "+48.772022"
+	},
+	{
+		"Longitude" : "-098.464102",
+		"Zipcode" : "58355",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAVALIER",
+		"City" : "NEKOMA",
+		"State" : "ND",
+		"Latitude" : "+48.771780"
+	},
+	{
+		"Longitude" : "-098.898693",
+		"Zipcode" : "58356",
+		"ZipClass" : "STANDARD",
+		"County" : "EDDY",
+		"City" : "NEW ROCKFORD",
+		"State" : "ND",
+		"Latitude" : "+47.717360"
+	},
+	{
+		"Longitude" : "-099.133201",
+		"Zipcode" : "58357",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "OBERON",
+		"State" : "ND",
+		"Latitude" : "+47.949694"
+	},
+	{
+		"Longitude" : "-100.164357",
+		"Zipcode" : "58359",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "ORRIN",
+		"State" : "ND",
+		"Latitude" : "+48.089537"
+	},
+	{
+		"Longitude" : "-098.364994",
+		"Zipcode" : "58361",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "PEKIN",
+		"State" : "ND",
+		"Latitude" : "+47.798489"
+	},
+	{
+		"Longitude" : "-099.070415",
+		"Zipcode" : "58362",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "PENN",
+		"State" : "ND",
+		"Latitude" : "+48.275494"
+	},
+	{
+		"Longitude" : "-099.438351",
+		"Zipcode" : "58363",
+		"ZipClass" : "STANDARD",
+		"County" : "TOWNER",
+		"City" : "PERTH",
+		"State" : "ND",
+		"Latitude" : "+48.754621"
+	},
+	{
+		"Longitude" : "-099.263090",
+		"Zipcode" : "58365",
+		"ZipClass" : "STANDARD",
+		"County" : "TOWNER",
+		"City" : "ROCKLAKE",
+		"State" : "ND",
+		"Latitude" : "+48.844548"
+	},
+	{
+		"Longitude" : "-099.878456",
+		"Zipcode" : "58366",
+		"ZipClass" : "STANDARD",
+		"County" : "ROLETTE",
+		"City" : "ROLETTE",
+		"State" : "ND",
+		"Latitude" : "+48.700886"
+	},
+	{
+		"Longitude" : "-099.786546",
+		"Zipcode" : "58367",
+		"ZipClass" : "STANDARD",
+		"County" : "ROLETTE",
+		"City" : "ROLLA",
+		"State" : "ND",
+		"Latitude" : "+48.826826"
+	},
+	{
+		"Longitude" : "-099.989912",
+		"Zipcode" : "58368",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "RUGBY",
+		"State" : "ND",
+		"Latitude" : "+48.254504"
+	},
+	{
+		"Longitude" : "-099.734073",
+		"Zipcode" : "58369",
+		"ZipClass" : "STANDARD",
+		"County" : "ROLETTE",
+		"City" : "SAINT JOHN",
+		"State" : "ND",
+		"Latitude" : "+48.880498"
+	},
+	{
+		"Longitude" : "-098.849264",
+		"Zipcode" : "58370",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "SAINT MICHAEL",
+		"State" : "ND",
+		"Latitude" : "+47.985595"
+	},
+	{
+		"Longitude" : "-098.464102",
+		"Zipcode" : "58372",
+		"ZipClass" : "STANDARD",
+		"County" : "CAVALIER",
+		"City" : "SARLES",
+		"State" : "ND",
+		"Latitude" : "+48.771780"
+	},
+	{
+		"Longitude" : "-098.909970",
+		"Zipcode" : "58374",
+		"ZipClass" : "STANDARD",
+		"County" : "EDDY",
+		"City" : "SHEYENNE",
+		"State" : "ND",
+		"Latitude" : "+47.761272"
+	},
+	{
+		"Longitude" : "-098.760596",
+		"Zipcode" : "58377",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "STARKWEATHER",
+		"State" : "ND",
+		"Latitude" : "+48.449321"
+	},
+	{
+		"Longitude" : "-099.186842",
+		"Zipcode" : "58379",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENSON",
+		"City" : "TOKIO",
+		"State" : "ND",
+		"Latitude" : "+48.108758"
+	},
+	{
+		"Longitude" : "-098.451175",
+		"Zipcode" : "58380",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "TOLNA",
+		"State" : "ND",
+		"Latitude" : "+47.846213"
+	},
+	{
+		"Longitude" : "-098.758890",
+		"Zipcode" : "58381",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "WARWICK",
+		"State" : "ND",
+		"Latitude" : "+47.910133"
+	},
+	{
+		"Longitude" : "-098.800481",
+		"Zipcode" : "58382",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "WEBSTER",
+		"State" : "ND",
+		"Latitude" : "+48.317012"
+	},
+	{
+		"Longitude" : "-100.352409",
+		"Zipcode" : "58384",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "WILLOW CITY",
+		"State" : "ND",
+		"Latitude" : "+48.660609"
+	},
+	{
+		"Longitude" : "-099.645681",
+		"Zipcode" : "58385",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "WOLFORD",
+		"State" : "ND",
+		"Latitude" : "+48.465282"
+	},
+	{
+		"Longitude" : "-099.602542",
+		"Zipcode" : "58386",
+		"ZipClass" : "STANDARD",
+		"County" : "BENSON",
+		"City" : "YORK",
+		"State" : "ND",
+		"Latitude" : "+48.256479"
+	},
+	{
+		"Longitude" : "-098.745485",
+		"Zipcode" : "58401",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "JAMESTOWN",
+		"State" : "ND",
+		"Latitude" : "+46.921005"
+	},
+	{
+		"Longitude" : "-098.960032",
+		"Zipcode" : "58402",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "JAMESTOWN",
+		"State" : "ND",
+		"Latitude" : "+46.978820"
+	},
+	{
+		"Longitude" : "-098.699553",
+		"Zipcode" : "58405",
+		"ZipClass" : "UNIQUE",
+		"County" : "STUTSMAN",
+		"City" : "JAMESTOWN",
+		"State" : "ND",
+		"Latitude" : "+46.913344"
+	},
+	{
+		"Longitude" : "-099.285013",
+		"Zipcode" : "58413",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "ASHLEY",
+		"State" : "ND",
+		"Latitude" : "+46.056209"
+	},
+	{
+		"Longitude" : "-098.473702",
+		"Zipcode" : "58415",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOURE",
+		"City" : "BERLIN",
+		"State" : "ND",
+		"Latitude" : "+46.362715"
+	},
+	{
+		"Longitude" : "-098.410133",
+		"Zipcode" : "58416",
+		"ZipClass" : "STANDARD",
+		"County" : "GRIGGS",
+		"City" : "BINFORD",
+		"State" : "ND",
+		"Latitude" : "+47.489506"
+	},
+	{
+		"Longitude" : "-099.649702",
+		"Zipcode" : "58418",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "BOWDON",
+		"State" : "ND",
+		"Latitude" : "+47.457667"
+	},
+	{
+		"Longitude" : "-098.900709",
+		"Zipcode" : "58420",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "BUCHANAN",
+		"State" : "ND",
+		"Latitude" : "+47.005084"
+	},
+	{
+		"Longitude" : "-098.893314",
+		"Zipcode" : "58421",
+		"ZipClass" : "STANDARD",
+		"County" : "FOSTER",
+		"City" : "CARRINGTON",
+		"State" : "ND",
+		"Latitude" : "+47.457278"
+	},
+	{
+		"Longitude" : "-099.404936",
+		"Zipcode" : "58422",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "CATHAY",
+		"State" : "ND",
+		"Latitude" : "+47.628946"
+	},
+	{
+		"Longitude" : "-099.830601",
+		"Zipcode" : "58423",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "CHASELEY",
+		"State" : "ND",
+		"Latitude" : "+47.464366"
+	},
+	{
+		"Longitude" : "-099.128846",
+		"Zipcode" : "58424",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "CLEVELAND",
+		"State" : "ND",
+		"Latitude" : "+46.893112"
+	},
+	{
+		"Longitude" : "-098.295699",
+		"Zipcode" : "58425",
+		"ZipClass" : "STANDARD",
+		"County" : "GRIGGS",
+		"City" : "COOPERSTOWN",
+		"State" : "ND",
+		"Latitude" : "+47.366922"
+	},
+	{
+		"Longitude" : "-098.594244",
+		"Zipcode" : "58426",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "COURTENAY",
+		"State" : "ND",
+		"Latitude" : "+47.196576"
+	},
+	{
+		"Longitude" : "-099.772396",
+		"Zipcode" : "58428",
+		"ZipClass" : "STANDARD",
+		"County" : "KIDDER",
+		"City" : "DAWSON",
+		"State" : "ND",
+		"Latitude" : "+46.806728"
+	},
+	{
+		"Longitude" : "-098.161621",
+		"Zipcode" : "58429",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "DAZEY",
+		"State" : "ND",
+		"Latitude" : "+47.182819"
+	},
+	{
+		"Longitude" : "-100.271687",
+		"Zipcode" : "58430",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "DENHOFF",
+		"State" : "ND",
+		"Latitude" : "+47.529679"
+	},
+	{
+		"Longitude" : "-098.542610",
+		"Zipcode" : "58431",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOURE",
+		"City" : "DICKEY",
+		"State" : "ND",
+		"Latitude" : "+46.472610"
+	},
+	{
+		"Longitude" : "-098.375536",
+		"Zipcode" : "58432",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "ECKELSON",
+		"State" : "ND",
+		"Latitude" : "+46.892518"
+	},
+	{
+		"Longitude" : "-098.713086",
+		"Zipcode" : "58433",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOURE",
+		"City" : "EDGELEY",
+		"State" : "ND",
+		"Latitude" : "+46.411980"
+	},
+	{
+		"Longitude" : "-098.620707",
+		"Zipcode" : "58436",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKEY",
+		"City" : "ELLENDALE",
+		"State" : "ND",
+		"Latitude" : "+46.106141"
+	},
+	{
+		"Longitude" : "-099.564274",
+		"Zipcode" : "58438",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "FESSENDEN",
+		"State" : "ND",
+		"Latitude" : "+47.625048"
+	},
+	{
+		"Longitude" : "-098.848644",
+		"Zipcode" : "58439",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKEY",
+		"City" : "FORBES",
+		"State" : "ND",
+		"Latitude" : "+46.011902"
+	},
+	{
+		"Longitude" : "-099.173337",
+		"Zipcode" : "58440",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "FREDONIA",
+		"State" : "ND",
+		"Latitude" : "+46.370140"
+	},
+	{
+		"Longitude" : "-098.379846",
+		"Zipcode" : "58441",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKEY",
+		"City" : "FULLERTON",
+		"State" : "ND",
+		"Latitude" : "+46.175992"
+	},
+	{
+		"Longitude" : "-099.173063",
+		"Zipcode" : "58442",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "GACKLE",
+		"State" : "ND",
+		"Latitude" : "+46.522452"
+	},
+	{
+		"Longitude" : "-098.691563",
+		"Zipcode" : "58443",
+		"ZipClass" : "STANDARD",
+		"County" : "FOSTER",
+		"City" : "GLENFIELD",
+		"State" : "ND",
+		"Latitude" : "+47.456948"
+	},
+	{
+		"Longitude" : "-100.146590",
+		"Zipcode" : "58444",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "GOODRICH",
+		"State" : "ND",
+		"Latitude" : "+47.479529"
+	},
+	{
+		"Longitude" : "-098.702131",
+		"Zipcode" : "58445",
+		"ZipClass" : "STANDARD",
+		"County" : "FOSTER",
+		"City" : "GRACE CITY",
+		"State" : "ND",
+		"Latitude" : "+47.457057"
+	},
+	{
+		"Longitude" : "-098.350201",
+		"Zipcode" : "58448",
+		"ZipClass" : "STANDARD",
+		"County" : "GRIGGS",
+		"City" : "HANNAFORD",
+		"State" : "ND",
+		"Latitude" : "+47.378619"
+	},
+	{
+		"Longitude" : "-099.937233",
+		"Zipcode" : "58451",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "HURDSFIELD",
+		"State" : "ND",
+		"Latitude" : "+47.472804"
+	},
+	{
+		"Longitude" : "-098.230415",
+		"Zipcode" : "58452",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRIGGS",
+		"City" : "JESSIE",
+		"State" : "ND",
+		"Latitude" : "+47.456477"
+	},
+	{
+		"Longitude" : "-098.866710",
+		"Zipcode" : "58454",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOURE",
+		"City" : "JUD",
+		"State" : "ND",
+		"Latitude" : "+46.551079"
+	},
+	{
+		"Longitude" : "-098.753458",
+		"Zipcode" : "58455",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "KENSAL",
+		"State" : "ND",
+		"Latitude" : "+47.240135"
+	},
+	{
+		"Longitude" : "-098.603141",
+		"Zipcode" : "58456",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOURE",
+		"City" : "KULM",
+		"State" : "ND",
+		"Latitude" : "+46.391635"
+	},
+	{
+		"Longitude" : "-098.358671",
+		"Zipcode" : "58458",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOURE",
+		"City" : "LAMOURE",
+		"State" : "ND",
+		"Latitude" : "+46.384379"
+	},
+	{
+		"Longitude" : "-099.378147",
+		"Zipcode" : "58460",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "LEHR",
+		"State" : "ND",
+		"Latitude" : "+46.140661"
+	},
+	{
+		"Longitude" : "-098.186443",
+		"Zipcode" : "58461",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "LITCHVILLE",
+		"State" : "ND",
+		"Latitude" : "+46.717981"
+	},
+	{
+		"Longitude" : "-100.417150",
+		"Zipcode" : "58463",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "MCCLUSKY",
+		"State" : "ND",
+		"Latitude" : "+47.506755"
+	},
+	{
+		"Longitude" : "-098.627951",
+		"Zipcode" : "58464",
+		"ZipClass" : "STANDARD",
+		"County" : "FOSTER",
+		"City" : "MCHENRY",
+		"State" : "ND",
+		"Latitude" : "+47.507777"
+	},
+	{
+		"Longitude" : "-098.368983",
+		"Zipcode" : "58466",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOURE",
+		"City" : "MARION",
+		"State" : "ND",
+		"Latitude" : "+46.551382"
+	},
+	{
+		"Longitude" : "-099.316908",
+		"Zipcode" : "58467",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "MEDINA",
+		"State" : "ND",
+		"Latitude" : "+46.899774"
+	},
+	{
+		"Longitude" : "-098.660404",
+		"Zipcode" : "58472",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "MONTPELIER",
+		"State" : "ND",
+		"Latitude" : "+46.681609"
+	},
+	{
+		"Longitude" : "-098.225652",
+		"Zipcode" : "58474",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKEY",
+		"City" : "OAKES",
+		"State" : "ND",
+		"Latitude" : "+46.109493"
+	},
+	{
+		"Longitude" : "-099.584222",
+		"Zipcode" : "58475",
+		"ZipClass" : "STANDARD",
+		"County" : "KIDDER",
+		"City" : "PETTIBONE",
+		"State" : "ND",
+		"Latitude" : "+47.153918"
+	},
+	{
+		"Longitude" : "-099.014385",
+		"Zipcode" : "58476",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "PINGREE",
+		"State" : "ND",
+		"Latitude" : "+47.203846"
+	},
+	{
+		"Longitude" : "-100.548434",
+		"Zipcode" : "58477",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "REGAN",
+		"State" : "ND",
+		"Latitude" : "+47.212951"
+	},
+	{
+		"Longitude" : "-099.689234",
+		"Zipcode" : "58478",
+		"ZipClass" : "STANDARD",
+		"County" : "KIDDER",
+		"City" : "ROBINSON",
+		"State" : "ND",
+		"Latitude" : "+46.979659"
+	},
+	{
+		"Longitude" : "-098.213603",
+		"Zipcode" : "58479",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "ROGERS",
+		"State" : "ND",
+		"Latitude" : "+47.074088"
+	},
+	{
+		"Longitude" : "-098.258971",
+		"Zipcode" : "58480",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "SANBORN",
+		"State" : "ND",
+		"Latitude" : "+46.892615"
+	},
+	{
+		"Longitude" : "-098.521889",
+		"Zipcode" : "58481",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "SPIRITWOOD",
+		"State" : "ND",
+		"Latitude" : "+46.986518"
+	},
+	{
+		"Longitude" : "-099.798975",
+		"Zipcode" : "58482",
+		"ZipClass" : "STANDARD",
+		"County" : "KIDDER",
+		"City" : "STEELE",
+		"State" : "ND",
+		"Latitude" : "+46.875966"
+	},
+	{
+		"Longitude" : "-099.344287",
+		"Zipcode" : "58483",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "STREETER",
+		"State" : "ND",
+		"Latitude" : "+46.718326"
+	},
+	{
+		"Longitude" : "-098.403593",
+		"Zipcode" : "58484",
+		"ZipClass" : "STANDARD",
+		"County" : "GRIGGS",
+		"City" : "SUTTON",
+		"State" : "ND",
+		"Latitude" : "+47.399030"
+	},
+	{
+		"Longitude" : "-099.404828",
+		"Zipcode" : "58486",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "SYKESTON",
+		"State" : "ND",
+		"Latitude" : "+47.421182"
+	},
+	{
+		"Longitude" : "-099.594248",
+		"Zipcode" : "58487",
+		"ZipClass" : "STANDARD",
+		"County" : "KIDDER",
+		"City" : "TAPPEN",
+		"State" : "ND",
+		"Latitude" : "+46.806274"
+	},
+	{
+		"Longitude" : "-099.970526",
+		"Zipcode" : "58488",
+		"ZipClass" : "STANDARD",
+		"County" : "KIDDER",
+		"City" : "TUTTLE",
+		"State" : "ND",
+		"Latitude" : "+47.132159"
+	},
+	{
+		"Longitude" : "-099.649774",
+		"Zipcode" : "58489",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "VENTURIA",
+		"State" : "ND",
+		"Latitude" : "+46.027975"
+	},
+	{
+		"Longitude" : "-098.099446",
+		"Zipcode" : "58490",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMOURE",
+		"City" : "VERONA",
+		"State" : "ND",
+		"Latitude" : "+46.398713"
+	},
+	{
+		"Longitude" : "-098.397443",
+		"Zipcode" : "58492",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNES",
+		"City" : "WIMBLEDON",
+		"State" : "ND",
+		"Latitude" : "+47.110075"
+	},
+	{
+		"Longitude" : "-100.294569",
+		"Zipcode" : "58494",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "WING",
+		"State" : "ND",
+		"Latitude" : "+47.157924"
+	},
+	{
+		"Longitude" : "-099.613132",
+		"Zipcode" : "58495",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "WISHEK",
+		"State" : "ND",
+		"Latitude" : "+46.191724"
+	},
+	{
+		"Longitude" : "-099.259784",
+		"Zipcode" : "58496",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "WOODWORTH",
+		"State" : "ND",
+		"Latitude" : "+47.153721"
+	},
+	{
+		"Longitude" : "-098.565136",
+		"Zipcode" : "58497",
+		"ZipClass" : "STANDARD",
+		"County" : "STUTSMAN",
+		"City" : "YPSILANTI",
+		"State" : "ND",
+		"Latitude" : "+46.768695"
+	},
+	{
+		"Longitude" : "-100.502724",
+		"Zipcode" : "58501",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "BISMARCK",
+		"State" : "ND",
+		"Latitude" : "+46.981207"
+	},
+	{
+		"Longitude" : "-100.681855",
+		"Zipcode" : "58502",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "BISMARCK",
+		"State" : "ND",
+		"Latitude" : "+46.888700"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "58503",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "BISMARCK",
+		"State" : "ND",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-100.455980",
+		"Zipcode" : "58504",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "BISMARCK",
+		"State" : "ND",
+		"Latitude" : "+46.829938"
+	},
+	{
+		"Longitude" : "-100.780505",
+		"Zipcode" : "58505",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "BISMARCK",
+		"State" : "ND",
+		"Latitude" : "+46.816543"
+	},
+	{
+		"Longitude" : "-100.520063",
+		"Zipcode" : "58506",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "BISMARCK",
+		"State" : "ND",
+		"Latitude" : "+46.980475"
+	},
+	{
+		"Longitude" : "-100.520063",
+		"Zipcode" : "58507",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "BISMARCK",
+		"State" : "ND",
+		"Latitude" : "+46.980475"
+	},
+	{
+		"Longitude" : "-101.498156",
+		"Zipcode" : "58520",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "ALMONT",
+		"State" : "ND",
+		"Latitude" : "+46.720185"
+	},
+	{
+		"Longitude" : "-100.693721",
+		"Zipcode" : "58521",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "BALDWIN",
+		"State" : "ND",
+		"Latitude" : "+47.016148"
+	},
+	{
+		"Longitude" : "-101.853161",
+		"Zipcode" : "58523",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "BEULAH",
+		"State" : "ND",
+		"Latitude" : "+47.277895"
+	},
+	{
+		"Longitude" : "-100.107546",
+		"Zipcode" : "58524",
+		"ZipClass" : "STANDARD",
+		"County" : "EMMONS",
+		"City" : "BRADDOCK",
+		"State" : "ND",
+		"Latitude" : "+46.560350"
+	},
+	{
+		"Longitude" : "-100.688991",
+		"Zipcode" : "58528",
+		"ZipClass" : "STANDARD",
+		"County" : "SIOUX",
+		"City" : "CANNON BALL",
+		"State" : "ND",
+		"Latitude" : "+46.361639"
+	},
+	{
+		"Longitude" : "-101.673608",
+		"Zipcode" : "58529",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "CARSON",
+		"State" : "ND",
+		"Latitude" : "+46.300853"
+	},
+	{
+		"Longitude" : "-101.159363",
+		"Zipcode" : "58530",
+		"ZipClass" : "STANDARD",
+		"County" : "OLIVER",
+		"City" : "CENTER",
+		"State" : "ND",
+		"Latitude" : "+47.145874"
+	},
+	{
+		"Longitude" : "-101.143206",
+		"Zipcode" : "58531",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "COLEHARBOR",
+		"State" : "ND",
+		"Latitude" : "+47.581047"
+	},
+	{
+		"Longitude" : "-100.183290",
+		"Zipcode" : "58532",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "DRISCOLL",
+		"State" : "ND",
+		"Latitude" : "+46.851141"
+	},
+	{
+		"Longitude" : "-101.755819",
+		"Zipcode" : "58533",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "ELGIN",
+		"State" : "ND",
+		"Latitude" : "+46.367859"
+	},
+	{
+		"Longitude" : "-101.316642",
+		"Zipcode" : "58535",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "FLASHER",
+		"State" : "ND",
+		"Latitude" : "+46.599807"
+	},
+	{
+		"Longitude" : "-100.710536",
+		"Zipcode" : "58538",
+		"ZipClass" : "STANDARD",
+		"County" : "SIOUX",
+		"City" : "FORT YATES",
+		"State" : "ND",
+		"Latitude" : "+46.170605"
+	},
+	{
+		"Longitude" : "-101.614180",
+		"Zipcode" : "58540",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "GARRISON",
+		"State" : "ND",
+		"Latitude" : "+47.667515"
+	},
+	{
+		"Longitude" : "-102.056796",
+		"Zipcode" : "58541",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "GOLDEN VALLEY",
+		"State" : "ND",
+		"Latitude" : "+47.312542"
+	},
+	{
+		"Longitude" : "-100.097715",
+		"Zipcode" : "58542",
+		"ZipClass" : "STANDARD",
+		"County" : "EMMONS",
+		"City" : "HAGUE",
+		"State" : "ND",
+		"Latitude" : "+46.080221"
+	},
+	{
+		"Longitude" : "-100.337283",
+		"Zipcode" : "58544",
+		"ZipClass" : "STANDARD",
+		"County" : "EMMONS",
+		"City" : "HAZELTON",
+		"State" : "ND",
+		"Latitude" : "+46.517223"
+	},
+	{
+		"Longitude" : "-101.760142",
+		"Zipcode" : "58545",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "HAZEN",
+		"State" : "ND",
+		"Latitude" : "+47.386092"
+	},
+	{
+		"Longitude" : "-099.969631",
+		"Zipcode" : "58549",
+		"ZipClass" : "STANDARD",
+		"County" : "EMMONS",
+		"City" : "KINTYRE",
+		"State" : "ND",
+		"Latitude" : "+46.455044"
+	},
+	{
+		"Longitude" : "-100.233084",
+		"Zipcode" : "58552",
+		"ZipClass" : "STANDARD",
+		"County" : "EMMONS",
+		"City" : "LINTON",
+		"State" : "ND",
+		"Latitude" : "+46.185512"
+	},
+	{
+		"Longitude" : "-100.402135",
+		"Zipcode" : "58553",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "MCKENZIE",
+		"State" : "ND",
+		"Latitude" : "+46.871308"
+	},
+	{
+		"Longitude" : "-100.952585",
+		"Zipcode" : "58554",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "MANDAN",
+		"State" : "ND",
+		"Latitude" : "+46.713120"
+	},
+	{
+		"Longitude" : "-100.455560",
+		"Zipcode" : "58558",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "MENOKEN",
+		"State" : "ND",
+		"Latitude" : "+46.808449"
+	},
+	{
+		"Longitude" : "-100.758394",
+		"Zipcode" : "58559",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "MERCER",
+		"State" : "ND",
+		"Latitude" : "+47.501822"
+	},
+	{
+		"Longitude" : "-100.300199",
+		"Zipcode" : "58560",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "MOFFIT",
+		"State" : "ND",
+		"Latitude" : "+46.673047"
+	},
+	{
+		"Longitude" : "-099.656820",
+		"Zipcode" : "58561",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "NAPOLEON",
+		"State" : "ND",
+		"Latitude" : "+46.464858"
+	},
+	{
+		"Longitude" : "-101.961907",
+		"Zipcode" : "58562",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "NEW LEIPZIG",
+		"State" : "ND",
+		"Latitude" : "+46.382285"
+	},
+	{
+		"Longitude" : "-101.429122",
+		"Zipcode" : "58563",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "NEW SALEM",
+		"State" : "ND",
+		"Latitude" : "+46.805999"
+	},
+	{
+		"Longitude" : "-101.372162",
+		"Zipcode" : "58564",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "RALEIGH",
+		"State" : "ND",
+		"Latitude" : "+46.267125"
+	},
+	{
+		"Longitude" : "-101.203255",
+		"Zipcode" : "58565",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCLEAN",
+		"City" : "RIVERDALE",
+		"State" : "ND",
+		"Latitude" : "+47.396354"
+	},
+	{
+		"Longitude" : "-100.944280",
+		"Zipcode" : "58566",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "SAINT ANTHONY",
+		"State" : "ND",
+		"Latitude" : "+46.646616"
+	},
+	{
+		"Longitude" : "-101.252738",
+		"Zipcode" : "58568",
+		"ZipClass" : "STANDARD",
+		"County" : "SIOUX",
+		"City" : "SELFRIDGE",
+		"State" : "ND",
+		"Latitude" : "+46.186442"
+	},
+	{
+		"Longitude" : "-101.218713",
+		"Zipcode" : "58569",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "SHIELDS",
+		"State" : "ND",
+		"Latitude" : "+46.244657"
+	},
+	{
+		"Longitude" : "-100.783143",
+		"Zipcode" : "58570",
+		"ZipClass" : "STANDARD",
+		"County" : "SIOUX",
+		"City" : "SOLEN",
+		"State" : "ND",
+		"Latitude" : "+46.365588"
+	},
+	{
+		"Longitude" : "-101.394939",
+		"Zipcode" : "58571",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "STANTON",
+		"State" : "ND",
+		"Latitude" : "+47.377264"
+	},
+	{
+		"Longitude" : "-100.277434",
+		"Zipcode" : "58572",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLEIGH",
+		"City" : "STERLING",
+		"State" : "ND",
+		"Latitude" : "+46.876069"
+	},
+	{
+		"Longitude" : "-100.223542",
+		"Zipcode" : "58573",
+		"ZipClass" : "STANDARD",
+		"County" : "EMMONS",
+		"City" : "STRASBURG",
+		"State" : "ND",
+		"Latitude" : "+46.080388"
+	},
+	{
+		"Longitude" : "-100.895863",
+		"Zipcode" : "58575",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "TURTLE LAKE",
+		"State" : "ND",
+		"Latitude" : "+47.501425"
+	},
+	{
+		"Longitude" : "-101.217360",
+		"Zipcode" : "58576",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "UNDERWOOD",
+		"State" : "ND",
+		"Latitude" : "+47.445896"
+	},
+	{
+		"Longitude" : "-101.095673",
+		"Zipcode" : "58577",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "WASHBURN",
+		"State" : "ND",
+		"Latitude" : "+47.380715"
+	},
+	{
+		"Longitude" : "-101.085504",
+		"Zipcode" : "58579",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "WILTON",
+		"State" : "ND",
+		"Latitude" : "+47.488872"
+	},
+	{
+		"Longitude" : "-101.929416",
+		"Zipcode" : "58580",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "ZAP",
+		"State" : "ND",
+		"Latitude" : "+47.263087"
+	},
+	{
+		"Longitude" : "-099.786023",
+		"Zipcode" : "58581",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "ZEELAND",
+		"State" : "ND",
+		"Latitude" : "+46.064366"
+	},
+	{
+		"Longitude" : "-102.756514",
+		"Zipcode" : "58601",
+		"ZipClass" : "STANDARD",
+		"County" : "STARK",
+		"City" : "DICKINSON",
+		"State" : "ND",
+		"Latitude" : "+46.805716"
+	},
+	{
+		"Longitude" : "-102.663913",
+		"Zipcode" : "58602",
+		"ZipClass" : "STANDARD",
+		"County" : "STARK",
+		"City" : "DICKINSON",
+		"State" : "ND",
+		"Latitude" : "+46.820185"
+	},
+	{
+		"Longitude" : "-103.485325",
+		"Zipcode" : "58620",
+		"ZipClass" : "STANDARD",
+		"County" : "SLOPE",
+		"City" : "AMIDON",
+		"State" : "ND",
+		"Latitude" : "+46.454966"
+	},
+	{
+		"Longitude" : "-103.898766",
+		"Zipcode" : "58621",
+		"ZipClass" : "STANDARD",
+		"County" : "GOLDEN VALLEY",
+		"City" : "BEACH",
+		"State" : "ND",
+		"Latitude" : "+46.963728"
+	},
+	{
+		"Longitude" : "-103.126111",
+		"Zipcode" : "58622",
+		"ZipClass" : "STANDARD",
+		"County" : "STARK",
+		"City" : "BELFIELD",
+		"State" : "ND",
+		"Latitude" : "+46.819805"
+	},
+	{
+		"Longitude" : "-103.521263",
+		"Zipcode" : "58623",
+		"ZipClass" : "STANDARD",
+		"County" : "BOWMAN",
+		"City" : "BOWMAN",
+		"State" : "ND",
+		"Latitude" : "+46.205537"
+	},
+	{
+		"Longitude" : "-102.202834",
+		"Zipcode" : "58625",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "DODGE",
+		"State" : "ND",
+		"Latitude" : "+47.305726"
+	},
+	{
+		"Longitude" : "-102.663492",
+		"Zipcode" : "58626",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "DUNN CENTER",
+		"State" : "ND",
+		"Latitude" : "+47.336337"
+	},
+	{
+		"Longitude" : "-103.509564",
+		"Zipcode" : "58627",
+		"ZipClass" : "STANDARD",
+		"County" : "BILLINGS",
+		"City" : "FAIRFIELD",
+		"State" : "ND",
+		"Latitude" : "+46.921188"
+	},
+	{
+		"Longitude" : "-102.639900",
+		"Zipcode" : "58630",
+		"ZipClass" : "STANDARD",
+		"County" : "STARK",
+		"City" : "GLADSTONE",
+		"State" : "ND",
+		"Latitude" : "+46.848918"
+	},
+	{
+		"Longitude" : "-101.822672",
+		"Zipcode" : "58631",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "GLEN ULLIN",
+		"State" : "ND",
+		"Latitude" : "+46.813372"
+	},
+	{
+		"Longitude" : "-103.952158",
+		"Zipcode" : "58632",
+		"ZipClass" : "STANDARD",
+		"County" : "GOLDEN VALLEY",
+		"City" : "GOLVA",
+		"State" : "ND",
+		"Latitude" : "+46.672225"
+	},
+	{
+		"Longitude" : "-103.298383",
+		"Zipcode" : "58634",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKENZIE",
+		"City" : "GRASSY BUTTE",
+		"State" : "ND",
+		"Latitude" : "+47.737435"
+	},
+	{
+		"Longitude" : "-102.336761",
+		"Zipcode" : "58636",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "HALLIDAY",
+		"State" : "ND",
+		"Latitude" : "+47.351748"
+	},
+	{
+		"Longitude" : "-101.972303",
+		"Zipcode" : "58638",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "HEBRON",
+		"State" : "ND",
+		"Latitude" : "+46.849592"
+	},
+	{
+		"Longitude" : "-102.785054",
+		"Zipcode" : "58639",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "HETTINGER",
+		"State" : "ND",
+		"Latitude" : "+46.057786"
+	},
+	{
+		"Longitude" : "-102.703916",
+		"Zipcode" : "58640",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "KILLDEER",
+		"State" : "ND",
+		"Latitude" : "+47.526978"
+	},
+	{
+		"Longitude" : "-102.663709",
+		"Zipcode" : "58641",
+		"ZipClass" : "STANDARD",
+		"County" : "STARK",
+		"City" : "LEFOR",
+		"State" : "ND",
+		"Latitude" : "+46.724077"
+	},
+	{
+		"Longitude" : "-102.622139",
+		"Zipcode" : "58642",
+		"ZipClass" : "STANDARD",
+		"County" : "DUNN",
+		"City" : "MANNING",
+		"State" : "ND",
+		"Latitude" : "+47.402085"
+	},
+	{
+		"Longitude" : "-103.485325",
+		"Zipcode" : "58643",
+		"ZipClass" : "STANDARD",
+		"County" : "SLOPE",
+		"City" : "MARMARTH",
+		"State" : "ND",
+		"Latitude" : "+46.454966"
+	},
+	{
+		"Longitude" : "-102.622139",
+		"Zipcode" : "58644",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DUNN",
+		"City" : "MARSHALL",
+		"State" : "ND",
+		"Latitude" : "+47.402085"
+	},
+	{
+		"Longitude" : "-103.349989",
+		"Zipcode" : "58645",
+		"ZipClass" : "STANDARD",
+		"County" : "BILLINGS",
+		"City" : "MEDORA",
+		"State" : "ND",
+		"Latitude" : "+46.979437"
+	},
+	{
+		"Longitude" : "-102.326958",
+		"Zipcode" : "58646",
+		"ZipClass" : "STANDARD",
+		"County" : "HETTINGER",
+		"City" : "MOTT",
+		"State" : "ND",
+		"Latitude" : "+46.369616"
+	},
+	{
+		"Longitude" : "-102.595864",
+		"Zipcode" : "58647",
+		"ZipClass" : "STANDARD",
+		"County" : "HETTINGER",
+		"City" : "NEW ENGLAND",
+		"State" : "ND",
+		"Latitude" : "+46.459446"
+	},
+	{
+		"Longitude" : "-102.496805",
+		"Zipcode" : "58649",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "REEDER",
+		"State" : "ND",
+		"Latitude" : "+46.113891"
+	},
+	{
+		"Longitude" : "-102.562280",
+		"Zipcode" : "58650",
+		"ZipClass" : "STANDARD",
+		"County" : "HETTINGER",
+		"City" : "REGENT",
+		"State" : "ND",
+		"Latitude" : "+46.418659"
+	},
+	{
+		"Longitude" : "-103.520928",
+		"Zipcode" : "58651",
+		"ZipClass" : "STANDARD",
+		"County" : "BOWMAN",
+		"City" : "RHAME",
+		"State" : "ND",
+		"Latitude" : "+46.112755"
+	},
+	{
+		"Longitude" : "-102.264513",
+		"Zipcode" : "58652",
+		"ZipClass" : "STANDARD",
+		"County" : "STARK",
+		"City" : "RICHARDTON",
+		"State" : "ND",
+		"Latitude" : "+46.820533"
+	},
+	{
+		"Longitude" : "-103.520928",
+		"Zipcode" : "58653",
+		"ZipClass" : "STANDARD",
+		"County" : "BOWMAN",
+		"City" : "SCRANTON",
+		"State" : "ND",
+		"Latitude" : "+46.112755"
+	},
+	{
+		"Longitude" : "-103.874736",
+		"Zipcode" : "58654",
+		"ZipClass" : "STANDARD",
+		"County" : "GOLDEN VALLEY",
+		"City" : "SENTINEL BUTTE",
+		"State" : "ND",
+		"Latitude" : "+46.847632"
+	},
+	{
+		"Longitude" : "-103.072219",
+		"Zipcode" : "58655",
+		"ZipClass" : "STANDARD",
+		"County" : "STARK",
+		"City" : "SOUTH HEART",
+		"State" : "ND",
+		"Latitude" : "+46.767691"
+	},
+	{
+		"Longitude" : "-102.784581",
+		"Zipcode" : "58656",
+		"ZipClass" : "STANDARD",
+		"County" : "STARK",
+		"City" : "TAYLOR",
+		"State" : "ND",
+		"Latitude" : "+46.856469"
+	},
+	{
+		"Longitude" : "-101.419006",
+		"Zipcode" : "58701",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "MINOT",
+		"State" : "ND",
+		"Latitude" : "+48.084625"
+	},
+	{
+		"Longitude" : "-101.451285",
+		"Zipcode" : "58702",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "MINOT",
+		"State" : "ND",
+		"Latitude" : "+48.336898"
+	},
+	{
+		"Longitude" : "-101.606000",
+		"Zipcode" : "58703",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "MINOT",
+		"State" : "ND",
+		"Latitude" : "+48.299433"
+	},
+	{
+		"Longitude" : "-101.319942",
+		"Zipcode" : "58704",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "MINOT AFB",
+		"State" : "ND",
+		"Latitude" : "+48.424290"
+	},
+	{
+		"Longitude" : "-101.297161",
+		"Zipcode" : "58705",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "MINOT AFB",
+		"State" : "ND",
+		"Latitude" : "+48.234184"
+	},
+	{
+		"Longitude" : "-101.301179",
+		"Zipcode" : "58707",
+		"ZipClass" : "UNIQUE",
+		"County" : "WARD",
+		"City" : "MINOT",
+		"State" : "ND",
+		"Latitude" : "+48.245267"
+	},
+	{
+		"Longitude" : "-100.284856",
+		"Zipcode" : "58710",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "ANAMOOSE",
+		"State" : "ND",
+		"Latitude" : "+47.926998"
+	},
+	{
+		"Longitude" : "-101.227611",
+		"Zipcode" : "58711",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "ANTLER",
+		"State" : "ND",
+		"Latitude" : "+48.813251"
+	},
+	{
+		"Longitude" : "-100.497516",
+		"Zipcode" : "58712",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "BALFOUR",
+		"State" : "ND",
+		"Latitude" : "+47.992915"
+	},
+	{
+		"Longitude" : "-100.635538",
+		"Zipcode" : "58713",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "BANTRY",
+		"State" : "ND",
+		"Latitude" : "+48.528579"
+	},
+	{
+		"Longitude" : "-101.109594",
+		"Zipcode" : "58716",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "BENEDICT",
+		"State" : "ND",
+		"Latitude" : "+47.761315"
+	},
+	{
+		"Longitude" : "-101.686644",
+		"Zipcode" : "58718",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "BERTHOLD",
+		"State" : "ND",
+		"Latitude" : "+48.306397"
+	},
+	{
+		"Longitude" : "-102.283897",
+		"Zipcode" : "58721",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "BOWBELLS",
+		"State" : "ND",
+		"Latitude" : "+48.837753"
+	},
+	{
+		"Longitude" : "-101.543429",
+		"Zipcode" : "58722",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "BURLINGTON",
+		"State" : "ND",
+		"Latitude" : "+48.104690"
+	},
+	{
+		"Longitude" : "-100.692443",
+		"Zipcode" : "58723",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "BUTTE",
+		"State" : "ND",
+		"Latitude" : "+47.693650"
+	},
+	{
+		"Longitude" : "-101.705933",
+		"Zipcode" : "58725",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "CARPIO",
+		"State" : "ND",
+		"Latitude" : "+48.417859"
+	},
+	{
+		"Longitude" : "-102.592042",
+		"Zipcode" : "58727",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "COLUMBUS",
+		"State" : "ND",
+		"Latitude" : "+48.852362"
+	},
+	{
+		"Longitude" : "-103.296728",
+		"Zipcode" : "58730",
+		"ZipClass" : "STANDARD",
+		"County" : "DIVIDE",
+		"City" : "CROSBY",
+		"State" : "ND",
+		"Latitude" : "+48.928166"
+	},
+	{
+		"Longitude" : "-100.961945",
+		"Zipcode" : "58731",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "DEERING",
+		"State" : "ND",
+		"Latitude" : "+48.490508"
+	},
+	{
+		"Longitude" : "-101.668759",
+		"Zipcode" : "58733",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "DES LACS",
+		"State" : "ND",
+		"Latitude" : "+48.187543"
+	},
+	{
+		"Longitude" : "-102.006123",
+		"Zipcode" : "58734",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "DONNYBROOK",
+		"State" : "ND",
+		"Latitude" : "+48.495604"
+	},
+	{
+		"Longitude" : "-101.464689",
+		"Zipcode" : "58735",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "DOUGLAS",
+		"State" : "ND",
+		"Latitude" : "+47.952635"
+	},
+	{
+		"Longitude" : "-100.384482",
+		"Zipcode" : "58736",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "DRAKE",
+		"State" : "ND",
+		"Latitude" : "+47.978309"
+	},
+	{
+		"Longitude" : "-102.382327",
+		"Zipcode" : "58737",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "FLAXTON",
+		"State" : "ND",
+		"Latitude" : "+48.877183"
+	},
+	{
+		"Longitude" : "-101.540749",
+		"Zipcode" : "58740",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "GLENBURN",
+		"State" : "ND",
+		"Latitude" : "+48.647206"
+	},
+	{
+		"Longitude" : "-100.678560",
+		"Zipcode" : "58741",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "GRANVILLE",
+		"State" : "ND",
+		"Latitude" : "+48.305738"
+	},
+	{
+		"Longitude" : "-100.591093",
+		"Zipcode" : "58744",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "KARLSRUHE",
+		"State" : "ND",
+		"Latitude" : "+48.194146"
+	},
+	{
+		"Longitude" : "-101.670989",
+		"Zipcode" : "58746",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "KENMARE",
+		"State" : "ND",
+		"Latitude" : "+48.523046"
+	},
+	{
+		"Longitude" : "-100.660544",
+		"Zipcode" : "58747",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "KIEF",
+		"State" : "ND",
+		"Latitude" : "+47.876848"
+	},
+	{
+		"Longitude" : "-100.634566",
+		"Zipcode" : "58748",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "KRAMER",
+		"State" : "ND",
+		"Latitude" : "+48.697742"
+	},
+	{
+		"Longitude" : "-101.297326",
+		"Zipcode" : "58750",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "LANSFORD",
+		"State" : "ND",
+		"Latitude" : "+48.634598"
+	},
+	{
+		"Longitude" : "-102.611948",
+		"Zipcode" : "58752",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "LIGNITE",
+		"State" : "ND",
+		"Latitude" : "+48.821804"
+	},
+	{
+		"Longitude" : "-103.407189",
+		"Zipcode" : "58755",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "MCGREGOR",
+		"State" : "ND",
+		"Latitude" : "+48.405038"
+	},
+	{
+		"Longitude" : "-101.778246",
+		"Zipcode" : "58756",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "MAKOTI",
+		"State" : "ND",
+		"Latitude" : "+47.957203"
+	},
+	{
+		"Longitude" : "-103.298383",
+		"Zipcode" : "58757",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKENZIE",
+		"City" : "MANDAREE",
+		"State" : "ND",
+		"Latitude" : "+47.737435"
+	},
+	{
+		"Longitude" : "-100.212340",
+		"Zipcode" : "58758",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "MARTIN",
+		"State" : "ND",
+		"Latitude" : "+47.717951"
+	},
+	{
+		"Longitude" : "-101.164109",
+		"Zipcode" : "58759",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "MAX",
+		"State" : "ND",
+		"Latitude" : "+47.567805"
+	},
+	{
+		"Longitude" : "-101.197701",
+		"Zipcode" : "58760",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "MAXBASS",
+		"State" : "ND",
+		"Latitude" : "+48.736656"
+	},
+	{
+		"Longitude" : "-101.605847",
+		"Zipcode" : "58761",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "MOHALL",
+		"State" : "ND",
+		"Latitude" : "+48.726868"
+	},
+	{
+		"Longitude" : "-101.067192",
+		"Zipcode" : "58762",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "NEWBURG",
+		"State" : "ND",
+		"Latitude" : "+48.770759"
+	},
+	{
+		"Longitude" : "-102.471636",
+		"Zipcode" : "58763",
+		"ZipClass" : "STANDARD",
+		"County" : "MOUNTRAIL",
+		"City" : "NEW TOWN",
+		"State" : "ND",
+		"Latitude" : "+47.971759"
+	},
+	{
+		"Longitude" : "-103.071081",
+		"Zipcode" : "58765",
+		"ZipClass" : "STANDARD",
+		"County" : "DIVIDE",
+		"City" : "NOONAN",
+		"State" : "ND",
+		"Latitude" : "+48.925358"
+	},
+	{
+		"Longitude" : "-100.950246",
+		"Zipcode" : "58768",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "NORWICH",
+		"State" : "ND",
+		"Latitude" : "+48.269539"
+	},
+	{
+		"Longitude" : "-102.257478",
+		"Zipcode" : "58769",
+		"ZipClass" : "STANDARD",
+		"County" : "MOUNTRAIL",
+		"City" : "PALERMO",
+		"State" : "ND",
+		"Latitude" : "+48.284698"
+	},
+	{
+		"Longitude" : "-102.103378",
+		"Zipcode" : "58770",
+		"ZipClass" : "STANDARD",
+		"County" : "MOUNTRAIL",
+		"City" : "PARSHALL",
+		"State" : "ND",
+		"Latitude" : "+47.946158"
+	},
+	{
+		"Longitude" : "-102.030195",
+		"Zipcode" : "58771",
+		"ZipClass" : "STANDARD",
+		"County" : "MOUNTRAIL",
+		"City" : "PLAZA",
+		"State" : "ND",
+		"Latitude" : "+48.065743"
+	},
+	{
+		"Longitude" : "-102.622651",
+		"Zipcode" : "58772",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "PORTAL",
+		"State" : "ND",
+		"Latitude" : "+48.953774"
+	},
+	{
+		"Longitude" : "-102.679499",
+		"Zipcode" : "58773",
+		"ZipClass" : "STANDARD",
+		"County" : "BURKE",
+		"City" : "POWERS LAKE",
+		"State" : "ND",
+		"Latitude" : "+48.655093"
+	},
+	{
+		"Longitude" : "-101.866895",
+		"Zipcode" : "58775",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "ROSEGLEN",
+		"State" : "ND",
+		"Latitude" : "+47.681855"
+	},
+	{
+		"Longitude" : "-102.547886",
+		"Zipcode" : "58776",
+		"ZipClass" : "STANDARD",
+		"County" : "MOUNTRAIL",
+		"City" : "ROSS",
+		"State" : "ND",
+		"Latitude" : "+48.272077"
+	},
+	{
+		"Longitude" : "-100.931173",
+		"Zipcode" : "58778",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "RUSO",
+		"State" : "ND",
+		"Latitude" : "+47.746583"
+	},
+	{
+		"Longitude" : "-101.668252",
+		"Zipcode" : "58779",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "RYDER",
+		"State" : "ND",
+		"Latitude" : "+47.978815"
+	},
+	{
+		"Longitude" : "-101.340912",
+		"Zipcode" : "58781",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "SAWYER",
+		"State" : "ND",
+		"Latitude" : "+48.181645"
+	},
+	{
+		"Longitude" : "-101.770037",
+		"Zipcode" : "58782",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "SHERWOOD",
+		"State" : "ND",
+		"Latitude" : "+48.863353"
+	},
+	{
+		"Longitude" : "-100.735863",
+		"Zipcode" : "58783",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "SOURIS",
+		"State" : "ND",
+		"Latitude" : "+48.873840"
+	},
+	{
+		"Longitude" : "-102.418466",
+		"Zipcode" : "58784",
+		"ZipClass" : "STANDARD",
+		"County" : "MOUNTRAIL",
+		"City" : "STANLEY",
+		"State" : "ND",
+		"Latitude" : "+48.345765"
+	},
+	{
+		"Longitude" : "-101.111794",
+		"Zipcode" : "58785",
+		"ZipClass" : "STANDARD",
+		"County" : "WARD",
+		"City" : "SURREY",
+		"State" : "ND",
+		"Latitude" : "+48.290933"
+	},
+	{
+		"Longitude" : "-101.862477",
+		"Zipcode" : "58787",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "TOLLEY",
+		"State" : "ND",
+		"Latitude" : "+48.759404"
+	},
+	{
+		"Longitude" : "-100.485400",
+		"Zipcode" : "58788",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "TOWNER",
+		"State" : "ND",
+		"Latitude" : "+48.363638"
+	},
+	{
+		"Longitude" : "-100.831317",
+		"Zipcode" : "58789",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "UPHAM",
+		"State" : "ND",
+		"Latitude" : "+48.348495"
+	},
+	{
+		"Longitude" : "-100.629723",
+		"Zipcode" : "58790",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "VELVA",
+		"State" : "ND",
+		"Latitude" : "+48.021268"
+	},
+	{
+		"Longitude" : "-100.798821",
+		"Zipcode" : "58792",
+		"ZipClass" : "STANDARD",
+		"County" : "MCHENRY",
+		"City" : "VOLTAIRE",
+		"State" : "ND",
+		"Latitude" : "+47.986050"
+	},
+	{
+		"Longitude" : "-100.836782",
+		"Zipcode" : "58793",
+		"ZipClass" : "STANDARD",
+		"County" : "BOTTINEAU",
+		"City" : "WESTHOPE",
+		"State" : "ND",
+		"Latitude" : "+48.866550"
+	},
+	{
+		"Longitude" : "-102.770085",
+		"Zipcode" : "58794",
+		"ZipClass" : "STANDARD",
+		"County" : "MOUNTRAIL",
+		"City" : "WHITE EARTH",
+		"State" : "ND",
+		"Latitude" : "+48.299352"
+	},
+	{
+		"Longitude" : "-103.153622",
+		"Zipcode" : "58795",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "WILDROSE",
+		"State" : "ND",
+		"Latitude" : "+48.567814"
+	},
+	{
+		"Longitude" : "-103.649047",
+		"Zipcode" : "58801",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "WILLISTON",
+		"State" : "ND",
+		"Latitude" : "+48.225729"
+	},
+	{
+		"Longitude" : "-103.614824",
+		"Zipcode" : "58802",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "WILLISTON",
+		"State" : "ND",
+		"Latitude" : "+48.168836"
+	},
+	{
+		"Longitude" : "-103.473410",
+		"Zipcode" : "58830",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "ALAMO",
+		"State" : "ND",
+		"Latitude" : "+48.538749"
+	},
+	{
+		"Longitude" : "-103.298383",
+		"Zipcode" : "58831",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKENZIE",
+		"City" : "ALEXANDER",
+		"State" : "ND",
+		"Latitude" : "+47.737435"
+	},
+	{
+		"Longitude" : "-103.467251",
+		"Zipcode" : "58833",
+		"ZipClass" : "STANDARD",
+		"County" : "DIVIDE",
+		"City" : "AMBROSE",
+		"State" : "ND",
+		"Latitude" : "+48.816502"
+	},
+	{
+		"Longitude" : "-103.438887",
+		"Zipcode" : "58835",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKENZIE",
+		"City" : "ARNEGARD",
+		"State" : "ND",
+		"Latitude" : "+47.807748"
+	},
+	{
+		"Longitude" : "-103.298383",
+		"Zipcode" : "58838",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKENZIE",
+		"City" : "CARTWRIGHT",
+		"State" : "ND",
+		"Latitude" : "+47.737435"
+	},
+	{
+		"Longitude" : "-103.376284",
+		"Zipcode" : "58843",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "EPPING",
+		"State" : "ND",
+		"Latitude" : "+48.276356"
+	},
+	{
+		"Longitude" : "-103.467251",
+		"Zipcode" : "58844",
+		"ZipClass" : "STANDARD",
+		"County" : "DIVIDE",
+		"City" : "FORTUNA",
+		"State" : "ND",
+		"Latitude" : "+48.816502"
+	},
+	{
+		"Longitude" : "-103.917588",
+		"Zipcode" : "58845",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "GRENORA",
+		"State" : "ND",
+		"Latitude" : "+48.525200"
+	},
+	{
+		"Longitude" : "-103.298383",
+		"Zipcode" : "58847",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKENZIE",
+		"City" : "KEENE",
+		"State" : "ND",
+		"Latitude" : "+47.737435"
+	},
+	{
+		"Longitude" : "-103.165391",
+		"Zipcode" : "58849",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "RAY",
+		"State" : "ND",
+		"Latitude" : "+48.321696"
+	},
+	{
+		"Longitude" : "-102.957597",
+		"Zipcode" : "58852",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "TIOGA",
+		"State" : "ND",
+		"Latitude" : "+48.364623"
+	},
+	{
+		"Longitude" : "-103.438083",
+		"Zipcode" : "58853",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILLIAMS",
+		"City" : "TRENTON",
+		"State" : "ND",
+		"Latitude" : "+48.295057"
+	},
+	{
+		"Longitude" : "-103.266700",
+		"Zipcode" : "58854",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKENZIE",
+		"City" : "WATFORD CITY",
+		"State" : "ND",
+		"Latitude" : "+47.802905"
+	},
+	{
+		"Longitude" : "-103.772098",
+		"Zipcode" : "58856",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMS",
+		"City" : "ZAHL",
+		"State" : "ND",
+		"Latitude" : "+48.532242"
+	}
+]}

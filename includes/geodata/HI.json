@@ -1,0 +1,1290 @@
+{
+	"result":[
+	{
+		"Longitude" : "-157.927829",
+		"Zipcode" : "96701",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "AIEA",
+		"State" : "HI",
+		"Latitude" : "+21.390650"
+	},
+	{
+		"Longitude" : "-159.454519",
+		"Zipcode" : "96703",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "ANAHOLA",
+		"State" : "HI",
+		"Latitude" : "+22.055787"
+	},
+	{
+		"Longitude" : "-155.757929",
+		"Zipcode" : "96704",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "CAPTAIN COOK",
+		"State" : "HI",
+		"Latitude" : "+19.269226"
+	},
+	{
+		"Longitude" : "-159.645162",
+		"Zipcode" : "96705",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "ELEELE",
+		"State" : "HI",
+		"Latitude" : "+21.937654"
+	},
+	{
+		"Longitude" : "-158.013950",
+		"Zipcode" : "96706",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "EWA BEACH",
+		"State" : "HI",
+		"Latitude" : "+21.344550"
+	},
+	{
+		"Longitude" : "-158.091383",
+		"Zipcode" : "96707",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "KAPOLEI",
+		"State" : "HI",
+		"Latitude" : "+21.341784"
+	},
+	{
+		"Longitude" : "-156.165622",
+		"Zipcode" : "96708",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "HAIKU",
+		"State" : "HI",
+		"Latitude" : "+20.849675"
+	},
+	{
+		"Longitude" : "-164.701172",
+		"Zipcode" : "96709",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "KAPOLEI",
+		"State" : "HI",
+		"Latitude" : "+23.573339"
+	},
+	{
+		"Longitude" : "-155.148483",
+		"Zipcode" : "96710",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "HAKALAU",
+		"State" : "HI",
+		"Latitude" : "+19.911689"
+	},
+	{
+		"Longitude" : "-158.036450",
+		"Zipcode" : "96712",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HALEIWA",
+		"State" : "HI",
+		"Latitude" : "+21.631850"
+	},
+	{
+		"Longitude" : "-156.022930",
+		"Zipcode" : "96713",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "HANA",
+		"State" : "HI",
+		"Latitude" : "+20.725172"
+	},
+	{
+		"Longitude" : "-159.482796",
+		"Zipcode" : "96714",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "HANALEI",
+		"State" : "HI",
+		"Latitude" : "+22.213592"
+	},
+	{
+		"Longitude" : "-159.512392",
+		"Zipcode" : "96715",
+		"ZipClass" : "STANDARD",
+		"County" : "KAUAI",
+		"City" : "HANAMAULU",
+		"State" : "HI",
+		"Latitude" : "+21.979991"
+	},
+	{
+		"Longitude" : "-159.617765",
+		"Zipcode" : "96716",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "HANAPEPE",
+		"State" : "HI",
+		"Latitude" : "+22.020489"
+	},
+	{
+		"Longitude" : "-157.882511",
+		"Zipcode" : "96717",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HAUULA",
+		"State" : "HI",
+		"Latitude" : "+21.583507"
+	},
+	{
+		"Longitude" : "-155.438015",
+		"Zipcode" : "96718",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "HAWAII NATIONAL PARK",
+		"State" : "HI",
+		"Latitude" : "+19.593456"
+	},
+	{
+		"Longitude" : "-155.818291",
+		"Zipcode" : "96719",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "HAWI",
+		"State" : "HI",
+		"Latitude" : "+20.222737"
+	},
+	{
+		"Longitude" : "-155.262030",
+		"Zipcode" : "96720",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "HILO",
+		"State" : "HI",
+		"Latitude" : "+19.564519"
+	},
+	{
+		"Longitude" : "-155.438015",
+		"Zipcode" : "96721",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "HILO",
+		"State" : "HI",
+		"Latitude" : "+19.593456"
+	},
+	{
+		"Longitude" : "-159.486562",
+		"Zipcode" : "96722",
+		"ZipClass" : "STANDARD",
+		"County" : "KAUAI",
+		"City" : "PRINCEVILLE",
+		"State" : "HI",
+		"Latitude" : "+22.219231"
+	},
+	{
+		"Longitude" : "-155.948308",
+		"Zipcode" : "96725",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "HOLUALOA",
+		"State" : "HI",
+		"Latitude" : "+19.618904"
+	},
+	{
+		"Longitude" : "-155.845329",
+		"Zipcode" : "96726",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "HONAUNAU",
+		"State" : "HI",
+		"Latitude" : "+19.278298"
+	},
+	{
+		"Longitude" : "-155.507938",
+		"Zipcode" : "96727",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "HONOKAA",
+		"State" : "HI",
+		"Latitude" : "+20.079156"
+	},
+	{
+		"Longitude" : "-155.438015",
+		"Zipcode" : "96728",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "HONOMU",
+		"State" : "HI",
+		"Latitude" : "+19.593456"
+	},
+	{
+		"Longitude" : "-157.076600",
+		"Zipcode" : "96729",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAUI",
+		"City" : "HOOLEHUA",
+		"State" : "HI",
+		"Latitude" : "+21.163056"
+	},
+	{
+		"Longitude" : "-157.883316",
+		"Zipcode" : "96730",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "KAAAWA",
+		"State" : "HI",
+		"Latitude" : "+21.585127"
+	},
+	{
+		"Longitude" : "-157.935304",
+		"Zipcode" : "96731",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "KAHUKU",
+		"State" : "HI",
+		"Latitude" : "+21.627700"
+	},
+	{
+		"Longitude" : "-156.259166",
+		"Zipcode" : "96732",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "KAHULUI",
+		"State" : "HI",
+		"Latitude" : "+20.859244"
+	},
+	{
+		"Longitude" : "-156.646667",
+		"Zipcode" : "96733",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "KAHULUI",
+		"State" : "HI",
+		"Latitude" : "+20.866638"
+	},
+	{
+		"Longitude" : "-158.039121",
+		"Zipcode" : "96734",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "KAILUA",
+		"State" : "HI",
+		"Latitude" : "+21.595644"
+	},
+	{
+		"Longitude" : "-155.725803",
+		"Zipcode" : "96737",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "OCEAN VIEW",
+		"State" : "HI",
+		"Latitude" : "+19.100167"
+	},
+	{
+		"Longitude" : "-155.817987",
+		"Zipcode" : "96738",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "WAIKOLOA",
+		"State" : "HI",
+		"Latitude" : "+19.972371"
+	},
+	{
+		"Longitude" : "-155.438015",
+		"Zipcode" : "96739",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "KEAUHOU",
+		"State" : "HI",
+		"Latitude" : "+19.593456"
+	},
+	{
+		"Longitude" : "-155.936565",
+		"Zipcode" : "96740",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "KAILUA KONA",
+		"State" : "HI",
+		"Latitude" : "+19.674123"
+	},
+	{
+		"Longitude" : "-159.530254",
+		"Zipcode" : "96741",
+		"ZipClass" : "STANDARD",
+		"County" : "KAUAI",
+		"City" : "KALAHEO",
+		"State" : "HI",
+		"Latitude" : "+21.925909"
+	},
+	{
+		"Longitude" : "-156.646667",
+		"Zipcode" : "96742",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAUI",
+		"City" : "KALAUPAPA",
+		"State" : "HI",
+		"Latitude" : "+20.866638"
+	},
+	{
+		"Longitude" : "-155.751907",
+		"Zipcode" : "96743",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "KAMUELA",
+		"State" : "HI",
+		"Latitude" : "+19.887872"
+	},
+	{
+		"Longitude" : "-157.939550",
+		"Zipcode" : "96744",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "KANEOHE",
+		"State" : "HI",
+		"Latitude" : "+21.668750"
+	},
+	{
+		"Longitude" : "-155.438015",
+		"Zipcode" : "96745",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "KAILUA KONA",
+		"State" : "HI",
+		"Latitude" : "+19.593456"
+	},
+	{
+		"Longitude" : "-159.406197",
+		"Zipcode" : "96746",
+		"ZipClass" : "STANDARD",
+		"County" : "KAUAI",
+		"City" : "KAPAA",
+		"State" : "HI",
+		"Latitude" : "+22.074197"
+	},
+	{
+		"Longitude" : "-159.921351",
+		"Zipcode" : "96747",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "KAUMAKANI",
+		"State" : "HI",
+		"Latitude" : "+21.945428"
+	},
+	{
+		"Longitude" : "-157.012533",
+		"Zipcode" : "96748",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "KAUNAKAKAI",
+		"State" : "HI",
+		"Latitude" : "+21.092266"
+	},
+	{
+		"Longitude" : "-155.032104",
+		"Zipcode" : "96749",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "KEAAU",
+		"State" : "HI",
+		"Latitude" : "+19.581873"
+	},
+	{
+		"Longitude" : "-155.874923",
+		"Zipcode" : "96750",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "KEALAKEKUA",
+		"State" : "HI",
+		"Latitude" : "+19.343913"
+	},
+	{
+		"Longitude" : "-159.308471",
+		"Zipcode" : "96751",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "KEALIA",
+		"State" : "HI",
+		"Latitude" : "+22.105955"
+	},
+	{
+		"Longitude" : "-159.713792",
+		"Zipcode" : "96752",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "KEKAHA",
+		"State" : "HI",
+		"Latitude" : "+21.971285"
+	},
+	{
+		"Longitude" : "-156.469915",
+		"Zipcode" : "96753",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "KIHEI",
+		"State" : "HI",
+		"Latitude" : "+20.723542"
+	},
+	{
+		"Longitude" : "-159.395386",
+		"Zipcode" : "96754",
+		"ZipClass" : "STANDARD",
+		"County" : "KAUAI",
+		"City" : "KILAUEA",
+		"State" : "HI",
+		"Latitude" : "+22.207314"
+	},
+	{
+		"Longitude" : "-155.776957",
+		"Zipcode" : "96755",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "KAPAAU",
+		"State" : "HI",
+		"Latitude" : "+20.226101"
+	},
+	{
+		"Longitude" : "-159.432992",
+		"Zipcode" : "96756",
+		"ZipClass" : "STANDARD",
+		"County" : "KAUAI",
+		"City" : "KOLOA",
+		"State" : "HI",
+		"Latitude" : "+22.028379"
+	},
+	{
+		"Longitude" : "-157.025440",
+		"Zipcode" : "96757",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAUI",
+		"City" : "KUALAPUU",
+		"State" : "HI",
+		"Latitude" : "+21.161010"
+	},
+	{
+		"Longitude" : "-158.063850",
+		"Zipcode" : "96759",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HONOLULU",
+		"City" : "KUNIA",
+		"State" : "HI",
+		"Latitude" : "+21.463000"
+	},
+	{
+		"Longitude" : "-155.034859",
+		"Zipcode" : "96760",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "KURTISTOWN",
+		"State" : "HI",
+		"Latitude" : "+19.569277"
+	},
+	{
+		"Longitude" : "-156.717614",
+		"Zipcode" : "96761",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "LAHAINA",
+		"State" : "HI",
+		"Latitude" : "+20.919823"
+	},
+	{
+		"Longitude" : "-157.902050",
+		"Zipcode" : "96762",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "LAIE",
+		"State" : "HI",
+		"Latitude" : "+21.610950"
+	},
+	{
+		"Longitude" : "-156.952830",
+		"Zipcode" : "96763",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAUI",
+		"City" : "LANAI CITY",
+		"State" : "HI",
+		"Latitude" : "+20.812854"
+	},
+	{
+		"Longitude" : "-155.248429",
+		"Zipcode" : "96764",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "LAUPAHOEHOE",
+		"State" : "HI",
+		"Latitude" : "+19.985166"
+	},
+	{
+		"Longitude" : "-159.499342",
+		"Zipcode" : "96765",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "LAWAI",
+		"State" : "HI",
+		"Latitude" : "+21.930922"
+	},
+	{
+		"Longitude" : "-159.430328",
+		"Zipcode" : "96766",
+		"ZipClass" : "STANDARD",
+		"County" : "KAUAI",
+		"City" : "LIHUE",
+		"State" : "HI",
+		"Latitude" : "+22.070553"
+	},
+	{
+		"Longitude" : "-156.646667",
+		"Zipcode" : "96767",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "LAHAINA",
+		"State" : "HI",
+		"Latitude" : "+20.866638"
+	},
+	{
+		"Longitude" : "-156.320242",
+		"Zipcode" : "96768",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "MAKAWAO",
+		"State" : "HI",
+		"Latitude" : "+20.832664"
+	},
+	{
+		"Longitude" : "-159.921351",
+		"Zipcode" : "96769",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "MAKAWELI",
+		"State" : "HI",
+		"Latitude" : "+21.945428"
+	},
+	{
+		"Longitude" : "-157.257157",
+		"Zipcode" : "96770",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAUI",
+		"City" : "MAUNALOA",
+		"State" : "HI",
+		"Latitude" : "+21.176357"
+	},
+	{
+		"Longitude" : "-155.125657",
+		"Zipcode" : "96771",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "MOUNTAIN VIEW",
+		"State" : "HI",
+		"Latitude" : "+19.534945"
+	},
+	{
+		"Longitude" : "-155.622528",
+		"Zipcode" : "96772",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "NAALEHU",
+		"State" : "HI",
+		"Latitude" : "+19.052137"
+	},
+	{
+		"Longitude" : "-155.166821",
+		"Zipcode" : "96773",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "NINOLE",
+		"State" : "HI",
+		"Latitude" : "+19.935047"
+	},
+	{
+		"Longitude" : "-155.280974",
+		"Zipcode" : "96774",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "OOKALA",
+		"State" : "HI",
+		"Latitude" : "+20.015060"
+	},
+	{
+		"Longitude" : "-155.438015",
+		"Zipcode" : "96775",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "PAAUHAU",
+		"State" : "HI",
+		"Latitude" : "+19.593456"
+	},
+	{
+		"Longitude" : "-155.377961",
+		"Zipcode" : "96776",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "PAAUILO",
+		"State" : "HI",
+		"Latitude" : "+20.035356"
+	},
+	{
+		"Longitude" : "-155.438015",
+		"Zipcode" : "96777",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "PAHALA",
+		"State" : "HI",
+		"Latitude" : "+19.593456"
+	},
+	{
+		"Longitude" : "-155.152268",
+		"Zipcode" : "96778",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "PAHOA",
+		"State" : "HI",
+		"Latitude" : "+19.390023"
+	},
+	{
+		"Longitude" : "-156.373506",
+		"Zipcode" : "96779",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "PAIA",
+		"State" : "HI",
+		"Latitude" : "+20.904275"
+	},
+	{
+		"Longitude" : "-155.201267",
+		"Zipcode" : "96780",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "PAPAALOA",
+		"State" : "HI",
+		"Latitude" : "+19.964138"
+	},
+	{
+		"Longitude" : "-155.116093",
+		"Zipcode" : "96781",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "PAPAIKOU",
+		"State" : "HI",
+		"Latitude" : "+19.798878"
+	},
+	{
+		"Longitude" : "-157.994662",
+		"Zipcode" : "96782",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "PEARL CITY",
+		"State" : "HI",
+		"Latitude" : "+21.511950"
+	},
+	{
+		"Longitude" : "-155.106308",
+		"Zipcode" : "96783",
+		"ZipClass" : "STANDARD",
+		"County" : "HAWAII",
+		"City" : "PEPEEKEO",
+		"State" : "HI",
+		"Latitude" : "+19.819475"
+	},
+	{
+		"Longitude" : "-156.646667",
+		"Zipcode" : "96784",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAUI",
+		"City" : "PUUNENE",
+		"State" : "HI",
+		"Latitude" : "+20.866638"
+	},
+	{
+		"Longitude" : "-155.250569",
+		"Zipcode" : "96785",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAWAII",
+		"City" : "VOLCANO",
+		"State" : "HI",
+		"Latitude" : "+19.440523"
+	},
+	{
+		"Longitude" : "-158.047735",
+		"Zipcode" : "96786",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "WAHIAWA",
+		"State" : "HI",
+		"Latitude" : "+21.532400"
+	},
+	{
+		"Longitude" : "-156.325923",
+		"Zipcode" : "96788",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "PUKALANI",
+		"State" : "HI",
+		"Latitude" : "+20.855864"
+	},
+	{
+		"Longitude" : "-158.012322",
+		"Zipcode" : "96789",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "MILILANI",
+		"State" : "HI",
+		"Latitude" : "+21.458855"
+	},
+	{
+		"Longitude" : "-156.329499",
+		"Zipcode" : "96790",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "KULA",
+		"State" : "HI",
+		"Latitude" : "+20.753763"
+	},
+	{
+		"Longitude" : "-158.163415",
+		"Zipcode" : "96791",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "WAIALUA",
+		"State" : "HI",
+		"Latitude" : "+21.553250"
+	},
+	{
+		"Longitude" : "-158.181356",
+		"Zipcode" : "96792",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "WAIANAE",
+		"State" : "HI",
+		"Latitude" : "+21.437389"
+	},
+	{
+		"Longitude" : "-156.566493",
+		"Zipcode" : "96793",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUI",
+		"City" : "WAILUKU",
+		"State" : "HI",
+		"Latitude" : "+20.901536"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96795",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "WAIMANALO",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-159.686193",
+		"Zipcode" : "96796",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KAUAI",
+		"City" : "WAIMEA",
+		"State" : "HI",
+		"Latitude" : "+21.966709"
+	},
+	{
+		"Longitude" : "-158.015151",
+		"Zipcode" : "96797",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "WAIPAHU",
+		"State" : "HI",
+		"Latitude" : "+21.399548"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96801",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96802",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96803",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96804",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96805",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96806",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96807",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96808",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96809",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96810",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96811",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96812",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96813",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96814",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96815",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96816",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-157.922303",
+		"Zipcode" : "96817",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+21.650980"
+	},
+	{
+		"Longitude" : "-157.939650",
+		"Zipcode" : "96818",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+21.347951"
+	},
+	{
+		"Longitude" : "-157.901979",
+		"Zipcode" : "96819",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+21.373179"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96820",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96821",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-157.940850",
+		"Zipcode" : "96822",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+21.671150"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96823",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96824",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-157.940731",
+		"Zipcode" : "96825",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+21.670926"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96826",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96827",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96828",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96830",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96835",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96836",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96837",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96838",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96839",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96840",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96841",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96842",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96843",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96844",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96845",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96846",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96847",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96848",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96849",
+		"ZipClass" : "UNIQUE",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96850",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HONOLULU",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96853",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "HICKAM AFB",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96854",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "WHEELER ARMY AIRFIELD",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96857",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "SCHOFIELD BARRACKS",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96858",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "FORT SHAFTER",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96859",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "TRIPLER ARMY MEDICAL CTR",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96860",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "PEARL HARBOR",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96861",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "CAMP H M SMITH",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-158.074900",
+		"Zipcode" : "96862",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "BARBERS POINT",
+		"State" : "HI",
+		"Latitude" : "+21.319000"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96863",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "M C B H KANEOHE BAY",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	},
+	{
+		"Longitude" : "-168.021815",
+		"Zipcode" : "96898",
+		"ZipClass" : "STANDARD",
+		"County" : "HONOLULU",
+		"City" : "WAKE ISLAND",
+		"State" : "HI",
+		"Latitude" : "+24.859832"
+	}
+]}

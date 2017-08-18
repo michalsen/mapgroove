@@ -1,0 +1,6447 @@
+{
+	"result":[
+	{
+		"Longitude" : "-121.821908",
+		"Zipcode" : "98001",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "AUBURN",
+		"State" : "WA",
+		"Latitude" : "+47.465495"
+	},
+	{
+		"Longitude" : "-122.204230",
+		"Zipcode" : "98002",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "AUBURN",
+		"State" : "WA",
+		"Latitude" : "+47.315422"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98003",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "FEDERAL WAY",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.207221",
+		"Zipcode" : "98004",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BELLEVUE",
+		"State" : "WA",
+		"Latitude" : "+47.615471"
+	},
+	{
+		"Longitude" : "-122.178883",
+		"Zipcode" : "98005",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BELLEVUE",
+		"State" : "WA",
+		"Latitude" : "+47.620471"
+	},
+	{
+		"Longitude" : "-122.144727",
+		"Zipcode" : "98006",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BELLEVUE",
+		"State" : "WA",
+		"Latitude" : "+47.551771"
+	},
+	{
+		"Longitude" : "-122.142282",
+		"Zipcode" : "98007",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BELLEVUE",
+		"State" : "WA",
+		"Latitude" : "+47.620152"
+	},
+	{
+		"Longitude" : "-122.111082",
+		"Zipcode" : "98008",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BELLEVUE",
+		"State" : "WA",
+		"Latitude" : "+47.605867"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98009",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BELLEVUE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.998721",
+		"Zipcode" : "98010",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BLACK DIAMOND",
+		"State" : "WA",
+		"Latitude" : "+47.310568"
+	},
+	{
+		"Longitude" : "-122.214376",
+		"Zipcode" : "98011",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BOTHELL",
+		"State" : "WA",
+		"Latitude" : "+47.750689"
+	},
+	{
+		"Longitude" : "-122.197238",
+		"Zipcode" : "98012",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "BOTHELL",
+		"State" : "WA",
+		"Latitude" : "+47.840068"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98013",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BURTON",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.927236",
+		"Zipcode" : "98014",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "CARNATION",
+		"State" : "WA",
+		"Latitude" : "+47.661862"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98015",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BELLEVUE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.931974",
+		"Zipcode" : "98019",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "DUVALL",
+		"State" : "WA",
+		"Latitude" : "+47.734590"
+	},
+	{
+		"Longitude" : "-122.372401",
+		"Zipcode" : "98020",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "EDMONDS",
+		"State" : "WA",
+		"Latitude" : "+47.806068"
+	},
+	{
+		"Longitude" : "-122.194276",
+		"Zipcode" : "98021",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "BOTHELL",
+		"State" : "WA",
+		"Latitude" : "+47.794519"
+	},
+	{
+		"Longitude" : "-121.903936",
+		"Zipcode" : "98022",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "ENUMCLAW",
+		"State" : "WA",
+		"Latitude" : "+47.234107"
+	},
+	{
+		"Longitude" : "-122.240337",
+		"Zipcode" : "98023",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "FEDERAL WAY",
+		"State" : "WA",
+		"Latitude" : "+47.775627"
+	},
+	{
+		"Longitude" : "-121.987813",
+		"Zipcode" : "98024",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "FALL CITY",
+		"State" : "WA",
+		"Latitude" : "+47.483051"
+	},
+	{
+		"Longitude" : "-122.056013",
+		"Zipcode" : "98025",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KING",
+		"City" : "HOBART",
+		"State" : "WA",
+		"Latitude" : "+47.591564"
+	},
+	{
+		"Longitude" : "-122.326981",
+		"Zipcode" : "98026",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "EDMONDS",
+		"State" : "WA",
+		"Latitude" : "+47.835318"
+	},
+	{
+		"Longitude" : "-122.010699",
+		"Zipcode" : "98027",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "ISSAQUAH",
+		"State" : "WA",
+		"Latitude" : "+47.497419"
+	},
+	{
+		"Longitude" : "-122.124643",
+		"Zipcode" : "98028",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KENMORE",
+		"State" : "WA",
+		"Latitude" : "+47.754219"
+	},
+	{
+		"Longitude" : "-122.025754",
+		"Zipcode" : "98029",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "ISSAQUAH",
+		"State" : "WA",
+		"Latitude" : "+47.565587"
+	},
+	{
+		"Longitude" : "-122.165380",
+		"Zipcode" : "98031",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KENT",
+		"State" : "WA",
+		"Latitude" : "+47.379972"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98032",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KENT",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.187029",
+		"Zipcode" : "98033",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KIRKLAND",
+		"State" : "WA",
+		"Latitude" : "+47.673263"
+	},
+	{
+		"Longitude" : "-122.205646",
+		"Zipcode" : "98034",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KIRKLAND",
+		"State" : "WA",
+		"Latitude" : "+47.725139"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98035",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KENT",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.285481",
+		"Zipcode" : "98036",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "LYNNWOOD",
+		"State" : "WA",
+		"Latitude" : "+47.804869"
+	},
+	{
+		"Longitude" : "-122.283010",
+		"Zipcode" : "98037",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "LYNNWOOD",
+		"State" : "WA",
+		"Latitude" : "+47.857022"
+	},
+	{
+		"Longitude" : "-121.969445",
+		"Zipcode" : "98038",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "MAPLE VALLEY",
+		"State" : "WA",
+		"Latitude" : "+47.409304"
+	},
+	{
+		"Longitude" : "-122.231389",
+		"Zipcode" : "98039",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "MEDINA",
+		"State" : "WA",
+		"Latitude" : "+47.626920"
+	},
+	{
+		"Longitude" : "-122.228083",
+		"Zipcode" : "98040",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "MERCER ISLAND",
+		"State" : "WA",
+		"Latitude" : "+47.560250"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98041",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "BOTHELL",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.091718",
+		"Zipcode" : "98042",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KENT",
+		"State" : "WA",
+		"Latitude" : "+47.353456"
+	},
+	{
+		"Longitude" : "-122.307640",
+		"Zipcode" : "98043",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "MOUNTLAKE TERRACE",
+		"State" : "WA",
+		"Latitude" : "+47.793269"
+	},
+	{
+		"Longitude" : "-121.687506",
+		"Zipcode" : "98045",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "NORTH BEND",
+		"State" : "WA",
+		"Latitude" : "+47.467224"
+	},
+	{
+		"Longitude" : "-121.682271",
+		"Zipcode" : "98046",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "LYNNWOOD",
+		"State" : "WA",
+		"Latitude" : "+48.037258"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98047",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "PACIFIC",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.931195",
+		"Zipcode" : "98050",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KING",
+		"City" : "PRESTON",
+		"State" : "WA",
+		"Latitude" : "+47.536015"
+	},
+	{
+		"Longitude" : "-121.932232",
+		"Zipcode" : "98051",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "RAVENSDALE",
+		"State" : "WA",
+		"Latitude" : "+47.274764"
+	},
+	{
+		"Longitude" : "-122.121034",
+		"Zipcode" : "98052",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "REDMOND",
+		"State" : "WA",
+		"Latitude" : "+47.678756"
+	},
+	{
+		"Longitude" : "-122.021060",
+		"Zipcode" : "98053",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "REDMOND",
+		"State" : "WA",
+		"Latitude" : "+47.648626"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98054",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "REDONDO",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.029670",
+		"Zipcode" : "98055",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "RENTON",
+		"State" : "WA",
+		"Latitude" : "+47.485348"
+	},
+	{
+		"Longitude" : "-122.186447",
+		"Zipcode" : "98056",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "RENTON",
+		"State" : "WA",
+		"Latitude" : "+47.514671"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98057",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "RENTON",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.117999",
+		"Zipcode" : "98058",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "RENTON",
+		"State" : "WA",
+		"Latitude" : "+47.432927"
+	},
+	{
+		"Longitude" : "-122.115699",
+		"Zipcode" : "98059",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "RENTON",
+		"State" : "WA",
+		"Latitude" : "+47.505822"
+	},
+	{
+		"Longitude" : "-122.576199",
+		"Zipcode" : "98061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITSAP",
+		"City" : "ROLLINGBAY",
+		"State" : "WA",
+		"Latitude" : "+47.680763"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98062",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KING",
+		"City" : "SEAHURST",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98063",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "FEDERAL WAY",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98064",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KENT",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.816158",
+		"Zipcode" : "98065",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SNOQUALMIE",
+		"State" : "WA",
+		"Latitude" : "+47.534473"
+	},
+	{
+		"Longitude" : "-121.431033",
+		"Zipcode" : "98068",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SNOQUALMIE PASS",
+		"State" : "WA",
+		"Latitude" : "+47.445171"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98070",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "VASHON",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98071",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "AUBURN",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.090874",
+		"Zipcode" : "98072",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "WOODINVILLE",
+		"State" : "WA",
+		"Latitude" : "+47.740741"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98073",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "REDMOND",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "98074",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SAMMAMISH",
+		"State" : "WA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "98075",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SAMMAMISH",
+		"State" : "WA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98082",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "BOTHELL",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98083",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "KIRKLAND",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.097976",
+		"Zipcode" : "98092",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "AUBURN",
+		"State" : "WA",
+		"Latitude" : "+47.288362"
+	},
+	{
+		"Longitude" : "-122.113791",
+		"Zipcode" : "98093",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "FEDERAL WAY",
+		"State" : "WA",
+		"Latitude" : "+47.311041"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98101",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98102",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98103",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98104",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98105",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98106",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98107",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98108",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.052333",
+		"Zipcode" : "98109",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.583868"
+	},
+	{
+		"Longitude" : "-122.538016",
+		"Zipcode" : "98110",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "BAINBRIDGE ISLAND",
+		"State" : "WA",
+		"Latitude" : "+47.647774"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98111",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98112",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98114",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98115",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98116",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98117",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98118",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98119",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98121",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98122",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98124",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98125",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98126",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98129",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98131",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98132",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98133",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98134",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98136",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98138",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98144",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98145",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98146",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98148",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98151",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98154",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.259737",
+		"Zipcode" : "98155",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.767169"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98158",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98160",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98161",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98164",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98166",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98168",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "98170",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98171",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98174",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98177",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.235856",
+		"Zipcode" : "98178",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.492385"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98181",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98184",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98185",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98188",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98190",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98191",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98195",
+		"ZipClass" : "UNIQUE",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-121.803388",
+		"Zipcode" : "98198",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.432251"
+	},
+	{
+		"Longitude" : "-122.264256",
+		"Zipcode" : "98199",
+		"ZipClass" : "STANDARD",
+		"County" : "KING",
+		"City" : "SEATTLE",
+		"State" : "WA",
+		"Latitude" : "+47.776875"
+	},
+	{
+		"Longitude" : "-122.199795",
+		"Zipcode" : "98201",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "EVERETT",
+		"State" : "WA",
+		"Latitude" : "+47.988661"
+	},
+	{
+		"Longitude" : "-122.231795",
+		"Zipcode" : "98203",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "EVERETT",
+		"State" : "WA",
+		"Latitude" : "+47.946017"
+	},
+	{
+		"Longitude" : "-122.255522",
+		"Zipcode" : "98204",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "EVERETT",
+		"State" : "WA",
+		"Latitude" : "+47.899696"
+	},
+	{
+		"Longitude" : "-122.123325",
+		"Zipcode" : "98205",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "EVERETT",
+		"State" : "WA",
+		"Latitude" : "+47.953523"
+	},
+	{
+		"Longitude" : "-122.284785",
+		"Zipcode" : "98206",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "EVERETT",
+		"State" : "WA",
+		"Latitude" : "+47.859918"
+	},
+	{
+		"Longitude" : "-121.682271",
+		"Zipcode" : "98207",
+		"ZipClass" : "UNIQUE",
+		"County" : "SNOHOMISH",
+		"City" : "EVERETT",
+		"State" : "WA",
+		"Latitude" : "+48.037258"
+	},
+	{
+		"Longitude" : "-122.190392",
+		"Zipcode" : "98208",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "EVERETT",
+		"State" : "WA",
+		"Latitude" : "+47.897284"
+	},
+	{
+		"Longitude" : "-122.186966",
+		"Zipcode" : "98220",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "ACME",
+		"State" : "WA",
+		"Latitude" : "+48.688554"
+	},
+	{
+		"Longitude" : "-122.607111",
+		"Zipcode" : "98221",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "ANACORTES",
+		"State" : "WA",
+		"Latitude" : "+48.499172"
+	},
+	{
+		"Longitude" : "-122.921551",
+		"Zipcode" : "98222",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "BLAKELY ISLAND",
+		"State" : "WA",
+		"Latitude" : "+48.610644"
+	},
+	{
+		"Longitude" : "-121.959469",
+		"Zipcode" : "98223",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "ARLINGTON",
+		"State" : "WA",
+		"Latitude" : "+48.181498"
+	},
+	{
+		"Longitude" : "-121.481395",
+		"Zipcode" : "98224",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KING",
+		"City" : "BARING",
+		"State" : "WA",
+		"Latitude" : "+47.767103"
+	},
+	{
+		"Longitude" : "-122.454297",
+		"Zipcode" : "98225",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "BELLINGHAM",
+		"State" : "WA",
+		"Latitude" : "+48.747687"
+	},
+	{
+		"Longitude" : "-122.486483",
+		"Zipcode" : "98226",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "BELLINGHAM",
+		"State" : "WA",
+		"Latitude" : "+48.768396"
+	},
+	{
+		"Longitude" : "-121.988548",
+		"Zipcode" : "98227",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "BELLINGHAM",
+		"State" : "WA",
+		"Latitude" : "+48.814753"
+	},
+	{
+		"Longitude" : "-121.988548",
+		"Zipcode" : "98228",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "BELLINGHAM",
+		"State" : "WA",
+		"Latitude" : "+48.814753"
+	},
+	{
+		"Longitude" : "-122.366448",
+		"Zipcode" : "98230",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "BLAINE",
+		"State" : "WA",
+		"Latitude" : "+48.935767"
+	},
+	{
+		"Longitude" : "-121.988548",
+		"Zipcode" : "98231",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "BLAINE",
+		"State" : "WA",
+		"Latitude" : "+48.814753"
+	},
+	{
+		"Longitude" : "-122.448358",
+		"Zipcode" : "98232",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "BOW",
+		"State" : "WA",
+		"Latitude" : "+48.565955"
+	},
+	{
+		"Longitude" : "-122.362337",
+		"Zipcode" : "98233",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "BURLINGTON",
+		"State" : "WA",
+		"Latitude" : "+48.533616"
+	},
+	{
+		"Longitude" : "-122.238754",
+		"Zipcode" : "98235",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SKAGIT",
+		"City" : "CLEARLAKE",
+		"State" : "WA",
+		"Latitude" : "+48.470099"
+	},
+	{
+		"Longitude" : "-122.417721",
+		"Zipcode" : "98236",
+		"ZipClass" : "STANDARD",
+		"County" : "ISLAND",
+		"City" : "CLINTON",
+		"State" : "WA",
+		"Latitude" : "+47.956934"
+	},
+	{
+		"Longitude" : "-121.697178",
+		"Zipcode" : "98237",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "CONCRETE",
+		"State" : "WA",
+		"Latitude" : "+48.508868"
+	},
+	{
+		"Longitude" : "-122.345571",
+		"Zipcode" : "98238",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SKAGIT",
+		"City" : "CONWAY",
+		"State" : "WA",
+		"Latitude" : "+48.340002"
+	},
+	{
+		"Longitude" : "-122.667650",
+		"Zipcode" : "98239",
+		"ZipClass" : "STANDARD",
+		"County" : "ISLAND",
+		"City" : "COUPEVILLE",
+		"State" : "WA",
+		"Latitude" : "+48.189400"
+	},
+	{
+		"Longitude" : "-122.625235",
+		"Zipcode" : "98240",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "CUSTER",
+		"State" : "WA",
+		"Latitude" : "+48.941068"
+	},
+	{
+		"Longitude" : "-121.589209",
+		"Zipcode" : "98241",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "DARRINGTON",
+		"State" : "WA",
+		"Latitude" : "+48.239542"
+	},
+	{
+		"Longitude" : "-122.983742",
+		"Zipcode" : "98243",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "DEER HARBOR",
+		"State" : "WA",
+		"Latitude" : "+48.557824"
+	},
+	{
+		"Longitude" : "-122.091834",
+		"Zipcode" : "98244",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "DEMING",
+		"State" : "WA",
+		"Latitude" : "+48.801770"
+	},
+	{
+		"Longitude" : "-122.867603",
+		"Zipcode" : "98245",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "EASTSOUND",
+		"State" : "WA",
+		"Latitude" : "+48.659128"
+	},
+	{
+		"Longitude" : "-122.321834",
+		"Zipcode" : "98247",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "EVERSON",
+		"State" : "WA",
+		"Latitude" : "+48.904384"
+	},
+	{
+		"Longitude" : "-122.608561",
+		"Zipcode" : "98248",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "FERNDALE",
+		"State" : "WA",
+		"Latitude" : "+48.861113"
+	},
+	{
+		"Longitude" : "-122.540489",
+		"Zipcode" : "98249",
+		"ZipClass" : "STANDARD",
+		"County" : "ISLAND",
+		"City" : "FREELAND",
+		"State" : "WA",
+		"Latitude" : "+48.019581"
+	},
+	{
+		"Longitude" : "-123.068323",
+		"Zipcode" : "98250",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "FRIDAY HARBOR",
+		"State" : "WA",
+		"Latitude" : "+48.538181"
+	},
+	{
+		"Longitude" : "-121.636528",
+		"Zipcode" : "98251",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "GOLD BAR",
+		"State" : "WA",
+		"Latitude" : "+47.833114"
+	},
+	{
+		"Longitude" : "-121.798489",
+		"Zipcode" : "98252",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "GRANITE FALLS",
+		"State" : "WA",
+		"Latitude" : "+48.074894"
+	},
+	{
+		"Longitude" : "-122.576120",
+		"Zipcode" : "98253",
+		"ZipClass" : "STANDARD",
+		"County" : "ISLAND",
+		"City" : "GREENBANK",
+		"State" : "WA",
+		"Latitude" : "+48.100424"
+	},
+	{
+		"Longitude" : "-121.988700",
+		"Zipcode" : "98255",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SKAGIT",
+		"City" : "HAMILTON",
+		"State" : "WA",
+		"Latitude" : "+48.525461"
+	},
+	{
+		"Longitude" : "-121.549712",
+		"Zipcode" : "98256",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SNOHOMISH",
+		"City" : "INDEX",
+		"State" : "WA",
+		"Latitude" : "+47.811790"
+	},
+	{
+		"Longitude" : "-122.508364",
+		"Zipcode" : "98257",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "LA CONNER",
+		"State" : "WA",
+		"Latitude" : "+48.414123"
+	},
+	{
+		"Longitude" : "-122.056379",
+		"Zipcode" : "98258",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "LAKE STEVENS",
+		"State" : "WA",
+		"Latitude" : "+48.046751"
+	},
+	{
+		"Longitude" : "-121.682271",
+		"Zipcode" : "98259",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SNOHOMISH",
+		"City" : "NORTH LAKEWOOD",
+		"State" : "WA",
+		"Latitude" : "+48.037258"
+	},
+	{
+		"Longitude" : "-122.458831",
+		"Zipcode" : "98260",
+		"ZipClass" : "STANDARD",
+		"County" : "ISLAND",
+		"City" : "LANGLEY",
+		"State" : "WA",
+		"Latitude" : "+48.031815"
+	},
+	{
+		"Longitude" : "-122.874334",
+		"Zipcode" : "98261",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "LOPEZ ISLAND",
+		"State" : "WA",
+		"Latitude" : "+48.498773"
+	},
+	{
+		"Longitude" : "-122.676470",
+		"Zipcode" : "98262",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "LUMMI ISLAND",
+		"State" : "WA",
+		"Latitude" : "+48.713022"
+	},
+	{
+		"Longitude" : "-122.058644",
+		"Zipcode" : "98263",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SKAGIT",
+		"City" : "LYMAN",
+		"State" : "WA",
+		"Latitude" : "+48.534462"
+	},
+	{
+		"Longitude" : "-122.436249",
+		"Zipcode" : "98264",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "LYNDEN",
+		"State" : "WA",
+		"Latitude" : "+48.932328"
+	},
+	{
+		"Longitude" : "-122.247881",
+		"Zipcode" : "98266",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "MAPLE FALLS",
+		"State" : "WA",
+		"Latitude" : "+48.853213"
+	},
+	{
+		"Longitude" : "-121.473840",
+		"Zipcode" : "98267",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "MARBLEMOUNT",
+		"State" : "WA",
+		"Latitude" : "+48.537813"
+	},
+	{
+		"Longitude" : "-122.161951",
+		"Zipcode" : "98270",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "MARYSVILLE",
+		"State" : "WA",
+		"Latitude" : "+48.049576"
+	},
+	{
+		"Longitude" : "-122.234168",
+		"Zipcode" : "98271",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "MARYSVILLE",
+		"State" : "WA",
+		"Latitude" : "+48.079149"
+	},
+	{
+		"Longitude" : "-121.884330",
+		"Zipcode" : "98272",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "MONROE",
+		"State" : "WA",
+		"Latitude" : "+47.863149"
+	},
+	{
+		"Longitude" : "-122.208184",
+		"Zipcode" : "98273",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "MOUNT VERNON",
+		"State" : "WA",
+		"Latitude" : "+48.435248"
+	},
+	{
+		"Longitude" : "-122.140311",
+		"Zipcode" : "98274",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "MOUNT VERNON",
+		"State" : "WA",
+		"Latitude" : "+48.364253"
+	},
+	{
+		"Longitude" : "-122.302114",
+		"Zipcode" : "98275",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "MUKILTEO",
+		"State" : "WA",
+		"Latitude" : "+47.912402"
+	},
+	{
+		"Longitude" : "-122.335734",
+		"Zipcode" : "98276",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "NOOKSACK",
+		"State" : "WA",
+		"Latitude" : "+48.834208"
+	},
+	{
+		"Longitude" : "-122.629353",
+		"Zipcode" : "98277",
+		"ZipClass" : "STANDARD",
+		"County" : "ISLAND",
+		"City" : "OAK HARBOR",
+		"State" : "WA",
+		"Latitude" : "+48.319858"
+	},
+	{
+		"Longitude" : "-122.655862",
+		"Zipcode" : "98278",
+		"ZipClass" : "UNIQUE",
+		"County" : "ISLAND",
+		"City" : "OAK HARBOR",
+		"State" : "WA",
+		"Latitude" : "+48.310127"
+	},
+	{
+		"Longitude" : "-122.983742",
+		"Zipcode" : "98279",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "OLGA",
+		"State" : "WA",
+		"Latitude" : "+48.557824"
+	},
+	{
+		"Longitude" : "-122.940972",
+		"Zipcode" : "98280",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "ORCAS",
+		"State" : "WA",
+		"Latitude" : "+48.590114"
+	},
+	{
+		"Longitude" : "-123.058243",
+		"Zipcode" : "98281",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "POINT ROBERTS",
+		"State" : "WA",
+		"Latitude" : "+48.987386"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "98282",
+		"ZipClass" : "STANDARD",
+		"County" : "ISLAND",
+		"City" : "CAMANO ISLAND",
+		"State" : "WA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-121.609872",
+		"Zipcode" : "98283",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "ROCKPORT",
+		"State" : "WA",
+		"Latitude" : "+48.428261"
+	},
+	{
+		"Longitude" : "-122.137243",
+		"Zipcode" : "98284",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAGIT",
+		"City" : "SEDRO WOOLLEY",
+		"State" : "WA",
+		"Latitude" : "+48.486147"
+	},
+	{
+		"Longitude" : "-122.983742",
+		"Zipcode" : "98286",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "SHAW ISLAND",
+		"State" : "WA",
+		"Latitude" : "+48.557824"
+	},
+	{
+		"Longitude" : "-121.682271",
+		"Zipcode" : "98287",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SNOHOMISH",
+		"City" : "SILVANA",
+		"State" : "WA",
+		"Latitude" : "+48.037258"
+	},
+	{
+		"Longitude" : "-121.369352",
+		"Zipcode" : "98288",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KING",
+		"City" : "SKYKOMISH",
+		"State" : "WA",
+		"Latitude" : "+47.722245"
+	},
+	{
+		"Longitude" : "-122.014722",
+		"Zipcode" : "98290",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "SNOHOMISH",
+		"State" : "WA",
+		"Latitude" : "+47.954558"
+	},
+	{
+		"Longitude" : "-122.050108",
+		"Zipcode" : "98291",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "SNOHOMISH",
+		"State" : "WA",
+		"Latitude" : "+47.909511"
+	},
+	{
+		"Longitude" : "-122.106400",
+		"Zipcode" : "98292",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "STANWOOD",
+		"State" : "WA",
+		"Latitude" : "+48.080148"
+	},
+	{
+		"Longitude" : "-121.768490",
+		"Zipcode" : "98293",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SNOHOMISH",
+		"City" : "STARTUP",
+		"State" : "WA",
+		"Latitude" : "+47.870275"
+	},
+	{
+		"Longitude" : "-121.731275",
+		"Zipcode" : "98294",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "SULTAN",
+		"State" : "WA",
+		"Latitude" : "+47.869494"
+	},
+	{
+		"Longitude" : "-122.198860",
+		"Zipcode" : "98295",
+		"ZipClass" : "STANDARD",
+		"County" : "WHATCOM",
+		"City" : "SUMAS",
+		"State" : "WA",
+		"Latitude" : "+48.953377"
+	},
+	{
+		"Longitude" : "-122.092025",
+		"Zipcode" : "98296",
+		"ZipClass" : "STANDARD",
+		"County" : "SNOHOMISH",
+		"City" : "SNOHOMISH",
+		"State" : "WA",
+		"Latitude" : "+47.857915"
+	},
+	{
+		"Longitude" : "-122.983742",
+		"Zipcode" : "98297",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "WALDRON",
+		"State" : "WA",
+		"Latitude" : "+48.557824"
+	},
+	{
+		"Longitude" : "-122.706706",
+		"Zipcode" : "98303",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "ANDERSON ISLAND",
+		"State" : "WA",
+		"Latitude" : "+47.156263"
+	},
+	{
+		"Longitude" : "-122.055170",
+		"Zipcode" : "98304",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "ASHFORD",
+		"State" : "WA",
+		"Latitude" : "+46.752611"
+	},
+	{
+		"Longitude" : "-124.360572",
+		"Zipcode" : "98305",
+		"ZipClass" : "STANDARD",
+		"County" : "CLALLAM",
+		"City" : "BEAVER",
+		"State" : "WA",
+		"Latitude" : "+48.006094"
+	},
+	{
+		"Longitude" : "-122.634712",
+		"Zipcode" : "98310",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "BREMERTON",
+		"State" : "WA",
+		"Latitude" : "+47.606478"
+	},
+	{
+		"Longitude" : "-122.637276",
+		"Zipcode" : "98311",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "BREMERTON",
+		"State" : "WA",
+		"Latitude" : "+47.627129"
+	},
+	{
+		"Longitude" : "-122.798590",
+		"Zipcode" : "98312",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "BREMERTON",
+		"State" : "WA",
+		"Latitude" : "+47.578921"
+	},
+	{
+		"Longitude" : "-122.649150",
+		"Zipcode" : "98314",
+		"ZipClass" : "UNIQUE",
+		"County" : "KITSAP",
+		"City" : "BREMERTON",
+		"State" : "WA",
+		"Latitude" : "+47.559317"
+	},
+	{
+		"Longitude" : "-122.712678",
+		"Zipcode" : "98315",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "SILVERDALE",
+		"State" : "WA",
+		"Latitude" : "+47.690048"
+	},
+	{
+		"Longitude" : "-122.943809",
+		"Zipcode" : "98320",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BRINNON",
+		"State" : "WA",
+		"Latitude" : "+47.698291"
+	},
+	{
+		"Longitude" : "-122.079177",
+		"Zipcode" : "98321",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "BUCKLEY",
+		"State" : "WA",
+		"Latitude" : "+47.152347"
+	},
+	{
+		"Longitude" : "-122.729304",
+		"Zipcode" : "98322",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITSAP",
+		"City" : "BURLEY",
+		"State" : "WA",
+		"Latitude" : "+47.687971"
+	},
+	{
+		"Longitude" : "-122.025502",
+		"Zipcode" : "98323",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "CARBONADO",
+		"State" : "WA",
+		"Latitude" : "+47.052210"
+	},
+	{
+		"Longitude" : "-123.872972",
+		"Zipcode" : "98324",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLALLAM",
+		"City" : "CARLSBORG",
+		"State" : "WA",
+		"Latitude" : "+48.183150"
+	},
+	{
+		"Longitude" : "-122.815701",
+		"Zipcode" : "98325",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "CHIMACUM",
+		"State" : "WA",
+		"Latitude" : "+47.915272"
+	},
+	{
+		"Longitude" : "-124.390233",
+		"Zipcode" : "98326",
+		"ZipClass" : "STANDARD",
+		"County" : "CLALLAM",
+		"City" : "CLALLAM BAY",
+		"State" : "WA",
+		"Latitude" : "+48.199745"
+	},
+	{
+		"Longitude" : "-122.656691",
+		"Zipcode" : "98327",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "DUPONT",
+		"State" : "WA",
+		"Latitude" : "+47.090904"
+	},
+	{
+		"Longitude" : "-122.301410",
+		"Zipcode" : "98328",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "EATONVILLE",
+		"State" : "WA",
+		"Latitude" : "+46.904844"
+	},
+	{
+		"Longitude" : "-122.715346",
+		"Zipcode" : "98329",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "GIG HARBOR",
+		"State" : "WA",
+		"Latitude" : "+47.369501"
+	},
+	{
+		"Longitude" : "-122.202297",
+		"Zipcode" : "98330",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "ELBE",
+		"State" : "WA",
+		"Latitude" : "+46.777707"
+	},
+	{
+		"Longitude" : "-124.369332",
+		"Zipcode" : "98331",
+		"ZipClass" : "STANDARD",
+		"County" : "CLALLAM",
+		"City" : "FORKS",
+		"State" : "WA",
+		"Latitude" : "+47.976301"
+	},
+	{
+		"Longitude" : "-122.603703",
+		"Zipcode" : "98332",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "GIG HARBOR",
+		"State" : "WA",
+		"Latitude" : "+47.363745"
+	},
+	{
+		"Longitude" : "-122.628989",
+		"Zipcode" : "98333",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "FOX ISLAND",
+		"State" : "WA",
+		"Latitude" : "+47.248013"
+	},
+	{
+		"Longitude" : "-122.623504",
+		"Zipcode" : "98335",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "GIG HARBOR",
+		"State" : "WA",
+		"Latitude" : "+47.293619"
+	},
+	{
+		"Longitude" : "-122.100372",
+		"Zipcode" : "98336",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "GLENOMA",
+		"State" : "WA",
+		"Latitude" : "+46.539120"
+	},
+	{
+		"Longitude" : "-122.637350",
+		"Zipcode" : "98337",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "BREMERTON",
+		"State" : "WA",
+		"Latitude" : "+47.568617"
+	},
+	{
+		"Longitude" : "-122.384322",
+		"Zipcode" : "98338",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "GRAHAM",
+		"State" : "WA",
+		"Latitude" : "+46.966080"
+	},
+	{
+		"Longitude" : "-122.791259",
+		"Zipcode" : "98339",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PORT HADLOCK",
+		"State" : "WA",
+		"Latitude" : "+47.955331"
+	},
+	{
+		"Longitude" : "-122.557486",
+		"Zipcode" : "98340",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "HANSVILLE",
+		"State" : "WA",
+		"Latitude" : "+47.868952"
+	},
+	{
+		"Longitude" : "-122.566561",
+		"Zipcode" : "98342",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "INDIANOLA",
+		"State" : "WA",
+		"Latitude" : "+47.753544"
+	},
+	{
+		"Longitude" : "-123.872972",
+		"Zipcode" : "98343",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLALLAM",
+		"City" : "JOYCE",
+		"State" : "WA",
+		"Latitude" : "+48.183150"
+	},
+	{
+		"Longitude" : "-122.222642",
+		"Zipcode" : "98344",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "KAPOWSIN",
+		"State" : "WA",
+		"Latitude" : "+46.989916"
+	},
+	{
+		"Longitude" : "-122.625529",
+		"Zipcode" : "98345",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITSAP",
+		"City" : "KEYPORT",
+		"State" : "WA",
+		"Latitude" : "+47.698025"
+	},
+	{
+		"Longitude" : "-122.547078",
+		"Zipcode" : "98346",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "KINGSTON",
+		"State" : "WA",
+		"Latitude" : "+47.834483"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98348",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "LA GRANDE",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.777592",
+		"Zipcode" : "98349",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "LAKEBAY",
+		"State" : "WA",
+		"Latitude" : "+47.288589"
+	},
+	{
+		"Longitude" : "-124.626080",
+		"Zipcode" : "98350",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLALLAM",
+		"City" : "LA PUSH",
+		"State" : "WA",
+		"Latitude" : "+47.905203"
+	},
+	{
+		"Longitude" : "-122.772012",
+		"Zipcode" : "98351",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "LONGBRANCH",
+		"State" : "WA",
+		"Latitude" : "+47.207364"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98352",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "SUMNER",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.622513",
+		"Zipcode" : "98353",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITSAP",
+		"City" : "MANCHESTER",
+		"State" : "WA",
+		"Latitude" : "+47.595155"
+	},
+	{
+		"Longitude" : "-122.311073",
+		"Zipcode" : "98354",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "MILTON",
+		"State" : "WA",
+		"Latitude" : "+47.245769"
+	},
+	{
+		"Longitude" : "-122.093813",
+		"Zipcode" : "98355",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "MINERAL",
+		"State" : "WA",
+		"Latitude" : "+46.713843"
+	},
+	{
+		"Longitude" : "-122.068418",
+		"Zipcode" : "98356",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "MORTON",
+		"State" : "WA",
+		"Latitude" : "+46.591038"
+	},
+	{
+		"Longitude" : "-124.615051",
+		"Zipcode" : "98357",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLALLAM",
+		"City" : "NEAH BAY",
+		"State" : "WA",
+		"Latitude" : "+48.327961"
+	},
+	{
+		"Longitude" : "-122.691213",
+		"Zipcode" : "98358",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "NORDLAND",
+		"State" : "WA",
+		"Latitude" : "+48.057776"
+	},
+	{
+		"Longitude" : "-122.580554",
+		"Zipcode" : "98359",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "OLALLA",
+		"State" : "WA",
+		"Latitude" : "+47.435986"
+	},
+	{
+		"Longitude" : "-122.118676",
+		"Zipcode" : "98360",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "ORTING",
+		"State" : "WA",
+		"Latitude" : "+47.006578"
+	},
+	{
+		"Longitude" : "-121.652807",
+		"Zipcode" : "98361",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "PACKWOOD",
+		"State" : "WA",
+		"Latitude" : "+46.621697"
+	},
+	{
+		"Longitude" : "-123.360411",
+		"Zipcode" : "98362",
+		"ZipClass" : "STANDARD",
+		"County" : "CLALLAM",
+		"City" : "PORT ANGELES",
+		"State" : "WA",
+		"Latitude" : "+48.051108"
+	},
+	{
+		"Longitude" : "-123.917840",
+		"Zipcode" : "98363",
+		"ZipClass" : "STANDARD",
+		"County" : "CLALLAM",
+		"City" : "PORT ANGELES",
+		"State" : "WA",
+		"Latitude" : "+48.055733"
+	},
+	{
+		"Longitude" : "-122.592763",
+		"Zipcode" : "98364",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITSAP",
+		"City" : "PORT GAMBLE",
+		"State" : "WA",
+		"Latitude" : "+47.834431"
+	},
+	{
+		"Longitude" : "-122.709606",
+		"Zipcode" : "98365",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PORT LUDLOW",
+		"State" : "WA",
+		"Latitude" : "+47.911892"
+	},
+	{
+		"Longitude" : "-122.587102",
+		"Zipcode" : "98366",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "PORT ORCHARD",
+		"State" : "WA",
+		"Latitude" : "+47.542664"
+	},
+	{
+		"Longitude" : "-122.650972",
+		"Zipcode" : "98367",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "PORT ORCHARD",
+		"State" : "WA",
+		"Latitude" : "+47.470651"
+	},
+	{
+		"Longitude" : "-122.849683",
+		"Zipcode" : "98368",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PORT TOWNSEND",
+		"State" : "WA",
+		"Latitude" : "+48.018572"
+	},
+	{
+		"Longitude" : "-122.614094",
+		"Zipcode" : "98370",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "POULSBO",
+		"State" : "WA",
+		"Latitude" : "+47.751046"
+	},
+	{
+		"Longitude" : "-122.317148",
+		"Zipcode" : "98371",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PUYALLUP",
+		"State" : "WA",
+		"Latitude" : "+47.212822"
+	},
+	{
+		"Longitude" : "-122.162076",
+		"Zipcode" : "98372",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PUYALLUP",
+		"State" : "WA",
+		"Latitude" : "+47.197581"
+	},
+	{
+		"Longitude" : "-122.309704",
+		"Zipcode" : "98373",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PUYALLUP",
+		"State" : "WA",
+		"Latitude" : "+47.145817"
+	},
+	{
+		"Longitude" : "-122.258646",
+		"Zipcode" : "98374",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PUYALLUP",
+		"State" : "WA",
+		"Latitude" : "+47.139095"
+	},
+	{
+		"Longitude" : "-122.363930",
+		"Zipcode" : "98375",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PUYALLUP",
+		"State" : "WA",
+		"Latitude" : "+47.098845"
+	},
+	{
+		"Longitude" : "-122.838769",
+		"Zipcode" : "98376",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "QUILCENE",
+		"State" : "WA",
+		"Latitude" : "+47.828495"
+	},
+	{
+		"Longitude" : "-121.894411",
+		"Zipcode" : "98377",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "RANDLE",
+		"State" : "WA",
+		"Latitude" : "+46.516754"
+	},
+	{
+		"Longitude" : "-122.729304",
+		"Zipcode" : "98378",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "RETSIL",
+		"State" : "WA",
+		"Latitude" : "+47.687971"
+	},
+	{
+		"Longitude" : "-122.868581",
+		"Zipcode" : "98380",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "SEABECK",
+		"State" : "WA",
+		"Latitude" : "+47.591261"
+	},
+	{
+		"Longitude" : "-124.397803",
+		"Zipcode" : "98381",
+		"ZipClass" : "STANDARD",
+		"County" : "CLALLAM",
+		"City" : "SEKIU",
+		"State" : "WA",
+		"Latitude" : "+48.288633"
+	},
+	{
+		"Longitude" : "-123.080362",
+		"Zipcode" : "98382",
+		"ZipClass" : "STANDARD",
+		"County" : "CLALLAM",
+		"City" : "SEQUIM",
+		"State" : "WA",
+		"Latitude" : "+48.067730"
+	},
+	{
+		"Longitude" : "-122.707982",
+		"Zipcode" : "98383",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "SILVERDALE",
+		"State" : "WA",
+		"Latitude" : "+47.672498"
+	},
+	{
+		"Longitude" : "-122.539637",
+		"Zipcode" : "98384",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITSAP",
+		"City" : "SOUTH COLBY",
+		"State" : "WA",
+		"Latitude" : "+47.521803"
+	},
+	{
+		"Longitude" : "-122.096799",
+		"Zipcode" : "98385",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "SOUTH PRAIRIE",
+		"State" : "WA",
+		"Latitude" : "+47.138271"
+	},
+	{
+		"Longitude" : "-122.499139",
+		"Zipcode" : "98386",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITSAP",
+		"City" : "SOUTHWORTH",
+		"State" : "WA",
+		"Latitude" : "+47.510370"
+	},
+	{
+		"Longitude" : "-122.416480",
+		"Zipcode" : "98387",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "SPANAWAY",
+		"State" : "WA",
+		"Latitude" : "+47.058452"
+	},
+	{
+		"Longitude" : "-122.331781",
+		"Zipcode" : "98388",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "STEILACOOM",
+		"State" : "WA",
+		"Latitude" : "+47.132671"
+	},
+	{
+		"Longitude" : "-122.159820",
+		"Zipcode" : "98390",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "SUMNER",
+		"State" : "WA",
+		"Latitude" : "+47.176966"
+	},
+	{
+		"Longitude" : "-122.564557",
+		"Zipcode" : "98392",
+		"ZipClass" : "STANDARD",
+		"County" : "KITSAP",
+		"City" : "SUQUAMISH",
+		"State" : "WA",
+		"Latitude" : "+47.732624"
+	},
+	{
+		"Longitude" : "-122.649953",
+		"Zipcode" : "98393",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITSAP",
+		"City" : "TRACYTON",
+		"State" : "WA",
+		"Latitude" : "+47.626717"
+	},
+	{
+		"Longitude" : "-122.772503",
+		"Zipcode" : "98394",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "VAUGHN",
+		"State" : "WA",
+		"Latitude" : "+47.311117"
+	},
+	{
+		"Longitude" : "-122.832799",
+		"Zipcode" : "98395",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "WAUNA",
+		"State" : "WA",
+		"Latitude" : "+47.266017"
+	},
+	{
+		"Longitude" : "-122.037015",
+		"Zipcode" : "98396",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "WILKESON",
+		"State" : "WA",
+		"Latitude" : "+47.109524"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98397",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "LONGMIRE",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98398",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "PARADISE INN",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.444335",
+		"Zipcode" : "98401",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.253671"
+	},
+	{
+		"Longitude" : "-122.463308",
+		"Zipcode" : "98402",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.261502"
+	},
+	{
+		"Longitude" : "-122.457087",
+		"Zipcode" : "98403",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.265371"
+	},
+	{
+		"Longitude" : "-122.397929",
+		"Zipcode" : "98404",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.209131"
+	},
+	{
+		"Longitude" : "-122.472793",
+		"Zipcode" : "98405",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.247871"
+	},
+	{
+		"Longitude" : "-122.509235",
+		"Zipcode" : "98406",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.259216"
+	},
+	{
+		"Longitude" : "-122.500486",
+		"Zipcode" : "98407",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.287606"
+	},
+	{
+		"Longitude" : "-122.448534",
+		"Zipcode" : "98408",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.206871"
+	},
+	{
+		"Longitude" : "-122.321095",
+		"Zipcode" : "98409",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.205777"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98411",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98412",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98413",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98415",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.482076",
+		"Zipcode" : "98416",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.264577"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98418",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.400133",
+		"Zipcode" : "98421",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.254021"
+	},
+	{
+		"Longitude" : "-122.388781",
+		"Zipcode" : "98422",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.283379"
+	},
+	{
+		"Longitude" : "-122.359432",
+		"Zipcode" : "98424",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.232513"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98430",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "CAMP MURRAY",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98431",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.491749",
+		"Zipcode" : "98433",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.126735"
+	},
+	{
+		"Longitude" : "-122.567631",
+		"Zipcode" : "98438",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "MCCHORD AFB",
+		"State" : "WA",
+		"Latitude" : "+47.151297"
+	},
+	{
+		"Longitude" : "-122.510316",
+		"Zipcode" : "98439",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "LAKEWOOD",
+		"State" : "WA",
+		"Latitude" : "+47.128671"
+	},
+	{
+		"Longitude" : "-122.418495",
+		"Zipcode" : "98442",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.308061"
+	},
+	{
+		"Longitude" : "-122.373466",
+		"Zipcode" : "98443",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.207371"
+	},
+	{
+		"Longitude" : "-122.457172",
+		"Zipcode" : "98444",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.146371"
+	},
+	{
+		"Longitude" : "-122.409355",
+		"Zipcode" : "98445",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.129145"
+	},
+	{
+		"Longitude" : "-122.373631",
+		"Zipcode" : "98446",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.128485"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98447",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98450",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98455",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98460",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98464",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.530336",
+		"Zipcode" : "98465",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.254749"
+	},
+	{
+		"Longitude" : "-122.539360",
+		"Zipcode" : "98466",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.243075"
+	},
+	{
+		"Longitude" : "-122.532335",
+		"Zipcode" : "98467",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "UNIVERSITY PLACE",
+		"State" : "WA",
+		"Latitude" : "+47.187170"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98471",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98477",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98481",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98492",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "LAKEWOOD",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98493",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIERCE",
+		"City" : "TACOMA",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.113223",
+		"Zipcode" : "98497",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "LAKEWOOD",
+		"State" : "WA",
+		"Latitude" : "+47.066193"
+	},
+	{
+		"Longitude" : "-122.548486",
+		"Zipcode" : "98498",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "LAKEWOOD",
+		"State" : "WA",
+		"Latitude" : "+47.159149"
+	},
+	{
+		"Longitude" : "-122.502360",
+		"Zipcode" : "98499",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "LAKEWOOD",
+		"State" : "WA",
+		"Latitude" : "+47.167720"
+	},
+	{
+		"Longitude" : "-122.869079",
+		"Zipcode" : "98501",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+46.984767"
+	},
+	{
+		"Longitude" : "-123.055153",
+		"Zipcode" : "98502",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+47.104269"
+	},
+	{
+		"Longitude" : "-122.796695",
+		"Zipcode" : "98503",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "LACEY",
+		"State" : "WA",
+		"Latitude" : "+47.026418"
+	},
+	{
+		"Longitude" : "-122.702393",
+		"Zipcode" : "98504",
+		"ZipClass" : "UNIQUE",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+46.978118"
+	},
+	{
+		"Longitude" : "-122.976187",
+		"Zipcode" : "98505",
+		"ZipClass" : "UNIQUE",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+47.065404"
+	},
+	{
+		"Longitude" : "-122.870043",
+		"Zipcode" : "98506",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+47.104227"
+	},
+	{
+		"Longitude" : "-122.702393",
+		"Zipcode" : "98507",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+46.978118"
+	},
+	{
+		"Longitude" : "-122.702393",
+		"Zipcode" : "98508",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+46.978118"
+	},
+	{
+		"Longitude" : "-122.702393",
+		"Zipcode" : "98509",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "LACEY",
+		"State" : "WA",
+		"Latitude" : "+46.978118"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "98511",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "TUMWATER",
+		"State" : "WA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-123.021207",
+		"Zipcode" : "98512",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+46.949776"
+	},
+	{
+		"Longitude" : "-122.743016",
+		"Zipcode" : "98513",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+46.993897"
+	},
+	{
+		"Longitude" : "-122.779419",
+		"Zipcode" : "98516",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+47.112575"
+	},
+	{
+		"Longitude" : "-123.671290",
+		"Zipcode" : "98520",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "ABERDEEN",
+		"State" : "WA",
+		"Latitude" : "+47.002735"
+	},
+	{
+		"Longitude" : "-123.298384",
+		"Zipcode" : "98522",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEWIS",
+		"City" : "ADNA",
+		"State" : "WA",
+		"Latitude" : "+46.571323"
+	},
+	{
+		"Longitude" : "-122.984003",
+		"Zipcode" : "98524",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "ALLYN",
+		"State" : "WA",
+		"Latitude" : "+47.322429"
+	},
+	{
+		"Longitude" : "-123.920555",
+		"Zipcode" : "98526",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "AMANDA PARK",
+		"State" : "WA",
+		"Latitude" : "+47.485913"
+	},
+	{
+		"Longitude" : "-123.884996",
+		"Zipcode" : "98527",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PACIFIC",
+		"City" : "BAY CENTER",
+		"State" : "WA",
+		"Latitude" : "+46.637057"
+	},
+	{
+		"Longitude" : "-122.928877",
+		"Zipcode" : "98528",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "BELFAIR",
+		"State" : "WA",
+		"Latitude" : "+47.432465"
+	},
+	{
+		"Longitude" : "-122.871798",
+		"Zipcode" : "98530",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "THURSTON",
+		"City" : "BUCODA",
+		"State" : "WA",
+		"Latitude" : "+46.798216"
+	},
+	{
+		"Longitude" : "-123.010460",
+		"Zipcode" : "98531",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "CENTRALIA",
+		"State" : "WA",
+		"Latitude" : "+46.713822"
+	},
+	{
+		"Longitude" : "-123.024845",
+		"Zipcode" : "98532",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "CHEHALIS",
+		"State" : "WA",
+		"Latitude" : "+46.615653"
+	},
+	{
+		"Longitude" : "-122.568709",
+		"Zipcode" : "98533",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "CINEBAR",
+		"State" : "WA",
+		"Latitude" : "+46.579292"
+	},
+	{
+		"Longitude" : "-124.139665",
+		"Zipcode" : "98535",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "COPALIS BEACH",
+		"State" : "WA",
+		"Latitude" : "+47.149086"
+	},
+	{
+		"Longitude" : "-124.135203",
+		"Zipcode" : "98536",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "COPALIS CROSSING",
+		"State" : "WA",
+		"Latitude" : "+47.159136"
+	},
+	{
+		"Longitude" : "-123.645390",
+		"Zipcode" : "98537",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "COSMOPOLIS",
+		"State" : "WA",
+		"Latitude" : "+46.878164"
+	},
+	{
+		"Longitude" : "-123.146764",
+		"Zipcode" : "98538",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "CURTIS",
+		"State" : "WA",
+		"Latitude" : "+46.495639"
+	},
+	{
+		"Longitude" : "-123.280421",
+		"Zipcode" : "98539",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEWIS",
+		"City" : "DOTY",
+		"State" : "WA",
+		"Latitude" : "+46.637834"
+	},
+	{
+		"Longitude" : "-122.702393",
+		"Zipcode" : "98540",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "THURSTON",
+		"City" : "EAST OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+46.978118"
+	},
+	{
+		"Longitude" : "-123.736287",
+		"Zipcode" : "98541",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "ELMA",
+		"State" : "WA",
+		"Latitude" : "+47.160000"
+	},
+	{
+		"Longitude" : "-122.724004",
+		"Zipcode" : "98542",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "ETHEL",
+		"State" : "WA",
+		"Latitude" : "+46.530022"
+	},
+	{
+		"Longitude" : "-123.025360",
+		"Zipcode" : "98544",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEWIS",
+		"City" : "GALVIN",
+		"State" : "WA",
+		"Latitude" : "+46.734909"
+	},
+	{
+		"Longitude" : "-122.916256",
+		"Zipcode" : "98546",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "GRAPEVIEW",
+		"State" : "WA",
+		"Latitude" : "+47.327254"
+	},
+	{
+		"Longitude" : "-124.094009",
+		"Zipcode" : "98547",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "GRAYLAND",
+		"State" : "WA",
+		"Latitude" : "+46.826407"
+	},
+	{
+		"Longitude" : "-123.198634",
+		"Zipcode" : "98548",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "HOODSPORT",
+		"State" : "WA",
+		"Latitude" : "+47.446972"
+	},
+	{
+		"Longitude" : "-123.731611",
+		"Zipcode" : "98550",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "HOQUIAM",
+		"State" : "WA",
+		"Latitude" : "+47.101202"
+	},
+	{
+		"Longitude" : "-123.929112",
+		"Zipcode" : "98552",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "HUMPTULIPS",
+		"State" : "WA",
+		"Latitude" : "+47.342898"
+	},
+	{
+		"Longitude" : "-123.547880",
+		"Zipcode" : "98554",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PACIFIC",
+		"City" : "LEBAM",
+		"State" : "WA",
+		"Latitude" : "+46.561375"
+	},
+	{
+		"Longitude" : "-123.049632",
+		"Zipcode" : "98555",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "LILLIWAUP",
+		"State" : "WA",
+		"Latitude" : "+47.532281"
+	},
+	{
+		"Longitude" : "-123.017043",
+		"Zipcode" : "98556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "THURSTON",
+		"City" : "LITTLEROCK",
+		"State" : "WA",
+		"Latitude" : "+46.902376"
+	},
+	{
+		"Longitude" : "-123.272999",
+		"Zipcode" : "98557",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "MCCLEARY",
+		"State" : "WA",
+		"Latitude" : "+47.029716"
+	},
+	{
+		"Longitude" : "-122.555850",
+		"Zipcode" : "98558",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIERCE",
+		"City" : "MCKENNA",
+		"State" : "WA",
+		"Latitude" : "+46.955863"
+	},
+	{
+		"Longitude" : "-123.326762",
+		"Zipcode" : "98559",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAYS HARBOR",
+		"City" : "MALONE",
+		"State" : "WA",
+		"Latitude" : "+46.958918"
+	},
+	{
+		"Longitude" : "-123.441178",
+		"Zipcode" : "98560",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "MATLOCK",
+		"State" : "WA",
+		"Latitude" : "+47.263601"
+	},
+	{
+		"Longitude" : "-123.769030",
+		"Zipcode" : "98561",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PACIFIC",
+		"City" : "MENLO",
+		"State" : "WA",
+		"Latitude" : "+46.514625"
+	},
+	{
+		"Longitude" : "-123.794069",
+		"Zipcode" : "98562",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAYS HARBOR",
+		"City" : "MOCLIPS",
+		"State" : "WA",
+		"Latitude" : "+47.162482"
+	},
+	{
+		"Longitude" : "-123.719565",
+		"Zipcode" : "98563",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "MONTESANO",
+		"State" : "WA",
+		"Latitude" : "+47.015536"
+	},
+	{
+		"Longitude" : "-122.468293",
+		"Zipcode" : "98564",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "MOSSYROCK",
+		"State" : "WA",
+		"Latitude" : "+46.502810"
+	},
+	{
+		"Longitude" : "-122.909666",
+		"Zipcode" : "98565",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEWIS",
+		"City" : "NAPAVINE",
+		"State" : "WA",
+		"Latitude" : "+46.579281"
+	},
+	{
+		"Longitude" : "-123.890317",
+		"Zipcode" : "98566",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAYS HARBOR",
+		"City" : "NEILTON",
+		"State" : "WA",
+		"Latitude" : "+47.387674"
+	},
+	{
+		"Longitude" : "-123.283859",
+		"Zipcode" : "98568",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "OAKVILLE",
+		"State" : "WA",
+		"Latitude" : "+46.866084"
+	},
+	{
+		"Longitude" : "-124.152461",
+		"Zipcode" : "98569",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "OCEAN SHORES",
+		"State" : "WA",
+		"Latitude" : "+47.071971"
+	},
+	{
+		"Longitude" : "-122.690491",
+		"Zipcode" : "98570",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "ONALASKA",
+		"State" : "WA",
+		"Latitude" : "+46.563491"
+	},
+	{
+		"Longitude" : "-124.191502",
+		"Zipcode" : "98571",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAYS HARBOR",
+		"City" : "PACIFIC BEACH",
+		"State" : "WA",
+		"Latitude" : "+47.219468"
+	},
+	{
+		"Longitude" : "-123.314715",
+		"Zipcode" : "98572",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "PE ELL",
+		"State" : "WA",
+		"Latitude" : "+46.582897"
+	},
+	{
+		"Longitude" : "-123.830676",
+		"Zipcode" : "98575",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "QUINAULT",
+		"State" : "WA",
+		"Latitude" : "+47.460280"
+	},
+	{
+		"Longitude" : "-122.661394",
+		"Zipcode" : "98576",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "RAINIER",
+		"State" : "WA",
+		"Latitude" : "+46.873509"
+	},
+	{
+		"Longitude" : "-123.657572",
+		"Zipcode" : "98577",
+		"ZipClass" : "STANDARD",
+		"County" : "PACIFIC",
+		"City" : "RAYMOND",
+		"State" : "WA",
+		"Latitude" : "+46.653496"
+	},
+	{
+		"Longitude" : "-123.059270",
+		"Zipcode" : "98579",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "ROCHESTER",
+		"State" : "WA",
+		"Latitude" : "+46.832816"
+	},
+	{
+		"Longitude" : "-122.468087",
+		"Zipcode" : "98580",
+		"ZipClass" : "STANDARD",
+		"County" : "PIERCE",
+		"City" : "ROY",
+		"State" : "WA",
+		"Latitude" : "+46.938230"
+	},
+	{
+		"Longitude" : "-123.056039",
+		"Zipcode" : "98581",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "RYDERWOOD",
+		"State" : "WA",
+		"Latitude" : "+46.379714"
+	},
+	{
+		"Longitude" : "-122.648072",
+		"Zipcode" : "98582",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "SALKUM",
+		"State" : "WA",
+		"Latitude" : "+46.514633"
+	},
+	{
+		"Longitude" : "-123.483596",
+		"Zipcode" : "98583",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAYS HARBOR",
+		"City" : "SATSOP",
+		"State" : "WA",
+		"Latitude" : "+47.002178"
+	},
+	{
+		"Longitude" : "-123.159683",
+		"Zipcode" : "98584",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "SHELTON",
+		"State" : "WA",
+		"Latitude" : "+47.263255"
+	},
+	{
+		"Longitude" : "-122.487578",
+		"Zipcode" : "98585",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "SILVER CREEK",
+		"State" : "WA",
+		"Latitude" : "+46.546091"
+	},
+	{
+		"Longitude" : "-123.834262",
+		"Zipcode" : "98586",
+		"ZipClass" : "STANDARD",
+		"County" : "PACIFIC",
+		"City" : "SOUTH BEND",
+		"State" : "WA",
+		"Latitude" : "+46.588006"
+	},
+	{
+		"Longitude" : "-124.232056",
+		"Zipcode" : "98587",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAYS HARBOR",
+		"City" : "TAHOLAH",
+		"State" : "WA",
+		"Latitude" : "+47.230148"
+	},
+	{
+		"Longitude" : "-123.096769",
+		"Zipcode" : "98588",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "TAHUYA",
+		"State" : "WA",
+		"Latitude" : "+47.434953"
+	},
+	{
+		"Longitude" : "-122.849451",
+		"Zipcode" : "98589",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "TENINO",
+		"State" : "WA",
+		"Latitude" : "+46.842750"
+	},
+	{
+		"Longitude" : "-124.027885",
+		"Zipcode" : "98590",
+		"ZipClass" : "STANDARD",
+		"County" : "PACIFIC",
+		"City" : "TOKELAND",
+		"State" : "WA",
+		"Latitude" : "+46.730891"
+	},
+	{
+		"Longitude" : "-122.794980",
+		"Zipcode" : "98591",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "TOLEDO",
+		"State" : "WA",
+		"Latitude" : "+46.456038"
+	},
+	{
+		"Longitude" : "-123.074952",
+		"Zipcode" : "98592",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "UNION",
+		"State" : "WA",
+		"Latitude" : "+47.336838"
+	},
+	{
+		"Longitude" : "-122.973972",
+		"Zipcode" : "98593",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "VADER",
+		"State" : "WA",
+		"Latitude" : "+46.423038"
+	},
+	{
+		"Longitude" : "-123.965158",
+		"Zipcode" : "98595",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYS HARBOR",
+		"City" : "WESTPORT",
+		"State" : "WA",
+		"Latitude" : "+46.894327"
+	},
+	{
+		"Longitude" : "-122.879917",
+		"Zipcode" : "98596",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "WINLOCK",
+		"State" : "WA",
+		"Latitude" : "+46.490874"
+	},
+	{
+		"Longitude" : "-122.562689",
+		"Zipcode" : "98597",
+		"ZipClass" : "STANDARD",
+		"County" : "THURSTON",
+		"City" : "YELM",
+		"State" : "WA",
+		"Latitude" : "+46.882364"
+	},
+	{
+		"Longitude" : "-122.702393",
+		"Zipcode" : "98599",
+		"ZipClass" : "UNIQUE",
+		"County" : "THURSTON",
+		"City" : "OLYMPIA",
+		"State" : "WA",
+		"Latitude" : "+46.978118"
+	},
+	{
+		"Longitude" : "-122.450194",
+		"Zipcode" : "98601",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "AMBOY",
+		"State" : "WA",
+		"Latitude" : "+45.923556"
+	},
+	{
+		"Longitude" : "-121.312852",
+		"Zipcode" : "98602",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "APPLETON",
+		"State" : "WA",
+		"Latitude" : "+45.850437"
+	},
+	{
+		"Longitude" : "-122.442472",
+		"Zipcode" : "98603",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "ARIEL",
+		"State" : "WA",
+		"Latitude" : "+45.999338"
+	},
+	{
+		"Longitude" : "-122.531645",
+		"Zipcode" : "98604",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "BATTLE GROUND",
+		"State" : "WA",
+		"Latitude" : "+45.803592"
+	},
+	{
+		"Longitude" : "-121.447323",
+		"Zipcode" : "98605",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "BINGEN",
+		"State" : "WA",
+		"Latitude" : "+45.721519"
+	},
+	{
+		"Longitude" : "-122.477093",
+		"Zipcode" : "98606",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "BRUSH PRAIRIE",
+		"State" : "WA",
+		"Latitude" : "+45.731631"
+	},
+	{
+		"Longitude" : "-122.399341",
+		"Zipcode" : "98607",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "CAMAS",
+		"State" : "WA",
+		"Latitude" : "+45.656489"
+	},
+	{
+		"Longitude" : "-122.864838",
+		"Zipcode" : "98609",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "CARROLLS",
+		"State" : "WA",
+		"Latitude" : "+46.071482"
+	},
+	{
+		"Longitude" : "-121.841736",
+		"Zipcode" : "98610",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAMANIA",
+		"City" : "CARSON",
+		"State" : "WA",
+		"Latitude" : "+45.784205"
+	},
+	{
+		"Longitude" : "-122.673021",
+		"Zipcode" : "98611",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "CASTLE ROCK",
+		"State" : "WA",
+		"Latitude" : "+46.220778"
+	},
+	{
+		"Longitude" : "-123.334899",
+		"Zipcode" : "98612",
+		"ZipClass" : "STANDARD",
+		"County" : "WAHKIAKUM",
+		"City" : "CATHLAMET",
+		"State" : "WA",
+		"Latitude" : "+46.214628"
+	},
+	{
+		"Longitude" : "-120.993902",
+		"Zipcode" : "98613",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "CENTERVILLE",
+		"State" : "WA",
+		"Latitude" : "+45.738205"
+	},
+	{
+		"Longitude" : "-123.933161",
+		"Zipcode" : "98614",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PACIFIC",
+		"City" : "CHINOOK",
+		"State" : "WA",
+		"Latitude" : "+46.263023"
+	},
+	{
+		"Longitude" : "-122.359589",
+		"Zipcode" : "98616",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "COUGAR",
+		"State" : "WA",
+		"Latitude" : "+46.025434"
+	},
+	{
+		"Longitude" : "-121.171690",
+		"Zipcode" : "98617",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KLICKITAT",
+		"City" : "DALLESPORT",
+		"State" : "WA",
+		"Latitude" : "+45.632681"
+	},
+	{
+		"Longitude" : "-121.282054",
+		"Zipcode" : "98619",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "GLENWOOD",
+		"State" : "WA",
+		"Latitude" : "+45.989951"
+	},
+	{
+		"Longitude" : "-120.768762",
+		"Zipcode" : "98620",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "GOLDENDALE",
+		"State" : "WA",
+		"Latitude" : "+45.840666"
+	},
+	{
+		"Longitude" : "-123.597874",
+		"Zipcode" : "98621",
+		"ZipClass" : "STANDARD",
+		"County" : "WAHKIAKUM",
+		"City" : "GRAYS RIVER",
+		"State" : "WA",
+		"Latitude" : "+46.355461"
+	},
+	{
+		"Longitude" : "-122.520347",
+		"Zipcode" : "98622",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "HEISSON",
+		"State" : "WA",
+		"Latitude" : "+45.801586"
+	},
+	{
+		"Longitude" : "-121.487682",
+		"Zipcode" : "98623",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KLICKITAT",
+		"City" : "HUSUM",
+		"State" : "WA",
+		"Latitude" : "+45.807631"
+	},
+	{
+		"Longitude" : "-123.999449",
+		"Zipcode" : "98624",
+		"ZipClass" : "STANDARD",
+		"County" : "PACIFIC",
+		"City" : "ILWACO",
+		"State" : "WA",
+		"Latitude" : "+46.317185"
+	},
+	{
+		"Longitude" : "-122.721750",
+		"Zipcode" : "98625",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "KALAMA",
+		"State" : "WA",
+		"Latitude" : "+46.002114"
+	},
+	{
+		"Longitude" : "-122.825047",
+		"Zipcode" : "98626",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "KELSO",
+		"State" : "WA",
+		"Latitude" : "+46.147274"
+	},
+	{
+		"Longitude" : "-121.044345",
+		"Zipcode" : "98628",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "KLICKITAT",
+		"State" : "WA",
+		"Latitude" : "+45.856217"
+	},
+	{
+		"Longitude" : "-122.615416",
+		"Zipcode" : "98629",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "LA CENTER",
+		"State" : "WA",
+		"Latitude" : "+45.881459"
+	},
+	{
+		"Longitude" : "-123.995591",
+		"Zipcode" : "98631",
+		"ZipClass" : "STANDARD",
+		"County" : "PACIFIC",
+		"City" : "LONG BEACH",
+		"State" : "WA",
+		"Latitude" : "+46.376798"
+	},
+	{
+		"Longitude" : "-123.057597",
+		"Zipcode" : "98632",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "LONGVIEW",
+		"State" : "WA",
+		"Latitude" : "+46.181872"
+	},
+	{
+		"Longitude" : "-121.213705",
+		"Zipcode" : "98635",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "LYLE",
+		"State" : "WA",
+		"Latitude" : "+45.822789"
+	},
+	{
+		"Longitude" : "-123.769030",
+		"Zipcode" : "98637",
+		"ZipClass" : "STANDARD",
+		"County" : "PACIFIC",
+		"City" : "NAHCOTTA",
+		"State" : "WA",
+		"Latitude" : "+46.514625"
+	},
+	{
+		"Longitude" : "-123.802552",
+		"Zipcode" : "98638",
+		"ZipClass" : "STANDARD",
+		"County" : "PACIFIC",
+		"City" : "NASELLE",
+		"State" : "WA",
+		"Latitude" : "+46.342219"
+	},
+	{
+		"Longitude" : "-122.005783",
+		"Zipcode" : "98639",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SKAMANIA",
+		"City" : "NORTH BONNEVILLE",
+		"State" : "WA",
+		"Latitude" : "+45.641704"
+	},
+	{
+		"Longitude" : "-124.040389",
+		"Zipcode" : "98640",
+		"ZipClass" : "STANDARD",
+		"County" : "PACIFIC",
+		"City" : "OCEAN PARK",
+		"State" : "WA",
+		"Latitude" : "+46.495565"
+	},
+	{
+		"Longitude" : "-124.042671",
+		"Zipcode" : "98641",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PACIFIC",
+		"City" : "OYSTERVILLE",
+		"State" : "WA",
+		"Latitude" : "+46.544789"
+	},
+	{
+		"Longitude" : "-122.620162",
+		"Zipcode" : "98642",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "RIDGEFIELD",
+		"State" : "WA",
+		"Latitude" : "+45.756797"
+	},
+	{
+		"Longitude" : "-123.614319",
+		"Zipcode" : "98643",
+		"ZipClass" : "STANDARD",
+		"County" : "WAHKIAKUM",
+		"City" : "ROSBURG",
+		"State" : "WA",
+		"Latitude" : "+46.310011"
+	},
+	{
+		"Longitude" : "-124.045530",
+		"Zipcode" : "98644",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PACIFIC",
+		"City" : "SEAVIEW",
+		"State" : "WA",
+		"Latitude" : "+46.330755"
+	},
+	{
+		"Longitude" : "-122.728835",
+		"Zipcode" : "98645",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "SILVERLAKE",
+		"State" : "WA",
+		"Latitude" : "+46.314662"
+	},
+	{
+		"Longitude" : "-123.456145",
+		"Zipcode" : "98647",
+		"ZipClass" : "STANDARD",
+		"County" : "WAHKIAKUM",
+		"City" : "SKAMOKAWA",
+		"State" : "WA",
+		"Latitude" : "+46.300349"
+	},
+	{
+		"Longitude" : "-121.912581",
+		"Zipcode" : "98648",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAMANIA",
+		"City" : "STEVENSON",
+		"State" : "WA",
+		"Latitude" : "+45.673707"
+	},
+	{
+		"Longitude" : "-122.647324",
+		"Zipcode" : "98649",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "TOUTLE",
+		"State" : "WA",
+		"Latitude" : "+46.334539"
+	},
+	{
+		"Longitude" : "-121.535640",
+		"Zipcode" : "98650",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "TROUT LAKE",
+		"State" : "WA",
+		"Latitude" : "+45.958949"
+	},
+	{
+		"Longitude" : "-121.576567",
+		"Zipcode" : "98651",
+		"ZipClass" : "STANDARD",
+		"County" : "SKAMANIA",
+		"City" : "UNDERWOOD",
+		"State" : "WA",
+		"Latitude" : "+45.758260"
+	},
+	{
+		"Longitude" : "-122.713366",
+		"Zipcode" : "98660",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.743270"
+	},
+	{
+		"Longitude" : "-122.643658",
+		"Zipcode" : "98661",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.769989"
+	},
+	{
+		"Longitude" : "-122.580457",
+		"Zipcode" : "98662",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.691419"
+	},
+	{
+		"Longitude" : "-122.663608",
+		"Zipcode" : "98663",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.650488"
+	},
+	{
+		"Longitude" : "-122.576413",
+		"Zipcode" : "98664",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.620669"
+	},
+	{
+		"Longitude" : "-122.661608",
+		"Zipcode" : "98665",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.689187"
+	},
+	{
+		"Longitude" : "-122.520347",
+		"Zipcode" : "98666",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.801586"
+	},
+	{
+		"Longitude" : "-122.520347",
+		"Zipcode" : "98667",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.801586"
+	},
+	{
+		"Longitude" : "-122.520347",
+		"Zipcode" : "98668",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.801586"
+	},
+	{
+		"Longitude" : "-121.302305",
+		"Zipcode" : "98670",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "WAHKIACUS",
+		"State" : "WA",
+		"Latitude" : "+45.810317"
+	},
+	{
+		"Longitude" : "-122.315559",
+		"Zipcode" : "98671",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "WASHOUGAL",
+		"State" : "WA",
+		"Latitude" : "+45.611697"
+	},
+	{
+		"Longitude" : "-121.405863",
+		"Zipcode" : "98672",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "WHITE SALMON",
+		"State" : "WA",
+		"Latitude" : "+45.828588"
+	},
+	{
+		"Longitude" : "-121.073170",
+		"Zipcode" : "98673",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KLICKITAT",
+		"City" : "WISHRAM",
+		"State" : "WA",
+		"Latitude" : "+45.641548"
+	},
+	{
+		"Longitude" : "-122.686548",
+		"Zipcode" : "98674",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLITZ",
+		"City" : "WOODLAND",
+		"State" : "WA",
+		"Latitude" : "+45.937521"
+	},
+	{
+		"Longitude" : "-122.498993",
+		"Zipcode" : "98675",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "YACOLT",
+		"State" : "WA",
+		"Latitude" : "+45.824611"
+	},
+	{
+		"Longitude" : "-122.478845",
+		"Zipcode" : "98682",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.678782"
+	},
+	{
+		"Longitude" : "-122.513318",
+		"Zipcode" : "98683",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.603216"
+	},
+	{
+		"Longitude" : "-122.515538",
+		"Zipcode" : "98684",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.635900"
+	},
+	{
+		"Longitude" : "-122.696001",
+		"Zipcode" : "98685",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.754637"
+	},
+	{
+		"Longitude" : "-122.572193",
+		"Zipcode" : "98686",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.705566"
+	},
+	{
+		"Longitude" : "-122.520347",
+		"Zipcode" : "98687",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VANCOUVER",
+		"State" : "WA",
+		"Latitude" : "+45.801586"
+	},
+	{
+		"Longitude" : "-120.351884",
+		"Zipcode" : "98801",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "WENATCHEE",
+		"State" : "WA",
+		"Latitude" : "+47.573816"
+	},
+	{
+		"Longitude" : "-120.214402",
+		"Zipcode" : "98802",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "EAST WENATCHEE",
+		"State" : "WA",
+		"Latitude" : "+47.497831"
+	},
+	{
+		"Longitude" : "-120.520211",
+		"Zipcode" : "98807",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "WENATCHEE",
+		"State" : "WA",
+		"Latitude" : "+47.905787"
+	},
+	{
+		"Longitude" : "-120.329107",
+		"Zipcode" : "98811",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHELAN",
+		"City" : "ARDENVOIR",
+		"State" : "WA",
+		"Latitude" : "+47.708473"
+	},
+	{
+		"Longitude" : "-119.829391",
+		"Zipcode" : "98812",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "BREWSTER",
+		"State" : "WA",
+		"Latitude" : "+48.365236"
+	},
+	{
+		"Longitude" : "-119.891998",
+		"Zipcode" : "98813",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "BRIDGEPORT",
+		"State" : "WA",
+		"Latitude" : "+47.735893"
+	},
+	{
+		"Longitude" : "-119.812938",
+		"Zipcode" : "98814",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "CARLTON",
+		"State" : "WA",
+		"Latitude" : "+48.551984"
+	},
+	{
+		"Longitude" : "-120.348064",
+		"Zipcode" : "98815",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "CASHMERE",
+		"State" : "WA",
+		"Latitude" : "+47.632900"
+	},
+	{
+		"Longitude" : "-120.077750",
+		"Zipcode" : "98816",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "CHELAN",
+		"State" : "WA",
+		"Latitude" : "+47.876985"
+	},
+	{
+		"Longitude" : "-119.957918",
+		"Zipcode" : "98817",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHELAN",
+		"City" : "CHELAN FALLS",
+		"State" : "WA",
+		"Latitude" : "+47.841829"
+	},
+	{
+		"Longitude" : "-119.752620",
+		"Zipcode" : "98819",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKANOGAN",
+		"City" : "CONCONULLY",
+		"State" : "WA",
+		"Latitude" : "+48.546905"
+	},
+	{
+		"Longitude" : "-120.595955",
+		"Zipcode" : "98821",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHELAN",
+		"City" : "DRYDEN",
+		"State" : "WA",
+		"Latitude" : "+47.582186"
+	},
+	{
+		"Longitude" : "-120.356279",
+		"Zipcode" : "98822",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "ENTIAT",
+		"State" : "WA",
+		"Latitude" : "+47.774872"
+	},
+	{
+		"Longitude" : "-119.401958",
+		"Zipcode" : "98823",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "EPHRATA",
+		"State" : "WA",
+		"Latitude" : "+47.177565"
+	},
+	{
+		"Longitude" : "-119.860117",
+		"Zipcode" : "98824",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "GEORGE",
+		"State" : "WA",
+		"Latitude" : "+47.079243"
+	},
+	{
+		"Longitude" : "-120.799413",
+		"Zipcode" : "98826",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "LEAVENWORTH",
+		"State" : "WA",
+		"Latitude" : "+47.695101"
+	},
+	{
+		"Longitude" : "-119.721016",
+		"Zipcode" : "98827",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "LOOMIS",
+		"State" : "WA",
+		"Latitude" : "+48.892514"
+	},
+	{
+		"Longitude" : "-120.173347",
+		"Zipcode" : "98828",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "MALAGA",
+		"State" : "WA",
+		"Latitude" : "+47.319535"
+	},
+	{
+		"Longitude" : "-119.752460",
+		"Zipcode" : "98829",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKANOGAN",
+		"City" : "MALOTT",
+		"State" : "WA",
+		"Latitude" : "+48.248002"
+	},
+	{
+		"Longitude" : "-119.525987",
+		"Zipcode" : "98830",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "MANSFIELD",
+		"State" : "WA",
+		"Latitude" : "+47.847735"
+	},
+	{
+		"Longitude" : "-120.080148",
+		"Zipcode" : "98831",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "MANSON",
+		"State" : "WA",
+		"Latitude" : "+47.817133"
+	},
+	{
+		"Longitude" : "-119.063956",
+		"Zipcode" : "98832",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MARLIN",
+		"State" : "WA",
+		"Latitude" : "+47.301392"
+	},
+	{
+		"Longitude" : "-120.457954",
+		"Zipcode" : "98833",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "MAZAMA",
+		"State" : "WA",
+		"Latitude" : "+48.619527"
+	},
+	{
+		"Longitude" : "-120.046348",
+		"Zipcode" : "98834",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "METHOW",
+		"State" : "WA",
+		"Latitude" : "+48.139518"
+	},
+	{
+		"Longitude" : "-120.415773",
+		"Zipcode" : "98836",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHELAN",
+		"City" : "MONITOR",
+		"State" : "WA",
+		"Latitude" : "+47.485197"
+	},
+	{
+		"Longitude" : "-119.298979",
+		"Zipcode" : "98837",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MOSES LAKE",
+		"State" : "WA",
+		"Latitude" : "+47.180684"
+	},
+	{
+		"Longitude" : "-119.956787",
+		"Zipcode" : "98840",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "OKANOGAN",
+		"State" : "WA",
+		"Latitude" : "+48.577378"
+	},
+	{
+		"Longitude" : "-119.560672",
+		"Zipcode" : "98841",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "OMAK",
+		"State" : "WA",
+		"Latitude" : "+48.426942"
+	},
+	{
+		"Longitude" : "-120.045781",
+		"Zipcode" : "98843",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "ORONDO",
+		"State" : "WA",
+		"Latitude" : "+47.730510"
+	},
+	{
+		"Longitude" : "-119.579107",
+		"Zipcode" : "98844",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "OROVILLE",
+		"State" : "WA",
+		"Latitude" : "+48.681342"
+	},
+	{
+		"Longitude" : "-119.903610",
+		"Zipcode" : "98845",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "PALISADES",
+		"State" : "WA",
+		"Latitude" : "+47.393566"
+	},
+	{
+		"Longitude" : "-119.742154",
+		"Zipcode" : "98846",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "PATEROS",
+		"State" : "WA",
+		"Latitude" : "+48.411234"
+	},
+	{
+		"Longitude" : "-120.596146",
+		"Zipcode" : "98847",
+		"ZipClass" : "STANDARD",
+		"County" : "CHELAN",
+		"City" : "PESHASTIN",
+		"State" : "WA",
+		"Latitude" : "+47.545758"
+	},
+	{
+		"Longitude" : "-119.754143",
+		"Zipcode" : "98848",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "QUINCY",
+		"State" : "WA",
+		"Latitude" : "+47.182173"
+	},
+	{
+		"Longitude" : "-119.434674",
+		"Zipcode" : "98849",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "RIVERSIDE",
+		"State" : "WA",
+		"Latitude" : "+48.518361"
+	},
+	{
+		"Longitude" : "-120.103205",
+		"Zipcode" : "98850",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "ROCK ISLAND",
+		"State" : "WA",
+		"Latitude" : "+47.312058"
+	},
+	{
+		"Longitude" : "-119.442377",
+		"Zipcode" : "98851",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "SOAP LAKE",
+		"State" : "WA",
+		"Latitude" : "+47.404594"
+	},
+	{
+		"Longitude" : "-120.520211",
+		"Zipcode" : "98852",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHELAN",
+		"City" : "STEHEKIN",
+		"State" : "WA",
+		"Latitude" : "+47.905787"
+	},
+	{
+		"Longitude" : "-119.312977",
+		"Zipcode" : "98853",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "STRATFORD",
+		"State" : "WA",
+		"Latitude" : "+47.404308"
+	},
+	{
+		"Longitude" : "-119.542935",
+		"Zipcode" : "98855",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "TONASKET",
+		"State" : "WA",
+		"Latitude" : "+48.502603"
+	},
+	{
+		"Longitude" : "-119.811252",
+		"Zipcode" : "98856",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "TWISP",
+		"State" : "WA",
+		"Latitude" : "+48.446836"
+	},
+	{
+		"Longitude" : "-119.087915",
+		"Zipcode" : "98857",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "WARDEN",
+		"State" : "WA",
+		"Latitude" : "+47.013759"
+	},
+	{
+		"Longitude" : "-119.861230",
+		"Zipcode" : "98858",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "WATERVILLE",
+		"State" : "WA",
+		"Latitude" : "+47.701979"
+	},
+	{
+		"Longitude" : "-119.025578",
+		"Zipcode" : "98859",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "WAUCONDA",
+		"State" : "WA",
+		"Latitude" : "+48.798456"
+	},
+	{
+		"Longitude" : "-119.184730",
+		"Zipcode" : "98860",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "WILSON CREEK",
+		"State" : "WA",
+		"Latitude" : "+47.473874"
+	},
+	{
+		"Longitude" : "-120.372447",
+		"Zipcode" : "98862",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "WINTHROP",
+		"State" : "WA",
+		"Latitude" : "+48.500635"
+	},
+	{
+		"Longitude" : "-120.725557",
+		"Zipcode" : "98901",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "YAKIMA",
+		"State" : "WA",
+		"Latitude" : "+46.644476"
+	},
+	{
+		"Longitude" : "-120.297120",
+		"Zipcode" : "98902",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "YAKIMA",
+		"State" : "WA",
+		"Latitude" : "+46.420138"
+	},
+	{
+		"Longitude" : "-120.744393",
+		"Zipcode" : "98903",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "YAKIMA",
+		"State" : "WA",
+		"Latitude" : "+46.544506"
+	},
+	{
+		"Longitude" : "-120.694658",
+		"Zipcode" : "98904",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "YAKIMA",
+		"State" : "WA",
+		"Latitude" : "+46.564510"
+	},
+	{
+		"Longitude" : "-120.573967",
+		"Zipcode" : "98907",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "YAKIMA",
+		"State" : "WA",
+		"Latitude" : "+46.628757"
+	},
+	{
+		"Longitude" : "-120.687412",
+		"Zipcode" : "98908",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "YAKIMA",
+		"State" : "WA",
+		"Latitude" : "+46.527811"
+	},
+	{
+		"Longitude" : "-120.794978",
+		"Zipcode" : "98909",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "YAKIMA",
+		"State" : "WA",
+		"Latitude" : "+46.637538"
+	},
+	{
+		"Longitude" : "-120.694658",
+		"Zipcode" : "98920",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAKIMA",
+		"City" : "BROWNSTOWN",
+		"State" : "WA",
+		"Latitude" : "+46.564510"
+	},
+	{
+		"Longitude" : "-120.315141",
+		"Zipcode" : "98921",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAKIMA",
+		"City" : "BUENA",
+		"State" : "WA",
+		"Latitude" : "+46.421218"
+	},
+	{
+		"Longitude" : "-120.806926",
+		"Zipcode" : "98922",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTITAS",
+		"City" : "CLE ELUM",
+		"State" : "WA",
+		"Latitude" : "+47.156558"
+	},
+	{
+		"Longitude" : "-120.753007",
+		"Zipcode" : "98923",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "COWICHE",
+		"State" : "WA",
+		"Latitude" : "+46.678192"
+	},
+	{
+		"Longitude" : "-121.177187",
+		"Zipcode" : "98925",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITTITAS",
+		"City" : "EASTON",
+		"State" : "WA",
+		"Latitude" : "+47.232953"
+	},
+	{
+		"Longitude" : "-120.489980",
+		"Zipcode" : "98926",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTITAS",
+		"City" : "ELLENSBURG",
+		"State" : "WA",
+		"Latitude" : "+47.028084"
+	},
+	{
+		"Longitude" : "-121.241591",
+		"Zipcode" : "98929",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "GOOSE PRAIRIE",
+		"State" : "WA",
+		"Latitude" : "+46.915735"
+	},
+	{
+		"Longitude" : "-120.312088",
+		"Zipcode" : "98930",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "GRANDVIEW",
+		"State" : "WA",
+		"Latitude" : "+46.455940"
+	},
+	{
+		"Longitude" : "-120.154930",
+		"Zipcode" : "98932",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "GRANGER",
+		"State" : "WA",
+		"Latitude" : "+46.340157"
+	},
+	{
+		"Longitude" : "-120.375459",
+		"Zipcode" : "98933",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "HARRAH",
+		"State" : "WA",
+		"Latitude" : "+46.323528"
+	},
+	{
+		"Longitude" : "-120.416259",
+		"Zipcode" : "98934",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITTITAS",
+		"City" : "KITTITAS",
+		"State" : "WA",
+		"Latitude" : "+46.980645"
+	},
+	{
+		"Longitude" : "-120.050377",
+		"Zipcode" : "98935",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "MABTON",
+		"State" : "WA",
+		"Latitude" : "+46.165237"
+	},
+	{
+		"Longitude" : "-120.233518",
+		"Zipcode" : "98936",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "MOXEE",
+		"State" : "WA",
+		"Latitude" : "+46.410236"
+	},
+	{
+		"Longitude" : "-120.992096",
+		"Zipcode" : "98937",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "NACHES",
+		"State" : "WA",
+		"Latitude" : "+46.805796"
+	},
+	{
+		"Longitude" : "-120.119917",
+		"Zipcode" : "98938",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "OUTLOOK",
+		"State" : "WA",
+		"Latitude" : "+46.366004"
+	},
+	{
+		"Longitude" : "-120.694658",
+		"Zipcode" : "98939",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAKIMA",
+		"City" : "PARKER",
+		"State" : "WA",
+		"Latitude" : "+46.564510"
+	},
+	{
+		"Longitude" : "-121.045575",
+		"Zipcode" : "98940",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITTITAS",
+		"City" : "RONALD",
+		"State" : "WA",
+		"Latitude" : "+47.250307"
+	},
+	{
+		"Longitude" : "-121.002513",
+		"Zipcode" : "98941",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITTITAS",
+		"City" : "ROSLYN",
+		"State" : "WA",
+		"Latitude" : "+47.223287"
+	},
+	{
+		"Longitude" : "-120.396038",
+		"Zipcode" : "98942",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "SELAH",
+		"State" : "WA",
+		"Latitude" : "+46.544316"
+	},
+	{
+		"Longitude" : "-120.953680",
+		"Zipcode" : "98943",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITTITAS",
+		"City" : "SOUTH CLE ELUM",
+		"State" : "WA",
+		"Latitude" : "+47.188645"
+	},
+	{
+		"Longitude" : "-120.010590",
+		"Zipcode" : "98944",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "SUNNYSIDE",
+		"State" : "WA",
+		"Latitude" : "+46.373611"
+	},
+	{
+		"Longitude" : "-120.758301",
+		"Zipcode" : "98946",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTITAS",
+		"City" : "THORP",
+		"State" : "WA",
+		"Latitude" : "+47.073905"
+	},
+	{
+		"Longitude" : "-120.693103",
+		"Zipcode" : "98947",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "TIETON",
+		"State" : "WA",
+		"Latitude" : "+46.740371"
+	},
+	{
+		"Longitude" : "-120.370257",
+		"Zipcode" : "98948",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "TOPPENISH",
+		"State" : "WA",
+		"Latitude" : "+46.328522"
+	},
+	{
+		"Longitude" : "-119.985869",
+		"Zipcode" : "98950",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTITAS",
+		"City" : "VANTAGE",
+		"State" : "WA",
+		"Latitude" : "+46.871354"
+	},
+	{
+		"Longitude" : "-120.508444",
+		"Zipcode" : "98951",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "WAPATO",
+		"State" : "WA",
+		"Latitude" : "+46.522398"
+	},
+	{
+		"Longitude" : "-120.667145",
+		"Zipcode" : "98952",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "WHITE SWAN",
+		"State" : "WA",
+		"Latitude" : "+46.449869"
+	},
+	{
+		"Longitude" : "-120.231713",
+		"Zipcode" : "98953",
+		"ZipClass" : "STANDARD",
+		"County" : "YAKIMA",
+		"City" : "ZILLAH",
+		"State" : "WA",
+		"Latitude" : "+46.419838"
+	},
+	{
+		"Longitude" : "-117.592050",
+		"Zipcode" : "99001",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPOKANE",
+		"City" : "AIRWAY HEIGHTS",
+		"State" : "WA",
+		"Latitude" : "+47.643803"
+	},
+	{
+		"Longitude" : "-117.262989",
+		"Zipcode" : "99003",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "CHATTAROY",
+		"State" : "WA",
+		"Latitude" : "+47.921670"
+	},
+	{
+		"Longitude" : "-117.500285",
+		"Zipcode" : "99004",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "CHENEY",
+		"State" : "WA",
+		"Latitude" : "+47.606700"
+	},
+	{
+		"Longitude" : "-117.337529",
+		"Zipcode" : "99005",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "COLBERT",
+		"State" : "WA",
+		"Latitude" : "+47.852847"
+	},
+	{
+		"Longitude" : "-117.442395",
+		"Zipcode" : "99006",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "DEER PARK",
+		"State" : "WA",
+		"Latitude" : "+47.738740"
+	},
+	{
+		"Longitude" : "-118.399551",
+		"Zipcode" : "99008",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "EDWALL",
+		"State" : "WA",
+		"Latitude" : "+47.608940"
+	},
+	{
+		"Longitude" : "-117.266150",
+		"Zipcode" : "99009",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "ELK",
+		"State" : "WA",
+		"Latitude" : "+47.992362"
+	},
+	{
+		"Longitude" : "-117.654603",
+		"Zipcode" : "99011",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "FAIRCHILD AIR FORCE BASE",
+		"State" : "WA",
+		"Latitude" : "+47.633161"
+	},
+	{
+		"Longitude" : "-117.172530",
+		"Zipcode" : "99012",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "FAIRFIELD",
+		"State" : "WA",
+		"Latitude" : "+47.405253"
+	},
+	{
+		"Longitude" : "-117.797447",
+		"Zipcode" : "99013",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "FORD",
+		"State" : "WA",
+		"Latitude" : "+47.913372"
+	},
+	{
+		"Longitude" : "-117.595751",
+		"Zipcode" : "99014",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPOKANE",
+		"City" : "FOUR LAKES",
+		"State" : "WA",
+		"Latitude" : "+47.559880"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99015",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "FREEMAN",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.138178",
+		"Zipcode" : "99016",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "GREENACRES",
+		"State" : "WA",
+		"Latitude" : "+47.622784"
+	},
+	{
+		"Longitude" : "-117.687163",
+		"Zipcode" : "99017",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "LAMONT",
+		"State" : "WA",
+		"Latitude" : "+46.961780"
+	},
+	{
+		"Longitude" : "-117.139491",
+		"Zipcode" : "99018",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "LATAH",
+		"State" : "WA",
+		"Latitude" : "+47.299889"
+	},
+	{
+		"Longitude" : "-117.085845",
+		"Zipcode" : "99019",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "LIBERTY LAKE",
+		"State" : "WA",
+		"Latitude" : "+47.651635"
+	},
+	{
+		"Longitude" : "-117.592591",
+		"Zipcode" : "99020",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPOKANE",
+		"City" : "MARSHALL",
+		"State" : "WA",
+		"Latitude" : "+47.617665"
+	},
+	{
+		"Longitude" : "-117.240392",
+		"Zipcode" : "99021",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "MEAD",
+		"State" : "WA",
+		"Latitude" : "+47.834074"
+	},
+	{
+		"Longitude" : "-117.703977",
+		"Zipcode" : "99022",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "MEDICAL LAKE",
+		"State" : "WA",
+		"Latitude" : "+47.615007"
+	},
+	{
+		"Longitude" : "-117.183637",
+		"Zipcode" : "99023",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "MICA",
+		"State" : "WA",
+		"Latitude" : "+47.557733"
+	},
+	{
+		"Longitude" : "-117.090112",
+		"Zipcode" : "99025",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "NEWMAN LAKE",
+		"State" : "WA",
+		"Latitude" : "+47.767270"
+	},
+	{
+		"Longitude" : "-117.619375",
+		"Zipcode" : "99026",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "NINE MILE FALLS",
+		"State" : "WA",
+		"Latitude" : "+47.799507"
+	},
+	{
+		"Longitude" : "-117.107735",
+		"Zipcode" : "99027",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "OTIS ORCHARDS",
+		"State" : "WA",
+		"Latitude" : "+47.734728"
+	},
+	{
+		"Longitude" : "-117.755268",
+		"Zipcode" : "99029",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "REARDAN",
+		"State" : "WA",
+		"Latitude" : "+47.701645"
+	},
+	{
+		"Longitude" : "-117.255465",
+		"Zipcode" : "99030",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "ROCKFORD",
+		"State" : "WA",
+		"Latitude" : "+47.672177"
+	},
+	{
+		"Longitude" : "-117.370017",
+		"Zipcode" : "99031",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPANGLE",
+		"State" : "WA",
+		"Latitude" : "+47.438748"
+	},
+	{
+		"Longitude" : "-117.977732",
+		"Zipcode" : "99032",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SPRAGUE",
+		"State" : "WA",
+		"Latitude" : "+47.299844"
+	},
+	{
+		"Longitude" : "-117.096157",
+		"Zipcode" : "99033",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "TEKOA",
+		"State" : "WA",
+		"Latitude" : "+47.226641"
+	},
+	{
+		"Longitude" : "-117.753629",
+		"Zipcode" : "99034",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "TUMTUM",
+		"State" : "WA",
+		"Latitude" : "+47.894108"
+	},
+	{
+		"Longitude" : "-117.270216",
+		"Zipcode" : "99036",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "VALLEYFORD",
+		"State" : "WA",
+		"Latitude" : "+47.520107"
+	},
+	{
+		"Longitude" : "-117.199587",
+		"Zipcode" : "99037",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "VERADALE",
+		"State" : "WA",
+		"Latitude" : "+47.636834"
+	},
+	{
+		"Longitude" : "-117.244981",
+		"Zipcode" : "99039",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPOKANE",
+		"City" : "WAVERLY",
+		"State" : "WA",
+		"Latitude" : "+47.329704"
+	},
+	{
+		"Longitude" : "-117.933742",
+		"Zipcode" : "99040",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "WELLPINIT",
+		"State" : "WA",
+		"Latitude" : "+47.881367"
+	},
+	{
+		"Longitude" : "-117.957926",
+		"Zipcode" : "99101",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "ADDY",
+		"State" : "WA",
+		"Latitude" : "+48.336378"
+	},
+	{
+		"Longitude" : "-117.412136",
+		"Zipcode" : "99102",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITMAN",
+		"City" : "ALBION",
+		"State" : "WA",
+		"Latitude" : "+46.934379"
+	},
+	{
+		"Longitude" : "-118.599193",
+		"Zipcode" : "99103",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ALMIRA",
+		"State" : "WA",
+		"Latitude" : "+47.529705"
+	},
+	{
+		"Longitude" : "-117.176954",
+		"Zipcode" : "99104",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "BELMONT",
+		"State" : "WA",
+		"Latitude" : "+47.079345"
+	},
+	{
+		"Longitude" : "-118.161058",
+		"Zipcode" : "99105",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "BENGE",
+		"State" : "WA",
+		"Latitude" : "+46.859127"
+	},
+	{
+		"Longitude" : "-118.182764",
+		"Zipcode" : "99107",
+		"ZipClass" : "STANDARD",
+		"County" : "FERRY",
+		"City" : "BOYDS",
+		"State" : "WA",
+		"Latitude" : "+48.842690"
+	},
+	{
+		"Longitude" : "-117.739245",
+		"Zipcode" : "99109",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "CHEWELAH",
+		"State" : "WA",
+		"Latitude" : "+48.293181"
+	},
+	{
+		"Longitude" : "-117.557907",
+		"Zipcode" : "99110",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "CLAYTON",
+		"State" : "WA",
+		"Latitude" : "+48.007138"
+	},
+	{
+		"Longitude" : "-117.505163",
+		"Zipcode" : "99111",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "COLFAX",
+		"State" : "WA",
+		"Latitude" : "+46.959127"
+	},
+	{
+		"Longitude" : "-117.206588",
+		"Zipcode" : "99113",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "COLTON",
+		"State" : "WA",
+		"Latitude" : "+46.575075"
+	},
+	{
+		"Longitude" : "-117.809315",
+		"Zipcode" : "99114",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "COLVILLE",
+		"State" : "WA",
+		"Latitude" : "+48.676916"
+	},
+	{
+		"Longitude" : "-119.227032",
+		"Zipcode" : "99115",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "COULEE CITY",
+		"State" : "WA",
+		"Latitude" : "+47.737206"
+	},
+	{
+		"Longitude" : "-118.941876",
+		"Zipcode" : "99116",
+		"ZipClass" : "STANDARD",
+		"County" : "OKANOGAN",
+		"City" : "COULEE DAM",
+		"State" : "WA",
+		"Latitude" : "+48.037889"
+	},
+	{
+		"Longitude" : "-118.450679",
+		"Zipcode" : "99117",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CRESTON",
+		"State" : "WA",
+		"Latitude" : "+47.644181"
+	},
+	{
+		"Longitude" : "-118.669864",
+		"Zipcode" : "99118",
+		"ZipClass" : "STANDARD",
+		"County" : "FERRY",
+		"City" : "CURLEW",
+		"State" : "WA",
+		"Latitude" : "+48.894734"
+	},
+	{
+		"Longitude" : "-117.348383",
+		"Zipcode" : "99119",
+		"ZipClass" : "STANDARD",
+		"County" : "PEND OREILLE",
+		"City" : "CUSICK",
+		"State" : "WA",
+		"Latitude" : "+48.510409"
+	},
+	{
+		"Longitude" : "-118.505768",
+		"Zipcode" : "99121",
+		"ZipClass" : "STANDARD",
+		"County" : "FERRY",
+		"City" : "DANVILLE",
+		"State" : "WA",
+		"Latitude" : "+48.954016"
+	},
+	{
+		"Longitude" : "-118.122173",
+		"Zipcode" : "99122",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "DAVENPORT",
+		"State" : "WA",
+		"Latitude" : "+47.712295"
+	},
+	{
+		"Longitude" : "-119.042562",
+		"Zipcode" : "99123",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "ELECTRIC CITY",
+		"State" : "WA",
+		"Latitude" : "+47.913065"
+	},
+	{
+		"Longitude" : "-118.954893",
+		"Zipcode" : "99124",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKANOGAN",
+		"City" : "ELMER CITY",
+		"State" : "WA",
+		"Latitude" : "+48.015361"
+	},
+	{
+		"Longitude" : "-117.702655",
+		"Zipcode" : "99125",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "ENDICOTT",
+		"State" : "WA",
+		"Latitude" : "+46.911972"
+	},
+	{
+		"Longitude" : "-117.972888",
+		"Zipcode" : "99126",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "EVANS",
+		"State" : "WA",
+		"Latitude" : "+48.740671"
+	},
+	{
+		"Longitude" : "-117.644337",
+		"Zipcode" : "99127",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "SAINT JOHN",
+		"State" : "WA",
+		"Latitude" : "+46.838747"
+	},
+	{
+		"Longitude" : "-117.361435",
+		"Zipcode" : "99128",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "FARMINGTON",
+		"State" : "WA",
+		"Latitude" : "+47.066613"
+	},
+	{
+		"Longitude" : "-118.228564",
+		"Zipcode" : "99129",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "FRUITLAND",
+		"State" : "WA",
+		"Latitude" : "+48.005075"
+	},
+	{
+		"Longitude" : "-117.170603",
+		"Zipcode" : "99130",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "GARFIELD",
+		"State" : "WA",
+		"Latitude" : "+46.929426"
+	},
+	{
+		"Longitude" : "-118.113552",
+		"Zipcode" : "99131",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "GIFFORD",
+		"State" : "WA",
+		"Latitude" : "+48.268511"
+	},
+	{
+		"Longitude" : "-119.042714",
+		"Zipcode" : "99133",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "GRAND COULEE",
+		"State" : "WA",
+		"Latitude" : "+47.822463"
+	},
+	{
+		"Longitude" : "-118.254439",
+		"Zipcode" : "99134",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HARRINGTON",
+		"State" : "WA",
+		"Latitude" : "+47.478233"
+	},
+	{
+		"Longitude" : "-119.084131",
+		"Zipcode" : "99135",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "HARTLINE",
+		"State" : "WA",
+		"Latitude" : "+47.611505"
+	},
+	{
+		"Longitude" : "-117.941665",
+		"Zipcode" : "99136",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "HAY",
+		"State" : "WA",
+		"Latitude" : "+46.697296"
+	},
+	{
+		"Longitude" : "-118.077422",
+		"Zipcode" : "99137",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "HUNTERS",
+		"State" : "WA",
+		"Latitude" : "+48.150398"
+	},
+	{
+		"Longitude" : "-118.305461",
+		"Zipcode" : "99138",
+		"ZipClass" : "STANDARD",
+		"County" : "FERRY",
+		"City" : "INCHELIUM",
+		"State" : "WA",
+		"Latitude" : "+48.268566"
+	},
+	{
+		"Longitude" : "-117.364690",
+		"Zipcode" : "99139",
+		"ZipClass" : "STANDARD",
+		"County" : "PEND OREILLE",
+		"City" : "IONE",
+		"State" : "WA",
+		"Latitude" : "+48.737714"
+	},
+	{
+		"Longitude" : "-118.217849",
+		"Zipcode" : "99140",
+		"ZipClass" : "STANDARD",
+		"County" : "FERRY",
+		"City" : "KELLER",
+		"State" : "WA",
+		"Latitude" : "+48.889691"
+	},
+	{
+		"Longitude" : "-117.966943",
+		"Zipcode" : "99141",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "KETTLE FALLS",
+		"State" : "WA",
+		"Latitude" : "+48.695338"
+	},
+	{
+		"Longitude" : "-117.728679",
+		"Zipcode" : "99143",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "LACROSSE",
+		"State" : "WA",
+		"Latitude" : "+46.759878"
+	},
+	{
+		"Longitude" : "-118.399551",
+		"Zipcode" : "99144",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LAMONA",
+		"State" : "WA",
+		"Latitude" : "+47.608940"
+	},
+	{
+		"Longitude" : "-118.220816",
+		"Zipcode" : "99146",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FERRY",
+		"City" : "LAURIER",
+		"State" : "WA",
+		"Latitude" : "+48.975272"
+	},
+	{
+		"Longitude" : "-118.399551",
+		"Zipcode" : "99147",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LINCOLN",
+		"State" : "WA",
+		"Latitude" : "+47.608940"
+	},
+	{
+		"Longitude" : "-117.627815",
+		"Zipcode" : "99148",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "LOON LAKE",
+		"State" : "WA",
+		"Latitude" : "+48.107165"
+	},
+	{
+		"Longitude" : "-117.476605",
+		"Zipcode" : "99149",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITMAN",
+		"City" : "MALDEN",
+		"State" : "WA",
+		"Latitude" : "+47.010100"
+	},
+	{
+		"Longitude" : "-118.604355",
+		"Zipcode" : "99150",
+		"ZipClass" : "STANDARD",
+		"County" : "FERRY",
+		"City" : "MALO",
+		"State" : "WA",
+		"Latitude" : "+48.810999"
+	},
+	{
+		"Longitude" : "-117.924021",
+		"Zipcode" : "99151",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEVENS",
+		"City" : "MARCUS",
+		"State" : "WA",
+		"Latitude" : "+48.786802"
+	},
+	{
+		"Longitude" : "-117.221440",
+		"Zipcode" : "99152",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PEND OREILLE",
+		"City" : "METALINE",
+		"State" : "WA",
+		"Latitude" : "+48.484729"
+	},
+	{
+		"Longitude" : "-117.339995",
+		"Zipcode" : "99153",
+		"ZipClass" : "STANDARD",
+		"County" : "PEND OREILLE",
+		"City" : "METALINE FALLS",
+		"State" : "WA",
+		"Latitude" : "+48.731121"
+	},
+	{
+		"Longitude" : "-118.399551",
+		"Zipcode" : "99154",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "MOHLER",
+		"State" : "WA",
+		"Latitude" : "+47.608940"
+	},
+	{
+		"Longitude" : "-119.009380",
+		"Zipcode" : "99155",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKANOGAN",
+		"City" : "NESPELEM",
+		"State" : "WA",
+		"Latitude" : "+48.143441"
+	},
+	{
+		"Longitude" : "-117.228067",
+		"Zipcode" : "99156",
+		"ZipClass" : "STANDARD",
+		"County" : "PEND OREILLE",
+		"City" : "NEWPORT",
+		"State" : "WA",
+		"Latitude" : "+48.448981"
+	},
+	{
+		"Longitude" : "-117.851127",
+		"Zipcode" : "99157",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "NORTHPORT",
+		"State" : "WA",
+		"Latitude" : "+48.905142"
+	},
+	{
+		"Longitude" : "-117.411460",
+		"Zipcode" : "99158",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "OAKESDALE",
+		"State" : "WA",
+		"Latitude" : "+47.079658"
+	},
+	{
+		"Longitude" : "-118.658816",
+		"Zipcode" : "99159",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ODESSA",
+		"State" : "WA",
+		"Latitude" : "+47.344402"
+	},
+	{
+		"Longitude" : "-118.210467",
+		"Zipcode" : "99160",
+		"ZipClass" : "STANDARD",
+		"County" : "FERRY",
+		"City" : "ORIENT",
+		"State" : "WA",
+		"Latitude" : "+48.887781"
+	},
+	{
+		"Longitude" : "-117.157476",
+		"Zipcode" : "99161",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "PALOUSE",
+		"State" : "WA",
+		"Latitude" : "+46.770141"
+	},
+	{
+		"Longitude" : "-117.317741",
+		"Zipcode" : "99163",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "PULLMAN",
+		"State" : "WA",
+		"Latitude" : "+46.827480"
+	},
+	{
+		"Longitude" : "-117.644337",
+		"Zipcode" : "99164",
+		"ZipClass" : "UNIQUE",
+		"County" : "WHITMAN",
+		"City" : "PULLMAN",
+		"State" : "WA",
+		"Latitude" : "+46.838747"
+	},
+	{
+		"Longitude" : "-117.644337",
+		"Zipcode" : "99165",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "PULLMAN",
+		"State" : "WA",
+		"Latitude" : "+46.838747"
+	},
+	{
+		"Longitude" : "-118.680631",
+		"Zipcode" : "99166",
+		"ZipClass" : "STANDARD",
+		"County" : "FERRY",
+		"City" : "REPUBLIC",
+		"State" : "WA",
+		"Latitude" : "+48.667659"
+	},
+	{
+		"Longitude" : "-118.100693",
+		"Zipcode" : "99167",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "RICE",
+		"State" : "WA",
+		"Latitude" : "+48.424240"
+	},
+	{
+		"Longitude" : "-118.481300",
+		"Zipcode" : "99169",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "RITZVILLE",
+		"State" : "WA",
+		"Latitude" : "+47.087055"
+	},
+	{
+		"Longitude" : "-117.464600",
+		"Zipcode" : "99170",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "ROSALIA",
+		"State" : "WA",
+		"Latitude" : "+47.034713"
+	},
+	{
+		"Longitude" : "-117.676432",
+		"Zipcode" : "99171",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "SAINT JOHN",
+		"State" : "WA",
+		"Latitude" : "+47.123718"
+	},
+	{
+		"Longitude" : "-117.828964",
+		"Zipcode" : "99173",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "SPRINGDALE",
+		"State" : "WA",
+		"Latitude" : "+48.002188"
+	},
+	{
+		"Longitude" : "-117.644337",
+		"Zipcode" : "99174",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITMAN",
+		"City" : "STEPTOE",
+		"State" : "WA",
+		"Latitude" : "+46.838747"
+	},
+	{
+		"Longitude" : "-117.433708",
+		"Zipcode" : "99176",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "THORNTON",
+		"State" : "WA",
+		"Latitude" : "+47.121960"
+	},
+	{
+		"Longitude" : "-117.107970",
+		"Zipcode" : "99179",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITMAN",
+		"City" : "UNIONTOWN",
+		"State" : "WA",
+		"Latitude" : "+46.545655"
+	},
+	{
+		"Longitude" : "-117.353111",
+		"Zipcode" : "99180",
+		"ZipClass" : "STANDARD",
+		"County" : "PEND OREILLE",
+		"City" : "USK",
+		"State" : "WA",
+		"Latitude" : "+48.250130"
+	},
+	{
+		"Longitude" : "-117.762554",
+		"Zipcode" : "99181",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "VALLEY",
+		"State" : "WA",
+		"Latitude" : "+48.124594"
+	},
+	{
+		"Longitude" : "-118.729143",
+		"Zipcode" : "99185",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WILBUR",
+		"State" : "WA",
+		"Latitude" : "+47.761025"
+	},
+	{
+		"Longitude" : "-117.435997",
+		"Zipcode" : "99201",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.662640"
+	},
+	{
+		"Longitude" : "-117.515897",
+		"Zipcode" : "99202",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.613475"
+	},
+	{
+		"Longitude" : "-117.406269",
+		"Zipcode" : "99203",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.629341"
+	},
+	{
+		"Longitude" : "-117.429846",
+		"Zipcode" : "99204",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.650091"
+	},
+	{
+		"Longitude" : "-117.449950",
+		"Zipcode" : "99205",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.693501"
+	},
+	{
+		"Longitude" : "-117.373399",
+		"Zipcode" : "99206",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.665198"
+	},
+	{
+		"Longitude" : "-117.379096",
+		"Zipcode" : "99207",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.693766"
+	},
+	{
+		"Longitude" : "-117.455375",
+		"Zipcode" : "99208",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.780541"
+	},
+	{
+		"Longitude" : "-117.793734",
+		"Zipcode" : "99209",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.646148"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99210",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99211",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.310991",
+		"Zipcode" : "99212",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.670693"
+	},
+	{
+		"Longitude" : "-117.282483",
+		"Zipcode" : "99213",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.656726"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99214",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99215",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.199260",
+		"Zipcode" : "99216",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.671164"
+	},
+	{
+		"Longitude" : "-117.255690",
+		"Zipcode" : "99217",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.737957"
+	},
+	{
+		"Longitude" : "-117.407552",
+		"Zipcode" : "99218",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.757540"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99219",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99220",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.342120",
+		"Zipcode" : "99223",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.592452"
+	},
+	{
+		"Longitude" : "-117.551291",
+		"Zipcode" : "99224",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.628858"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99228",
+		"ZipClass" : "STANDARD",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99251",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99252",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99256",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99258",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99260",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-117.431742",
+		"Zipcode" : "99299",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPOKANE",
+		"City" : "SPOKANE",
+		"State" : "WA",
+		"Latitude" : "+47.653568"
+	},
+	{
+		"Longitude" : "-118.899447",
+		"Zipcode" : "99301",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "PASCO",
+		"State" : "WA",
+		"Latitude" : "+46.420660"
+	},
+	{
+		"Longitude" : "-119.094271",
+		"Zipcode" : "99302",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "PASCO",
+		"State" : "WA",
+		"Latitude" : "+46.234957"
+	},
+	{
+		"Longitude" : "-119.483517",
+		"Zipcode" : "99320",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "BENTON CITY",
+		"State" : "WA",
+		"Latitude" : "+46.242040"
+	},
+	{
+		"Longitude" : "-119.935689",
+		"Zipcode" : "99321",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BEVERLY",
+		"State" : "WA",
+		"Latitude" : "+46.844992"
+	},
+	{
+		"Longitude" : "-120.281675",
+		"Zipcode" : "99322",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "BICKLETON",
+		"State" : "WA",
+		"Latitude" : "+45.887647"
+	},
+	{
+		"Longitude" : "-118.901678",
+		"Zipcode" : "99323",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLA WALLA",
+		"City" : "BURBANK",
+		"State" : "WA",
+		"Latitude" : "+46.196597"
+	},
+	{
+		"Longitude" : "-118.409275",
+		"Zipcode" : "99324",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLA WALLA",
+		"City" : "COLLEGE PLACE",
+		"State" : "WA",
+		"Latitude" : "+46.047069"
+	},
+	{
+		"Longitude" : "-118.897786",
+		"Zipcode" : "99326",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CONNELL",
+		"State" : "WA",
+		"Latitude" : "+46.590118"
+	},
+	{
+		"Longitude" : "-118.829153",
+		"Zipcode" : "99327",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "CUNNINGHAM",
+		"State" : "WA",
+		"Latitude" : "+46.828931"
+	},
+	{
+		"Longitude" : "-117.949530",
+		"Zipcode" : "99328",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "DAYTON",
+		"State" : "WA",
+		"Latitude" : "+46.392683"
+	},
+	{
+		"Longitude" : "-118.153064",
+		"Zipcode" : "99329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALLA WALLA",
+		"City" : "DIXIE",
+		"State" : "WA",
+		"Latitude" : "+46.140821"
+	},
+	{
+		"Longitude" : "-118.992619",
+		"Zipcode" : "99330",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ELTOPIA",
+		"State" : "WA",
+		"Latitude" : "+46.508917"
+	},
+	{
+		"Longitude" : "-118.800049",
+		"Zipcode" : "99332",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "HATTON",
+		"State" : "WA",
+		"Latitude" : "+46.770620"
+	},
+	{
+		"Longitude" : "-117.644337",
+		"Zipcode" : "99333",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITMAN",
+		"City" : "HOOPER",
+		"State" : "WA",
+		"Latitude" : "+46.838747"
+	},
+	{
+		"Longitude" : "-118.533740",
+		"Zipcode" : "99335",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "KAHLOTUS",
+		"State" : "WA",
+		"Latitude" : "+46.677852"
+	},
+	{
+		"Longitude" : "-119.155671",
+		"Zipcode" : "99336",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "KENNEWICK",
+		"State" : "WA",
+		"Latitude" : "+46.212306"
+	},
+	{
+		"Longitude" : "-119.090676",
+		"Zipcode" : "99337",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "KENNEWICK",
+		"State" : "WA",
+		"Latitude" : "+46.117122"
+	},
+	{
+		"Longitude" : "-119.263991",
+		"Zipcode" : "99338",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "KENNEWICK",
+		"State" : "WA",
+		"Latitude" : "+46.155994"
+	},
+	{
+		"Longitude" : "-118.690546",
+		"Zipcode" : "99341",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "LIND",
+		"State" : "WA",
+		"Latitude" : "+46.904229"
+	},
+	{
+		"Longitude" : "-119.162115",
+		"Zipcode" : "99343",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "MESA",
+		"State" : "WA",
+		"Latitude" : "+46.577941"
+	},
+	{
+		"Longitude" : "-118.993182",
+		"Zipcode" : "99344",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "OTHELLO",
+		"State" : "WA",
+		"Latitude" : "+46.852708"
+	},
+	{
+		"Longitude" : "-119.857639",
+		"Zipcode" : "99345",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENTON",
+		"City" : "PATERSON",
+		"State" : "WA",
+		"Latitude" : "+45.859058"
+	},
+	{
+		"Longitude" : "-119.402276",
+		"Zipcode" : "99346",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENTON",
+		"City" : "PLYMOUTH",
+		"State" : "WA",
+		"Latitude" : "+45.930067"
+	},
+	{
+		"Longitude" : "-117.537763",
+		"Zipcode" : "99347",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "POMEROY",
+		"State" : "WA",
+		"Latitude" : "+46.475341"
+	},
+	{
+		"Longitude" : "-118.455541",
+		"Zipcode" : "99348",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLA WALLA",
+		"City" : "PRESCOTT",
+		"State" : "WA",
+		"Latitude" : "+46.354972"
+	},
+	{
+		"Longitude" : "-119.778257",
+		"Zipcode" : "99349",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MATTAWA",
+		"State" : "WA",
+		"Latitude" : "+46.730957"
+	},
+	{
+		"Longitude" : "-119.559674",
+		"Zipcode" : "99350",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "PROSSER",
+		"State" : "WA",
+		"Latitude" : "+46.148328"
+	},
+	{
+		"Longitude" : "-119.491659",
+		"Zipcode" : "99352",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "RICHLAND",
+		"State" : "WA",
+		"Latitude" : "+46.282031"
+	},
+	{
+		"Longitude" : "-119.371393",
+		"Zipcode" : "99353",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "WEST RICHLAND",
+		"State" : "WA",
+		"Latitude" : "+46.315267"
+	},
+	{
+		"Longitude" : "-120.354257",
+		"Zipcode" : "99356",
+		"ZipClass" : "STANDARD",
+		"County" : "KLICKITAT",
+		"City" : "ROOSEVELT",
+		"State" : "WA",
+		"Latitude" : "+45.851428"
+	},
+	{
+		"Longitude" : "-119.686316",
+		"Zipcode" : "99357",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "ROYAL CITY",
+		"State" : "WA",
+		"Latitude" : "+46.897589"
+	},
+	{
+		"Longitude" : "-118.102370",
+		"Zipcode" : "99359",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLUMBIA",
+		"City" : "STARBUCK",
+		"State" : "WA",
+		"Latitude" : "+46.512828"
+	},
+	{
+		"Longitude" : "-118.461436",
+		"Zipcode" : "99360",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLA WALLA",
+		"City" : "TOUCHET",
+		"State" : "WA",
+		"Latitude" : "+46.134445"
+	},
+	{
+		"Longitude" : "-118.139822",
+		"Zipcode" : "99361",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLA WALLA",
+		"City" : "WAITSBURG",
+		"State" : "WA",
+		"Latitude" : "+46.159844"
+	},
+	{
+		"Longitude" : "-118.291407",
+		"Zipcode" : "99362",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLA WALLA",
+		"City" : "WALLA WALLA",
+		"State" : "WA",
+		"Latitude" : "+46.134100"
+	},
+	{
+		"Longitude" : "-118.906079",
+		"Zipcode" : "99363",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALLA WALLA",
+		"City" : "WALLULA",
+		"State" : "WA",
+		"Latitude" : "+46.084584"
+	},
+	{
+		"Longitude" : "-118.338081",
+		"Zipcode" : "99371",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "WASHTUCNA",
+		"State" : "WA",
+		"Latitude" : "+46.815306"
+	},
+	{
+		"Longitude" : "-117.178580",
+		"Zipcode" : "99401",
+		"ZipClass" : "STANDARD",
+		"County" : "ASOTIN",
+		"City" : "ANATONE",
+		"State" : "WA",
+		"Latitude" : "+46.121593"
+	},
+	{
+		"Longitude" : "-117.118489",
+		"Zipcode" : "99402",
+		"ZipClass" : "STANDARD",
+		"County" : "ASOTIN",
+		"City" : "ASOTIN",
+		"State" : "WA",
+		"Latitude" : "+46.174099"
+	},
+	{
+		"Longitude" : "-117.225934",
+		"Zipcode" : "99403",
+		"ZipClass" : "STANDARD",
+		"County" : "ASOTIN",
+		"City" : "CLARKSTON",
+		"State" : "WA",
+		"Latitude" : "+46.369711"
+	}
+]}

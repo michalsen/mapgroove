@@ -1,0 +1,6636 @@
+{
+	"result":[
+	{
+		"Longitude" : "-074.275240",
+		"Zipcode" : "07001",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "AVENEL",
+		"State" : "NJ",
+		"Latitude" : "+40.582845"
+	},
+	{
+		"Longitude" : "-074.109486",
+		"Zipcode" : "07002",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "BAYONNE",
+		"State" : "NJ",
+		"Latitude" : "+40.670858"
+	},
+	{
+		"Longitude" : "-074.187005",
+		"Zipcode" : "07003",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "BLOOMFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.808549"
+	},
+	{
+		"Longitude" : "-074.296810",
+		"Zipcode" : "07004",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "FAIRFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.875948"
+	},
+	{
+		"Longitude" : "-074.430696",
+		"Zipcode" : "07005",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "BOONTON",
+		"State" : "NJ",
+		"Latitude" : "+40.918648"
+	},
+	{
+		"Longitude" : "-074.278892",
+		"Zipcode" : "07006",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "CALDWELL",
+		"State" : "NJ",
+		"Latitude" : "+40.854548"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07007",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "CALDWELL",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.234839",
+		"Zipcode" : "07008",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CARTERET",
+		"State" : "NJ",
+		"Latitude" : "+40.583203"
+	},
+	{
+		"Longitude" : "-074.227109",
+		"Zipcode" : "07009",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "CEDAR GROVE",
+		"State" : "NJ",
+		"Latitude" : "+40.857049"
+	},
+	{
+		"Longitude" : "-073.987820",
+		"Zipcode" : "07010",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "CLIFFSIDE PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.820541"
+	},
+	{
+		"Longitude" : "-074.141237",
+		"Zipcode" : "07011",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "CLIFTON",
+		"State" : "NJ",
+		"Latitude" : "+40.877949"
+	},
+	{
+		"Longitude" : "-074.160538",
+		"Zipcode" : "07012",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "CLIFTON",
+		"State" : "NJ",
+		"Latitude" : "+40.847699"
+	},
+	{
+		"Longitude" : "-074.170138",
+		"Zipcode" : "07013",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "CLIFTON",
+		"State" : "NJ",
+		"Latitude" : "+40.872898"
+	},
+	{
+		"Longitude" : "-074.136937",
+		"Zipcode" : "07014",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "CLIFTON",
+		"State" : "NJ",
+		"Latitude" : "+40.832449"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07015",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "CLIFTON",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.304792",
+		"Zipcode" : "07016",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "CRANFORD",
+		"State" : "NJ",
+		"Latitude" : "+40.654802"
+	},
+	{
+		"Longitude" : "-074.207039",
+		"Zipcode" : "07017",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "EAST ORANGE",
+		"State" : "NJ",
+		"Latitude" : "+40.771850"
+	},
+	{
+		"Longitude" : "-074.216839",
+		"Zipcode" : "07018",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "EAST ORANGE",
+		"State" : "NJ",
+		"Latitude" : "+40.756600"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07019",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "EAST ORANGE",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-073.978082",
+		"Zipcode" : "07020",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "EDGEWATER",
+		"State" : "NJ",
+		"Latitude" : "+40.826550"
+	},
+	{
+		"Longitude" : "-074.276591",
+		"Zipcode" : "07021",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ESSEX FELLS",
+		"State" : "NJ",
+		"Latitude" : "+40.826158"
+	},
+	{
+		"Longitude" : "-074.000883",
+		"Zipcode" : "07022",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "FAIRVIEW",
+		"State" : "NJ",
+		"Latitude" : "+40.817537"
+	},
+	{
+		"Longitude" : "-074.387044",
+		"Zipcode" : "07023",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "FANWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.641902"
+	},
+	{
+		"Longitude" : "-073.974032",
+		"Zipcode" : "07024",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "FORT LEE",
+		"State" : "NJ",
+		"Latitude" : "+40.848745"
+	},
+	{
+		"Longitude" : "-074.110336",
+		"Zipcode" : "07026",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "GARFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.884648"
+	},
+	{
+		"Longitude" : "-074.322892",
+		"Zipcode" : "07027",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "GARWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.651242"
+	},
+	{
+		"Longitude" : "-074.205039",
+		"Zipcode" : "07028",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "GLEN RIDGE",
+		"State" : "NJ",
+		"Latitude" : "+40.807499"
+	},
+	{
+		"Longitude" : "-074.150787",
+		"Zipcode" : "07029",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "HARRISON",
+		"State" : "NJ",
+		"Latitude" : "+40.744501"
+	},
+	{
+		"Longitude" : "-074.033934",
+		"Zipcode" : "07030",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "HOBOKEN",
+		"State" : "NJ",
+		"Latitude" : "+40.746851"
+	},
+	{
+		"Longitude" : "-074.127316",
+		"Zipcode" : "07031",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "NORTH ARLINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.787112"
+	},
+	{
+		"Longitude" : "-074.122937",
+		"Zipcode" : "07032",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "KEARNY",
+		"State" : "NJ",
+		"Latitude" : "+40.751750"
+	},
+	{
+		"Longitude" : "-074.291191",
+		"Zipcode" : "07033",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "KENILWORTH",
+		"State" : "NJ",
+		"Latitude" : "+40.677601"
+	},
+	{
+		"Longitude" : "-074.379745",
+		"Zipcode" : "07034",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "LAKE HIAWATHA",
+		"State" : "NJ",
+		"Latitude" : "+40.880649"
+	},
+	{
+		"Longitude" : "-074.303093",
+		"Zipcode" : "07035",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "LINCOLN PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.926637"
+	},
+	{
+		"Longitude" : "-074.250939",
+		"Zipcode" : "07036",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "LINDEN",
+		"State" : "NJ",
+		"Latitude" : "+40.626953"
+	},
+	{
+		"Longitude" : "-074.325993",
+		"Zipcode" : "07039",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LIVINGSTON",
+		"State" : "NJ",
+		"Latitude" : "+40.787006"
+	},
+	{
+		"Longitude" : "-074.266541",
+		"Zipcode" : "07040",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "MAPLEWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.729100"
+	},
+	{
+		"Longitude" : "-074.301692",
+		"Zipcode" : "07041",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "MILLBURN",
+		"State" : "NJ",
+		"Latitude" : "+40.733650"
+	},
+	{
+		"Longitude" : "-074.216389",
+		"Zipcode" : "07042",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "MONTCLAIR",
+		"State" : "NJ",
+		"Latitude" : "+40.811908"
+	},
+	{
+		"Longitude" : "-074.194480",
+		"Zipcode" : "07043",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "MONTCLAIR",
+		"State" : "NJ",
+		"Latitude" : "+40.803400"
+	},
+	{
+		"Longitude" : "-074.243895",
+		"Zipcode" : "07044",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "VERONA",
+		"State" : "NJ",
+		"Latitude" : "+40.832849"
+	},
+	{
+		"Longitude" : "-074.363231",
+		"Zipcode" : "07045",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MONTVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.906311"
+	},
+	{
+		"Longitude" : "-074.440898",
+		"Zipcode" : "07046",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MOUNTAIN LAKES",
+		"State" : "NJ",
+		"Latitude" : "+40.890502"
+	},
+	{
+		"Longitude" : "-074.023234",
+		"Zipcode" : "07047",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "NORTH BERGEN",
+		"State" : "NJ",
+		"Latitude" : "+40.789724"
+	},
+	{
+		"Longitude" : "-074.236740",
+		"Zipcode" : "07050",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ORANGE",
+		"State" : "NJ",
+		"Latitude" : "+40.770400"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07051",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ORANGE",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.227190",
+		"Zipcode" : "07052",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "WEST ORANGE",
+		"State" : "NJ",
+		"Latitude" : "+40.789944"
+	},
+	{
+		"Longitude" : "-074.407706",
+		"Zipcode" : "07054",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "PARSIPPANY",
+		"State" : "NJ",
+		"Latitude" : "+40.852118"
+	},
+	{
+		"Longitude" : "-074.126916",
+		"Zipcode" : "07055",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PASSAIC",
+		"State" : "NJ",
+		"Latitude" : "+40.855103"
+	},
+	{
+		"Longitude" : "-074.107325",
+		"Zipcode" : "07057",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "WALLINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.852799"
+	},
+	{
+		"Longitude" : "-074.340144",
+		"Zipcode" : "07058",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "PINE BROOK",
+		"State" : "NJ",
+		"Latitude" : "+40.871014"
+	},
+	{
+		"Longitude" : "-074.532449",
+		"Zipcode" : "07059",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "WARREN",
+		"State" : "NJ",
+		"Latitude" : "+40.629101"
+	},
+	{
+		"Longitude" : "-074.414995",
+		"Zipcode" : "07060",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "PLAINFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.615202"
+	},
+	{
+		"Longitude" : "-074.299692",
+		"Zipcode" : "07061",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "PLAINFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.665651"
+	},
+	{
+		"Longitude" : "-074.399736",
+		"Zipcode" : "07062",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "PLAINFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.632252"
+	},
+	{
+		"Longitude" : "-074.442746",
+		"Zipcode" : "07063",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "PLAINFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.604752"
+	},
+	{
+		"Longitude" : "-074.249739",
+		"Zipcode" : "07064",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PORT READING",
+		"State" : "NJ",
+		"Latitude" : "+40.570254"
+	},
+	{
+		"Longitude" : "-074.280641",
+		"Zipcode" : "07065",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "RAHWAY",
+		"State" : "NJ",
+		"Latitude" : "+40.609553"
+	},
+	{
+		"Longitude" : "-074.311092",
+		"Zipcode" : "07066",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "CLARK",
+		"State" : "NJ",
+		"Latitude" : "+40.622502"
+	},
+	{
+		"Longitude" : "-074.314688",
+		"Zipcode" : "07067",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "COLONIA",
+		"State" : "NJ",
+		"Latitude" : "+40.590853"
+	},
+	{
+		"Longitude" : "-074.306093",
+		"Zipcode" : "07068",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ROSELAND",
+		"State" : "NJ",
+		"Latitude" : "+40.820499"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "07069",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "WATCHUNG",
+		"State" : "NJ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-074.109786",
+		"Zipcode" : "07070",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "RUTHERFORD",
+		"State" : "NJ",
+		"Latitude" : "+40.827449"
+	},
+	{
+		"Longitude" : "-074.116517",
+		"Zipcode" : "07071",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "LYNDHURST",
+		"State" : "NJ",
+		"Latitude" : "+40.799549"
+	},
+	{
+		"Longitude" : "-074.076055",
+		"Zipcode" : "07072",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "CARLSTADT",
+		"State" : "NJ",
+		"Latitude" : "+40.828399"
+	},
+	{
+		"Longitude" : "-074.093886",
+		"Zipcode" : "07073",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "EAST RUTHERFORD",
+		"State" : "NJ",
+		"Latitude" : "+40.828399"
+	},
+	{
+		"Longitude" : "-074.060184",
+		"Zipcode" : "07074",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "MOONACHIE",
+		"State" : "NJ",
+		"Latitude" : "+40.839299"
+	},
+	{
+		"Longitude" : "-074.089585",
+		"Zipcode" : "07075",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "WOOD RIDGE",
+		"State" : "NJ",
+		"Latitude" : "+40.848599"
+	},
+	{
+		"Longitude" : "-074.368244",
+		"Zipcode" : "07076",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SCOTCH PLAINS",
+		"State" : "NJ",
+		"Latitude" : "+40.637852"
+	},
+	{
+		"Longitude" : "-074.259139",
+		"Zipcode" : "07077",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SEWAREN",
+		"State" : "NJ",
+		"Latitude" : "+40.551804"
+	},
+	{
+		"Longitude" : "-074.334443",
+		"Zipcode" : "07078",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "SHORT HILLS",
+		"State" : "NJ",
+		"Latitude" : "+40.740550"
+	},
+	{
+		"Longitude" : "-074.267541",
+		"Zipcode" : "07079",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "SOUTH ORANGE",
+		"State" : "NJ",
+		"Latitude" : "+40.745772"
+	},
+	{
+		"Longitude" : "-074.413545",
+		"Zipcode" : "07080",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SOUTH PLAINFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.572065"
+	},
+	{
+		"Longitude" : "-074.316301",
+		"Zipcode" : "07081",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SPRINGFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.701101"
+	},
+	{
+		"Longitude" : "-074.347695",
+		"Zipcode" : "07082",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "TOWACO",
+		"State" : "NJ",
+		"Latitude" : "+40.927690"
+	},
+	{
+		"Longitude" : "-074.269841",
+		"Zipcode" : "07083",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "UNION",
+		"State" : "NJ",
+		"Latitude" : "+40.692651"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "07086",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "WEEHAWKEN",
+		"State" : "NJ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-074.056335",
+		"Zipcode" : "07087",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "UNION CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.758951"
+	},
+	{
+		"Longitude" : "-074.284341",
+		"Zipcode" : "07088",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "VAUXHALL",
+		"State" : "NJ",
+		"Latitude" : "+40.717890"
+	},
+	{
+		"Longitude" : "-074.346764",
+		"Zipcode" : "07090",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "WESTFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.652851"
+	},
+	{
+		"Longitude" : "-074.299692",
+		"Zipcode" : "07091",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "WESTFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.665651"
+	},
+	{
+		"Longitude" : "-074.358394",
+		"Zipcode" : "07092",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "MOUNTAINSIDE",
+		"State" : "NJ",
+		"Latitude" : "+40.680701"
+	},
+	{
+		"Longitude" : "-074.011533",
+		"Zipcode" : "07093",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "WEST NEW YORK",
+		"State" : "NJ",
+		"Latitude" : "+40.788800"
+	},
+	{
+		"Longitude" : "-074.056035",
+		"Zipcode" : "07094",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "SECAUCUS",
+		"State" : "NJ",
+		"Latitude" : "+40.788850"
+	},
+	{
+		"Longitude" : "-074.288023",
+		"Zipcode" : "07095",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WOODBRIDGE",
+		"State" : "NJ",
+		"Latitude" : "+40.553254"
+	},
+	{
+		"Longitude" : "-074.075485",
+		"Zipcode" : "07096",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "SECAUCUS",
+		"State" : "NJ",
+		"Latitude" : "+40.732760"
+	},
+	{
+		"Longitude" : "-074.075485",
+		"Zipcode" : "07097",
+		"ZipClass" : "UNIQUE",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.732760"
+	},
+	{
+		"Longitude" : "-074.075485",
+		"Zipcode" : "07099",
+		"ZipClass" : "UNIQUE",
+		"County" : "HUDSON",
+		"City" : "KEARNY",
+		"State" : "NJ",
+		"Latitude" : "+40.732760"
+	},
+	{
+		"Longitude" : "-074.225090",
+		"Zipcode" : "07101",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.736101"
+	},
+	{
+		"Longitude" : "-074.173988",
+		"Zipcode" : "07102",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.735642"
+	},
+	{
+		"Longitude" : "-074.194839",
+		"Zipcode" : "07103",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.738901"
+	},
+	{
+		"Longitude" : "-074.151788",
+		"Zipcode" : "07104",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.764350"
+	},
+	{
+		"Longitude" : "-074.147337",
+		"Zipcode" : "07105",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.723606"
+	},
+	{
+		"Longitude" : "-074.231140",
+		"Zipcode" : "07106",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.742450"
+	},
+	{
+		"Longitude" : "-074.188029",
+		"Zipcode" : "07107",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.764600"
+	},
+	{
+		"Longitude" : "-074.200649",
+		"Zipcode" : "07108",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.722496"
+	},
+	{
+		"Longitude" : "-074.167488",
+		"Zipcode" : "07109",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "BELLEVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.782100"
+	},
+	{
+		"Longitude" : "-074.159449",
+		"Zipcode" : "07110",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NUTLEY",
+		"State" : "NJ",
+		"Latitude" : "+40.821299"
+	},
+	{
+		"Longitude" : "-074.232940",
+		"Zipcode" : "07111",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "IRVINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.726231"
+	},
+	{
+		"Longitude" : "-074.211265",
+		"Zipcode" : "07112",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.711151"
+	},
+	{
+		"Longitude" : "-074.169538",
+		"Zipcode" : "07114",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.705401"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07175",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07182",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07184",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07188",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07189",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07191",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07192",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07193",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07194",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07195",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07197",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07198",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.245241",
+		"Zipcode" : "07199",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "NEWARK",
+		"State" : "NJ",
+		"Latitude" : "+40.791850"
+	},
+	{
+		"Longitude" : "-074.183438",
+		"Zipcode" : "07201",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ELIZABETH",
+		"State" : "NJ",
+		"Latitude" : "+40.672052"
+	},
+	{
+		"Longitude" : "-074.217189",
+		"Zipcode" : "07202",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ELIZABETH",
+		"State" : "NJ",
+		"Latitude" : "+40.650902"
+	},
+	{
+		"Longitude" : "-074.258790",
+		"Zipcode" : "07203",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ROSELLE",
+		"State" : "NJ",
+		"Latitude" : "+40.650152"
+	},
+	{
+		"Longitude" : "-074.266740",
+		"Zipcode" : "07204",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ROSELLE PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.665652"
+	},
+	{
+		"Longitude" : "-074.229889",
+		"Zipcode" : "07205",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "HILLSIDE",
+		"State" : "NJ",
+		"Latitude" : "+40.693823"
+	},
+	{
+		"Longitude" : "-074.191814",
+		"Zipcode" : "07206",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ELIZABETH",
+		"State" : "NJ",
+		"Latitude" : "+40.652152"
+	},
+	{
+		"Longitude" : "-074.299692",
+		"Zipcode" : "07207",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ELIZABETH",
+		"State" : "NJ",
+		"Latitude" : "+40.665651"
+	},
+	{
+		"Longitude" : "-074.229289",
+		"Zipcode" : "07208",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ELIZABETH",
+		"State" : "NJ",
+		"Latitude" : "+40.677102"
+	},
+	{
+		"Longitude" : "-074.047304",
+		"Zipcode" : "07302",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.726001"
+	},
+	{
+		"Longitude" : "-074.075485",
+		"Zipcode" : "07303",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.732760"
+	},
+	{
+		"Longitude" : "-074.065535",
+		"Zipcode" : "07304",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.716101"
+	},
+	{
+		"Longitude" : "-074.081135",
+		"Zipcode" : "07305",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.696661"
+	},
+	{
+		"Longitude" : "-074.068685",
+		"Zipcode" : "07306",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.734951"
+	},
+	{
+		"Longitude" : "-074.054285",
+		"Zipcode" : "07307",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.749801"
+	},
+	{
+		"Longitude" : "-074.075485",
+		"Zipcode" : "07308",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.732760"
+	},
+	{
+		"Longitude" : "-074.075485",
+		"Zipcode" : "07309",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.732760"
+	},
+	{
+		"Longitude" : "-074.037168",
+		"Zipcode" : "07310",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.732728"
+	},
+	{
+		"Longitude" : "-074.075391",
+		"Zipcode" : "07311",
+		"ZipClass" : "STANDARD",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.732350"
+	},
+	{
+		"Longitude" : "-074.075391",
+		"Zipcode" : "07399",
+		"ZipClass" : "UNIQUE",
+		"County" : "HUDSON",
+		"City" : "JERSEY CITY",
+		"State" : "NJ",
+		"Latitude" : "+40.732350"
+	},
+	{
+		"Longitude" : "-074.062774",
+		"Zipcode" : "07401",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "ALLENDALE",
+		"State" : "NJ",
+		"Latitude" : "+41.017446"
+	},
+	{
+		"Longitude" : "-074.334444",
+		"Zipcode" : "07403",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "BLOOMINGDALE",
+		"State" : "NJ",
+		"Latitude" : "+41.023414"
+	},
+	{
+		"Longitude" : "-074.426148",
+		"Zipcode" : "07405",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "BUTLER",
+		"State" : "NJ",
+		"Latitude" : "+40.998797"
+	},
+	{
+		"Longitude" : "-074.117736",
+		"Zipcode" : "07407",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "ELMWOOD PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.905848"
+	},
+	{
+		"Longitude" : "-074.119236",
+		"Zipcode" : "07410",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "FAIR LAWN",
+		"State" : "NJ",
+		"Latitude" : "+40.935348"
+	},
+	{
+		"Longitude" : "-074.593439",
+		"Zipcode" : "07416",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "FRANKLIN",
+		"State" : "NJ",
+		"Latitude" : "+41.115723"
+	},
+	{
+		"Longitude" : "-074.208310",
+		"Zipcode" : "07417",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "FRANKLIN LAKES",
+		"State" : "NJ",
+		"Latitude" : "+41.010464"
+	},
+	{
+		"Longitude" : "-074.477351",
+		"Zipcode" : "07418",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "GLENWOOD",
+		"State" : "NJ",
+		"Latitude" : "+41.228102"
+	},
+	{
+		"Longitude" : "-074.576880",
+		"Zipcode" : "07419",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "HAMBURG",
+		"State" : "NJ",
+		"Latitude" : "+41.159187"
+	},
+	{
+		"Longitude" : "-074.304516",
+		"Zipcode" : "07420",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "HASKELL",
+		"State" : "NJ",
+		"Latitude" : "+41.028396"
+	},
+	{
+		"Longitude" : "-074.357893",
+		"Zipcode" : "07421",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "HEWITT",
+		"State" : "NJ",
+		"Latitude" : "+41.151395"
+	},
+	{
+		"Longitude" : "-074.458935",
+		"Zipcode" : "07422",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "HIGHLAND LAKES",
+		"State" : "NJ",
+		"Latitude" : "+41.187468"
+	},
+	{
+		"Longitude" : "-074.096848",
+		"Zipcode" : "07423",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "HO HO KUS",
+		"State" : "NJ",
+		"Latitude" : "+40.998882"
+	},
+	{
+		"Longitude" : "-074.214388",
+		"Zipcode" : "07424",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "LITTLE FALLS",
+		"State" : "NJ",
+		"Latitude" : "+40.883548"
+	},
+	{
+		"Longitude" : "-074.538144",
+		"Zipcode" : "07428",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUSSEX",
+		"City" : "MC AFEE",
+		"State" : "NJ",
+		"Latitude" : "+41.206509"
+	},
+	{
+		"Longitude" : "-074.172766",
+		"Zipcode" : "07430",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "MAHWAH",
+		"State" : "NJ",
+		"Latitude" : "+41.053446"
+	},
+	{
+		"Longitude" : "-074.142287",
+		"Zipcode" : "07432",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "MIDLAND PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.994697"
+	},
+	{
+		"Longitude" : "-074.439356",
+		"Zipcode" : "07435",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "NEWFOUNDLAND",
+		"State" : "NJ",
+		"Latitude" : "+41.053096"
+	},
+	{
+		"Longitude" : "-074.238623",
+		"Zipcode" : "07436",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "OAKLAND",
+		"State" : "NJ",
+		"Latitude" : "+41.023402"
+	},
+	{
+		"Longitude" : "-074.443399",
+		"Zipcode" : "07438",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "OAK RIDGE",
+		"State" : "NJ",
+		"Latitude" : "+41.099796"
+	},
+	{
+		"Longitude" : "-074.594104",
+		"Zipcode" : "07439",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "OGDENSBURG",
+		"State" : "NJ",
+		"Latitude" : "+41.078346"
+	},
+	{
+		"Longitude" : "-074.295592",
+		"Zipcode" : "07440",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "PEQUANNOCK",
+		"State" : "NJ",
+		"Latitude" : "+40.948208"
+	},
+	{
+		"Longitude" : "-074.297725",
+		"Zipcode" : "07442",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "POMPTON LAKES",
+		"State" : "NJ",
+		"Latitude" : "+40.999597"
+	},
+	{
+		"Longitude" : "-074.402663",
+		"Zipcode" : "07444",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "POMPTON PLAINS",
+		"State" : "NJ",
+		"Latitude" : "+41.008797"
+	},
+	{
+		"Longitude" : "-074.133441",
+		"Zipcode" : "07446",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "RAMSEY",
+		"State" : "NJ",
+		"Latitude" : "+41.059124"
+	},
+	{
+		"Longitude" : "-074.112070",
+		"Zipcode" : "07450",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "RIDGEWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.982247"
+	},
+	{
+		"Longitude" : "-074.083231",
+		"Zipcode" : "07451",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "RIDGEWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.948054"
+	},
+	{
+		"Longitude" : "-074.125036",
+		"Zipcode" : "07452",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "GLEN ROCK",
+		"State" : "NJ",
+		"Latitude" : "+40.960347"
+	},
+	{
+		"Longitude" : "-074.293271",
+		"Zipcode" : "07456",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "RINGWOOD",
+		"State" : "NJ",
+		"Latitude" : "+41.110445"
+	},
+	{
+		"Longitude" : "-074.312443",
+		"Zipcode" : "07457",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "RIVERDALE",
+		"State" : "NJ",
+		"Latitude" : "+40.992647"
+	},
+	{
+		"Longitude" : "-074.098093",
+		"Zipcode" : "07458",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "SADDLE RIVER",
+		"State" : "NJ",
+		"Latitude" : "+41.044324"
+	},
+	{
+		"Longitude" : "-074.561915",
+		"Zipcode" : "07460",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "STOCKHOLM",
+		"State" : "NJ",
+		"Latitude" : "+41.138101"
+	},
+	{
+		"Longitude" : "-074.596734",
+		"Zipcode" : "07461",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "SUSSEX",
+		"State" : "NJ",
+		"Latitude" : "+41.242702"
+	},
+	{
+		"Longitude" : "-074.514340",
+		"Zipcode" : "07462",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "VERNON",
+		"State" : "NJ",
+		"Latitude" : "+41.189046"
+	},
+	{
+		"Longitude" : "-074.128326",
+		"Zipcode" : "07463",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "WALDWICK",
+		"State" : "NJ",
+		"Latitude" : "+41.041225"
+	},
+	{
+		"Longitude" : "-074.297393",
+		"Zipcode" : "07465",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "WANAQUE",
+		"State" : "NJ",
+		"Latitude" : "+41.065596"
+	},
+	{
+		"Longitude" : "-074.241168",
+		"Zipcode" : "07470",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "WAYNE",
+		"State" : "NJ",
+		"Latitude" : "+40.948689"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07474",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "WAYNE",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07477",
+		"ZipClass" : "UNIQUE",
+		"County" : "PASSAIC",
+		"City" : "WAYNE",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.294243",
+		"Zipcode" : "07480",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "WEST MILFORD",
+		"State" : "NJ",
+		"Latitude" : "+41.047296"
+	},
+	{
+		"Longitude" : "-074.165733",
+		"Zipcode" : "07481",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "WYCKOFF",
+		"State" : "NJ",
+		"Latitude" : "+40.998387"
+	},
+	{
+		"Longitude" : "-074.083231",
+		"Zipcode" : "07495",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "MAHWAH",
+		"State" : "NJ",
+		"Latitude" : "+40.948054"
+	},
+	{
+		"Longitude" : "-074.083231",
+		"Zipcode" : "07498",
+		"ZipClass" : "UNIQUE",
+		"County" : "BERGEN",
+		"City" : "MAHWAH",
+		"State" : "NJ",
+		"Latitude" : "+40.948054"
+	},
+	{
+		"Longitude" : "-074.174488",
+		"Zipcode" : "07501",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.915045"
+	},
+	{
+		"Longitude" : "-074.194989",
+		"Zipcode" : "07502",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.918698"
+	},
+	{
+		"Longitude" : "-074.151837",
+		"Zipcode" : "07503",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.898098"
+	},
+	{
+		"Longitude" : "-074.144087",
+		"Zipcode" : "07504",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.911248"
+	},
+	{
+		"Longitude" : "-074.174038",
+		"Zipcode" : "07505",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.916648"
+	},
+	{
+		"Longitude" : "-074.161788",
+		"Zipcode" : "07506",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "HAWTHORNE",
+		"State" : "NJ",
+		"Latitude" : "+40.954375"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07507",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "HAWTHORNE",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.186269",
+		"Zipcode" : "07508",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "HALEDON",
+		"State" : "NJ",
+		"Latitude" : "+40.951587"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07509",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07510",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07511",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "TOTOWA",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.221990",
+		"Zipcode" : "07512",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "TOTOWA",
+		"State" : "NJ",
+		"Latitude" : "+40.901698"
+	},
+	{
+		"Longitude" : "-074.146515",
+		"Zipcode" : "07513",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.907698"
+	},
+	{
+		"Longitude" : "-074.143187",
+		"Zipcode" : "07514",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.928748"
+	},
+	{
+		"Longitude" : "-074.179488",
+		"Zipcode" : "07522",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.923798"
+	},
+	{
+		"Longitude" : "-074.156971",
+		"Zipcode" : "07524",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.932498"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07533",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07538",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "HALEDON",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07543",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.304793",
+		"Zipcode" : "07544",
+		"ZipClass" : "STANDARD",
+		"County" : "PASSAIC",
+		"City" : "PATERSON",
+		"State" : "NJ",
+		"Latitude" : "+41.011428"
+	},
+	{
+		"Longitude" : "-074.001623",
+		"Zipcode" : "07601",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "HACKENSACK",
+		"State" : "NJ",
+		"Latitude" : "+40.913482"
+	},
+	{
+		"Longitude" : "-074.083231",
+		"Zipcode" : "07602",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "HACKENSACK",
+		"State" : "NJ",
+		"Latitude" : "+40.948054"
+	},
+	{
+		"Longitude" : "-074.030484",
+		"Zipcode" : "07603",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "BOGOTA",
+		"State" : "NJ",
+		"Latitude" : "+40.874773"
+	},
+	{
+		"Longitude" : "-074.075585",
+		"Zipcode" : "07604",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "HASBROUCK HEIGHTS",
+		"State" : "NJ",
+		"Latitude" : "+40.862349"
+	},
+	{
+		"Longitude" : "-073.987132",
+		"Zipcode" : "07605",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "LEONIA",
+		"State" : "NJ",
+		"Latitude" : "+40.863499"
+	},
+	{
+		"Longitude" : "-074.048884",
+		"Zipcode" : "07606",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "SOUTH HACKENSACK",
+		"State" : "NJ",
+		"Latitude" : "+40.857899"
+	},
+	{
+		"Longitude" : "-074.061784",
+		"Zipcode" : "07607",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "MAYWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.901810"
+	},
+	{
+		"Longitude" : "-074.055584",
+		"Zipcode" : "07608",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "TETERBORO",
+		"State" : "NJ",
+		"Latitude" : "+40.863954"
+	},
+	{
+		"Longitude" : "-073.927906",
+		"Zipcode" : "07620",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERGEN",
+		"City" : "ALPINE",
+		"State" : "NJ",
+		"Latitude" : "+40.958975"
+	},
+	{
+		"Longitude" : "-073.998332",
+		"Zipcode" : "07621",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "BERGENFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.923498"
+	},
+	{
+		"Longitude" : "-073.960164",
+		"Zipcode" : "07624",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "CLOSTER",
+		"State" : "NJ",
+		"Latitude" : "+40.970621"
+	},
+	{
+		"Longitude" : "-074.098841",
+		"Zipcode" : "07626",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "CRESSKILL",
+		"State" : "NJ",
+		"Latitude" : "+40.972898"
+	},
+	{
+		"Longitude" : "-073.957623",
+		"Zipcode" : "07627",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "DEMAREST",
+		"State" : "NJ",
+		"Latitude" : "+40.954198"
+	},
+	{
+		"Longitude" : "-073.989911",
+		"Zipcode" : "07628",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "DUMONT",
+		"State" : "NJ",
+		"Latitude" : "+40.955018"
+	},
+	{
+		"Longitude" : "-074.021118",
+		"Zipcode" : "07630",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "EMERSON",
+		"State" : "NJ",
+		"Latitude" : "+40.973199"
+	},
+	{
+		"Longitude" : "-073.971782",
+		"Zipcode" : "07631",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "ENGLEWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.889498"
+	},
+	{
+		"Longitude" : "-073.952423",
+		"Zipcode" : "07632",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "ENGLEWOOD CLIFFS",
+		"State" : "NJ",
+		"Latitude" : "+40.883949"
+	},
+	{
+		"Longitude" : "-073.984860",
+		"Zipcode" : "07640",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "HARRINGTON PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.991696"
+	},
+	{
+		"Longitude" : "-073.993580",
+		"Zipcode" : "07641",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "HAWORTH",
+		"State" : "NJ",
+		"Latitude" : "+40.963867"
+	},
+	{
+		"Longitude" : "-074.048576",
+		"Zipcode" : "07642",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "HILLSDALE",
+		"State" : "NJ",
+		"Latitude" : "+41.008367"
+	},
+	{
+		"Longitude" : "-074.076029",
+		"Zipcode" : "07643",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "LITTLE FERRY",
+		"State" : "NJ",
+		"Latitude" : "+40.925361"
+	},
+	{
+		"Longitude" : "-074.081335",
+		"Zipcode" : "07644",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "LODI",
+		"State" : "NJ",
+		"Latitude" : "+40.878349"
+	},
+	{
+		"Longitude" : "-074.045425",
+		"Zipcode" : "07645",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "MONTVALE",
+		"State" : "NJ",
+		"Latitude" : "+41.054651"
+	},
+	{
+		"Longitude" : "-074.017633",
+		"Zipcode" : "07646",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "NEW MILFORD",
+		"State" : "NJ",
+		"Latitude" : "+40.932998"
+	},
+	{
+		"Longitude" : "-073.938930",
+		"Zipcode" : "07647",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "NORTHVALE",
+		"State" : "NJ",
+		"Latitude" : "+41.008636"
+	},
+	{
+		"Longitude" : "-073.949747",
+		"Zipcode" : "07648",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "NORWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.992921"
+	},
+	{
+		"Longitude" : "-074.026983",
+		"Zipcode" : "07649",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "ORADELL",
+		"State" : "NJ",
+		"Latitude" : "+40.955347"
+	},
+	{
+		"Longitude" : "-074.010792",
+		"Zipcode" : "07650",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "PALISADES PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.939673"
+	},
+	{
+		"Longitude" : "-074.068964",
+		"Zipcode" : "07652",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "PARAMUS",
+		"State" : "NJ",
+		"Latitude" : "+40.944997"
+	},
+	{
+		"Longitude" : "-074.083231",
+		"Zipcode" : "07653",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "PARAMUS",
+		"State" : "NJ",
+		"Latitude" : "+40.948054"
+	},
+	{
+		"Longitude" : "-074.042948",
+		"Zipcode" : "07656",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "PARK RIDGE",
+		"State" : "NJ",
+		"Latitude" : "+41.032868"
+	},
+	{
+		"Longitude" : "-074.004233",
+		"Zipcode" : "07657",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "RIDGEFIELD",
+		"State" : "NJ",
+		"Latitude" : "+40.833150"
+	},
+	{
+		"Longitude" : "-074.021233",
+		"Zipcode" : "07660",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "RIDGEFIELD PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.853449"
+	},
+	{
+		"Longitude" : "-074.038533",
+		"Zipcode" : "07661",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "RIVER EDGE",
+		"State" : "NJ",
+		"Latitude" : "+40.926248"
+	},
+	{
+		"Longitude" : "-074.079035",
+		"Zipcode" : "07662",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "ROCHELLE PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.905698"
+	},
+	{
+		"Longitude" : "-074.094685",
+		"Zipcode" : "07663",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "SADDLE BROOK",
+		"State" : "NJ",
+		"Latitude" : "+40.942101"
+	},
+	{
+		"Longitude" : "-073.986334",
+		"Zipcode" : "07666",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "TEANECK",
+		"State" : "NJ",
+		"Latitude" : "+40.914616"
+	},
+	{
+		"Longitude" : "-073.960481",
+		"Zipcode" : "07670",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "TENAFLY",
+		"State" : "NJ",
+		"Latitude" : "+40.919298"
+	},
+	{
+		"Longitude" : "-074.021278",
+		"Zipcode" : "07675",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "WESTWOOD",
+		"State" : "NJ",
+		"Latitude" : "+41.011453"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "07676",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "TOWNSHIP OF WASHINGTON",
+		"State" : "NJ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "07677",
+		"ZipClass" : "STANDARD",
+		"County" : "BERGEN",
+		"City" : "WOODCLIFF LAKE",
+		"State" : "NJ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-074.068143",
+		"Zipcode" : "07701",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "RED BANK",
+		"State" : "NJ",
+		"Latitude" : "+40.358409"
+	},
+	{
+		"Longitude" : "-074.107943",
+		"Zipcode" : "07702",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "SHREWSBURY",
+		"State" : "NJ",
+		"Latitude" : "+40.325361"
+	},
+	{
+		"Longitude" : "-074.041654",
+		"Zipcode" : "07703",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "FORT MONMOUTH",
+		"State" : "NJ",
+		"Latitude" : "+40.314531"
+	},
+	{
+		"Longitude" : "-074.036433",
+		"Zipcode" : "07704",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "FAIR HAVEN",
+		"State" : "NJ",
+		"Latitude" : "+40.358459"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "07709",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONMOUTH",
+		"City" : "ALLENHURST",
+		"State" : "NJ",
+		"Latitude" : "+40.302718"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "07710",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONMOUTH",
+		"City" : "ADELPHIA",
+		"State" : "NJ",
+		"Latitude" : "+40.302718"
+	},
+	{
+		"Longitude" : "-074.008581",
+		"Zipcode" : "07711",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "ALLENHURST",
+		"State" : "NJ",
+		"Latitude" : "+40.237111"
+	},
+	{
+		"Longitude" : "-074.048582",
+		"Zipcode" : "07712",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "ASBURY PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.250725"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "07715",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONMOUTH",
+		"City" : "BELMAR",
+		"State" : "NJ",
+		"Latitude" : "+40.302718"
+	},
+	{
+		"Longitude" : "-074.056170",
+		"Zipcode" : "07716",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "ATLANTIC HIGHLANDS",
+		"State" : "NJ",
+		"Latitude" : "+40.404762"
+	},
+	{
+		"Longitude" : "-074.015931",
+		"Zipcode" : "07717",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "AVON BY THE SEA",
+		"State" : "NJ",
+		"Latitude" : "+40.191913"
+	},
+	{
+		"Longitude" : "-074.088534",
+		"Zipcode" : "07718",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "BELFORD",
+		"State" : "NJ",
+		"Latitude" : "+40.417707"
+	},
+	{
+		"Longitude" : "-074.112134",
+		"Zipcode" : "07719",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "BELMAR",
+		"State" : "NJ",
+		"Latitude" : "+40.257461"
+	},
+	{
+		"Longitude" : "-074.012581",
+		"Zipcode" : "07720",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "BRADLEY BEACH",
+		"State" : "NJ",
+		"Latitude" : "+40.202113"
+	},
+	{
+		"Longitude" : "-074.115229",
+		"Zipcode" : "07721",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "CLIFFWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.386330"
+	},
+	{
+		"Longitude" : "-074.160911",
+		"Zipcode" : "07722",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "COLTS NECK",
+		"State" : "NJ",
+		"Latitude" : "+40.302848"
+	},
+	{
+		"Longitude" : "-074.004581",
+		"Zipcode" : "07723",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "DEAL",
+		"State" : "NJ",
+		"Latitude" : "+40.250861"
+	},
+	{
+		"Longitude" : "-074.073433",
+		"Zipcode" : "07724",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "EATONTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.304660"
+	},
+	{
+		"Longitude" : "-074.265539",
+		"Zipcode" : "07726",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "ENGLISHTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.269700"
+	},
+	{
+		"Longitude" : "-074.161571",
+		"Zipcode" : "07727",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "FARMINGDALE",
+		"State" : "NJ",
+		"Latitude" : "+40.285211"
+	},
+	{
+		"Longitude" : "-074.306284",
+		"Zipcode" : "07728",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "FREEHOLD",
+		"State" : "NJ",
+		"Latitude" : "+40.236423"
+	},
+	{
+		"Longitude" : "-074.176036",
+		"Zipcode" : "07730",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "HAZLET",
+		"State" : "NJ",
+		"Latitude" : "+40.423057"
+	},
+	{
+		"Longitude" : "-074.196780",
+		"Zipcode" : "07731",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "HOWELL",
+		"State" : "NJ",
+		"Latitude" : "+40.258361"
+	},
+	{
+		"Longitude" : "-074.000582",
+		"Zipcode" : "07732",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "HIGHLANDS",
+		"State" : "NJ",
+		"Latitude" : "+40.401078"
+	},
+	{
+		"Longitude" : "-074.170037",
+		"Zipcode" : "07733",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "HOLMDEL",
+		"State" : "NJ",
+		"Latitude" : "+40.376408"
+	},
+	{
+		"Longitude" : "-074.127883",
+		"Zipcode" : "07734",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "KEANSBURG",
+		"State" : "NJ",
+		"Latitude" : "+40.438145"
+	},
+	{
+		"Longitude" : "-074.188087",
+		"Zipcode" : "07735",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "KEYPORT",
+		"State" : "NJ",
+		"Latitude" : "+40.438398"
+	},
+	{
+		"Longitude" : "-074.059884",
+		"Zipcode" : "07737",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "LEONARDO",
+		"State" : "NJ",
+		"Latitude" : "+40.409391"
+	},
+	{
+		"Longitude" : "-074.125401",
+		"Zipcode" : "07738",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "LINCROFT",
+		"State" : "NJ",
+		"Latitude" : "+40.346629"
+	},
+	{
+		"Longitude" : "-074.168941",
+		"Zipcode" : "07739",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "LITTLE SILVER",
+		"State" : "NJ",
+		"Latitude" : "+40.382028"
+	},
+	{
+		"Longitude" : "-074.110900",
+		"Zipcode" : "07740",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "LONG BRANCH",
+		"State" : "NJ",
+		"Latitude" : "+40.345361"
+	},
+	{
+		"Longitude" : "-074.141236",
+		"Zipcode" : "07746",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "MARLBORO",
+		"State" : "NJ",
+		"Latitude" : "+40.351277"
+	},
+	{
+		"Longitude" : "-074.233788",
+		"Zipcode" : "07747",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "MATAWAN",
+		"State" : "NJ",
+		"Latitude" : "+40.407507"
+	},
+	{
+		"Longitude" : "-074.144636",
+		"Zipcode" : "07748",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "MIDDLETOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.400997"
+	},
+	{
+		"Longitude" : "-074.194702",
+		"Zipcode" : "07750",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "MONMOUTH BEACH",
+		"State" : "NJ",
+		"Latitude" : "+40.277757"
+	},
+	{
+		"Longitude" : "-074.214488",
+		"Zipcode" : "07751",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "MORGANVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.319979"
+	},
+	{
+		"Longitude" : "-074.027285",
+		"Zipcode" : "07752",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONMOUTH",
+		"City" : "NAVESINK",
+		"State" : "NJ",
+		"Latitude" : "+40.402277"
+	},
+	{
+		"Longitude" : "-074.071351",
+		"Zipcode" : "07753",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "NEPTUNE",
+		"State" : "NJ",
+		"Latitude" : "+40.209551"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "07754",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "NEPTUNE",
+		"State" : "NJ",
+		"Latitude" : "+40.302718"
+	},
+	{
+		"Longitude" : "-074.021382",
+		"Zipcode" : "07755",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "OAKHURST",
+		"State" : "NJ",
+		"Latitude" : "+40.261158"
+	},
+	{
+		"Longitude" : "-074.123285",
+		"Zipcode" : "07756",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "OCEAN GROVE",
+		"State" : "NJ",
+		"Latitude" : "+40.278922"
+	},
+	{
+		"Longitude" : "-074.019032",
+		"Zipcode" : "07757",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "OCEANPORT",
+		"State" : "NJ",
+		"Latitude" : "+40.314960"
+	},
+	{
+		"Longitude" : "-074.106535",
+		"Zipcode" : "07758",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "PORT MONMOUTH",
+		"State" : "NJ",
+		"Latitude" : "+40.429731"
+	},
+	{
+		"Longitude" : "-074.008432",
+		"Zipcode" : "07760",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "RUMSON",
+		"State" : "NJ",
+		"Latitude" : "+40.370684"
+	},
+	{
+		"Longitude" : "-074.031331",
+		"Zipcode" : "07762",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "SPRING LAKE",
+		"State" : "NJ",
+		"Latitude" : "+40.176013"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "07763",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONMOUTH",
+		"City" : "TENNENT",
+		"State" : "NJ",
+		"Latitude" : "+40.302718"
+	},
+	{
+		"Longitude" : "-074.018282",
+		"Zipcode" : "07764",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "WEST LONG BRANCH",
+		"State" : "NJ",
+		"Latitude" : "+40.283511"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "07765",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONMOUTH",
+		"City" : "WICKATUNK",
+		"State" : "NJ",
+		"Latitude" : "+40.302718"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "07777",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONMOUTH",
+		"City" : "HOLMDEL",
+		"State" : "NJ",
+		"Latitude" : "+40.302718"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "07799",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "EATONTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.302718"
+	},
+	{
+		"Longitude" : "-074.546651",
+		"Zipcode" : "07801",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "DOVER",
+		"State" : "NJ",
+		"Latitude" : "+40.917598"
+	},
+	{
+		"Longitude" : "-074.578269",
+		"Zipcode" : "07802",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "DOVER",
+		"State" : "NJ",
+		"Latitude" : "+40.867331"
+	},
+	{
+		"Longitude" : "-074.584453",
+		"Zipcode" : "07803",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MINE HILL",
+		"State" : "NJ",
+		"Latitude" : "+40.877099"
+	},
+	{
+		"Longitude" : "-074.578269",
+		"Zipcode" : "07806",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "PICATINNY ARSENAL",
+		"State" : "NJ",
+		"Latitude" : "+40.867331"
+	},
+	{
+		"Longitude" : "-074.849661",
+		"Zipcode" : "07820",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "ALLAMUCHY",
+		"State" : "NJ",
+		"Latitude" : "+40.869648"
+	},
+	{
+		"Longitude" : "-074.718969",
+		"Zipcode" : "07821",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "ANDOVER",
+		"State" : "NJ",
+		"Latitude" : "+41.092778"
+	},
+	{
+		"Longitude" : "-074.617400",
+		"Zipcode" : "07822",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "AUGUSTA",
+		"State" : "NJ",
+		"Latitude" : "+41.161241"
+	},
+	{
+		"Longitude" : "-075.030961",
+		"Zipcode" : "07823",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "BELVIDERE",
+		"State" : "NJ",
+		"Latitude" : "+40.819772"
+	},
+	{
+		"Longitude" : "-074.937487",
+		"Zipcode" : "07825",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "BLAIRSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.942238"
+	},
+	{
+		"Longitude" : "-074.824675",
+		"Zipcode" : "07826",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "BRANCHVILLE",
+		"State" : "NJ",
+		"Latitude" : "+41.188035"
+	},
+	{
+		"Longitude" : "-074.644746",
+		"Zipcode" : "07827",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "MONTAGUE",
+		"State" : "NJ",
+		"Latitude" : "+41.255279"
+	},
+	{
+		"Longitude" : "-074.757560",
+		"Zipcode" : "07828",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "BUDD LAKE",
+		"State" : "NJ",
+		"Latitude" : "+40.880028"
+	},
+	{
+		"Longitude" : "-074.985914",
+		"Zipcode" : "07829",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "BUTTZVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.843350"
+	},
+	{
+		"Longitude" : "-074.813951",
+		"Zipcode" : "07830",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "CALIFON",
+		"State" : "NJ",
+		"Latitude" : "+40.717424"
+	},
+	{
+		"Longitude" : "-074.944756",
+		"Zipcode" : "07831",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "CHANGEWATER",
+		"State" : "NJ",
+		"Latitude" : "+40.739382"
+	},
+	{
+		"Longitude" : "-075.029163",
+		"Zipcode" : "07832",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "COLUMBIA",
+		"State" : "NJ",
+		"Latitude" : "+40.893979"
+	},
+	{
+		"Longitude" : "-075.075377",
+		"Zipcode" : "07833",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "DELAWARE",
+		"State" : "NJ",
+		"Latitude" : "+40.906906"
+	},
+	{
+		"Longitude" : "-074.489349",
+		"Zipcode" : "07834",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "DENVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.881248"
+	},
+	{
+		"Longitude" : "-074.701558",
+		"Zipcode" : "07836",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "FLANDERS",
+		"State" : "NJ",
+		"Latitude" : "+40.850884"
+	},
+	{
+		"Longitude" : "-074.678956",
+		"Zipcode" : "07837",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUSSEX",
+		"City" : "GLASSER",
+		"State" : "NJ",
+		"Latitude" : "+41.128310"
+	},
+	{
+		"Longitude" : "-074.937714",
+		"Zipcode" : "07838",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "GREAT MEADOWS",
+		"State" : "NJ",
+		"Latitude" : "+40.888834"
+	},
+	{
+		"Longitude" : "-074.678956",
+		"Zipcode" : "07839",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUSSEX",
+		"City" : "GREENDELL",
+		"State" : "NJ",
+		"Latitude" : "+41.128310"
+	},
+	{
+		"Longitude" : "-074.844734",
+		"Zipcode" : "07840",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "HACKETTSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.868804"
+	},
+	{
+		"Longitude" : "-074.578269",
+		"Zipcode" : "07842",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORRIS",
+		"City" : "HIBERNIA",
+		"State" : "NJ",
+		"Latitude" : "+40.867331"
+	},
+	{
+		"Longitude" : "-074.659969",
+		"Zipcode" : "07843",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "HOPATCONG",
+		"State" : "NJ",
+		"Latitude" : "+40.936753"
+	},
+	{
+		"Longitude" : "-074.984628",
+		"Zipcode" : "07844",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "HOPE",
+		"State" : "NJ",
+		"Latitude" : "+40.919658"
+	},
+	{
+		"Longitude" : "-074.578269",
+		"Zipcode" : "07845",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORRIS",
+		"City" : "IRONIA",
+		"State" : "NJ",
+		"Latitude" : "+40.867331"
+	},
+	{
+		"Longitude" : "-074.873265",
+		"Zipcode" : "07846",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "JOHNSONBURG",
+		"State" : "NJ",
+		"Latitude" : "+40.968998"
+	},
+	{
+		"Longitude" : "-074.695309",
+		"Zipcode" : "07847",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "KENVIL",
+		"State" : "NJ",
+		"Latitude" : "+40.876098"
+	},
+	{
+		"Longitude" : "-074.731759",
+		"Zipcode" : "07848",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "LAFAYETTE",
+		"State" : "NJ",
+		"Latitude" : "+41.128183"
+	},
+	{
+		"Longitude" : "-074.612904",
+		"Zipcode" : "07849",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "LAKE HOPATCONG",
+		"State" : "NJ",
+		"Latitude" : "+40.950597"
+	},
+	{
+		"Longitude" : "-074.664605",
+		"Zipcode" : "07850",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "LANDING",
+		"State" : "NJ",
+		"Latitude" : "+40.906298"
+	},
+	{
+		"Longitude" : "-074.893060",
+		"Zipcode" : "07851",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "LAYTON",
+		"State" : "NJ",
+		"Latitude" : "+41.178266"
+	},
+	{
+		"Longitude" : "-074.721224",
+		"Zipcode" : "07852",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "LEDGEWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.863318"
+	},
+	{
+		"Longitude" : "-074.794595",
+		"Zipcode" : "07853",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "LONG VALLEY",
+		"State" : "NJ",
+		"Latitude" : "+40.806849"
+	},
+	{
+		"Longitude" : "-074.678956",
+		"Zipcode" : "07855",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUSSEX",
+		"City" : "MIDDLEVILLE",
+		"State" : "NJ",
+		"Latitude" : "+41.128310"
+	},
+	{
+		"Longitude" : "-074.734330",
+		"Zipcode" : "07856",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MOUNT ARLINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.874049"
+	},
+	{
+		"Longitude" : "-074.700159",
+		"Zipcode" : "07857",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "NETCONG",
+		"State" : "NJ",
+		"Latitude" : "+40.897808"
+	},
+	{
+		"Longitude" : "-074.806938",
+		"Zipcode" : "07860",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "NEWTON",
+		"State" : "NJ",
+		"Latitude" : "+41.069522"
+	},
+	{
+		"Longitude" : "-074.941392",
+		"Zipcode" : "07863",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "OXFORD",
+		"State" : "NJ",
+		"Latitude" : "+40.820044"
+	},
+	{
+		"Longitude" : "-074.874270",
+		"Zipcode" : "07865",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "PORT MURRAY",
+		"State" : "NJ",
+		"Latitude" : "+40.810748"
+	},
+	{
+		"Longitude" : "-074.501551",
+		"Zipcode" : "07866",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "ROCKAWAY",
+		"State" : "NJ",
+		"Latitude" : "+40.960111"
+	},
+	{
+		"Longitude" : "-074.586052",
+		"Zipcode" : "07869",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "RANDOLPH",
+		"State" : "NJ",
+		"Latitude" : "+40.837399"
+	},
+	{
+		"Longitude" : "-074.819318",
+		"Zipcode" : "07870",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORRIS",
+		"City" : "SCHOOLEYS MOUNTAIN",
+		"State" : "NJ",
+		"Latitude" : "+40.810362"
+	},
+	{
+		"Longitude" : "-074.718191",
+		"Zipcode" : "07871",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "SPARTA",
+		"State" : "NJ",
+		"Latitude" : "+41.040597"
+	},
+	{
+		"Longitude" : "-074.713557",
+		"Zipcode" : "07874",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "STANHOPE",
+		"State" : "NJ",
+		"Latitude" : "+40.930937"
+	},
+	{
+		"Longitude" : "-074.871981",
+		"Zipcode" : "07875",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUSSEX",
+		"City" : "STILLWATER",
+		"State" : "NJ",
+		"Latitude" : "+41.043858"
+	},
+	{
+		"Longitude" : "-074.655255",
+		"Zipcode" : "07876",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "SUCCASUNNA",
+		"State" : "NJ",
+		"Latitude" : "+40.855286"
+	},
+	{
+		"Longitude" : "-074.850759",
+		"Zipcode" : "07877",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUSSEX",
+		"City" : "SWARTSWOOD",
+		"State" : "NJ",
+		"Latitude" : "+41.102890"
+	},
+	{
+		"Longitude" : "-074.477699",
+		"Zipcode" : "07878",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORRIS",
+		"City" : "MOUNT TABOR",
+		"State" : "NJ",
+		"Latitude" : "+40.871099"
+	},
+	{
+		"Longitude" : "-074.788108",
+		"Zipcode" : "07879",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUSSEX",
+		"City" : "TRANQUILITY",
+		"State" : "NJ",
+		"Latitude" : "+40.955934"
+	},
+	{
+		"Longitude" : "-074.897002",
+		"Zipcode" : "07880",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "VIENNA",
+		"State" : "NJ",
+		"Latitude" : "+40.864844"
+	},
+	{
+		"Longitude" : "-074.917711",
+		"Zipcode" : "07881",
+		"ZipClass" : "STANDARD",
+		"County" : "SUSSEX",
+		"City" : "WALLPACK CENTER",
+		"State" : "NJ",
+		"Latitude" : "+41.125646"
+	},
+	{
+		"Longitude" : "-075.008713",
+		"Zipcode" : "07882",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "WASHINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.747698"
+	},
+	{
+		"Longitude" : "-074.577102",
+		"Zipcode" : "07885",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "WHARTON",
+		"State" : "NJ",
+		"Latitude" : "+40.935349"
+	},
+	{
+		"Longitude" : "-074.678956",
+		"Zipcode" : "07890",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUSSEX",
+		"City" : "BRANCHVILLE",
+		"State" : "NJ",
+		"Latitude" : "+41.128310"
+	},
+	{
+		"Longitude" : "-074.361594",
+		"Zipcode" : "07901",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SUMMIT",
+		"State" : "NJ",
+		"Latitude" : "+40.712750"
+	},
+	{
+		"Longitude" : "-074.299692",
+		"Zipcode" : "07902",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SUMMIT",
+		"State" : "NJ",
+		"Latitude" : "+40.665651"
+	},
+	{
+		"Longitude" : "-074.573001",
+		"Zipcode" : "07920",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "BASKING RIDGE",
+		"State" : "NJ",
+		"Latitude" : "+40.682651"
+	},
+	{
+		"Longitude" : "-074.676788",
+		"Zipcode" : "07921",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "BEDMINSTER",
+		"State" : "NJ",
+		"Latitude" : "+40.659151"
+	},
+	{
+		"Longitude" : "-074.422196",
+		"Zipcode" : "07922",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "BERKELEY HEIGHTS",
+		"State" : "NJ",
+		"Latitude" : "+40.675451"
+	},
+	{
+		"Longitude" : "-074.593552",
+		"Zipcode" : "07924",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "BERNARDSVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.725750"
+	},
+	{
+		"Longitude" : "-074.571785",
+		"Zipcode" : "07926",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORRIS",
+		"City" : "BROOKSIDE",
+		"State" : "NJ",
+		"Latitude" : "+40.800353"
+	},
+	{
+		"Longitude" : "-074.456198",
+		"Zipcode" : "07927",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "CEDAR KNOLLS",
+		"State" : "NJ",
+		"Latitude" : "+40.820799"
+	},
+	{
+		"Longitude" : "-074.496806",
+		"Zipcode" : "07928",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "CHATHAM",
+		"State" : "NJ",
+		"Latitude" : "+40.759477"
+	},
+	{
+		"Longitude" : "-074.683861",
+		"Zipcode" : "07930",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "CHESTER",
+		"State" : "NJ",
+		"Latitude" : "+40.782111"
+	},
+	{
+		"Longitude" : "-074.653603",
+		"Zipcode" : "07931",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "FAR HILLS",
+		"State" : "NJ",
+		"Latitude" : "+40.699572"
+	},
+	{
+		"Longitude" : "-074.397996",
+		"Zipcode" : "07932",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "FLORHAM PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.773500"
+	},
+	{
+		"Longitude" : "-074.472198",
+		"Zipcode" : "07933",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "GILLETTE",
+		"State" : "NJ",
+		"Latitude" : "+40.689339"
+	},
+	{
+		"Longitude" : "-074.682767",
+		"Zipcode" : "07934",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "GLADSTONE",
+		"State" : "NJ",
+		"Latitude" : "+40.715359"
+	},
+	{
+		"Longitude" : "-074.448747",
+		"Zipcode" : "07935",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "GREEN VILLAGE",
+		"State" : "NJ",
+		"Latitude" : "+40.739782"
+	},
+	{
+		"Longitude" : "-074.367747",
+		"Zipcode" : "07936",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "EAST HANOVER",
+		"State" : "NJ",
+		"Latitude" : "+40.816349"
+	},
+	{
+		"Longitude" : "-074.586151",
+		"Zipcode" : "07938",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "LIBERTY CORNER",
+		"State" : "NJ",
+		"Latitude" : "+40.655399"
+	},
+	{
+		"Longitude" : "-074.599801",
+		"Zipcode" : "07939",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "LYONS",
+		"State" : "NJ",
+		"Latitude" : "+40.566553"
+	},
+	{
+		"Longitude" : "-074.423019",
+		"Zipcode" : "07940",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MADISON",
+		"State" : "NJ",
+		"Latitude" : "+40.758200"
+	},
+	{
+		"Longitude" : "-074.593800",
+		"Zipcode" : "07945",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MENDHAM",
+		"State" : "NJ",
+		"Latitude" : "+40.786699"
+	},
+	{
+		"Longitude" : "-074.505399",
+		"Zipcode" : "07946",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MILLINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.678701"
+	},
+	{
+		"Longitude" : "-074.540341",
+		"Zipcode" : "07950",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MORRIS PLAINS",
+		"State" : "NJ",
+		"Latitude" : "+40.843399"
+	},
+	{
+		"Longitude" : "-074.506256",
+		"Zipcode" : "07960",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MORRISTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.771650"
+	},
+	{
+		"Longitude" : "-074.442797",
+		"Zipcode" : "07961",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MORRISTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.779750"
+	},
+	{
+		"Longitude" : "-074.578269",
+		"Zipcode" : "07962",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MORRISTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.867331"
+	},
+	{
+		"Longitude" : "-074.578269",
+		"Zipcode" : "07963",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "MORRISTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.867331"
+	},
+	{
+		"Longitude" : "-074.573832",
+		"Zipcode" : "07970",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORRIS",
+		"City" : "MOUNT FREEDOM",
+		"State" : "NJ",
+		"Latitude" : "+40.805549"
+	},
+	{
+		"Longitude" : "-074.405595",
+		"Zipcode" : "07974",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "NEW PROVIDENCE",
+		"State" : "NJ",
+		"Latitude" : "+40.697851"
+	},
+	{
+		"Longitude" : "-074.483413",
+		"Zipcode" : "07976",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "NEW VERNON",
+		"State" : "NJ",
+		"Latitude" : "+40.739599"
+	},
+	{
+		"Longitude" : "-074.654131",
+		"Zipcode" : "07977",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "PEAPACK",
+		"State" : "NJ",
+		"Latitude" : "+40.707876"
+	},
+	{
+		"Longitude" : "-074.639597",
+		"Zipcode" : "07978",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "PLUCKEMIN",
+		"State" : "NJ",
+		"Latitude" : "+40.642491"
+	},
+	{
+		"Longitude" : "-074.748389",
+		"Zipcode" : "07979",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "POTTERSVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.708241"
+	},
+	{
+		"Longitude" : "-074.450197",
+		"Zipcode" : "07980",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "STIRLING",
+		"State" : "NJ",
+		"Latitude" : "+40.698350"
+	},
+	{
+		"Longitude" : "-074.419097",
+		"Zipcode" : "07981",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "WHIPPANY",
+		"State" : "NJ",
+		"Latitude" : "+40.823899"
+	},
+	{
+		"Longitude" : "-074.578269",
+		"Zipcode" : "07983",
+		"ZipClass" : "UNIQUE",
+		"County" : "MORRIS",
+		"City" : "WHIPPANY",
+		"State" : "NJ",
+		"Latitude" : "+40.867331"
+	},
+	{
+		"Longitude" : "-074.578269",
+		"Zipcode" : "07999",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "WHIPPANY",
+		"State" : "NJ",
+		"Latitude" : "+40.867331"
+	},
+	{
+		"Longitude" : "-075.350573",
+		"Zipcode" : "08001",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SALEM",
+		"City" : "ALLOWAY",
+		"State" : "NJ",
+		"Latitude" : "+39.559077"
+	},
+	{
+		"Longitude" : "-075.010307",
+		"Zipcode" : "08002",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CHERRY HILL",
+		"State" : "NJ",
+		"Latitude" : "+39.908663"
+	},
+	{
+		"Longitude" : "-074.972761",
+		"Zipcode" : "08003",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CHERRY HILL",
+		"State" : "NJ",
+		"Latitude" : "+39.889763"
+	},
+	{
+		"Longitude" : "-074.866534",
+		"Zipcode" : "08004",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "ATCO",
+		"State" : "NJ",
+		"Latitude" : "+39.760048"
+	},
+	{
+		"Longitude" : "-074.293989",
+		"Zipcode" : "08005",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "BARNEGAT",
+		"State" : "NJ",
+		"Latitude" : "+39.753858"
+	},
+	{
+		"Longitude" : "-074.114631",
+		"Zipcode" : "08006",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OCEAN",
+		"City" : "BARNEGAT LIGHT",
+		"State" : "NJ",
+		"Latitude" : "+39.751214"
+	},
+	{
+		"Longitude" : "-075.053765",
+		"Zipcode" : "08007",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "BARRINGTON",
+		"State" : "NJ",
+		"Latitude" : "+39.863813"
+	},
+	{
+		"Longitude" : "-074.192228",
+		"Zipcode" : "08008",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "BEACH HAVEN",
+		"State" : "NJ",
+		"Latitude" : "+39.641062"
+	},
+	{
+		"Longitude" : "-074.927010",
+		"Zipcode" : "08009",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "BERLIN",
+		"State" : "NJ",
+		"Latitude" : "+39.761231"
+	},
+	{
+		"Longitude" : "-074.917061",
+		"Zipcode" : "08010",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "BEVERLY",
+		"State" : "NJ",
+		"Latitude" : "+40.049948"
+	},
+	{
+		"Longitude" : "-074.711429",
+		"Zipcode" : "08011",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BURLINGTON",
+		"City" : "BIRMINGHAM",
+		"State" : "NJ",
+		"Latitude" : "+39.976041"
+	},
+	{
+		"Longitude" : "-075.036652",
+		"Zipcode" : "08012",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "BLACKWOOD",
+		"State" : "NJ",
+		"Latitude" : "+39.790131"
+	},
+	{
+		"Longitude" : "-075.339215",
+		"Zipcode" : "08014",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "BRIDGEPORT",
+		"State" : "NJ",
+		"Latitude" : "+39.802163"
+	},
+	{
+		"Longitude" : "-074.670408",
+		"Zipcode" : "08015",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "BROWNS MILLS",
+		"State" : "NJ",
+		"Latitude" : "+39.924179"
+	},
+	{
+		"Longitude" : "-074.751146",
+		"Zipcode" : "08016",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "BURLINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.089874"
+	},
+	{
+		"Longitude" : "-074.938259",
+		"Zipcode" : "08018",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAMDEN",
+		"City" : "CEDAR BROOK",
+		"State" : "NJ",
+		"Latitude" : "+39.802370"
+	},
+	{
+		"Longitude" : "-074.558941",
+		"Zipcode" : "08019",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "CHATSWORTH",
+		"State" : "NJ",
+		"Latitude" : "+39.749506"
+	},
+	{
+		"Longitude" : "-075.218852",
+		"Zipcode" : "08020",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "CLARKSBORO",
+		"State" : "NJ",
+		"Latitude" : "+39.796706"
+	},
+	{
+		"Longitude" : "-075.005762",
+		"Zipcode" : "08021",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CLEMENTON",
+		"State" : "NJ",
+		"Latitude" : "+39.803640"
+	},
+	{
+		"Longitude" : "-074.702475",
+		"Zipcode" : "08022",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "COLUMBUS",
+		"State" : "NJ",
+		"Latitude" : "+40.049355"
+	},
+	{
+		"Longitude" : "-075.493433",
+		"Zipcode" : "08023",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SALEM",
+		"City" : "DEEPWATER",
+		"State" : "NJ",
+		"Latitude" : "+39.681545"
+	},
+	{
+		"Longitude" : "-075.162903",
+		"Zipcode" : "08025",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GLOUCESTER",
+		"City" : "EWAN",
+		"State" : "NJ",
+		"Latitude" : "+39.701526"
+	},
+	{
+		"Longitude" : "-074.967496",
+		"Zipcode" : "08026",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "GIBBSBORO",
+		"State" : "NJ",
+		"Latitude" : "+39.833114"
+	},
+	{
+		"Longitude" : "-075.272137",
+		"Zipcode" : "08027",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "GIBBSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+39.771133"
+	},
+	{
+		"Longitude" : "-075.127183",
+		"Zipcode" : "08028",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "GLASSBORO",
+		"State" : "NJ",
+		"Latitude" : "+39.696661"
+	},
+	{
+		"Longitude" : "-075.062315",
+		"Zipcode" : "08029",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "GLENDORA",
+		"State" : "NJ",
+		"Latitude" : "+39.837113"
+	},
+	{
+		"Longitude" : "-075.112619",
+		"Zipcode" : "08030",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "GLOUCESTER CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.890413"
+	},
+	{
+		"Longitude" : "-075.067729",
+		"Zipcode" : "08031",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "BELLMAWR",
+		"State" : "NJ",
+		"Latitude" : "+39.805543"
+	},
+	{
+		"Longitude" : "-075.060114",
+		"Zipcode" : "08032",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "GRENLOCH",
+		"State" : "NJ",
+		"Latitude" : "+39.778750"
+	},
+	{
+		"Longitude" : "-075.033414",
+		"Zipcode" : "08033",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "HADDONFIELD",
+		"State" : "NJ",
+		"Latitude" : "+39.876313"
+	},
+	{
+		"Longitude" : "-075.035015",
+		"Zipcode" : "08034",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CHERRY HILL",
+		"State" : "NJ",
+		"Latitude" : "+39.899962"
+	},
+	{
+		"Longitude" : "-075.065666",
+		"Zipcode" : "08035",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "HADDON HEIGHTS",
+		"State" : "NJ",
+		"Latitude" : "+39.879163"
+	},
+	{
+		"Longitude" : "-074.829308",
+		"Zipcode" : "08036",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BURLINGTON",
+		"City" : "HAINESPORT",
+		"State" : "NJ",
+		"Latitude" : "+39.987212"
+	},
+	{
+		"Longitude" : "-074.711081",
+		"Zipcode" : "08037",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "HAMMONTON",
+		"State" : "NJ",
+		"Latitude" : "+39.563616"
+	},
+	{
+		"Longitude" : "-075.312703",
+		"Zipcode" : "08038",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SALEM",
+		"City" : "HANCOCKS BRIDGE",
+		"State" : "NJ",
+		"Latitude" : "+39.569805"
+	},
+	{
+		"Longitude" : "-075.271114",
+		"Zipcode" : "08039",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GLOUCESTER",
+		"City" : "HARRISONVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.693067"
+	},
+	{
+		"Longitude" : "-074.679579",
+		"Zipcode" : "08041",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "JOBSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.044129"
+	},
+	{
+		"Longitude" : "-074.664640",
+		"Zipcode" : "08042",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BURLINGTON",
+		"City" : "JULIUSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.012273"
+	},
+	{
+		"Longitude" : "-074.965057",
+		"Zipcode" : "08043",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "VOORHEES",
+		"State" : "NJ",
+		"Latitude" : "+39.839156"
+	},
+	{
+		"Longitude" : "-075.032114",
+		"Zipcode" : "08045",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "LAWNSIDE",
+		"State" : "NJ",
+		"Latitude" : "+39.868113"
+	},
+	{
+		"Longitude" : "-074.805773",
+		"Zipcode" : "08046",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "WILLINGBORO",
+		"State" : "NJ",
+		"Latitude" : "+40.013737"
+	},
+	{
+		"Longitude" : "-074.800070",
+		"Zipcode" : "08048",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "LUMBERTON",
+		"State" : "NJ",
+		"Latitude" : "+39.962299"
+	},
+	{
+		"Longitude" : "-075.036214",
+		"Zipcode" : "08049",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "MAGNOLIA",
+		"State" : "NJ",
+		"Latitude" : "+39.854363"
+	},
+	{
+		"Longitude" : "-074.257677",
+		"Zipcode" : "08050",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "MANAHAWKIN",
+		"State" : "NJ",
+		"Latitude" : "+39.702978"
+	},
+	{
+		"Longitude" : "-075.212842",
+		"Zipcode" : "08051",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "MANTUA",
+		"State" : "NJ",
+		"Latitude" : "+39.751571"
+	},
+	{
+		"Longitude" : "-074.992163",
+		"Zipcode" : "08052",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "MAPLE SHADE",
+		"State" : "NJ",
+		"Latitude" : "+39.951212"
+	},
+	{
+		"Longitude" : "-074.940750",
+		"Zipcode" : "08053",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "MARLTON",
+		"State" : "NJ",
+		"Latitude" : "+39.892263"
+	},
+	{
+		"Longitude" : "-074.917310",
+		"Zipcode" : "08054",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "MOUNT LAUREL",
+		"State" : "NJ",
+		"Latitude" : "+39.955912"
+	},
+	{
+		"Longitude" : "-074.762083",
+		"Zipcode" : "08055",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "MEDFORD",
+		"State" : "NJ",
+		"Latitude" : "+39.874549"
+	},
+	{
+		"Longitude" : "-075.246687",
+		"Zipcode" : "08056",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "MICKLETON",
+		"State" : "NJ",
+		"Latitude" : "+39.787913"
+	},
+	{
+		"Longitude" : "-074.840115",
+		"Zipcode" : "08057",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "MOORESTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.054255"
+	},
+	{
+		"Longitude" : "-075.094068",
+		"Zipcode" : "08059",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "MOUNT EPHRAIM",
+		"State" : "NJ",
+		"Latitude" : "+39.886463"
+	},
+	{
+		"Longitude" : "-074.801869",
+		"Zipcode" : "08060",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "MOUNT HOLLY",
+		"State" : "NJ",
+		"Latitude" : "+40.044956"
+	},
+	{
+		"Longitude" : "-075.212943",
+		"Zipcode" : "08061",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "MOUNT ROYAL",
+		"State" : "NJ",
+		"Latitude" : "+39.808643"
+	},
+	{
+		"Longitude" : "-075.235017",
+		"Zipcode" : "08062",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "MULLICA HILL",
+		"State" : "NJ",
+		"Latitude" : "+39.715857"
+	},
+	{
+		"Longitude" : "-075.218413",
+		"Zipcode" : "08063",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "NATIONAL PARK",
+		"State" : "NJ",
+		"Latitude" : "+39.779654"
+	},
+	{
+		"Longitude" : "-074.725079",
+		"Zipcode" : "08064",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BURLINGTON",
+		"City" : "NEW LISBON",
+		"State" : "NJ",
+		"Latitude" : "+39.862433"
+	},
+	{
+		"Longitude" : "-074.861971",
+		"Zipcode" : "08065",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "PALMYRA",
+		"State" : "NJ",
+		"Latitude" : "+40.031291"
+	},
+	{
+		"Longitude" : "-075.238849",
+		"Zipcode" : "08066",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "PAULSBORO",
+		"State" : "NJ",
+		"Latitude" : "+39.815690"
+	},
+	{
+		"Longitude" : "-075.408412",
+		"Zipcode" : "08067",
+		"ZipClass" : "STANDARD",
+		"County" : "SALEM",
+		"City" : "PEDRICKTOWN",
+		"State" : "NJ",
+		"Latitude" : "+39.733769"
+	},
+	{
+		"Longitude" : "-074.709185",
+		"Zipcode" : "08068",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "PEMBERTON",
+		"State" : "NJ",
+		"Latitude" : "+39.966394"
+	},
+	{
+		"Longitude" : "-075.288423",
+		"Zipcode" : "08069",
+		"ZipClass" : "STANDARD",
+		"County" : "SALEM",
+		"City" : "PENNS GROVE",
+		"State" : "NJ",
+		"Latitude" : "+39.619937"
+	},
+	{
+		"Longitude" : "-075.512699",
+		"Zipcode" : "08070",
+		"ZipClass" : "STANDARD",
+		"County" : "SALEM",
+		"City" : "PENNSVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.637683"
+	},
+	{
+		"Longitude" : "-075.136809",
+		"Zipcode" : "08071",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "PITMAN",
+		"State" : "NJ",
+		"Latitude" : "+39.734928"
+	},
+	{
+		"Longitude" : "-075.383689",
+		"Zipcode" : "08072",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SALEM",
+		"City" : "QUINTON",
+		"State" : "NJ",
+		"Latitude" : "+39.541055"
+	},
+	{
+		"Longitude" : "-074.725079",
+		"Zipcode" : "08073",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BURLINGTON",
+		"City" : "RANCOCAS",
+		"State" : "NJ",
+		"Latitude" : "+39.862433"
+	},
+	{
+		"Longitude" : "-075.168141",
+		"Zipcode" : "08074",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GLOUCESTER",
+		"City" : "RICHWOOD",
+		"State" : "NJ",
+		"Latitude" : "+39.720622"
+	},
+	{
+		"Longitude" : "-074.853307",
+		"Zipcode" : "08075",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "RIVERSIDE",
+		"State" : "NJ",
+		"Latitude" : "+40.063293"
+	},
+	{
+		"Longitude" : "-074.725079",
+		"Zipcode" : "08076",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "RIVERTON",
+		"State" : "NJ",
+		"Latitude" : "+39.862433"
+	},
+	{
+		"Longitude" : "-074.908710",
+		"Zipcode" : "08077",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "RIVERTON",
+		"State" : "NJ",
+		"Latitude" : "+39.999211"
+	},
+	{
+		"Longitude" : "-075.070672",
+		"Zipcode" : "08078",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "RUNNEMEDE",
+		"State" : "NJ",
+		"Latitude" : "+39.850163"
+	},
+	{
+		"Longitude" : "-075.439362",
+		"Zipcode" : "08079",
+		"ZipClass" : "STANDARD",
+		"County" : "SALEM",
+		"City" : "SALEM",
+		"State" : "NJ",
+		"Latitude" : "+39.587729"
+	},
+	{
+		"Longitude" : "-075.201593",
+		"Zipcode" : "08080",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "SEWELL",
+		"State" : "NJ",
+		"Latitude" : "+39.755210"
+	},
+	{
+		"Longitude" : "-074.970462",
+		"Zipcode" : "08081",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "SICKLERVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.747558"
+	},
+	{
+		"Longitude" : "-075.022163",
+		"Zipcode" : "08083",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "SOMERDALE",
+		"State" : "NJ",
+		"Latitude" : "+39.844063"
+	},
+	{
+		"Longitude" : "-075.012012",
+		"Zipcode" : "08084",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "STRATFORD",
+		"State" : "NJ",
+		"Latitude" : "+39.829763"
+	},
+	{
+		"Longitude" : "-075.318049",
+		"Zipcode" : "08085",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "SWEDESBORO",
+		"State" : "NJ",
+		"Latitude" : "+39.752740"
+	},
+	{
+		"Longitude" : "-075.248610",
+		"Zipcode" : "08086",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "THOROFARE",
+		"State" : "NJ",
+		"Latitude" : "+39.838721"
+	},
+	{
+		"Longitude" : "-074.288092",
+		"Zipcode" : "08087",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "TUCKERTON",
+		"State" : "NJ",
+		"Latitude" : "+39.671687"
+	},
+	{
+		"Longitude" : "-074.669346",
+		"Zipcode" : "08088",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "VINCENTOWN",
+		"State" : "NJ",
+		"Latitude" : "+39.860351"
+	},
+	{
+		"Longitude" : "-074.836939",
+		"Zipcode" : "08089",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "WATERFORD WORKS",
+		"State" : "NJ",
+		"Latitude" : "+39.723037"
+	},
+	{
+		"Longitude" : "-075.148071",
+		"Zipcode" : "08090",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "WENONAH",
+		"State" : "NJ",
+		"Latitude" : "+39.798313"
+	},
+	{
+		"Longitude" : "-074.950993",
+		"Zipcode" : "08091",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "WEST BERLIN",
+		"State" : "NJ",
+		"Latitude" : "+39.734923"
+	},
+	{
+		"Longitude" : "-074.295555",
+		"Zipcode" : "08092",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "WEST CREEK",
+		"State" : "NJ",
+		"Latitude" : "+39.656391"
+	},
+	{
+		"Longitude" : "-075.137320",
+		"Zipcode" : "08093",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "WESTVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.857810"
+	},
+	{
+		"Longitude" : "-075.058082",
+		"Zipcode" : "08094",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "WILLIAMSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+39.725538"
+	},
+	{
+		"Longitude" : "-074.868531",
+		"Zipcode" : "08095",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAMDEN",
+		"City" : "WINSLOW",
+		"State" : "NJ",
+		"Latitude" : "+39.654885"
+	},
+	{
+		"Longitude" : "-075.129669",
+		"Zipcode" : "08096",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "WOODBURY",
+		"State" : "NJ",
+		"Latitude" : "+39.822013"
+	},
+	{
+		"Longitude" : "-075.197870",
+		"Zipcode" : "08097",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "WOODBURY HEIGHTS",
+		"State" : "NJ",
+		"Latitude" : "+39.762971"
+	},
+	{
+		"Longitude" : "-075.379897",
+		"Zipcode" : "08098",
+		"ZipClass" : "STANDARD",
+		"County" : "SALEM",
+		"City" : "WOODSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+39.586000"
+	},
+	{
+		"Longitude" : "-074.962071",
+		"Zipcode" : "08099",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "BELLMAWR",
+		"State" : "NJ",
+		"Latitude" : "+39.779179"
+	},
+	{
+		"Longitude" : "-074.938259",
+		"Zipcode" : "08101",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CAMDEN",
+		"State" : "NJ",
+		"Latitude" : "+39.802370"
+	},
+	{
+		"Longitude" : "-075.118869",
+		"Zipcode" : "08102",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CAMDEN",
+		"State" : "NJ",
+		"Latitude" : "+39.950912"
+	},
+	{
+		"Longitude" : "-075.108519",
+		"Zipcode" : "08103",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CAMDEN",
+		"State" : "NJ",
+		"Latitude" : "+39.933174"
+	},
+	{
+		"Longitude" : "-075.109169",
+		"Zipcode" : "08104",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CAMDEN",
+		"State" : "NJ",
+		"Latitude" : "+39.916612"
+	},
+	{
+		"Longitude" : "-075.084667",
+		"Zipcode" : "08105",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "CAMDEN",
+		"State" : "NJ",
+		"Latitude" : "+39.920162"
+	},
+	{
+		"Longitude" : "-074.994647",
+		"Zipcode" : "08106",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "AUDUBON",
+		"State" : "NJ",
+		"Latitude" : "+39.828349"
+	},
+	{
+		"Longitude" : "-075.053114",
+		"Zipcode" : "08107",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "OAKLYN",
+		"State" : "NJ",
+		"Latitude" : "+39.872001"
+	},
+	{
+		"Longitude" : "-074.991268",
+		"Zipcode" : "08108",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "COLLINGSWOOD",
+		"State" : "NJ",
+		"Latitude" : "+39.834003"
+	},
+	{
+		"Longitude" : "-075.059916",
+		"Zipcode" : "08109",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "MERCHANTVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.950312"
+	},
+	{
+		"Longitude" : "-074.945624",
+		"Zipcode" : "08110",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMDEN",
+		"City" : "PENNSAUKEN",
+		"State" : "NJ",
+		"Latitude" : "+39.839405"
+	},
+	{
+		"Longitude" : "-074.680323",
+		"Zipcode" : "08201",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "ABSECON",
+		"State" : "NJ",
+		"Latitude" : "+39.489090"
+	},
+	{
+		"Longitude" : "-074.731427",
+		"Zipcode" : "08202",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "AVALON",
+		"State" : "NJ",
+		"Latitude" : "+39.112027"
+	},
+	{
+		"Longitude" : "-074.494010",
+		"Zipcode" : "08203",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "BRIGANTINE",
+		"State" : "NJ",
+		"Latitude" : "+39.370172"
+	},
+	{
+		"Longitude" : "-074.767939",
+		"Zipcode" : "08204",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "CAPE MAY",
+		"State" : "NJ",
+		"Latitude" : "+39.110337"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "08205",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "ABSECON",
+		"State" : "NJ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-074.780560",
+		"Zipcode" : "08210",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "CAPE MAY COURT HOUSE",
+		"State" : "NJ",
+		"Latitude" : "+39.137841"
+	},
+	{
+		"Longitude" : "-074.965385",
+		"Zipcode" : "08212",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "CAPE MAY POINT",
+		"State" : "NJ",
+		"Latitude" : "+38.937168"
+	},
+	{
+		"Longitude" : "-074.608557",
+		"Zipcode" : "08213",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ATLANTIC",
+		"City" : "COLOGNE",
+		"State" : "NJ",
+		"Latitude" : "+39.509208"
+	},
+	{
+		"Longitude" : "-074.816619",
+		"Zipcode" : "08214",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "DENNISVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.056521"
+	},
+	{
+		"Longitude" : "-074.638341",
+		"Zipcode" : "08215",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "EGG HARBOR CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.530539"
+	},
+	{
+		"Longitude" : "-074.719989",
+		"Zipcode" : "08217",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ATLANTIC",
+		"City" : "ELWOOD",
+		"State" : "NJ",
+		"Latitude" : "+39.573741"
+	},
+	{
+		"Longitude" : "-074.816619",
+		"Zipcode" : "08218",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "GOSHEN",
+		"State" : "NJ",
+		"Latitude" : "+39.056521"
+	},
+	{
+		"Longitude" : "-074.816619",
+		"Zipcode" : "08219",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "GREEN CREEK",
+		"State" : "NJ",
+		"Latitude" : "+39.056521"
+	},
+	{
+		"Longitude" : "-074.608557",
+		"Zipcode" : "08220",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ATLANTIC",
+		"City" : "LEEDS POINT",
+		"State" : "NJ",
+		"Latitude" : "+39.509208"
+	},
+	{
+		"Longitude" : "-074.622112",
+		"Zipcode" : "08221",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "LINWOOD",
+		"State" : "NJ",
+		"Latitude" : "+39.427786"
+	},
+	{
+		"Longitude" : "-074.730380",
+		"Zipcode" : "08223",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "MARMORA",
+		"State" : "NJ",
+		"Latitude" : "+39.139520"
+	},
+	{
+		"Longitude" : "-074.435683",
+		"Zipcode" : "08224",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BURLINGTON",
+		"City" : "NEW GRETNA",
+		"State" : "NJ",
+		"Latitude" : "+39.595197"
+	},
+	{
+		"Longitude" : "-074.572227",
+		"Zipcode" : "08225",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "NORTHFIELD",
+		"State" : "NJ",
+		"Latitude" : "+39.421922"
+	},
+	{
+		"Longitude" : "-074.604409",
+		"Zipcode" : "08226",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "OCEAN CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.248530"
+	},
+	{
+		"Longitude" : "-074.778293",
+		"Zipcode" : "08230",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "OCEAN VIEW",
+		"State" : "NJ",
+		"Latitude" : "+39.205183"
+	},
+	{
+		"Longitude" : "-074.608557",
+		"Zipcode" : "08231",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ATLANTIC",
+		"City" : "OCEANVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.509208"
+	},
+	{
+		"Longitude" : "-074.686004",
+		"Zipcode" : "08232",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "PLEASANTVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.470869"
+	},
+	{
+		"Longitude" : "-074.611764",
+		"Zipcode" : "08234",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "EGG HARBOR TOWNSHIP",
+		"State" : "NJ",
+		"Latitude" : "+39.374067"
+	},
+	{
+		"Longitude" : "-074.554334",
+		"Zipcode" : "08240",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ATLANTIC",
+		"City" : "POMONA",
+		"State" : "NJ",
+		"Latitude" : "+39.487717"
+	},
+	{
+		"Longitude" : "-074.694414",
+		"Zipcode" : "08241",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "PORT REPUBLIC",
+		"State" : "NJ",
+		"Latitude" : "+39.521785"
+	},
+	{
+		"Longitude" : "-074.883671",
+		"Zipcode" : "08242",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "RIO GRANDE",
+		"State" : "NJ",
+		"Latitude" : "+39.017283"
+	},
+	{
+		"Longitude" : "-074.700502",
+		"Zipcode" : "08243",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "SEA ISLE CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.154028"
+	},
+	{
+		"Longitude" : "-074.664422",
+		"Zipcode" : "08244",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "SOMERS POINT",
+		"State" : "NJ",
+		"Latitude" : "+39.425655"
+	},
+	{
+		"Longitude" : "-074.848733",
+		"Zipcode" : "08245",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "SOUTH DENNIS",
+		"State" : "NJ",
+		"Latitude" : "+39.099980"
+	},
+	{
+		"Longitude" : "-074.816619",
+		"Zipcode" : "08246",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "SOUTH SEAVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.056521"
+	},
+	{
+		"Longitude" : "-074.775050",
+		"Zipcode" : "08247",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "STONE HARBOR",
+		"State" : "NJ",
+		"Latitude" : "+39.047882"
+	},
+	{
+		"Longitude" : "-074.661977",
+		"Zipcode" : "08248",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "STRATHMERE",
+		"State" : "NJ",
+		"Latitude" : "+39.192018"
+	},
+	{
+		"Longitude" : "-074.816619",
+		"Zipcode" : "08250",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "TUCKAHOE",
+		"State" : "NJ",
+		"Latitude" : "+39.056521"
+	},
+	{
+		"Longitude" : "-074.851181",
+		"Zipcode" : "08251",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "VILLAS",
+		"State" : "NJ",
+		"Latitude" : "+39.140921"
+	},
+	{
+		"Longitude" : "-074.861792",
+		"Zipcode" : "08252",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAPE MAY",
+		"City" : "WHITESBORO",
+		"State" : "NJ",
+		"Latitude" : "+39.042124"
+	},
+	{
+		"Longitude" : "-074.776740",
+		"Zipcode" : "08260",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "WILDWOOD",
+		"State" : "NJ",
+		"Latitude" : "+39.067777"
+	},
+	{
+		"Longitude" : "-074.786886",
+		"Zipcode" : "08270",
+		"ZipClass" : "STANDARD",
+		"County" : "CAPE MAY",
+		"City" : "WOODBINE",
+		"State" : "NJ",
+		"Latitude" : "+39.158165"
+	},
+	{
+		"Longitude" : "-075.161700",
+		"Zipcode" : "08302",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "BRIDGETON",
+		"State" : "NJ",
+		"Latitude" : "+39.376200"
+	},
+	{
+		"Longitude" : "-074.899762",
+		"Zipcode" : "08310",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "BUENA",
+		"State" : "NJ",
+		"Latitude" : "+39.523712"
+	},
+	{
+		"Longitude" : "-075.117761",
+		"Zipcode" : "08311",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "CEDARVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.330611"
+	},
+	{
+		"Longitude" : "-075.078625",
+		"Zipcode" : "08312",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "CLAYTON",
+		"State" : "NJ",
+		"Latitude" : "+39.653531"
+	},
+	{
+		"Longitude" : "-075.224865",
+		"Zipcode" : "08313",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "DEERFIELD STREET",
+		"State" : "NJ",
+		"Latitude" : "+39.529261"
+	},
+	{
+		"Longitude" : "-074.977352",
+		"Zipcode" : "08314",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "DELMONT",
+		"State" : "NJ",
+		"Latitude" : "+39.358151"
+	},
+	{
+		"Longitude" : "-075.095025",
+		"Zipcode" : "08315",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "DIVIDING CREEK",
+		"State" : "NJ",
+		"Latitude" : "+39.273214"
+	},
+	{
+		"Longitude" : "-074.979118",
+		"Zipcode" : "08316",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "DORCHESTER",
+		"State" : "NJ",
+		"Latitude" : "+39.267898"
+	},
+	{
+		"Longitude" : "-074.826057",
+		"Zipcode" : "08317",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "DOROTHY",
+		"State" : "NJ",
+		"Latitude" : "+39.425858"
+	},
+	{
+		"Longitude" : "-075.198368",
+		"Zipcode" : "08318",
+		"ZipClass" : "STANDARD",
+		"County" : "SALEM",
+		"City" : "ELMER",
+		"State" : "NJ",
+		"Latitude" : "+39.548074"
+	},
+	{
+		"Longitude" : "-074.805412",
+		"Zipcode" : "08319",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "ESTELL MANOR",
+		"State" : "NJ",
+		"Latitude" : "+39.376144"
+	},
+	{
+		"Longitude" : "-075.221681",
+		"Zipcode" : "08320",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "FAIRTON",
+		"State" : "NJ",
+		"Latitude" : "+39.379906"
+	},
+	{
+		"Longitude" : "-075.191370",
+		"Zipcode" : "08321",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "FORTESCUE",
+		"State" : "NJ",
+		"Latitude" : "+39.273034"
+	},
+	{
+		"Longitude" : "-075.035749",
+		"Zipcode" : "08322",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "FRANKLINVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.598230"
+	},
+	{
+		"Longitude" : "-075.320881",
+		"Zipcode" : "08323",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "GREENWICH",
+		"State" : "NJ",
+		"Latitude" : "+39.405498"
+	},
+	{
+		"Longitude" : "-074.994184",
+		"Zipcode" : "08324",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "HEISLERVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.224047"
+	},
+	{
+		"Longitude" : "-074.934493",
+		"Zipcode" : "08326",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "LANDISVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.533843"
+	},
+	{
+		"Longitude" : "-075.007418",
+		"Zipcode" : "08327",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "LEESBURG",
+		"State" : "NJ",
+		"Latitude" : "+39.387948"
+	},
+	{
+		"Longitude" : "-075.055482",
+		"Zipcode" : "08328",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "MALAGA",
+		"State" : "NJ",
+		"Latitude" : "+39.581010"
+	},
+	{
+		"Longitude" : "-074.998319",
+		"Zipcode" : "08329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "MAURICETOWN",
+		"State" : "NJ",
+		"Latitude" : "+39.285278"
+	},
+	{
+		"Longitude" : "-074.715880",
+		"Zipcode" : "08330",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "MAYS LANDING",
+		"State" : "NJ",
+		"Latitude" : "+39.472040"
+	},
+	{
+		"Longitude" : "-075.042820",
+		"Zipcode" : "08332",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "MILLVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.370401"
+	},
+	{
+		"Longitude" : "-074.869885",
+		"Zipcode" : "08340",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "MILMAY",
+		"State" : "NJ",
+		"Latitude" : "+39.447855"
+	},
+	{
+		"Longitude" : "-074.940036",
+		"Zipcode" : "08341",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "MINOTOLA",
+		"State" : "NJ",
+		"Latitude" : "+39.530779"
+	},
+	{
+		"Longitude" : "-074.833469",
+		"Zipcode" : "08342",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ATLANTIC",
+		"City" : "MIZPAH",
+		"State" : "NJ",
+		"Latitude" : "+39.502080"
+	},
+	{
+		"Longitude" : "-075.144475",
+		"Zipcode" : "08343",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "MONROEVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.641089"
+	},
+	{
+		"Longitude" : "-075.014084",
+		"Zipcode" : "08344",
+		"ZipClass" : "STANDARD",
+		"County" : "GLOUCESTER",
+		"City" : "NEWFIELD",
+		"State" : "NJ",
+		"Latitude" : "+39.565465"
+	},
+	{
+		"Longitude" : "-075.109132",
+		"Zipcode" : "08345",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "NEWPORT",
+		"State" : "NJ",
+		"Latitude" : "+39.304244"
+	},
+	{
+		"Longitude" : "-074.870807",
+		"Zipcode" : "08346",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "NEWTONVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.557607"
+	},
+	{
+		"Longitude" : "-075.082022",
+		"Zipcode" : "08347",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SALEM",
+		"City" : "NORMA",
+		"State" : "NJ",
+		"Latitude" : "+39.499765"
+	},
+	{
+		"Longitude" : "-074.980668",
+		"Zipcode" : "08348",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PORT ELIZABETH",
+		"State" : "NJ",
+		"Latitude" : "+39.313114"
+	},
+	{
+		"Longitude" : "-075.098448",
+		"Zipcode" : "08349",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "PORT NORRIS",
+		"State" : "NJ",
+		"Latitude" : "+39.283259"
+	},
+	{
+		"Longitude" : "-074.875543",
+		"Zipcode" : "08350",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "RICHLAND",
+		"State" : "NJ",
+		"Latitude" : "+39.491351"
+	},
+	{
+		"Longitude" : "-075.146176",
+		"Zipcode" : "08352",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "ROSENHAYN",
+		"State" : "NJ",
+		"Latitude" : "+39.469515"
+	},
+	{
+		"Longitude" : "-075.207667",
+		"Zipcode" : "08353",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "SHILOH",
+		"State" : "NJ",
+		"Latitude" : "+39.421650"
+	},
+	{
+		"Longitude" : "-075.025676",
+		"Zipcode" : "08360",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "VINELAND",
+		"State" : "NJ",
+		"Latitude" : "+39.392671"
+	},
+	{
+		"Longitude" : "-074.965279",
+		"Zipcode" : "08361",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "VINELAND",
+		"State" : "NJ",
+		"Latitude" : "+39.465465"
+	},
+	{
+		"Longitude" : "-075.027671",
+		"Zipcode" : "08362",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "VINELAND",
+		"State" : "NJ",
+		"Latitude" : "+39.271264"
+	},
+	{
+		"Longitude" : "-074.643014",
+		"Zipcode" : "08401",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "ATLANTIC CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.486848"
+	},
+	{
+		"Longitude" : "-074.666123",
+		"Zipcode" : "08402",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "MARGATE CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.442068"
+	},
+	{
+		"Longitude" : "-074.513497",
+		"Zipcode" : "08403",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "LONGPORT",
+		"State" : "NJ",
+		"Latitude" : "+39.324265"
+	},
+	{
+		"Longitude" : "-074.608557",
+		"Zipcode" : "08404",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "ATLANTIC CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.509208"
+	},
+	{
+		"Longitude" : "-074.608557",
+		"Zipcode" : "08405",
+		"ZipClass" : "UNIQUE",
+		"County" : "ATLANTIC",
+		"City" : "ATLANTIC CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.509208"
+	},
+	{
+		"Longitude" : "-074.664150",
+		"Zipcode" : "08406",
+		"ZipClass" : "STANDARD",
+		"County" : "ATLANTIC",
+		"City" : "VENTNOR CITY",
+		"State" : "NJ",
+		"Latitude" : "+39.414646"
+	},
+	{
+		"Longitude" : "-074.539598",
+		"Zipcode" : "08501",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "ALLENTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.149712"
+	},
+	{
+		"Longitude" : "-074.648302",
+		"Zipcode" : "08502",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "BELLE MEAD",
+		"State" : "NJ",
+		"Latitude" : "+40.461504"
+	},
+	{
+		"Longitude" : "-074.668753",
+		"Zipcode" : "08504",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "BLAWENBURG",
+		"State" : "NJ",
+		"Latitude" : "+40.425369"
+	},
+	{
+		"Longitude" : "-074.724711",
+		"Zipcode" : "08505",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "BORDENTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.101535"
+	},
+	{
+		"Longitude" : "-074.442803",
+		"Zipcode" : "08510",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "CLARKSBURG",
+		"State" : "NJ",
+		"Latitude" : "+40.193311"
+	},
+	{
+		"Longitude" : "-074.557215",
+		"Zipcode" : "08511",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "COOKSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.049551"
+	},
+	{
+		"Longitude" : "-074.516597",
+		"Zipcode" : "08512",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CRANBURY",
+		"State" : "NJ",
+		"Latitude" : "+40.323116"
+	},
+	{
+		"Longitude" : "-074.465018",
+		"Zipcode" : "08514",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "CREAM RIDGE",
+		"State" : "NJ",
+		"Latitude" : "+40.139913"
+	},
+	{
+		"Longitude" : "-074.661474",
+		"Zipcode" : "08515",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "CROSSWICKS",
+		"State" : "NJ",
+		"Latitude" : "+40.147555"
+	},
+	{
+		"Longitude" : "-074.738863",
+		"Zipcode" : "08518",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "FLORENCE",
+		"State" : "NJ",
+		"Latitude" : "+40.124860"
+	},
+	{
+		"Longitude" : "-074.572449",
+		"Zipcode" : "08520",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "HIGHTSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.281558"
+	},
+	{
+		"Longitude" : "-074.783956",
+		"Zipcode" : "08525",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "HOPEWELL",
+		"State" : "NJ",
+		"Latitude" : "+40.389675"
+	},
+	{
+		"Longitude" : "-074.475936",
+		"Zipcode" : "08526",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "IMLAYSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.162275"
+	},
+	{
+		"Longitude" : "-074.352814",
+		"Zipcode" : "08527",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "JACKSON",
+		"State" : "NJ",
+		"Latitude" : "+40.105164"
+	},
+	{
+		"Longitude" : "-074.609551",
+		"Zipcode" : "08528",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "KINGSTON",
+		"State" : "NJ",
+		"Latitude" : "+40.382756"
+	},
+	{
+		"Longitude" : "-074.901535",
+		"Zipcode" : "08530",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "LAMBERTVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.379360"
+	},
+	{
+		"Longitude" : "-074.498741",
+		"Zipcode" : "08533",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "NEW EGYPT",
+		"State" : "NJ",
+		"Latitude" : "+40.082940"
+	},
+	{
+		"Longitude" : "-074.813557",
+		"Zipcode" : "08534",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "PENNINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.328630"
+	},
+	{
+		"Longitude" : "-074.452293",
+		"Zipcode" : "08535",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "PERRINEVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.225860"
+	},
+	{
+		"Longitude" : "-074.582062",
+		"Zipcode" : "08536",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PLAINSBORO",
+		"State" : "NJ",
+		"Latitude" : "+40.342197"
+	},
+	{
+		"Longitude" : "-074.693953",
+		"Zipcode" : "08540",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "PRINCETON",
+		"State" : "NJ",
+		"Latitude" : "+40.343625"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08541",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERCER",
+		"City" : "PRINCETON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.658852",
+		"Zipcode" : "08542",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "PRINCETON",
+		"State" : "NJ",
+		"Latitude" : "+40.350456"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08543",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "PRINCETON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.652811",
+		"Zipcode" : "08544",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERCER",
+		"City" : "PRINCETON",
+		"State" : "NJ",
+		"Latitude" : "+40.349206"
+	},
+	{
+		"Longitude" : "-074.651101",
+		"Zipcode" : "08550",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "PRINCETON JUNCTION",
+		"State" : "NJ",
+		"Latitude" : "+40.266858"
+	},
+	{
+		"Longitude" : "-074.840322",
+		"Zipcode" : "08551",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "RINGOES",
+		"State" : "NJ",
+		"Latitude" : "+40.445602"
+	},
+	{
+		"Longitude" : "-074.632256",
+		"Zipcode" : "08553",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "ROCKY HILL",
+		"State" : "NJ",
+		"Latitude" : "+40.412705"
+	},
+	{
+		"Longitude" : "-074.711814",
+		"Zipcode" : "08554",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "ROEBLING",
+		"State" : "NJ",
+		"Latitude" : "+40.071829"
+	},
+	{
+		"Longitude" : "-074.474745",
+		"Zipcode" : "08555",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONMOUTH",
+		"City" : "ROOSEVELT",
+		"State" : "NJ",
+		"Latitude" : "+40.221360"
+	},
+	{
+		"Longitude" : "-074.988619",
+		"Zipcode" : "08556",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "ROSEMONT",
+		"State" : "NJ",
+		"Latitude" : "+40.419965"
+	},
+	{
+		"Longitude" : "-074.949409",
+		"Zipcode" : "08557",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "SERGEANTSVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.563654"
+	},
+	{
+		"Longitude" : "-074.708525",
+		"Zipcode" : "08558",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SKILLMAN",
+		"State" : "NJ",
+		"Latitude" : "+40.434255"
+	},
+	{
+		"Longitude" : "-074.970597",
+		"Zipcode" : "08559",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "STOCKTON",
+		"State" : "NJ",
+		"Latitude" : "+40.436413"
+	},
+	{
+		"Longitude" : "-074.863858",
+		"Zipcode" : "08560",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TITUSVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.311826"
+	},
+	{
+		"Longitude" : "-074.578709",
+		"Zipcode" : "08561",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERCER",
+		"City" : "WINDSOR",
+		"State" : "NJ",
+		"Latitude" : "+40.242313"
+	},
+	{
+		"Longitude" : "-074.608402",
+		"Zipcode" : "08562",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "WRIGHTSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.075100"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08570",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "CRANBURY",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08601",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08602",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08603",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08604",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08605",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08606",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08607",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.764055",
+		"Zipcode" : "08608",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.220108"
+	},
+	{
+		"Longitude" : "-074.741004",
+		"Zipcode" : "08609",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.224808"
+	},
+	{
+		"Longitude" : "-074.704953",
+		"Zipcode" : "08610",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.201609"
+	},
+	{
+		"Longitude" : "-074.741554",
+		"Zipcode" : "08611",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.196658"
+	},
+	{
+		"Longitude" : "-074.732504",
+		"Zipcode" : "08618",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.223608"
+	},
+	{
+		"Longitude" : "-074.696151",
+		"Zipcode" : "08619",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.241808"
+	},
+	{
+		"Longitude" : "-074.639852",
+		"Zipcode" : "08620",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.194664"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08625",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.816757",
+		"Zipcode" : "08628",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.265457"
+	},
+	{
+		"Longitude" : "-074.733404",
+		"Zipcode" : "08629",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.219558"
+	},
+	{
+		"Longitude" : "-074.716954",
+		"Zipcode" : "08638",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.232908"
+	},
+	{
+		"Longitude" : "-074.605198",
+		"Zipcode" : "08640",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.009789"
+	},
+	{
+		"Longitude" : "-074.624050",
+		"Zipcode" : "08641",
+		"ZipClass" : "STANDARD",
+		"County" : "BURLINGTON",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+39.968787"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08645",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08646",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08647",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.691180",
+		"Zipcode" : "08648",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.279457"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08650",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08666",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08677",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.657602",
+		"Zipcode" : "08690",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.233577"
+	},
+	{
+		"Longitude" : "-074.593949",
+		"Zipcode" : "08691",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.219738"
+	},
+	{
+		"Longitude" : "-074.712018",
+		"Zipcode" : "08695",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERCER",
+		"City" : "TRENTON",
+		"State" : "NJ",
+		"Latitude" : "+40.280531"
+	},
+	{
+		"Longitude" : "-074.149784",
+		"Zipcode" : "08701",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "LAKEWOOD",
+		"State" : "NJ",
+		"Latitude" : "+39.945170"
+	},
+	{
+		"Longitude" : "-074.112210",
+		"Zipcode" : "08720",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONMOUTH",
+		"City" : "ALLENWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.138878"
+	},
+	{
+		"Longitude" : "-074.300023",
+		"Zipcode" : "08721",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "BAYVILLE",
+		"State" : "NJ",
+		"Latitude" : "+39.966604"
+	},
+	{
+		"Longitude" : "-074.198585",
+		"Zipcode" : "08722",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "BEACHWOOD",
+		"State" : "NJ",
+		"Latitude" : "+39.927521"
+	},
+	{
+		"Longitude" : "-074.122989",
+		"Zipcode" : "08723",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "BRICK",
+		"State" : "NJ",
+		"Latitude" : "+39.940021"
+	},
+	{
+		"Longitude" : "-074.171090",
+		"Zipcode" : "08724",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "BRICK",
+		"State" : "NJ",
+		"Latitude" : "+39.938047"
+	},
+	{
+		"Longitude" : "-074.065081",
+		"Zipcode" : "08730",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "BRIELLE",
+		"State" : "NJ",
+		"Latitude" : "+40.107614"
+	},
+	{
+		"Longitude" : "-074.230522",
+		"Zipcode" : "08731",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "FORKED RIVER",
+		"State" : "NJ",
+		"Latitude" : "+39.876031"
+	},
+	{
+		"Longitude" : "-074.128482",
+		"Zipcode" : "08732",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OCEAN",
+		"City" : "ISLAND HEIGHTS",
+		"State" : "NJ",
+		"Latitude" : "+39.983267"
+	},
+	{
+		"Longitude" : "-074.282240",
+		"Zipcode" : "08733",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "LAKEHURST",
+		"State" : "NJ",
+		"Latitude" : "+39.992317"
+	},
+	{
+		"Longitude" : "-074.168217",
+		"Zipcode" : "08734",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "LANOKA HARBOR",
+		"State" : "NJ",
+		"Latitude" : "+39.863489"
+	},
+	{
+		"Longitude" : "-074.072030",
+		"Zipcode" : "08735",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "LAVALLETTE",
+		"State" : "NJ",
+		"Latitude" : "+39.980917"
+	},
+	{
+		"Longitude" : "-074.069963",
+		"Zipcode" : "08736",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "MANASQUAN",
+		"State" : "NJ",
+		"Latitude" : "+40.121514"
+	},
+	{
+		"Longitude" : "-074.056880",
+		"Zipcode" : "08738",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "MANTOLOKING",
+		"State" : "NJ",
+		"Latitude" : "+40.029916"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "08739",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OCEAN",
+		"City" : "NORMANDY BEACH",
+		"State" : "NJ",
+		"Latitude" : "+40.000759"
+	},
+	{
+		"Longitude" : "-074.133332",
+		"Zipcode" : "08740",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OCEAN",
+		"City" : "OCEAN GATE",
+		"State" : "NJ",
+		"Latitude" : "+39.926628"
+	},
+	{
+		"Longitude" : "-074.109626",
+		"Zipcode" : "08741",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "PINE BEACH",
+		"State" : "NJ",
+		"Latitude" : "+40.003246"
+	},
+	{
+		"Longitude" : "-074.157056",
+		"Zipcode" : "08742",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "POINT PLEASANT BEACH",
+		"State" : "NJ",
+		"Latitude" : "+39.954807"
+	},
+	{
+		"Longitude" : "-074.043772",
+		"Zipcode" : "08750",
+		"ZipClass" : "STANDARD",
+		"County" : "MONMOUTH",
+		"City" : "SEA GIRT",
+		"State" : "NJ",
+		"Latitude" : "+40.161392"
+	},
+	{
+		"Longitude" : "-074.181649",
+		"Zipcode" : "08751",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "SEASIDE HEIGHTS",
+		"State" : "NJ",
+		"Latitude" : "+39.945991"
+	},
+	{
+		"Longitude" : "-074.145694",
+		"Zipcode" : "08752",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "SEASIDE PARK",
+		"State" : "NJ",
+		"Latitude" : "+39.805832"
+	},
+	{
+		"Longitude" : "-074.215336",
+		"Zipcode" : "08753",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "TOMS RIVER",
+		"State" : "NJ",
+		"Latitude" : "+39.958851"
+	},
+	{
+		"Longitude" : "-074.249280",
+		"Zipcode" : "08754",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "TOMS RIVER",
+		"State" : "NJ",
+		"Latitude" : "+40.000759"
+	},
+	{
+		"Longitude" : "-074.256821",
+		"Zipcode" : "08755",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "TOMS RIVER",
+		"State" : "NJ",
+		"Latitude" : "+40.000696"
+	},
+	{
+		"Longitude" : "-074.191058",
+		"Zipcode" : "08756",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "TOMS RIVER",
+		"State" : "NJ",
+		"Latitude" : "+39.787966"
+	},
+	{
+		"Longitude" : "-074.264068",
+		"Zipcode" : "08757",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "TOMS RIVER",
+		"State" : "NJ",
+		"Latitude" : "+39.943064"
+	},
+	{
+		"Longitude" : "-074.246662",
+		"Zipcode" : "08758",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "WARETOWN",
+		"State" : "NJ",
+		"Latitude" : "+39.787943"
+	},
+	{
+		"Longitude" : "-074.297820",
+		"Zipcode" : "08759",
+		"ZipClass" : "STANDARD",
+		"County" : "OCEAN",
+		"City" : "MANCHESTER TOWNSHIP",
+		"State" : "NJ",
+		"Latitude" : "+39.945798"
+	},
+	{
+		"Longitude" : "-074.890685",
+		"Zipcode" : "08801",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "ANNANDALE",
+		"State" : "NJ",
+		"Latitude" : "+40.631008"
+	},
+	{
+		"Longitude" : "-075.028089",
+		"Zipcode" : "08802",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "ASBURY",
+		"State" : "NJ",
+		"Latitude" : "+40.695034"
+	},
+	{
+		"Longitude" : "-074.949409",
+		"Zipcode" : "08803",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "BAPTISTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.563654"
+	},
+	{
+		"Longitude" : "-075.092934",
+		"Zipcode" : "08804",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "BLOOMSBURY",
+		"State" : "NJ",
+		"Latitude" : "+40.646294"
+	},
+	{
+		"Longitude" : "-074.538249",
+		"Zipcode" : "08805",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "BOUND BROOK",
+		"State" : "NJ",
+		"Latitude" : "+40.575402"
+	},
+	{
+		"Longitude" : "-074.607518",
+		"Zipcode" : "08807",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "BRIDGEWATER",
+		"State" : "NJ",
+		"Latitude" : "+40.598702"
+	},
+	{
+		"Longitude" : "-075.046926",
+		"Zipcode" : "08808",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "BROADWAY",
+		"State" : "NJ",
+		"Latitude" : "+40.737213"
+	},
+	{
+		"Longitude" : "-074.845574",
+		"Zipcode" : "08809",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "CLINTON",
+		"State" : "NJ",
+		"Latitude" : "+40.530500"
+	},
+	{
+		"Longitude" : "-074.494889",
+		"Zipcode" : "08810",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "DAYTON",
+		"State" : "NJ",
+		"Latitude" : "+40.372306"
+	},
+	{
+		"Longitude" : "-074.463947",
+		"Zipcode" : "08812",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "DUNELLEN",
+		"State" : "NJ",
+		"Latitude" : "+40.589702"
+	},
+	{
+		"Longitude" : "-074.421695",
+		"Zipcode" : "08816",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EAST BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.427697"
+	},
+	{
+		"Longitude" : "-074.393444",
+		"Zipcode" : "08817",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EDISON",
+		"State" : "NJ",
+		"Latitude" : "+40.519753"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08818",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EDISON",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.362616",
+		"Zipcode" : "08820",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EDISON",
+		"State" : "NJ",
+		"Latitude" : "+40.576611"
+	},
+	{
+		"Longitude" : "-074.599801",
+		"Zipcode" : "08821",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "FLAGTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.566553"
+	},
+	{
+		"Longitude" : "-074.863283",
+		"Zipcode" : "08822",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "FLEMINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.507860"
+	},
+	{
+		"Longitude" : "-074.560249",
+		"Zipcode" : "08823",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "FRANKLIN PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.440604"
+	},
+	{
+		"Longitude" : "-074.549761",
+		"Zipcode" : "08824",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "KENDALL PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.422955"
+	},
+	{
+		"Longitude" : "-075.012655",
+		"Zipcode" : "08825",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "FRENCHTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.581190"
+	},
+	{
+		"Longitude" : "-074.904575",
+		"Zipcode" : "08826",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "GLEN GARDNER",
+		"State" : "NJ",
+		"Latitude" : "+40.578191"
+	},
+	{
+		"Longitude" : "-074.964692",
+		"Zipcode" : "08827",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "HAMPTON",
+		"State" : "NJ",
+		"Latitude" : "+40.666700"
+	},
+	{
+		"Longitude" : "-074.421644",
+		"Zipcode" : "08828",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "HELMETTA",
+		"State" : "NJ",
+		"Latitude" : "+40.375540"
+	},
+	{
+		"Longitude" : "-074.889823",
+		"Zipcode" : "08829",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "HIGH BRIDGE",
+		"State" : "NJ",
+		"Latitude" : "+40.668163"
+	},
+	{
+		"Longitude" : "-074.315042",
+		"Zipcode" : "08830",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ISELIN",
+		"State" : "NJ",
+		"Latitude" : "+40.569211"
+	},
+	{
+		"Longitude" : "-074.428870",
+		"Zipcode" : "08831",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MONROE TOWNSHIP",
+		"State" : "NJ",
+		"Latitude" : "+40.343757"
+	},
+	{
+		"Longitude" : "-074.306961",
+		"Zipcode" : "08832",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "KEASBEY",
+		"State" : "NJ",
+		"Latitude" : "+40.517559"
+	},
+	{
+		"Longitude" : "-074.829976",
+		"Zipcode" : "08833",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "LEBANON",
+		"State" : "NJ",
+		"Latitude" : "+40.635369"
+	},
+	{
+		"Longitude" : "-074.949409",
+		"Zipcode" : "08834",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "LITTLE YORK",
+		"State" : "NJ",
+		"Latitude" : "+40.563654"
+	},
+	{
+		"Longitude" : "-074.589225",
+		"Zipcode" : "08835",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "MANVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.541053"
+	},
+	{
+		"Longitude" : "-074.553800",
+		"Zipcode" : "08836",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "MARTINSVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.604352"
+	},
+	{
+		"Longitude" : "-074.350393",
+		"Zipcode" : "08837",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EDISON",
+		"State" : "NJ",
+		"Latitude" : "+40.527054"
+	},
+	{
+		"Longitude" : "-074.451940",
+		"Zipcode" : "08840",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "METUCHEN",
+		"State" : "NJ",
+		"Latitude" : "+40.472224"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "08844",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "HILLSBOROUGH",
+		"State" : "NJ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-074.499398",
+		"Zipcode" : "08846",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MIDDLESEX",
+		"State" : "NJ",
+		"Latitude" : "+40.575202"
+	},
+	{
+		"Longitude" : "-074.970542",
+		"Zipcode" : "08848",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "MILFORD",
+		"State" : "NJ",
+		"Latitude" : "+40.664749"
+	},
+	{
+		"Longitude" : "-074.444395",
+		"Zipcode" : "08850",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MILLTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.448255"
+	},
+	{
+		"Longitude" : "-074.555799",
+		"Zipcode" : "08852",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MONMOUTH JUNCTION",
+		"State" : "NJ",
+		"Latitude" : "+40.386942"
+	},
+	{
+		"Longitude" : "-074.726555",
+		"Zipcode" : "08853",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "NESHANIC STATION",
+		"State" : "NJ",
+		"Latitude" : "+40.492604"
+	},
+	{
+		"Longitude" : "-074.457746",
+		"Zipcode" : "08854",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PISCATAWAY",
+		"State" : "NJ",
+		"Latitude" : "+40.552925"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08855",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PISCATAWAY",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.314319",
+		"Zipcode" : "08857",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "OLD BRIDGE",
+		"State" : "NJ",
+		"Latitude" : "+40.407319"
+	},
+	{
+		"Longitude" : "-074.752537",
+		"Zipcode" : "08858",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "OLDWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.691798"
+	},
+	{
+		"Longitude" : "-074.306956",
+		"Zipcode" : "08859",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PARLIN",
+		"State" : "NJ",
+		"Latitude" : "+40.459205"
+	},
+	{
+		"Longitude" : "-074.279144",
+		"Zipcode" : "08861",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PERTH AMBOY",
+		"State" : "NJ",
+		"Latitude" : "+40.520654"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08862",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PERTH AMBOY",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.315250",
+		"Zipcode" : "08863",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "FORDS",
+		"State" : "NJ",
+		"Latitude" : "+40.531390"
+	},
+	{
+		"Longitude" : "-074.987430",
+		"Zipcode" : "08865",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "PHILLIPSBURG",
+		"State" : "NJ",
+		"Latitude" : "+40.765309"
+	},
+	{
+		"Longitude" : "-074.976982",
+		"Zipcode" : "08867",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "PITTSTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.585926"
+	},
+	{
+		"Longitude" : "-074.938931",
+		"Zipcode" : "08868",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "QUAKERTOWN",
+		"State" : "NJ",
+		"Latitude" : "+40.565493"
+	},
+	{
+		"Longitude" : "-074.642649",
+		"Zipcode" : "08869",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "RARITAN",
+		"State" : "NJ",
+		"Latitude" : "+40.573802"
+	},
+	{
+		"Longitude" : "-074.949409",
+		"Zipcode" : "08870",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "READINGTON",
+		"State" : "NJ",
+		"Latitude" : "+40.563654"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08871",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SAYREVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.334192",
+		"Zipcode" : "08872",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SAYREVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.453358"
+	},
+	{
+		"Longitude" : "-074.523648",
+		"Zipcode" : "08873",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SOMERSET",
+		"State" : "NJ",
+		"Latitude" : "+40.491002"
+	},
+	{
+		"Longitude" : "-074.711731",
+		"Zipcode" : "08875",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SOMERSET",
+		"State" : "NJ",
+		"Latitude" : "+40.580918"
+	},
+	{
+		"Longitude" : "-074.661650",
+		"Zipcode" : "08876",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SOMERVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.560314"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08877",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "SOUTH RIVER",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.250942",
+		"Zipcode" : "08878",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "SOUTH AMBOY",
+		"State" : "NJ",
+		"Latitude" : "+40.436865"
+	},
+	{
+		"Longitude" : "-074.274168",
+		"Zipcode" : "08879",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SOUTH AMBOY",
+		"State" : "NJ",
+		"Latitude" : "+40.463970"
+	},
+	{
+		"Longitude" : "-074.531149",
+		"Zipcode" : "08880",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "SOUTH BOUND BROOK",
+		"State" : "NJ",
+		"Latitude" : "+40.552253"
+	},
+	{
+		"Longitude" : "-074.381768",
+		"Zipcode" : "08882",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SOUTH RIVER",
+		"State" : "NJ",
+		"Latitude" : "+40.445905"
+	},
+	{
+		"Longitude" : "-074.393249",
+		"Zipcode" : "08884",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SPOTSWOOD",
+		"State" : "NJ",
+		"Latitude" : "+40.385707"
+	},
+	{
+		"Longitude" : "-074.831105",
+		"Zipcode" : "08885",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "STANTON",
+		"State" : "NJ",
+		"Latitude" : "+40.576372"
+	},
+	{
+		"Longitude" : "-075.072957",
+		"Zipcode" : "08886",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "STEWARTSVILLE",
+		"State" : "NJ",
+		"Latitude" : "+40.717349"
+	},
+	{
+		"Longitude" : "-074.794632",
+		"Zipcode" : "08887",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "THREE BRIDGES",
+		"State" : "NJ",
+		"Latitude" : "+40.520570"
+	},
+	{
+		"Longitude" : "-074.740597",
+		"Zipcode" : "08888",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTERDON",
+		"City" : "WHITEHOUSE",
+		"State" : "NJ",
+		"Latitude" : "+40.619412"
+	},
+	{
+		"Longitude" : "-074.772376",
+		"Zipcode" : "08889",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTERDON",
+		"City" : "WHITEHOUSE STATION",
+		"State" : "NJ",
+		"Latitude" : "+40.615577"
+	},
+	{
+		"Longitude" : "-074.578872",
+		"Zipcode" : "08890",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "ZAREPHATH",
+		"State" : "NJ",
+		"Latitude" : "+40.536069"
+	},
+	{
+		"Longitude" : "-074.599801",
+		"Zipcode" : "08896",
+		"ZipClass" : "UNIQUE",
+		"County" : "SOMERSET",
+		"City" : "RARITAN",
+		"State" : "NJ",
+		"Latitude" : "+40.566553"
+	},
+	{
+		"Longitude" : "-074.420545",
+		"Zipcode" : "08899",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EDISON",
+		"State" : "NJ",
+		"Latitude" : "+40.520254"
+	},
+	{
+		"Longitude" : "-074.444395",
+		"Zipcode" : "08901",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEW BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.486754"
+	},
+	{
+		"Longitude" : "-074.488547",
+		"Zipcode" : "08902",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NORTH BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.437705"
+	},
+	{
+		"Longitude" : "-074.445098",
+		"Zipcode" : "08903",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEW BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.513854"
+	},
+	{
+		"Longitude" : "-074.428095",
+		"Zipcode" : "08904",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "HIGHLAND PARK",
+		"State" : "NJ",
+		"Latitude" : "+40.499866"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08905",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "NEW BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08906",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEW BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08922",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "NEW BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08933",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "NEW BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08988",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "NEW BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	},
+	{
+		"Longitude" : "-074.417344",
+		"Zipcode" : "08989",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "NEW BRUNSWICK",
+		"State" : "NJ",
+		"Latitude" : "+40.430006"
+	}
+]}

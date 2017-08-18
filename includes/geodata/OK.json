@@ -1,0 +1,7005 @@
+{
+	"result":[
+	{
+		"Longitude" : "-098.357423",
+		"Zipcode" : "73001",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CADDO",
+		"City" : "ALBERT",
+		"State" : "OK",
+		"Latitude" : "+35.203206"
+	},
+	{
+		"Longitude" : "-097.781220",
+		"Zipcode" : "73002",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "ALEX",
+		"State" : "OK",
+		"Latitude" : "+34.914788"
+	},
+	{
+		"Longitude" : "-097.499681",
+		"Zipcode" : "73003",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "EDMOND",
+		"State" : "OK",
+		"Latitude" : "+35.674777"
+	},
+	{
+		"Longitude" : "-097.881959",
+		"Zipcode" : "73004",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "AMBER",
+		"State" : "OK",
+		"Latitude" : "+35.031247"
+	},
+	{
+		"Longitude" : "-098.325598",
+		"Zipcode" : "73005",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "ANADARKO",
+		"State" : "OK",
+		"Latitude" : "+35.167108"
+	},
+	{
+		"Longitude" : "-098.361483",
+		"Zipcode" : "73006",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "APACHE",
+		"State" : "OK",
+		"Latitude" : "+34.891016"
+	},
+	{
+		"Longitude" : "-097.309856",
+		"Zipcode" : "73007",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "ARCADIA",
+		"State" : "OK",
+		"Latitude" : "+35.672506"
+	},
+	{
+		"Longitude" : "-097.498858",
+		"Zipcode" : "73008",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "BETHANY",
+		"State" : "OK",
+		"Latitude" : "+35.576674"
+	},
+	{
+		"Longitude" : "-098.344265",
+		"Zipcode" : "73009",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "BINGER",
+		"State" : "OK",
+		"Latitude" : "+35.308457"
+	},
+	{
+		"Longitude" : "-097.527291",
+		"Zipcode" : "73010",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCLAIN",
+		"City" : "BLANCHARD",
+		"State" : "OK",
+		"Latitude" : "+35.094914"
+	},
+	{
+		"Longitude" : "-097.881959",
+		"Zipcode" : "73011",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "BRADLEY",
+		"State" : "OK",
+		"Latitude" : "+35.031247"
+	},
+	{
+		"Longitude" : "-097.852223",
+		"Zipcode" : "73012",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "BRAY",
+		"State" : "OK",
+		"Latitude" : "+34.485320"
+	},
+	{
+		"Longitude" : "-097.515011",
+		"Zipcode" : "73013",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "EDMOND",
+		"State" : "OK",
+		"Latitude" : "+35.555542"
+	},
+	{
+		"Longitude" : "-098.151236",
+		"Zipcode" : "73014",
+		"ZipClass" : "STANDARD",
+		"County" : "CANADIAN",
+		"City" : "CALUMET",
+		"State" : "OK",
+		"Latitude" : "+35.547575"
+	},
+	{
+		"Longitude" : "-098.594067",
+		"Zipcode" : "73015",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "CARNEGIE",
+		"State" : "OK",
+		"Latitude" : "+35.105404"
+	},
+	{
+		"Longitude" : "-097.699679",
+		"Zipcode" : "73016",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGFISHER",
+		"City" : "CASHION",
+		"State" : "OK",
+		"Latitude" : "+35.818432"
+	},
+	{
+		"Longitude" : "-098.163436",
+		"Zipcode" : "73017",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "CEMENT",
+		"State" : "OK",
+		"Latitude" : "+34.924452"
+	},
+	{
+		"Longitude" : "-097.937083",
+		"Zipcode" : "73018",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "CHICKASHA",
+		"State" : "OK",
+		"Latitude" : "+35.127804"
+	},
+	{
+		"Longitude" : "-097.444510",
+		"Zipcode" : "73019",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLEVELAND",
+		"City" : "NORMAN",
+		"State" : "OK",
+		"Latitude" : "+35.208566"
+	},
+	{
+		"Longitude" : "-097.249071",
+		"Zipcode" : "73020",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "CHOCTAW",
+		"State" : "OK",
+		"Latitude" : "+35.518760"
+	},
+	{
+		"Longitude" : "-098.991373",
+		"Zipcode" : "73021",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "COLONY",
+		"State" : "OK",
+		"Latitude" : "+35.281428"
+	},
+	{
+		"Longitude" : "-097.992347",
+		"Zipcode" : "73022",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CANADIAN",
+		"City" : "CONCHO",
+		"State" : "OK",
+		"Latitude" : "+35.525192"
+	},
+	{
+		"Longitude" : "-097.881959",
+		"Zipcode" : "73023",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "CHICKASHA",
+		"State" : "OK",
+		"Latitude" : "+35.031247"
+	},
+	{
+		"Longitude" : "-098.781794",
+		"Zipcode" : "73024",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "CORN",
+		"State" : "OK",
+		"Latitude" : "+35.378409"
+	},
+	{
+		"Longitude" : "-097.291356",
+		"Zipcode" : "73026",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "NORMAN",
+		"State" : "OK",
+		"Latitude" : "+35.234290"
+	},
+	{
+		"Longitude" : "-097.291688",
+		"Zipcode" : "73027",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "COYLE",
+		"State" : "OK",
+		"Latitude" : "+35.950214"
+	},
+	{
+		"Longitude" : "-097.628098",
+		"Zipcode" : "73028",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "CRESCENT",
+		"State" : "OK",
+		"Latitude" : "+35.977031"
+	},
+	{
+		"Longitude" : "-098.204397",
+		"Zipcode" : "73029",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "CYRIL",
+		"State" : "OK",
+		"Latitude" : "+34.897258"
+	},
+	{
+		"Longitude" : "-097.047346",
+		"Zipcode" : "73030",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "DAVIS",
+		"State" : "OK",
+		"Latitude" : "+34.501771"
+	},
+	{
+		"Longitude" : "-097.301103",
+		"Zipcode" : "73031",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCCLAIN",
+		"City" : "DIBBLE",
+		"State" : "OK",
+		"Latitude" : "+35.095739"
+	},
+	{
+		"Longitude" : "-097.089708",
+		"Zipcode" : "73032",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MURRAY",
+		"City" : "DOUGHERTY",
+		"State" : "OK",
+		"Latitude" : "+34.484702"
+	},
+	{
+		"Longitude" : "-098.555431",
+		"Zipcode" : "73033",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CADDO",
+		"City" : "EAKLY",
+		"State" : "OK",
+		"Latitude" : "+35.303031"
+	},
+	{
+		"Longitude" : "-097.463291",
+		"Zipcode" : "73034",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "EDMOND",
+		"State" : "OK",
+		"Latitude" : "+35.631005"
+	},
+	{
+		"Longitude" : "-098.026708",
+		"Zipcode" : "73036",
+		"ZipClass" : "STANDARD",
+		"County" : "CANADIAN",
+		"City" : "EL RENO",
+		"State" : "OK",
+		"Latitude" : "+35.508128"
+	},
+	{
+		"Longitude" : "-098.441730",
+		"Zipcode" : "73038",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "FORT COBB",
+		"State" : "OK",
+		"Latitude" : "+35.100632"
+	},
+	{
+		"Longitude" : "-098.320540",
+		"Zipcode" : "73040",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "GEARY",
+		"State" : "OK",
+		"Latitude" : "+35.630034"
+	},
+	{
+		"Longitude" : "-098.875945",
+		"Zipcode" : "73041",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "GOTEBO",
+		"State" : "OK",
+		"Latitude" : "+35.069516"
+	},
+	{
+		"Longitude" : "-098.233336",
+		"Zipcode" : "73042",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "GRACEMONT",
+		"State" : "OK",
+		"Latitude" : "+35.042316"
+	},
+	{
+		"Longitude" : "-098.421836",
+		"Zipcode" : "73043",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "GREENFIELD",
+		"State" : "OK",
+		"Latitude" : "+35.858554"
+	},
+	{
+		"Longitude" : "-097.456312",
+		"Zipcode" : "73044",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "GUTHRIE",
+		"State" : "OK",
+		"Latitude" : "+35.877129"
+	},
+	{
+		"Longitude" : "-097.395314",
+		"Zipcode" : "73045",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "HARRAH",
+		"State" : "OK",
+		"Latitude" : "+35.533160"
+	},
+	{
+		"Longitude" : "-098.363710",
+		"Zipcode" : "73047",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "HINTON",
+		"State" : "OK",
+		"Latitude" : "+35.473233"
+	},
+	{
+		"Longitude" : "-098.431080",
+		"Zipcode" : "73048",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "HYDRO",
+		"State" : "OK",
+		"Latitude" : "+35.327225"
+	},
+	{
+		"Longitude" : "-097.276428",
+		"Zipcode" : "73049",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "JONES",
+		"State" : "OK",
+		"Latitude" : "+35.578623"
+	},
+	{
+		"Longitude" : "-097.255650",
+		"Zipcode" : "73050",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "LANGSTON",
+		"State" : "OK",
+		"Latitude" : "+35.941924"
+	},
+	{
+		"Longitude" : "-097.269990",
+		"Zipcode" : "73051",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "LEXINGTON",
+		"State" : "OK",
+		"Latitude" : "+35.057992"
+	},
+	{
+		"Longitude" : "-097.516680",
+		"Zipcode" : "73052",
+		"ZipClass" : "STANDARD",
+		"County" : "GARVIN",
+		"City" : "LINDSAY",
+		"State" : "OK",
+		"Latitude" : "+34.836481"
+	},
+	{
+		"Longitude" : "-098.357423",
+		"Zipcode" : "73053",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "LOOKEBA",
+		"State" : "OK",
+		"Latitude" : "+35.203206"
+	},
+	{
+		"Longitude" : "-097.212206",
+		"Zipcode" : "73054",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "LUTHER",
+		"State" : "OK",
+		"Latitude" : "+35.632093"
+	},
+	{
+		"Longitude" : "-097.908875",
+		"Zipcode" : "73055",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "MARLOW",
+		"State" : "OK",
+		"Latitude" : "+34.640543"
+	},
+	{
+		"Longitude" : "-097.626084",
+		"Zipcode" : "73056",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "MARSHALL",
+		"State" : "OK",
+		"Latitude" : "+36.154158"
+	},
+	{
+		"Longitude" : "-097.405333",
+		"Zipcode" : "73057",
+		"ZipClass" : "STANDARD",
+		"County" : "GARVIN",
+		"City" : "MAYSVILLE",
+		"State" : "OK",
+		"Latitude" : "+34.816265"
+	},
+	{
+		"Longitude" : "-097.226590",
+		"Zipcode" : "73058",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "MERIDIAN",
+		"State" : "OK",
+		"Latitude" : "+35.775549"
+	},
+	{
+		"Longitude" : "-097.950402",
+		"Zipcode" : "73059",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "MINCO",
+		"State" : "OK",
+		"Latitude" : "+35.312780"
+	},
+	{
+		"Longitude" : "-097.029796",
+		"Zipcode" : "73061",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "MORRISON",
+		"State" : "OK",
+		"Latitude" : "+36.288043"
+	},
+	{
+		"Longitude" : "-098.806836",
+		"Zipcode" : "73062",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "MOUNTAIN VIEW",
+		"State" : "OK",
+		"Latitude" : "+35.087227"
+	},
+	{
+		"Longitude" : "-097.404562",
+		"Zipcode" : "73063",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "MULHALL",
+		"State" : "OK",
+		"Latitude" : "+36.062875"
+	},
+	{
+		"Longitude" : "-097.759874",
+		"Zipcode" : "73064",
+		"ZipClass" : "STANDARD",
+		"County" : "CANADIAN",
+		"City" : "MUSTANG",
+		"State" : "OK",
+		"Latitude" : "+35.390376"
+	},
+	{
+		"Longitude" : "-097.574274",
+		"Zipcode" : "73065",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCLAIN",
+		"City" : "NEWCASTLE",
+		"State" : "OK",
+		"Latitude" : "+35.219694"
+	},
+	{
+		"Longitude" : "-097.267769",
+		"Zipcode" : "73066",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKLAHOMA",
+		"City" : "NICOMA PARK",
+		"State" : "OK",
+		"Latitude" : "+35.469296"
+	},
+	{
+		"Longitude" : "-097.939225",
+		"Zipcode" : "73067",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "NINNEKAH",
+		"State" : "OK",
+		"Latitude" : "+34.932908"
+	},
+	{
+		"Longitude" : "-097.276226",
+		"Zipcode" : "73068",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "NOBLE",
+		"State" : "OK",
+		"Latitude" : "+35.152314"
+	},
+	{
+		"Longitude" : "-097.438246",
+		"Zipcode" : "73069",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "NORMAN",
+		"State" : "OK",
+		"Latitude" : "+35.232966"
+	},
+	{
+		"Longitude" : "-097.397509",
+		"Zipcode" : "73070",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "NORMAN",
+		"State" : "OK",
+		"Latitude" : "+35.187611"
+	},
+	{
+		"Longitude" : "-097.300313",
+		"Zipcode" : "73071",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "NORMAN",
+		"State" : "OK",
+		"Latitude" : "+35.254049"
+	},
+	{
+		"Longitude" : "-097.363181",
+		"Zipcode" : "73072",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "NORMAN",
+		"State" : "OK",
+		"Latitude" : "+35.218728"
+	},
+	{
+		"Longitude" : "-097.408181",
+		"Zipcode" : "73073",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "ORLANDO",
+		"State" : "OK",
+		"Latitude" : "+35.944569"
+	},
+	{
+		"Longitude" : "-097.262188",
+		"Zipcode" : "73074",
+		"ZipClass" : "STANDARD",
+		"County" : "GARVIN",
+		"City" : "PAOLI",
+		"State" : "OK",
+		"Latitude" : "+34.827711"
+	},
+	{
+		"Longitude" : "-097.308819",
+		"Zipcode" : "73075",
+		"ZipClass" : "STANDARD",
+		"County" : "GARVIN",
+		"City" : "PAULS VALLEY",
+		"State" : "OK",
+		"Latitude" : "+34.759696"
+	},
+	{
+		"Longitude" : "-097.285561",
+		"Zipcode" : "73077",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "PERRY",
+		"State" : "OK",
+		"Latitude" : "+36.318709"
+	},
+	{
+		"Longitude" : "-097.753948",
+		"Zipcode" : "73078",
+		"ZipClass" : "STANDARD",
+		"County" : "CANADIAN",
+		"City" : "PIEDMONT",
+		"State" : "OK",
+		"Latitude" : "+35.653019"
+	},
+	{
+		"Longitude" : "-097.881959",
+		"Zipcode" : "73079",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "POCASSET",
+		"State" : "OK",
+		"Latitude" : "+35.031247"
+	},
+	{
+		"Longitude" : "-097.379902",
+		"Zipcode" : "73080",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCLAIN",
+		"City" : "PURCELL",
+		"State" : "OK",
+		"Latitude" : "+35.001810"
+	},
+	{
+		"Longitude" : "-097.954459",
+		"Zipcode" : "73082",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "RUSH SPRINGS",
+		"State" : "OK",
+		"Latitude" : "+34.775535"
+	},
+	{
+		"Longitude" : "-097.465436",
+		"Zipcode" : "73083",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "EDMOND",
+		"State" : "OK",
+		"Latitude" : "+35.666481"
+	},
+	{
+		"Longitude" : "-097.387602",
+		"Zipcode" : "73084",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "SPENCER",
+		"State" : "OK",
+		"Latitude" : "+35.540113"
+	},
+	{
+		"Longitude" : "-097.750009",
+		"Zipcode" : "73085",
+		"ZipClass" : "STANDARD",
+		"County" : "CANADIAN",
+		"City" : "YUKON",
+		"State" : "OK",
+		"Latitude" : "+35.489527"
+	},
+	{
+		"Longitude" : "-096.996244",
+		"Zipcode" : "73086",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "SULPHUR",
+		"State" : "OK",
+		"Latitude" : "+34.520837"
+	},
+	{
+		"Longitude" : "-097.816480",
+		"Zipcode" : "73089",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "TUTTLE",
+		"State" : "OK",
+		"Latitude" : "+35.058651"
+	},
+	{
+		"Longitude" : "-097.944388",
+		"Zipcode" : "73090",
+		"ZipClass" : "STANDARD",
+		"County" : "CANADIAN",
+		"City" : "UNION CITY",
+		"State" : "OK",
+		"Latitude" : "+35.392567"
+	},
+	{
+		"Longitude" : "-098.087971",
+		"Zipcode" : "73092",
+		"ZipClass" : "STANDARD",
+		"County" : "GRADY",
+		"City" : "VERDEN",
+		"State" : "OK",
+		"Latitude" : "+35.081997"
+	},
+	{
+		"Longitude" : "-097.468258",
+		"Zipcode" : "73093",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCLAIN",
+		"City" : "WASHINGTON",
+		"State" : "OK",
+		"Latitude" : "+35.105058"
+	},
+	{
+		"Longitude" : "-098.357423",
+		"Zipcode" : "73094",
+		"ZipClass" : "STANDARD",
+		"County" : "CADDO",
+		"City" : "WASHITA",
+		"State" : "OK",
+		"Latitude" : "+35.203206"
+	},
+	{
+		"Longitude" : "-097.315974",
+		"Zipcode" : "73095",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCLAIN",
+		"City" : "WAYNE",
+		"State" : "OK",
+		"Latitude" : "+34.917497"
+	},
+	{
+		"Longitude" : "-098.703175",
+		"Zipcode" : "73096",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "WEATHERFORD",
+		"State" : "OK",
+		"Latitude" : "+35.538228"
+	},
+	{
+		"Longitude" : "-097.644368",
+		"Zipcode" : "73097",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKLAHOMA",
+		"City" : "WHEATLAND",
+		"State" : "OK",
+		"Latitude" : "+35.400759"
+	},
+	{
+		"Longitude" : "-097.162257",
+		"Zipcode" : "73098",
+		"ZipClass" : "STANDARD",
+		"County" : "GARVIN",
+		"City" : "WYNNEWOOD",
+		"State" : "OK",
+		"Latitude" : "+34.645418"
+	},
+	{
+		"Longitude" : "-097.770532",
+		"Zipcode" : "73099",
+		"ZipClass" : "STANDARD",
+		"County" : "CANADIAN",
+		"City" : "YUKON",
+		"State" : "OK",
+		"Latitude" : "+35.521448"
+	},
+	{
+		"Longitude" : "-097.562817",
+		"Zipcode" : "73101",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.491608"
+	},
+	{
+		"Longitude" : "-097.518916",
+		"Zipcode" : "73102",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.475209"
+	},
+	{
+		"Longitude" : "-097.486407",
+		"Zipcode" : "73103",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.549197"
+	},
+	{
+		"Longitude" : "-097.506415",
+		"Zipcode" : "73104",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.445410"
+	},
+	{
+		"Longitude" : "-097.505416",
+		"Zipcode" : "73105",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.518576"
+	},
+	{
+		"Longitude" : "-097.536666",
+		"Zipcode" : "73106",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.482014"
+	},
+	{
+		"Longitude" : "-097.542666",
+		"Zipcode" : "73107",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.481908"
+	},
+	{
+		"Longitude" : "-097.566497",
+		"Zipcode" : "73108",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.447559"
+	},
+	{
+		"Longitude" : "-097.525265",
+		"Zipcode" : "73109",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.435221"
+	},
+	{
+		"Longitude" : "-097.397441",
+		"Zipcode" : "73110",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.460511"
+	},
+	{
+		"Longitude" : "-097.502631",
+		"Zipcode" : "73111",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.526182"
+	},
+	{
+		"Longitude" : "-097.578865",
+		"Zipcode" : "73112",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.511007"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73113",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.499605",
+		"Zipcode" : "73114",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.544882"
+	},
+	{
+		"Longitude" : "-097.446013",
+		"Zipcode" : "73115",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.444931"
+	},
+	{
+		"Longitude" : "-097.556318",
+		"Zipcode" : "73116",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551571"
+	},
+	{
+		"Longitude" : "-097.463314",
+		"Zipcode" : "73117",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.485021"
+	},
+	{
+		"Longitude" : "-097.523316",
+		"Zipcode" : "73118",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.518458"
+	},
+	{
+		"Longitude" : "-097.583267",
+		"Zipcode" : "73119",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.462144"
+	},
+	{
+		"Longitude" : "-097.568418",
+		"Zipcode" : "73120",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.587155"
+	},
+	{
+		"Longitude" : "-097.451938",
+		"Zipcode" : "73121",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.532257"
+	},
+	{
+		"Longitude" : "-097.636119",
+		"Zipcode" : "73122",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.518768"
+	},
+	{
+		"Longitude" : "-097.202331",
+		"Zipcode" : "73123",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.535989"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73124",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.521816",
+		"Zipcode" : "73125",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.465418"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73126",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.600817",
+		"Zipcode" : "73127",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.475459"
+	},
+	{
+		"Longitude" : "-097.636284",
+		"Zipcode" : "73128",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.427335"
+	},
+	{
+		"Longitude" : "-097.486065",
+		"Zipcode" : "73129",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.428579"
+	},
+	{
+		"Longitude" : "-097.298733",
+		"Zipcode" : "73130",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.459312"
+	},
+	{
+		"Longitude" : "-097.459414",
+		"Zipcode" : "73131",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.566004"
+	},
+	{
+		"Longitude" : "-097.637519",
+		"Zipcode" : "73132",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.558349"
+	},
+	{
+		"Longitude" : "-097.567199",
+		"Zipcode" : "73134",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.624134"
+	},
+	{
+		"Longitude" : "-097.416562",
+		"Zipcode" : "73135",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.401512"
+	},
+	{
+		"Longitude" : "-097.326151",
+		"Zipcode" : "73136",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.615340"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73137",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.525464",
+		"Zipcode" : "73139",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.370262"
+	},
+	{
+		"Longitude" : "-097.427464",
+		"Zipcode" : "73140",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.518509"
+	},
+	{
+		"Longitude" : "-097.397064",
+		"Zipcode" : "73141",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.583757"
+	},
+	{
+		"Longitude" : "-097.612588",
+		"Zipcode" : "73142",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.620340"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73143",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73144",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.396184",
+		"Zipcode" : "73145",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.430406"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73146",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73147",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73148",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.477463",
+		"Zipcode" : "73149",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.391712"
+	},
+	{
+		"Longitude" : "-097.320363",
+		"Zipcode" : "73150",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.406963"
+	},
+	{
+		"Longitude" : "-097.371621",
+		"Zipcode" : "73151",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.574858"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73152",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73153",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.525467",
+		"Zipcode" : "73154",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.523758"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73155",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73156",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73157",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.566716",
+		"Zipcode" : "73159",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.394212"
+	},
+	{
+		"Longitude" : "-097.406805",
+		"Zipcode" : "73160",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.326895"
+	},
+	{
+		"Longitude" : "-097.575218",
+		"Zipcode" : "73162",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.565419"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73163",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73164",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.353359",
+		"Zipcode" : "73165",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.326665"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73167",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.636161",
+		"Zipcode" : "73169",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.392473"
+	},
+	{
+		"Longitude" : "-097.501459",
+		"Zipcode" : "73170",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.297200"
+	},
+	{
+		"Longitude" : "-097.621769",
+		"Zipcode" : "73172",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.517456"
+	},
+	{
+		"Longitude" : "-097.625383",
+		"Zipcode" : "73173",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.343003"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73177",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73178",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.636300",
+		"Zipcode" : "73179",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.424819"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73180",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73184",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73185",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73189",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73190",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73193",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73194",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "73195",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73196",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73197",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73198",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.407537",
+		"Zipcode" : "73199",
+		"ZipClass" : "UNIQUE",
+		"County" : "OKLAHOMA",
+		"City" : "OKLAHOMA CITY",
+		"State" : "OK",
+		"Latitude" : "+35.551409"
+	},
+	{
+		"Longitude" : "-097.179214",
+		"Zipcode" : "73401",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "ARDMORE",
+		"State" : "OK",
+		"Latitude" : "+34.156627"
+	},
+	{
+		"Longitude" : "-097.248074",
+		"Zipcode" : "73402",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "ARDMORE",
+		"State" : "OK",
+		"Latitude" : "+34.288884"
+	},
+	{
+		"Longitude" : "-097.248074",
+		"Zipcode" : "73403",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "ARDMORE",
+		"State" : "OK",
+		"Latitude" : "+34.288884"
+	},
+	{
+		"Longitude" : "-097.852223",
+		"Zipcode" : "73425",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEPHENS",
+		"City" : "COUNTYLINE",
+		"State" : "OK",
+		"Latitude" : "+34.485320"
+	},
+	{
+		"Longitude" : "-097.310324",
+		"Zipcode" : "73430",
+		"ZipClass" : "STANDARD",
+		"County" : "LOVE",
+		"City" : "BURNEYVILLE",
+		"State" : "OK",
+		"Latitude" : "+33.925982"
+	},
+	{
+		"Longitude" : "-096.670349",
+		"Zipcode" : "73432",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSTON",
+		"City" : "COLEMAN",
+		"State" : "OK",
+		"Latitude" : "+34.310191"
+	},
+	{
+		"Longitude" : "-097.340770",
+		"Zipcode" : "73433",
+		"ZipClass" : "STANDARD",
+		"County" : "GARVIN",
+		"City" : "ELMORE CITY",
+		"State" : "OK",
+		"Latitude" : "+34.719832"
+	},
+	{
+		"Longitude" : "-097.852223",
+		"Zipcode" : "73434",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "FOSTER",
+		"State" : "OK",
+		"Latitude" : "+34.485320"
+	},
+	{
+		"Longitude" : "-097.248074",
+		"Zipcode" : "73435",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARTER",
+		"City" : "FOX",
+		"State" : "OK",
+		"Latitude" : "+34.288884"
+	},
+	{
+		"Longitude" : "-097.033905",
+		"Zipcode" : "73436",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARTER",
+		"City" : "GENE AUTRY",
+		"State" : "OK",
+		"Latitude" : "+34.293948"
+	},
+	{
+		"Longitude" : "-097.248074",
+		"Zipcode" : "73437",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "GRAHAM",
+		"State" : "OK",
+		"Latitude" : "+34.288884"
+	},
+	{
+		"Longitude" : "-097.402923",
+		"Zipcode" : "73438",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "HEALDTON",
+		"State" : "OK",
+		"Latitude" : "+34.217164"
+	},
+	{
+		"Longitude" : "-096.698204",
+		"Zipcode" : "73439",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "KINGSTON",
+		"State" : "OK",
+		"Latitude" : "+33.974518"
+	},
+	{
+		"Longitude" : "-096.758835",
+		"Zipcode" : "73440",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "LEBANON",
+		"State" : "OK",
+		"Latitude" : "+33.998567"
+	},
+	{
+		"Longitude" : "-097.247886",
+		"Zipcode" : "73441",
+		"ZipClass" : "STANDARD",
+		"County" : "LOVE",
+		"City" : "LEON",
+		"State" : "OK",
+		"Latitude" : "+33.894135"
+	},
+	{
+		"Longitude" : "-097.852223",
+		"Zipcode" : "73442",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "LOCO",
+		"State" : "OK",
+		"Latitude" : "+34.485320"
+	},
+	{
+		"Longitude" : "-097.321977",
+		"Zipcode" : "73443",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "LONE GROVE",
+		"State" : "OK",
+		"Latitude" : "+34.141332"
+	},
+	{
+		"Longitude" : "-097.300429",
+		"Zipcode" : "73444",
+		"ZipClass" : "STANDARD",
+		"County" : "GARVIN",
+		"City" : "HENNEPIN",
+		"State" : "OK",
+		"Latitude" : "+34.680871"
+	},
+	{
+		"Longitude" : "-096.754984",
+		"Zipcode" : "73446",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "MADILL",
+		"State" : "OK",
+		"Latitude" : "+34.010202"
+	},
+	{
+		"Longitude" : "-096.878673",
+		"Zipcode" : "73447",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSTON",
+		"City" : "MANNSVILLE",
+		"State" : "OK",
+		"Latitude" : "+34.183418"
+	},
+	{
+		"Longitude" : "-097.111939",
+		"Zipcode" : "73448",
+		"ZipClass" : "STANDARD",
+		"County" : "LOVE",
+		"City" : "MARIETTA",
+		"State" : "OK",
+		"Latitude" : "+33.935268"
+	},
+	{
+		"Longitude" : "-096.457371",
+		"Zipcode" : "73449",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "MEAD",
+		"State" : "OK",
+		"Latitude" : "+33.971979"
+	},
+	{
+		"Longitude" : "-096.670349",
+		"Zipcode" : "73450",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSTON",
+		"City" : "MILBURN",
+		"State" : "OK",
+		"Latitude" : "+34.310191"
+	},
+	{
+		"Longitude" : "-097.247886",
+		"Zipcode" : "73453",
+		"ZipClass" : "STANDARD",
+		"County" : "LOVE",
+		"City" : "OVERBROOK",
+		"State" : "OK",
+		"Latitude" : "+33.894135"
+	},
+	{
+		"Longitude" : "-096.752906",
+		"Zipcode" : "73455",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JOHNSTON",
+		"City" : "RAVIA",
+		"State" : "OK",
+		"Latitude" : "+34.244023"
+	},
+	{
+		"Longitude" : "-097.810259",
+		"Zipcode" : "73456",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "RINGLING",
+		"State" : "OK",
+		"Latitude" : "+34.200318"
+	},
+	{
+		"Longitude" : "-097.134372",
+		"Zipcode" : "73458",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "SPRINGER",
+		"State" : "OK",
+		"Latitude" : "+34.304534"
+	},
+	{
+		"Longitude" : "-097.247886",
+		"Zipcode" : "73459",
+		"ZipClass" : "STANDARD",
+		"County" : "LOVE",
+		"City" : "THACKERVILLE",
+		"State" : "OK",
+		"Latitude" : "+33.894135"
+	},
+	{
+		"Longitude" : "-096.655188",
+		"Zipcode" : "73460",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSTON",
+		"City" : "TISHOMINGO",
+		"State" : "OK",
+		"Latitude" : "+34.275856"
+	},
+	{
+		"Longitude" : "-096.429558",
+		"Zipcode" : "73461",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSTON",
+		"City" : "WAPANUCKA",
+		"State" : "OK",
+		"Latitude" : "+34.371445"
+	},
+	{
+		"Longitude" : "-097.354691",
+		"Zipcode" : "73463",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "WILSON",
+		"State" : "OK",
+		"Latitude" : "+34.169282"
+	},
+	{
+		"Longitude" : "-097.300429",
+		"Zipcode" : "73476",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARVIN",
+		"City" : "PERNELL",
+		"State" : "OK",
+		"Latitude" : "+34.680871"
+	},
+	{
+		"Longitude" : "-097.248074",
+		"Zipcode" : "73481",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "RATLIFF CITY",
+		"State" : "OK",
+		"Latitude" : "+34.288884"
+	},
+	{
+		"Longitude" : "-097.248074",
+		"Zipcode" : "73487",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARTER",
+		"City" : "TATUMS",
+		"State" : "OK",
+		"Latitude" : "+34.288884"
+	},
+	{
+		"Longitude" : "-097.248074",
+		"Zipcode" : "73488",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "TUSSY",
+		"State" : "OK",
+		"Latitude" : "+34.288884"
+	},
+	{
+		"Longitude" : "-097.668866",
+		"Zipcode" : "73491",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEPHENS",
+		"City" : "VELMA",
+		"State" : "OK",
+		"Latitude" : "+34.456505"
+	},
+	{
+		"Longitude" : "-098.448452",
+		"Zipcode" : "73501",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "LAWTON",
+		"State" : "OK",
+		"Latitude" : "+34.635378"
+	},
+	{
+		"Longitude" : "-098.457646",
+		"Zipcode" : "73502",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "LAWTON",
+		"State" : "OK",
+		"Latitude" : "+34.630879"
+	},
+	{
+		"Longitude" : "-098.437482",
+		"Zipcode" : "73503",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "FORT SILL",
+		"State" : "OK",
+		"Latitude" : "+34.663978"
+	},
+	{
+		"Longitude" : "-098.436365",
+		"Zipcode" : "73505",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "LAWTON",
+		"State" : "OK",
+		"Latitude" : "+34.678734"
+	},
+	{
+		"Longitude" : "-098.457646",
+		"Zipcode" : "73506",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "LAWTON",
+		"State" : "OK",
+		"Latitude" : "+34.630879"
+	},
+	{
+		"Longitude" : "-098.387482",
+		"Zipcode" : "73507",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "LAWTON",
+		"State" : "OK",
+		"Latitude" : "+34.560957"
+	},
+	{
+		"Longitude" : "-097.838026",
+		"Zipcode" : "73520",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "ADDINGTON",
+		"State" : "OK",
+		"Latitude" : "+34.069661"
+	},
+	{
+		"Longitude" : "-099.280343",
+		"Zipcode" : "73521",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ALTUS",
+		"State" : "OK",
+		"Latitude" : "+34.663039"
+	},
+	{
+		"Longitude" : "-099.383928",
+		"Zipcode" : "73522",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ALTUS",
+		"State" : "OK",
+		"Latitude" : "+34.723795"
+	},
+	{
+		"Longitude" : "-099.440839",
+		"Zipcode" : "73523",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ALTUS AFB",
+		"State" : "OK",
+		"Latitude" : "+34.598197"
+	},
+	{
+		"Longitude" : "-099.331758",
+		"Zipcode" : "73526",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "BLAIR",
+		"State" : "OK",
+		"Latitude" : "+34.783568"
+	},
+	{
+		"Longitude" : "-098.508297",
+		"Zipcode" : "73527",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "CACHE",
+		"State" : "OK",
+		"Latitude" : "+34.545031"
+	},
+	{
+		"Longitude" : "-098.654352",
+		"Zipcode" : "73528",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "CHATTANOOGA",
+		"State" : "OK",
+		"Latitude" : "+34.424316"
+	},
+	{
+		"Longitude" : "-097.970651",
+		"Zipcode" : "73529",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "COMANCHE",
+		"State" : "OK",
+		"Latitude" : "+34.393689"
+	},
+	{
+		"Longitude" : "-099.076314",
+		"Zipcode" : "73530",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLMAN",
+		"City" : "DAVIDSON",
+		"State" : "OK",
+		"Latitude" : "+34.242236"
+	},
+	{
+		"Longitude" : "-098.400440",
+		"Zipcode" : "73531",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTON",
+		"City" : "DEVOL",
+		"State" : "OK",
+		"Latitude" : "+34.284738"
+	},
+	{
+		"Longitude" : "-099.569018",
+		"Zipcode" : "73532",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "DUKE",
+		"State" : "OK",
+		"Latitude" : "+34.663508"
+	},
+	{
+		"Longitude" : "-097.933279",
+		"Zipcode" : "73533",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "DUNCAN",
+		"State" : "OK",
+		"Latitude" : "+34.547749"
+	},
+	{
+		"Longitude" : "-097.973331",
+		"Zipcode" : "73534",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "DUNCAN",
+		"State" : "OK",
+		"Latitude" : "+34.518944"
+	},
+	{
+		"Longitude" : "-097.852223",
+		"Zipcode" : "73536",
+		"ZipClass" : "UNIQUE",
+		"County" : "STEPHENS",
+		"City" : "DUNCAN",
+		"State" : "OK",
+		"Latitude" : "+34.485320"
+	},
+	{
+		"Longitude" : "-099.647324",
+		"Zipcode" : "73537",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ELDORADO",
+		"State" : "OK",
+		"Latitude" : "+34.472021"
+	},
+	{
+		"Longitude" : "-098.406833",
+		"Zipcode" : "73538",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "ELGIN",
+		"State" : "OK",
+		"Latitude" : "+34.609391"
+	},
+	{
+		"Longitude" : "-099.347951",
+		"Zipcode" : "73539",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ELMER",
+		"State" : "OK",
+		"Latitude" : "+34.481717"
+	},
+	{
+		"Longitude" : "-098.457646",
+		"Zipcode" : "73540",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "FAXON",
+		"State" : "OK",
+		"Latitude" : "+34.630879"
+	},
+	{
+		"Longitude" : "-098.228076",
+		"Zipcode" : "73541",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "FLETCHER",
+		"State" : "OK",
+		"Latitude" : "+34.826905"
+	},
+	{
+		"Longitude" : "-099.001688",
+		"Zipcode" : "73542",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLMAN",
+		"City" : "FREDERICK",
+		"State" : "OK",
+		"Latitude" : "+34.386281"
+	},
+	{
+		"Longitude" : "-098.381879",
+		"Zipcode" : "73543",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "GERONIMO",
+		"State" : "OK",
+		"Latitude" : "+34.482402"
+	},
+	{
+		"Longitude" : "-099.833341",
+		"Zipcode" : "73544",
+		"ZipClass" : "STANDARD",
+		"County" : "HARMON",
+		"City" : "GOULD",
+		"State" : "OK",
+		"Latitude" : "+34.768632"
+	},
+	{
+		"Longitude" : "-098.911705",
+		"Zipcode" : "73546",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLMAN",
+		"City" : "GRANDFIELD",
+		"State" : "OK",
+		"Latitude" : "+34.362887"
+	},
+	{
+		"Longitude" : "-099.394148",
+		"Zipcode" : "73547",
+		"ZipClass" : "STANDARD",
+		"County" : "GREER",
+		"City" : "GRANITE",
+		"State" : "OK",
+		"Latitude" : "+34.950884"
+	},
+	{
+		"Longitude" : "-097.838026",
+		"Zipcode" : "73548",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HASTINGS",
+		"State" : "OK",
+		"Latitude" : "+34.069661"
+	},
+	{
+		"Longitude" : "-099.139047",
+		"Zipcode" : "73549",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HEADRICK",
+		"State" : "OK",
+		"Latitude" : "+34.626509"
+	},
+	{
+		"Longitude" : "-099.912395",
+		"Zipcode" : "73550",
+		"ZipClass" : "STANDARD",
+		"County" : "HARMON",
+		"City" : "HOLLIS",
+		"State" : "OK",
+		"Latitude" : "+34.694028"
+	},
+	{
+		"Longitude" : "-098.923769",
+		"Zipcode" : "73551",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLMAN",
+		"City" : "HOLLISTER",
+		"State" : "OK",
+		"Latitude" : "+34.381102"
+	},
+	{
+		"Longitude" : "-098.752350",
+		"Zipcode" : "73552",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "INDIAHOMA",
+		"State" : "OK",
+		"Latitude" : "+34.618969"
+	},
+	{
+		"Longitude" : "-098.923769",
+		"Zipcode" : "73553",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLMAN",
+		"City" : "LOVELAND",
+		"State" : "OK",
+		"Latitude" : "+34.381102"
+	},
+	{
+		"Longitude" : "-099.460577",
+		"Zipcode" : "73554",
+		"ZipClass" : "STANDARD",
+		"County" : "GREER",
+		"City" : "MANGUM",
+		"State" : "OK",
+		"Latitude" : "+34.912592"
+	},
+	{
+		"Longitude" : "-098.979191",
+		"Zipcode" : "73555",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TILLMAN",
+		"City" : "MANITOU",
+		"State" : "OK",
+		"Latitude" : "+34.507462"
+	},
+	{
+		"Longitude" : "-099.415400",
+		"Zipcode" : "73556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "MARTHA",
+		"State" : "OK",
+		"Latitude" : "+34.719237"
+	},
+	{
+		"Longitude" : "-098.457646",
+		"Zipcode" : "73557",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COMANCHE",
+		"City" : "MEDICINE PARK",
+		"State" : "OK",
+		"Latitude" : "+34.630879"
+	},
+	{
+		"Longitude" : "-098.457646",
+		"Zipcode" : "73558",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "MEERS",
+		"State" : "OK",
+		"Latitude" : "+34.630879"
+	},
+	{
+		"Longitude" : "-098.948880",
+		"Zipcode" : "73559",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "MOUNTAIN PARK",
+		"State" : "OK",
+		"Latitude" : "+34.696940"
+	},
+	{
+		"Longitude" : "-099.421959",
+		"Zipcode" : "73560",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "OLUSTEE",
+		"State" : "OK",
+		"Latitude" : "+34.547940"
+	},
+	{
+		"Longitude" : "-097.838026",
+		"Zipcode" : "73561",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "OSCAR",
+		"State" : "OK",
+		"Latitude" : "+34.069661"
+	},
+	{
+		"Longitude" : "-098.400440",
+		"Zipcode" : "73562",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTON",
+		"City" : "RANDLETT",
+		"State" : "OK",
+		"Latitude" : "+34.284738"
+	},
+	{
+		"Longitude" : "-099.021205",
+		"Zipcode" : "73564",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "ROOSEVELT",
+		"State" : "OK",
+		"Latitude" : "+34.850598"
+	},
+	{
+		"Longitude" : "-097.954867",
+		"Zipcode" : "73565",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "RYAN",
+		"State" : "OK",
+		"Latitude" : "+34.021911"
+	},
+	{
+		"Longitude" : "-098.952390",
+		"Zipcode" : "73566",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "SNYDER",
+		"State" : "OK",
+		"Latitude" : "+34.673689"
+	},
+	{
+		"Longitude" : "-098.167941",
+		"Zipcode" : "73567",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COMANCHE",
+		"City" : "STERLING",
+		"State" : "OK",
+		"Latitude" : "+34.749594"
+	},
+	{
+		"Longitude" : "-098.260334",
+		"Zipcode" : "73568",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTON",
+		"City" : "TEMPLE",
+		"State" : "OK",
+		"Latitude" : "+34.271467"
+	},
+	{
+		"Longitude" : "-097.838026",
+		"Zipcode" : "73569",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "TERRAL",
+		"State" : "OK",
+		"Latitude" : "+34.069661"
+	},
+	{
+		"Longitude" : "-099.158545",
+		"Zipcode" : "73570",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLMAN",
+		"City" : "TIPTON",
+		"State" : "OK",
+		"Latitude" : "+34.488104"
+	},
+	{
+		"Longitude" : "-099.833341",
+		"Zipcode" : "73571",
+		"ZipClass" : "STANDARD",
+		"County" : "HARMON",
+		"City" : "VINSON",
+		"State" : "OK",
+		"Latitude" : "+34.768632"
+	},
+	{
+		"Longitude" : "-098.319264",
+		"Zipcode" : "73572",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTON",
+		"City" : "WALTERS",
+		"State" : "OK",
+		"Latitude" : "+34.321541"
+	},
+	{
+		"Longitude" : "-098.000691",
+		"Zipcode" : "73573",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WAURIKA",
+		"State" : "OK",
+		"Latitude" : "+34.168309"
+	},
+	{
+		"Longitude" : "-097.852223",
+		"Zipcode" : "73575",
+		"ZipClass" : "STANDARD",
+		"County" : "STEPHENS",
+		"City" : "DUNCAN",
+		"State" : "OK",
+		"Latitude" : "+34.485320"
+	},
+	{
+		"Longitude" : "-098.902136",
+		"Zipcode" : "73601",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "CLINTON",
+		"State" : "OK",
+		"Latitude" : "+35.606030"
+	},
+	{
+		"Longitude" : "-098.960209",
+		"Zipcode" : "73620",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "ARAPAHO",
+		"State" : "OK",
+		"Latitude" : "+35.566643"
+	},
+	{
+		"Longitude" : "-098.989778",
+		"Zipcode" : "73622",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "BESSIE",
+		"State" : "OK",
+		"Latitude" : "+35.387478"
+	},
+	{
+		"Longitude" : "-099.187984",
+		"Zipcode" : "73624",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHITA",
+		"City" : "BURNS FLAT",
+		"State" : "OK",
+		"Latitude" : "+35.349154"
+	},
+	{
+		"Longitude" : "-099.000050",
+		"Zipcode" : "73625",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "BUTLER",
+		"State" : "OK",
+		"Latitude" : "+35.638620"
+	},
+	{
+		"Longitude" : "-099.280304",
+		"Zipcode" : "73626",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "CANUTE",
+		"State" : "OK",
+		"Latitude" : "+35.418882"
+	},
+	{
+		"Longitude" : "-099.680146",
+		"Zipcode" : "73627",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKHAM",
+		"City" : "CARTER",
+		"State" : "OK",
+		"Latitude" : "+35.269460"
+	},
+	{
+		"Longitude" : "-099.672542",
+		"Zipcode" : "73628",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGER MILLS",
+		"City" : "CHEYENNE",
+		"State" : "OK",
+		"Latitude" : "+35.608071"
+	},
+	{
+		"Longitude" : "-099.058410",
+		"Zipcode" : "73632",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "CORDELL",
+		"State" : "OK",
+		"Latitude" : "+35.232961"
+	},
+	{
+		"Longitude" : "-099.682177",
+		"Zipcode" : "73638",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGER MILLS",
+		"City" : "CRAWFORD",
+		"State" : "OK",
+		"Latitude" : "+35.717616"
+	},
+	{
+		"Longitude" : "-098.912212",
+		"Zipcode" : "73639",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "CUSTER CITY",
+		"State" : "OK",
+		"Latitude" : "+35.623890"
+	},
+	{
+		"Longitude" : "-099.150331",
+		"Zipcode" : "73641",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "DILL CITY",
+		"State" : "OK",
+		"Latitude" : "+35.224845"
+	},
+	{
+		"Longitude" : "-099.682177",
+		"Zipcode" : "73642",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGER MILLS",
+		"City" : "DURHAM",
+		"State" : "OK",
+		"Latitude" : "+35.717616"
+	},
+	{
+		"Longitude" : "-099.624253",
+		"Zipcode" : "73644",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKHAM",
+		"City" : "ELK CITY",
+		"State" : "OK",
+		"Latitude" : "+35.320621"
+	},
+	{
+		"Longitude" : "-099.870825",
+		"Zipcode" : "73645",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKHAM",
+		"City" : "ERICK",
+		"State" : "OK",
+		"Latitude" : "+35.203883"
+	},
+	{
+		"Longitude" : "-099.007165",
+		"Zipcode" : "73646",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "FAY",
+		"State" : "OK",
+		"Latitude" : "+35.988409"
+	},
+	{
+		"Longitude" : "-098.991373",
+		"Zipcode" : "73647",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "FOSS",
+		"State" : "OK",
+		"Latitude" : "+35.281428"
+	},
+	{
+		"Longitude" : "-099.680146",
+		"Zipcode" : "73648",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKHAM",
+		"City" : "ELK CITY",
+		"State" : "OK",
+		"Latitude" : "+35.269460"
+	},
+	{
+		"Longitude" : "-099.381869",
+		"Zipcode" : "73650",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGER MILLS",
+		"City" : "HAMMON",
+		"State" : "OK",
+		"Latitude" : "+35.630294"
+	},
+	{
+		"Longitude" : "-099.136501",
+		"Zipcode" : "73651",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "HOBART",
+		"State" : "OK",
+		"Latitude" : "+35.012688"
+	},
+	{
+		"Longitude" : "-099.344373",
+		"Zipcode" : "73654",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "LEEDEY",
+		"State" : "OK",
+		"Latitude" : "+35.868275"
+	},
+	{
+		"Longitude" : "-099.245430",
+		"Zipcode" : "73655",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "LONE WOLF",
+		"State" : "OK",
+		"Latitude" : "+34.989694"
+	},
+	{
+		"Longitude" : "-098.706518",
+		"Zipcode" : "73658",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "OAKWOOD",
+		"State" : "OK",
+		"Latitude" : "+35.932840"
+	},
+	{
+		"Longitude" : "-098.966584",
+		"Zipcode" : "73659",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "PUTNAM",
+		"State" : "OK",
+		"Latitude" : "+35.854883"
+	},
+	{
+		"Longitude" : "-099.819077",
+		"Zipcode" : "73660",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGER MILLS",
+		"City" : "REYDON",
+		"State" : "OK",
+		"Latitude" : "+35.633338"
+	},
+	{
+		"Longitude" : "-099.059758",
+		"Zipcode" : "73661",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "ROCKY",
+		"State" : "OK",
+		"Latitude" : "+35.155439"
+	},
+	{
+		"Longitude" : "-099.748380",
+		"Zipcode" : "73662",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKHAM",
+		"City" : "SAYRE",
+		"State" : "OK",
+		"Latitude" : "+35.237521"
+	},
+	{
+		"Longitude" : "-098.945370",
+		"Zipcode" : "73663",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "SEILING",
+		"State" : "OK",
+		"Latitude" : "+36.100391"
+	},
+	{
+		"Longitude" : "-099.170439",
+		"Zipcode" : "73664",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHITA",
+		"City" : "SENTINEL",
+		"State" : "OK",
+		"Latitude" : "+35.283787"
+	},
+	{
+		"Longitude" : "-099.682177",
+		"Zipcode" : "73666",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGER MILLS",
+		"City" : "SWEETWATER",
+		"State" : "OK",
+		"Latitude" : "+35.717616"
+	},
+	{
+		"Longitude" : "-098.961606",
+		"Zipcode" : "73667",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "TALOGA",
+		"State" : "OK",
+		"Latitude" : "+36.040765"
+	},
+	{
+		"Longitude" : "-099.680146",
+		"Zipcode" : "73668",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKHAM",
+		"City" : "TEXOLA",
+		"State" : "OK",
+		"Latitude" : "+35.269460"
+	},
+	{
+		"Longitude" : "-098.810990",
+		"Zipcode" : "73669",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "THOMAS",
+		"State" : "OK",
+		"Latitude" : "+35.709894"
+	},
+	{
+		"Longitude" : "-099.567494",
+		"Zipcode" : "73673",
+		"ZipClass" : "STANDARD",
+		"County" : "GREER",
+		"City" : "WILLOW",
+		"State" : "OK",
+		"Latitude" : "+34.920817"
+	},
+	{
+		"Longitude" : "-097.843091",
+		"Zipcode" : "73701",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "ENID",
+		"State" : "OK",
+		"Latitude" : "+36.402681"
+	},
+	{
+		"Longitude" : "-097.782595",
+		"Zipcode" : "73702",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "ENID",
+		"State" : "OK",
+		"Latitude" : "+36.379072"
+	},
+	{
+		"Longitude" : "-097.943813",
+		"Zipcode" : "73703",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "ENID",
+		"State" : "OK",
+		"Latitude" : "+36.398065"
+	},
+	{
+		"Longitude" : "-097.782595",
+		"Zipcode" : "73705",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "ENID",
+		"State" : "OK",
+		"Latitude" : "+36.379072"
+	},
+	{
+		"Longitude" : "-097.782595",
+		"Zipcode" : "73706",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "ENID",
+		"State" : "OK",
+		"Latitude" : "+36.379072"
+	},
+	{
+		"Longitude" : "-098.449895",
+		"Zipcode" : "73716",
+		"ZipClass" : "STANDARD",
+		"County" : "ALFALFA",
+		"City" : "ALINE",
+		"State" : "OK",
+		"Latitude" : "+36.511760"
+	},
+	{
+		"Longitude" : "-098.640045",
+		"Zipcode" : "73717",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODS",
+		"City" : "ALVA",
+		"State" : "OK",
+		"Latitude" : "+36.826594"
+	},
+	{
+		"Longitude" : "-098.185445",
+		"Zipcode" : "73718",
+		"ZipClass" : "STANDARD",
+		"County" : "MAJOR",
+		"City" : "AMES",
+		"State" : "OK",
+		"Latitude" : "+36.246582"
+	},
+	{
+		"Longitude" : "-098.292430",
+		"Zipcode" : "73719",
+		"ZipClass" : "STANDARD",
+		"County" : "ALFALFA",
+		"City" : "AMORITA",
+		"State" : "OK",
+		"Latitude" : "+36.925116"
+	},
+	{
+		"Longitude" : "-097.782595",
+		"Zipcode" : "73720",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "BISON",
+		"State" : "OK",
+		"Latitude" : "+36.379072"
+	},
+	{
+		"Longitude" : "-098.324548",
+		"Zipcode" : "73722",
+		"ZipClass" : "STANDARD",
+		"County" : "ALFALFA",
+		"City" : "BURLINGTON",
+		"State" : "OK",
+		"Latitude" : "+36.730959"
+	},
+	{
+		"Longitude" : "-098.577618",
+		"Zipcode" : "73724",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "CANTON",
+		"State" : "OK",
+		"Latitude" : "+36.092810"
+	},
+	{
+		"Longitude" : "-098.456080",
+		"Zipcode" : "73726",
+		"ZipClass" : "STANDARD",
+		"County" : "ALFALFA",
+		"City" : "CARMEN",
+		"State" : "OK",
+		"Latitude" : "+36.578946"
+	},
+	{
+		"Longitude" : "-097.782595",
+		"Zipcode" : "73727",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "CARRIER",
+		"State" : "OK",
+		"Latitude" : "+36.379072"
+	},
+	{
+		"Longitude" : "-098.366783",
+		"Zipcode" : "73728",
+		"ZipClass" : "STANDARD",
+		"County" : "ALFALFA",
+		"City" : "CHEROKEE",
+		"State" : "OK",
+		"Latitude" : "+36.665351"
+	},
+	{
+		"Longitude" : "-098.453278",
+		"Zipcode" : "73729",
+		"ZipClass" : "STANDARD",
+		"County" : "MAJOR",
+		"City" : "CLEO SPRINGS",
+		"State" : "OK",
+		"Latitude" : "+36.405300"
+	},
+	{
+		"Longitude" : "-097.586430",
+		"Zipcode" : "73730",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "COVINGTON",
+		"State" : "OK",
+		"Latitude" : "+36.307490"
+	},
+	{
+		"Longitude" : "-098.562972",
+		"Zipcode" : "73731",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODS",
+		"City" : "DACOMA",
+		"State" : "OK",
+		"Latitude" : "+36.662062"
+	},
+	{
+		"Longitude" : "-097.782595",
+		"Zipcode" : "73733",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "DOUGLAS",
+		"State" : "OK",
+		"Latitude" : "+36.379072"
+	},
+	{
+		"Longitude" : "-097.912342",
+		"Zipcode" : "73734",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGFISHER",
+		"City" : "DOVER",
+		"State" : "OK",
+		"Latitude" : "+35.982319"
+	},
+	{
+		"Longitude" : "-098.041820",
+		"Zipcode" : "73735",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "DRUMMOND",
+		"State" : "OK",
+		"Latitude" : "+36.307449"
+	},
+	{
+		"Longitude" : "-097.782595",
+		"Zipcode" : "73736",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "FAIRMONT",
+		"State" : "OK",
+		"Latitude" : "+36.379072"
+	},
+	{
+		"Longitude" : "-098.337597",
+		"Zipcode" : "73737",
+		"ZipClass" : "STANDARD",
+		"County" : "MAJOR",
+		"City" : "FAIRVIEW",
+		"State" : "OK",
+		"Latitude" : "+36.323942"
+	},
+	{
+		"Longitude" : "-097.580931",
+		"Zipcode" : "73738",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "GARBER",
+		"State" : "OK",
+		"Latitude" : "+36.436334"
+	},
+	{
+		"Longitude" : "-098.151279",
+		"Zipcode" : "73739",
+		"ZipClass" : "STANDARD",
+		"County" : "ALFALFA",
+		"City" : "GOLTRY",
+		"State" : "OK",
+		"Latitude" : "+36.531985"
+	},
+	{
+		"Longitude" : "-098.271091",
+		"Zipcode" : "73741",
+		"ZipClass" : "STANDARD",
+		"County" : "ALFALFA",
+		"City" : "HELENA",
+		"State" : "OK",
+		"Latitude" : "+36.546639"
+	},
+	{
+		"Longitude" : "-097.938778",
+		"Zipcode" : "73742",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGFISHER",
+		"City" : "HENNESSEY",
+		"State" : "OK",
+		"Latitude" : "+35.924916"
+	},
+	{
+		"Longitude" : "-097.782595",
+		"Zipcode" : "73743",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARFIELD",
+		"City" : "HILLSDALE",
+		"State" : "OK",
+		"Latitude" : "+36.379072"
+	},
+	{
+		"Longitude" : "-098.350529",
+		"Zipcode" : "73744",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "HITCHCOCK",
+		"State" : "OK",
+		"Latitude" : "+35.970011"
+	},
+	{
+		"Longitude" : "-098.994721",
+		"Zipcode" : "73746",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WOODS",
+		"City" : "HOPETON",
+		"State" : "OK",
+		"Latitude" : "+36.695512"
+	},
+	{
+		"Longitude" : "-098.532338",
+		"Zipcode" : "73747",
+		"ZipClass" : "STANDARD",
+		"County" : "MAJOR",
+		"City" : "ISABELLA",
+		"State" : "OK",
+		"Latitude" : "+36.334047"
+	},
+	{
+		"Longitude" : "-098.181223",
+		"Zipcode" : "73749",
+		"ZipClass" : "STANDARD",
+		"County" : "ALFALFA",
+		"City" : "JET",
+		"State" : "OK",
+		"Latitude" : "+36.666492"
+	},
+	{
+		"Longitude" : "-097.925630",
+		"Zipcode" : "73750",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGFISHER",
+		"City" : "KINGFISHER",
+		"State" : "OK",
+		"Latitude" : "+35.897508"
+	},
+	{
+		"Longitude" : "-097.849762",
+		"Zipcode" : "73753",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "KREMLIN",
+		"State" : "OK",
+		"Latitude" : "+36.528516"
+	},
+	{
+		"Longitude" : "-098.091121",
+		"Zipcode" : "73754",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "LAHOMA",
+		"State" : "OK",
+		"Latitude" : "+36.388985"
+	},
+	{
+		"Longitude" : "-098.551349",
+		"Zipcode" : "73755",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "LONGDALE",
+		"State" : "OK",
+		"Latitude" : "+36.133739"
+	},
+	{
+		"Longitude" : "-097.942225",
+		"Zipcode" : "73756",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGFISHER",
+		"City" : "LOYAL",
+		"State" : "OK",
+		"Latitude" : "+35.945046"
+	},
+	{
+		"Longitude" : "-097.454971",
+		"Zipcode" : "73757",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "LUCIEN",
+		"State" : "OK",
+		"Latitude" : "+36.272842"
+	},
+	{
+		"Longitude" : "-097.787099",
+		"Zipcode" : "73758",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MANCHESTER",
+		"State" : "OK",
+		"Latitude" : "+36.796130"
+	},
+	{
+		"Longitude" : "-097.889923",
+		"Zipcode" : "73759",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MEDFORD",
+		"State" : "OK",
+		"Latitude" : "+36.739400"
+	},
+	{
+		"Longitude" : "-098.209947",
+		"Zipcode" : "73760",
+		"ZipClass" : "STANDARD",
+		"County" : "MAJOR",
+		"City" : "MENO",
+		"State" : "OK",
+		"Latitude" : "+36.384201"
+	},
+	{
+		"Longitude" : "-098.051700",
+		"Zipcode" : "73761",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "NASH",
+		"State" : "OK",
+		"Latitude" : "+36.664875"
+	},
+	{
+		"Longitude" : "-097.977460",
+		"Zipcode" : "73762",
+		"ZipClass" : "STANDARD",
+		"County" : "CANADIAN",
+		"City" : "OKARCHE",
+		"State" : "OK",
+		"Latitude" : "+35.732016"
+	},
+	{
+		"Longitude" : "-098.429130",
+		"Zipcode" : "73763",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "OKEENE",
+		"State" : "OK",
+		"Latitude" : "+36.122914"
+	},
+	{
+		"Longitude" : "-097.942225",
+		"Zipcode" : "73764",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGFISHER",
+		"City" : "OMEGA",
+		"State" : "OK",
+		"Latitude" : "+35.945046"
+	},
+	{
+		"Longitude" : "-097.841842",
+		"Zipcode" : "73766",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "POND CREEK",
+		"State" : "OK",
+		"Latitude" : "+36.661992"
+	},
+	{
+		"Longitude" : "-098.243516",
+		"Zipcode" : "73768",
+		"ZipClass" : "STANDARD",
+		"County" : "MAJOR",
+		"City" : "RINGWOOD",
+		"State" : "OK",
+		"Latitude" : "+36.379012"
+	},
+	{
+		"Longitude" : "-098.588383",
+		"Zipcode" : "73770",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "SOUTHARD",
+		"State" : "OK",
+		"Latitude" : "+36.058133"
+	},
+	{
+		"Longitude" : "-097.923858",
+		"Zipcode" : "73771",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "WAKITA",
+		"State" : "OK",
+		"Latitude" : "+36.882468"
+	},
+	{
+		"Longitude" : "-098.378820",
+		"Zipcode" : "73772",
+		"ZipClass" : "STANDARD",
+		"County" : "BLAINE",
+		"City" : "WATONGA",
+		"State" : "OK",
+		"Latitude" : "+35.980824"
+	},
+	{
+		"Longitude" : "-097.911828",
+		"Zipcode" : "73773",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "WAUKOMIS",
+		"State" : "OK",
+		"Latitude" : "+36.241968"
+	},
+	{
+		"Longitude" : "-099.442977",
+		"Zipcode" : "73801",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODWARD",
+		"City" : "WOODWARD",
+		"State" : "OK",
+		"Latitude" : "+36.438017"
+	},
+	{
+		"Longitude" : "-099.534157",
+		"Zipcode" : "73802",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODWARD",
+		"City" : "WOODWARD",
+		"State" : "OK",
+		"Latitude" : "+36.431095"
+	},
+	{
+		"Longitude" : "-099.818311",
+		"Zipcode" : "73832",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIS",
+		"City" : "ARNETT",
+		"State" : "OK",
+		"Latitude" : "+36.204191"
+	},
+	{
+		"Longitude" : "-099.753511",
+		"Zipcode" : "73834",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "BUFFALO",
+		"State" : "OK",
+		"Latitude" : "+36.791802"
+	},
+	{
+		"Longitude" : "-099.287978",
+		"Zipcode" : "73835",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "CAMARGO",
+		"State" : "OK",
+		"Latitude" : "+36.019939"
+	},
+	{
+		"Longitude" : "-098.532338",
+		"Zipcode" : "73838",
+		"ZipClass" : "STANDARD",
+		"County" : "MAJOR",
+		"City" : "CHESTER",
+		"State" : "OK",
+		"Latitude" : "+36.334047"
+	},
+	{
+		"Longitude" : "-099.622067",
+		"Zipcode" : "73840",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIS",
+		"City" : "FARGO",
+		"State" : "OK",
+		"Latitude" : "+36.373497"
+	},
+	{
+		"Longitude" : "-099.573764",
+		"Zipcode" : "73841",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODWARD",
+		"City" : "FORT SUPPLY",
+		"State" : "OK",
+		"Latitude" : "+36.572183"
+	},
+	{
+		"Longitude" : "-099.112676",
+		"Zipcode" : "73842",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODS",
+		"City" : "FREEDOM",
+		"State" : "OK",
+		"Latitude" : "+36.768905"
+	},
+	{
+		"Longitude" : "-099.753814",
+		"Zipcode" : "73843",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIS",
+		"City" : "GAGE",
+		"State" : "OK",
+		"Latitude" : "+36.255493"
+	},
+	{
+		"Longitude" : "-100.478393",
+		"Zipcode" : "73844",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "GATE",
+		"State" : "OK",
+		"Latitude" : "+36.750783"
+	},
+	{
+		"Longitude" : "-100.478393",
+		"Zipcode" : "73847",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "KNOWLES",
+		"State" : "OK",
+		"Latitude" : "+36.750783"
+	},
+	{
+		"Longitude" : "-099.765785",
+		"Zipcode" : "73848",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "LAVERNE",
+		"State" : "OK",
+		"Latitude" : "+36.764793"
+	},
+	{
+		"Longitude" : "-099.649490",
+		"Zipcode" : "73851",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "MAY",
+		"State" : "OK",
+		"Latitude" : "+36.797229"
+	},
+	{
+		"Longitude" : "-099.202631",
+		"Zipcode" : "73852",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODWARD",
+		"City" : "MOORELAND",
+		"State" : "OK",
+		"Latitude" : "+36.460397"
+	},
+	{
+		"Longitude" : "-099.280828",
+		"Zipcode" : "73853",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODWARD",
+		"City" : "MUTUAL",
+		"State" : "OK",
+		"Latitude" : "+36.490567"
+	},
+	{
+		"Longitude" : "-099.649490",
+		"Zipcode" : "73855",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "ROSSTON",
+		"State" : "OK",
+		"Latitude" : "+36.797229"
+	},
+	{
+		"Longitude" : "-099.337840",
+		"Zipcode" : "73857",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODWARD",
+		"City" : "SHARON",
+		"State" : "OK",
+		"Latitude" : "+36.275810"
+	},
+	{
+		"Longitude" : "-099.758319",
+		"Zipcode" : "73858",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIS",
+		"City" : "SHATTUCK",
+		"State" : "OK",
+		"Latitude" : "+36.318631"
+	},
+	{
+		"Longitude" : "-099.301912",
+		"Zipcode" : "73859",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "VICI",
+		"State" : "OK",
+		"Latitude" : "+36.149508"
+	},
+	{
+		"Longitude" : "-098.974629",
+		"Zipcode" : "73860",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODS",
+		"City" : "WAYNOKA",
+		"State" : "OK",
+		"Latitude" : "+36.671897"
+	},
+	{
+		"Longitude" : "-101.077969",
+		"Zipcode" : "73901",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TEXAS",
+		"City" : "ADAMS",
+		"State" : "OK",
+		"Latitude" : "+36.755000"
+	},
+	{
+		"Longitude" : "-100.478393",
+		"Zipcode" : "73931",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "BALKO",
+		"State" : "OK",
+		"Latitude" : "+36.750783"
+	},
+	{
+		"Longitude" : "-100.517730",
+		"Zipcode" : "73932",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "BEAVER",
+		"State" : "OK",
+		"Latitude" : "+36.834113"
+	},
+	{
+		"Longitude" : "-102.510484",
+		"Zipcode" : "73933",
+		"ZipClass" : "STANDARD",
+		"County" : "CIMARRON",
+		"City" : "BOISE CITY",
+		"State" : "OK",
+		"Latitude" : "+36.742042"
+	},
+	{
+		"Longitude" : "-102.515316",
+		"Zipcode" : "73937",
+		"ZipClass" : "STANDARD",
+		"County" : "CIMARRON",
+		"City" : "FELT",
+		"State" : "OK",
+		"Latitude" : "+36.750510"
+	},
+	{
+		"Longitude" : "-100.531611",
+		"Zipcode" : "73938",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "FORGAN",
+		"State" : "OK",
+		"Latitude" : "+36.860810"
+	},
+	{
+		"Longitude" : "-101.630164",
+		"Zipcode" : "73939",
+		"ZipClass" : "STANDARD",
+		"County" : "TEXAS",
+		"City" : "GOODWELL",
+		"State" : "OK",
+		"Latitude" : "+36.594672"
+	},
+	{
+		"Longitude" : "-101.426147",
+		"Zipcode" : "73942",
+		"ZipClass" : "STANDARD",
+		"County" : "TEXAS",
+		"City" : "GUYMON",
+		"State" : "OK",
+		"Latitude" : "+36.729713"
+	},
+	{
+		"Longitude" : "-101.198155",
+		"Zipcode" : "73944",
+		"ZipClass" : "STANDARD",
+		"County" : "TEXAS",
+		"City" : "HARDESTY",
+		"State" : "OK",
+		"Latitude" : "+36.615367"
+	},
+	{
+		"Longitude" : "-101.216333",
+		"Zipcode" : "73945",
+		"ZipClass" : "STANDARD",
+		"County" : "TEXAS",
+		"City" : "HOOKER",
+		"State" : "OK",
+		"Latitude" : "+36.810851"
+	},
+	{
+		"Longitude" : "-102.965301",
+		"Zipcode" : "73946",
+		"ZipClass" : "STANDARD",
+		"County" : "CIMARRON",
+		"City" : "KENTON",
+		"State" : "OK",
+		"Latitude" : "+36.903144"
+	},
+	{
+		"Longitude" : "-102.250924",
+		"Zipcode" : "73947",
+		"ZipClass" : "STANDARD",
+		"County" : "CIMARRON",
+		"City" : "KEYES",
+		"State" : "OK",
+		"Latitude" : "+36.807900"
+	},
+	{
+		"Longitude" : "-101.780668",
+		"Zipcode" : "73949",
+		"ZipClass" : "STANDARD",
+		"County" : "TEXAS",
+		"City" : "TEXHOMA",
+		"State" : "OK",
+		"Latitude" : "+36.507508"
+	},
+	{
+		"Longitude" : "-100.877878",
+		"Zipcode" : "73950",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "TURPIN",
+		"State" : "OK",
+		"Latitude" : "+36.866365"
+	},
+	{
+		"Longitude" : "-101.073973",
+		"Zipcode" : "73951",
+		"ZipClass" : "STANDARD",
+		"County" : "TEXAS",
+		"City" : "TYRONE",
+		"State" : "OK",
+		"Latitude" : "+36.971874"
+	},
+	{
+		"Longitude" : "-096.061608",
+		"Zipcode" : "74001",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OSAGE",
+		"City" : "AVANT",
+		"State" : "OK",
+		"Latitude" : "+36.490056"
+	},
+	{
+		"Longitude" : "-096.162409",
+		"Zipcode" : "74002",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "BARNSDALL",
+		"State" : "OK",
+		"Latitude" : "+36.561588"
+	},
+	{
+		"Longitude" : "-095.970182",
+		"Zipcode" : "74003",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BARTLESVILLE",
+		"State" : "OK",
+		"Latitude" : "+36.759485"
+	},
+	{
+		"Longitude" : "-095.894042",
+		"Zipcode" : "74004",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "BARTLESVILLE",
+		"State" : "OK",
+		"Latitude" : "+36.711386"
+	},
+	{
+		"Longitude" : "-095.894042",
+		"Zipcode" : "74005",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BARTLESVILLE",
+		"State" : "OK",
+		"Latitude" : "+36.711386"
+	},
+	{
+		"Longitude" : "-095.890640",
+		"Zipcode" : "74006",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BARTLESVILLE",
+		"State" : "OK",
+		"Latitude" : "+36.728057"
+	},
+	{
+		"Longitude" : "-095.877617",
+		"Zipcode" : "74008",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "BIXBY",
+		"State" : "OK",
+		"Latitude" : "+35.933450"
+	},
+	{
+		"Longitude" : "-096.398424",
+		"Zipcode" : "74009",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "BOWRING",
+		"State" : "OK",
+		"Latitude" : "+36.665794"
+	},
+	{
+		"Longitude" : "-096.303922",
+		"Zipcode" : "74010",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "BRISTOW",
+		"State" : "OK",
+		"Latitude" : "+35.835606"
+	},
+	{
+		"Longitude" : "-095.818064",
+		"Zipcode" : "74011",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "BROKEN ARROW",
+		"State" : "OK",
+		"Latitude" : "+35.986399"
+	},
+	{
+		"Longitude" : "-095.879069",
+		"Zipcode" : "74012",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "BROKEN ARROW",
+		"State" : "OK",
+		"Latitude" : "+36.142260"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74013",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "BROKEN ARROW",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-095.654486",
+		"Zipcode" : "74014",
+		"ZipClass" : "STANDARD",
+		"County" : "WAGONER",
+		"City" : "BROKEN ARROW",
+		"State" : "OK",
+		"Latitude" : "+36.005673"
+	},
+	{
+		"Longitude" : "-095.725840",
+		"Zipcode" : "74015",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGERS",
+		"City" : "CATOOSA",
+		"State" : "OK",
+		"Latitude" : "+36.212092"
+	},
+	{
+		"Longitude" : "-095.435688",
+		"Zipcode" : "74016",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGERS",
+		"City" : "CHELSEA",
+		"State" : "OK",
+		"Latitude" : "+36.495713"
+	},
+	{
+		"Longitude" : "-095.604344",
+		"Zipcode" : "74017",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGERS",
+		"City" : "CLAREMORE",
+		"State" : "OK",
+		"Latitude" : "+36.348616"
+	},
+	{
+		"Longitude" : "-095.605964",
+		"Zipcode" : "74018",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGERS",
+		"City" : "CLAREMORE",
+		"State" : "OK",
+		"Latitude" : "+36.343579"
+	},
+	{
+		"Longitude" : "-096.443319",
+		"Zipcode" : "74020",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "CLEVELAND",
+		"State" : "OK",
+		"Latitude" : "+36.263766"
+	},
+	{
+		"Longitude" : "-095.857143",
+		"Zipcode" : "74021",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "COLLINSVILLE",
+		"State" : "OK",
+		"Latitude" : "+36.370042"
+	},
+	{
+		"Longitude" : "-095.922953",
+		"Zipcode" : "74022",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "COPAN",
+		"State" : "OK",
+		"Latitude" : "+36.800524"
+	},
+	{
+		"Longitude" : "-096.855949",
+		"Zipcode" : "74023",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYNE",
+		"City" : "CUSHING",
+		"State" : "OK",
+		"Latitude" : "+36.029294"
+	},
+	{
+		"Longitude" : "-096.766992",
+		"Zipcode" : "74026",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "DAVENPORT",
+		"State" : "OK",
+		"Latitude" : "+35.708886"
+	},
+	{
+		"Longitude" : "-095.641981",
+		"Zipcode" : "74027",
+		"ZipClass" : "STANDARD",
+		"County" : "NOWATA",
+		"City" : "DELAWARE",
+		"State" : "OK",
+		"Latitude" : "+36.777208"
+	},
+	{
+		"Longitude" : "-096.491920",
+		"Zipcode" : "74028",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "DEPEW",
+		"State" : "OK",
+		"Latitude" : "+35.769827"
+	},
+	{
+		"Longitude" : "-095.896743",
+		"Zipcode" : "74029",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "DEWEY",
+		"State" : "OK",
+		"Latitude" : "+36.676086"
+	},
+	{
+		"Longitude" : "-096.548022",
+		"Zipcode" : "74030",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "DRUMRIGHT",
+		"State" : "OK",
+		"Latitude" : "+36.012363"
+	},
+	{
+		"Longitude" : "-095.571646",
+		"Zipcode" : "74031",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROGERS",
+		"City" : "FOYIL",
+		"State" : "OK",
+		"Latitude" : "+36.336457"
+	},
+	{
+		"Longitude" : "-096.933795",
+		"Zipcode" : "74032",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYNE",
+		"City" : "GLENCOE",
+		"State" : "OK",
+		"Latitude" : "+36.225349"
+	},
+	{
+		"Longitude" : "-095.998172",
+		"Zipcode" : "74033",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "GLENPOOL",
+		"State" : "OK",
+		"Latitude" : "+36.102858"
+	},
+	{
+		"Longitude" : "-096.637553",
+		"Zipcode" : "74034",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PAWNEE",
+		"City" : "HALLETT",
+		"State" : "OK",
+		"Latitude" : "+36.362160"
+	},
+	{
+		"Longitude" : "-096.236595",
+		"Zipcode" : "74035",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "HOMINY",
+		"State" : "OK",
+		"Latitude" : "+36.363731"
+	},
+	{
+		"Longitude" : "-095.521145",
+		"Zipcode" : "74036",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGERS",
+		"City" : "INOLA",
+		"State" : "OK",
+		"Latitude" : "+36.169526"
+	},
+	{
+		"Longitude" : "-095.980972",
+		"Zipcode" : "74037",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "JENKS",
+		"State" : "OK",
+		"Latitude" : "+36.006567"
+	},
+	{
+		"Longitude" : "-096.570239",
+		"Zipcode" : "74038",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "JENNINGS",
+		"State" : "OK",
+		"Latitude" : "+36.180965"
+	},
+	{
+		"Longitude" : "-096.240843",
+		"Zipcode" : "74039",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "KELLYVILLE",
+		"State" : "OK",
+		"Latitude" : "+35.908301"
+	},
+	{
+		"Longitude" : "-096.071685",
+		"Zipcode" : "74041",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CREEK",
+		"City" : "KIEFER",
+		"State" : "OK",
+		"Latitude" : "+35.948245"
+	},
+	{
+		"Longitude" : "-095.629628",
+		"Zipcode" : "74042",
+		"ZipClass" : "STANDARD",
+		"County" : "NOWATA",
+		"City" : "LENAPAH",
+		"State" : "OK",
+		"Latitude" : "+36.922429"
+	},
+	{
+		"Longitude" : "-095.798809",
+		"Zipcode" : "74043",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TULSA",
+		"City" : "LEONARD",
+		"State" : "OK",
+		"Latitude" : "+35.918277"
+	},
+	{
+		"Longitude" : "-096.378373",
+		"Zipcode" : "74044",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "MANNFORD",
+		"State" : "OK",
+		"Latitude" : "+36.079255"
+	},
+	{
+		"Longitude" : "-096.637553",
+		"Zipcode" : "74045",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "MARAMEC",
+		"State" : "OK",
+		"Latitude" : "+36.362160"
+	},
+	{
+		"Longitude" : "-096.326053",
+		"Zipcode" : "74046",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CREEK",
+		"City" : "MILFAY",
+		"State" : "OK",
+		"Latitude" : "+35.901277"
+	},
+	{
+		"Longitude" : "-096.088684",
+		"Zipcode" : "74047",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "MOUNDS",
+		"State" : "OK",
+		"Latitude" : "+35.889588"
+	},
+	{
+		"Longitude" : "-095.631607",
+		"Zipcode" : "74048",
+		"ZipClass" : "STANDARD",
+		"County" : "NOWATA",
+		"City" : "NOWATA",
+		"State" : "OK",
+		"Latitude" : "+36.699080"
+	},
+	{
+		"Longitude" : "-096.069726",
+		"Zipcode" : "74050",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TULSA",
+		"City" : "OAKHURST",
+		"State" : "OK",
+		"Latitude" : "+36.076940"
+	},
+	{
+		"Longitude" : "-095.951734",
+		"Zipcode" : "74051",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "OCHELATA",
+		"State" : "OK",
+		"Latitude" : "+36.624717"
+	},
+	{
+		"Longitude" : "-096.595845",
+		"Zipcode" : "74052",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CREEK",
+		"City" : "OILTON",
+		"State" : "OK",
+		"Latitude" : "+36.068495"
+	},
+	{
+		"Longitude" : "-095.704667",
+		"Zipcode" : "74053",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGERS",
+		"City" : "OOLOGAH",
+		"State" : "OK",
+		"Latitude" : "+36.448241"
+	},
+	{
+		"Longitude" : "-096.341334",
+		"Zipcode" : "74054",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "OSAGE",
+		"State" : "OK",
+		"Latitude" : "+36.265311"
+	},
+	{
+		"Longitude" : "-095.909669",
+		"Zipcode" : "74055",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "OWASSO",
+		"State" : "OK",
+		"Latitude" : "+36.140225"
+	},
+	{
+		"Longitude" : "-096.324443",
+		"Zipcode" : "74056",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "PAWHUSKA",
+		"State" : "OK",
+		"Latitude" : "+36.620131"
+	},
+	{
+		"Longitude" : "-096.706208",
+		"Zipcode" : "74058",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "PAWNEE",
+		"State" : "OK",
+		"Latitude" : "+36.306976"
+	},
+	{
+		"Longitude" : "-097.000469",
+		"Zipcode" : "74059",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYNE",
+		"City" : "PERKINS",
+		"State" : "OK",
+		"Latitude" : "+36.096244"
+	},
+	{
+		"Longitude" : "-096.532552",
+		"Zipcode" : "74060",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "PRUE",
+		"State" : "OK",
+		"Latitude" : "+36.580102"
+	},
+	{
+		"Longitude" : "-095.905906",
+		"Zipcode" : "74061",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "RAMONA",
+		"State" : "OK",
+		"Latitude" : "+36.533445"
+	},
+	{
+		"Longitude" : "-096.928923",
+		"Zipcode" : "74062",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYNE",
+		"City" : "RIPLEY",
+		"State" : "OK",
+		"Latitude" : "+36.049649"
+	},
+	{
+		"Longitude" : "-096.186776",
+		"Zipcode" : "74063",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "SAND SPRINGS",
+		"State" : "OK",
+		"Latitude" : "+36.118535"
+	},
+	{
+		"Longitude" : "-096.163955",
+		"Zipcode" : "74066",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "SAPULPA",
+		"State" : "OK",
+		"Latitude" : "+35.982642"
+	},
+	{
+		"Longitude" : "-096.093682",
+		"Zipcode" : "74067",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "SAPULPA",
+		"State" : "OK",
+		"Latitude" : "+36.019575"
+	},
+	{
+		"Longitude" : "-096.578030",
+		"Zipcode" : "74068",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CREEK",
+		"City" : "SHAMROCK",
+		"State" : "OK",
+		"Latitude" : "+35.912399"
+	},
+	{
+		"Longitude" : "-096.168498",
+		"Zipcode" : "74070",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "SKIATOOK",
+		"State" : "OK",
+		"Latitude" : "+36.413662"
+	},
+	{
+		"Longitude" : "-096.326053",
+		"Zipcode" : "74071",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CREEK",
+		"City" : "SLICK",
+		"State" : "OK",
+		"Latitude" : "+35.901277"
+	},
+	{
+		"Longitude" : "-095.621099",
+		"Zipcode" : "74072",
+		"ZipClass" : "STANDARD",
+		"County" : "NOWATA",
+		"City" : "S COFFEYVILLE",
+		"State" : "OK",
+		"Latitude" : "+36.927212"
+	},
+	{
+		"Longitude" : "-095.951622",
+		"Zipcode" : "74073",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "SPERRY",
+		"State" : "OK",
+		"Latitude" : "+36.298452"
+	},
+	{
+		"Longitude" : "-097.069061",
+		"Zipcode" : "74074",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYNE",
+		"City" : "STILLWATER",
+		"State" : "OK",
+		"Latitude" : "+36.101521"
+	},
+	{
+		"Longitude" : "-097.068895",
+		"Zipcode" : "74075",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYNE",
+		"City" : "STILLWATER",
+		"State" : "OK",
+		"Latitude" : "+36.167933"
+	},
+	{
+		"Longitude" : "-097.055141",
+		"Zipcode" : "74076",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYNE",
+		"City" : "STILLWATER",
+		"State" : "OK",
+		"Latitude" : "+36.072372"
+	},
+	{
+		"Longitude" : "-096.987458",
+		"Zipcode" : "74077",
+		"ZipClass" : "UNIQUE",
+		"County" : "PAYNE",
+		"City" : "STILLWATER",
+		"State" : "OK",
+		"Latitude" : "+36.093665"
+	},
+	{
+		"Longitude" : "-096.987458",
+		"Zipcode" : "74078",
+		"ZipClass" : "UNIQUE",
+		"County" : "PAYNE",
+		"City" : "STILLWATER",
+		"State" : "OK",
+		"Latitude" : "+36.093665"
+	},
+	{
+		"Longitude" : "-096.745384",
+		"Zipcode" : "74079",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "STROUD",
+		"State" : "OK",
+		"Latitude" : "+35.709676"
+	},
+	{
+		"Longitude" : "-095.702010",
+		"Zipcode" : "74080",
+		"ZipClass" : "STANDARD",
+		"County" : "ROGERS",
+		"City" : "TALALA",
+		"State" : "OK",
+		"Latitude" : "+36.496258"
+	},
+	{
+		"Longitude" : "-096.491832",
+		"Zipcode" : "74081",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "TERLTON",
+		"State" : "OK",
+		"Latitude" : "+36.188021"
+	},
+	{
+		"Longitude" : "-095.881381",
+		"Zipcode" : "74082",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "VERA",
+		"State" : "OK",
+		"Latitude" : "+36.450115"
+	},
+	{
+		"Longitude" : "-095.608896",
+		"Zipcode" : "74083",
+		"ZipClass" : "STANDARD",
+		"County" : "NOWATA",
+		"City" : "WANN",
+		"State" : "OK",
+		"Latitude" : "+36.798384"
+	},
+	{
+		"Longitude" : "-096.326019",
+		"Zipcode" : "74084",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "WYNONA",
+		"State" : "OK",
+		"Latitude" : "+36.546423"
+	},
+	{
+		"Longitude" : "-096.803185",
+		"Zipcode" : "74085",
+		"ZipClass" : "STANDARD",
+		"County" : "PAYNE",
+		"City" : "YALE",
+		"State" : "OK",
+		"Latitude" : "+36.164752"
+	},
+	{
+		"Longitude" : "-095.868667",
+		"Zipcode" : "74101",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.039147"
+	},
+	{
+		"Longitude" : "-095.804231",
+		"Zipcode" : "74102",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.063095"
+	},
+	{
+		"Longitude" : "-095.994424",
+		"Zipcode" : "74103",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.155392"
+	},
+	{
+		"Longitude" : "-095.951483",
+		"Zipcode" : "74104",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.146143"
+	},
+	{
+		"Longitude" : "-095.919870",
+		"Zipcode" : "74105",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.097094"
+	},
+	{
+		"Longitude" : "-095.979824",
+		"Zipcode" : "74106",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.190442"
+	},
+	{
+		"Longitude" : "-095.954871",
+		"Zipcode" : "74107",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.076795"
+	},
+	{
+		"Longitude" : "-095.797314",
+		"Zipcode" : "74108",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.147696"
+	},
+	{
+		"Longitude" : "-095.927771",
+		"Zipcode" : "74110",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.158314"
+	},
+	{
+		"Longitude" : "-095.904470",
+		"Zipcode" : "74112",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.146741"
+	},
+	{
+		"Longitude" : "-095.947421",
+		"Zipcode" : "74114",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.125893"
+	},
+	{
+		"Longitude" : "-095.907170",
+		"Zipcode" : "74115",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.147343"
+	},
+	{
+		"Longitude" : "-095.817465",
+		"Zipcode" : "74116",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.189944"
+	},
+	{
+		"Longitude" : "-095.947122",
+		"Zipcode" : "74117",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.218091"
+	},
+	{
+		"Longitude" : "-095.930271",
+		"Zipcode" : "74119",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.115461"
+	},
+	{
+		"Longitude" : "-095.979824",
+		"Zipcode" : "74120",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.148593"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74121",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-095.977624",
+		"Zipcode" : "74126",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.249491"
+	},
+	{
+		"Longitude" : "-096.057620",
+		"Zipcode" : "74127",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.221189"
+	},
+	{
+		"Longitude" : "-095.885568",
+		"Zipcode" : "74128",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.125545"
+	},
+	{
+		"Longitude" : "-095.868767",
+		"Zipcode" : "74129",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.125996"
+	},
+	{
+		"Longitude" : "-095.955453",
+		"Zipcode" : "74130",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.242342"
+	},
+	{
+		"Longitude" : "-096.074326",
+		"Zipcode" : "74131",
+		"ZipClass" : "STANDARD",
+		"County" : "CREEK",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.049890"
+	},
+	{
+		"Longitude" : "-095.956267",
+		"Zipcode" : "74132",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.045543"
+	},
+	{
+		"Longitude" : "-095.873067",
+		"Zipcode" : "74133",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.062203"
+	},
+	{
+		"Longitude" : "-095.804014",
+		"Zipcode" : "74134",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.104447"
+	},
+	{
+		"Longitude" : "-095.923175",
+		"Zipcode" : "74135",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.092236"
+	},
+	{
+		"Longitude" : "-095.920371",
+		"Zipcode" : "74136",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.053498"
+	},
+	{
+		"Longitude" : "-095.939020",
+		"Zipcode" : "74137",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.017296"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74141",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-095.884368",
+		"Zipcode" : "74145",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.118687"
+	},
+	{
+		"Longitude" : "-095.846066",
+		"Zipcode" : "74146",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.097046"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74147",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74148",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74149",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74150",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74152",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74153",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74155",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-095.960472",
+		"Zipcode" : "74156",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.302391"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74157",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74158",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.083477",
+		"Zipcode" : "74159",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.077221"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74169",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74170",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-095.957721",
+		"Zipcode" : "74171",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.054345"
+	},
+	{
+		"Longitude" : "-095.992323",
+		"Zipcode" : "74172",
+		"ZipClass" : "STANDARD",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.154342"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74182",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74183",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74184",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74186",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74187",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74189",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74192",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74193",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-096.029725",
+		"Zipcode" : "74194",
+		"ZipClass" : "UNIQUE",
+		"County" : "TULSA",
+		"City" : "TULSA",
+		"State" : "OK",
+		"Latitude" : "+36.139826"
+	},
+	{
+		"Longitude" : "-095.197639",
+		"Zipcode" : "74301",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIG",
+		"City" : "VINITA",
+		"State" : "OK",
+		"Latitude" : "+36.723649"
+	},
+	{
+		"Longitude" : "-095.269750",
+		"Zipcode" : "74330",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "ADAIR",
+		"State" : "OK",
+		"Latitude" : "+36.437360"
+	},
+	{
+		"Longitude" : "-094.916222",
+		"Zipcode" : "74331",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "AFTON",
+		"State" : "OK",
+		"Latitude" : "+36.822150"
+	},
+	{
+		"Longitude" : "-095.224568",
+		"Zipcode" : "74332",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIG",
+		"City" : "BIG CABIN",
+		"State" : "OK",
+		"Latitude" : "+36.533954"
+	},
+	{
+		"Longitude" : "-095.073159",
+		"Zipcode" : "74333",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIG",
+		"City" : "BLUEJACKET",
+		"State" : "OK",
+		"Latitude" : "+36.844913"
+	},
+	{
+		"Longitude" : "-094.827880",
+		"Zipcode" : "74335",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OTTAWA",
+		"City" : "CARDIN",
+		"State" : "OK",
+		"Latitude" : "+36.833508"
+	},
+	{
+		"Longitude" : "-095.261554",
+		"Zipcode" : "74337",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "CHOUTEAU",
+		"State" : "OK",
+		"Latitude" : "+36.187866"
+	},
+	{
+		"Longitude" : "-094.694674",
+		"Zipcode" : "74338",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "COLCORD",
+		"State" : "OK",
+		"Latitude" : "+36.265655"
+	},
+	{
+		"Longitude" : "-094.876086",
+		"Zipcode" : "74339",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "COMMERCE",
+		"State" : "OK",
+		"Latitude" : "+36.829945"
+	},
+	{
+		"Longitude" : "-095.222792",
+		"Zipcode" : "74340",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAYES",
+		"City" : "DISNEY",
+		"State" : "OK",
+		"Latitude" : "+36.292495"
+	},
+	{
+		"Longitude" : "-094.787091",
+		"Zipcode" : "74342",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "EUCHA",
+		"State" : "OK",
+		"Latitude" : "+36.415938"
+	},
+	{
+		"Longitude" : "-094.826053",
+		"Zipcode" : "74343",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "FAIRLAND",
+		"State" : "OK",
+		"Latitude" : "+36.741636"
+	},
+	{
+		"Longitude" : "-094.741620",
+		"Zipcode" : "74344",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "GROVE",
+		"State" : "OK",
+		"Latitude" : "+36.545757"
+	},
+	{
+		"Longitude" : "-094.729740",
+		"Zipcode" : "74345",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "GROVE",
+		"State" : "OK",
+		"Latitude" : "+36.603587"
+	},
+	{
+		"Longitude" : "-094.802653",
+		"Zipcode" : "74346",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "JAY",
+		"State" : "OK",
+		"Latitude" : "+36.482043"
+	},
+	{
+		"Longitude" : "-094.759426",
+		"Zipcode" : "74347",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "KANSAS",
+		"State" : "OK",
+		"Latitude" : "+36.210142"
+	},
+	{
+		"Longitude" : "-095.027854",
+		"Zipcode" : "74349",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAYES",
+		"City" : "KETCHUM",
+		"State" : "OK",
+		"Latitude" : "+36.489096"
+	},
+	{
+		"Longitude" : "-095.047773",
+		"Zipcode" : "74350",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAYES",
+		"City" : "LANGLEY",
+		"State" : "OK",
+		"Latitude" : "+36.464494"
+	},
+	{
+		"Longitude" : "-095.167408",
+		"Zipcode" : "74352",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "LOCUST GROVE",
+		"State" : "OK",
+		"Latitude" : "+36.198011"
+	},
+	{
+		"Longitude" : "-094.854482",
+		"Zipcode" : "74354",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "MIAMI",
+		"State" : "OK",
+		"Latitude" : "+36.842401"
+	},
+	{
+		"Longitude" : "-094.877031",
+		"Zipcode" : "74355",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "MIAMI",
+		"State" : "OK",
+		"Latitude" : "+36.834080"
+	},
+	{
+		"Longitude" : "-094.885709",
+		"Zipcode" : "74358",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OTTAWA",
+		"City" : "NORTH MIAMI",
+		"State" : "OK",
+		"Latitude" : "+36.916334"
+	},
+	{
+		"Longitude" : "-094.787091",
+		"Zipcode" : "74359",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "OAKS",
+		"State" : "OK",
+		"Latitude" : "+36.415938"
+	},
+	{
+		"Longitude" : "-094.740343",
+		"Zipcode" : "74360",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "PICHER",
+		"State" : "OK",
+		"Latitude" : "+36.946023"
+	},
+	{
+		"Longitude" : "-095.271696",
+		"Zipcode" : "74361",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "PRYOR",
+		"State" : "OK",
+		"Latitude" : "+36.307279"
+	},
+	{
+		"Longitude" : "-095.222792",
+		"Zipcode" : "74362",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "PRYOR",
+		"State" : "OK",
+		"Latitude" : "+36.292495"
+	},
+	{
+		"Longitude" : "-094.733392",
+		"Zipcode" : "74363",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "QUAPAW",
+		"State" : "OK",
+		"Latitude" : "+36.942292"
+	},
+	{
+		"Longitude" : "-095.222792",
+		"Zipcode" : "74364",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "ROSE",
+		"State" : "OK",
+		"Latitude" : "+36.292495"
+	},
+	{
+		"Longitude" : "-095.232816",
+		"Zipcode" : "74365",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "SALINA",
+		"State" : "OK",
+		"Latitude" : "+36.286057"
+	},
+	{
+		"Longitude" : "-095.049656",
+		"Zipcode" : "74366",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "SPAVINAW",
+		"State" : "OK",
+		"Latitude" : "+36.396264"
+	},
+	{
+		"Longitude" : "-095.077276",
+		"Zipcode" : "74367",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYES",
+		"City" : "STRANG",
+		"State" : "OK",
+		"Latitude" : "+36.414108"
+	},
+	{
+		"Longitude" : "-094.797319",
+		"Zipcode" : "74368",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "TWIN OAKS",
+		"State" : "OK",
+		"Latitude" : "+36.205961"
+	},
+	{
+		"Longitude" : "-095.215685",
+		"Zipcode" : "74369",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIG",
+		"City" : "WELCH",
+		"State" : "OK",
+		"Latitude" : "+36.885732"
+	},
+	{
+		"Longitude" : "-094.789475",
+		"Zipcode" : "74370",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "WYANDOTTE",
+		"State" : "OK",
+		"Latitude" : "+36.798561"
+	},
+	{
+		"Longitude" : "-095.500250",
+		"Zipcode" : "74401",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "MUSKOGEE",
+		"State" : "OK",
+		"Latitude" : "+35.705820"
+	},
+	{
+		"Longitude" : "-095.306916",
+		"Zipcode" : "74402",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "MUSKOGEE",
+		"State" : "OK",
+		"Latitude" : "+35.764223"
+	},
+	{
+		"Longitude" : "-095.433598",
+		"Zipcode" : "74403",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "MUSKOGEE",
+		"State" : "OK",
+		"Latitude" : "+35.654483"
+	},
+	{
+		"Longitude" : "-096.026538",
+		"Zipcode" : "74421",
+		"ZipClass" : "STANDARD",
+		"County" : "OKMULGEE",
+		"City" : "BEGGS",
+		"State" : "OK",
+		"Latitude" : "+35.737125"
+	},
+	{
+		"Longitude" : "-095.408146",
+		"Zipcode" : "74422",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "BOYNTON",
+		"State" : "OK",
+		"Latitude" : "+35.559244"
+	},
+	{
+		"Longitude" : "-095.197780",
+		"Zipcode" : "74423",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "BRAGGS",
+		"State" : "OK",
+		"Latitude" : "+35.662957"
+	},
+	{
+		"Longitude" : "-095.621536",
+		"Zipcode" : "74425",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "CANADIAN",
+		"State" : "OK",
+		"Latitude" : "+35.157132"
+	},
+	{
+		"Longitude" : "-095.517816",
+		"Zipcode" : "74426",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "CHECOTAH",
+		"State" : "OK",
+		"Latitude" : "+35.492196"
+	},
+	{
+		"Longitude" : "-095.076549",
+		"Zipcode" : "74427",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "COOKSON",
+		"State" : "OK",
+		"Latitude" : "+35.809300"
+	},
+	{
+		"Longitude" : "-095.408146",
+		"Zipcode" : "74428",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "COUNCIL HILL",
+		"State" : "OK",
+		"Latitude" : "+35.559244"
+	},
+	{
+		"Longitude" : "-095.674795",
+		"Zipcode" : "74429",
+		"ZipClass" : "STANDARD",
+		"County" : "WAGONER",
+		"City" : "COWETA",
+		"State" : "OK",
+		"Latitude" : "+36.002092"
+	},
+	{
+		"Longitude" : "-095.720708",
+		"Zipcode" : "74430",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PITTSBURG",
+		"City" : "CROWDER",
+		"State" : "OK",
+		"Latitude" : "+34.947259"
+	},
+	{
+		"Longitude" : "-095.949771",
+		"Zipcode" : "74431",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKMULGEE",
+		"City" : "DEWAR",
+		"State" : "OK",
+		"Latitude" : "+35.455066"
+	},
+	{
+		"Longitude" : "-095.588523",
+		"Zipcode" : "74432",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "EUFAULA",
+		"State" : "OK",
+		"Latitude" : "+35.318019"
+	},
+	{
+		"Longitude" : "-095.400640",
+		"Zipcode" : "74434",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "FORT GIBSON",
+		"State" : "OK",
+		"Latitude" : "+35.739927"
+	},
+	{
+		"Longitude" : "-095.109916",
+		"Zipcode" : "74435",
+		"ZipClass" : "STANDARD",
+		"County" : "SEQUOYAH",
+		"City" : "GORE",
+		"State" : "OK",
+		"Latitude" : "+35.532577"
+	},
+	{
+		"Longitude" : "-095.681972",
+		"Zipcode" : "74436",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "HASKELL",
+		"State" : "OK",
+		"Latitude" : "+35.813548"
+	},
+	{
+		"Longitude" : "-096.012229",
+		"Zipcode" : "74437",
+		"ZipClass" : "STANDARD",
+		"County" : "OKMULGEE",
+		"City" : "HENRYETTA",
+		"State" : "OK",
+		"Latitude" : "+35.462159"
+	},
+	{
+		"Longitude" : "-095.664118",
+		"Zipcode" : "74438",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCINTOSH",
+		"City" : "HITCHITA",
+		"State" : "OK",
+		"Latitude" : "+35.347368"
+	},
+	{
+		"Longitude" : "-095.134492",
+		"Zipcode" : "74440",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HASKELL",
+		"City" : "HOYT",
+		"State" : "OK",
+		"Latitude" : "+35.258196"
+	},
+	{
+		"Longitude" : "-095.198082",
+		"Zipcode" : "74441",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "HULBERT",
+		"State" : "OK",
+		"Latitude" : "+35.941610"
+	},
+	{
+		"Longitude" : "-095.720708",
+		"Zipcode" : "74442",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "INDIANOLA",
+		"State" : "OK",
+		"Latitude" : "+34.947259"
+	},
+	{
+		"Longitude" : "-094.957751",
+		"Zipcode" : "74444",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHEROKEE",
+		"City" : "MOODYS",
+		"State" : "OK",
+		"Latitude" : "+36.025728"
+	},
+	{
+		"Longitude" : "-095.841592",
+		"Zipcode" : "74445",
+		"ZipClass" : "STANDARD",
+		"County" : "OKMULGEE",
+		"City" : "MORRIS",
+		"State" : "OK",
+		"Latitude" : "+35.624291"
+	},
+	{
+		"Longitude" : "-095.285648",
+		"Zipcode" : "74446",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAGONER",
+		"City" : "OKAY",
+		"State" : "OK",
+		"Latitude" : "+35.857722"
+	},
+	{
+		"Longitude" : "-095.966857",
+		"Zipcode" : "74447",
+		"ZipClass" : "STANDARD",
+		"County" : "OKMULGEE",
+		"City" : "OKMULGEE",
+		"State" : "OK",
+		"Latitude" : "+35.612514"
+	},
+	{
+		"Longitude" : "-095.463621",
+		"Zipcode" : "74450",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "OKTAHA",
+		"State" : "OK",
+		"Latitude" : "+35.604611"
+	},
+	{
+		"Longitude" : "-094.997651",
+		"Zipcode" : "74451",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "PARK HILL",
+		"State" : "OK",
+		"Latitude" : "+35.727468"
+	},
+	{
+		"Longitude" : "-095.040008",
+		"Zipcode" : "74452",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "PEGGS",
+		"State" : "OK",
+		"Latitude" : "+35.900074"
+	},
+	{
+		"Longitude" : "-095.522072",
+		"Zipcode" : "74454",
+		"ZipClass" : "STANDARD",
+		"County" : "WAGONER",
+		"City" : "PORTER",
+		"State" : "OK",
+		"Latitude" : "+35.868810"
+	},
+	{
+		"Longitude" : "-095.297144",
+		"Zipcode" : "74455",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "PORUM",
+		"State" : "OK",
+		"Latitude" : "+35.461870"
+	},
+	{
+		"Longitude" : "-095.952741",
+		"Zipcode" : "74456",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKMULGEE",
+		"City" : "PRESTON",
+		"State" : "OK",
+		"Latitude" : "+35.616975"
+	},
+	{
+		"Longitude" : "-094.640218",
+		"Zipcode" : "74457",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "PROCTOR",
+		"State" : "OK",
+		"Latitude" : "+35.900019"
+	},
+	{
+		"Longitude" : "-095.513856",
+		"Zipcode" : "74458",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAGONER",
+		"City" : "REDBIRD",
+		"State" : "OK",
+		"Latitude" : "+35.963567"
+	},
+	{
+		"Longitude" : "-095.494952",
+		"Zipcode" : "74459",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCINTOSH",
+		"City" : "RENTIESVILLE",
+		"State" : "OK",
+		"Latitude" : "+35.521423"
+	},
+	{
+		"Longitude" : "-095.958271",
+		"Zipcode" : "74460",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKMULGEE",
+		"City" : "SCHULTER",
+		"State" : "OK",
+		"Latitude" : "+35.513169"
+	},
+	{
+		"Longitude" : "-095.664118",
+		"Zipcode" : "74461",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "STIDHAM",
+		"State" : "OK",
+		"Latitude" : "+35.347368"
+	},
+	{
+		"Longitude" : "-095.061902",
+		"Zipcode" : "74462",
+		"ZipClass" : "STANDARD",
+		"County" : "HASKELL",
+		"City" : "STIGLER",
+		"State" : "OK",
+		"Latitude" : "+35.266094"
+	},
+	{
+		"Longitude" : "-095.544501",
+		"Zipcode" : "74463",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MUSKOGEE",
+		"City" : "TAFT",
+		"State" : "OK",
+		"Latitude" : "+35.763648"
+	},
+	{
+		"Longitude" : "-094.911331",
+		"Zipcode" : "74464",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "TAHLEQUAH",
+		"State" : "OK",
+		"Latitude" : "+35.911304"
+	},
+	{
+		"Longitude" : "-095.040008",
+		"Zipcode" : "74465",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "TAHLEQUAH",
+		"State" : "OK",
+		"Latitude" : "+35.900074"
+	},
+	{
+		"Longitude" : "-095.513856",
+		"Zipcode" : "74466",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAGONER",
+		"City" : "TULLAHASSEE",
+		"State" : "OK",
+		"Latitude" : "+35.963567"
+	},
+	{
+		"Longitude" : "-095.415011",
+		"Zipcode" : "74467",
+		"ZipClass" : "STANDARD",
+		"County" : "WAGONER",
+		"City" : "WAGONER",
+		"State" : "OK",
+		"Latitude" : "+35.943419"
+	},
+	{
+		"Longitude" : "-095.408146",
+		"Zipcode" : "74468",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MUSKOGEE",
+		"City" : "WAINWRIGHT",
+		"State" : "OK",
+		"Latitude" : "+35.559244"
+	},
+	{
+		"Longitude" : "-095.390328",
+		"Zipcode" : "74469",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "WARNER",
+		"State" : "OK",
+		"Latitude" : "+35.493529"
+	},
+	{
+		"Longitude" : "-095.131499",
+		"Zipcode" : "74470",
+		"ZipClass" : "STANDARD",
+		"County" : "MUSKOGEE",
+		"City" : "WEBBERS FALLS",
+		"State" : "OK",
+		"Latitude" : "+35.511412"
+	},
+	{
+		"Longitude" : "-094.881607",
+		"Zipcode" : "74471",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "WELLING",
+		"State" : "OK",
+		"Latitude" : "+35.764427"
+	},
+	{
+		"Longitude" : "-095.134492",
+		"Zipcode" : "74472",
+		"ZipClass" : "STANDARD",
+		"County" : "HASKELL",
+		"City" : "WHITEFIELD",
+		"State" : "OK",
+		"Latitude" : "+35.258196"
+	},
+	{
+		"Longitude" : "-095.513856",
+		"Zipcode" : "74477",
+		"ZipClass" : "STANDARD",
+		"County" : "WAGONER",
+		"City" : "WAGONER",
+		"State" : "OK",
+		"Latitude" : "+35.963567"
+	},
+	{
+		"Longitude" : "-095.685544",
+		"Zipcode" : "74501",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "MCALESTER",
+		"State" : "OK",
+		"Latitude" : "+34.922756"
+	},
+	{
+		"Longitude" : "-095.720708",
+		"Zipcode" : "74502",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "MCALESTER",
+		"State" : "OK",
+		"Latitude" : "+34.947259"
+	},
+	{
+		"Longitude" : "-095.358406",
+		"Zipcode" : "74521",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PUSHMATAHA",
+		"City" : "ALBION",
+		"State" : "OK",
+		"Latitude" : "+34.418801"
+	},
+	{
+		"Longitude" : "-095.698060",
+		"Zipcode" : "74522",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PITTSBURG",
+		"City" : "ALDERSON",
+		"State" : "OK",
+		"Latitude" : "+34.904489"
+	},
+	{
+		"Longitude" : "-095.626306",
+		"Zipcode" : "74523",
+		"ZipClass" : "STANDARD",
+		"County" : "PUSHMATAHA",
+		"City" : "ANTLERS",
+		"State" : "OK",
+		"Latitude" : "+34.215441"
+	},
+	{
+		"Longitude" : "-096.082500",
+		"Zipcode" : "74525",
+		"ZipClass" : "STANDARD",
+		"County" : "ATOKA",
+		"City" : "ATOKA",
+		"State" : "OK",
+		"Latitude" : "+34.358254"
+	},
+	{
+		"Longitude" : "-095.720708",
+		"Zipcode" : "74528",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "BLANCO",
+		"State" : "OK",
+		"Latitude" : "+34.947259"
+	},
+	{
+		"Longitude" : "-095.720708",
+		"Zipcode" : "74529",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PITTSBURG",
+		"City" : "BLOCKER",
+		"State" : "OK",
+		"Latitude" : "+34.947259"
+	},
+	{
+		"Longitude" : "-096.670349",
+		"Zipcode" : "74530",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JOHNSTON",
+		"City" : "BROMIDE",
+		"State" : "OK",
+		"Latitude" : "+34.310191"
+	},
+	{
+		"Longitude" : "-096.235928",
+		"Zipcode" : "74531",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "CALVIN",
+		"State" : "OK",
+		"Latitude" : "+35.028521"
+	},
+	{
+		"Longitude" : "-096.197853",
+		"Zipcode" : "74533",
+		"ZipClass" : "STANDARD",
+		"County" : "ATOKA",
+		"City" : "CANEY",
+		"State" : "OK",
+		"Latitude" : "+34.208512"
+	},
+	{
+		"Longitude" : "-096.303069",
+		"Zipcode" : "74534",
+		"ZipClass" : "STANDARD",
+		"County" : "COAL",
+		"City" : "CENTRAHOMA",
+		"State" : "OK",
+		"Latitude" : "+34.592949"
+	},
+	{
+		"Longitude" : "-096.303069",
+		"Zipcode" : "74535",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COAL",
+		"City" : "CLARITA",
+		"State" : "OK",
+		"Latitude" : "+34.592949"
+	},
+	{
+		"Longitude" : "-095.358406",
+		"Zipcode" : "74536",
+		"ZipClass" : "STANDARD",
+		"County" : "PUSHMATAHA",
+		"City" : "CLAYTON",
+		"State" : "OK",
+		"Latitude" : "+34.418801"
+	},
+	{
+		"Longitude" : "-096.229156",
+		"Zipcode" : "74538",
+		"ZipClass" : "STANDARD",
+		"County" : "COAL",
+		"City" : "COALGATE",
+		"State" : "OK",
+		"Latitude" : "+34.538327"
+	},
+	{
+		"Longitude" : "-096.039727",
+		"Zipcode" : "74540",
+		"ZipClass" : "STANDARD",
+		"County" : "ATOKA",
+		"City" : "DAISY",
+		"State" : "OK",
+		"Latitude" : "+34.418700"
+	},
+	{
+		"Longitude" : "-096.039727",
+		"Zipcode" : "74542",
+		"ZipClass" : "STANDARD",
+		"County" : "ATOKA",
+		"City" : "ATOKA",
+		"State" : "OK",
+		"Latitude" : "+34.418700"
+	},
+	{
+		"Longitude" : "-095.358406",
+		"Zipcode" : "74543",
+		"ZipClass" : "STANDARD",
+		"County" : "PUSHMATAHA",
+		"City" : "FINLEY",
+		"State" : "OK",
+		"Latitude" : "+34.418801"
+	},
+	{
+		"Longitude" : "-095.221099",
+		"Zipcode" : "74545",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LATIMER",
+		"City" : "GOWEN",
+		"State" : "OK",
+		"Latitude" : "+34.869457"
+	},
+	{
+		"Longitude" : "-095.577718",
+		"Zipcode" : "74546",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PITTSBURG",
+		"City" : "HAILEYVILLE",
+		"State" : "OK",
+		"Latitude" : "+34.849958"
+	},
+	{
+		"Longitude" : "-095.544861",
+		"Zipcode" : "74547",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "HARTSHORNE",
+		"State" : "OK",
+		"Latitude" : "+34.982457"
+	},
+	{
+		"Longitude" : "-094.618339",
+		"Zipcode" : "74549",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "HONOBIA",
+		"State" : "OK",
+		"Latitude" : "+35.025939"
+	},
+	{
+		"Longitude" : "-095.134492",
+		"Zipcode" : "74552",
+		"ZipClass" : "STANDARD",
+		"County" : "HASKELL",
+		"City" : "KINTA",
+		"State" : "OK",
+		"Latitude" : "+35.258196"
+	},
+	{
+		"Longitude" : "-095.906795",
+		"Zipcode" : "74553",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "KIOWA",
+		"State" : "OK",
+		"Latitude" : "+34.723584"
+	},
+	{
+		"Longitude" : "-095.761561",
+		"Zipcode" : "74554",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PITTSBURG",
+		"City" : "KREBS",
+		"State" : "OK",
+		"Latitude" : "+34.894194"
+	},
+	{
+		"Longitude" : "-095.935842",
+		"Zipcode" : "74555",
+		"ZipClass" : "STANDARD",
+		"County" : "ATOKA",
+		"City" : "LANE",
+		"State" : "OK",
+		"Latitude" : "+34.247711"
+	},
+	{
+		"Longitude" : "-096.303069",
+		"Zipcode" : "74556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COAL",
+		"City" : "LEHIGH",
+		"State" : "OK",
+		"Latitude" : "+34.592949"
+	},
+	{
+		"Longitude" : "-095.358406",
+		"Zipcode" : "74557",
+		"ZipClass" : "STANDARD",
+		"County" : "PUSHMATAHA",
+		"City" : "MOYERS",
+		"State" : "OK",
+		"Latitude" : "+34.418801"
+	},
+	{
+		"Longitude" : "-095.358406",
+		"Zipcode" : "74558",
+		"ZipClass" : "STANDARD",
+		"County" : "PUSHMATAHA",
+		"City" : "NASHOBA",
+		"State" : "OK",
+		"Latitude" : "+34.418801"
+	},
+	{
+		"Longitude" : "-095.221099",
+		"Zipcode" : "74559",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LATIMER",
+		"City" : "PANOLA",
+		"State" : "OK",
+		"Latitude" : "+34.869457"
+	},
+	{
+		"Longitude" : "-095.897915",
+		"Zipcode" : "74560",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "PITTSBURG",
+		"State" : "OK",
+		"Latitude" : "+34.718754"
+	},
+	{
+		"Longitude" : "-095.364874",
+		"Zipcode" : "74561",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "QUINTON",
+		"State" : "OK",
+		"Latitude" : "+35.125294"
+	},
+	{
+		"Longitude" : "-095.358406",
+		"Zipcode" : "74562",
+		"ZipClass" : "STANDARD",
+		"County" : "PUSHMATAHA",
+		"City" : "RATTAN",
+		"State" : "OK",
+		"Latitude" : "+34.418801"
+	},
+	{
+		"Longitude" : "-095.079806",
+		"Zipcode" : "74563",
+		"ZipClass" : "STANDARD",
+		"County" : "LATIMER",
+		"City" : "RED OAK",
+		"State" : "OK",
+		"Latitude" : "+34.951776"
+	},
+	{
+		"Longitude" : "-095.838039",
+		"Zipcode" : "74565",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PITTSBURG",
+		"City" : "SAVANNA",
+		"State" : "OK",
+		"Latitude" : "+34.835378"
+	},
+	{
+		"Longitude" : "-095.358406",
+		"Zipcode" : "74567",
+		"ZipClass" : "STANDARD",
+		"County" : "PUSHMATAHA",
+		"City" : "SNOW",
+		"State" : "OK",
+		"Latitude" : "+34.418801"
+	},
+	{
+		"Longitude" : "-096.012309",
+		"Zipcode" : "74569",
+		"ZipClass" : "STANDARD",
+		"County" : "ATOKA",
+		"City" : "STRINGTOWN",
+		"State" : "OK",
+		"Latitude" : "+34.456722"
+	},
+	{
+		"Longitude" : "-096.099488",
+		"Zipcode" : "74570",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "STUART",
+		"State" : "OK",
+		"Latitude" : "+34.903001"
+	},
+	{
+		"Longitude" : "-095.044014",
+		"Zipcode" : "74571",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "TALIHINA",
+		"State" : "OK",
+		"Latitude" : "+34.745742"
+	},
+	{
+		"Longitude" : "-096.420055",
+		"Zipcode" : "74572",
+		"ZipClass" : "STANDARD",
+		"County" : "COAL",
+		"City" : "TUPELO",
+		"State" : "OK",
+		"Latitude" : "+34.603933"
+	},
+	{
+		"Longitude" : "-095.358406",
+		"Zipcode" : "74574",
+		"ZipClass" : "STANDARD",
+		"County" : "PUSHMATAHA",
+		"City" : "TUSKAHOMA",
+		"State" : "OK",
+		"Latitude" : "+34.418801"
+	},
+	{
+		"Longitude" : "-095.720708",
+		"Zipcode" : "74576",
+		"ZipClass" : "STANDARD",
+		"County" : "PITTSBURG",
+		"City" : "WARDVILLE",
+		"State" : "OK",
+		"Latitude" : "+34.947259"
+	},
+	{
+		"Longitude" : "-094.745782",
+		"Zipcode" : "74577",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "WHITESBORO",
+		"State" : "OK",
+		"Latitude" : "+34.943627"
+	},
+	{
+		"Longitude" : "-095.287712",
+		"Zipcode" : "74578",
+		"ZipClass" : "STANDARD",
+		"County" : "LATIMER",
+		"City" : "WILBURTON",
+		"State" : "OK",
+		"Latitude" : "+34.855219"
+	},
+	{
+		"Longitude" : "-097.189080",
+		"Zipcode" : "74601",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "PONCA CITY",
+		"State" : "OK",
+		"Latitude" : "+36.736868"
+	},
+	{
+		"Longitude" : "-097.137693",
+		"Zipcode" : "74602",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "PONCA CITY",
+		"State" : "OK",
+		"Latitude" : "+36.695368"
+	},
+	{
+		"Longitude" : "-097.106166",
+		"Zipcode" : "74603",
+		"ZipClass" : "UNIQUE",
+		"County" : "KAY",
+		"City" : "PONCA CITY",
+		"State" : "OK",
+		"Latitude" : "+36.796349"
+	},
+	{
+		"Longitude" : "-097.154165",
+		"Zipcode" : "74604",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "PONCA CITY",
+		"State" : "OK",
+		"Latitude" : "+36.767551"
+	},
+	{
+		"Longitude" : "-097.408128",
+		"Zipcode" : "74630",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "BILLINGS",
+		"State" : "OK",
+		"Latitude" : "+36.513543"
+	},
+	{
+		"Longitude" : "-097.206840",
+		"Zipcode" : "74631",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "BLACKWELL",
+		"State" : "OK",
+		"Latitude" : "+36.803494"
+	},
+	{
+		"Longitude" : "-097.336335",
+		"Zipcode" : "74632",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "BRAMAN",
+		"State" : "OK",
+		"Latitude" : "+36.941212"
+	},
+	{
+		"Longitude" : "-096.806094",
+		"Zipcode" : "74633",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "BURBANK",
+		"State" : "OK",
+		"Latitude" : "+36.709687"
+	},
+	{
+		"Longitude" : "-097.520322",
+		"Zipcode" : "74636",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "DEER CREEK",
+		"State" : "OK",
+		"Latitude" : "+36.807305"
+	},
+	{
+		"Longitude" : "-096.778701",
+		"Zipcode" : "74637",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "FAIRFAX",
+		"State" : "OK",
+		"Latitude" : "+36.593236"
+	},
+	{
+		"Longitude" : "-097.662492",
+		"Zipcode" : "74640",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "HUNTER",
+		"State" : "OK",
+		"Latitude" : "+36.563723"
+	},
+	{
+		"Longitude" : "-096.883292",
+		"Zipcode" : "74641",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "KAW CITY",
+		"State" : "OK",
+		"Latitude" : "+36.838239"
+	},
+	{
+		"Longitude" : "-097.557809",
+		"Zipcode" : "74643",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "LAMONT",
+		"State" : "OK",
+		"Latitude" : "+36.690445"
+	},
+	{
+		"Longitude" : "-097.123973",
+		"Zipcode" : "74644",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "MARLAND",
+		"State" : "OK",
+		"Latitude" : "+36.543244"
+	},
+	{
+		"Longitude" : "-097.430104",
+		"Zipcode" : "74646",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "NARDIN",
+		"State" : "OK",
+		"Latitude" : "+36.818186"
+	},
+	{
+		"Longitude" : "-097.056112",
+		"Zipcode" : "74647",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "NEWKIRK",
+		"State" : "OK",
+		"Latitude" : "+36.840009"
+	},
+	{
+		"Longitude" : "-096.735613",
+		"Zipcode" : "74650",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "RALSTON",
+		"State" : "OK",
+		"Latitude" : "+36.503442"
+	},
+	{
+		"Longitude" : "-097.187383",
+		"Zipcode" : "74651",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "RED ROCK",
+		"State" : "OK",
+		"Latitude" : "+36.455368"
+	},
+	{
+		"Longitude" : "-096.660700",
+		"Zipcode" : "74652",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "SHIDLER",
+		"State" : "OK",
+		"Latitude" : "+36.781943"
+	},
+	{
+		"Longitude" : "-097.166131",
+		"Zipcode" : "74653",
+		"ZipClass" : "STANDARD",
+		"County" : "KAY",
+		"City" : "TONKAWA",
+		"State" : "OK",
+		"Latitude" : "+36.678755"
+	},
+	{
+		"Longitude" : "-096.321428",
+		"Zipcode" : "74701",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "DURANT",
+		"State" : "OK",
+		"Latitude" : "+34.044944"
+	},
+	{
+		"Longitude" : "-096.191767",
+		"Zipcode" : "74702",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "DURANT",
+		"State" : "OK",
+		"Latitude" : "+33.921979"
+	},
+	{
+		"Longitude" : "-096.264411",
+		"Zipcode" : "74720",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRYAN",
+		"City" : "ACHILLE",
+		"State" : "OK",
+		"Latitude" : "+33.924443"
+	},
+	{
+		"Longitude" : "-096.191767",
+		"Zipcode" : "74721",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRYAN",
+		"City" : "ALBANY",
+		"State" : "OK",
+		"Latitude" : "+33.921979"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74722",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCCURTAIN",
+		"City" : "BATTIEST",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-096.038191",
+		"Zipcode" : "74723",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "BENNINGTON",
+		"State" : "OK",
+		"Latitude" : "+34.002019"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74724",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "BETHEL",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-096.141469",
+		"Zipcode" : "74726",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "BOKCHITO",
+		"State" : "OK",
+		"Latitude" : "+34.017405"
+	},
+	{
+		"Longitude" : "-095.869986",
+		"Zipcode" : "74727",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "BOSWELL",
+		"State" : "OK",
+		"Latitude" : "+34.028048"
+	},
+	{
+		"Longitude" : "-094.828998",
+		"Zipcode" : "74728",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "BROKEN BOW",
+		"State" : "OK",
+		"Latitude" : "+33.953477"
+	},
+	{
+		"Longitude" : "-096.301579",
+		"Zipcode" : "74729",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "CADDO",
+		"State" : "OK",
+		"Latitude" : "+34.092082"
+	},
+	{
+		"Longitude" : "-096.430781",
+		"Zipcode" : "74730",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "CALERA",
+		"State" : "OK",
+		"Latitude" : "+33.932249"
+	},
+	{
+		"Longitude" : "-096.191767",
+		"Zipcode" : "74731",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "CARTWRIGHT",
+		"State" : "OK",
+		"Latitude" : "+33.921979"
+	},
+	{
+		"Longitude" : "-096.528187",
+		"Zipcode" : "74733",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "COLBERT",
+		"State" : "OK",
+		"Latitude" : "+33.857674"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74734",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "EAGLETOWN",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-095.573733",
+		"Zipcode" : "74735",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "FORT TOWSON",
+		"State" : "OK",
+		"Latitude" : "+34.011680"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74736",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "GARVIN",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74737",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCCURTAIN",
+		"City" : "GOLDEN",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-095.573733",
+		"Zipcode" : "74738",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "GRANT",
+		"State" : "OK",
+		"Latitude" : "+34.011680"
+	},
+	{
+		"Longitude" : "-094.733795",
+		"Zipcode" : "74740",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "HAWORTH",
+		"State" : "OK",
+		"Latitude" : "+33.851471"
+	},
+	{
+		"Longitude" : "-096.354429",
+		"Zipcode" : "74741",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "HENDRIX",
+		"State" : "OK",
+		"Latitude" : "+33.772161"
+	},
+	{
+		"Longitude" : "-095.514473",
+		"Zipcode" : "74743",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "HUGO",
+		"State" : "OK",
+		"Latitude" : "+34.018892"
+	},
+	{
+		"Longitude" : "-094.869464",
+		"Zipcode" : "74745",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "IDABEL",
+		"State" : "OK",
+		"Latitude" : "+33.956429"
+	},
+	{
+		"Longitude" : "-096.191767",
+		"Zipcode" : "74747",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "KEMP",
+		"State" : "OK",
+		"Latitude" : "+33.921979"
+	},
+	{
+		"Longitude" : "-096.263566",
+		"Zipcode" : "74748",
+		"ZipClass" : "STANDARD",
+		"County" : "BRYAN",
+		"City" : "KENEFIC",
+		"State" : "OK",
+		"Latitude" : "+34.131629"
+	},
+	{
+		"Longitude" : "-095.002496",
+		"Zipcode" : "74750",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCCURTAIN",
+		"City" : "MILLERTON",
+		"State" : "OK",
+		"Latitude" : "+33.980066"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74752",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCCURTAIN",
+		"City" : "PICKENS",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-096.191767",
+		"Zipcode" : "74753",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRYAN",
+		"City" : "PLATTER",
+		"State" : "OK",
+		"Latitude" : "+33.921979"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74754",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "RINGOLD",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74755",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "RUFE",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-095.573733",
+		"Zipcode" : "74756",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "SAWYER",
+		"State" : "OK",
+		"Latitude" : "+34.011680"
+	},
+	{
+		"Longitude" : "-095.696492",
+		"Zipcode" : "74759",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "SOPER",
+		"State" : "OK",
+		"Latitude" : "+34.032640"
+	},
+	{
+		"Longitude" : "-095.573733",
+		"Zipcode" : "74760",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "SPENCERVILLE",
+		"State" : "OK",
+		"Latitude" : "+34.011680"
+	},
+	{
+		"Longitude" : "-095.573733",
+		"Zipcode" : "74761",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHOCTAW",
+		"City" : "SWINK",
+		"State" : "OK",
+		"Latitude" : "+34.011680"
+	},
+	{
+		"Longitude" : "-095.090099",
+		"Zipcode" : "74764",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "VALLIANT",
+		"State" : "OK",
+		"Latitude" : "+34.004630"
+	},
+	{
+		"Longitude" : "-095.005676",
+		"Zipcode" : "74766",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "WRIGHT CITY",
+		"State" : "OK",
+		"Latitude" : "+34.061785"
+	},
+	{
+		"Longitude" : "-096.960092",
+		"Zipcode" : "74801",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "SHAWNEE",
+		"State" : "OK",
+		"Latitude" : "+35.295843"
+	},
+	{
+		"Longitude" : "-096.959601",
+		"Zipcode" : "74802",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "SHAWNEE",
+		"State" : "OK",
+		"Latitude" : "+35.365621"
+	},
+	{
+		"Longitude" : "-096.933148",
+		"Zipcode" : "74804",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "SHAWNEE",
+		"State" : "OK",
+		"Latitude" : "+35.386758"
+	},
+	{
+		"Longitude" : "-096.609139",
+		"Zipcode" : "74818",
+		"ZipClass" : "STANDARD",
+		"County" : "SEMINOLE",
+		"City" : "SEMINOLE",
+		"State" : "OK",
+		"Latitude" : "+35.162228"
+	},
+	{
+		"Longitude" : "-096.685325",
+		"Zipcode" : "74820",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "ADA",
+		"State" : "OK",
+		"Latitude" : "+34.748961"
+	},
+	{
+		"Longitude" : "-096.669321",
+		"Zipcode" : "74821",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "ADA",
+		"State" : "OK",
+		"Latitude" : "+34.735301"
+	},
+	{
+		"Longitude" : "-096.873793",
+		"Zipcode" : "74824",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "AGRA",
+		"State" : "OK",
+		"Latitude" : "+35.908981"
+	},
+	{
+		"Longitude" : "-096.415107",
+		"Zipcode" : "74825",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "ALLEN",
+		"State" : "OK",
+		"Latitude" : "+34.869145"
+	},
+	{
+		"Longitude" : "-096.946216",
+		"Zipcode" : "74826",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "ASHER",
+		"State" : "OK",
+		"Latitude" : "+34.969590"
+	},
+	{
+		"Longitude" : "-096.235928",
+		"Zipcode" : "74827",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "ATWOOD",
+		"State" : "OK",
+		"Latitude" : "+35.028521"
+	},
+	{
+		"Longitude" : "-096.495334",
+		"Zipcode" : "74829",
+		"ZipClass" : "STANDARD",
+		"County" : "OKFUSKEE",
+		"City" : "BOLEY",
+		"State" : "OK",
+		"Latitude" : "+35.513491"
+	},
+	{
+		"Longitude" : "-096.609139",
+		"Zipcode" : "74830",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEMINOLE",
+		"City" : "BOWLEGS",
+		"State" : "OK",
+		"Latitude" : "+35.162228"
+	},
+	{
+		"Longitude" : "-097.048399",
+		"Zipcode" : "74831",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCLAIN",
+		"City" : "BYARS",
+		"State" : "OK",
+		"Latitude" : "+34.873374"
+	},
+	{
+		"Longitude" : "-097.028182",
+		"Zipcode" : "74832",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CARNEY",
+		"State" : "OK",
+		"Latitude" : "+35.804507"
+	},
+	{
+		"Longitude" : "-096.303082",
+		"Zipcode" : "74833",
+		"ZipClass" : "STANDARD",
+		"County" : "OKFUSKEE",
+		"City" : "CASTLE",
+		"State" : "OK",
+		"Latitude" : "+35.464506"
+	},
+	{
+		"Longitude" : "-096.871215",
+		"Zipcode" : "74834",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CHANDLER",
+		"State" : "OK",
+		"Latitude" : "+35.647953"
+	},
+	{
+		"Longitude" : "-096.629095",
+		"Zipcode" : "74836",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JOHNSTON",
+		"City" : "CONNERVILLE",
+		"State" : "OK",
+		"Latitude" : "+34.419411"
+	},
+	{
+		"Longitude" : "-096.454578",
+		"Zipcode" : "74837",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEMINOLE",
+		"City" : "CROMWELL",
+		"State" : "OK",
+		"Latitude" : "+35.340458"
+	},
+	{
+		"Longitude" : "-096.033734",
+		"Zipcode" : "74839",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "DUSTIN",
+		"State" : "OK",
+		"Latitude" : "+35.270328"
+	},
+	{
+		"Longitude" : "-096.800685",
+		"Zipcode" : "74840",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "EARLSBORO",
+		"State" : "OK",
+		"Latitude" : "+35.324924"
+	},
+	{
+		"Longitude" : "-096.669321",
+		"Zipcode" : "74842",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PONTOTOC",
+		"City" : "FITTSTOWN",
+		"State" : "OK",
+		"Latitude" : "+34.735301"
+	},
+	{
+		"Longitude" : "-096.669321",
+		"Zipcode" : "74843",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "FITZHUGH",
+		"State" : "OK",
+		"Latitude" : "+34.735301"
+	},
+	{
+		"Longitude" : "-096.628899",
+		"Zipcode" : "74844",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PONTOTOC",
+		"City" : "FRANCIS",
+		"State" : "OK",
+		"Latitude" : "+34.874058"
+	},
+	{
+		"Longitude" : "-095.664118",
+		"Zipcode" : "74845",
+		"ZipClass" : "STANDARD",
+		"County" : "MCINTOSH",
+		"City" : "HANNA",
+		"State" : "OK",
+		"Latitude" : "+35.347368"
+	},
+	{
+		"Longitude" : "-096.387256",
+		"Zipcode" : "74848",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "HOLDENVILLE",
+		"State" : "OK",
+		"Latitude" : "+35.087498"
+	},
+	{
+		"Longitude" : "-096.750209",
+		"Zipcode" : "74849",
+		"ZipClass" : "STANDARD",
+		"County" : "SEMINOLE",
+		"City" : "KONAWA",
+		"State" : "OK",
+		"Latitude" : "+34.957481"
+	},
+	{
+		"Longitude" : "-096.235928",
+		"Zipcode" : "74850",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "LAMAR",
+		"State" : "OK",
+		"Latitude" : "+35.028521"
+	},
+	{
+		"Longitude" : "-097.000737",
+		"Zipcode" : "74851",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "MCLOUD",
+		"State" : "OK",
+		"Latitude" : "+35.319161"
+	},
+	{
+		"Longitude" : "-097.011390",
+		"Zipcode" : "74852",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "MACOMB",
+		"State" : "OK",
+		"Latitude" : "+35.116442"
+	},
+	{
+		"Longitude" : "-096.850202",
+		"Zipcode" : "74854",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "MAUD",
+		"State" : "OK",
+		"Latitude" : "+35.065770"
+	},
+	{
+		"Longitude" : "-096.907623",
+		"Zipcode" : "74855",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "MEEKER",
+		"State" : "OK",
+		"Latitude" : "+35.486112"
+	},
+	{
+		"Longitude" : "-096.670349",
+		"Zipcode" : "74856",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSTON",
+		"City" : "MILL CREEK",
+		"State" : "OK",
+		"Latitude" : "+34.310191"
+	},
+	{
+		"Longitude" : "-097.354813",
+		"Zipcode" : "74857",
+		"ZipClass" : "STANDARD",
+		"County" : "OKLAHOMA",
+		"City" : "NEWALLA",
+		"State" : "OK",
+		"Latitude" : "+35.443973"
+	},
+	{
+		"Longitude" : "-096.430286",
+		"Zipcode" : "74859",
+		"ZipClass" : "STANDARD",
+		"County" : "OKFUSKEE",
+		"City" : "OKEMAH",
+		"State" : "OK",
+		"Latitude" : "+35.462681"
+	},
+	{
+		"Longitude" : "-096.580729",
+		"Zipcode" : "74860",
+		"ZipClass" : "STANDARD",
+		"County" : "OKFUSKEE",
+		"City" : "PADEN",
+		"State" : "OK",
+		"Latitude" : "+35.464803"
+	},
+	{
+		"Longitude" : "-096.777761",
+		"Zipcode" : "74864",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "PRAGUE",
+		"State" : "OK",
+		"Latitude" : "+35.584730"
+	},
+	{
+		"Longitude" : "-096.841231",
+		"Zipcode" : "74865",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "ROFF",
+		"State" : "OK",
+		"Latitude" : "+34.626335"
+	},
+	{
+		"Longitude" : "-096.882996",
+		"Zipcode" : "74866",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POTTAWATOMIE",
+		"City" : "SAINT LOUIS",
+		"State" : "OK",
+		"Latitude" : "+35.181436"
+	},
+	{
+		"Longitude" : "-096.609139",
+		"Zipcode" : "74867",
+		"ZipClass" : "STANDARD",
+		"County" : "SEMINOLE",
+		"City" : "SASAKWA",
+		"State" : "OK",
+		"Latitude" : "+35.162228"
+	},
+	{
+		"Longitude" : "-096.652931",
+		"Zipcode" : "74868",
+		"ZipClass" : "STANDARD",
+		"County" : "SEMINOLE",
+		"City" : "SEMINOLE",
+		"State" : "OK",
+		"Latitude" : "+35.229281"
+	},
+	{
+		"Longitude" : "-096.814633",
+		"Zipcode" : "74869",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SPARKS",
+		"State" : "OK",
+		"Latitude" : "+35.610392"
+	},
+	{
+		"Longitude" : "-096.527350",
+		"Zipcode" : "74871",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "STONEWALL",
+		"State" : "OK",
+		"Latitude" : "+34.651102"
+	},
+	{
+		"Longitude" : "-096.962983",
+		"Zipcode" : "74872",
+		"ZipClass" : "STANDARD",
+		"County" : "GARVIN",
+		"City" : "STRATFORD",
+		"State" : "OK",
+		"Latitude" : "+34.723793"
+	},
+	{
+		"Longitude" : "-096.959439",
+		"Zipcode" : "74873",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "TECUMSEH",
+		"State" : "OK",
+		"Latitude" : "+35.183973"
+	},
+	{
+		"Longitude" : "-096.962261",
+		"Zipcode" : "74875",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TRYON",
+		"State" : "OK",
+		"Latitude" : "+35.875943"
+	},
+	{
+		"Longitude" : "-097.031451",
+		"Zipcode" : "74878",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "WANETTE",
+		"State" : "OK",
+		"Latitude" : "+34.962658"
+	},
+	{
+		"Longitude" : "-096.077141",
+		"Zipcode" : "74880",
+		"ZipClass" : "STANDARD",
+		"County" : "OKFUSKEE",
+		"City" : "WELEETKA",
+		"State" : "OK",
+		"Latitude" : "+35.344476"
+	},
+	{
+		"Longitude" : "-097.098322",
+		"Zipcode" : "74881",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WELLSTON",
+		"State" : "OK",
+		"Latitude" : "+35.634929"
+	},
+	{
+		"Longitude" : "-096.248595",
+		"Zipcode" : "74883",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "WETUMKA",
+		"State" : "OK",
+		"Latitude" : "+35.237428"
+	},
+	{
+		"Longitude" : "-096.627985",
+		"Zipcode" : "74884",
+		"ZipClass" : "STANDARD",
+		"County" : "SEMINOLE",
+		"City" : "WEWOKA",
+		"State" : "OK",
+		"Latitude" : "+35.146252"
+	},
+	{
+		"Longitude" : "-094.551914",
+		"Zipcode" : "74901",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "ARKOMA",
+		"State" : "OK",
+		"Latitude" : "+35.202297"
+	},
+	{
+		"Longitude" : "-094.579744",
+		"Zipcode" : "74902",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "POCOLA",
+		"State" : "OK",
+		"Latitude" : "+35.158316"
+	},
+	{
+		"Longitude" : "-094.745782",
+		"Zipcode" : "74930",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "BOKOSHE",
+		"State" : "OK",
+		"Latitude" : "+34.943627"
+	},
+	{
+		"Longitude" : "-094.640218",
+		"Zipcode" : "74931",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "BUNCH",
+		"State" : "OK",
+		"Latitude" : "+35.900019"
+	},
+	{
+		"Longitude" : "-094.600976",
+		"Zipcode" : "74932",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "CAMERON",
+		"State" : "OK",
+		"Latitude" : "+35.126904"
+	},
+	{
+		"Longitude" : "-094.980334",
+		"Zipcode" : "74935",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LE FLORE",
+		"City" : "FANSHAWE",
+		"State" : "OK",
+		"Latitude" : "+34.897962"
+	},
+	{
+		"Longitude" : "-094.690149",
+		"Zipcode" : "74936",
+		"ZipClass" : "STANDARD",
+		"County" : "SEQUOYAH",
+		"City" : "GANS",
+		"State" : "OK",
+		"Latitude" : "+35.394647"
+	},
+	{
+		"Longitude" : "-094.662657",
+		"Zipcode" : "74937",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "HEAVENER",
+		"State" : "OK",
+		"Latitude" : "+34.967535"
+	},
+	{
+		"Longitude" : "-094.642370",
+		"Zipcode" : "74939",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "HODGEN",
+		"State" : "OK",
+		"Latitude" : "+34.849951"
+	},
+	{
+		"Longitude" : "-094.637378",
+		"Zipcode" : "74940",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "HOWE",
+		"State" : "OK",
+		"Latitude" : "+34.946433"
+	},
+	{
+		"Longitude" : "-095.134492",
+		"Zipcode" : "74941",
+		"ZipClass" : "STANDARD",
+		"County" : "HASKELL",
+		"City" : "KEOTA",
+		"State" : "OK",
+		"Latitude" : "+35.258196"
+	},
+	{
+		"Longitude" : "-094.975763",
+		"Zipcode" : "74942",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LE FLORE",
+		"City" : "LEFLORE",
+		"State" : "OK",
+		"Latitude" : "+34.897872"
+	},
+	{
+		"Longitude" : "-095.118733",
+		"Zipcode" : "74943",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HASKELL",
+		"City" : "LEQUIRE",
+		"State" : "OK",
+		"Latitude" : "+35.218128"
+	},
+	{
+		"Longitude" : "-094.966276",
+		"Zipcode" : "74944",
+		"ZipClass" : "STANDARD",
+		"County" : "HASKELL",
+		"City" : "MCCURTAIN",
+		"State" : "OK",
+		"Latitude" : "+35.151590"
+	},
+	{
+		"Longitude" : "-094.781885",
+		"Zipcode" : "74945",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEQUOYAH",
+		"City" : "MARBLE CITY",
+		"State" : "OK",
+		"Latitude" : "+35.465054"
+	},
+	{
+		"Longitude" : "-094.446215",
+		"Zipcode" : "74946",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEQUOYAH",
+		"City" : "MOFFETT",
+		"State" : "OK",
+		"Latitude" : "+35.389791"
+	},
+	{
+		"Longitude" : "-094.745782",
+		"Zipcode" : "74947",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LE FLORE",
+		"City" : "MONROE",
+		"State" : "OK",
+		"Latitude" : "+34.943627"
+	},
+	{
+		"Longitude" : "-094.539715",
+		"Zipcode" : "74948",
+		"ZipClass" : "STANDARD",
+		"County" : "SEQUOYAH",
+		"City" : "MULDROW",
+		"State" : "OK",
+		"Latitude" : "+35.470128"
+	},
+	{
+		"Longitude" : "-094.745782",
+		"Zipcode" : "74949",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "MUSE",
+		"State" : "OK",
+		"Latitude" : "+34.943627"
+	},
+	{
+		"Longitude" : "-094.670941",
+		"Zipcode" : "74951",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LE FLORE",
+		"City" : "PANAMA",
+		"State" : "OK",
+		"Latitude" : "+35.153493"
+	},
+	{
+		"Longitude" : "-094.578787",
+		"Zipcode" : "74953",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "POTEAU",
+		"State" : "OK",
+		"Latitude" : "+35.163940"
+	},
+	{
+		"Longitude" : "-094.522710",
+		"Zipcode" : "74954",
+		"ZipClass" : "STANDARD",
+		"County" : "SEQUOYAH",
+		"City" : "ROLAND",
+		"State" : "OK",
+		"Latitude" : "+35.416163"
+	},
+	{
+		"Longitude" : "-094.706796",
+		"Zipcode" : "74955",
+		"ZipClass" : "STANDARD",
+		"County" : "SEQUOYAH",
+		"City" : "SALLISAW",
+		"State" : "OK",
+		"Latitude" : "+35.450662"
+	},
+	{
+		"Longitude" : "-094.745782",
+		"Zipcode" : "74956",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "SHADY POINT",
+		"State" : "OK",
+		"Latitude" : "+34.943627"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74957",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "SMITHVILLE",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-094.559850",
+		"Zipcode" : "74959",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "SPIRO",
+		"State" : "OK",
+		"Latitude" : "+35.264931"
+	},
+	{
+		"Longitude" : "-094.606985",
+		"Zipcode" : "74960",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "STILWELL",
+		"State" : "OK",
+		"Latitude" : "+35.931689"
+	},
+	{
+		"Longitude" : "-094.968442",
+		"Zipcode" : "74962",
+		"ZipClass" : "STANDARD",
+		"County" : "SEQUOYAH",
+		"City" : "VIAN",
+		"State" : "OK",
+		"Latitude" : "+35.497703"
+	},
+	{
+		"Longitude" : "-094.808868",
+		"Zipcode" : "74963",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCURTAIN",
+		"City" : "WATSON",
+		"State" : "OK",
+		"Latitude" : "+34.061674"
+	},
+	{
+		"Longitude" : "-094.571431",
+		"Zipcode" : "74964",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "WATTS",
+		"State" : "OK",
+		"Latitude" : "+36.051727"
+	},
+	{
+		"Longitude" : "-094.570433",
+		"Zipcode" : "74965",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "WESTVILLE",
+		"State" : "OK",
+		"Latitude" : "+35.991414"
+	},
+	{
+		"Longitude" : "-094.722410",
+		"Zipcode" : "74966",
+		"ZipClass" : "STANDARD",
+		"County" : "LE FLORE",
+		"City" : "WISTER",
+		"State" : "OK",
+		"Latitude" : "+34.967414"
+	}
+]}

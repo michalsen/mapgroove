@@ -1,0 +1,1776 @@
+{
+	"result":[
+	{
+		"Longitude" : "-104.562640",
+		"Zipcode" : "82001",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "CHEYENNE",
+		"State" : "WY",
+		"Latitude" : "+41.251730"
+	},
+	{
+		"Longitude" : "-104.666365",
+		"Zipcode" : "82002",
+		"ZipClass" : "UNIQUE",
+		"County" : "LARAMIE",
+		"City" : "CHEYENNE",
+		"State" : "WY",
+		"Latitude" : "+41.327351"
+	},
+	{
+		"Longitude" : "-104.661244",
+		"Zipcode" : "82003",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "CHEYENNE",
+		"State" : "WY",
+		"Latitude" : "+41.219107"
+	},
+	{
+		"Longitude" : "-104.862947",
+		"Zipcode" : "82005",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "FE WARREN AFB",
+		"State" : "WY",
+		"Latitude" : "+41.139057"
+	},
+	{
+		"Longitude" : "-104.666365",
+		"Zipcode" : "82006",
+		"ZipClass" : "UNIQUE",
+		"County" : "LARAMIE",
+		"City" : "CHEYENNE",
+		"State" : "WY",
+		"Latitude" : "+41.327351"
+	},
+	{
+		"Longitude" : "-104.666476",
+		"Zipcode" : "82007",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "CHEYENNE",
+		"State" : "WY",
+		"Latitude" : "+41.209351"
+	},
+	{
+		"Longitude" : "-104.666365",
+		"Zipcode" : "82008",
+		"ZipClass" : "UNIQUE",
+		"County" : "LARAMIE",
+		"City" : "CHEYENNE",
+		"State" : "WY",
+		"Latitude" : "+41.327351"
+	},
+	{
+		"Longitude" : "-104.660353",
+		"Zipcode" : "82009",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "CHEYENNE",
+		"State" : "WY",
+		"Latitude" : "+41.377698"
+	},
+	{
+		"Longitude" : "-104.666365",
+		"Zipcode" : "82010",
+		"ZipClass" : "UNIQUE",
+		"County" : "LARAMIE",
+		"City" : "CHEYENNE",
+		"State" : "WY",
+		"Latitude" : "+41.327351"
+	},
+	{
+		"Longitude" : "-104.249495",
+		"Zipcode" : "82050",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "ALBIN",
+		"State" : "WY",
+		"Latitude" : "+41.335468"
+	},
+	{
+		"Longitude" : "-105.676771",
+		"Zipcode" : "82051",
+		"ZipClass" : "STANDARD",
+		"County" : "ALBANY",
+		"City" : "BOSLER",
+		"State" : "WY",
+		"Latitude" : "+41.464065"
+	},
+	{
+		"Longitude" : "-105.325712",
+		"Zipcode" : "82052",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALBANY",
+		"City" : "BUFORD",
+		"State" : "WY",
+		"Latitude" : "+41.110146"
+	},
+	{
+		"Longitude" : "-104.378477",
+		"Zipcode" : "82053",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "BURNS",
+		"State" : "WY",
+		"Latitude" : "+41.235922"
+	},
+	{
+		"Longitude" : "-104.356347",
+		"Zipcode" : "82054",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "CARPENTER",
+		"State" : "WY",
+		"Latitude" : "+41.097376"
+	},
+	{
+		"Longitude" : "-105.847938",
+		"Zipcode" : "82055",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALBANY",
+		"City" : "CENTENNIAL",
+		"State" : "WY",
+		"Latitude" : "+41.311739"
+	},
+	{
+		"Longitude" : "-105.677952",
+		"Zipcode" : "82058",
+		"ZipClass" : "STANDARD",
+		"County" : "ALBANY",
+		"City" : "GARRETT",
+		"State" : "WY",
+		"Latitude" : "+42.203504"
+	},
+	{
+		"Longitude" : "-105.151706",
+		"Zipcode" : "82059",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LARAMIE",
+		"City" : "GRANITE CANON",
+		"State" : "WY",
+		"Latitude" : "+41.047337"
+	},
+	{
+		"Longitude" : "-104.493307",
+		"Zipcode" : "82060",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LARAMIE",
+		"City" : "HILLSDALE",
+		"State" : "WY",
+		"Latitude" : "+41.213557"
+	},
+	{
+		"Longitude" : "-105.141679",
+		"Zipcode" : "82061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LARAMIE",
+		"City" : "HORSE CREEK",
+		"State" : "WY",
+		"Latitude" : "+41.435318"
+	},
+	{
+		"Longitude" : "-106.076251",
+		"Zipcode" : "82063",
+		"ZipClass" : "STANDARD",
+		"County" : "ALBANY",
+		"City" : "JELM",
+		"State" : "WY",
+		"Latitude" : "+41.053927"
+	},
+	{
+		"Longitude" : "-105.801022",
+		"Zipcode" : "82070",
+		"ZipClass" : "STANDARD",
+		"County" : "ALBANY",
+		"City" : "LARAMIE",
+		"State" : "WY",
+		"Latitude" : "+41.439020"
+	},
+	{
+		"Longitude" : "-105.797388",
+		"Zipcode" : "82071",
+		"ZipClass" : "STANDARD",
+		"County" : "ALBANY",
+		"City" : "LARAMIE",
+		"State" : "WY",
+		"Latitude" : "+41.715061"
+	},
+	{
+		"Longitude" : "-105.708717",
+		"Zipcode" : "82072",
+		"ZipClass" : "STANDARD",
+		"County" : "ALBANY",
+		"City" : "LARAMIE",
+		"State" : "WY",
+		"Latitude" : "+41.582018"
+	},
+	{
+		"Longitude" : "-105.624667",
+		"Zipcode" : "82073",
+		"ZipClass" : "STANDARD",
+		"County" : "ALBANY",
+		"City" : "LARAMIE",
+		"State" : "WY",
+		"Latitude" : "+41.307065"
+	},
+	{
+		"Longitude" : "-104.441122",
+		"Zipcode" : "82081",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "MERIDEN",
+		"State" : "WY",
+		"Latitude" : "+41.513944"
+	},
+	{
+		"Longitude" : "-104.205462",
+		"Zipcode" : "82082",
+		"ZipClass" : "STANDARD",
+		"County" : "LARAMIE",
+		"City" : "PINE BLUFFS",
+		"State" : "WY",
+		"Latitude" : "+41.277286"
+	},
+	{
+		"Longitude" : "-105.514610",
+		"Zipcode" : "82083",
+		"ZipClass" : "STANDARD",
+		"County" : "ALBANY",
+		"City" : "ROCK RIVER",
+		"State" : "WY",
+		"Latitude" : "+42.023074"
+	},
+	{
+		"Longitude" : "-105.486538",
+		"Zipcode" : "82084",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALBANY",
+		"City" : "TIE SIDING",
+		"State" : "WY",
+		"Latitude" : "+41.271207"
+	},
+	{
+		"Longitude" : "-110.613731",
+		"Zipcode" : "82190",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "YELLOWSTONE NATIONAL PARK",
+		"State" : "WY",
+		"Latitude" : "+44.795733"
+	},
+	{
+		"Longitude" : "-104.967405",
+		"Zipcode" : "82201",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "WHEATLAND",
+		"State" : "WY",
+		"Latitude" : "+42.013984"
+	},
+	{
+		"Longitude" : "-104.871308",
+		"Zipcode" : "82210",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "CHUGWATER",
+		"State" : "WY",
+		"Latitude" : "+41.740640"
+	},
+	{
+		"Longitude" : "-104.518529",
+		"Zipcode" : "82212",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSHEN",
+		"City" : "FORT LARAMIE",
+		"State" : "WY",
+		"Latitude" : "+42.213334"
+	},
+	{
+		"Longitude" : "-104.980954",
+		"Zipcode" : "82213",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "GLENDO",
+		"State" : "WY",
+		"Latitude" : "+42.481824"
+	},
+	{
+		"Longitude" : "-104.786912",
+		"Zipcode" : "82214",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "GUERNSEY",
+		"State" : "WY",
+		"Latitude" : "+42.256819"
+	},
+	{
+		"Longitude" : "-104.722426",
+		"Zipcode" : "82215",
+		"ZipClass" : "STANDARD",
+		"County" : "PLATTE",
+		"City" : "HARTVILLE",
+		"State" : "WY",
+		"Latitude" : "+42.321218"
+	},
+	{
+		"Longitude" : "-104.354049",
+		"Zipcode" : "82217",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSHEN",
+		"City" : "HAWK SPRINGS",
+		"State" : "WY",
+		"Latitude" : "+42.088115"
+	},
+	{
+		"Longitude" : "-104.354049",
+		"Zipcode" : "82218",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GOSHEN",
+		"City" : "HUNTLEY",
+		"State" : "WY",
+		"Latitude" : "+42.088115"
+	},
+	{
+		"Longitude" : "-104.354049",
+		"Zipcode" : "82219",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSHEN",
+		"City" : "JAY EM",
+		"State" : "WY",
+		"Latitude" : "+42.088115"
+	},
+	{
+		"Longitude" : "-104.354049",
+		"Zipcode" : "82221",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSHEN",
+		"City" : "LAGRANGE",
+		"State" : "WY",
+		"Latitude" : "+42.088115"
+	},
+	{
+		"Longitude" : "-104.591980",
+		"Zipcode" : "82222",
+		"ZipClass" : "STANDARD",
+		"County" : "NIOBRARA",
+		"City" : "LANCE CREEK",
+		"State" : "WY",
+		"Latitude" : "+43.152195"
+	},
+	{
+		"Longitude" : "-104.351273",
+		"Zipcode" : "82223",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSHEN",
+		"City" : "LINGLE",
+		"State" : "WY",
+		"Latitude" : "+42.137939"
+	},
+	{
+		"Longitude" : "-104.919086",
+		"Zipcode" : "82224",
+		"ZipClass" : "STANDARD",
+		"County" : "CONVERSE",
+		"City" : "LOST SPRINGS",
+		"State" : "WY",
+		"Latitude" : "+42.987443"
+	},
+	{
+		"Longitude" : "-104.385106",
+		"Zipcode" : "82225",
+		"ZipClass" : "STANDARD",
+		"County" : "NIOBRARA",
+		"City" : "LUSK",
+		"State" : "WY",
+		"Latitude" : "+42.964197"
+	},
+	{
+		"Longitude" : "-104.702397",
+		"Zipcode" : "82227",
+		"ZipClass" : "STANDARD",
+		"County" : "NIOBRARA",
+		"City" : "MANVILLE",
+		"State" : "WY",
+		"Latitude" : "+42.730010"
+	},
+	{
+		"Longitude" : "-105.063337",
+		"Zipcode" : "82229",
+		"ZipClass" : "STANDARD",
+		"County" : "CONVERSE",
+		"City" : "SHAWNEE",
+		"State" : "WY",
+		"Latitude" : "+42.787675"
+	},
+	{
+		"Longitude" : "-104.187474",
+		"Zipcode" : "82240",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSHEN",
+		"City" : "TORRINGTON",
+		"State" : "WY",
+		"Latitude" : "+42.072314"
+	},
+	{
+		"Longitude" : "-104.140785",
+		"Zipcode" : "82242",
+		"ZipClass" : "STANDARD",
+		"County" : "NIOBRARA",
+		"City" : "VAN TASSELL",
+		"State" : "WY",
+		"Latitude" : "+42.703263"
+	},
+	{
+		"Longitude" : "-104.354049",
+		"Zipcode" : "82243",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSHEN",
+		"City" : "VETERAN",
+		"State" : "WY",
+		"Latitude" : "+42.088115"
+	},
+	{
+		"Longitude" : "-104.354049",
+		"Zipcode" : "82244",
+		"ZipClass" : "STANDARD",
+		"County" : "GOSHEN",
+		"City" : "YODER",
+		"State" : "WY",
+		"Latitude" : "+42.088115"
+	},
+	{
+		"Longitude" : "-106.921959",
+		"Zipcode" : "82301",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "RAWLINS",
+		"State" : "WY",
+		"Latitude" : "+41.538075"
+	},
+	{
+		"Longitude" : "-107.760978",
+		"Zipcode" : "82310",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "JEFFREY CITY",
+		"State" : "WY",
+		"Latitude" : "+42.472474"
+	},
+	{
+		"Longitude" : "-107.569976",
+		"Zipcode" : "82321",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "BAGGS",
+		"State" : "WY",
+		"Latitude" : "+41.025579"
+	},
+	{
+		"Longitude" : "-107.558882",
+		"Zipcode" : "82322",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SWEETWATER",
+		"City" : "BAIROIL",
+		"State" : "WY",
+		"Latitude" : "+42.239404"
+	},
+	{
+		"Longitude" : "-107.642891",
+		"Zipcode" : "82323",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "DIXON",
+		"State" : "WY",
+		"Latitude" : "+41.031513"
+	},
+	{
+		"Longitude" : "-106.414629",
+		"Zipcode" : "82324",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARBON",
+		"City" : "ELK MOUNTAIN",
+		"State" : "WY",
+		"Latitude" : "+41.687359"
+	},
+	{
+		"Longitude" : "-106.790506",
+		"Zipcode" : "82325",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "ENCAMPMENT",
+		"State" : "WY",
+		"Latitude" : "+41.224462"
+	},
+	{
+		"Longitude" : "-106.552216",
+		"Zipcode" : "82327",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "HANNA",
+		"State" : "WY",
+		"Latitude" : "+41.869647"
+	},
+	{
+		"Longitude" : "-106.180829",
+		"Zipcode" : "82329",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "MEDICINE BOW",
+		"State" : "WY",
+		"Latitude" : "+41.834011"
+	},
+	{
+		"Longitude" : "-106.753979",
+		"Zipcode" : "82331",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "SARATOGA",
+		"State" : "WY",
+		"Latitude" : "+41.497994"
+	},
+	{
+		"Longitude" : "-107.634563",
+		"Zipcode" : "82332",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "SAVERY",
+		"State" : "WY",
+		"Latitude" : "+41.027293"
+	},
+	{
+		"Longitude" : "-107.117226",
+		"Zipcode" : "82334",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "SINCLAIR",
+		"State" : "WY",
+		"Latitude" : "+41.780239"
+	},
+	{
+		"Longitude" : "-106.999195",
+		"Zipcode" : "82335",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARBON",
+		"City" : "WALCOTT",
+		"State" : "WY",
+		"Latitude" : "+41.716940"
+	},
+	{
+		"Longitude" : "-107.851852",
+		"Zipcode" : "82336",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SWEETWATER",
+		"City" : "WAMSUTTER",
+		"State" : "WY",
+		"Latitude" : "+41.853191"
+	},
+	{
+		"Longitude" : "-108.141457",
+		"Zipcode" : "82401",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHAKIE",
+		"City" : "WORLAND",
+		"State" : "WY",
+		"Latitude" : "+44.008105"
+	},
+	{
+		"Longitude" : "-108.165824",
+		"Zipcode" : "82410",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "BASIN",
+		"State" : "WY",
+		"Latitude" : "+44.346935"
+	},
+	{
+		"Longitude" : "-108.470326",
+		"Zipcode" : "82411",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "BURLINGTON",
+		"State" : "WY",
+		"Latitude" : "+44.436282"
+	},
+	{
+		"Longitude" : "-108.543965",
+		"Zipcode" : "82412",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BIG HORN",
+		"City" : "BYRON",
+		"State" : "WY",
+		"Latitude" : "+44.784396"
+	},
+	{
+		"Longitude" : "-109.436585",
+		"Zipcode" : "82414",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "CODY",
+		"State" : "WY",
+		"Latitude" : "+44.541637"
+	},
+	{
+		"Longitude" : "-108.463779",
+		"Zipcode" : "82420",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BIG HORN",
+		"City" : "COWLEY",
+		"State" : "WY",
+		"Latitude" : "+44.884137"
+	},
+	{
+		"Longitude" : "-108.335432",
+		"Zipcode" : "82421",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "DEAVER",
+		"State" : "WY",
+		"Latitude" : "+44.702955"
+	},
+	{
+		"Longitude" : "-107.883519",
+		"Zipcode" : "82422",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BIG HORN",
+		"City" : "EMBLEM",
+		"State" : "WY",
+		"Latitude" : "+44.583633"
+	},
+	{
+		"Longitude" : "-108.622097",
+		"Zipcode" : "82423",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARK",
+		"City" : "FRANNIE",
+		"State" : "WY",
+		"Latitude" : "+44.971811"
+	},
+	{
+		"Longitude" : "-108.130553",
+		"Zipcode" : "82426",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "GREYBULL",
+		"State" : "WY",
+		"Latitude" : "+44.477394"
+	},
+	{
+		"Longitude" : "-108.454106",
+		"Zipcode" : "82427",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOT SPRINGS",
+		"City" : "HAMILTON DOME",
+		"State" : "WY",
+		"Latitude" : "+43.769760"
+	},
+	{
+		"Longitude" : "-107.681792",
+		"Zipcode" : "82428",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "HYATTVILLE",
+		"State" : "WY",
+		"Latitude" : "+44.217942"
+	},
+	{
+		"Longitude" : "-108.180469",
+		"Zipcode" : "82430",
+		"ZipClass" : "STANDARD",
+		"County" : "HOT SPRINGS",
+		"City" : "KIRBY",
+		"State" : "WY",
+		"Latitude" : "+43.804189"
+	},
+	{
+		"Longitude" : "-108.264522",
+		"Zipcode" : "82431",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "LOVELL",
+		"State" : "WY",
+		"Latitude" : "+44.584242"
+	},
+	{
+		"Longitude" : "-107.859760",
+		"Zipcode" : "82432",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "MANDERSON",
+		"State" : "WY",
+		"Latitude" : "+44.303336"
+	},
+	{
+		"Longitude" : "-108.916862",
+		"Zipcode" : "82433",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "MEETEETSE",
+		"State" : "WY",
+		"Latitude" : "+44.165967"
+	},
+	{
+		"Longitude" : "-108.423412",
+		"Zipcode" : "82434",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "OTTO",
+		"State" : "WY",
+		"Latitude" : "+44.532074"
+	},
+	{
+		"Longitude" : "-108.948914",
+		"Zipcode" : "82435",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "POWELL",
+		"State" : "WY",
+		"Latitude" : "+44.615962"
+	},
+	{
+		"Longitude" : "-108.883283",
+		"Zipcode" : "82440",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARK",
+		"City" : "RALSTON",
+		"State" : "WY",
+		"Latitude" : "+44.694960"
+	},
+	{
+		"Longitude" : "-107.788860",
+		"Zipcode" : "82441",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG HORN",
+		"City" : "SHELL",
+		"State" : "WY",
+		"Latitude" : "+44.601118"
+	},
+	{
+		"Longitude" : "-107.530662",
+		"Zipcode" : "82442",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHAKIE",
+		"City" : "TEN SLEEP",
+		"State" : "WY",
+		"Latitude" : "+43.908687"
+	},
+	{
+		"Longitude" : "-108.383949",
+		"Zipcode" : "82443",
+		"ZipClass" : "STANDARD",
+		"County" : "HOT SPRINGS",
+		"City" : "THERMOPOLIS",
+		"State" : "WY",
+		"Latitude" : "+43.775844"
+	},
+	{
+		"Longitude" : "-109.415501",
+		"Zipcode" : "82450",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARK",
+		"City" : "WAPITI",
+		"State" : "WY",
+		"Latitude" : "+44.463071"
+	},
+	{
+		"Longitude" : "-108.925734",
+		"Zipcode" : "82501",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "RIVERTON",
+		"State" : "WY",
+		"Latitude" : "+43.180647"
+	},
+	{
+		"Longitude" : "-108.584486",
+		"Zipcode" : "82510",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "ARAPAHOE",
+		"State" : "WY",
+		"Latitude" : "+43.035809"
+	},
+	{
+		"Longitude" : "-109.221657",
+		"Zipcode" : "82512",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "CROWHEART",
+		"State" : "WY",
+		"Latitude" : "+43.362997"
+	},
+	{
+		"Longitude" : "-109.704749",
+		"Zipcode" : "82513",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "DUBOIS",
+		"State" : "WY",
+		"Latitude" : "+43.549861"
+	},
+	{
+		"Longitude" : "-108.879125",
+		"Zipcode" : "82514",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "FORT WASHAKIE",
+		"State" : "WY",
+		"Latitude" : "+43.059931"
+	},
+	{
+		"Longitude" : "-108.582745",
+		"Zipcode" : "82515",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREMONT",
+		"City" : "HUDSON",
+		"State" : "WY",
+		"Latitude" : "+42.900791"
+	},
+	{
+		"Longitude" : "-108.933381",
+		"Zipcode" : "82516",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "KINNEAR",
+		"State" : "WY",
+		"Latitude" : "+43.267755"
+	},
+	{
+		"Longitude" : "-108.591264",
+		"Zipcode" : "82520",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "LANDER",
+		"State" : "WY",
+		"Latitude" : "+42.920832"
+	},
+	{
+		"Longitude" : "-108.699805",
+		"Zipcode" : "82523",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "PAVILLION",
+		"State" : "WY",
+		"Latitude" : "+43.362321"
+	},
+	{
+		"Longitude" : "-108.571910",
+		"Zipcode" : "82524",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREMONT",
+		"City" : "SAINT STEPHENS",
+		"State" : "WY",
+		"Latitude" : "+42.998588"
+	},
+	{
+		"Longitude" : "-106.312561",
+		"Zipcode" : "82601",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "CASPER",
+		"State" : "WY",
+		"Latitude" : "+42.859875"
+	},
+	{
+		"Longitude" : "-106.356960",
+		"Zipcode" : "82602",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "CASPER",
+		"State" : "WY",
+		"Latitude" : "+42.889576"
+	},
+	{
+		"Longitude" : "-106.893746",
+		"Zipcode" : "82604",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "CASPER",
+		"State" : "WY",
+		"Latitude" : "+42.973745"
+	},
+	{
+		"Longitude" : "-106.807047",
+		"Zipcode" : "82605",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "CASPER",
+		"State" : "WY",
+		"Latitude" : "+42.966192"
+	},
+	{
+		"Longitude" : "-106.267391",
+		"Zipcode" : "82609",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "CASPER",
+		"State" : "WY",
+		"Latitude" : "+42.811163"
+	},
+	{
+		"Longitude" : "-106.999195",
+		"Zipcode" : "82615",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "SHIRLEY BASIN",
+		"State" : "WY",
+		"Latitude" : "+41.716940"
+	},
+	{
+		"Longitude" : "-106.759971",
+		"Zipcode" : "82620",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATRONA",
+		"City" : "ALCOVA",
+		"State" : "WY",
+		"Latitude" : "+42.530223"
+	},
+	{
+		"Longitude" : "-106.807047",
+		"Zipcode" : "82630",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "ARMINTO",
+		"State" : "WY",
+		"Latitude" : "+42.966192"
+	},
+	{
+		"Longitude" : "-105.485243",
+		"Zipcode" : "82631",
+		"ZipClass" : "STANDARD",
+		"County" : "CONVERSE",
+		"City" : "BILL",
+		"State" : "WY",
+		"Latitude" : "+42.894249"
+	},
+	{
+		"Longitude" : "-105.389691",
+		"Zipcode" : "82633",
+		"ZipClass" : "STANDARD",
+		"County" : "CONVERSE",
+		"City" : "DOUGLAS",
+		"State" : "WY",
+		"Latitude" : "+42.894084"
+	},
+	{
+		"Longitude" : "-106.263808",
+		"Zipcode" : "82635",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATRONA",
+		"City" : "EDGERTON",
+		"State" : "WY",
+		"Latitude" : "+43.407351"
+	},
+	{
+		"Longitude" : "-106.175375",
+		"Zipcode" : "82636",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "EVANSVILLE",
+		"State" : "WY",
+		"Latitude" : "+42.899153"
+	},
+	{
+		"Longitude" : "-105.871922",
+		"Zipcode" : "82637",
+		"ZipClass" : "STANDARD",
+		"County" : "CONVERSE",
+		"City" : "GLENROCK",
+		"State" : "WY",
+		"Latitude" : "+42.780251"
+	},
+	{
+		"Longitude" : "-106.807047",
+		"Zipcode" : "82638",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "HILAND",
+		"State" : "WY",
+		"Latitude" : "+42.966192"
+	},
+	{
+		"Longitude" : "-106.541709",
+		"Zipcode" : "82639",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "KAYCEE",
+		"State" : "WY",
+		"Latitude" : "+43.720933"
+	},
+	{
+		"Longitude" : "-106.172827",
+		"Zipcode" : "82640",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JOHNSON",
+		"City" : "LINCH",
+		"State" : "WY",
+		"Latitude" : "+43.565149"
+	},
+	{
+		"Longitude" : "-107.815622",
+		"Zipcode" : "82642",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "LYSITE",
+		"State" : "WY",
+		"Latitude" : "+43.282255"
+	},
+	{
+		"Longitude" : "-106.278264",
+		"Zipcode" : "82643",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "MIDWEST",
+		"State" : "WY",
+		"Latitude" : "+43.405584"
+	},
+	{
+		"Longitude" : "-106.444584",
+		"Zipcode" : "82644",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATRONA",
+		"City" : "MILLS",
+		"State" : "WY",
+		"Latitude" : "+42.947954"
+	},
+	{
+		"Longitude" : "-106.807047",
+		"Zipcode" : "82646",
+		"ZipClass" : "STANDARD",
+		"County" : "NATRONA",
+		"City" : "NATRONA",
+		"State" : "WY",
+		"Latitude" : "+42.966192"
+	},
+	{
+		"Longitude" : "-106.807047",
+		"Zipcode" : "82648",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NATRONA",
+		"City" : "POWDER RIVER",
+		"State" : "WY",
+		"Latitude" : "+42.966192"
+	},
+	{
+		"Longitude" : "-108.009659",
+		"Zipcode" : "82649",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "SHOSHONI",
+		"State" : "WY",
+		"Latitude" : "+43.191539"
+	},
+	{
+		"Longitude" : "-104.567814",
+		"Zipcode" : "82701",
+		"ZipClass" : "STANDARD",
+		"County" : "WESTON",
+		"City" : "NEWCASTLE",
+		"State" : "WY",
+		"Latitude" : "+43.839700"
+	},
+	{
+		"Longitude" : "-104.288519",
+		"Zipcode" : "82710",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "ALADDIN",
+		"State" : "WY",
+		"Latitude" : "+44.738184"
+	},
+	{
+		"Longitude" : "-104.441353",
+		"Zipcode" : "82711",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "ALVA",
+		"State" : "WY",
+		"Latitude" : "+44.687340"
+	},
+	{
+		"Longitude" : "-104.074532",
+		"Zipcode" : "82712",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "BEULAH",
+		"State" : "WY",
+		"Latitude" : "+44.543625"
+	},
+	{
+		"Longitude" : "-104.767846",
+		"Zipcode" : "82713",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "CARLILE",
+		"State" : "WY",
+		"Latitude" : "+44.525891"
+	},
+	{
+		"Longitude" : "-104.686692",
+		"Zipcode" : "82714",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "DEVILS TOWER",
+		"State" : "WY",
+		"Latitude" : "+44.524758"
+	},
+	{
+		"Longitude" : "-104.568128",
+		"Zipcode" : "82715",
+		"ZipClass" : "STANDARD",
+		"County" : "WESTON",
+		"City" : "FOUR CORNERS",
+		"State" : "WY",
+		"Latitude" : "+43.840033"
+	},
+	{
+		"Longitude" : "-105.550237",
+		"Zipcode" : "82716",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "GILLETTE",
+		"State" : "WY",
+		"Latitude" : "+44.377283"
+	},
+	{
+		"Longitude" : "-105.495943",
+		"Zipcode" : "82717",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "GILLETTE",
+		"State" : "WY",
+		"Latitude" : "+44.304713"
+	},
+	{
+		"Longitude" : "-105.549244",
+		"Zipcode" : "82718",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "GILLETTE",
+		"State" : "WY",
+		"Latitude" : "+43.928249"
+	},
+	{
+		"Longitude" : "-104.661438",
+		"Zipcode" : "82720",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "HULETT",
+		"State" : "WY",
+		"Latitude" : "+44.675348"
+	},
+	{
+		"Longitude" : "-104.838916",
+		"Zipcode" : "82721",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "MOORCROFT",
+		"State" : "WY",
+		"Latitude" : "+44.415431"
+	},
+	{
+		"Longitude" : "-104.360224",
+		"Zipcode" : "82723",
+		"ZipClass" : "STANDARD",
+		"County" : "WESTON",
+		"City" : "OSAGE",
+		"State" : "WY",
+		"Latitude" : "+44.046310"
+	},
+	{
+		"Longitude" : "-105.669641",
+		"Zipcode" : "82725",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "RECLUSE",
+		"State" : "WY",
+		"Latitude" : "+44.851059"
+	},
+	{
+		"Longitude" : "-105.529275",
+		"Zipcode" : "82727",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "ROZET",
+		"State" : "WY",
+		"Latitude" : "+44.412924"
+	},
+	{
+		"Longitude" : "-104.420625",
+		"Zipcode" : "82729",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "SUNDANCE",
+		"State" : "WY",
+		"Latitude" : "+44.352274"
+	},
+	{
+		"Longitude" : "-104.620856",
+		"Zipcode" : "82730",
+		"ZipClass" : "STANDARD",
+		"County" : "WESTON",
+		"City" : "UPTON",
+		"State" : "WY",
+		"Latitude" : "+43.937319"
+	},
+	{
+		"Longitude" : "-105.358147",
+		"Zipcode" : "82731",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "WESTON",
+		"State" : "WY",
+		"Latitude" : "+44.770503"
+	},
+	{
+		"Longitude" : "-105.520135",
+		"Zipcode" : "82732",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "WRIGHT",
+		"State" : "WY",
+		"Latitude" : "+43.761422"
+	},
+	{
+		"Longitude" : "-106.837563",
+		"Zipcode" : "82801",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "SHERIDAN",
+		"State" : "WY",
+		"Latitude" : "+44.780378"
+	},
+	{
+		"Longitude" : "-106.392413",
+		"Zipcode" : "82831",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "ARVADA",
+		"State" : "WY",
+		"Latitude" : "+44.731059"
+	},
+	{
+		"Longitude" : "-106.555587",
+		"Zipcode" : "82832",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "BANNER",
+		"State" : "WY",
+		"Latitude" : "+44.768801"
+	},
+	{
+		"Longitude" : "-107.024713",
+		"Zipcode" : "82833",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHERIDAN",
+		"City" : "BIG HORN",
+		"State" : "WY",
+		"Latitude" : "+44.653104"
+	},
+	{
+		"Longitude" : "-106.561068",
+		"Zipcode" : "82834",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "BUFFALO",
+		"State" : "WY",
+		"Latitude" : "+44.122611"
+	},
+	{
+		"Longitude" : "-106.425278",
+		"Zipcode" : "82835",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "CLEARMONT",
+		"State" : "WY",
+		"Latitude" : "+44.770346"
+	},
+	{
+		"Longitude" : "-107.330606",
+		"Zipcode" : "82836",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHERIDAN",
+		"City" : "DAYTON",
+		"State" : "WY",
+		"Latitude" : "+44.870973"
+	},
+	{
+		"Longitude" : "-106.280598",
+		"Zipcode" : "82837",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHERIDAN",
+		"City" : "LEITER",
+		"State" : "WY",
+		"Latitude" : "+44.783153"
+	},
+	{
+		"Longitude" : "-107.135181",
+		"Zipcode" : "82838",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "PARKMAN",
+		"State" : "WY",
+		"Latitude" : "+44.808925"
+	},
+	{
+		"Longitude" : "-107.173995",
+		"Zipcode" : "82839",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "RANCHESTER",
+		"State" : "WY",
+		"Latitude" : "+44.917078"
+	},
+	{
+		"Longitude" : "-106.870963",
+		"Zipcode" : "82840",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SADDLESTRING",
+		"State" : "WY",
+		"Latitude" : "+44.497609"
+	},
+	{
+		"Longitude" : "-106.897795",
+		"Zipcode" : "82842",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "STORY",
+		"State" : "WY",
+		"Latitude" : "+44.580015"
+	},
+	{
+		"Longitude" : "-107.185309",
+		"Zipcode" : "82844",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "WOLF",
+		"State" : "WY",
+		"Latitude" : "+44.850012"
+	},
+	{
+		"Longitude" : "-106.694907",
+		"Zipcode" : "82845",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHERIDAN",
+		"City" : "WYARNO",
+		"State" : "WY",
+		"Latitude" : "+44.753413"
+	},
+	{
+		"Longitude" : "-109.149045",
+		"Zipcode" : "82901",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEETWATER",
+		"City" : "ROCK SPRINGS",
+		"State" : "WY",
+		"Latitude" : "+41.634515"
+	},
+	{
+		"Longitude" : "-108.963931",
+		"Zipcode" : "82902",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEETWATER",
+		"City" : "ROCK SPRINGS",
+		"State" : "WY",
+		"Latitude" : "+41.631408"
+	},
+	{
+		"Longitude" : "-110.152755",
+		"Zipcode" : "82922",
+		"ZipClass" : "STANDARD",
+		"County" : "SUBLETTE",
+		"City" : "BONDURANT",
+		"State" : "WY",
+		"Latitude" : "+43.221022"
+	},
+	{
+		"Longitude" : "-109.582132",
+		"Zipcode" : "82923",
+		"ZipClass" : "STANDARD",
+		"County" : "SUBLETTE",
+		"City" : "BOULDER",
+		"State" : "WY",
+		"Latitude" : "+42.723092"
+	},
+	{
+		"Longitude" : "-109.981117",
+		"Zipcode" : "82925",
+		"ZipClass" : "STANDARD",
+		"County" : "SUBLETTE",
+		"City" : "CORA",
+		"State" : "WY",
+		"Latitude" : "+43.125465"
+	},
+	{
+		"Longitude" : "-109.745873",
+		"Zipcode" : "82929",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SWEETWATER",
+		"City" : "LITTLE AMERICA",
+		"State" : "WY",
+		"Latitude" : "+41.758101"
+	},
+	{
+		"Longitude" : "-110.664401",
+		"Zipcode" : "82930",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTA",
+		"City" : "EVANSTON",
+		"State" : "WY",
+		"Latitude" : "+41.233758"
+	},
+	{
+		"Longitude" : "-110.919995",
+		"Zipcode" : "82931",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTA",
+		"City" : "EVANSTON",
+		"State" : "WY",
+		"Latitude" : "+41.261943"
+	},
+	{
+		"Longitude" : "-109.418358",
+		"Zipcode" : "82932",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEETWATER",
+		"City" : "FARSON",
+		"State" : "WY",
+		"Latitude" : "+42.083362"
+	},
+	{
+		"Longitude" : "-110.399094",
+		"Zipcode" : "82933",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTA",
+		"City" : "FORT BRIDGER",
+		"State" : "WY",
+		"Latitude" : "+41.295023"
+	},
+	{
+		"Longitude" : "-109.763045",
+		"Zipcode" : "82934",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SWEETWATER",
+		"City" : "GRANGER",
+		"State" : "WY",
+		"Latitude" : "+41.537225"
+	},
+	{
+		"Longitude" : "-109.427616",
+		"Zipcode" : "82935",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEETWATER",
+		"City" : "GREEN RIVER",
+		"State" : "WY",
+		"Latitude" : "+41.514370"
+	},
+	{
+		"Longitude" : "-110.173336",
+		"Zipcode" : "82936",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTA",
+		"City" : "LONETREE",
+		"State" : "WY",
+		"Latitude" : "+41.024224"
+	},
+	{
+		"Longitude" : "-110.303367",
+		"Zipcode" : "82937",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTA",
+		"City" : "LYMAN",
+		"State" : "WY",
+		"Latitude" : "+41.331817"
+	},
+	{
+		"Longitude" : "-109.275019",
+		"Zipcode" : "82938",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEETWATER",
+		"City" : "MC KINNON",
+		"State" : "WY",
+		"Latitude" : "+41.251079"
+	},
+	{
+		"Longitude" : "-110.337157",
+		"Zipcode" : "82939",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTA",
+		"City" : "MOUNTAIN VIEW",
+		"State" : "WY",
+		"Latitude" : "+41.233491"
+	},
+	{
+		"Longitude" : "-109.938968",
+		"Zipcode" : "82941",
+		"ZipClass" : "STANDARD",
+		"County" : "SUBLETTE",
+		"City" : "PINEDALE",
+		"State" : "WY",
+		"Latitude" : "+42.849757"
+	},
+	{
+		"Longitude" : "-108.525247",
+		"Zipcode" : "82942",
+		"ZipClass" : "STANDARD",
+		"County" : "SWEETWATER",
+		"City" : "POINT OF ROCKS",
+		"State" : "WY",
+		"Latitude" : "+41.653038"
+	},
+	{
+		"Longitude" : "-109.191857",
+		"Zipcode" : "82943",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SWEETWATER",
+		"City" : "RELIANCE",
+		"State" : "WY",
+		"Latitude" : "+41.669845"
+	},
+	{
+		"Longitude" : "-110.500655",
+		"Zipcode" : "82944",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UINTA",
+		"City" : "ROBERTSON",
+		"State" : "WY",
+		"Latitude" : "+41.099266"
+	},
+	{
+		"Longitude" : "-108.968062",
+		"Zipcode" : "82945",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SWEETWATER",
+		"City" : "SUPERIOR",
+		"State" : "WY",
+		"Latitude" : "+41.764300"
+	},
+	{
+		"Longitude" : "-110.739266",
+		"Zipcode" : "83001",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "JACKSON",
+		"State" : "WY",
+		"Latitude" : "+43.452793"
+	},
+	{
+		"Longitude" : "-110.786527",
+		"Zipcode" : "83002",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "JACKSON",
+		"State" : "WY",
+		"Latitude" : "+43.505370"
+	},
+	{
+		"Longitude" : "-110.553181",
+		"Zipcode" : "83011",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "KELLY",
+		"State" : "WY",
+		"Latitude" : "+43.950896"
+	},
+	{
+		"Longitude" : "-110.747494",
+		"Zipcode" : "83012",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "MOOSE",
+		"State" : "WY",
+		"Latitude" : "+43.550144"
+	},
+	{
+		"Longitude" : "-110.553181",
+		"Zipcode" : "83013",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "MORAN",
+		"State" : "WY",
+		"Latitude" : "+43.950896"
+	},
+	{
+		"Longitude" : "-110.839782",
+		"Zipcode" : "83014",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "WILSON",
+		"State" : "WY",
+		"Latitude" : "+43.482361"
+	},
+	{
+		"Longitude" : "-110.694002",
+		"Zipcode" : "83025",
+		"ZipClass" : "STANDARD",
+		"County" : "TETON",
+		"City" : "TETON VILLAGE",
+		"State" : "WY",
+		"Latitude" : "+43.443851"
+	},
+	{
+		"Longitude" : "-110.514132",
+		"Zipcode" : "83101",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "KEMMERER",
+		"State" : "WY",
+		"Latitude" : "+42.368433"
+	},
+	{
+		"Longitude" : "-110.619734",
+		"Zipcode" : "83110",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "AFTON",
+		"State" : "WY",
+		"Latitude" : "+42.711296"
+	},
+	{
+		"Longitude" : "-110.981561",
+		"Zipcode" : "83111",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "AUBURN",
+		"State" : "WY",
+		"Latitude" : "+42.478175"
+	},
+	{
+		"Longitude" : "-110.940062",
+		"Zipcode" : "83112",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BEDFORD",
+		"State" : "WY",
+		"Latitude" : "+42.870100"
+	},
+	{
+		"Longitude" : "-110.124616",
+		"Zipcode" : "83113",
+		"ZipClass" : "STANDARD",
+		"County" : "SUBLETTE",
+		"City" : "BIG PINEY",
+		"State" : "WY",
+		"Latitude" : "+42.648328"
+	},
+	{
+		"Longitude" : "-110.941119",
+		"Zipcode" : "83114",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "COKEVILLE",
+		"State" : "WY",
+		"Latitude" : "+42.247455"
+	},
+	{
+		"Longitude" : "-110.186599",
+		"Zipcode" : "83115",
+		"ZipClass" : "STANDARD",
+		"County" : "SUBLETTE",
+		"City" : "DANIEL",
+		"State" : "WY",
+		"Latitude" : "+42.785695"
+	},
+	{
+		"Longitude" : "-110.540000",
+		"Zipcode" : "83116",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "DIAMONDVILLE",
+		"State" : "WY",
+		"Latitude" : "+41.783935"
+	},
+	{
+		"Longitude" : "-111.008517",
+		"Zipcode" : "83118",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ETNA",
+		"State" : "WY",
+		"Latitude" : "+43.044268"
+	},
+	{
+		"Longitude" : "-111.014786",
+		"Zipcode" : "83119",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "FAIRVIEW",
+		"State" : "WY",
+		"Latitude" : "+42.674643"
+	},
+	{
+		"Longitude" : "-111.003953",
+		"Zipcode" : "83120",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "FREEDOM",
+		"State" : "WY",
+		"Latitude" : "+43.026767"
+	},
+	{
+		"Longitude" : "-110.537302",
+		"Zipcode" : "83121",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "FRONTIER",
+		"State" : "WY",
+		"Latitude" : "+41.796019"
+	},
+	{
+		"Longitude" : "-110.942061",
+		"Zipcode" : "83122",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GROVER",
+		"State" : "WY",
+		"Latitude" : "+42.789343"
+	},
+	{
+		"Longitude" : "-110.286804",
+		"Zipcode" : "83123",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LA BARGE",
+		"State" : "WY",
+		"Latitude" : "+42.206598"
+	},
+	{
+		"Longitude" : "-110.275995",
+		"Zipcode" : "83124",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "OPAL",
+		"State" : "WY",
+		"Latitude" : "+41.779459"
+	},
+	{
+		"Longitude" : "-110.916034",
+		"Zipcode" : "83126",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SMOOT",
+		"State" : "WY",
+		"Latitude" : "+42.587769"
+	},
+	{
+		"Longitude" : "-110.974174",
+		"Zipcode" : "83127",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "THAYNE",
+		"State" : "WY",
+		"Latitude" : "+42.956988"
+	},
+	{
+		"Longitude" : "-110.884515",
+		"Zipcode" : "83128",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ALPINE",
+		"State" : "WY",
+		"Latitude" : "+43.030327"
+	}
+]}

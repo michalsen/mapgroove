@@ -1,0 +1,3846 @@
+{
+	"result":[
+	{
+		"Longitude" : "-106.392905",
+		"Zipcode" : "87001",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "ALGODONES",
+		"State" : "NM",
+		"Latitude" : "+35.337752"
+	},
+	{
+		"Longitude" : "-106.695247",
+		"Zipcode" : "87002",
+		"ZipClass" : "STANDARD",
+		"County" : "VALENCIA",
+		"City" : "BELEN",
+		"State" : "NM",
+		"Latitude" : "+34.651051"
+	},
+	{
+		"Longitude" : "-106.742896",
+		"Zipcode" : "87004",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "BERNALILLO",
+		"State" : "NM",
+		"Latitude" : "+35.629445"
+	},
+	{
+		"Longitude" : "-107.991394",
+		"Zipcode" : "87005",
+		"ZipClass" : "STANDARD",
+		"County" : "CIBOLA",
+		"City" : "BLUEWATER",
+		"State" : "NM",
+		"Latitude" : "+35.273985"
+	},
+	{
+		"Longitude" : "-106.786042",
+		"Zipcode" : "87006",
+		"ZipClass" : "STANDARD",
+		"County" : "VALENCIA",
+		"City" : "BOSQUE",
+		"State" : "NM",
+		"Latitude" : "+34.613133"
+	},
+	{
+		"Longitude" : "-108.056457",
+		"Zipcode" : "87007",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CIBOLA",
+		"City" : "CASA BLANCA",
+		"State" : "NM",
+		"Latitude" : "+34.962954"
+	},
+	{
+		"Longitude" : "-106.375103",
+		"Zipcode" : "87008",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "CEDAR CREST",
+		"State" : "NM",
+		"Latitude" : "+35.124363"
+	},
+	{
+		"Longitude" : "-105.880597",
+		"Zipcode" : "87009",
+		"ZipClass" : "STANDARD",
+		"County" : "TORRANCE",
+		"City" : "CEDARVALE",
+		"State" : "NM",
+		"Latitude" : "+34.650925"
+	},
+	{
+		"Longitude" : "-106.083792",
+		"Zipcode" : "87010",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "CERRILLOS",
+		"State" : "NM",
+		"Latitude" : "+35.264653"
+	},
+	{
+		"Longitude" : "-107.374545",
+		"Zipcode" : "87011",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOCORRO",
+		"City" : "CLAUNCH",
+		"State" : "NM",
+		"Latitude" : "+34.230014"
+	},
+	{
+		"Longitude" : "-107.070343",
+		"Zipcode" : "87012",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "COYOTE",
+		"State" : "NM",
+		"Latitude" : "+36.230711"
+	},
+	{
+		"Longitude" : "-106.888683",
+		"Zipcode" : "87013",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "CUBA",
+		"State" : "NM",
+		"Latitude" : "+36.021095"
+	},
+	{
+		"Longitude" : "-108.056457",
+		"Zipcode" : "87014",
+		"ZipClass" : "STANDARD",
+		"County" : "CIBOLA",
+		"City" : "CUBERO",
+		"State" : "NM",
+		"Latitude" : "+34.962954"
+	},
+	{
+		"Longitude" : "-106.125117",
+		"Zipcode" : "87015",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "EDGEWOOD",
+		"State" : "NM",
+		"Latitude" : "+35.134731"
+	},
+	{
+		"Longitude" : "-106.160660",
+		"Zipcode" : "87016",
+		"ZipClass" : "STANDARD",
+		"County" : "TORRANCE",
+		"City" : "ESTANCIA",
+		"State" : "NM",
+		"Latitude" : "+34.752146"
+	},
+	{
+		"Longitude" : "-106.594795",
+		"Zipcode" : "87017",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "GALLINA",
+		"State" : "NM",
+		"Latitude" : "+36.707545"
+	},
+	{
+		"Longitude" : "-106.935844",
+		"Zipcode" : "87018",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "COUNSELOR",
+		"State" : "NM",
+		"Latitude" : "+35.717420"
+	},
+	{
+		"Longitude" : "-107.850191",
+		"Zipcode" : "87020",
+		"ZipClass" : "STANDARD",
+		"County" : "CIBOLA",
+		"City" : "GRANTS",
+		"State" : "NM",
+		"Latitude" : "+35.099850"
+	},
+	{
+		"Longitude" : "-107.893691",
+		"Zipcode" : "87021",
+		"ZipClass" : "STANDARD",
+		"County" : "CIBOLA",
+		"City" : "MILAN",
+		"State" : "NM",
+		"Latitude" : "+35.192539"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87022",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERNALILLO",
+		"City" : "ISLETA",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.761096",
+		"Zipcode" : "87023",
+		"ZipClass" : "STANDARD",
+		"County" : "VALENCIA",
+		"City" : "JARALES",
+		"State" : "NM",
+		"Latitude" : "+34.592043"
+	},
+	{
+		"Longitude" : "-106.739455",
+		"Zipcode" : "87024",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "JEMEZ PUEBLO",
+		"State" : "NM",
+		"Latitude" : "+35.655141"
+	},
+	{
+		"Longitude" : "-106.648083",
+		"Zipcode" : "87025",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "JEMEZ SPRINGS",
+		"State" : "NM",
+		"Latitude" : "+35.786457"
+	},
+	{
+		"Longitude" : "-108.056457",
+		"Zipcode" : "87026",
+		"ZipClass" : "STANDARD",
+		"County" : "CIBOLA",
+		"City" : "LAGUNA",
+		"State" : "NM",
+		"Latitude" : "+34.962954"
+	},
+	{
+		"Longitude" : "-106.957116",
+		"Zipcode" : "87027",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "LA JARA",
+		"State" : "NM",
+		"Latitude" : "+36.133380"
+	},
+	{
+		"Longitude" : "-106.814971",
+		"Zipcode" : "87028",
+		"ZipClass" : "STANDARD",
+		"County" : "SOCORRO",
+		"City" : "LA JOYA",
+		"State" : "NM",
+		"Latitude" : "+34.381271"
+	},
+	{
+		"Longitude" : "-107.049527",
+		"Zipcode" : "87029",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "LINDRITH",
+		"State" : "NM",
+		"Latitude" : "+36.324857"
+	},
+	{
+		"Longitude" : "-106.712287",
+		"Zipcode" : "87031",
+		"ZipClass" : "STANDARD",
+		"County" : "VALENCIA",
+		"City" : "LOS LUNAS",
+		"State" : "NM",
+		"Latitude" : "+34.765770"
+	},
+	{
+		"Longitude" : "-106.052145",
+		"Zipcode" : "87032",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TORRANCE",
+		"City" : "MC INTOSH",
+		"State" : "NM",
+		"Latitude" : "+34.851897"
+	},
+	{
+		"Longitude" : "-106.807824",
+		"Zipcode" : "87034",
+		"ZipClass" : "STANDARD",
+		"County" : "VALENCIA",
+		"City" : "PUEBLO OF ACOMA",
+		"State" : "NM",
+		"Latitude" : "+34.697530"
+	},
+	{
+		"Longitude" : "-106.055796",
+		"Zipcode" : "87035",
+		"ZipClass" : "STANDARD",
+		"County" : "TORRANCE",
+		"City" : "MORIARTY",
+		"State" : "NM",
+		"Latitude" : "+34.941030"
+	},
+	{
+		"Longitude" : "-106.277208",
+		"Zipcode" : "87036",
+		"ZipClass" : "STANDARD",
+		"County" : "TORRANCE",
+		"City" : "MOUNTAINAIR",
+		"State" : "NM",
+		"Latitude" : "+34.617468"
+	},
+	{
+		"Longitude" : "-107.974666",
+		"Zipcode" : "87037",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "NAGEEZI",
+		"State" : "NM",
+		"Latitude" : "+36.711152"
+	},
+	{
+		"Longitude" : "-108.056457",
+		"Zipcode" : "87038",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CIBOLA",
+		"City" : "NEW LAGUNA",
+		"State" : "NM",
+		"Latitude" : "+34.962954"
+	},
+	{
+		"Longitude" : "-108.056457",
+		"Zipcode" : "87040",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CIBOLA",
+		"City" : "PAGUATE",
+		"State" : "NM",
+		"Latitude" : "+34.962954"
+	},
+	{
+		"Longitude" : "-106.349162",
+		"Zipcode" : "87041",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "PENA BLANCA",
+		"State" : "NM",
+		"Latitude" : "+35.597960"
+	},
+	{
+		"Longitude" : "-106.689807",
+		"Zipcode" : "87042",
+		"ZipClass" : "STANDARD",
+		"County" : "VALENCIA",
+		"City" : "PERALTA",
+		"State" : "NM",
+		"Latitude" : "+34.840061"
+	},
+	{
+		"Longitude" : "-106.637422",
+		"Zipcode" : "87043",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "PLACITAS",
+		"State" : "NM",
+		"Latitude" : "+35.620401"
+	},
+	{
+		"Longitude" : "-106.679604",
+		"Zipcode" : "87044",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "PONDEROSA",
+		"State" : "NM",
+		"Latitude" : "+35.711701"
+	},
+	{
+		"Longitude" : "-108.101102",
+		"Zipcode" : "87045",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "PREWITT",
+		"State" : "NM",
+		"Latitude" : "+35.344949"
+	},
+	{
+		"Longitude" : "-106.935844",
+		"Zipcode" : "87046",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "REGINA",
+		"State" : "NM",
+		"Latitude" : "+35.717420"
+	},
+	{
+		"Longitude" : "-106.311441",
+		"Zipcode" : "87047",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "SANDIA PARK",
+		"State" : "NM",
+		"Latitude" : "+35.152995"
+	},
+	{
+		"Longitude" : "-106.707978",
+		"Zipcode" : "87048",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "CORRALES",
+		"State" : "NM",
+		"Latitude" : "+35.659583"
+	},
+	{
+		"Longitude" : "-107.837307",
+		"Zipcode" : "87049",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CIBOLA",
+		"City" : "SAN FIDEL",
+		"State" : "NM",
+		"Latitude" : "+35.145372"
+	},
+	{
+		"Longitude" : "-107.877010",
+		"Zipcode" : "87051",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CIBOLA",
+		"City" : "SAN RAFAEL",
+		"State" : "NM",
+		"Latitude" : "+35.151050"
+	},
+	{
+		"Longitude" : "-106.344467",
+		"Zipcode" : "87052",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "SANTO DOMINGO PUEBLO",
+		"State" : "NM",
+		"Latitude" : "+35.526918"
+	},
+	{
+		"Longitude" : "-106.988531",
+		"Zipcode" : "87053",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "SAN YSIDRO",
+		"State" : "NM",
+		"Latitude" : "+35.668248"
+	},
+	{
+		"Longitude" : "-105.977313",
+		"Zipcode" : "87056",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "STANLEY",
+		"State" : "NM",
+		"Latitude" : "+35.227790"
+	},
+	{
+		"Longitude" : "-105.880597",
+		"Zipcode" : "87057",
+		"ZipClass" : "STANDARD",
+		"County" : "TORRANCE",
+		"City" : "TAJIQUE",
+		"State" : "NM",
+		"Latitude" : "+34.650925"
+	},
+	{
+		"Longitude" : "-106.275342",
+		"Zipcode" : "87059",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "TIJERAS",
+		"State" : "NM",
+		"Latitude" : "+35.035534"
+	},
+	{
+		"Longitude" : "-106.732774",
+		"Zipcode" : "87060",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VALENCIA",
+		"City" : "TOME",
+		"State" : "NM",
+		"Latitude" : "+34.742622"
+	},
+	{
+		"Longitude" : "-106.324694",
+		"Zipcode" : "87061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TORRANCE",
+		"City" : "TORREON",
+		"State" : "NM",
+		"Latitude" : "+34.694759"
+	},
+	{
+		"Longitude" : "-106.759591",
+		"Zipcode" : "87062",
+		"ZipClass" : "STANDARD",
+		"County" : "SOCORRO",
+		"City" : "VEGUITA",
+		"State" : "NM",
+		"Latitude" : "+34.473522"
+	},
+	{
+		"Longitude" : "-105.880597",
+		"Zipcode" : "87063",
+		"ZipClass" : "STANDARD",
+		"County" : "TORRANCE",
+		"City" : "WILLARD",
+		"State" : "NM",
+		"Latitude" : "+34.650925"
+	},
+	{
+		"Longitude" : "-106.589017",
+		"Zipcode" : "87064",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "YOUNGSVILLE",
+		"State" : "NM",
+		"Latitude" : "+36.181917"
+	},
+	{
+		"Longitude" : "-106.699567",
+		"Zipcode" : "87068",
+		"ZipClass" : "STANDARD",
+		"County" : "VALENCIA",
+		"City" : "BOSQUE FARMS",
+		"State" : "NM",
+		"Latitude" : "+34.857650"
+	},
+	{
+		"Longitude" : "-105.979486",
+		"Zipcode" : "87070",
+		"ZipClass" : "STANDARD",
+		"County" : "TORRANCE",
+		"City" : "CLINES CORNERS",
+		"State" : "NM",
+		"Latitude" : "+35.022943"
+	},
+	{
+		"Longitude" : "-106.351844",
+		"Zipcode" : "87072",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "COCHITI PUEBLO",
+		"State" : "NM",
+		"Latitude" : "+35.608882"
+	},
+	{
+		"Longitude" : "-106.339756",
+		"Zipcode" : "87083",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "COCHITI LAKE",
+		"State" : "NM",
+		"Latitude" : "+35.630361"
+	},
+	{
+		"Longitude" : "-106.644831",
+		"Zipcode" : "87101",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.199592"
+	},
+	{
+		"Longitude" : "-106.648530",
+		"Zipcode" : "87102",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.069296"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87103",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.671831",
+		"Zipcode" : "87104",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.104045"
+	},
+	{
+		"Longitude" : "-106.664581",
+		"Zipcode" : "87105",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.028423"
+	},
+	{
+		"Longitude" : "-106.489592",
+		"Zipcode" : "87106",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.043190"
+	},
+	{
+		"Longitude" : "-106.638281",
+		"Zipcode" : "87107",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.140444"
+	},
+	{
+		"Longitude" : "-106.577329",
+		"Zipcode" : "87108",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.069946"
+	},
+	{
+		"Longitude" : "-106.586780",
+		"Zipcode" : "87109",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.127194"
+	},
+	{
+		"Longitude" : "-106.621980",
+		"Zipcode" : "87110",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.129594"
+	},
+	{
+		"Longitude" : "-106.454173",
+		"Zipcode" : "87111",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.071965"
+	},
+	{
+		"Longitude" : "-106.444113",
+		"Zipcode" : "87112",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.085042"
+	},
+	{
+		"Longitude" : "-106.505730",
+		"Zipcode" : "87113",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.145397"
+	},
+	{
+		"Longitude" : "-106.665199",
+		"Zipcode" : "87114",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.186754"
+	},
+	{
+		"Longitude" : "-106.546128",
+		"Zipcode" : "87115",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.054947"
+	},
+	{
+		"Longitude" : "-106.561576",
+		"Zipcode" : "87116",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.054355"
+	},
+	{
+		"Longitude" : "-106.571978",
+		"Zipcode" : "87117",
+		"ZipClass" : "UNIQUE",
+		"County" : "BERNALILLO",
+		"City" : "KIRTLAND AFB",
+		"State" : "NM",
+		"Latitude" : "+35.056747"
+	},
+	{
+		"Longitude" : "-106.569446",
+		"Zipcode" : "87118",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.056567"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87119",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.704983",
+		"Zipcode" : "87120",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.119742"
+	},
+	{
+		"Longitude" : "-106.805535",
+		"Zipcode" : "87121",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.059663"
+	},
+	{
+		"Longitude" : "-106.529300",
+		"Zipcode" : "87122",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.185310"
+	},
+	{
+		"Longitude" : "-106.457841",
+		"Zipcode" : "87123",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.069999"
+	},
+	{
+		"Longitude" : "-106.712495",
+		"Zipcode" : "87124",
+		"ZipClass" : "STANDARD",
+		"County" : "SANDOVAL",
+		"City" : "RIO RANCHO",
+		"State" : "NM",
+		"Latitude" : "+35.282859"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87125",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87131",
+		"ZipClass" : "UNIQUE",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87153",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87154",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87158",
+		"ZipClass" : "UNIQUE",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87174",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "RIO RANCHO",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87176",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87181",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87184",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87185",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87187",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87190",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87191",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87192",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87193",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87194",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87195",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87196",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.243911",
+		"Zipcode" : "87197",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.108573"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87198",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87199",
+		"ZipClass" : "STANDARD",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-106.672872",
+		"Zipcode" : "87201",
+		"ZipClass" : "UNIQUE",
+		"County" : "BERNALILLO",
+		"City" : "ALBUQUERQUE",
+		"State" : "NM",
+		"Latitude" : "+35.044339"
+	},
+	{
+		"Longitude" : "-108.319497",
+		"Zipcode" : "87301",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "GALLUP",
+		"State" : "NM",
+		"Latitude" : "+35.651526"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87302",
+		"ZipClass" : "UNIQUE",
+		"County" : "MCKINLEY",
+		"City" : "GALLUP",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.770522",
+		"Zipcode" : "87305",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "GALLUP",
+		"State" : "NM",
+		"Latitude" : "+35.449852"
+	},
+	{
+		"Longitude" : "-108.595495",
+		"Zipcode" : "87310",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "BRIMHALL",
+		"State" : "NM",
+		"Latitude" : "+35.795830"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87311",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCKINLEY",
+		"City" : "CHURCH ROCK",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87312",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "CONTINENTAL DIVIDE",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.000168",
+		"Zipcode" : "87313",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCKINLEY",
+		"City" : "CROWNPOINT",
+		"State" : "NM",
+		"Latitude" : "+35.598506"
+	},
+	{
+		"Longitude" : "-108.056457",
+		"Zipcode" : "87315",
+		"ZipClass" : "STANDARD",
+		"County" : "CIBOLA",
+		"City" : "FENCE LAKE",
+		"State" : "NM",
+		"Latitude" : "+34.962954"
+	},
+	{
+		"Longitude" : "-108.486407",
+		"Zipcode" : "87316",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCKINLEY",
+		"City" : "FORT WINGATE",
+		"State" : "NM",
+		"Latitude" : "+35.519129"
+	},
+	{
+		"Longitude" : "-108.762584",
+		"Zipcode" : "87317",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "GAMERCO",
+		"State" : "NM",
+		"Latitude" : "+35.576253"
+	},
+	{
+		"Longitude" : "-108.831686",
+		"Zipcode" : "87319",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "MENTMORE",
+		"State" : "NM",
+		"Latitude" : "+35.504250"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87320",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "MEXICAN SPRINGS",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.502673",
+		"Zipcode" : "87321",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "RAMAH",
+		"State" : "NM",
+		"Latitude" : "+35.128655"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87322",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCKINLEY",
+		"City" : "REHOBOTH",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.160405",
+		"Zipcode" : "87323",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "THOREAU",
+		"State" : "NM",
+		"Latitude" : "+35.397643"
+	},
+	{
+		"Longitude" : "-108.880374",
+		"Zipcode" : "87325",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "TOHATCHI",
+		"State" : "NM",
+		"Latitude" : "+35.884668"
+	},
+	{
+		"Longitude" : "-108.698459",
+		"Zipcode" : "87326",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "VANDERWAGEN",
+		"State" : "NM",
+		"Latitude" : "+35.350896"
+	},
+	{
+		"Longitude" : "-108.844495",
+		"Zipcode" : "87327",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCKINLEY",
+		"City" : "ZUNI",
+		"State" : "NM",
+		"Latitude" : "+35.069064"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87328",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "NAVAJO",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87347",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "JAMESTOWN",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.056457",
+		"Zipcode" : "87357",
+		"ZipClass" : "STANDARD",
+		"County" : "CIBOLA",
+		"City" : "PINEHILL",
+		"State" : "NM",
+		"Latitude" : "+34.962954"
+	},
+	{
+		"Longitude" : "-108.233548",
+		"Zipcode" : "87364",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SHEEP SPRINGS",
+		"State" : "NM",
+		"Latitude" : "+36.500162"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87365",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "SMITH LAKE",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.176693",
+		"Zipcode" : "87375",
+		"ZipClass" : "STANDARD",
+		"County" : "MCKINLEY",
+		"City" : "YATAHEY",
+		"State" : "NM",
+		"Latitude" : "+35.480924"
+	},
+	{
+		"Longitude" : "-108.100535",
+		"Zipcode" : "87401",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "FARMINGTON",
+		"State" : "NM",
+		"Latitude" : "+36.826248"
+	},
+	{
+		"Longitude" : "-108.101176",
+		"Zipcode" : "87402",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "FARMINGTON",
+		"State" : "NM",
+		"Latitude" : "+36.775852"
+	},
+	{
+		"Longitude" : "-107.818288",
+		"Zipcode" : "87410",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "AZTEC",
+		"State" : "NM",
+		"Latitude" : "+36.842198"
+	},
+	{
+		"Longitude" : "-108.059771",
+		"Zipcode" : "87412",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "BLANCO",
+		"State" : "NM",
+		"Latitude" : "+36.742883"
+	},
+	{
+		"Longitude" : "-108.016239",
+		"Zipcode" : "87413",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "BLOOMFIELD",
+		"State" : "NM",
+		"Latitude" : "+36.613621"
+	},
+	{
+		"Longitude" : "-108.047499",
+		"Zipcode" : "87415",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "FLORA VISTA",
+		"State" : "NM",
+		"Latitude" : "+36.813789"
+	},
+	{
+		"Longitude" : "-108.159329",
+		"Zipcode" : "87416",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "FRUITLAND",
+		"State" : "NM",
+		"Latitude" : "+36.761342"
+	},
+	{
+		"Longitude" : "-108.318698",
+		"Zipcode" : "87417",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "KIRTLAND",
+		"State" : "NM",
+		"Latitude" : "+36.742972"
+	},
+	{
+		"Longitude" : "-108.188227",
+		"Zipcode" : "87418",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "LA PLATA",
+		"State" : "NM",
+		"Latitude" : "+36.927197"
+	},
+	{
+		"Longitude" : "-107.652841",
+		"Zipcode" : "87419",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "NAVAJO DAM",
+		"State" : "NM",
+		"Latitude" : "+36.868927"
+	},
+	{
+		"Longitude" : "-108.860539",
+		"Zipcode" : "87420",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SHIPROCK",
+		"State" : "NM",
+		"Latitude" : "+36.417185"
+	},
+	{
+		"Longitude" : "-108.203152",
+		"Zipcode" : "87421",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "WATERFLOW",
+		"State" : "NM",
+		"Latitude" : "+36.750745"
+	},
+	{
+		"Longitude" : "-108.233548",
+		"Zipcode" : "87455",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "NEWCOMB",
+		"State" : "NM",
+		"Latitude" : "+36.500162"
+	},
+	{
+		"Longitude" : "-108.233548",
+		"Zipcode" : "87461",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SANOSTEE",
+		"State" : "NM",
+		"Latitude" : "+36.500162"
+	},
+	{
+		"Longitude" : "-108.069250",
+		"Zipcode" : "87499",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "FARMINGTON",
+		"State" : "NM",
+		"Latitude" : "+36.774472"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "87500",
+		"ZipClass" : "UNIQUE",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-105.982146",
+		"Zipcode" : "87501",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.697473"
+	},
+	{
+		"Longitude" : "-106.123698",
+		"Zipcode" : "87502",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.439937"
+	},
+	{
+		"Longitude" : "-105.981847",
+		"Zipcode" : "87503",
+		"ZipClass" : "UNIQUE",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.521181"
+	},
+	{
+		"Longitude" : "-106.007499",
+		"Zipcode" : "87504",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.893597"
+	},
+	{
+		"Longitude" : "-105.946155",
+		"Zipcode" : "87505",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.656638"
+	},
+	{
+		"Longitude" : "-106.075722",
+		"Zipcode" : "87506",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.606283"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "87507",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "87508",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-105.981847",
+		"Zipcode" : "87509",
+		"ZipClass" : "UNIQUE",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.521181"
+	},
+	{
+		"Longitude" : "-106.262778",
+		"Zipcode" : "87510",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "ABIQUIU",
+		"State" : "NM",
+		"Latitude" : "+36.219921"
+	},
+	{
+		"Longitude" : "-106.077688",
+		"Zipcode" : "87511",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "ALCALDE",
+		"State" : "NM",
+		"Latitude" : "+36.064687"
+	},
+	{
+		"Longitude" : "-105.585441",
+		"Zipcode" : "87512",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "AMALIA",
+		"State" : "NM",
+		"Latitude" : "+36.803628"
+	},
+	{
+		"Longitude" : "-105.656752",
+		"Zipcode" : "87513",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "ARROYO HONDO",
+		"State" : "NM",
+		"Latitude" : "+36.532940"
+	},
+	{
+		"Longitude" : "-105.534027",
+		"Zipcode" : "87514",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "ARROYO SECO",
+		"State" : "NM",
+		"Latitude" : "+36.520002"
+	},
+	{
+		"Longitude" : "-106.578513",
+		"Zipcode" : "87515",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "CANJILON",
+		"State" : "NM",
+		"Latitude" : "+36.465416"
+	},
+	{
+		"Longitude" : "-106.437649",
+		"Zipcode" : "87516",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "CANONES",
+		"State" : "NM",
+		"Latitude" : "+36.181443"
+	},
+	{
+		"Longitude" : "-105.629240",
+		"Zipcode" : "87517",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "CARSON",
+		"State" : "NM",
+		"Latitude" : "+36.504515"
+	},
+	{
+		"Longitude" : "-106.578513",
+		"Zipcode" : "87518",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "CEBOLLA",
+		"State" : "NM",
+		"Latitude" : "+36.465416"
+	},
+	{
+		"Longitude" : "-105.629240",
+		"Zipcode" : "87519",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "CERRO",
+		"State" : "NM",
+		"Latitude" : "+36.504515"
+	},
+	{
+		"Longitude" : "-106.631567",
+		"Zipcode" : "87520",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "CHAMA",
+		"State" : "NM",
+		"Latitude" : "+36.756297"
+	},
+	{
+		"Longitude" : "-105.738515",
+		"Zipcode" : "87521",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "CHAMISAL",
+		"State" : "NM",
+		"Latitude" : "+36.131096"
+	},
+	{
+		"Longitude" : "-106.578513",
+		"Zipcode" : "87522",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "CHIMAYO",
+		"State" : "NM",
+		"Latitude" : "+36.465416"
+	},
+	{
+		"Longitude" : "-105.903255",
+		"Zipcode" : "87523",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "CORDOVA",
+		"State" : "NM",
+		"Latitude" : "+36.005591"
+	},
+	{
+		"Longitude" : "-105.629240",
+		"Zipcode" : "87524",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "COSTILLA",
+		"State" : "NM",
+		"Latitude" : "+36.504515"
+	},
+	{
+		"Longitude" : "-105.580985",
+		"Zipcode" : "87525",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "TAOS SKI VALLEY",
+		"State" : "NM",
+		"Latitude" : "+36.536648"
+	},
+	{
+		"Longitude" : "-105.862272",
+		"Zipcode" : "87527",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "DIXON",
+		"State" : "NM",
+		"Latitude" : "+36.200125"
+	},
+	{
+		"Longitude" : "-106.995107",
+		"Zipcode" : "87528",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "DULCE",
+		"State" : "NM",
+		"Latitude" : "+36.934793"
+	},
+	{
+		"Longitude" : "-105.624393",
+		"Zipcode" : "87529",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "EL PRADO",
+		"State" : "NM",
+		"Latitude" : "+36.349198"
+	},
+	{
+		"Longitude" : "-106.198853",
+		"Zipcode" : "87530",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "EL RITO",
+		"State" : "NM",
+		"Latitude" : "+36.283096"
+	},
+	{
+		"Longitude" : "-105.890075",
+		"Zipcode" : "87531",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "EMBUDO",
+		"State" : "NM",
+		"Latitude" : "+36.215288"
+	},
+	{
+		"Longitude" : "-106.251469",
+		"Zipcode" : "87532",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "ESPANOLA",
+		"State" : "NM",
+		"Latitude" : "+36.424214"
+	},
+	{
+		"Longitude" : "-106.065392",
+		"Zipcode" : "87533",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "ESPANOLA",
+		"State" : "NM",
+		"Latitude" : "+35.986585"
+	},
+	{
+		"Longitude" : "-105.856714",
+		"Zipcode" : "87535",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "GLORIETA",
+		"State" : "NM",
+		"Latitude" : "+35.778370"
+	},
+	{
+		"Longitude" : "-106.126648",
+		"Zipcode" : "87537",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "HERNANDEZ",
+		"State" : "NM",
+		"Latitude" : "+36.074934"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "87538",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "ILFELD",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-106.578513",
+		"Zipcode" : "87539",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "LA MADERA",
+		"State" : "NM",
+		"Latitude" : "+36.465416"
+	},
+	{
+		"Longitude" : "-105.874452",
+		"Zipcode" : "87540",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "LAMY",
+		"State" : "NM",
+		"Latitude" : "+35.455540"
+	},
+	{
+		"Longitude" : "-105.664751",
+		"Zipcode" : "87543",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "LLANO",
+		"State" : "NM",
+		"Latitude" : "+36.148617"
+	},
+	{
+		"Longitude" : "-106.288482",
+		"Zipcode" : "87544",
+		"ZipClass" : "STANDARD",
+		"County" : "LOS ALAMOS",
+		"City" : "LOS ALAMOS",
+		"State" : "NM",
+		"Latitude" : "+35.849514"
+	},
+	{
+		"Longitude" : "-106.295255",
+		"Zipcode" : "87545",
+		"ZipClass" : "UNIQUE",
+		"County" : "LOS ALAMOS",
+		"City" : "LOS ALAMOS",
+		"State" : "NM",
+		"Latitude" : "+35.863858"
+	},
+	{
+		"Longitude" : "-106.217575",
+		"Zipcode" : "87548",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "MEDANALES",
+		"State" : "NM",
+		"Latitude" : "+36.189247"
+	},
+	{
+		"Longitude" : "-106.002778",
+		"Zipcode" : "87549",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "OJO CALIENTE",
+		"State" : "NM",
+		"Latitude" : "+36.331253"
+	},
+	{
+		"Longitude" : "-106.515714",
+		"Zipcode" : "87551",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "LOS OJOS",
+		"State" : "NM",
+		"Latitude" : "+36.728938"
+	},
+	{
+		"Longitude" : "-105.687047",
+		"Zipcode" : "87552",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "PECOS",
+		"State" : "NM",
+		"Latitude" : "+35.571588"
+	},
+	{
+		"Longitude" : "-105.710451",
+		"Zipcode" : "87553",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "PENASCO",
+		"State" : "NM",
+		"Latitude" : "+36.176327"
+	},
+	{
+		"Longitude" : "-106.578513",
+		"Zipcode" : "87554",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "PETACA",
+		"State" : "NM",
+		"Latitude" : "+36.465416"
+	},
+	{
+		"Longitude" : "-105.597610",
+		"Zipcode" : "87556",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "QUESTA",
+		"State" : "NM",
+		"Latitude" : "+36.758733"
+	},
+	{
+		"Longitude" : "-105.684710",
+		"Zipcode" : "87557",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "RANCHOS DE TAOS",
+		"State" : "NM",
+		"Latitude" : "+36.345971"
+	},
+	{
+		"Longitude" : "-105.469436",
+		"Zipcode" : "87558",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "RED RIVER",
+		"State" : "NM",
+		"Latitude" : "+36.665925"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "87560",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "RIBERA",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "87562",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN MIGUEL",
+		"City" : "ROWE",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-105.630930",
+		"Zipcode" : "87564",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "SAN CRISTOBAL",
+		"State" : "NM",
+		"Latitude" : "+36.619304"
+	},
+	{
+		"Longitude" : "-105.544995",
+		"Zipcode" : "87565",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "SAN JOSE",
+		"State" : "NM",
+		"Latitude" : "+35.422716"
+	},
+	{
+		"Longitude" : "-106.086827",
+		"Zipcode" : "87566",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "SAN JUAN PUEBLO",
+		"State" : "NM",
+		"Latitude" : "+36.065977"
+	},
+	{
+		"Longitude" : "-106.035116",
+		"Zipcode" : "87567",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA CRUZ",
+		"State" : "NM",
+		"Latitude" : "+35.993095"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "87569",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN MIGUEL",
+		"City" : "SERAFINA",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-105.554532",
+		"Zipcode" : "87571",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "TAOS",
+		"State" : "NM",
+		"Latitude" : "+36.429239"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "87573",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "TERERRO",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-105.915713",
+		"Zipcode" : "87574",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANTA FE",
+		"City" : "TESUQUE",
+		"State" : "NM",
+		"Latitude" : "+35.787442"
+	},
+	{
+		"Longitude" : "-106.576636",
+		"Zipcode" : "87575",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "TIERRA AMARILLA",
+		"State" : "NM",
+		"Latitude" : "+36.696968"
+	},
+	{
+		"Longitude" : "-105.629240",
+		"Zipcode" : "87576",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "TRAMPAS",
+		"State" : "NM",
+		"Latitude" : "+36.504515"
+	},
+	{
+		"Longitude" : "-105.629240",
+		"Zipcode" : "87577",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "TRES PIEDRAS",
+		"State" : "NM",
+		"Latitude" : "+36.504515"
+	},
+	{
+		"Longitude" : "-105.812856",
+		"Zipcode" : "87578",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "TRUCHAS",
+		"State" : "NM",
+		"Latitude" : "+36.044377"
+	},
+	{
+		"Longitude" : "-105.571165",
+		"Zipcode" : "87579",
+		"ZipClass" : "STANDARD",
+		"County" : "TAOS",
+		"City" : "VADITO",
+		"State" : "NM",
+		"Latitude" : "+36.133845"
+	},
+	{
+		"Longitude" : "-105.590018",
+		"Zipcode" : "87580",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAOS",
+		"City" : "VALDEZ",
+		"State" : "NM",
+		"Latitude" : "+36.613044"
+	},
+	{
+		"Longitude" : "-106.578513",
+		"Zipcode" : "87581",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO ARRIBA",
+		"City" : "VALLECITOS",
+		"State" : "NM",
+		"Latitude" : "+36.465416"
+	},
+	{
+		"Longitude" : "-106.002201",
+		"Zipcode" : "87582",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIO ARRIBA",
+		"City" : "VELARDE",
+		"State" : "NM",
+		"Latitude" : "+36.132101"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "87583",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN MIGUEL",
+		"City" : "VILLANUEVA",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-105.981847",
+		"Zipcode" : "87592",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.521181"
+	},
+	{
+		"Longitude" : "-105.981847",
+		"Zipcode" : "87594",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA FE",
+		"City" : "SANTA FE",
+		"State" : "NM",
+		"Latitude" : "+35.521181"
+	},
+	{
+		"Longitude" : "-104.985643",
+		"Zipcode" : "87701",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "LAS VEGAS",
+		"State" : "NM",
+		"Latitude" : "+35.551539"
+	},
+	{
+		"Longitude" : "-104.919697",
+		"Zipcode" : "87710",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "ANGEL FIRE",
+		"State" : "NM",
+		"Latitude" : "+36.512495"
+	},
+	{
+		"Longitude" : "-104.718891",
+		"Zipcode" : "87711",
+		"ZipClass" : "STANDARD",
+		"County" : "GUADALUPE",
+		"City" : "ANTON CHICO",
+		"State" : "NM",
+		"Latitude" : "+34.781908"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87712",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORA",
+		"City" : "BUENA VISTA",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87713",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "CHACON",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-104.905419",
+		"Zipcode" : "87714",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "CIMARRON",
+		"State" : "NM",
+		"Latitude" : "+36.504216"
+	},
+	{
+		"Longitude" : "-105.382548",
+		"Zipcode" : "87715",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "CLEVELAND",
+		"State" : "NM",
+		"Latitude" : "+36.007478"
+	},
+	{
+		"Longitude" : "-105.283276",
+		"Zipcode" : "87718",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "EAGLE NEST",
+		"State" : "NM",
+		"Latitude" : "+36.547612"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87722",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "GUADALUPITA",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87723",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "HOLMAN",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-104.718891",
+		"Zipcode" : "87724",
+		"ZipClass" : "STANDARD",
+		"County" : "GUADALUPE",
+		"City" : "LA LOMA",
+		"State" : "NM",
+		"Latitude" : "+34.781908"
+	},
+	{
+		"Longitude" : "-104.559057",
+		"Zipcode" : "87728",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "MAXWELL",
+		"State" : "NM",
+		"Latitude" : "+36.539682"
+	},
+	{
+		"Longitude" : "-104.792032",
+		"Zipcode" : "87729",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "MIAMI",
+		"State" : "NM",
+		"Latitude" : "+36.347987"
+	},
+	{
+		"Longitude" : "-103.902091",
+		"Zipcode" : "87730",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "MILLS",
+		"State" : "NM",
+		"Latitude" : "+35.804116"
+	},
+	{
+		"Longitude" : "-105.253167",
+		"Zipcode" : "87731",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "MONTEZUMA",
+		"State" : "NM",
+		"Latitude" : "+35.649907"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87732",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "MORA",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-103.902091",
+		"Zipcode" : "87733",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "MOSQUERO",
+		"State" : "NM",
+		"Latitude" : "+35.804116"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87734",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "OCATE",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87735",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "OJO FELIZ",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87736",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORA",
+		"City" : "RAINSVILLE",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-104.815043",
+		"Zipcode" : "87740",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "RATON",
+		"State" : "NM",
+		"Latitude" : "+36.662666"
+	},
+	{
+		"Longitude" : "-105.390777",
+		"Zipcode" : "87742",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "ROCIADA",
+		"State" : "NM",
+		"Latitude" : "+35.836395"
+	},
+	{
+		"Longitude" : "-104.195805",
+		"Zipcode" : "87743",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "ROY",
+		"State" : "NM",
+		"Latitude" : "+35.938730"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "87745",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "SAPELLO",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-103.902091",
+		"Zipcode" : "87746",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "SOLANO",
+		"State" : "NM",
+		"Latitude" : "+35.804116"
+	},
+	{
+		"Longitude" : "-104.859182",
+		"Zipcode" : "87747",
+		"ZipClass" : "STANDARD",
+		"County" : "COLFAX",
+		"City" : "SPRINGER",
+		"State" : "NM",
+		"Latitude" : "+36.603697"
+	},
+	{
+		"Longitude" : "-104.692463",
+		"Zipcode" : "87749",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLFAX",
+		"City" : "UTE PARK",
+		"State" : "NM",
+		"Latitude" : "+36.606924"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87750",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "VALMORA",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-104.707404",
+		"Zipcode" : "87752",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "WAGON MOUND",
+		"State" : "NM",
+		"Latitude" : "+36.005998"
+	},
+	{
+		"Longitude" : "-105.023886",
+		"Zipcode" : "87753",
+		"ZipClass" : "STANDARD",
+		"County" : "MORA",
+		"City" : "WATROUS",
+		"State" : "NM",
+		"Latitude" : "+36.008302"
+	},
+	{
+		"Longitude" : "-107.038020",
+		"Zipcode" : "87801",
+		"ZipClass" : "STANDARD",
+		"County" : "SOCORRO",
+		"City" : "SOCORRO",
+		"State" : "NM",
+		"Latitude" : "+34.035975"
+	},
+	{
+		"Longitude" : "-108.649811",
+		"Zipcode" : "87820",
+		"ZipClass" : "STANDARD",
+		"County" : "CATRON",
+		"City" : "ARAGON",
+		"State" : "NM",
+		"Latitude" : "+33.913868"
+	},
+	{
+		"Longitude" : "-108.379371",
+		"Zipcode" : "87821",
+		"ZipClass" : "STANDARD",
+		"County" : "CATRON",
+		"City" : "DATIL",
+		"State" : "NM",
+		"Latitude" : "+33.890975"
+	},
+	{
+		"Longitude" : "-106.912543",
+		"Zipcode" : "87823",
+		"ZipClass" : "STANDARD",
+		"County" : "SOCORRO",
+		"City" : "LEMITAR",
+		"State" : "NM",
+		"Latitude" : "+34.153754"
+	},
+	{
+		"Longitude" : "-108.379371",
+		"Zipcode" : "87824",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CATRON",
+		"City" : "LUNA",
+		"State" : "NM",
+		"Latitude" : "+33.890975"
+	},
+	{
+		"Longitude" : "-107.240895",
+		"Zipcode" : "87825",
+		"ZipClass" : "STANDARD",
+		"County" : "SOCORRO",
+		"City" : "MAGDALENA",
+		"State" : "NM",
+		"Latitude" : "+34.111424"
+	},
+	{
+		"Longitude" : "-108.379371",
+		"Zipcode" : "87827",
+		"ZipClass" : "STANDARD",
+		"County" : "CATRON",
+		"City" : "PIE TOWN",
+		"State" : "NM",
+		"Latitude" : "+33.890975"
+	},
+	{
+		"Longitude" : "-106.919274",
+		"Zipcode" : "87828",
+		"ZipClass" : "STANDARD",
+		"County" : "SOCORRO",
+		"City" : "POLVADERA",
+		"State" : "NM",
+		"Latitude" : "+34.187570"
+	},
+	{
+		"Longitude" : "-108.558785",
+		"Zipcode" : "87829",
+		"ZipClass" : "STANDARD",
+		"County" : "CATRON",
+		"City" : "QUEMADO",
+		"State" : "NM",
+		"Latitude" : "+33.764949"
+	},
+	{
+		"Longitude" : "-108.859382",
+		"Zipcode" : "87830",
+		"ZipClass" : "STANDARD",
+		"County" : "CATRON",
+		"City" : "RESERVE",
+		"State" : "NM",
+		"Latitude" : "+33.681174"
+	},
+	{
+		"Longitude" : "-106.878808",
+		"Zipcode" : "87831",
+		"ZipClass" : "STANDARD",
+		"County" : "SOCORRO",
+		"City" : "SAN ACACIA",
+		"State" : "NM",
+		"Latitude" : "+34.300124"
+	},
+	{
+		"Longitude" : "-106.876440",
+		"Zipcode" : "87832",
+		"ZipClass" : "STANDARD",
+		"County" : "SOCORRO",
+		"City" : "SAN ANTONIO",
+		"State" : "NM",
+		"Latitude" : "+33.963287"
+	},
+	{
+		"Longitude" : "-107.266914",
+		"Zipcode" : "87901",
+		"ZipClass" : "STANDARD",
+		"County" : "SIERRA",
+		"City" : "TRUTH OR CONSEQUENCES",
+		"State" : "NM",
+		"Latitude" : "+33.160602"
+	},
+	{
+		"Longitude" : "-107.170508",
+		"Zipcode" : "87930",
+		"ZipClass" : "STANDARD",
+		"County" : "SIERRA",
+		"City" : "ARREY",
+		"State" : "NM",
+		"Latitude" : "+33.042613"
+	},
+	{
+		"Longitude" : "-107.170508",
+		"Zipcode" : "87931",
+		"ZipClass" : "STANDARD",
+		"County" : "SIERRA",
+		"City" : "CABALLO",
+		"State" : "NM",
+		"Latitude" : "+33.042613"
+	},
+	{
+		"Longitude" : "-107.170508",
+		"Zipcode" : "87933",
+		"ZipClass" : "STANDARD",
+		"County" : "SIERRA",
+		"City" : "DERRY",
+		"State" : "NM",
+		"Latitude" : "+33.042613"
+	},
+	{
+		"Longitude" : "-107.221209",
+		"Zipcode" : "87935",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SIERRA",
+		"City" : "ELEPHANT BUTTE",
+		"State" : "NM",
+		"Latitude" : "+33.208962"
+	},
+	{
+		"Longitude" : "-107.100101",
+		"Zipcode" : "87936",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "GARFIELD",
+		"State" : "NM",
+		"Latitude" : "+32.525120"
+	},
+	{
+		"Longitude" : "-107.123524",
+		"Zipcode" : "87937",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "HATCH",
+		"State" : "NM",
+		"Latitude" : "+32.661331"
+	},
+	{
+		"Longitude" : "-107.170508",
+		"Zipcode" : "87939",
+		"ZipClass" : "STANDARD",
+		"County" : "SIERRA",
+		"City" : "MONTICELLO",
+		"State" : "NM",
+		"Latitude" : "+33.042613"
+	},
+	{
+		"Longitude" : "-106.820075",
+		"Zipcode" : "87940",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "RINCON",
+		"State" : "NM",
+		"Latitude" : "+32.418150"
+	},
+	{
+		"Longitude" : "-107.153465",
+		"Zipcode" : "87941",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "SALEM",
+		"State" : "NM",
+		"Latitude" : "+32.695700"
+	},
+	{
+		"Longitude" : "-107.291475",
+		"Zipcode" : "87942",
+		"ZipClass" : "STANDARD",
+		"County" : "SIERRA",
+		"City" : "WILLIAMSBURG",
+		"State" : "NM",
+		"Latitude" : "+33.117058"
+	},
+	{
+		"Longitude" : "-107.170508",
+		"Zipcode" : "87943",
+		"ZipClass" : "STANDARD",
+		"County" : "SIERRA",
+		"City" : "WINSTON",
+		"State" : "NM",
+		"Latitude" : "+33.042613"
+	},
+	{
+		"Longitude" : "-106.854065",
+		"Zipcode" : "88001",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "LAS CRUCES",
+		"State" : "NM",
+		"Latitude" : "+32.414670"
+	},
+	{
+		"Longitude" : "-106.493675",
+		"Zipcode" : "88002",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "WHITE SANDS MISSILE RANGE",
+		"State" : "NM",
+		"Latitude" : "+32.383871"
+	},
+	{
+		"Longitude" : "-106.747176",
+		"Zipcode" : "88003",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "LAS CRUCES",
+		"State" : "NM",
+		"Latitude" : "+32.273778"
+	},
+	{
+		"Longitude" : "-106.820075",
+		"Zipcode" : "88004",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "LAS CRUCES",
+		"State" : "NM",
+		"Latitude" : "+32.418150"
+	},
+	{
+		"Longitude" : "-106.897176",
+		"Zipcode" : "88005",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "LAS CRUCES",
+		"State" : "NM",
+		"Latitude" : "+32.167296"
+	},
+	{
+		"Longitude" : "-106.786259",
+		"Zipcode" : "88006",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "LAS CRUCES",
+		"State" : "NM",
+		"Latitude" : "+32.305193"
+	},
+	{
+		"Longitude" : "-106.626892",
+		"Zipcode" : "88008",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "SANTA TERESA",
+		"State" : "NM",
+		"Latitude" : "+31.870540"
+	},
+	{
+		"Longitude" : "-108.629130",
+		"Zipcode" : "88009",
+		"ZipClass" : "STANDARD",
+		"County" : "HIDALGO",
+		"City" : "PLAYAS",
+		"State" : "NM",
+		"Latitude" : "+32.055007"
+	},
+	{
+		"Longitude" : "-106.668287",
+		"Zipcode" : "88011",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "LAS CRUCES",
+		"State" : "NM",
+		"Latitude" : "+32.324407"
+	},
+	{
+		"Longitude" : "-106.604677",
+		"Zipcode" : "88012",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "LAS CRUCES",
+		"State" : "NM",
+		"Latitude" : "+32.329638"
+	},
+	{
+		"Longitude" : "-108.906944",
+		"Zipcode" : "88020",
+		"ZipClass" : "STANDARD",
+		"County" : "HIDALGO",
+		"City" : "ANIMAS",
+		"State" : "NM",
+		"Latitude" : "+32.053042"
+	},
+	{
+		"Longitude" : "-106.570475",
+		"Zipcode" : "88021",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "ANTHONY",
+		"State" : "NM",
+		"Latitude" : "+32.068186"
+	},
+	{
+		"Longitude" : "-108.185406",
+		"Zipcode" : "88022",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "ARENAS VALLEY",
+		"State" : "NM",
+		"Latitude" : "+32.783939"
+	},
+	{
+		"Longitude" : "-107.969586",
+		"Zipcode" : "88023",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BAYARD",
+		"State" : "NM",
+		"Latitude" : "+32.819788"
+	},
+	{
+		"Longitude" : "-106.630951",
+		"Zipcode" : "88024",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "BERINO",
+		"State" : "NM",
+		"Latitude" : "+32.068164"
+	},
+	{
+		"Longitude" : "-108.695588",
+		"Zipcode" : "88025",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BUCKHORN",
+		"State" : "NM",
+		"Latitude" : "+33.063350"
+	},
+	{
+		"Longitude" : "-108.075231",
+		"Zipcode" : "88026",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "SANTA CLARA",
+		"State" : "NM",
+		"Latitude" : "+32.793596"
+	},
+	{
+		"Longitude" : "-106.667310",
+		"Zipcode" : "88027",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DONA ANA",
+		"City" : "CHAMBERINO",
+		"State" : "NM",
+		"Latitude" : "+32.017438"
+	},
+	{
+		"Longitude" : "-108.327898",
+		"Zipcode" : "88028",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "CLIFF",
+		"State" : "NM",
+		"Latitude" : "+32.536670"
+	},
+	{
+		"Longitude" : "-107.588344",
+		"Zipcode" : "88029",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LUNA",
+		"City" : "COLUMBUS",
+		"State" : "NM",
+		"Latitude" : "+32.221057"
+	},
+	{
+		"Longitude" : "-107.683073",
+		"Zipcode" : "88030",
+		"ZipClass" : "STANDARD",
+		"County" : "LUNA",
+		"City" : "DEMING",
+		"State" : "NM",
+		"Latitude" : "+32.079682"
+	},
+	{
+		"Longitude" : "-107.740420",
+		"Zipcode" : "88031",
+		"ZipClass" : "STANDARD",
+		"County" : "LUNA",
+		"City" : "DEMING",
+		"State" : "NM",
+		"Latitude" : "+32.239815"
+	},
+	{
+		"Longitude" : "-106.800976",
+		"Zipcode" : "88032",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DONA ANA",
+		"City" : "DONA ANA",
+		"State" : "NM",
+		"Latitude" : "+32.393919"
+	},
+	{
+		"Longitude" : "-106.881176",
+		"Zipcode" : "88033",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DONA ANA",
+		"City" : "FAIRACRES",
+		"State" : "NM",
+		"Latitude" : "+32.298380"
+	},
+	{
+		"Longitude" : "-107.906536",
+		"Zipcode" : "88034",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "FAYWOOD",
+		"State" : "NM",
+		"Latitude" : "+32.693536"
+	},
+	{
+		"Longitude" : "-108.007527",
+		"Zipcode" : "88036",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "FORT BAYARD",
+		"State" : "NM",
+		"Latitude" : "+32.757427"
+	},
+	{
+		"Longitude" : "-108.327898",
+		"Zipcode" : "88038",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "GILA",
+		"State" : "NM",
+		"Latitude" : "+32.536670"
+	},
+	{
+		"Longitude" : "-108.871953",
+		"Zipcode" : "88039",
+		"ZipClass" : "STANDARD",
+		"County" : "CATRON",
+		"City" : "GLENWOOD",
+		"State" : "NM",
+		"Latitude" : "+33.325458"
+	},
+	{
+		"Longitude" : "-108.331605",
+		"Zipcode" : "88040",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "HACHITA",
+		"State" : "NM",
+		"Latitude" : "+31.890411"
+	},
+	{
+		"Longitude" : "-107.954524",
+		"Zipcode" : "88041",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "HANOVER",
+		"State" : "NM",
+		"Latitude" : "+32.804493"
+	},
+	{
+		"Longitude" : "-107.569856",
+		"Zipcode" : "88042",
+		"ZipClass" : "STANDARD",
+		"County" : "SIERRA",
+		"City" : "HILLSBORO",
+		"State" : "NM",
+		"Latitude" : "+32.920290"
+	},
+	{
+		"Longitude" : "-108.100988",
+		"Zipcode" : "88043",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "HURLEY",
+		"State" : "NM",
+		"Latitude" : "+32.702887"
+	},
+	{
+		"Longitude" : "-106.691214",
+		"Zipcode" : "88044",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "LA MESA",
+		"State" : "NM",
+		"Latitude" : "+32.143754"
+	},
+	{
+		"Longitude" : "-108.723047",
+		"Zipcode" : "88045",
+		"ZipClass" : "STANDARD",
+		"County" : "HIDALGO",
+		"City" : "LORDSBURG",
+		"State" : "NM",
+		"Latitude" : "+32.315951"
+	},
+	{
+		"Longitude" : "-106.805867",
+		"Zipcode" : "88046",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DONA ANA",
+		"City" : "MESILLA",
+		"State" : "NM",
+		"Latitude" : "+32.267993"
+	},
+	{
+		"Longitude" : "-106.748341",
+		"Zipcode" : "88047",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "MESILLA PARK",
+		"State" : "NM",
+		"Latitude" : "+32.232085"
+	},
+	{
+		"Longitude" : "-106.652047",
+		"Zipcode" : "88048",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "MESQUITE",
+		"State" : "NM",
+		"Latitude" : "+31.990339"
+	},
+	{
+		"Longitude" : "-108.033173",
+		"Zipcode" : "88049",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MIMBRES",
+		"State" : "NM",
+		"Latitude" : "+32.908986"
+	},
+	{
+		"Longitude" : "-108.903197",
+		"Zipcode" : "88051",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "MULE CREEK",
+		"State" : "NM",
+		"Latitude" : "+33.107131"
+	},
+	{
+		"Longitude" : "-106.613563",
+		"Zipcode" : "88052",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DONA ANA",
+		"City" : "ORGAN",
+		"State" : "NM",
+		"Latitude" : "+32.425921"
+	},
+	{
+		"Longitude" : "-108.219190",
+		"Zipcode" : "88053",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "PINOS ALTOS",
+		"State" : "NM",
+		"Latitude" : "+32.861433"
+	},
+	{
+		"Longitude" : "-106.914575",
+		"Zipcode" : "88054",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DONA ANA",
+		"City" : "RADIUM SPRINGS",
+		"State" : "NM",
+		"Latitude" : "+32.488841"
+	},
+	{
+		"Longitude" : "-108.327898",
+		"Zipcode" : "88055",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "REDROCK",
+		"State" : "NM",
+		"Latitude" : "+32.536670"
+	},
+	{
+		"Longitude" : "-108.629130",
+		"Zipcode" : "88056",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HIDALGO",
+		"City" : "RODEO",
+		"State" : "NM",
+		"Latitude" : "+32.055007"
+	},
+	{
+		"Longitude" : "-106.820075",
+		"Zipcode" : "88058",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DONA ANA",
+		"City" : "SAN MIGUEL",
+		"State" : "NM",
+		"Latitude" : "+32.418150"
+	},
+	{
+		"Longitude" : "-108.330764",
+		"Zipcode" : "88061",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "SILVER CITY",
+		"State" : "NM",
+		"Latitude" : "+32.853738"
+	},
+	{
+		"Longitude" : "-108.137931",
+		"Zipcode" : "88062",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "SILVER CITY",
+		"State" : "NM",
+		"Latitude" : "+32.728228"
+	},
+	{
+		"Longitude" : "-106.599975",
+		"Zipcode" : "88063",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "SUNLAND PARK",
+		"State" : "NM",
+		"Latitude" : "+31.880055"
+	},
+	{
+		"Longitude" : "-108.370410",
+		"Zipcode" : "88065",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "TYRONE",
+		"State" : "NM",
+		"Latitude" : "+32.619444"
+	},
+	{
+		"Longitude" : "-106.648973",
+		"Zipcode" : "88072",
+		"ZipClass" : "STANDARD",
+		"County" : "DONA ANA",
+		"City" : "VADO",
+		"State" : "NM",
+		"Latitude" : "+32.118710"
+	},
+	{
+		"Longitude" : "-103.294978",
+		"Zipcode" : "88101",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "CLOVIS",
+		"State" : "NM",
+		"Latitude" : "+34.497241"
+	},
+	{
+		"Longitude" : "-103.391269",
+		"Zipcode" : "88102",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "CLOVIS",
+		"State" : "NM",
+		"Latitude" : "+34.628472"
+	},
+	{
+		"Longitude" : "-103.326445",
+		"Zipcode" : "88103",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "CANNON AFB",
+		"State" : "NM",
+		"Latitude" : "+34.401452"
+	},
+	{
+		"Longitude" : "-103.128229",
+		"Zipcode" : "88112",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "BROADVIEW",
+		"State" : "NM",
+		"Latitude" : "+34.807890"
+	},
+	{
+		"Longitude" : "-103.274249",
+		"Zipcode" : "88113",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "CAUSEY",
+		"State" : "NM",
+		"Latitude" : "+33.928379"
+	},
+	{
+		"Longitude" : "-103.209405",
+		"Zipcode" : "88114",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "CROSSROADS",
+		"State" : "NM",
+		"Latitude" : "+32.690034"
+	},
+	{
+		"Longitude" : "-103.380387",
+		"Zipcode" : "88115",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROOSEVELT",
+		"City" : "DORA",
+		"State" : "NM",
+		"Latitude" : "+33.916566"
+	},
+	{
+		"Longitude" : "-103.494855",
+		"Zipcode" : "88116",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "ELIDA",
+		"State" : "NM",
+		"Latitude" : "+33.985296"
+	},
+	{
+		"Longitude" : "-103.589732",
+		"Zipcode" : "88118",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "FLOYD",
+		"State" : "NM",
+		"Latitude" : "+34.181943"
+	},
+	{
+		"Longitude" : "-104.174298",
+		"Zipcode" : "88119",
+		"ZipClass" : "STANDARD",
+		"County" : "DE BACA",
+		"City" : "FORT SUMNER",
+		"State" : "NM",
+		"Latitude" : "+34.531467"
+	},
+	{
+		"Longitude" : "-103.354685",
+		"Zipcode" : "88120",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "GRADY",
+		"State" : "NM",
+		"Latitude" : "+34.817795"
+	},
+	{
+		"Longitude" : "-103.970607",
+		"Zipcode" : "88121",
+		"ZipClass" : "STANDARD",
+		"County" : "QUAY",
+		"City" : "HOUSE",
+		"State" : "NM",
+		"Latitude" : "+34.753722"
+	},
+	{
+		"Longitude" : "-103.709525",
+		"Zipcode" : "88122",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "KENNA",
+		"State" : "NM",
+		"Latitude" : "+33.883159"
+	},
+	{
+		"Longitude" : "-103.145119",
+		"Zipcode" : "88123",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "LINGO",
+		"State" : "NM",
+		"Latitude" : "+33.717607"
+	},
+	{
+		"Longitude" : "-103.564506",
+		"Zipcode" : "88124",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "MELROSE",
+		"State" : "NM",
+		"Latitude" : "+34.505120"
+	},
+	{
+		"Longitude" : "-103.412259",
+		"Zipcode" : "88125",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "MILNESAND",
+		"State" : "NM",
+		"Latitude" : "+33.720554"
+	},
+	{
+		"Longitude" : "-103.288102",
+		"Zipcode" : "88126",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "PEP",
+		"State" : "NM",
+		"Latitude" : "+33.805354"
+	},
+	{
+		"Longitude" : "-103.352595",
+		"Zipcode" : "88130",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "PORTALES",
+		"State" : "NM",
+		"Latitude" : "+34.076964"
+	},
+	{
+		"Longitude" : "-103.189798",
+		"Zipcode" : "88132",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOSEVELT",
+		"City" : "ROGERS",
+		"State" : "NM",
+		"Latitude" : "+33.921623"
+	},
+	{
+		"Longitude" : "-103.466860",
+		"Zipcode" : "88133",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CURRY",
+		"City" : "SAINT VRAIN",
+		"State" : "NM",
+		"Latitude" : "+34.475607"
+	},
+	{
+		"Longitude" : "-104.419381",
+		"Zipcode" : "88134",
+		"ZipClass" : "STANDARD",
+		"County" : "DE BACA",
+		"City" : "TAIBAN",
+		"State" : "NM",
+		"Latitude" : "+34.387466"
+	},
+	{
+		"Longitude" : "-103.128609",
+		"Zipcode" : "88135",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "TEXICO",
+		"State" : "NM",
+		"Latitude" : "+34.518407"
+	},
+	{
+		"Longitude" : "-104.419381",
+		"Zipcode" : "88136",
+		"ZipClass" : "STANDARD",
+		"County" : "DE BACA",
+		"City" : "YESO",
+		"State" : "NM",
+		"Latitude" : "+34.387466"
+	},
+	{
+		"Longitude" : "-104.593687",
+		"Zipcode" : "88201",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAVES",
+		"City" : "ROSWELL",
+		"State" : "NM",
+		"Latitude" : "+33.346666"
+	},
+	{
+		"Longitude" : "-104.431788",
+		"Zipcode" : "88202",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAVES",
+		"City" : "ROSWELL",
+		"State" : "NM",
+		"Latitude" : "+33.303825"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "88203",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAVES",
+		"City" : "ROSWELL",
+		"State" : "NM",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-104.433331",
+		"Zipcode" : "88210",
+		"ZipClass" : "STANDARD",
+		"County" : "EDDY",
+		"City" : "ARTESIA",
+		"State" : "NM",
+		"Latitude" : "+32.622225"
+	},
+	{
+		"Longitude" : "-104.328113",
+		"Zipcode" : "88211",
+		"ZipClass" : "STANDARD",
+		"County" : "EDDY",
+		"City" : "ARTESIA",
+		"State" : "NM",
+		"Latitude" : "+32.753571"
+	},
+	{
+		"Longitude" : "-103.433804",
+		"Zipcode" : "88213",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "CAPROCK",
+		"State" : "NM",
+		"Latitude" : "+32.785417"
+	},
+	{
+		"Longitude" : "-104.465390",
+		"Zipcode" : "88220",
+		"ZipClass" : "STANDARD",
+		"County" : "EDDY",
+		"City" : "CARLSBAD",
+		"State" : "NM",
+		"Latitude" : "+32.416897"
+	},
+	{
+		"Longitude" : "-104.293691",
+		"Zipcode" : "88221",
+		"ZipClass" : "STANDARD",
+		"County" : "EDDY",
+		"City" : "CARLSBAD",
+		"State" : "NM",
+		"Latitude" : "+32.342033"
+	},
+	{
+		"Longitude" : "-104.397276",
+		"Zipcode" : "88230",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAVES",
+		"City" : "DEXTER",
+		"State" : "NM",
+		"Latitude" : "+33.238749"
+	},
+	{
+		"Longitude" : "-103.183360",
+		"Zipcode" : "88231",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEA",
+		"City" : "EUNICE",
+		"State" : "NM",
+		"Latitude" : "+32.440629"
+	},
+	{
+		"Longitude" : "-104.356588",
+		"Zipcode" : "88232",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAVES",
+		"City" : "HAGERMAN",
+		"State" : "NM",
+		"Latitude" : "+33.101546"
+	},
+	{
+		"Longitude" : "-103.263575",
+		"Zipcode" : "88240",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "HOBBS",
+		"State" : "NM",
+		"Latitude" : "+32.646864"
+	},
+	{
+		"Longitude" : "-103.216516",
+		"Zipcode" : "88241",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "HOBBS",
+		"State" : "NM",
+		"Latitude" : "+32.747500"
+	},
+	{
+		"Longitude" : "-103.169754",
+		"Zipcode" : "88242",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "HOBBS",
+		"State" : "NM",
+		"Latitude" : "+32.496641"
+	},
+	{
+		"Longitude" : "-103.433804",
+		"Zipcode" : "88244",
+		"ZipClass" : "UNIQUE",
+		"County" : "LEA",
+		"City" : "HOBBS",
+		"State" : "NM",
+		"Latitude" : "+32.785417"
+	},
+	{
+		"Longitude" : "-104.718722",
+		"Zipcode" : "88250",
+		"ZipClass" : "STANDARD",
+		"County" : "EDDY",
+		"City" : "HOPE",
+		"State" : "NM",
+		"Latitude" : "+32.802309"
+	},
+	{
+		"Longitude" : "-103.193924",
+		"Zipcode" : "88252",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "JAL",
+		"State" : "NM",
+		"Latitude" : "+32.094646"
+	},
+	{
+		"Longitude" : "-104.491621",
+		"Zipcode" : "88253",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAVES",
+		"City" : "LAKE ARTHUR",
+		"State" : "NM",
+		"Latitude" : "+33.026322"
+	},
+	{
+		"Longitude" : "-104.365038",
+		"Zipcode" : "88254",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EDDY",
+		"City" : "LAKEWOOD",
+		"State" : "NM",
+		"Latitude" : "+32.636247"
+	},
+	{
+		"Longitude" : "-104.287257",
+		"Zipcode" : "88255",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EDDY",
+		"City" : "LOCO HILLS",
+		"State" : "NM",
+		"Latitude" : "+32.482828"
+	},
+	{
+		"Longitude" : "-104.147248",
+		"Zipcode" : "88256",
+		"ZipClass" : "STANDARD",
+		"County" : "EDDY",
+		"City" : "LOVING",
+		"State" : "NM",
+		"Latitude" : "+32.272039"
+	},
+	{
+		"Longitude" : "-103.247080",
+		"Zipcode" : "88260",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "LOVINGTON",
+		"State" : "NM",
+		"Latitude" : "+32.679494"
+	},
+	{
+		"Longitude" : "-103.433804",
+		"Zipcode" : "88262",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEA",
+		"City" : "MC DONALD",
+		"State" : "NM",
+		"Latitude" : "+32.785417"
+	},
+	{
+		"Longitude" : "-104.066791",
+		"Zipcode" : "88263",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EDDY",
+		"City" : "MALAGA",
+		"State" : "NM",
+		"Latitude" : "+32.181320"
+	},
+	{
+		"Longitude" : "-103.433804",
+		"Zipcode" : "88264",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "MALJAMAR",
+		"State" : "NM",
+		"Latitude" : "+32.785417"
+	},
+	{
+		"Longitude" : "-103.268907",
+		"Zipcode" : "88265",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "MONUMENT",
+		"State" : "NM",
+		"Latitude" : "+32.654163"
+	},
+	{
+		"Longitude" : "-103.317675",
+		"Zipcode" : "88267",
+		"ZipClass" : "STANDARD",
+		"County" : "LEA",
+		"City" : "TATUM",
+		"State" : "NM",
+		"Latitude" : "+33.252178"
+	},
+	{
+		"Longitude" : "-104.287257",
+		"Zipcode" : "88268",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EDDY",
+		"City" : "WHITES CITY",
+		"State" : "NM",
+		"Latitude" : "+32.482828"
+	},
+	{
+		"Longitude" : "-105.875816",
+		"Zipcode" : "88301",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CARRIZOZO",
+		"State" : "NM",
+		"Latitude" : "+33.641799"
+	},
+	{
+		"Longitude" : "-105.948967",
+		"Zipcode" : "88310",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "ALAMOGORDO",
+		"State" : "NM",
+		"Latitude" : "+32.870046"
+	},
+	{
+		"Longitude" : "-105.612595",
+		"Zipcode" : "88311",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "ALAMOGORDO",
+		"State" : "NM",
+		"Latitude" : "+32.695546"
+	},
+	{
+		"Longitude" : "-105.652113",
+		"Zipcode" : "88312",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "ALTO",
+		"State" : "NM",
+		"Latitude" : "+33.388573"
+	},
+	{
+		"Longitude" : "-105.814309",
+		"Zipcode" : "88314",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "BENT",
+		"State" : "NM",
+		"Latitude" : "+33.201167"
+	},
+	{
+		"Longitude" : "-105.612793",
+		"Zipcode" : "88316",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CAPITAN",
+		"State" : "NM",
+		"Latitude" : "+33.501389"
+	},
+	{
+		"Longitude" : "-105.674395",
+		"Zipcode" : "88317",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "CLOUDCROFT",
+		"State" : "NM",
+		"Latitude" : "+32.889717"
+	},
+	{
+		"Longitude" : "-105.596655",
+		"Zipcode" : "88318",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CORONA",
+		"State" : "NM",
+		"Latitude" : "+34.249031"
+	},
+	{
+		"Longitude" : "-105.880597",
+		"Zipcode" : "88321",
+		"ZipClass" : "STANDARD",
+		"County" : "TORRANCE",
+		"City" : "ENCINO",
+		"State" : "NM",
+		"Latitude" : "+34.650925"
+	},
+	{
+		"Longitude" : "-105.873956",
+		"Zipcode" : "88323",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "FORT STANTON",
+		"State" : "NM",
+		"Latitude" : "+33.644358"
+	},
+	{
+		"Longitude" : "-105.629382",
+		"Zipcode" : "88324",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GLENCOE",
+		"State" : "NM",
+		"Latitude" : "+33.739651"
+	},
+	{
+		"Longitude" : "-105.818942",
+		"Zipcode" : "88325",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OTERO",
+		"City" : "HIGH ROLLS MOUNTAIN PARK",
+		"State" : "NM",
+		"Latitude" : "+32.939582"
+	},
+	{
+		"Longitude" : "-106.000393",
+		"Zipcode" : "88330",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "HOLLOMAN AIR FORCE BASE",
+		"State" : "NM",
+		"Latitude" : "+32.863459"
+	},
+	{
+		"Longitude" : "-105.629382",
+		"Zipcode" : "88336",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HONDO",
+		"State" : "NM",
+		"Latitude" : "+33.739651"
+	},
+	{
+		"Longitude" : "-105.923293",
+		"Zipcode" : "88337",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "LA LUZ",
+		"State" : "NM",
+		"Latitude" : "+32.985382"
+	},
+	{
+		"Longitude" : "-105.629382",
+		"Zipcode" : "88338",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LINCOLN",
+		"State" : "NM",
+		"Latitude" : "+33.739651"
+	},
+	{
+		"Longitude" : "-105.598225",
+		"Zipcode" : "88339",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "MAYHILL",
+		"State" : "NM",
+		"Latitude" : "+32.989936"
+	},
+	{
+		"Longitude" : "-105.803067",
+		"Zipcode" : "88340",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "MESCALERO",
+		"State" : "NM",
+		"Latitude" : "+33.154212"
+	},
+	{
+		"Longitude" : "-105.629382",
+		"Zipcode" : "88341",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NOGAL",
+		"State" : "NM",
+		"Latitude" : "+33.739651"
+	},
+	{
+		"Longitude" : "-106.079686",
+		"Zipcode" : "88342",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OTERO",
+		"City" : "OROGRANDE",
+		"State" : "NM",
+		"Latitude" : "+32.405061"
+	},
+	{
+		"Longitude" : "-105.640034",
+		"Zipcode" : "88343",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "PICACHO",
+		"State" : "NM",
+		"Latitude" : "+33.336307"
+	},
+	{
+		"Longitude" : "-105.437481",
+		"Zipcode" : "88344",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "PINON",
+		"State" : "NM",
+		"Latitude" : "+32.609109"
+	},
+	{
+		"Longitude" : "-105.688274",
+		"Zipcode" : "88345",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "RUIDOSO",
+		"State" : "NM",
+		"Latitude" : "+33.474521"
+	},
+	{
+		"Longitude" : "-105.620581",
+		"Zipcode" : "88346",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "RUIDOSO DOWNS",
+		"State" : "NM",
+		"Latitude" : "+33.353183"
+	},
+	{
+		"Longitude" : "-105.544431",
+		"Zipcode" : "88347",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "SACRAMENTO",
+		"State" : "NM",
+		"Latitude" : "+32.787530"
+	},
+	{
+		"Longitude" : "-105.629382",
+		"Zipcode" : "88348",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SAN PATRICIO",
+		"State" : "NM",
+		"Latitude" : "+33.739651"
+	},
+	{
+		"Longitude" : "-105.781129",
+		"Zipcode" : "88349",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OTERO",
+		"City" : "SUNSPOT",
+		"State" : "NM",
+		"Latitude" : "+32.867200"
+	},
+	{
+		"Longitude" : "-105.694486",
+		"Zipcode" : "88350",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "TIMBERON",
+		"State" : "NM",
+		"Latitude" : "+32.629461"
+	},
+	{
+		"Longitude" : "-105.629382",
+		"Zipcode" : "88351",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TINNIE",
+		"State" : "NM",
+		"Latitude" : "+33.739651"
+	},
+	{
+		"Longitude" : "-105.960356",
+		"Zipcode" : "88352",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "TULAROSA",
+		"State" : "NM",
+		"Latitude" : "+33.172467"
+	},
+	{
+		"Longitude" : "-105.205826",
+		"Zipcode" : "88353",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GUADALUPE",
+		"City" : "VAUGHN",
+		"State" : "NM",
+		"Latitude" : "+34.600841"
+	},
+	{
+		"Longitude" : "-105.466283",
+		"Zipcode" : "88354",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "WEED",
+		"State" : "NM",
+		"Latitude" : "+32.777584"
+	},
+	{
+		"Longitude" : "-105.693322",
+		"Zipcode" : "88355",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "RUIDOSO",
+		"State" : "NM",
+		"Latitude" : "+33.330502"
+	},
+	{
+		"Longitude" : "-103.615509",
+		"Zipcode" : "88401",
+		"ZipClass" : "STANDARD",
+		"County" : "QUAY",
+		"City" : "TUCUMCARI",
+		"State" : "NM",
+		"Latitude" : "+35.114202"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88410",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "AMISTAD",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-103.160497",
+		"Zipcode" : "88411",
+		"ZipClass" : "STANDARD",
+		"County" : "QUAY",
+		"City" : "BARD",
+		"State" : "NM",
+		"Latitude" : "+35.130266"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88414",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UNION",
+		"City" : "CAPULIN",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-103.162935",
+		"Zipcode" : "88415",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "CLAYTON",
+		"State" : "NM",
+		"Latitude" : "+36.451155"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "88416",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "CONCHAS DAM",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-104.718891",
+		"Zipcode" : "88417",
+		"ZipClass" : "STANDARD",
+		"County" : "GUADALUPE",
+		"City" : "CUERVO",
+		"State" : "NM",
+		"Latitude" : "+34.781908"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88418",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "DES MOINES",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88419",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "FOLSOM",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "88421",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "GARITA",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88422",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "GLADSTONE",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88424",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "GRENVILLE",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-103.264281",
+		"Zipcode" : "88426",
+		"ZipClass" : "STANDARD",
+		"County" : "QUAY",
+		"City" : "LOGAN",
+		"State" : "NM",
+		"Latitude" : "+35.524530"
+	},
+	{
+		"Longitude" : "-103.653955",
+		"Zipcode" : "88427",
+		"ZipClass" : "STANDARD",
+		"County" : "QUAY",
+		"City" : "MC ALISTER",
+		"State" : "NM",
+		"Latitude" : "+34.732100"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88429",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "MOUNT DORA",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-103.223523",
+		"Zipcode" : "88430",
+		"ZipClass" : "STANDARD",
+		"County" : "QUAY",
+		"City" : "NARA VISA",
+		"State" : "NM",
+		"Latitude" : "+35.635105"
+	},
+	{
+		"Longitude" : "-104.718891",
+		"Zipcode" : "88431",
+		"ZipClass" : "STANDARD",
+		"County" : "GUADALUPE",
+		"City" : "NEWKIRK",
+		"State" : "NM",
+		"Latitude" : "+34.781908"
+	},
+	{
+		"Longitude" : "-103.778184",
+		"Zipcode" : "88433",
+		"ZipClass" : "STANDARD",
+		"County" : "QUAY",
+		"City" : "QUAY",
+		"State" : "NM",
+		"Latitude" : "+34.916697"
+	},
+	{
+		"Longitude" : "-103.271136",
+		"Zipcode" : "88434",
+		"ZipClass" : "STANDARD",
+		"County" : "QUAY",
+		"City" : "SAN JON",
+		"State" : "NM",
+		"Latitude" : "+35.123423"
+	},
+	{
+		"Longitude" : "-104.589897",
+		"Zipcode" : "88435",
+		"ZipClass" : "STANDARD",
+		"County" : "GUADALUPE",
+		"City" : "SANTA ROSA",
+		"State" : "NM",
+		"Latitude" : "+34.852639"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88436",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SEDAN",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-103.505541",
+		"Zipcode" : "88437",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SENECA",
+		"State" : "NM",
+		"Latitude" : "+36.369783"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "88439",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "TREMENTINA",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	},
+	{
+		"Longitude" : "-104.679611",
+		"Zipcode" : "88441",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "BELL RANCH",
+		"State" : "NM",
+		"Latitude" : "+35.456288"
+	}
+]}

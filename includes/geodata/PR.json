@@ -1,0 +1,1597 @@
+({
+	"result":[
+	{
+		"Longitude" : "-066.722583",
+		"Zipcode" : "00601",
+		"ZipClass" : "STANDARD",
+		"County" : "ADJUNTAS",
+		"City" : "ADJUNTAS",
+		"State" : "PR",
+		"Latitude" : "+18.165273"
+	},
+	{
+		"Longitude" : "-067.180953",
+		"Zipcode" : "00602",
+		"ZipClass" : "STANDARD",
+		"County" : "AGUADA",
+		"City" : "AGUADA",
+		"State" : "PR",
+		"Latitude" : "+18.393103"
+	},
+	{
+		"Longitude" : "-067.145780",
+		"Zipcode" : "00603",
+		"ZipClass" : "STANDARD",
+		"County" : "AGUADILLA",
+		"City" : "AGUADILLA",
+		"State" : "PR",
+		"Latitude" : "+18.455913"
+	},
+	{
+		"Longitude" : "-067.135883",
+		"Zipcode" : "00604",
+		"ZipClass" : "STANDARD",
+		"County" : "AGUADILLA",
+		"City" : "AGUADILLA",
+		"State" : "PR",
+		"Latitude" : "+18.493520"
+	},
+	{
+		"Longitude" : "-067.141486",
+		"Zipcode" : "00605",
+		"ZipClass" : "STANDARD",
+		"County" : "AGUADILLA",
+		"City" : "AGUADILLA",
+		"State" : "PR",
+		"Latitude" : "+18.465162"
+	},
+	{
+		"Longitude" : "-066.944111",
+		"Zipcode" : "00606",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICAO",
+		"City" : "MARICAO",
+		"State" : "PR",
+		"Latitude" : "+18.172947"
+	},
+	{
+		"Longitude" : "-067.139696",
+		"Zipcode" : "00610",
+		"ZipClass" : "STANDARD",
+		"County" : "ANASCO",
+		"City" : "ANASCO",
+		"State" : "PR",
+		"Latitude" : "+18.288685"
+	},
+	{
+		"Longitude" : "-066.802170",
+		"Zipcode" : "00611",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UTUADO",
+		"City" : "ANGELES",
+		"State" : "PR",
+		"Latitude" : "+18.279531"
+	},
+	{
+		"Longitude" : "-066.698262",
+		"Zipcode" : "00612",
+		"ZipClass" : "STANDARD",
+		"County" : "ARECIBO",
+		"City" : "ARECIBO",
+		"State" : "PR",
+		"Latitude" : "+18.450674"
+	},
+	{
+		"Longitude" : "-066.732732",
+		"Zipcode" : "00613",
+		"ZipClass" : "STANDARD",
+		"County" : "ARECIBO",
+		"City" : "ARECIBO",
+		"State" : "PR",
+		"Latitude" : "+18.458093"
+	},
+	{
+		"Longitude" : "-066.674506",
+		"Zipcode" : "00614",
+		"ZipClass" : "STANDARD",
+		"County" : "ARECIBO",
+		"City" : "ARECIBO",
+		"State" : "PR",
+		"Latitude" : "+18.429675"
+	},
+	{
+		"Longitude" : "-066.640678",
+		"Zipcode" : "00616",
+		"ZipClass" : "STANDARD",
+		"County" : "ARECIBO",
+		"City" : "BAJADERO",
+		"State" : "PR",
+		"Latitude" : "+18.444792"
+	},
+	{
+		"Longitude" : "-066.544255",
+		"Zipcode" : "00617",
+		"ZipClass" : "STANDARD",
+		"County" : "BARCELONETA",
+		"City" : "BARCELONETA",
+		"State" : "PR",
+		"Latitude" : "+18.447092"
+	},
+	{
+		"Longitude" : "-067.187318",
+		"Zipcode" : "00622",
+		"ZipClass" : "STANDARD",
+		"County" : "CABO ROJO",
+		"City" : "BOQUERON",
+		"State" : "PR",
+		"Latitude" : "+17.998531"
+	},
+	{
+		"Longitude" : "-067.149541",
+		"Zipcode" : "00623",
+		"ZipClass" : "STANDARD",
+		"County" : "CABO ROJO",
+		"City" : "CABO ROJO",
+		"State" : "PR",
+		"Latitude" : "+18.062201"
+	},
+	{
+		"Longitude" : "-066.726156",
+		"Zipcode" : "00624",
+		"ZipClass" : "STANDARD",
+		"County" : "PENUELAS",
+		"City" : "PENUELAS",
+		"State" : "PR",
+		"Latitude" : "+18.023535"
+	},
+	{
+		"Longitude" : "-066.854770",
+		"Zipcode" : "00627",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMUY",
+		"City" : "CAMUY",
+		"State" : "PR",
+		"Latitude" : "+18.477891"
+	},
+	{
+		"Longitude" : "-066.864993",
+		"Zipcode" : "00631",
+		"ZipClass" : "STANDARD",
+		"County" : "LARES",
+		"City" : "CASTANER",
+		"State" : "PR",
+		"Latitude" : "+18.269187"
+	},
+	{
+		"Longitude" : "-067.039706",
+		"Zipcode" : "00636",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN GERMAN",
+		"City" : "ROSARIO",
+		"State" : "PR",
+		"Latitude" : "+18.113284"
+	},
+	{
+		"Longitude" : "-066.934911",
+		"Zipcode" : "00637",
+		"ZipClass" : "STANDARD",
+		"County" : "SABANA GRANDE",
+		"City" : "SABANA GRANDE",
+		"State" : "PR",
+		"Latitude" : "+18.087322"
+	},
+	{
+		"Longitude" : "-066.472087",
+		"Zipcode" : "00638",
+		"ZipClass" : "STANDARD",
+		"County" : "CIALES",
+		"City" : "CIALES",
+		"State" : "PR",
+		"Latitude" : "+18.336160"
+	},
+	{
+		"Longitude" : "-066.698957",
+		"Zipcode" : "00641",
+		"ZipClass" : "STANDARD",
+		"County" : "UTUADO",
+		"City" : "UTUADO",
+		"State" : "PR",
+		"Latitude" : "+18.250027"
+	},
+	{
+		"Longitude" : "-066.281954",
+		"Zipcode" : "00646",
+		"ZipClass" : "STANDARD",
+		"County" : "DORADO",
+		"City" : "DORADO",
+		"State" : "PR",
+		"Latitude" : "+18.436060"
+	},
+	{
+		"Longitude" : "-066.939754",
+		"Zipcode" : "00647",
+		"ZipClass" : "STANDARD",
+		"County" : "GUANICA",
+		"City" : "ENSENADA",
+		"State" : "PR",
+		"Latitude" : "+17.969594"
+	},
+	{
+		"Longitude" : "-066.562311",
+		"Zipcode" : "00650",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORIDA",
+		"City" : "FLORIDA",
+		"State" : "PR",
+		"Latitude" : "+18.360125"
+	},
+	{
+		"Longitude" : "-066.603358",
+		"Zipcode" : "00652",
+		"ZipClass" : "STANDARD",
+		"County" : "ARECIBO",
+		"City" : "GARROCHALES",
+		"State" : "PR",
+		"Latitude" : "+18.457254"
+	},
+	{
+		"Longitude" : "-066.898661",
+		"Zipcode" : "00653",
+		"ZipClass" : "STANDARD",
+		"County" : "GUANICA",
+		"City" : "GUANICA",
+		"State" : "PR",
+		"Latitude" : "+17.972468"
+	},
+	{
+		"Longitude" : "-066.786909",
+		"Zipcode" : "00656",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYANILLA",
+		"City" : "GUAYANILLA",
+		"State" : "PR",
+		"Latitude" : "+18.023280"
+	},
+	{
+		"Longitude" : "-066.808696",
+		"Zipcode" : "00659",
+		"ZipClass" : "STANDARD",
+		"County" : "HATILLO",
+		"City" : "HATILLO",
+		"State" : "PR",
+		"Latitude" : "+18.481391"
+	},
+	{
+		"Longitude" : "-067.135323",
+		"Zipcode" : "00660",
+		"ZipClass" : "STANDARD",
+		"County" : "HORMIGUEROS",
+		"City" : "HORMIGUEROS",
+		"State" : "PR",
+		"Latitude" : "+18.145486"
+	},
+	{
+		"Longitude" : "-067.028155",
+		"Zipcode" : "00662",
+		"ZipClass" : "STANDARD",
+		"County" : "ISABELA",
+		"City" : "ISABELA",
+		"State" : "PR",
+		"Latitude" : "+18.480285"
+	},
+	{
+		"Longitude" : "-066.598306",
+		"Zipcode" : "00664",
+		"ZipClass" : "STANDARD",
+		"County" : "JAYUYA",
+		"City" : "JAYUYA",
+		"State" : "PR",
+		"Latitude" : "+18.217606"
+	},
+	{
+		"Longitude" : "-067.055973",
+		"Zipcode" : "00667",
+		"ZipClass" : "STANDARD",
+		"County" : "LAJAS",
+		"City" : "LAJAS",
+		"State" : "PR",
+		"Latitude" : "+18.015099"
+	},
+	{
+		"Longitude" : "-066.881925",
+		"Zipcode" : "00669",
+		"ZipClass" : "STANDARD",
+		"County" : "LARES",
+		"City" : "LARES",
+		"State" : "PR",
+		"Latitude" : "+18.295952"
+	},
+	{
+		"Longitude" : "-066.990967",
+		"Zipcode" : "00670",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS MARIAS",
+		"City" : "LAS MARIAS",
+		"State" : "PR",
+		"Latitude" : "+18.252135"
+	},
+	{
+		"Longitude" : "-066.490268",
+		"Zipcode" : "00674",
+		"ZipClass" : "STANDARD",
+		"County" : "MANATI",
+		"City" : "MANATI",
+		"State" : "PR",
+		"Latitude" : "+18.445530"
+	},
+	{
+		"Longitude" : "-067.080799",
+		"Zipcode" : "00676",
+		"ZipClass" : "STANDARD",
+		"County" : "MOCA",
+		"City" : "MOCA",
+		"State" : "PR",
+		"Latitude" : "+18.383727"
+	},
+	{
+		"Longitude" : "-067.252547",
+		"Zipcode" : "00677",
+		"ZipClass" : "STANDARD",
+		"County" : "RINCON",
+		"City" : "RINCON",
+		"State" : "PR",
+		"Latitude" : "+18.335781"
+	},
+	{
+		"Longitude" : "-066.933689",
+		"Zipcode" : "00678",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEBRADILLAS",
+		"City" : "QUEBRADILLAS",
+		"State" : "PR",
+		"Latitude" : "+18.453030"
+	},
+	{
+		"Longitude" : "-067.508068",
+		"Zipcode" : "00680",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYAGUEZ",
+		"City" : "MAYAGUEZ",
+		"State" : "PR",
+		"Latitude" : "+18.219023"
+	},
+	{
+		"Longitude" : "-067.508068",
+		"Zipcode" : "00681",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYAGUEZ",
+		"City" : "MAYAGUEZ",
+		"State" : "PR",
+		"Latitude" : "+18.219023"
+	},
+	{
+		"Longitude" : "-067.508068",
+		"Zipcode" : "00682",
+		"ZipClass" : "STANDARD",
+		"County" : "MAYAGUEZ",
+		"City" : "MAYAGUEZ",
+		"State" : "PR",
+		"Latitude" : "+18.219023"
+	},
+	{
+		"Longitude" : "-067.039706",
+		"Zipcode" : "00683",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN GERMAN",
+		"City" : "SAN GERMAN",
+		"State" : "PR",
+		"Latitude" : "+18.113284"
+	},
+	{
+		"Longitude" : "-066.972227",
+		"Zipcode" : "00685",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN SEBASTIAN",
+		"City" : "SAN SEBASTIAN",
+		"State" : "PR",
+		"Latitude" : "+18.323600"
+	},
+	{
+		"Longitude" : "-066.415207",
+		"Zipcode" : "00687",
+		"ZipClass" : "STANDARD",
+		"County" : "MOROVIS",
+		"City" : "MOROVIS",
+		"State" : "PR",
+		"Latitude" : "+18.316976"
+	},
+	{
+		"Longitude" : "-066.674506",
+		"Zipcode" : "00688",
+		"ZipClass" : "STANDARD",
+		"County" : "ARECIBO",
+		"City" : "SABANA HOYOS",
+		"State" : "PR",
+		"Latitude" : "+18.429675"
+	},
+	{
+		"Longitude" : "-067.139597",
+		"Zipcode" : "00690",
+		"ZipClass" : "STANDARD",
+		"County" : "AGUADILLA",
+		"City" : "SAN ANTONIO",
+		"State" : "PR",
+		"Latitude" : "+18.476196"
+	},
+	{
+		"Longitude" : "-066.338523",
+		"Zipcode" : "00692",
+		"ZipClass" : "STANDARD",
+		"County" : "VEGA ALTA",
+		"City" : "VEGA ALTA",
+		"State" : "PR",
+		"Latitude" : "+18.435818"
+	},
+	{
+		"Longitude" : "-066.398302",
+		"Zipcode" : "00693",
+		"ZipClass" : "STANDARD",
+		"County" : "VEGA BAJA",
+		"City" : "VEGA BAJA",
+		"State" : "PR",
+		"Latitude" : "+18.443109"
+	},
+	{
+		"Longitude" : "-066.398302",
+		"Zipcode" : "00694",
+		"ZipClass" : "STANDARD",
+		"County" : "VEGA BAJA",
+		"City" : "VEGA BAJA",
+		"State" : "PR",
+		"Latitude" : "+18.443109"
+	},
+	{
+		"Longitude" : "-066.861164",
+		"Zipcode" : "00698",
+		"ZipClass" : "STANDARD",
+		"County" : "YAUCO",
+		"City" : "YAUCO",
+		"State" : "PR",
+		"Latitude" : "+18.061040"
+	},
+	{
+		"Longitude" : "-066.128450",
+		"Zipcode" : "00703",
+		"ZipClass" : "STANDARD",
+		"County" : "AGUAS BUENAS",
+		"City" : "AGUAS BUENAS",
+		"State" : "PR",
+		"Latitude" : "+18.250398"
+	},
+	{
+		"Longitude" : "-066.139253",
+		"Zipcode" : "00704",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYAMA",
+		"City" : "AGUIRRE",
+		"State" : "PR",
+		"Latitude" : "+17.992290"
+	},
+	{
+		"Longitude" : "-066.268717",
+		"Zipcode" : "00705",
+		"ZipClass" : "STANDARD",
+		"County" : "AIBONITO",
+		"City" : "AIBONITO",
+		"State" : "PR",
+		"Latitude" : "+18.128092"
+	},
+	{
+		"Longitude" : "-065.898719",
+		"Zipcode" : "00707",
+		"ZipClass" : "STANDARD",
+		"County" : "MAUNABO",
+		"City" : "MAUNABO",
+		"State" : "PR",
+		"Latitude" : "+18.007014"
+	},
+	{
+		"Longitude" : "-066.041380",
+		"Zipcode" : "00714",
+		"ZipClass" : "STANDARD",
+		"County" : "ARROYO",
+		"City" : "ARROYO",
+		"State" : "PR",
+		"Latitude" : "+17.967510"
+	},
+	{
+		"Longitude" : "-066.563721",
+		"Zipcode" : "00715",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "MERCEDITA",
+		"State" : "PR",
+		"Latitude" : "+18.011854"
+	},
+	{
+		"Longitude" : "-066.607429",
+		"Zipcode" : "00716",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "PONCE",
+		"State" : "PR",
+		"Latitude" : "+18.001995"
+	},
+	{
+		"Longitude" : "-066.607429",
+		"Zipcode" : "00717",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "PONCE",
+		"State" : "PR",
+		"Latitude" : "+18.001995"
+	},
+	{
+		"Longitude" : "-065.778310",
+		"Zipcode" : "00718",
+		"ZipClass" : "STANDARD",
+		"County" : "NAGUABO",
+		"City" : "NAGUABO",
+		"State" : "PR",
+		"Latitude" : "+18.221390"
+	},
+	{
+		"Longitude" : "-066.229751",
+		"Zipcode" : "00719",
+		"ZipClass" : "STANDARD",
+		"County" : "NARANJITO",
+		"City" : "NARANJITO",
+		"State" : "PR",
+		"Latitude" : "+18.298017"
+	},
+	{
+		"Longitude" : "-066.394020",
+		"Zipcode" : "00720",
+		"ZipClass" : "STANDARD",
+		"County" : "OROCOVIS",
+		"City" : "OROCOVIS",
+		"State" : "PR",
+		"Latitude" : "+18.226862"
+	},
+	{
+		"Longitude" : "-065.778288",
+		"Zipcode" : "00721",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO GRANDE",
+		"City" : "PALMER",
+		"State" : "PR",
+		"Latitude" : "+18.364161"
+	},
+	{
+		"Longitude" : "-066.010572",
+		"Zipcode" : "00723",
+		"ZipClass" : "STANDARD",
+		"County" : "PATILLAS",
+		"City" : "PATILLAS",
+		"State" : "PR",
+		"Latitude" : "+18.009994"
+	},
+	{
+		"Longitude" : "-066.058033",
+		"Zipcode" : "00725",
+		"ZipClass" : "STANDARD",
+		"County" : "CAGUAS",
+		"City" : "CAGUAS",
+		"State" : "PR",
+		"Latitude" : "+18.212965"
+	},
+	{
+		"Longitude" : "-066.058033",
+		"Zipcode" : "00726",
+		"ZipClass" : "STANDARD",
+		"County" : "CAGUAS",
+		"City" : "CAGUAS",
+		"State" : "PR",
+		"Latitude" : "+18.212965"
+	},
+	{
+		"Longitude" : "-066.058033",
+		"Zipcode" : "00727",
+		"ZipClass" : "STANDARD",
+		"County" : "CAGUAS",
+		"City" : "CAGUAS",
+		"State" : "PR",
+		"Latitude" : "+18.212965"
+	},
+	{
+		"Longitude" : "-066.607429",
+		"Zipcode" : "00728",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "PONCE",
+		"State" : "PR",
+		"Latitude" : "+18.001995"
+	},
+	{
+		"Longitude" : "-065.883864",
+		"Zipcode" : "00729",
+		"ZipClass" : "STANDARD",
+		"County" : "CANOVANAS",
+		"City" : "CANOVANAS",
+		"State" : "PR",
+		"Latitude" : "+18.333093"
+	},
+	{
+		"Longitude" : "-066.607429",
+		"Zipcode" : "00730",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "PONCE",
+		"State" : "PR",
+		"Latitude" : "+18.001995"
+	},
+	{
+		"Longitude" : "-066.626344",
+		"Zipcode" : "00731",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "PONCE",
+		"State" : "PR",
+		"Latitude" : "+18.038310"
+	},
+	{
+		"Longitude" : "-066.613742",
+		"Zipcode" : "00732",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "PONCE",
+		"State" : "PR",
+		"Latitude" : "+18.021781"
+	},
+	{
+		"Longitude" : "-066.619165",
+		"Zipcode" : "00733",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "PONCE",
+		"State" : "PR",
+		"Latitude" : "+18.019331"
+	},
+	{
+		"Longitude" : "-066.643934",
+		"Zipcode" : "00734",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "PONCE",
+		"State" : "PR",
+		"Latitude" : "+17.999499"
+	},
+	{
+		"Longitude" : "-065.594769",
+		"Zipcode" : "00735",
+		"ZipClass" : "STANDARD",
+		"County" : "CEIBA",
+		"City" : "CEIBA",
+		"State" : "PR",
+		"Latitude" : "+18.264872"
+	},
+	{
+		"Longitude" : "-066.139274",
+		"Zipcode" : "00736",
+		"ZipClass" : "STANDARD",
+		"County" : "CAYEY",
+		"City" : "CAYEY",
+		"State" : "PR",
+		"Latitude" : "+18.102967"
+	},
+	{
+		"Longitude" : "-066.139274",
+		"Zipcode" : "00737",
+		"ZipClass" : "STANDARD",
+		"County" : "CAYEY",
+		"City" : "CAYEY",
+		"State" : "PR",
+		"Latitude" : "+18.102967"
+	},
+	{
+		"Longitude" : "-065.611361",
+		"Zipcode" : "00738",
+		"ZipClass" : "STANDARD",
+		"County" : "FAJARDO",
+		"City" : "FAJARDO",
+		"State" : "PR",
+		"Latitude" : "+18.359381"
+	},
+	{
+		"Longitude" : "-066.169519",
+		"Zipcode" : "00739",
+		"ZipClass" : "STANDARD",
+		"County" : "CIDRA",
+		"City" : "CIDRA",
+		"State" : "PR",
+		"Latitude" : "+18.181469"
+	},
+	{
+		"Longitude" : "-065.638780",
+		"Zipcode" : "00740",
+		"ZipClass" : "STANDARD",
+		"County" : "FAJARDO",
+		"City" : "PUERTO REAL",
+		"State" : "PR",
+		"Latitude" : "+18.331958"
+	},
+	{
+		"Longitude" : "-065.753485",
+		"Zipcode" : "00741",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMACAO",
+		"City" : "PUNTA SANTIAGO",
+		"State" : "PR",
+		"Latitude" : "+18.162156"
+	},
+	{
+		"Longitude" : "-065.594769",
+		"Zipcode" : "00742",
+		"ZipClass" : "STANDARD",
+		"County" : "CEIBA",
+		"City" : "ROOSEVELT ROADS",
+		"State" : "PR",
+		"Latitude" : "+18.264872"
+	},
+	{
+		"Longitude" : "-065.743058",
+		"Zipcode" : "00744",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAGUABO",
+		"City" : "RIO BLANCO",
+		"State" : "PR",
+		"Latitude" : "+18.206329"
+	},
+	{
+		"Longitude" : "-065.816583",
+		"Zipcode" : "00745",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO GRANDE",
+		"City" : "RIO GRANDE",
+		"State" : "PR",
+		"Latitude" : "+18.367347"
+	},
+	{
+		"Longitude" : "-066.264825",
+		"Zipcode" : "00751",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINAS",
+		"City" : "SALINAS",
+		"State" : "PR",
+		"Latitude" : "+17.998520"
+	},
+	{
+		"Longitude" : "-065.962389",
+		"Zipcode" : "00754",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN LORENZO",
+		"City" : "SAN LORENZO",
+		"State" : "PR",
+		"Latitude" : "+18.187584"
+	},
+	{
+		"Longitude" : "-066.395543",
+		"Zipcode" : "00757",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA ISABEL",
+		"City" : "SANTA ISABEL",
+		"State" : "PR",
+		"Latitude" : "+17.991233"
+	},
+	{
+		"Longitude" : "-065.460356",
+		"Zipcode" : "00765",
+		"ZipClass" : "STANDARD",
+		"County" : "VIEQUES",
+		"City" : "VIEQUES",
+		"State" : "PR",
+		"Latitude" : "+18.123347"
+	},
+	{
+		"Longitude" : "-066.496607",
+		"Zipcode" : "00766",
+		"ZipClass" : "STANDARD",
+		"County" : "VILLALBA",
+		"City" : "VILLALBA",
+		"State" : "PR",
+		"Latitude" : "+18.120519"
+	},
+	{
+		"Longitude" : "-065.886988",
+		"Zipcode" : "00767",
+		"ZipClass" : "STANDARD",
+		"County" : "YABUCOA",
+		"City" : "YABUCOA",
+		"State" : "PR",
+		"Latitude" : "+18.045522"
+	},
+	{
+		"Longitude" : "-066.350810",
+		"Zipcode" : "00769",
+		"ZipClass" : "STANDARD",
+		"County" : "COAMO",
+		"City" : "COAMO",
+		"State" : "PR",
+		"Latitude" : "+18.095992"
+	},
+	{
+		"Longitude" : "-065.871970",
+		"Zipcode" : "00771",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS PIEDRAS",
+		"City" : "LAS PIEDRAS",
+		"State" : "PR",
+		"Latitude" : "+18.196576"
+	},
+	{
+		"Longitude" : "-065.899357",
+		"Zipcode" : "00772",
+		"ZipClass" : "STANDARD",
+		"County" : "LOIZA",
+		"City" : "LOIZA",
+		"State" : "PR",
+		"Latitude" : "+18.447406"
+	},
+	{
+		"Longitude" : "-065.708138",
+		"Zipcode" : "00773",
+		"ZipClass" : "STANDARD",
+		"County" : "LUQUILLO",
+		"City" : "LUQUILLO",
+		"State" : "PR",
+		"Latitude" : "+18.366027"
+	},
+	{
+		"Longitude" : "-065.296467",
+		"Zipcode" : "00775",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CULEBRA",
+		"City" : "CULEBRA",
+		"State" : "PR",
+		"Latitude" : "+18.323736"
+	},
+	{
+		"Longitude" : "-065.901774",
+		"Zipcode" : "00777",
+		"ZipClass" : "STANDARD",
+		"County" : "JUNCOS",
+		"City" : "JUNCOS",
+		"State" : "PR",
+		"Latitude" : "+18.206489"
+	},
+	{
+		"Longitude" : "-065.974641",
+		"Zipcode" : "00778",
+		"ZipClass" : "STANDARD",
+		"County" : "GURABO",
+		"City" : "GURABO",
+		"State" : "PR",
+		"Latitude" : "+18.259092"
+	},
+	{
+		"Longitude" : "-066.607429",
+		"Zipcode" : "00780",
+		"ZipClass" : "STANDARD",
+		"County" : "PONCE",
+		"City" : "COTO LAUREL",
+		"State" : "PR",
+		"Latitude" : "+18.001995"
+	},
+	{
+		"Longitude" : "-066.219885",
+		"Zipcode" : "00782",
+		"ZipClass" : "STANDARD",
+		"County" : "COMERIO",
+		"City" : "COMERIO",
+		"State" : "PR",
+		"Latitude" : "+18.224958"
+	},
+	{
+		"Longitude" : "-066.330525",
+		"Zipcode" : "00783",
+		"ZipClass" : "STANDARD",
+		"County" : "COROZAL",
+		"City" : "COROZAL",
+		"State" : "PR",
+		"Latitude" : "+18.304369"
+	},
+	{
+		"Longitude" : "-066.139253",
+		"Zipcode" : "00784",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYAMA",
+		"City" : "GUAYAMA",
+		"State" : "PR",
+		"Latitude" : "+17.992290"
+	},
+	{
+		"Longitude" : "-066.795603",
+		"Zipcode" : "00785",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYANILLA",
+		"City" : "GUAYAMA",
+		"State" : "PR",
+		"Latitude" : "+18.018822"
+	},
+	{
+		"Longitude" : "-066.268717",
+		"Zipcode" : "00786",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AIBONITO",
+		"City" : "LA PLATA",
+		"State" : "PR",
+		"Latitude" : "+18.128092"
+	},
+	{
+		"Longitude" : "-065.788499",
+		"Zipcode" : "00791",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMACAO",
+		"City" : "HUMACAO",
+		"State" : "PR",
+		"Latitude" : "+18.138029"
+	},
+	{
+		"Longitude" : "-065.788499",
+		"Zipcode" : "00792",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMACAO",
+		"City" : "HUMACAO",
+		"State" : "PR",
+		"Latitude" : "+18.138029"
+	},
+	{
+		"Longitude" : "-066.307236",
+		"Zipcode" : "00794",
+		"ZipClass" : "STANDARD",
+		"County" : "BARRANQUITAS",
+		"City" : "BARRANQUITAS",
+		"State" : "PR",
+		"Latitude" : "+18.200898"
+	},
+	{
+		"Longitude" : "-066.493218",
+		"Zipcode" : "00795",
+		"ZipClass" : "STANDARD",
+		"County" : "JUANA DIAZ",
+		"City" : "JUANA DIAZ",
+		"State" : "PR",
+		"Latitude" : "+17.997367"
+	},
+	{
+		"Longitude" : "-066.103568",
+		"Zipcode" : "00901",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.465901"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00902",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00906",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.077003",
+		"Zipcode" : "00907",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.451647"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00908",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.068133",
+		"Zipcode" : "00909",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.443384"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00910",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.057859",
+		"Zipcode" : "00911",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.450828"
+	},
+	{
+		"Longitude" : "-066.059859",
+		"Zipcode" : "00912",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.444187"
+	},
+	{
+		"Longitude" : "-066.043352",
+		"Zipcode" : "00913",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.450735"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00914",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.048087",
+		"Zipcode" : "00915",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.437896"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00916",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.050602",
+		"Zipcode" : "00917",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.422018"
+	},
+	{
+		"Longitude" : "-066.062319",
+		"Zipcode" : "00918",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.419069"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00919",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.091885",
+		"Zipcode" : "00920",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.406808"
+	},
+	{
+		"Longitude" : "-066.066124",
+		"Zipcode" : "00921",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.390429"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00922",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.036708",
+		"Zipcode" : "00923",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410775"
+	},
+	{
+		"Longitude" : "-066.011460",
+		"Zipcode" : "00924",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.396392"
+	},
+	{
+		"Longitude" : "-066.049773",
+		"Zipcode" : "00925",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.401055"
+	},
+	{
+		"Longitude" : "-066.062804",
+		"Zipcode" : "00926",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.369376"
+	},
+	{
+		"Longitude" : "-066.071959",
+		"Zipcode" : "00927",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.385174"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00928",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00929",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00930",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00931",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00933",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.166014",
+		"Zipcode" : "00934",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYAMON",
+		"City" : "FORT BUCHANAN",
+		"State" : "PR",
+		"Latitude" : "+18.344870"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00935",
+		"ZipClass" : "UNIQUE",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00936",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00937",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00938",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00939",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00940",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.199692",
+		"Zipcode" : "00949",
+		"ZipClass" : "STANDARD",
+		"County" : "TOA BAJA",
+		"City" : "TOA BAJA",
+		"State" : "PR",
+		"Latitude" : "+18.431911"
+	},
+	{
+		"Longitude" : "-066.196503",
+		"Zipcode" : "00950",
+		"ZipClass" : "STANDARD",
+		"County" : "TOA BAJA",
+		"City" : "TOA BAJA",
+		"State" : "PR",
+		"Latitude" : "+18.457761"
+	},
+	{
+		"Longitude" : "-066.196503",
+		"Zipcode" : "00951",
+		"ZipClass" : "STANDARD",
+		"County" : "TOA BAJA",
+		"City" : "TOA BAJA",
+		"State" : "PR",
+		"Latitude" : "+18.457761"
+	},
+	{
+		"Longitude" : "-066.196503",
+		"Zipcode" : "00952",
+		"ZipClass" : "STANDARD",
+		"County" : "TOA BAJA",
+		"City" : "SABANA SECA",
+		"State" : "PR",
+		"Latitude" : "+18.457761"
+	},
+	{
+		"Longitude" : "-066.257010",
+		"Zipcode" : "00953",
+		"ZipClass" : "STANDARD",
+		"County" : "TOA ALTA",
+		"City" : "TOA ALTA",
+		"State" : "PR",
+		"Latitude" : "+18.356795"
+	},
+	{
+		"Longitude" : "-066.258108",
+		"Zipcode" : "00954",
+		"ZipClass" : "STANDARD",
+		"County" : "TOA ALTA",
+		"City" : "TOA ALTA",
+		"State" : "PR",
+		"Latitude" : "+18.358939"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00955",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.174176",
+		"Zipcode" : "00956",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYAMON",
+		"City" : "BAYAMON",
+		"State" : "PR",
+		"Latitude" : "+18.326702"
+	},
+	{
+		"Longitude" : "-066.183907",
+		"Zipcode" : "00957",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYAMON",
+		"City" : "BAYAMON",
+		"State" : "PR",
+		"Latitude" : "+18.366645"
+	},
+	{
+		"Longitude" : "-066.166014",
+		"Zipcode" : "00958",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYAMON",
+		"City" : "BAYAMON",
+		"State" : "PR",
+		"Latitude" : "+18.344870"
+	},
+	{
+		"Longitude" : "-066.159044",
+		"Zipcode" : "00959",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYAMON",
+		"City" : "BAYAMON",
+		"State" : "PR",
+		"Latitude" : "+18.387058"
+	},
+	{
+		"Longitude" : "-066.166014",
+		"Zipcode" : "00960",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYAMON",
+		"City" : "BAYAMON",
+		"State" : "PR",
+		"Latitude" : "+18.344870"
+	},
+	{
+		"Longitude" : "-066.168651",
+		"Zipcode" : "00961",
+		"ZipClass" : "STANDARD",
+		"County" : "BAYAMON",
+		"City" : "BAYAMON",
+		"State" : "PR",
+		"Latitude" : "+18.413195"
+	},
+	{
+		"Longitude" : "-066.140407",
+		"Zipcode" : "00962",
+		"ZipClass" : "STANDARD",
+		"County" : "CATANO",
+		"City" : "CATANO",
+		"State" : "PR",
+		"Latitude" : "+18.437644"
+	},
+	{
+		"Longitude" : "-066.139293",
+		"Zipcode" : "00963",
+		"ZipClass" : "STANDARD",
+		"County" : "CATANO",
+		"City" : "CATANO",
+		"State" : "PR",
+		"Latitude" : "+18.443217"
+	},
+	{
+		"Longitude" : "-066.115390",
+		"Zipcode" : "00965",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYNABO",
+		"City" : "GUAYNABO",
+		"State" : "PR",
+		"Latitude" : "+18.428784"
+	},
+	{
+		"Longitude" : "-066.114889",
+		"Zipcode" : "00966",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYNABO",
+		"City" : "GUAYNABO",
+		"State" : "PR",
+		"Latitude" : "+18.396815"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00968",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "GUAYNABO",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.113729",
+		"Zipcode" : "00969",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYNABO",
+		"City" : "GUAYNABO",
+		"State" : "PR",
+		"Latitude" : "+18.362322"
+	},
+	{
+		"Longitude" : "-066.112295",
+		"Zipcode" : "00970",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYNABO",
+		"City" : "GUAYNABO",
+		"State" : "PR",
+		"Latitude" : "+18.359143"
+	},
+	{
+		"Longitude" : "-066.113606",
+		"Zipcode" : "00971",
+		"ZipClass" : "STANDARD",
+		"County" : "GUAYNABO",
+		"City" : "GUAYNABO",
+		"State" : "PR",
+		"Latitude" : "+18.309420"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00975",
+		"ZipClass" : "UNIQUE",
+		"County" : "SAN JUAN",
+		"City" : "SAN JUAN",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-065.989229",
+		"Zipcode" : "00976",
+		"ZipClass" : "STANDARD",
+		"County" : "TRUJILLO ALTO",
+		"City" : "TRUJILLO ALTO",
+		"State" : "PR",
+		"Latitude" : "+18.338133"
+	},
+	{
+		"Longitude" : "-065.990099",
+		"Zipcode" : "00977",
+		"ZipClass" : "STANDARD",
+		"County" : "TRUJILLO ALTO",
+		"City" : "TRUJILLO ALTO",
+		"State" : "PR",
+		"Latitude" : "+18.337004"
+	},
+	{
+		"Longitude" : "-065.990099",
+		"Zipcode" : "00978",
+		"ZipClass" : "STANDARD",
+		"County" : "TRUJILLO ALTO",
+		"City" : "SAINT JUST CONTRACT",
+		"State" : "PR",
+		"Latitude" : "+18.337004"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00979",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00981",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-066.060533",
+		"Zipcode" : "00982",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.410462"
+	},
+	{
+		"Longitude" : "-065.977659",
+		"Zipcode" : "00983",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINA",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.413452"
+	},
+	{
+		"Longitude" : "-065.972495",
+		"Zipcode" : "00984",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINA",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.393355"
+	},
+	{
+		"Longitude" : "-065.938880",
+		"Zipcode" : "00985",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINA",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.345741"
+	},
+	{
+		"Longitude" : "-065.972495",
+		"Zipcode" : "00986",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINA",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.393355"
+	},
+	{
+		"Longitude" : "-065.959932",
+		"Zipcode" : "00987",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINA",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.373466"
+	},
+	{
+		"Longitude" : "-065.972495",
+		"Zipcode" : "00988",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINA",
+		"City" : "CAROLINA",
+		"State" : "PR",
+		"Latitude" : "+18.393355"
+	}
+]}
+)

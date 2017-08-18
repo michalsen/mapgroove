@@ -1,0 +1,11 @@
+.hidden_markers {
+  display: none;
+}
+
+.modifyme {
+    width: 1200px !important;
+}
+
+#dataTable {
+  border-collapse: collapse;
+}

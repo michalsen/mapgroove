@@ -1,0 +1,4845 @@
+{
+	"result":[
+	{
+		"Longitude" : "-080.190733",
+		"Zipcode" : "29001",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARENDON",
+		"City" : "ALCOLU",
+		"State" : "SC",
+		"Latitude" : "+33.685155"
+	},
+	{
+		"Longitude" : "-081.234811",
+		"Zipcode" : "29002",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "BALLENTINE",
+		"State" : "SC",
+		"Latitude" : "+34.126535"
+	},
+	{
+		"Longitude" : "-080.973559",
+		"Zipcode" : "29003",
+		"ZipClass" : "STANDARD",
+		"County" : "BAMBERG",
+		"City" : "BAMBERG",
+		"State" : "SC",
+		"Latitude" : "+33.206294"
+	},
+	{
+		"Longitude" : "-081.414643",
+		"Zipcode" : "29006",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "BATESBURG",
+		"State" : "SC",
+		"Latitude" : "+33.871866"
+	},
+	{
+		"Longitude" : "-080.532238",
+		"Zipcode" : "29009",
+		"ZipClass" : "STANDARD",
+		"County" : "KERSHAW",
+		"City" : "BETHUNE",
+		"State" : "SC",
+		"Latitude" : "+34.436891"
+	},
+	{
+		"Longitude" : "-080.306569",
+		"Zipcode" : "29010",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "BISHOPVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.207324"
+	},
+	{
+		"Longitude" : "-081.083171",
+		"Zipcode" : "29014",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "BLACKSTOCK",
+		"State" : "SC",
+		"Latitude" : "+34.596281"
+	},
+	{
+		"Longitude" : "-081.270211",
+		"Zipcode" : "29015",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BLAIR",
+		"State" : "SC",
+		"Latitude" : "+34.414780"
+	},
+	{
+		"Longitude" : "-080.918919",
+		"Zipcode" : "29016",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "BLYTHEWOOD",
+		"State" : "SC",
+		"Latitude" : "+34.104758"
+	},
+	{
+		"Longitude" : "-080.565482",
+		"Zipcode" : "29018",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "BOWMAN",
+		"State" : "SC",
+		"Latitude" : "+33.341855"
+	},
+	{
+		"Longitude" : "-080.612489",
+		"Zipcode" : "29020",
+		"ZipClass" : "STANDARD",
+		"County" : "KERSHAW",
+		"City" : "CAMDEN",
+		"State" : "SC",
+		"Latitude" : "+34.313477"
+	},
+	{
+		"Longitude" : "-080.708141",
+		"Zipcode" : "29030",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "CAMERON",
+		"State" : "SC",
+		"Latitude" : "+33.570316"
+	},
+	{
+		"Longitude" : "-081.481439",
+		"Zipcode" : "29031",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "CARLISLE",
+		"State" : "SC",
+		"Latitude" : "+34.567049"
+	},
+	{
+		"Longitude" : "-080.541490",
+		"Zipcode" : "29032",
+		"ZipClass" : "STANDARD",
+		"County" : "KERSHAW",
+		"City" : "CASSATT",
+		"State" : "SC",
+		"Latitude" : "+34.357230"
+	},
+	{
+		"Longitude" : "-081.294081",
+		"Zipcode" : "29033",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "CAYCE",
+		"State" : "SC",
+		"Latitude" : "+33.868493"
+	},
+	{
+		"Longitude" : "-081.334355",
+		"Zipcode" : "29036",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "CHAPIN",
+		"State" : "SC",
+		"Latitude" : "+34.135909"
+	},
+	{
+		"Longitude" : "-081.872428",
+		"Zipcode" : "29037",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWBERRY",
+		"City" : "CHAPPELLS",
+		"State" : "SC",
+		"Latitude" : "+34.221772"
+	},
+	{
+		"Longitude" : "-080.956389",
+		"Zipcode" : "29038",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "COPE",
+		"State" : "SC",
+		"Latitude" : "+33.381696"
+	},
+	{
+		"Longitude" : "-080.917520",
+		"Zipcode" : "29039",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "CORDOVA",
+		"State" : "SC",
+		"Latitude" : "+33.417322"
+	},
+	{
+		"Longitude" : "-080.478151",
+		"Zipcode" : "29040",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "DALZELL",
+		"State" : "SC",
+		"Latitude" : "+34.025111"
+	},
+	{
+		"Longitude" : "-080.208109",
+		"Zipcode" : "29041",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARENDON",
+		"City" : "DAVIS STATION",
+		"State" : "SC",
+		"Latitude" : "+33.688373"
+	},
+	{
+		"Longitude" : "-081.104895",
+		"Zipcode" : "29042",
+		"ZipClass" : "STANDARD",
+		"County" : "BAMBERG",
+		"City" : "DENMARK",
+		"State" : "SC",
+		"Latitude" : "+33.237543"
+	},
+	{
+		"Longitude" : "-080.947910",
+		"Zipcode" : "29044",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "EASTOVER",
+		"State" : "SC",
+		"Latitude" : "+33.992252"
+	},
+	{
+		"Longitude" : "-080.798610",
+		"Zipcode" : "29045",
+		"ZipClass" : "STANDARD",
+		"County" : "KERSHAW",
+		"City" : "ELGIN",
+		"State" : "SC",
+		"Latitude" : "+34.195220"
+	},
+	{
+		"Longitude" : "-080.240955",
+		"Zipcode" : "29046",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "ELLIOTT",
+		"State" : "SC",
+		"Latitude" : "+34.159980"
+	},
+	{
+		"Longitude" : "-080.582264",
+		"Zipcode" : "29047",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "ELLOREE",
+		"State" : "SC",
+		"Latitude" : "+33.496664"
+	},
+	{
+		"Longitude" : "-080.402308",
+		"Zipcode" : "29048",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "EUTAWVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.416449"
+	},
+	{
+		"Longitude" : "-080.208109",
+		"Zipcode" : "29051",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARENDON",
+		"City" : "GABLE",
+		"State" : "SC",
+		"Latitude" : "+33.688373"
+	},
+	{
+		"Longitude" : "-080.733782",
+		"Zipcode" : "29052",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "GADSDEN",
+		"State" : "SC",
+		"Latitude" : "+33.846420"
+	},
+	{
+		"Longitude" : "-081.104235",
+		"Zipcode" : "29053",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "GASTON",
+		"State" : "SC",
+		"Latitude" : "+33.815305"
+	},
+	{
+		"Longitude" : "-081.410107",
+		"Zipcode" : "29054",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "GILBERT",
+		"State" : "SC",
+		"Latitude" : "+33.925422"
+	},
+	{
+		"Longitude" : "-080.940759",
+		"Zipcode" : "29055",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "GREAT FALLS",
+		"State" : "SC",
+		"Latitude" : "+34.612456"
+	},
+	{
+		"Longitude" : "-079.832218",
+		"Zipcode" : "29056",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSBURG",
+		"City" : "GREELEYVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.785465"
+	},
+	{
+		"Longitude" : "-080.718482",
+		"Zipcode" : "29058",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "HEATH SPRINGS",
+		"State" : "SC",
+		"Latitude" : "+34.588803"
+	},
+	{
+		"Longitude" : "-080.438902",
+		"Zipcode" : "29059",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "HOLLY HILL",
+		"State" : "SC",
+		"Latitude" : "+33.349458"
+	},
+	{
+		"Longitude" : "-080.823000",
+		"Zipcode" : "29061",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "HOPKINS",
+		"State" : "SC",
+		"Latitude" : "+33.920355"
+	},
+	{
+		"Longitude" : "-080.567589",
+		"Zipcode" : "29062",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUMTER",
+		"City" : "HORATIO",
+		"State" : "SC",
+		"Latitude" : "+34.012593"
+	},
+	{
+		"Longitude" : "-081.131151",
+		"Zipcode" : "29063",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "IRMO",
+		"State" : "SC",
+		"Latitude" : "+34.085949"
+	},
+	{
+		"Longitude" : "-081.285308",
+		"Zipcode" : "29065",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "JENKINSVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.301089"
+	},
+	{
+		"Longitude" : "-080.542015",
+		"Zipcode" : "29067",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "KERSHAW",
+		"State" : "SC",
+		"Latitude" : "+34.600417"
+	},
+	{
+		"Longitude" : "-080.005897",
+		"Zipcode" : "29069",
+		"ZipClass" : "STANDARD",
+		"County" : "DARLINGTON",
+		"City" : "LAMAR",
+		"State" : "SC",
+		"Latitude" : "+34.269558"
+	},
+	{
+		"Longitude" : "-081.423918",
+		"Zipcode" : "29070",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "LEESVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.895434"
+	},
+	{
+		"Longitude" : "-081.248345",
+		"Zipcode" : "29071",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "LEXINGTON",
+		"State" : "SC",
+		"Latitude" : "+33.925183"
+	},
+	{
+		"Longitude" : "-081.253034",
+		"Zipcode" : "29072",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "LEXINGTON",
+		"State" : "SC",
+		"Latitude" : "+33.976907"
+	},
+	{
+		"Longitude" : "-081.335083",
+		"Zipcode" : "29073",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "LEXINGTON",
+		"State" : "SC",
+		"Latitude" : "+33.905323"
+	},
+	{
+		"Longitude" : "-080.789236",
+		"Zipcode" : "29074",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KERSHAW",
+		"City" : "LIBERTY HILL",
+		"State" : "SC",
+		"Latitude" : "+34.456984"
+	},
+	{
+		"Longitude" : "-081.396654",
+		"Zipcode" : "29075",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWBERRY",
+		"City" : "LITTLE MOUNTAIN",
+		"State" : "SC",
+		"Latitude" : "+34.193507"
+	},
+	{
+		"Longitude" : "-080.731308",
+		"Zipcode" : "29078",
+		"ZipClass" : "STANDARD",
+		"County" : "KERSHAW",
+		"City" : "LUGOFF",
+		"State" : "SC",
+		"Latitude" : "+34.260265"
+	},
+	{
+		"Longitude" : "-080.100896",
+		"Zipcode" : "29079",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DARLINGTON",
+		"City" : "LYDIA",
+		"State" : "SC",
+		"Latitude" : "+34.278255"
+	},
+	{
+		"Longitude" : "-080.043417",
+		"Zipcode" : "29080",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "LYNCHBURG",
+		"State" : "SC",
+		"Latitude" : "+34.049335"
+	},
+	{
+		"Longitude" : "-081.014013",
+		"Zipcode" : "29081",
+		"ZipClass" : "STANDARD",
+		"County" : "BAMBERG",
+		"City" : "EHRHARDT",
+		"State" : "SC",
+		"Latitude" : "+33.088850"
+	},
+	{
+		"Longitude" : "-080.762449",
+		"Zipcode" : "29082",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "LODGE",
+		"State" : "SC",
+		"Latitude" : "+33.029619"
+	},
+	{
+		"Longitude" : "-080.256814",
+		"Zipcode" : "29101",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTERFIELD",
+		"City" : "MC BEE",
+		"State" : "SC",
+		"Latitude" : "+34.470238"
+	},
+	{
+		"Longitude" : "-080.211550",
+		"Zipcode" : "29102",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARENDON",
+		"City" : "MANNING",
+		"State" : "SC",
+		"Latitude" : "+33.618408"
+	},
+	{
+		"Longitude" : "-080.217283",
+		"Zipcode" : "29104",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "MAYESVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.950173"
+	},
+	{
+		"Longitude" : "-081.679404",
+		"Zipcode" : "29105",
+		"ZipClass" : "STANDARD",
+		"County" : "SALUDA",
+		"City" : "MONETTA",
+		"State" : "SC",
+		"Latitude" : "+33.887970"
+	},
+	{
+		"Longitude" : "-081.098735",
+		"Zipcode" : "29106",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "MONTICELLO",
+		"State" : "SC",
+		"Latitude" : "+34.373596"
+	},
+	{
+		"Longitude" : "-081.121253",
+		"Zipcode" : "29107",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "NEESES",
+		"State" : "SC",
+		"Latitude" : "+33.525625"
+	},
+	{
+		"Longitude" : "-081.608611",
+		"Zipcode" : "29108",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWBERRY",
+		"City" : "NEWBERRY",
+		"State" : "SC",
+		"Latitude" : "+34.310027"
+	},
+	{
+		"Longitude" : "-080.208109",
+		"Zipcode" : "29111",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARENDON",
+		"City" : "NEW ZION",
+		"State" : "SC",
+		"Latitude" : "+33.688373"
+	},
+	{
+		"Longitude" : "-081.076220",
+		"Zipcode" : "29112",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "NORTH",
+		"State" : "SC",
+		"Latitude" : "+33.554183"
+	},
+	{
+		"Longitude" : "-080.977637",
+		"Zipcode" : "29113",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "NORWAY",
+		"State" : "SC",
+		"Latitude" : "+33.409377"
+	},
+	{
+		"Longitude" : "-079.903726",
+		"Zipcode" : "29114",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "OLANTA",
+		"State" : "SC",
+		"Latitude" : "+33.937811"
+	},
+	{
+		"Longitude" : "-080.821825",
+		"Zipcode" : "29115",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "ORANGEBURG",
+		"State" : "SC",
+		"Latitude" : "+33.490935"
+	},
+	{
+		"Longitude" : "-080.824603",
+		"Zipcode" : "29116",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "ORANGEBURG",
+		"State" : "SC",
+		"Latitude" : "+33.495930"
+	},
+	{
+		"Longitude" : "-080.797486",
+		"Zipcode" : "29117",
+		"ZipClass" : "UNIQUE",
+		"County" : "ORANGEBURG",
+		"City" : "ORANGEBURG",
+		"State" : "SC",
+		"Latitude" : "+33.442019"
+	},
+	{
+		"Longitude" : "-080.924805",
+		"Zipcode" : "29118",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "ORANGEBURG",
+		"State" : "SC",
+		"Latitude" : "+33.567493"
+	},
+	{
+		"Longitude" : "-081.327116",
+		"Zipcode" : "29122",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEWBERRY",
+		"City" : "PEAK",
+		"State" : "SC",
+		"Latitude" : "+34.238620"
+	},
+	{
+		"Longitude" : "-081.247547",
+		"Zipcode" : "29123",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "PELION",
+		"State" : "SC",
+		"Latitude" : "+33.766538"
+	},
+	{
+		"Longitude" : "-080.457854",
+		"Zipcode" : "29125",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "PINEWOOD",
+		"State" : "SC",
+		"Latitude" : "+33.756082"
+	},
+	{
+		"Longitude" : "-081.412148",
+		"Zipcode" : "29126",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWBERRY",
+		"City" : "POMARIA",
+		"State" : "SC",
+		"Latitude" : "+34.323019"
+	},
+	{
+		"Longitude" : "-081.552888",
+		"Zipcode" : "29127",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWBERRY",
+		"City" : "PROSPERITY",
+		"State" : "SC",
+		"Latitude" : "+34.188062"
+	},
+	{
+		"Longitude" : "-080.513051",
+		"Zipcode" : "29128",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "REMBERT",
+		"State" : "SC",
+		"Latitude" : "+34.059796"
+	},
+	{
+		"Longitude" : "-081.655090",
+		"Zipcode" : "29129",
+		"ZipClass" : "STANDARD",
+		"County" : "SALUDA",
+		"City" : "RIDGE SPRING",
+		"State" : "SC",
+		"Latitude" : "+33.844203"
+	},
+	{
+		"Longitude" : "-080.926792",
+		"Zipcode" : "29130",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "RIDGEWAY",
+		"State" : "SC",
+		"Latitude" : "+34.306879"
+	},
+	{
+		"Longitude" : "-081.125230",
+		"Zipcode" : "29132",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "RION",
+		"State" : "SC",
+		"Latitude" : "+34.307413"
+	},
+	{
+		"Longitude" : "-080.701135",
+		"Zipcode" : "29133",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "ROWESVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.400800"
+	},
+	{
+		"Longitude" : "-080.867833",
+		"Zipcode" : "29135",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "SAINT MATTHEWS",
+		"State" : "SC",
+		"Latitude" : "+33.696732"
+	},
+	{
+		"Longitude" : "-081.365813",
+		"Zipcode" : "29137",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "SALLEY",
+		"State" : "SC",
+		"Latitude" : "+33.605723"
+	},
+	{
+		"Longitude" : "-081.773740",
+		"Zipcode" : "29138",
+		"ZipClass" : "STANDARD",
+		"County" : "SALUDA",
+		"City" : "SALUDA",
+		"State" : "SC",
+		"Latitude" : "+34.031353"
+	},
+	{
+		"Longitude" : "-080.782531",
+		"Zipcode" : "29142",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "SANTEE",
+		"State" : "SC",
+		"Latitude" : "+33.466571"
+	},
+	{
+		"Longitude" : "-080.208109",
+		"Zipcode" : "29143",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARENDON",
+		"City" : "SARDINIA",
+		"State" : "SC",
+		"Latitude" : "+33.688373"
+	},
+	{
+		"Longitude" : "-081.624583",
+		"Zipcode" : "29145",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWBERRY",
+		"City" : "SILVERSTREET",
+		"State" : "SC",
+		"Latitude" : "+34.283570"
+	},
+	{
+		"Longitude" : "-081.269821",
+		"Zipcode" : "29146",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "SPRINGFIELD",
+		"State" : "SC",
+		"Latitude" : "+33.517097"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29147",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "STATE PARK",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.322756",
+		"Zipcode" : "29148",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARENDON",
+		"City" : "SUMMERTON",
+		"State" : "SC",
+		"Latitude" : "+33.551560"
+	},
+	{
+		"Longitude" : "-080.354238",
+		"Zipcode" : "29150",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "SUMTER",
+		"State" : "SC",
+		"Latitude" : "+33.913678"
+	},
+	{
+		"Longitude" : "-080.374340",
+		"Zipcode" : "29151",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "SUMTER",
+		"State" : "SC",
+		"Latitude" : "+33.899856"
+	},
+	{
+		"Longitude" : "-080.370098",
+		"Zipcode" : "29152",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "SHAW A F B",
+		"State" : "SC",
+		"Latitude" : "+33.918824"
+	},
+	{
+		"Longitude" : "-080.320637",
+		"Zipcode" : "29153",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "SUMTER",
+		"State" : "SC",
+		"Latitude" : "+33.944620"
+	},
+	{
+		"Longitude" : "-080.426703",
+		"Zipcode" : "29154",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "SUMTER",
+		"State" : "SC",
+		"Latitude" : "+33.866953"
+	},
+	{
+		"Longitude" : "-081.102992",
+		"Zipcode" : "29160",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "SWANSEA",
+		"State" : "SC",
+		"Latitude" : "+33.729014"
+	},
+	{
+		"Longitude" : "-079.933777",
+		"Zipcode" : "29161",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "TIMMONSVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.062595"
+	},
+	{
+		"Longitude" : "-080.022566",
+		"Zipcode" : "29162",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARENDON",
+		"City" : "TURBEVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.884239"
+	},
+	{
+		"Longitude" : "-080.434809",
+		"Zipcode" : "29163",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "VANCE",
+		"State" : "SC",
+		"Latitude" : "+33.417884"
+	},
+	{
+		"Longitude" : "-081.416321",
+		"Zipcode" : "29164",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "WAGENER",
+		"State" : "SC",
+		"Latitude" : "+33.655015"
+	},
+	{
+		"Longitude" : "-081.741069",
+		"Zipcode" : "29166",
+		"ZipClass" : "STANDARD",
+		"County" : "SALUDA",
+		"City" : "WARD",
+		"State" : "SC",
+		"Latitude" : "+34.000971"
+	},
+	{
+		"Longitude" : "-080.498019",
+		"Zipcode" : "29168",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMTER",
+		"City" : "WEDGEFIELD",
+		"State" : "SC",
+		"Latitude" : "+33.895272"
+	},
+	{
+		"Longitude" : "-081.187338",
+		"Zipcode" : "29169",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "WEST COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.953664"
+	},
+	{
+		"Longitude" : "-081.154290",
+		"Zipcode" : "29170",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "WEST COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.932043"
+	},
+	{
+		"Longitude" : "-081.248345",
+		"Zipcode" : "29171",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "WEST COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.925183"
+	},
+	{
+		"Longitude" : "-081.090419",
+		"Zipcode" : "29172",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "WEST COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.901578"
+	},
+	{
+		"Longitude" : "-080.603298",
+		"Zipcode" : "29175",
+		"ZipClass" : "STANDARD",
+		"County" : "KERSHAW",
+		"City" : "WESTVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.441802"
+	},
+	{
+		"Longitude" : "-081.098735",
+		"Zipcode" : "29176",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "WHITE OAK",
+		"State" : "SC",
+		"Latitude" : "+34.373596"
+	},
+	{
+		"Longitude" : "-081.260051",
+		"Zipcode" : "29177",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RICHLAND",
+		"City" : "WHITE ROCK",
+		"State" : "SC",
+		"Latitude" : "+34.150446"
+	},
+	{
+		"Longitude" : "-081.563222",
+		"Zipcode" : "29178",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWBERRY",
+		"City" : "WHITMIRE",
+		"State" : "SC",
+		"Latitude" : "+34.454376"
+	},
+	{
+		"Longitude" : "-081.082923",
+		"Zipcode" : "29180",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "WINNSBORO",
+		"State" : "SC",
+		"Latitude" : "+34.387337"
+	},
+	{
+		"Longitude" : "-081.024864",
+		"Zipcode" : "29201",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.987454"
+	},
+	{
+		"Longitude" : "-080.979652",
+		"Zipcode" : "29202",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.962455"
+	},
+	{
+		"Longitude" : "-081.039585",
+		"Zipcode" : "29203",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.075613"
+	},
+	{
+		"Longitude" : "-080.978511",
+		"Zipcode" : "29204",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.051603"
+	},
+	{
+		"Longitude" : "-081.000013",
+		"Zipcode" : "29205",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.987555"
+	},
+	{
+		"Longitude" : "-080.951029",
+		"Zipcode" : "29206",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.030004"
+	},
+	{
+		"Longitude" : "-080.939131",
+		"Zipcode" : "29207",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.019740"
+	},
+	{
+		"Longitude" : "-081.019913",
+		"Zipcode" : "29208",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.993705"
+	},
+	{
+		"Longitude" : "-080.942597",
+		"Zipcode" : "29209",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.944163"
+	},
+	{
+		"Longitude" : "-080.993483",
+		"Zipcode" : "29210",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.981468"
+	},
+	{
+		"Longitude" : "-080.922338",
+		"Zipcode" : "29211",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.096716"
+	},
+	{
+		"Longitude" : "-081.197778",
+		"Zipcode" : "29212",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.020988"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29214",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29215",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29216",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29217",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29218",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29219",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29220",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29221",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29222",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.924638",
+		"Zipcode" : "29223",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.099488"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29224",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29225",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29226",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29227",
+		"ZipClass" : "UNIQUE",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-081.248345",
+		"Zipcode" : "29228",
+		"ZipClass" : "STANDARD",
+		"County" : "LEXINGTON",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+33.925183"
+	},
+	{
+		"Longitude" : "-080.884194",
+		"Zipcode" : "29229",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.122660"
+	},
+	{
+		"Longitude" : "-081.062623",
+		"Zipcode" : "29230",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.107483"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29240",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29250",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29260",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29290",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-080.970766",
+		"Zipcode" : "29292",
+		"ZipClass" : "STANDARD",
+		"County" : "RICHLAND",
+		"City" : "COLUMBIA",
+		"State" : "SC",
+		"Latitude" : "+34.005992"
+	},
+	{
+		"Longitude" : "-081.993403",
+		"Zipcode" : "29301",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+35.011309"
+	},
+	{
+		"Longitude" : "-081.834040",
+		"Zipcode" : "29302",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+34.893907"
+	},
+	{
+		"Longitude" : "-081.916778",
+		"Zipcode" : "29303",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+34.980316"
+	},
+	{
+		"Longitude" : "-081.863874",
+		"Zipcode" : "29304",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+34.916625"
+	},
+	{
+		"Longitude" : "-082.105503",
+		"Zipcode" : "29305",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+35.111404"
+	},
+	{
+		"Longitude" : "-081.863090",
+		"Zipcode" : "29306",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+34.899493"
+	},
+	{
+		"Longitude" : "-081.980030",
+		"Zipcode" : "29307",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+35.058097"
+	},
+	{
+		"Longitude" : "-081.979347",
+		"Zipcode" : "29316",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+35.030481"
+	},
+	{
+		"Longitude" : "-081.969020",
+		"Zipcode" : "29318",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+34.888237"
+	},
+	{
+		"Longitude" : "-081.969020",
+		"Zipcode" : "29319",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPARTANBURG",
+		"City" : "SPARTANBURG",
+		"State" : "SC",
+		"Latitude" : "+34.888237"
+	},
+	{
+		"Longitude" : "-081.991626",
+		"Zipcode" : "29320",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "ARCADIA",
+		"State" : "SC",
+		"Latitude" : "+34.957170"
+	},
+	{
+		"Longitude" : "-081.733884",
+		"Zipcode" : "29321",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "BUFFALO",
+		"State" : "SC",
+		"Latitude" : "+34.720999"
+	},
+	{
+		"Longitude" : "-082.040137",
+		"Zipcode" : "29322",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "CAMPOBELLO",
+		"State" : "SC",
+		"Latitude" : "+35.113668"
+	},
+	{
+		"Longitude" : "-082.010515",
+		"Zipcode" : "29323",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "CHESNEE",
+		"State" : "SC",
+		"Latitude" : "+35.109575"
+	},
+	{
+		"Longitude" : "-081.832710",
+		"Zipcode" : "29324",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "CLIFTON",
+		"State" : "SC",
+		"Latitude" : "+34.990560"
+	},
+	{
+		"Longitude" : "-081.893558",
+		"Zipcode" : "29325",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "CLINTON",
+		"State" : "SC",
+		"Latitude" : "+34.434920"
+	},
+	{
+		"Longitude" : "-081.832999",
+		"Zipcode" : "29329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "CONVERSE",
+		"State" : "SC",
+		"Latitude" : "+35.001748"
+	},
+	{
+		"Longitude" : "-081.831280",
+		"Zipcode" : "29330",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "COWPENS",
+		"State" : "SC",
+		"Latitude" : "+35.049210"
+	},
+	{
+		"Longitude" : "-081.856745",
+		"Zipcode" : "29331",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "CROSS ANCHOR",
+		"State" : "SC",
+		"Latitude" : "+34.638315"
+	},
+	{
+		"Longitude" : "-081.977214",
+		"Zipcode" : "29332",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "CROSS HILL",
+		"State" : "SC",
+		"Latitude" : "+34.281449"
+	},
+	{
+		"Longitude" : "-081.906376",
+		"Zipcode" : "29333",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "DRAYTON",
+		"State" : "SC",
+		"Latitude" : "+34.968472"
+	},
+	{
+		"Longitude" : "-081.992532",
+		"Zipcode" : "29334",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "DUNCAN",
+		"State" : "SC",
+		"Latitude" : "+34.935427"
+	},
+	{
+		"Longitude" : "-081.882943",
+		"Zipcode" : "29335",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "ENOREE",
+		"State" : "SC",
+		"Latitude" : "+34.749045"
+	},
+	{
+		"Longitude" : "-081.969020",
+		"Zipcode" : "29336",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "FAIRFOREST",
+		"State" : "SC",
+		"Latitude" : "+34.888237"
+	},
+	{
+		"Longitude" : "-082.057103",
+		"Zipcode" : "29338",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "FINGERVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.999397"
+	},
+	{
+		"Longitude" : "-081.633830",
+		"Zipcode" : "29340",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "GAFFNEY",
+		"State" : "SC",
+		"Latitude" : "+35.005490"
+	},
+	{
+		"Longitude" : "-081.705609",
+		"Zipcode" : "29341",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "GAFFNEY",
+		"State" : "SC",
+		"Latitude" : "+35.099884"
+	},
+	{
+		"Longitude" : "-081.652395",
+		"Zipcode" : "29342",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "GAFFNEY",
+		"State" : "SC",
+		"Latitude" : "+34.996314"
+	},
+	{
+		"Longitude" : "-081.977324",
+		"Zipcode" : "29346",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "GLENDALE",
+		"State" : "SC",
+		"Latitude" : "+35.044719"
+	},
+	{
+		"Longitude" : "-081.969020",
+		"Zipcode" : "29348",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "GRAMLING",
+		"State" : "SC",
+		"Latitude" : "+34.888237"
+	},
+	{
+		"Longitude" : "-082.029640",
+		"Zipcode" : "29349",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "INMAN",
+		"State" : "SC",
+		"Latitude" : "+35.075367"
+	},
+	{
+		"Longitude" : "-081.804172",
+		"Zipcode" : "29351",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "JOANNA",
+		"State" : "SC",
+		"Latitude" : "+34.415357"
+	},
+	{
+		"Longitude" : "-081.643060",
+		"Zipcode" : "29353",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "JONESVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.812480"
+	},
+	{
+		"Longitude" : "-081.659070",
+		"Zipcode" : "29355",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWBERRY",
+		"City" : "KINARDS",
+		"State" : "SC",
+		"Latitude" : "+34.355120"
+	},
+	{
+		"Longitude" : "-082.153545",
+		"Zipcode" : "29356",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "LANDRUM",
+		"State" : "SC",
+		"Latitude" : "+35.146058"
+	},
+	{
+		"Longitude" : "-082.055091",
+		"Zipcode" : "29360",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "LAURENS",
+		"State" : "SC",
+		"Latitude" : "+34.528882"
+	},
+	{
+		"Longitude" : "-081.477843",
+		"Zipcode" : "29364",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UNION",
+		"City" : "LOCKHART",
+		"State" : "SC",
+		"Latitude" : "+34.792590"
+	},
+	{
+		"Longitude" : "-081.985214",
+		"Zipcode" : "29365",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "LYMAN",
+		"State" : "SC",
+		"Latitude" : "+35.006816"
+	},
+	{
+		"Longitude" : "-081.990216",
+		"Zipcode" : "29368",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "MAYO",
+		"State" : "SC",
+		"Latitude" : "+34.949241"
+	},
+	{
+		"Longitude" : "-082.027320",
+		"Zipcode" : "29369",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "MOORE",
+		"State" : "SC",
+		"Latitude" : "+34.970097"
+	},
+	{
+		"Longitude" : "-081.967088",
+		"Zipcode" : "29370",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "MOUNTVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.375065"
+	},
+	{
+		"Longitude" : "-081.773952",
+		"Zipcode" : "29372",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "PACOLET",
+		"State" : "SC",
+		"Latitude" : "+34.889502"
+	},
+	{
+		"Longitude" : "-081.748663",
+		"Zipcode" : "29373",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "PACOLET MILLS",
+		"State" : "SC",
+		"Latitude" : "+34.912385"
+	},
+	{
+		"Longitude" : "-081.944611",
+		"Zipcode" : "29374",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "PAULINE",
+		"State" : "SC",
+		"Latitude" : "+34.887498"
+	},
+	{
+		"Longitude" : "-082.110149",
+		"Zipcode" : "29375",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "REIDVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.863648"
+	},
+	{
+		"Longitude" : "-081.947247",
+		"Zipcode" : "29376",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "ROEBUCK",
+		"State" : "SC",
+		"Latitude" : "+34.829502"
+	},
+	{
+		"Longitude" : "-082.135145",
+		"Zipcode" : "29377",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "STARTEX",
+		"State" : "SC",
+		"Latitude" : "+34.987543"
+	},
+	{
+		"Longitude" : "-081.772738",
+		"Zipcode" : "29378",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "UNA",
+		"State" : "SC",
+		"Latitude" : "+34.853013"
+	},
+	{
+		"Longitude" : "-081.647687",
+		"Zipcode" : "29379",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "UNION",
+		"State" : "SC",
+		"Latitude" : "+34.700463"
+	},
+	{
+		"Longitude" : "-082.095499",
+		"Zipcode" : "29384",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "WATERLOO",
+		"State" : "SC",
+		"Latitude" : "+34.335762"
+	},
+	{
+		"Longitude" : "-082.009137",
+		"Zipcode" : "29385",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "WELLFORD",
+		"State" : "SC",
+		"Latitude" : "+34.834143"
+	},
+	{
+		"Longitude" : "-081.969020",
+		"Zipcode" : "29386",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPARTANBURG",
+		"City" : "WHITE STONE",
+		"State" : "SC",
+		"Latitude" : "+34.888237"
+	},
+	{
+		"Longitude" : "-081.991496",
+		"Zipcode" : "29388",
+		"ZipClass" : "STANDARD",
+		"County" : "SPARTANBURG",
+		"City" : "WOODRUFF",
+		"State" : "SC",
+		"Latitude" : "+34.890526"
+	},
+	{
+		"Longitude" : "-081.969020",
+		"Zipcode" : "29390",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPARTANBURG",
+		"City" : "DUNCAN",
+		"State" : "SC",
+		"Latitude" : "+34.888237"
+	},
+	{
+		"Longitude" : "-081.969020",
+		"Zipcode" : "29391",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPARTANBURG",
+		"City" : "DUNCAN",
+		"State" : "SC",
+		"Latitude" : "+34.888237"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "29395",
+		"ZipClass" : "UNIQUE",
+		"County" : "UNION",
+		"City" : "JONESVILLE",
+		"State" : "SC",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-079.940844",
+		"Zipcode" : "29401",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.780326"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29402",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-079.965464",
+		"Zipcode" : "29403",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.822391"
+	},
+	{
+		"Longitude" : "-080.068564",
+		"Zipcode" : "29404",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON AFB",
+		"State" : "SC",
+		"Latitude" : "+32.898194"
+	},
+	{
+		"Longitude" : "-079.991295",
+		"Zipcode" : "29405",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "NORTH CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.853019"
+	},
+	{
+		"Longitude" : "-080.022009",
+		"Zipcode" : "29406",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.927344"
+	},
+	{
+		"Longitude" : "-080.093128",
+		"Zipcode" : "29407",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.812039"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29409",
+		"ZipClass" : "UNIQUE",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-080.030630",
+		"Zipcode" : "29410",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "NORTH CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+33.192514"
+	},
+	{
+		"Longitude" : "-079.953725",
+		"Zipcode" : "29412",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.717954"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29413",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-080.025928",
+		"Zipcode" : "29414",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.810035"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29415",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "NORTH CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29416",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29417",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-080.045849",
+		"Zipcode" : "29418",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "NORTH CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.892950"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29419",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "NORTH CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-080.195143",
+		"Zipcode" : "29420",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "NORTH CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+33.014817"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29422",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29423",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-079.937010",
+		"Zipcode" : "29424",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.783076"
+	},
+	{
+		"Longitude" : "-079.947110",
+		"Zipcode" : "29425",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.786176"
+	},
+	{
+		"Longitude" : "-080.328772",
+		"Zipcode" : "29426",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "ADAMS RUN",
+		"State" : "SC",
+		"Latitude" : "+32.779028"
+	},
+	{
+		"Longitude" : "-079.656119",
+		"Zipcode" : "29429",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "AWENDAW",
+		"State" : "SC",
+		"Latitude" : "+33.006254"
+	},
+	{
+		"Longitude" : "-079.816871",
+		"Zipcode" : "29430",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "BETHERA",
+		"State" : "SC",
+		"Latitude" : "+33.214551"
+	},
+	{
+		"Longitude" : "-079.873606",
+		"Zipcode" : "29431",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "BONNEAU",
+		"State" : "SC",
+		"Latitude" : "+33.270301"
+	},
+	{
+		"Longitude" : "-080.792496",
+		"Zipcode" : "29432",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGEBURG",
+		"City" : "BRANCHVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.272291"
+	},
+	{
+		"Longitude" : "-080.631208",
+		"Zipcode" : "29433",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "CANADYS",
+		"State" : "SC",
+		"Latitude" : "+33.061376"
+	},
+	{
+		"Longitude" : "-079.882580",
+		"Zipcode" : "29434",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "CORDESVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.136208"
+	},
+	{
+		"Longitude" : "-080.426460",
+		"Zipcode" : "29435",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "COTTAGEVILLE",
+		"State" : "SC",
+		"Latitude" : "+32.778856"
+	},
+	{
+		"Longitude" : "-080.123972",
+		"Zipcode" : "29436",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "CROSS",
+		"State" : "SC",
+		"Latitude" : "+33.298903"
+	},
+	{
+		"Longitude" : "-080.493683",
+		"Zipcode" : "29437",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "DORCHESTER",
+		"State" : "SC",
+		"Latitude" : "+33.149750"
+	},
+	{
+		"Longitude" : "-080.307509",
+		"Zipcode" : "29438",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "EDISTO ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.502398"
+	},
+	{
+		"Longitude" : "-079.926970",
+		"Zipcode" : "29439",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHARLESTON",
+		"City" : "FOLLY BEACH",
+		"State" : "SC",
+		"Latitude" : "+32.663043"
+	},
+	{
+		"Longitude" : "-079.367525",
+		"Zipcode" : "29440",
+		"ZipClass" : "STANDARD",
+		"County" : "GEORGETOWN",
+		"City" : "GEORGETOWN",
+		"State" : "SC",
+		"Latitude" : "+33.439327"
+	},
+	{
+		"Longitude" : "-079.226361",
+		"Zipcode" : "29442",
+		"ZipClass" : "STANDARD",
+		"County" : "GEORGETOWN",
+		"City" : "GEORGETOWN",
+		"State" : "SC",
+		"Latitude" : "+33.403693"
+	},
+	{
+		"Longitude" : "-080.010088",
+		"Zipcode" : "29445",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "GOOSE CREEK",
+		"State" : "SC",
+		"Latitude" : "+33.057972"
+	},
+	{
+		"Longitude" : "-080.566105",
+		"Zipcode" : "29446",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "GREEN POND",
+		"State" : "SC",
+		"Latitude" : "+32.656443"
+	},
+	{
+		"Longitude" : "-080.622790",
+		"Zipcode" : "29447",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DORCHESTER",
+		"City" : "GROVER",
+		"State" : "SC",
+		"Latitude" : "+33.086324"
+	},
+	{
+		"Longitude" : "-080.453386",
+		"Zipcode" : "29448",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "HARLEYVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.239304"
+	},
+	{
+		"Longitude" : "-080.274430",
+		"Zipcode" : "29449",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "HOLLYWOOD",
+		"State" : "SC",
+		"Latitude" : "+32.710486"
+	},
+	{
+		"Longitude" : "-079.784137",
+		"Zipcode" : "29450",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "HUGER",
+		"State" : "SC",
+		"Latitude" : "+33.043929"
+	},
+	{
+		"Longitude" : "-079.760516",
+		"Zipcode" : "29451",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "ISLE OF PALMS",
+		"State" : "SC",
+		"Latitude" : "+32.807206"
+	},
+	{
+		"Longitude" : "-080.460935",
+		"Zipcode" : "29452",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLLETON",
+		"City" : "JACKSONBORO",
+		"State" : "SC",
+		"Latitude" : "+32.730451"
+	},
+	{
+		"Longitude" : "-079.714992",
+		"Zipcode" : "29453",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "JAMESTOWN",
+		"State" : "SC",
+		"Latitude" : "+33.183389"
+	},
+	{
+		"Longitude" : "-079.821702",
+		"Zipcode" : "29455",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "JOHNS ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.835713"
+	},
+	{
+		"Longitude" : "-080.107174",
+		"Zipcode" : "29456",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "LADSON",
+		"State" : "SC",
+		"Latitude" : "+33.013170"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29457",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "JOHNS ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-079.507388",
+		"Zipcode" : "29458",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "MC CLELLANVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.119382"
+	},
+	{
+		"Longitude" : "-080.023339",
+		"Zipcode" : "29461",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "MONCKS CORNER",
+		"State" : "SC",
+		"Latitude" : "+33.197118"
+	},
+	{
+		"Longitude" : "-079.820563",
+		"Zipcode" : "29464",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "MOUNT PLEASANT",
+		"State" : "SC",
+		"Latitude" : "+32.847273"
+	},
+	{
+		"Longitude" : "-079.857730",
+		"Zipcode" : "29465",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "MOUNT PLEASANT",
+		"State" : "SC",
+		"Latitude" : "+32.848850"
+	},
+	{
+		"Longitude" : "-079.804893",
+		"Zipcode" : "29466",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "MOUNT PLEASANT",
+		"State" : "SC",
+		"Latitude" : "+32.867373"
+	},
+	{
+		"Longitude" : "-080.071194",
+		"Zipcode" : "29468",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "PINEVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.411753"
+	},
+	{
+		"Longitude" : "-080.098656",
+		"Zipcode" : "29469",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "PINOPOLIS",
+		"State" : "SC",
+		"Latitude" : "+33.245244"
+	},
+	{
+		"Longitude" : "-080.224756",
+		"Zipcode" : "29470",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "RAVENEL",
+		"State" : "SC",
+		"Latitude" : "+32.787774"
+	},
+	{
+		"Longitude" : "-080.660654",
+		"Zipcode" : "29471",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "REEVESVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.172596"
+	},
+	{
+		"Longitude" : "-080.374620",
+		"Zipcode" : "29472",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "RIDGEVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.032573"
+	},
+	{
+		"Longitude" : "-080.595162",
+		"Zipcode" : "29474",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "ROUND O",
+		"State" : "SC",
+		"Latitude" : "+32.846691"
+	},
+	{
+		"Longitude" : "-080.819421",
+		"Zipcode" : "29475",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "RUFFIN",
+		"State" : "SC",
+		"Latitude" : "+32.899004"
+	},
+	{
+		"Longitude" : "-079.904182",
+		"Zipcode" : "29476",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKELEY",
+		"City" : "RUSSELLVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.164201"
+	},
+	{
+		"Longitude" : "-080.478782",
+		"Zipcode" : "29477",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "SAINT GEORGE",
+		"State" : "SC",
+		"Latitude" : "+33.151503"
+	},
+	{
+		"Longitude" : "-079.923640",
+		"Zipcode" : "29479",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "SAINT STEPHEN",
+		"State" : "SC",
+		"Latitude" : "+33.336180"
+	},
+	{
+		"Longitude" : "-080.682465",
+		"Zipcode" : "29481",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "SMOAKS",
+		"State" : "SC",
+		"Latitude" : "+33.098059"
+	},
+	{
+		"Longitude" : "-079.839510",
+		"Zipcode" : "29482",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "SULLIVANS ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.766336"
+	},
+	{
+		"Longitude" : "-080.431751",
+		"Zipcode" : "29483",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "SUMMERVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.040201"
+	},
+	{
+		"Longitude" : "-080.226694",
+		"Zipcode" : "29484",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "SUMMERVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.002340"
+	},
+	{
+		"Longitude" : "-080.329328",
+		"Zipcode" : "29485",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "SUMMERVILLE",
+		"State" : "SC",
+		"Latitude" : "+32.999726"
+	},
+	{
+		"Longitude" : "-080.167357",
+		"Zipcode" : "29487",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLESTON",
+		"City" : "WADMALAW ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.659087"
+	},
+	{
+		"Longitude" : "-080.703213",
+		"Zipcode" : "29488",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "WALTERBORO",
+		"State" : "SC",
+		"Latitude" : "+32.925196"
+	},
+	{
+		"Longitude" : "-079.852835",
+		"Zipcode" : "29492",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "CHARLESTON",
+		"State" : "SC",
+		"Latitude" : "+32.966780"
+	},
+	{
+		"Longitude" : "-080.844520",
+		"Zipcode" : "29493",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLLETON",
+		"City" : "WILLIAMS",
+		"State" : "SC",
+		"Latitude" : "+33.032704"
+	},
+	{
+		"Longitude" : "-079.685361",
+		"Zipcode" : "29501",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "FLORENCE",
+		"State" : "SC",
+		"Latitude" : "+34.049849"
+	},
+	{
+		"Longitude" : "-079.784721",
+		"Zipcode" : "29502",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "FLORENCE",
+		"State" : "SC",
+		"Latitude" : "+34.200994"
+	},
+	{
+		"Longitude" : "-079.650627",
+		"Zipcode" : "29503",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "FLORENCE",
+		"State" : "SC",
+		"Latitude" : "+34.062999"
+	},
+	{
+		"Longitude" : "-079.693294",
+		"Zipcode" : "29504",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "FLORENCE",
+		"State" : "SC",
+		"Latitude" : "+34.041582"
+	},
+	{
+		"Longitude" : "-079.693907",
+		"Zipcode" : "29505",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "FLORENCE",
+		"State" : "SC",
+		"Latitude" : "+34.049881"
+	},
+	{
+		"Longitude" : "-079.622227",
+		"Zipcode" : "29506",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "FLORENCE",
+		"State" : "SC",
+		"Latitude" : "+34.061465"
+	},
+	{
+		"Longitude" : "-079.409083",
+		"Zipcode" : "29510",
+		"ZipClass" : "STANDARD",
+		"County" : "GEORGETOWN",
+		"City" : "ANDREWS",
+		"State" : "SC",
+		"Latitude" : "+33.435562"
+	},
+	{
+		"Longitude" : "-079.041027",
+		"Zipcode" : "29511",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "AYNOR",
+		"State" : "SC",
+		"Latitude" : "+33.939968"
+	},
+	{
+		"Longitude" : "-079.707693",
+		"Zipcode" : "29512",
+		"ZipClass" : "STANDARD",
+		"County" : "MARLBORO",
+		"City" : "BENNETTSVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.598755"
+	},
+	{
+		"Longitude" : "-079.644187",
+		"Zipcode" : "29516",
+		"ZipClass" : "STANDARD",
+		"County" : "MARLBORO",
+		"City" : "BLENHEIM",
+		"State" : "SC",
+		"Latitude" : "+34.517149"
+	},
+	{
+		"Longitude" : "-079.709369",
+		"Zipcode" : "29518",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSBURG",
+		"City" : "CADES",
+		"State" : "SC",
+		"Latitude" : "+33.598355"
+	},
+	{
+		"Longitude" : "-079.353715",
+		"Zipcode" : "29519",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "CENTENARY",
+		"State" : "SC",
+		"Latitude" : "+34.026958"
+	},
+	{
+		"Longitude" : "-079.943741",
+		"Zipcode" : "29520",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTERFIELD",
+		"City" : "CHERAW",
+		"State" : "SC",
+		"Latitude" : "+34.691548"
+	},
+	{
+		"Longitude" : "-079.587852",
+		"Zipcode" : "29525",
+		"ZipClass" : "STANDARD",
+		"County" : "MARLBORO",
+		"City" : "CLIO",
+		"State" : "SC",
+		"Latitude" : "+34.584251"
+	},
+	{
+		"Longitude" : "-078.948287",
+		"Zipcode" : "29526",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "CONWAY",
+		"State" : "SC",
+		"Latitude" : "+33.868775"
+	},
+	{
+		"Longitude" : "-079.022331",
+		"Zipcode" : "29527",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "CONWAY",
+		"State" : "SC",
+		"Latitude" : "+33.823520"
+	},
+	{
+		"Longitude" : "-078.919205",
+		"Zipcode" : "29528",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "CONWAY",
+		"State" : "SC",
+		"Latitude" : "+33.935814"
+	},
+	{
+		"Longitude" : "-079.756816",
+		"Zipcode" : "29530",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "COWARD",
+		"State" : "SC",
+		"Latitude" : "+33.980551"
+	},
+	{
+		"Longitude" : "-079.931655",
+		"Zipcode" : "29532",
+		"ZipClass" : "STANDARD",
+		"County" : "DARLINGTON",
+		"City" : "DARLINGTON",
+		"State" : "SC",
+		"Latitude" : "+34.317738"
+	},
+	{
+		"Longitude" : "-079.341359",
+		"Zipcode" : "29536",
+		"ZipClass" : "STANDARD",
+		"County" : "DILLON",
+		"City" : "DILLON",
+		"State" : "SC",
+		"Latitude" : "+34.422187"
+	},
+	{
+		"Longitude" : "-079.842182",
+		"Zipcode" : "29540",
+		"ZipClass" : "STANDARD",
+		"County" : "DARLINGTON",
+		"City" : "DARLINGTON",
+		"State" : "SC",
+		"Latitude" : "+34.384261"
+	},
+	{
+		"Longitude" : "-079.733541",
+		"Zipcode" : "29541",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "EFFINGHAM",
+		"State" : "SC",
+		"Latitude" : "+34.063272"
+	},
+	{
+		"Longitude" : "-079.352291",
+		"Zipcode" : "29542",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DILLON",
+		"City" : "FLOYD DALE",
+		"State" : "SC",
+		"Latitude" : "+34.425629"
+	},
+	{
+		"Longitude" : "-079.276529",
+		"Zipcode" : "29543",
+		"ZipClass" : "STANDARD",
+		"County" : "DILLON",
+		"City" : "FORK",
+		"State" : "SC",
+		"Latitude" : "+34.375384"
+	},
+	{
+		"Longitude" : "-078.994502",
+		"Zipcode" : "29544",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "GALIVANTS FERRY",
+		"State" : "SC",
+		"Latitude" : "+33.953007"
+	},
+	{
+		"Longitude" : "-078.958922",
+		"Zipcode" : "29545",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "GREEN SEA",
+		"State" : "SC",
+		"Latitude" : "+34.166757"
+	},
+	{
+		"Longitude" : "-079.360418",
+		"Zipcode" : "29546",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "GRESHAM",
+		"State" : "SC",
+		"Latitude" : "+33.952411"
+	},
+	{
+		"Longitude" : "-079.350207",
+		"Zipcode" : "29547",
+		"ZipClass" : "STANDARD",
+		"County" : "DILLON",
+		"City" : "HAMER",
+		"State" : "SC",
+		"Latitude" : "+34.484912"
+	},
+	{
+		"Longitude" : "-080.073953",
+		"Zipcode" : "29550",
+		"ZipClass" : "STANDARD",
+		"County" : "DARLINGTON",
+		"City" : "HARTSVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.345106"
+	},
+	{
+		"Longitude" : "-080.132418",
+		"Zipcode" : "29551",
+		"ZipClass" : "STANDARD",
+		"County" : "DARLINGTON",
+		"City" : "HARTSVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.365898"
+	},
+	{
+		"Longitude" : "-079.430945",
+		"Zipcode" : "29554",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSBURG",
+		"City" : "HEMINGWAY",
+		"State" : "SC",
+		"Latitude" : "+33.732071"
+	},
+	{
+		"Longitude" : "-079.489745",
+		"Zipcode" : "29555",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "JOHNSONVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.886864"
+	},
+	{
+		"Longitude" : "-079.837756",
+		"Zipcode" : "29556",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSBURG",
+		"City" : "KINGSTREE",
+		"State" : "SC",
+		"Latitude" : "+33.663869"
+	},
+	{
+		"Longitude" : "-079.743104",
+		"Zipcode" : "29560",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "LAKE CITY",
+		"State" : "SC",
+		"Latitude" : "+33.908371"
+	},
+	{
+		"Longitude" : "-079.240676",
+		"Zipcode" : "29563",
+		"ZipClass" : "STANDARD",
+		"County" : "DILLON",
+		"City" : "LAKE VIEW",
+		"State" : "SC",
+		"Latitude" : "+34.350121"
+	},
+	{
+		"Longitude" : "-079.709369",
+		"Zipcode" : "29564",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSBURG",
+		"City" : "LANE",
+		"State" : "SC",
+		"Latitude" : "+33.598355"
+	},
+	{
+		"Longitude" : "-079.478122",
+		"Zipcode" : "29565",
+		"ZipClass" : "STANDARD",
+		"County" : "DILLON",
+		"City" : "LATTA",
+		"State" : "SC",
+		"Latitude" : "+34.384337"
+	},
+	{
+		"Longitude" : "-078.758018",
+		"Zipcode" : "29566",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "LITTLE RIVER",
+		"State" : "SC",
+		"Latitude" : "+33.816472"
+	},
+	{
+		"Longitude" : "-079.348165",
+		"Zipcode" : "29567",
+		"ZipClass" : "STANDARD",
+		"County" : "DILLON",
+		"City" : "LITTLE ROCK",
+		"State" : "SC",
+		"Latitude" : "+34.495502"
+	},
+	{
+		"Longitude" : "-078.885268",
+		"Zipcode" : "29568",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "LONGS",
+		"State" : "SC",
+		"Latitude" : "+33.833574"
+	},
+	{
+		"Longitude" : "-078.918109",
+		"Zipcode" : "29569",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "LORIS",
+		"State" : "SC",
+		"Latitude" : "+33.977392"
+	},
+	{
+		"Longitude" : "-079.555879",
+		"Zipcode" : "29570",
+		"ZipClass" : "STANDARD",
+		"County" : "MARLBORO",
+		"City" : "MC COLL",
+		"State" : "SC",
+		"Latitude" : "+34.686733"
+	},
+	{
+		"Longitude" : "-079.363948",
+		"Zipcode" : "29571",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "MARION",
+		"State" : "SC",
+		"Latitude" : "+34.164144"
+	},
+	{
+		"Longitude" : "-078.852005",
+		"Zipcode" : "29572",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.711741"
+	},
+	{
+		"Longitude" : "-079.476859",
+		"Zipcode" : "29573",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DILLON",
+		"City" : "MINTURN",
+		"State" : "SC",
+		"Latitude" : "+34.488255"
+	},
+	{
+		"Longitude" : "-079.273221",
+		"Zipcode" : "29574",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "MULLINS",
+		"State" : "SC",
+		"Latitude" : "+34.159262"
+	},
+	{
+		"Longitude" : "-078.907599",
+		"Zipcode" : "29575",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.757700"
+	},
+	{
+		"Longitude" : "-079.048220",
+		"Zipcode" : "29576",
+		"ZipClass" : "STANDARD",
+		"County" : "GEORGETOWN",
+		"City" : "MURRELLS INLET",
+		"State" : "SC",
+		"Latitude" : "+33.529642"
+	},
+	{
+		"Longitude" : "-078.969180",
+		"Zipcode" : "29577",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.788817"
+	},
+	{
+		"Longitude" : "-078.999561",
+		"Zipcode" : "29578",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.738887"
+	},
+	{
+		"Longitude" : "-078.978653",
+		"Zipcode" : "29579",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.737697"
+	},
+	{
+		"Longitude" : "-079.709369",
+		"Zipcode" : "29580",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSBURG",
+		"City" : "NESMITH",
+		"State" : "SC",
+		"Latitude" : "+33.598355"
+	},
+	{
+		"Longitude" : "-079.102314",
+		"Zipcode" : "29581",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "NICHOLS",
+		"State" : "SC",
+		"Latitude" : "+34.000746"
+	},
+	{
+		"Longitude" : "-078.771832",
+		"Zipcode" : "29582",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "NORTH MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.770465"
+	},
+	{
+		"Longitude" : "-079.599170",
+		"Zipcode" : "29583",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "PAMPLICO",
+		"State" : "SC",
+		"Latitude" : "+33.972437"
+	},
+	{
+		"Longitude" : "-080.170691",
+		"Zipcode" : "29584",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTERFIELD",
+		"City" : "PATRICK",
+		"State" : "SC",
+		"Latitude" : "+34.591849"
+	},
+	{
+		"Longitude" : "-079.183904",
+		"Zipcode" : "29585",
+		"ZipClass" : "STANDARD",
+		"County" : "GEORGETOWN",
+		"City" : "PAWLEYS ISLAND",
+		"State" : "SC",
+		"Latitude" : "+33.464107"
+	},
+	{
+		"Longitude" : "-078.963155",
+		"Zipcode" : "29587",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.621094"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "29588",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-079.322116",
+		"Zipcode" : "29589",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "RAINS",
+		"State" : "SC",
+		"Latitude" : "+34.105265"
+	},
+	{
+		"Longitude" : "-079.709369",
+		"Zipcode" : "29590",
+		"ZipClass" : "STANDARD",
+		"County" : "WILLIAMSBURG",
+		"City" : "SALTERS",
+		"State" : "SC",
+		"Latitude" : "+33.598355"
+	},
+	{
+		"Longitude" : "-079.769899",
+		"Zipcode" : "29591",
+		"ZipClass" : "STANDARD",
+		"County" : "FLORENCE",
+		"City" : "SCRANTON",
+		"State" : "SC",
+		"Latitude" : "+33.937275"
+	},
+	{
+		"Longitude" : "-079.478292",
+		"Zipcode" : "29592",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SELLERS",
+		"State" : "SC",
+		"Latitude" : "+34.258011"
+	},
+	{
+		"Longitude" : "-079.880497",
+		"Zipcode" : "29593",
+		"ZipClass" : "STANDARD",
+		"County" : "DARLINGTON",
+		"City" : "SOCIETY HILL",
+		"State" : "SC",
+		"Latitude" : "+34.442018"
+	},
+	{
+		"Longitude" : "-079.586895",
+		"Zipcode" : "29594",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARLBORO",
+		"City" : "TATUM",
+		"State" : "SC",
+		"Latitude" : "+34.640510"
+	},
+	{
+		"Longitude" : "-079.829665",
+		"Zipcode" : "29596",
+		"ZipClass" : "STANDARD",
+		"County" : "MARLBORO",
+		"City" : "WALLACE",
+		"State" : "SC",
+		"Latitude" : "+34.732322"
+	},
+	{
+		"Longitude" : "-078.971795",
+		"Zipcode" : "29597",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "NORTH MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.785803"
+	},
+	{
+		"Longitude" : "-078.919205",
+		"Zipcode" : "29598",
+		"ZipClass" : "STANDARD",
+		"County" : "HORRY",
+		"City" : "NORTH MYRTLE BEACH",
+		"State" : "SC",
+		"Latitude" : "+33.935814"
+	},
+	{
+		"Longitude" : "-082.402871",
+		"Zipcode" : "29601",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.848567"
+	},
+	{
+		"Longitude" : "-082.395594",
+		"Zipcode" : "29602",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.800718"
+	},
+	{
+		"Longitude" : "-082.371519",
+		"Zipcode" : "29603",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.837666"
+	},
+	{
+		"Longitude" : "-082.453779",
+		"Zipcode" : "29604",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.849745"
+	},
+	{
+		"Longitude" : "-082.374371",
+		"Zipcode" : "29605",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.772107"
+	},
+	{
+		"Longitude" : "-082.453779",
+		"Zipcode" : "29606",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.849745"
+	},
+	{
+		"Longitude" : "-082.384232",
+		"Zipcode" : "29607",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.909132"
+	},
+	{
+		"Longitude" : "-082.453779",
+		"Zipcode" : "29608",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.849745"
+	},
+	{
+		"Longitude" : "-082.386943",
+		"Zipcode" : "29609",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.902126"
+	},
+	{
+		"Longitude" : "-082.453779",
+		"Zipcode" : "29610",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.849745"
+	},
+	{
+		"Longitude" : "-082.420851",
+		"Zipcode" : "29611",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.838890"
+	},
+	{
+		"Longitude" : "-082.453779",
+		"Zipcode" : "29612",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.849745"
+	},
+	{
+		"Longitude" : "-082.433132",
+		"Zipcode" : "29613",
+		"ZipClass" : "UNIQUE",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.924876"
+	},
+	{
+		"Longitude" : "-082.362585",
+		"Zipcode" : "29614",
+		"ZipClass" : "UNIQUE",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.872423"
+	},
+	{
+		"Longitude" : "-082.358999",
+		"Zipcode" : "29615",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.938893"
+	},
+	{
+		"Longitude" : "-082.453779",
+		"Zipcode" : "29616",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.849745"
+	},
+	{
+		"Longitude" : "-082.465633",
+		"Zipcode" : "29617",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.955463"
+	},
+	{
+		"Longitude" : "-082.446307",
+		"Zipcode" : "29620",
+		"ZipClass" : "STANDARD",
+		"County" : "ABBEVILLE",
+		"City" : "ABBEVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.215714"
+	},
+	{
+		"Longitude" : "-082.638297",
+		"Zipcode" : "29621",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "ANDERSON",
+		"State" : "SC",
+		"Latitude" : "+34.492718"
+	},
+	{
+		"Longitude" : "-082.782868",
+		"Zipcode" : "29622",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "ANDERSON",
+		"State" : "SC",
+		"Latitude" : "+34.491988"
+	},
+	{
+		"Longitude" : "-082.835449",
+		"Zipcode" : "29623",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "ANDERSON",
+		"State" : "SC",
+		"Latitude" : "+34.438087"
+	},
+	{
+		"Longitude" : "-082.708334",
+		"Zipcode" : "29624",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "ANDERSON",
+		"State" : "SC",
+		"Latitude" : "+34.512360"
+	},
+	{
+		"Longitude" : "-082.685702",
+		"Zipcode" : "29625",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "ANDERSON",
+		"State" : "SC",
+		"Latitude" : "+34.468005"
+	},
+	{
+		"Longitude" : "-082.705099",
+		"Zipcode" : "29626",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "ANDERSON",
+		"State" : "SC",
+		"Latitude" : "+34.415763"
+	},
+	{
+		"Longitude" : "-082.569083",
+		"Zipcode" : "29627",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "BELTON",
+		"State" : "SC",
+		"Latitude" : "+34.492422"
+	},
+	{
+		"Longitude" : "-082.490284",
+		"Zipcode" : "29628",
+		"ZipClass" : "STANDARD",
+		"County" : "ABBEVILLE",
+		"City" : "CALHOUN FALLS",
+		"State" : "SC",
+		"Latitude" : "+34.191846"
+	},
+	{
+		"Longitude" : "-082.797267",
+		"Zipcode" : "29630",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "CENTRAL",
+		"State" : "SC",
+		"Latitude" : "+34.744649"
+	},
+	{
+		"Longitude" : "-082.802154",
+		"Zipcode" : "29631",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "CLEMSON",
+		"State" : "SC",
+		"Latitude" : "+34.759740"
+	},
+	{
+		"Longitude" : "-082.710126",
+		"Zipcode" : "29632",
+		"ZipClass" : "UNIQUE",
+		"County" : "PICKENS",
+		"City" : "CLEMSON",
+		"State" : "SC",
+		"Latitude" : "+34.847372"
+	},
+	{
+		"Longitude" : "-082.710126",
+		"Zipcode" : "29633",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "CLEMSON",
+		"State" : "SC",
+		"Latitude" : "+34.847372"
+	},
+	{
+		"Longitude" : "-082.710126",
+		"Zipcode" : "29634",
+		"ZipClass" : "UNIQUE",
+		"County" : "PICKENS",
+		"City" : "CLEMSON",
+		"State" : "SC",
+		"Latitude" : "+34.847372"
+	},
+	{
+		"Longitude" : "-082.507625",
+		"Zipcode" : "29635",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "CLEVELAND",
+		"State" : "SC",
+		"Latitude" : "+35.078914"
+	},
+	{
+		"Longitude" : "-082.453779",
+		"Zipcode" : "29636",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENVILLE",
+		"City" : "CONESTEE",
+		"State" : "SC",
+		"Latitude" : "+34.849745"
+	},
+	{
+		"Longitude" : "-082.336693",
+		"Zipcode" : "29638",
+		"ZipClass" : "STANDARD",
+		"County" : "ABBEVILLE",
+		"City" : "DONALDS",
+		"State" : "SC",
+		"Latitude" : "+34.330362"
+	},
+	{
+		"Longitude" : "-082.430787",
+		"Zipcode" : "29639",
+		"ZipClass" : "STANDARD",
+		"County" : "ABBEVILLE",
+		"City" : "DUE WEST",
+		"State" : "SC",
+		"Latitude" : "+34.326755"
+	},
+	{
+		"Longitude" : "-082.643754",
+		"Zipcode" : "29640",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "EASLEY",
+		"State" : "SC",
+		"Latitude" : "+34.843968"
+	},
+	{
+		"Longitude" : "-082.653067",
+		"Zipcode" : "29641",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "EASLEY",
+		"State" : "SC",
+		"Latitude" : "+34.813542"
+	},
+	{
+		"Longitude" : "-082.593723",
+		"Zipcode" : "29642",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "EASLEY",
+		"State" : "SC",
+		"Latitude" : "+34.790129"
+	},
+	{
+		"Longitude" : "-083.029707",
+		"Zipcode" : "29643",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "FAIR PLAY",
+		"State" : "SC",
+		"Latitude" : "+34.542683"
+	},
+	{
+		"Longitude" : "-082.244100",
+		"Zipcode" : "29644",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "FOUNTAIN INN",
+		"State" : "SC",
+		"Latitude" : "+34.657810"
+	},
+	{
+		"Longitude" : "-082.114703",
+		"Zipcode" : "29645",
+		"ZipClass" : "STANDARD",
+		"County" : "LAURENS",
+		"City" : "GRAY COURT",
+		"State" : "SC",
+		"Latitude" : "+34.595311"
+	},
+	{
+		"Longitude" : "-082.128301",
+		"Zipcode" : "29646",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "GREENWOOD",
+		"State" : "SC",
+		"Latitude" : "+34.114209"
+	},
+	{
+		"Longitude" : "-082.163078",
+		"Zipcode" : "29647",
+		"ZipClass" : "UNIQUE",
+		"County" : "GREENWOOD",
+		"City" : "GREENWOOD",
+		"State" : "SC",
+		"Latitude" : "+34.178813"
+	},
+	{
+		"Longitude" : "-082.168139",
+		"Zipcode" : "29648",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "GREENWOOD",
+		"State" : "SC",
+		"Latitude" : "+34.212410"
+	},
+	{
+		"Longitude" : "-082.154473",
+		"Zipcode" : "29649",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "GREENWOOD",
+		"State" : "SC",
+		"Latitude" : "+34.290916"
+	},
+	{
+		"Longitude" : "-082.368415",
+		"Zipcode" : "29650",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREER",
+		"State" : "SC",
+		"Latitude" : "+34.948738"
+	},
+	{
+		"Longitude" : "-082.330093",
+		"Zipcode" : "29651",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREER",
+		"State" : "SC",
+		"Latitude" : "+34.962338"
+	},
+	{
+		"Longitude" : "-082.453779",
+		"Zipcode" : "29652",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "GREER",
+		"State" : "SC",
+		"Latitude" : "+34.849745"
+	},
+	{
+		"Longitude" : "-082.213920",
+		"Zipcode" : "29653",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "HODGES",
+		"State" : "SC",
+		"Latitude" : "+34.274203"
+	},
+	{
+		"Longitude" : "-082.508821",
+		"Zipcode" : "29654",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "HONEA PATH",
+		"State" : "SC",
+		"Latitude" : "+34.416329"
+	},
+	{
+		"Longitude" : "-082.608768",
+		"Zipcode" : "29655",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "IVA",
+		"State" : "SC",
+		"Latitude" : "+34.420766"
+	},
+	{
+		"Longitude" : "-082.765393",
+		"Zipcode" : "29656",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANDERSON",
+		"City" : "LA FRANCE",
+		"State" : "SC",
+		"Latitude" : "+34.625157"
+	},
+	{
+		"Longitude" : "-082.709370",
+		"Zipcode" : "29657",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "LIBERTY",
+		"State" : "SC",
+		"Latitude" : "+34.783697"
+	},
+	{
+		"Longitude" : "-083.277599",
+		"Zipcode" : "29658",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "LONG CREEK",
+		"State" : "SC",
+		"Latitude" : "+34.763442"
+	},
+	{
+		"Longitude" : "-082.631810",
+		"Zipcode" : "29659",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ABBEVILLE",
+		"City" : "LOWNDESVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.221282"
+	},
+	{
+		"Longitude" : "-082.531215",
+		"Zipcode" : "29661",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "MARIETTA",
+		"State" : "SC",
+		"Latitude" : "+35.071605"
+	},
+	{
+		"Longitude" : "-082.267062",
+		"Zipcode" : "29662",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "MAULDIN",
+		"State" : "SC",
+		"Latitude" : "+34.750238"
+	},
+	{
+		"Longitude" : "-083.191276",
+		"Zipcode" : "29664",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "MOUNTAIN REST",
+		"State" : "SC",
+		"Latitude" : "+34.856560"
+	},
+	{
+		"Longitude" : "-082.910578",
+		"Zipcode" : "29665",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OCONEE",
+		"City" : "NEWRY",
+		"State" : "SC",
+		"Latitude" : "+34.724743"
+	},
+	{
+		"Longitude" : "-081.998485",
+		"Zipcode" : "29666",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "NINETY SIX",
+		"State" : "SC",
+		"Latitude" : "+34.119292"
+	},
+	{
+		"Longitude" : "-082.764780",
+		"Zipcode" : "29667",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "NORRIS",
+		"State" : "SC",
+		"Latitude" : "+34.764198"
+	},
+	{
+		"Longitude" : "-082.535325",
+		"Zipcode" : "29669",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "PELZER",
+		"State" : "SC",
+		"Latitude" : "+34.656799"
+	},
+	{
+		"Longitude" : "-082.597346",
+		"Zipcode" : "29670",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "PENDLETON",
+		"State" : "SC",
+		"Latitude" : "+34.608943"
+	},
+	{
+		"Longitude" : "-082.712484",
+		"Zipcode" : "29671",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "PICKENS",
+		"State" : "SC",
+		"Latitude" : "+34.873784"
+	},
+	{
+		"Longitude" : "-082.945651",
+		"Zipcode" : "29672",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "SENECA",
+		"State" : "SC",
+		"Latitude" : "+34.773984"
+	},
+	{
+		"Longitude" : "-082.392453",
+		"Zipcode" : "29673",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "PIEDMONT",
+		"State" : "SC",
+		"Latitude" : "+34.722090"
+	},
+	{
+		"Longitude" : "-083.088332",
+		"Zipcode" : "29675",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OCONEE",
+		"City" : "RICHLAND",
+		"State" : "SC",
+		"Latitude" : "+34.764076"
+	},
+	{
+		"Longitude" : "-082.976580",
+		"Zipcode" : "29676",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "SALEM",
+		"State" : "SC",
+		"Latitude" : "+34.866881"
+	},
+	{
+		"Longitude" : "-082.756844",
+		"Zipcode" : "29677",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANDERSON",
+		"City" : "SANDY SPRINGS",
+		"State" : "SC",
+		"Latitude" : "+34.597550"
+	},
+	{
+		"Longitude" : "-082.963909",
+		"Zipcode" : "29678",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "SENECA",
+		"State" : "SC",
+		"Latitude" : "+34.715679"
+	},
+	{
+		"Longitude" : "-082.939668",
+		"Zipcode" : "29679",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "SENECA",
+		"State" : "SC",
+		"Latitude" : "+34.607898"
+	},
+	{
+		"Longitude" : "-082.289322",
+		"Zipcode" : "29680",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "SIMPSONVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.696203"
+	},
+	{
+		"Longitude" : "-082.266734",
+		"Zipcode" : "29681",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "SIMPSONVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.807280"
+	},
+	{
+		"Longitude" : "-082.825562",
+		"Zipcode" : "29682",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "SIX MILE",
+		"State" : "SC",
+		"Latitude" : "+34.837186"
+	},
+	{
+		"Longitude" : "-082.494068",
+		"Zipcode" : "29683",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENVILLE",
+		"City" : "SLATER",
+		"State" : "SC",
+		"Latitude" : "+35.028924"
+	},
+	{
+		"Longitude" : "-082.660151",
+		"Zipcode" : "29684",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "STARR",
+		"State" : "SC",
+		"Latitude" : "+34.409132"
+	},
+	{
+		"Longitude" : "-082.784806",
+		"Zipcode" : "29685",
+		"ZipClass" : "STANDARD",
+		"County" : "PICKENS",
+		"City" : "SUNSET",
+		"State" : "SC",
+		"Latitude" : "+34.977961"
+	},
+	{
+		"Longitude" : "-083.037482",
+		"Zipcode" : "29686",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "TAMASSEE",
+		"State" : "SC",
+		"Latitude" : "+34.897008"
+	},
+	{
+		"Longitude" : "-082.381560",
+		"Zipcode" : "29687",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "TAYLORS",
+		"State" : "SC",
+		"Latitude" : "+34.970915"
+	},
+	{
+		"Longitude" : "-082.353038",
+		"Zipcode" : "29688",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENVILLE",
+		"City" : "TIGERVILLE",
+		"State" : "SC",
+		"Latitude" : "+35.047684"
+	},
+	{
+		"Longitude" : "-082.892202",
+		"Zipcode" : "29689",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "TOWNVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.533588"
+	},
+	{
+		"Longitude" : "-082.374186",
+		"Zipcode" : "29690",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENVILLE",
+		"City" : "TRAVELERS REST",
+		"State" : "SC",
+		"Latitude" : "+35.071632"
+	},
+	{
+		"Longitude" : "-083.067197",
+		"Zipcode" : "29691",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "WALHALLA",
+		"State" : "SC",
+		"Latitude" : "+34.845676"
+	},
+	{
+		"Longitude" : "-082.248844",
+		"Zipcode" : "29692",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "WARE SHOALS",
+		"State" : "SC",
+		"Latitude" : "+34.388579"
+	},
+	{
+		"Longitude" : "-083.153509",
+		"Zipcode" : "29693",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "WESTMINSTER",
+		"State" : "SC",
+		"Latitude" : "+34.696493"
+	},
+	{
+		"Longitude" : "-082.304658",
+		"Zipcode" : "29695",
+		"ZipClass" : "UNIQUE",
+		"County" : "GREENWOOD",
+		"City" : "HODGES",
+		"State" : "SC",
+		"Latitude" : "+34.218582"
+	},
+	{
+		"Longitude" : "-083.035205",
+		"Zipcode" : "29696",
+		"ZipClass" : "STANDARD",
+		"County" : "OCONEE",
+		"City" : "WEST UNION",
+		"State" : "SC",
+		"Latitude" : "+34.703943"
+	},
+	{
+		"Longitude" : "-082.612123",
+		"Zipcode" : "29697",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "WILLIAMSTON",
+		"State" : "SC",
+		"Latitude" : "+34.553642"
+	},
+	{
+		"Longitude" : "-081.969020",
+		"Zipcode" : "29698",
+		"ZipClass" : "UNIQUE",
+		"County" : "SPARTANBURG",
+		"City" : "GREENVILLE",
+		"State" : "SC",
+		"Latitude" : "+34.888237"
+	},
+	{
+		"Longitude" : "-081.494193",
+		"Zipcode" : "29702",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "BLACKSBURG",
+		"State" : "SC",
+		"Latitude" : "+35.109530"
+	},
+	{
+		"Longitude" : "-081.178712",
+		"Zipcode" : "29703",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YORK",
+		"City" : "BOWLING GREEN",
+		"State" : "SC",
+		"Latitude" : "+34.992612"
+	},
+	{
+		"Longitude" : "-080.938257",
+		"Zipcode" : "29704",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "CATAWBA",
+		"State" : "SC",
+		"Latitude" : "+34.859604"
+	},
+	{
+		"Longitude" : "-081.168022",
+		"Zipcode" : "29706",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "CHESTER",
+		"State" : "SC",
+		"Latitude" : "+34.693285"
+	},
+	{
+		"Longitude" : "-080.990828",
+		"Zipcode" : "29708",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "FORT MILL",
+		"State" : "SC",
+		"Latitude" : "+35.050243"
+	},
+	{
+		"Longitude" : "-080.129515",
+		"Zipcode" : "29709",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTERFIELD",
+		"City" : "CHESTERFIELD",
+		"State" : "SC",
+		"Latitude" : "+34.755564"
+	},
+	{
+		"Longitude" : "-081.165152",
+		"Zipcode" : "29710",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "CLOVER",
+		"State" : "SC",
+		"Latitude" : "+35.035952"
+	},
+	{
+		"Longitude" : "-080.996122",
+		"Zipcode" : "29712",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "EDGEMOOR",
+		"State" : "SC",
+		"Latitude" : "+34.778195"
+	},
+	{
+		"Longitude" : "-080.943356",
+		"Zipcode" : "29714",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "FORT LAWN",
+		"State" : "SC",
+		"Latitude" : "+34.696331"
+	},
+	{
+		"Longitude" : "-081.155211",
+		"Zipcode" : "29715",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "FORT MILL",
+		"State" : "SC",
+		"Latitude" : "+34.987625"
+	},
+	{
+		"Longitude" : "-080.969035",
+		"Zipcode" : "29716",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "FORT MILL",
+		"State" : "SC",
+		"Latitude" : "+35.062815"
+	},
+	{
+		"Longitude" : "-081.433448",
+		"Zipcode" : "29717",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "HICKORY GROVE",
+		"State" : "SC",
+		"Latitude" : "+34.963339"
+	},
+	{
+		"Longitude" : "-080.392891",
+		"Zipcode" : "29718",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTERFIELD",
+		"City" : "JEFFERSON",
+		"State" : "SC",
+		"Latitude" : "+34.711540"
+	},
+	{
+		"Longitude" : "-080.683935",
+		"Zipcode" : "29720",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LANCASTER",
+		"State" : "SC",
+		"Latitude" : "+34.717915"
+	},
+	{
+		"Longitude" : "-080.781721",
+		"Zipcode" : "29721",
+		"ZipClass" : "STANDARD",
+		"County" : "LANCASTER",
+		"City" : "LANCASTER",
+		"State" : "SC",
+		"Latitude" : "+34.699412"
+	},
+	{
+		"Longitude" : "-080.658932",
+		"Zipcode" : "29722",
+		"ZipClass" : "UNIQUE",
+		"County" : "LANCASTER",
+		"City" : "LANCASTER",
+		"State" : "SC",
+		"Latitude" : "+34.767269"
+	},
+	{
+		"Longitude" : "-081.022816",
+		"Zipcode" : "29724",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHESTER",
+		"City" : "LANDO",
+		"State" : "SC",
+		"Latitude" : "+34.775302"
+	},
+	{
+		"Longitude" : "-081.227432",
+		"Zipcode" : "29726",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "MC CONNELLS",
+		"State" : "SC",
+		"Latitude" : "+34.859857"
+	},
+	{
+		"Longitude" : "-080.170691",
+		"Zipcode" : "29727",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTERFIELD",
+		"City" : "MOUNT CROGHAN",
+		"State" : "SC",
+		"Latitude" : "+34.591849"
+	},
+	{
+		"Longitude" : "-080.375100",
+		"Zipcode" : "29728",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTERFIELD",
+		"City" : "PAGELAND",
+		"State" : "SC",
+		"Latitude" : "+34.768882"
+	},
+	{
+		"Longitude" : "-081.003877",
+		"Zipcode" : "29729",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTER",
+		"City" : "RICHBURG",
+		"State" : "SC",
+		"Latitude" : "+34.692493"
+	},
+	{
+		"Longitude" : "-081.052437",
+		"Zipcode" : "29730",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "ROCK HILL",
+		"State" : "SC",
+		"Latitude" : "+34.909109"
+	},
+	{
+		"Longitude" : "-081.178712",
+		"Zipcode" : "29731",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "ROCK HILL",
+		"State" : "SC",
+		"Latitude" : "+34.992612"
+	},
+	{
+		"Longitude" : "-081.092227",
+		"Zipcode" : "29732",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "ROCK HILL",
+		"State" : "SC",
+		"Latitude" : "+34.937706"
+	},
+	{
+		"Longitude" : "-081.178712",
+		"Zipcode" : "29733",
+		"ZipClass" : "UNIQUE",
+		"County" : "YORK",
+		"City" : "ROCK HILL",
+		"State" : "SC",
+		"Latitude" : "+34.992612"
+	},
+	{
+		"Longitude" : "-081.178712",
+		"Zipcode" : "29734",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "ROCK HILL",
+		"State" : "SC",
+		"Latitude" : "+34.992612"
+	},
+	{
+		"Longitude" : "-080.189610",
+		"Zipcode" : "29741",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESTERFIELD",
+		"City" : "RUBY",
+		"State" : "SC",
+		"Latitude" : "+34.721259"
+	},
+	{
+		"Longitude" : "-081.338537",
+		"Zipcode" : "29742",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "SHARON",
+		"State" : "SC",
+		"Latitude" : "+34.932788"
+	},
+	{
+		"Longitude" : "-081.407268",
+		"Zipcode" : "29743",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "SMYRNA",
+		"State" : "SC",
+		"Latitude" : "+35.025155"
+	},
+	{
+		"Longitude" : "-080.851836",
+		"Zipcode" : "29744",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LANCASTER",
+		"City" : "VAN WYCK",
+		"State" : "SC",
+		"Latitude" : "+34.973866"
+	},
+	{
+		"Longitude" : "-081.208605",
+		"Zipcode" : "29745",
+		"ZipClass" : "STANDARD",
+		"County" : "YORK",
+		"City" : "YORK",
+		"State" : "SC",
+		"Latitude" : "+34.991814"
+	},
+	{
+		"Longitude" : "-081.695880",
+		"Zipcode" : "29801",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "AIKEN",
+		"State" : "SC",
+		"Latitude" : "+33.554433"
+	},
+	{
+		"Longitude" : "-081.590720",
+		"Zipcode" : "29802",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "AIKEN",
+		"State" : "SC",
+		"Latitude" : "+33.723519"
+	},
+	{
+		"Longitude" : "-081.695053",
+		"Zipcode" : "29803",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "AIKEN",
+		"State" : "SC",
+		"Latitude" : "+33.505914"
+	},
+	{
+		"Longitude" : "-081.599891",
+		"Zipcode" : "29804",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "AIKEN",
+		"State" : "SC",
+		"Latitude" : "+33.537730"
+	},
+	{
+		"Longitude" : "-081.646528",
+		"Zipcode" : "29805",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "AIKEN",
+		"State" : "SC",
+		"Latitude" : "+33.699335"
+	},
+	{
+		"Longitude" : "-081.599891",
+		"Zipcode" : "29808",
+		"ZipClass" : "UNIQUE",
+		"County" : "AIKEN",
+		"City" : "AIKEN",
+		"State" : "SC",
+		"Latitude" : "+33.537730"
+	},
+	{
+		"Longitude" : "-081.689951",
+		"Zipcode" : "29809",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "NEW ELLENTON",
+		"State" : "SC",
+		"Latitude" : "+33.413029"
+	},
+	{
+		"Longitude" : "-081.287561",
+		"Zipcode" : "29810",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLENDALE",
+		"City" : "ALLENDALE",
+		"State" : "SC",
+		"Latitude" : "+32.990158"
+	},
+	{
+		"Longitude" : "-081.349595",
+		"Zipcode" : "29812",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNWELL",
+		"City" : "BARNWELL",
+		"State" : "SC",
+		"Latitude" : "+33.249806"
+	},
+	{
+		"Longitude" : "-081.482658",
+		"Zipcode" : "29813",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNWELL",
+		"City" : "HILDA",
+		"State" : "SC",
+		"Latitude" : "+33.291666"
+	},
+	{
+		"Longitude" : "-081.850871",
+		"Zipcode" : "29816",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AIKEN",
+		"City" : "BATH",
+		"State" : "SC",
+		"Latitude" : "+33.496998"
+	},
+	{
+		"Longitude" : "-081.297510",
+		"Zipcode" : "29817",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNWELL",
+		"City" : "BLACKVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.363819"
+	},
+	{
+		"Longitude" : "-082.201429",
+		"Zipcode" : "29819",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "BRADLEY",
+		"State" : "SC",
+		"Latitude" : "+34.059884"
+	},
+	{
+		"Longitude" : "-082.132655",
+		"Zipcode" : "29821",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCORMICK",
+		"City" : "CLARKS HILL",
+		"State" : "SC",
+		"Latitude" : "+33.623057"
+	},
+	{
+		"Longitude" : "-081.864850",
+		"Zipcode" : "29822",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AIKEN",
+		"City" : "CLEARWATER",
+		"State" : "SC",
+		"Latitude" : "+33.499656"
+	},
+	{
+		"Longitude" : "-081.987524",
+		"Zipcode" : "29824",
+		"ZipClass" : "STANDARD",
+		"County" : "EDGEFIELD",
+		"City" : "EDGEFIELD",
+		"State" : "SC",
+		"Latitude" : "+33.767808"
+	},
+	{
+		"Longitude" : "-081.378496",
+		"Zipcode" : "29826",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNWELL",
+		"City" : "ELKO",
+		"State" : "SC",
+		"Latitude" : "+33.385990"
+	},
+	{
+		"Longitude" : "-081.249224",
+		"Zipcode" : "29827",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLENDALE",
+		"City" : "FAIRFAX",
+		"State" : "SC",
+		"Latitude" : "+32.959892"
+	},
+	{
+		"Longitude" : "-081.827708",
+		"Zipcode" : "29828",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "GLOVERVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.518235"
+	},
+	{
+		"Longitude" : "-081.792870",
+		"Zipcode" : "29829",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "GRANITEVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.641442"
+	},
+	{
+		"Longitude" : "-081.724702",
+		"Zipcode" : "29831",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "JACKSON",
+		"State" : "SC",
+		"Latitude" : "+33.421714"
+	},
+	{
+		"Longitude" : "-081.818415",
+		"Zipcode" : "29832",
+		"ZipClass" : "STANDARD",
+		"County" : "EDGEFIELD",
+		"City" : "JOHNSTON",
+		"State" : "SC",
+		"Latitude" : "+33.783177"
+	},
+	{
+		"Longitude" : "-081.844485",
+		"Zipcode" : "29834",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AIKEN",
+		"City" : "LANGLEY",
+		"State" : "SC",
+		"Latitude" : "+33.497937"
+	},
+	{
+		"Longitude" : "-082.260861",
+		"Zipcode" : "29835",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCORMICK",
+		"City" : "MC CORMICK",
+		"State" : "SC",
+		"Latitude" : "+33.893238"
+	},
+	{
+		"Longitude" : "-081.348337",
+		"Zipcode" : "29836",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLENDALE",
+		"City" : "MARTIN",
+		"State" : "SC",
+		"Latitude" : "+32.951573"
+	},
+	{
+		"Longitude" : "-082.218723",
+		"Zipcode" : "29838",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCORMICK",
+		"City" : "MODOC",
+		"State" : "SC",
+		"Latitude" : "+33.705234"
+	},
+	{
+		"Longitude" : "-081.599198",
+		"Zipcode" : "29839",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AIKEN",
+		"City" : "MONTMORENCI",
+		"State" : "SC",
+		"Latitude" : "+33.507335"
+	},
+	{
+		"Longitude" : "-082.319983",
+		"Zipcode" : "29840",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCORMICK",
+		"City" : "MOUNT CARMEL",
+		"State" : "SC",
+		"Latitude" : "+33.835620"
+	},
+	{
+		"Longitude" : "-081.739059",
+		"Zipcode" : "29841",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "NORTH AUGUSTA",
+		"State" : "SC",
+		"Latitude" : "+33.466705"
+	},
+	{
+		"Longitude" : "-081.863900",
+		"Zipcode" : "29842",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "BEECH ISLAND",
+		"State" : "SC",
+		"Latitude" : "+33.470747"
+	},
+	{
+		"Longitude" : "-081.182699",
+		"Zipcode" : "29843",
+		"ZipClass" : "STANDARD",
+		"County" : "BAMBERG",
+		"City" : "OLAR",
+		"State" : "SC",
+		"Latitude" : "+33.178426"
+	},
+	{
+		"Longitude" : "-082.211086",
+		"Zipcode" : "29844",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCCORMICK",
+		"City" : "PARKSVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.785444"
+	},
+	{
+		"Longitude" : "-082.319983",
+		"Zipcode" : "29845",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCORMICK",
+		"City" : "PLUM BRANCH",
+		"State" : "SC",
+		"Latitude" : "+33.835620"
+	},
+	{
+		"Longitude" : "-081.225755",
+		"Zipcode" : "29846",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLENDALE",
+		"City" : "SYCAMORE",
+		"State" : "SC",
+		"Latitude" : "+33.024104"
+	},
+	{
+		"Longitude" : "-081.864218",
+		"Zipcode" : "29847",
+		"ZipClass" : "STANDARD",
+		"County" : "EDGEFIELD",
+		"City" : "TRENTON",
+		"State" : "SC",
+		"Latitude" : "+33.698302"
+	},
+	{
+		"Longitude" : "-082.150998",
+		"Zipcode" : "29848",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "TROY",
+		"State" : "SC",
+		"Latitude" : "+33.996062"
+	},
+	{
+		"Longitude" : "-081.206789",
+		"Zipcode" : "29849",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLENDALE",
+		"City" : "ULMER",
+		"State" : "SC",
+		"Latitude" : "+33.098848"
+	},
+	{
+		"Longitude" : "-081.686183",
+		"Zipcode" : "29850",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "AIKEN",
+		"City" : "VAUCLUSE",
+		"State" : "SC",
+		"Latitude" : "+33.545819"
+	},
+	{
+		"Longitude" : "-081.795561",
+		"Zipcode" : "29851",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "WARRENVILLE",
+		"State" : "SC",
+		"Latitude" : "+33.526017"
+	},
+	{
+		"Longitude" : "-081.376276",
+		"Zipcode" : "29853",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNWELL",
+		"City" : "WILLISTON",
+		"State" : "SC",
+		"Latitude" : "+33.302264"
+	},
+	{
+		"Longitude" : "-081.549415",
+		"Zipcode" : "29856",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "WINDSOR",
+		"State" : "SC",
+		"Latitude" : "+33.480097"
+	},
+	{
+		"Longitude" : "-081.855456",
+		"Zipcode" : "29860",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "NORTH AUGUSTA",
+		"State" : "SC",
+		"Latitude" : "+33.556645"
+	},
+	{
+		"Longitude" : "-081.599891",
+		"Zipcode" : "29861",
+		"ZipClass" : "STANDARD",
+		"County" : "AIKEN",
+		"City" : "NORTH AUGUSTA",
+		"State" : "SC",
+		"Latitude" : "+33.537730"
+	},
+	{
+		"Longitude" : "-082.319983",
+		"Zipcode" : "29899",
+		"ZipClass" : "UNIQUE",
+		"County" : "MCCORMICK",
+		"City" : "MC CORMICK",
+		"State" : "SC",
+		"Latitude" : "+33.835620"
+	},
+	{
+		"Longitude" : "-080.565343",
+		"Zipcode" : "29901",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "BEAUFORT",
+		"State" : "SC",
+		"Latitude" : "+32.424353"
+	},
+	{
+		"Longitude" : "-080.653104",
+		"Zipcode" : "29902",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "BEAUFORT",
+		"State" : "SC",
+		"Latitude" : "+32.404673"
+	},
+	{
+		"Longitude" : "-080.735245",
+		"Zipcode" : "29903",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "BEAUFORT",
+		"State" : "SC",
+		"Latitude" : "+32.443974"
+	},
+	{
+		"Longitude" : "-080.661027",
+		"Zipcode" : "29904",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "BEAUFORT",
+		"State" : "SC",
+		"Latitude" : "+32.390605"
+	},
+	{
+		"Longitude" : "-080.689041",
+		"Zipcode" : "29905",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "BEAUFORT",
+		"State" : "SC",
+		"Latitude" : "+32.340119"
+	},
+	{
+		"Longitude" : "-080.760332",
+		"Zipcode" : "29906",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "BEAUFORT",
+		"State" : "SC",
+		"Latitude" : "+32.382327"
+	},
+	{
+		"Longitude" : "-080.899506",
+		"Zipcode" : "29910",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "BLUFFTON",
+		"State" : "SC",
+		"Latitude" : "+32.349690"
+	},
+	{
+		"Longitude" : "-081.206373",
+		"Zipcode" : "29911",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "BRUNSON",
+		"State" : "SC",
+		"Latitude" : "+32.885698"
+	},
+	{
+		"Longitude" : "-080.989142",
+		"Zipcode" : "29912",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "COOSAWATCHIE",
+		"State" : "SC",
+		"Latitude" : "+32.488929"
+	},
+	{
+		"Longitude" : "-081.184627",
+		"Zipcode" : "29913",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "CROCKETVILLE",
+		"State" : "SC",
+		"Latitude" : "+32.929902"
+	},
+	{
+		"Longitude" : "-080.677001",
+		"Zipcode" : "29914",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "DALE",
+		"State" : "SC",
+		"Latitude" : "+32.552652"
+	},
+	{
+		"Longitude" : "-080.787899",
+		"Zipcode" : "29915",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "DAUFUSKIE ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.156011"
+	},
+	{
+		"Longitude" : "-081.151373",
+		"Zipcode" : "29916",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "EARLY BRANCH",
+		"State" : "SC",
+		"Latitude" : "+32.718903"
+	},
+	{
+		"Longitude" : "-081.183087",
+		"Zipcode" : "29918",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "ESTILL",
+		"State" : "SC",
+		"Latitude" : "+32.806610"
+	},
+	{
+		"Longitude" : "-080.538322",
+		"Zipcode" : "29920",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "SAINT HELENA ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.371627"
+	},
+	{
+		"Longitude" : "-081.207112",
+		"Zipcode" : "29921",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPTON",
+		"City" : "FURMAN",
+		"State" : "SC",
+		"Latitude" : "+32.718212"
+	},
+	{
+		"Longitude" : "-081.193318",
+		"Zipcode" : "29922",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "GARNETT",
+		"State" : "SC",
+		"Latitude" : "+32.741720"
+	},
+	{
+		"Longitude" : "-081.126913",
+		"Zipcode" : "29923",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPTON",
+		"City" : "GIFFORD",
+		"State" : "SC",
+		"Latitude" : "+32.788773"
+	},
+	{
+		"Longitude" : "-081.132412",
+		"Zipcode" : "29924",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "HAMPTON",
+		"State" : "SC",
+		"Latitude" : "+32.882332"
+	},
+	{
+		"Longitude" : "-080.799698",
+		"Zipcode" : "29925",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "HILTON HEAD ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.213190"
+	},
+	{
+		"Longitude" : "-080.747577",
+		"Zipcode" : "29926",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "HILTON HEAD ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.207724"
+	},
+	{
+		"Longitude" : "-081.074835",
+		"Zipcode" : "29927",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "HARDEEVILLE",
+		"State" : "SC",
+		"Latitude" : "+32.244037"
+	},
+	{
+		"Longitude" : "-080.644117",
+		"Zipcode" : "29928",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "HILTON HEAD ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.265135"
+	},
+	{
+		"Longitude" : "-080.948043",
+		"Zipcode" : "29929",
+		"ZipClass" : "STANDARD",
+		"County" : "COLLETON",
+		"City" : "ISLANDTON",
+		"State" : "SC",
+		"Latitude" : "+32.946307"
+	},
+	{
+		"Longitude" : "-080.702594",
+		"Zipcode" : "29931",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BEAUFORT",
+		"City" : "LOBECO",
+		"State" : "SC",
+		"Latitude" : "+32.538432"
+	},
+	{
+		"Longitude" : "-081.126913",
+		"Zipcode" : "29932",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "LURAY",
+		"State" : "SC",
+		"Latitude" : "+32.788773"
+	},
+	{
+		"Longitude" : "-081.126913",
+		"Zipcode" : "29933",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPTON",
+		"City" : "MILEY",
+		"State" : "SC",
+		"Latitude" : "+32.788773"
+	},
+	{
+		"Longitude" : "-081.061485",
+		"Zipcode" : "29934",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "PINELAND",
+		"State" : "SC",
+		"Latitude" : "+32.271811"
+	},
+	{
+		"Longitude" : "-080.684392",
+		"Zipcode" : "29935",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "PORT ROYAL",
+		"State" : "SC",
+		"Latitude" : "+32.387434"
+	},
+	{
+		"Longitude" : "-080.925708",
+		"Zipcode" : "29936",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "RIDGELAND",
+		"State" : "SC",
+		"Latitude" : "+32.486826"
+	},
+	{
+		"Longitude" : "-080.661027",
+		"Zipcode" : "29938",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "HILTON HEAD ISLAND",
+		"State" : "SC",
+		"Latitude" : "+32.390605"
+	},
+	{
+		"Longitude" : "-081.245487",
+		"Zipcode" : "29939",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "SCOTIA",
+		"State" : "SC",
+		"Latitude" : "+32.678624"
+	},
+	{
+		"Longitude" : "-080.719179",
+		"Zipcode" : "29940",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAUFORT",
+		"City" : "SEABROOK",
+		"State" : "SC",
+		"Latitude" : "+32.569296"
+	},
+	{
+		"Longitude" : "-080.718285",
+		"Zipcode" : "29941",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BEAUFORT",
+		"City" : "SHELDON",
+		"State" : "SC",
+		"Latitude" : "+32.587814"
+	},
+	{
+		"Longitude" : "-081.011496",
+		"Zipcode" : "29943",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "TILLMAN",
+		"State" : "SC",
+		"Latitude" : "+32.393253"
+	},
+	{
+		"Longitude" : "-081.079803",
+		"Zipcode" : "29944",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "VARNVILLE",
+		"State" : "SC",
+		"Latitude" : "+32.797222"
+	},
+	{
+		"Longitude" : "-080.887321",
+		"Zipcode" : "29945",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPTON",
+		"City" : "YEMASSEE",
+		"State" : "SC",
+		"Latitude" : "+32.692321"
+	}
+]}

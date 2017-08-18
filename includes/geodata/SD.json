@@ -1,0 +1,3747 @@
+{
+	"result":[
+	{
+		"Longitude" : "-096.624298",
+		"Zipcode" : "57001",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ALCESTER",
+		"State" : "SD",
+		"Latitude" : "+42.931698"
+	},
+	{
+		"Longitude" : "-096.667977",
+		"Zipcode" : "57002",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKINGS",
+		"City" : "AURORA",
+		"State" : "SD",
+		"Latitude" : "+44.304195"
+	},
+	{
+		"Longitude" : "-096.814589",
+		"Zipcode" : "57003",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "BALTIC",
+		"State" : "SD",
+		"Latitude" : "+43.645140"
+	},
+	{
+		"Longitude" : "-096.681135",
+		"Zipcode" : "57004",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "BERESFORD",
+		"State" : "SD",
+		"Latitude" : "+42.842947"
+	},
+	{
+		"Longitude" : "-096.793708",
+		"Zipcode" : "57005",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "BRANDON",
+		"State" : "SD",
+		"Latitude" : "+43.603401"
+	},
+	{
+		"Longitude" : "-096.762102",
+		"Zipcode" : "57006",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKINGS",
+		"City" : "BROOKINGS",
+		"State" : "SD",
+		"Latitude" : "+44.355091"
+	},
+	{
+		"Longitude" : "-096.790705",
+		"Zipcode" : "57007",
+		"ZipClass" : "UNIQUE",
+		"County" : "BROOKINGS",
+		"City" : "BROOKINGS",
+		"State" : "SD",
+		"Latitude" : "+44.369696"
+	},
+	{
+		"Longitude" : "-096.847373",
+		"Zipcode" : "57010",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BURBANK",
+		"State" : "SD",
+		"Latitude" : "+42.827796"
+	},
+	{
+		"Longitude" : "-097.248418",
+		"Zipcode" : "57012",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCOOK",
+		"City" : "CANISTOTA",
+		"State" : "SD",
+		"Latitude" : "+43.572888"
+	},
+	{
+		"Longitude" : "-096.707180",
+		"Zipcode" : "57013",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CANTON",
+		"State" : "SD",
+		"Latitude" : "+43.298310"
+	},
+	{
+		"Longitude" : "-097.042271",
+		"Zipcode" : "57014",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "CENTERVILLE",
+		"State" : "SD",
+		"Latitude" : "+43.291296"
+	},
+	{
+		"Longitude" : "-096.983852",
+		"Zipcode" : "57015",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "CHANCELLOR",
+		"State" : "SD",
+		"Latitude" : "+43.408226"
+	},
+	{
+		"Longitude" : "-096.928024",
+		"Zipcode" : "57016",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "CHESTER",
+		"State" : "SD",
+		"Latitude" : "+43.895505"
+	},
+	{
+		"Longitude" : "-096.814237",
+		"Zipcode" : "57017",
+		"ZipClass" : "STANDARD",
+		"County" : "MOODY",
+		"City" : "COLMAN",
+		"State" : "SD",
+		"Latitude" : "+43.984778"
+	},
+	{
+		"Longitude" : "-096.907845",
+		"Zipcode" : "57018",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "COLTON",
+		"State" : "SD",
+		"Latitude" : "+43.790192"
+	},
+	{
+		"Longitude" : "-096.822137",
+		"Zipcode" : "57020",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "CROOKS",
+		"State" : "SD",
+		"Latitude" : "+43.666894"
+	},
+	{
+		"Longitude" : "-096.983494",
+		"Zipcode" : "57021",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "DAVIS",
+		"State" : "SD",
+		"Latitude" : "+43.272502"
+	},
+	{
+		"Longitude" : "-096.699766",
+		"Zipcode" : "57022",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "DELL RAPIDS",
+		"State" : "SD",
+		"Latitude" : "+43.803585"
+	},
+	{
+		"Longitude" : "-096.648034",
+		"Zipcode" : "57024",
+		"ZipClass" : "STANDARD",
+		"County" : "MOODY",
+		"City" : "EGAN",
+		"State" : "SD",
+		"Latitude" : "+43.998434"
+	},
+	{
+		"Longitude" : "-096.676742",
+		"Zipcode" : "57025",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ELK POINT",
+		"State" : "SD",
+		"Latitude" : "+42.763990"
+	},
+	{
+		"Longitude" : "-096.540249",
+		"Zipcode" : "57026",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKINGS",
+		"City" : "ELKTON",
+		"State" : "SD",
+		"Latitude" : "+44.289677"
+	},
+	{
+		"Longitude" : "-096.513506",
+		"Zipcode" : "57027",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "FAIRVIEW",
+		"State" : "SD",
+		"Latitude" : "+43.197041"
+	},
+	{
+		"Longitude" : "-096.616189",
+		"Zipcode" : "57028",
+		"ZipClass" : "STANDARD",
+		"County" : "MOODY",
+		"City" : "FLANDREAU",
+		"State" : "SD",
+		"Latitude" : "+43.984004"
+	},
+	{
+		"Longitude" : "-097.547869",
+		"Zipcode" : "57029",
+		"ZipClass" : "STANDARD",
+		"County" : "HUTCHINSON",
+		"City" : "FREEMAN",
+		"State" : "SD",
+		"Latitude" : "+43.321384"
+	},
+	{
+		"Longitude" : "-096.596379",
+		"Zipcode" : "57030",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "GARRETSON",
+		"State" : "SD",
+		"Latitude" : "+43.747639"
+	},
+	{
+		"Longitude" : "-097.209902",
+		"Zipcode" : "57031",
+		"ZipClass" : "STANDARD",
+		"County" : "YANKTON",
+		"City" : "GAYVILLE",
+		"State" : "SD",
+		"Latitude" : "+42.886136"
+	},
+	{
+		"Longitude" : "-096.659737",
+		"Zipcode" : "57032",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HARRISBURG",
+		"State" : "SD",
+		"Latitude" : "+43.425258"
+	},
+	{
+		"Longitude" : "-096.814539",
+		"Zipcode" : "57033",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "HARTFORD",
+		"State" : "SD",
+		"Latitude" : "+43.630545"
+	},
+	{
+		"Longitude" : "-096.580939",
+		"Zipcode" : "57034",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HUDSON",
+		"State" : "SD",
+		"Latitude" : "+43.184976"
+	},
+	{
+		"Longitude" : "-096.816129",
+		"Zipcode" : "57035",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "HUMBOLDT",
+		"State" : "SD",
+		"Latitude" : "+43.637836"
+	},
+	{
+		"Longitude" : "-097.141677",
+		"Zipcode" : "57036",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "HURLEY",
+		"State" : "SD",
+		"Latitude" : "+43.278943"
+	},
+	{
+		"Longitude" : "-097.130498",
+		"Zipcode" : "57037",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "IRENE",
+		"State" : "SD",
+		"Latitude" : "+43.068331"
+	},
+	{
+		"Longitude" : "-096.576256",
+		"Zipcode" : "57038",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "JEFFERSON",
+		"State" : "SD",
+		"Latitude" : "+42.580112"
+	},
+	{
+		"Longitude" : "-096.856021",
+		"Zipcode" : "57039",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LENNOX",
+		"State" : "SD",
+		"Latitude" : "+43.298098"
+	},
+	{
+		"Longitude" : "-097.568901",
+		"Zipcode" : "57040",
+		"ZipClass" : "STANDARD",
+		"County" : "YANKTON",
+		"City" : "LESTERVILLE",
+		"State" : "SD",
+		"Latitude" : "+43.060620"
+	},
+	{
+		"Longitude" : "-096.870928",
+		"Zipcode" : "57041",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINNEHAHA",
+		"City" : "LYONS",
+		"State" : "SD",
+		"Latitude" : "+43.728488"
+	},
+	{
+		"Longitude" : "-097.091339",
+		"Zipcode" : "57042",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "MADISON",
+		"State" : "SD",
+		"Latitude" : "+44.054223"
+	},
+	{
+		"Longitude" : "-097.278318",
+		"Zipcode" : "57043",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "MARION",
+		"State" : "SD",
+		"Latitude" : "+43.292364"
+	},
+	{
+		"Longitude" : "-097.091959",
+		"Zipcode" : "57044",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MECKLING",
+		"State" : "SD",
+		"Latitude" : "+42.840984"
+	},
+	{
+		"Longitude" : "-097.538733",
+		"Zipcode" : "57045",
+		"ZipClass" : "STANDARD",
+		"County" : "HUTCHINSON",
+		"City" : "MENNO",
+		"State" : "SD",
+		"Latitude" : "+43.248825"
+	},
+	{
+		"Longitude" : "-097.297103",
+		"Zipcode" : "57046",
+		"ZipClass" : "STANDARD",
+		"County" : "YANKTON",
+		"City" : "MISSION HILL",
+		"State" : "SD",
+		"Latitude" : "+42.969251"
+	},
+	{
+		"Longitude" : "-097.250932",
+		"Zipcode" : "57047",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "MONROE",
+		"State" : "SD",
+		"Latitude" : "+43.489841"
+	},
+	{
+		"Longitude" : "-097.185930",
+		"Zipcode" : "57048",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCOOK",
+		"City" : "MONTROSE",
+		"State" : "SD",
+		"Latitude" : "+43.696853"
+	},
+	{
+		"Longitude" : "-096.585026",
+		"Zipcode" : "57049",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "NORTH SIOUX CITY",
+		"State" : "SD",
+		"Latitude" : "+42.587483"
+	},
+	{
+		"Longitude" : "-097.129455",
+		"Zipcode" : "57050",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "NUNDA",
+		"State" : "SD",
+		"Latitude" : "+44.021983"
+	},
+	{
+		"Longitude" : "-097.320310",
+		"Zipcode" : "57051",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGSBURY",
+		"City" : "OLDHAM",
+		"State" : "SD",
+		"Latitude" : "+44.245942"
+	},
+	{
+		"Longitude" : "-097.718224",
+		"Zipcode" : "57052",
+		"ZipClass" : "STANDARD",
+		"County" : "HUTCHINSON",
+		"City" : "OLIVET",
+		"State" : "SD",
+		"Latitude" : "+43.284183"
+	},
+	{
+		"Longitude" : "-097.134211",
+		"Zipcode" : "57053",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "PARKER",
+		"State" : "SD",
+		"Latitude" : "+43.399595"
+	},
+	{
+		"Longitude" : "-097.215191",
+		"Zipcode" : "57054",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "RAMONA",
+		"State" : "SD",
+		"Latitude" : "+44.118600"
+	},
+	{
+		"Longitude" : "-096.760473",
+		"Zipcode" : "57055",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "RENNER",
+		"State" : "SD",
+		"Latitude" : "+43.666979"
+	},
+	{
+		"Longitude" : "-096.558738",
+		"Zipcode" : "57056",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "ROWENA",
+		"State" : "SD",
+		"Latitude" : "+43.521559"
+	},
+	{
+		"Longitude" : "-097.129455",
+		"Zipcode" : "57057",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "RUTLAND",
+		"State" : "SD",
+		"Latitude" : "+44.021983"
+	},
+	{
+		"Longitude" : "-097.343417",
+		"Zipcode" : "57058",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCOOK",
+		"City" : "SALEM",
+		"State" : "SD",
+		"Latitude" : "+43.639298"
+	},
+	{
+		"Longitude" : "-097.783482",
+		"Zipcode" : "57059",
+		"ZipClass" : "STANDARD",
+		"County" : "BON HOMME",
+		"City" : "SCOTLAND",
+		"State" : "SD",
+		"Latitude" : "+43.024378"
+	},
+	{
+		"Longitude" : "-097.018205",
+		"Zipcode" : "57061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BROOKINGS",
+		"City" : "SINAI",
+		"State" : "SD",
+		"Latitude" : "+44.242764"
+	},
+	{
+		"Longitude" : "-097.926212",
+		"Zipcode" : "57062",
+		"ZipClass" : "STANDARD",
+		"County" : "BON HOMME",
+		"City" : "SPRINGFIELD",
+		"State" : "SD",
+		"Latitude" : "+42.881672"
+	},
+	{
+		"Longitude" : "-097.714195",
+		"Zipcode" : "57063",
+		"ZipClass" : "STANDARD",
+		"County" : "BON HOMME",
+		"City" : "TABOR",
+		"State" : "SD",
+		"Latitude" : "+42.947515"
+	},
+	{
+		"Longitude" : "-096.842783",
+		"Zipcode" : "57064",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TEA",
+		"State" : "SD",
+		"Latitude" : "+43.414340"
+	},
+	{
+		"Longitude" : "-096.653301",
+		"Zipcode" : "57065",
+		"ZipClass" : "STANDARD",
+		"County" : "MOODY",
+		"City" : "TRENT",
+		"State" : "SD",
+		"Latitude" : "+43.907616"
+	},
+	{
+		"Longitude" : "-097.873263",
+		"Zipcode" : "57066",
+		"ZipClass" : "STANDARD",
+		"County" : "BON HOMME",
+		"City" : "TYNDALL",
+		"State" : "SD",
+		"Latitude" : "+42.988530"
+	},
+	{
+		"Longitude" : "-097.369385",
+		"Zipcode" : "57067",
+		"ZipClass" : "STANDARD",
+		"County" : "YANKTON",
+		"City" : "UTICA",
+		"State" : "SD",
+		"Latitude" : "+43.016376"
+	},
+	{
+		"Longitude" : "-096.528511",
+		"Zipcode" : "57068",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "VALLEY SPRINGS",
+		"State" : "SD",
+		"Latitude" : "+43.594402"
+	},
+	{
+		"Longitude" : "-096.973318",
+		"Zipcode" : "57069",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "VERMILLION",
+		"State" : "SD",
+		"Latitude" : "+42.854124"
+	},
+	{
+		"Longitude" : "-097.180373",
+		"Zipcode" : "57070",
+		"ZipClass" : "STANDARD",
+		"County" : "TURNER",
+		"City" : "VIBORG",
+		"State" : "SD",
+		"Latitude" : "+43.188383"
+	},
+	{
+		"Longitude" : "-096.790512",
+		"Zipcode" : "57071",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKINGS",
+		"City" : "VOLGA",
+		"State" : "SD",
+		"Latitude" : "+44.369694"
+	},
+	{
+		"Longitude" : "-097.239829",
+		"Zipcode" : "57072",
+		"ZipClass" : "STANDARD",
+		"County" : "YANKTON",
+		"City" : "VOLIN",
+		"State" : "SD",
+		"Latitude" : "+43.002044"
+	},
+	{
+		"Longitude" : "-097.058654",
+		"Zipcode" : "57073",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "WAKONDA",
+		"State" : "SD",
+		"Latitude" : "+42.996509"
+	},
+	{
+		"Longitude" : "-096.967095",
+		"Zipcode" : "57075",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "WENTWORTH",
+		"State" : "SD",
+		"Latitude" : "+43.996979"
+	},
+	{
+		"Longitude" : "-097.129455",
+		"Zipcode" : "57076",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "WINFRED",
+		"State" : "SD",
+		"Latitude" : "+44.021983"
+	},
+	{
+		"Longitude" : "-096.776784",
+		"Zipcode" : "57077",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WORTHING",
+		"State" : "SD",
+		"Latitude" : "+43.286596"
+	},
+	{
+		"Longitude" : "-097.376890",
+		"Zipcode" : "57078",
+		"ZipClass" : "STANDARD",
+		"County" : "YANKTON",
+		"City" : "YANKTON",
+		"State" : "SD",
+		"Latitude" : "+42.943960"
+	},
+	{
+		"Longitude" : "-097.390268",
+		"Zipcode" : "57079",
+		"ZipClass" : "UNIQUE",
+		"County" : "YANKTON",
+		"City" : "YANKTON",
+		"State" : "SD",
+		"Latitude" : "+42.867556"
+	},
+	{
+		"Longitude" : "-096.690630",
+		"Zipcode" : "57101",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.546358"
+	},
+	{
+		"Longitude" : "-096.638710",
+		"Zipcode" : "57103",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.548433"
+	},
+	{
+		"Longitude" : "-096.685294",
+		"Zipcode" : "57104",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.589218"
+	},
+	{
+		"Longitude" : "-096.732266",
+		"Zipcode" : "57105",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.518636"
+	},
+	{
+		"Longitude" : "-096.780065",
+		"Zipcode" : "57106",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.529244"
+	},
+	{
+		"Longitude" : "-096.801033",
+		"Zipcode" : "57107",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.600064"
+	},
+	{
+		"Longitude" : "-096.696878",
+		"Zipcode" : "57108",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.550404"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57109",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.633203",
+		"Zipcode" : "57110",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.548613"
+	},
+	{
+		"Longitude" : "-096.868464",
+		"Zipcode" : "57115",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "BUFFALO RIDGE",
+		"State" : "SD",
+		"Latitude" : "+43.521895"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57117",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57118",
+		"ZipClass" : "STANDARD",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "57186",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57188",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57189",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57192",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57193",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57194",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57195",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57196",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57197",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-096.791340",
+		"Zipcode" : "57198",
+		"ZipClass" : "UNIQUE",
+		"County" : "MINNEHAHA",
+		"City" : "SIOUX FALLS",
+		"State" : "SD",
+		"Latitude" : "+43.674582"
+	},
+	{
+		"Longitude" : "-097.177954",
+		"Zipcode" : "57201",
+		"ZipClass" : "STANDARD",
+		"County" : "CODINGTON",
+		"City" : "WATERTOWN",
+		"State" : "SD",
+		"Latitude" : "+44.955643"
+	},
+	{
+		"Longitude" : "-097.188372",
+		"Zipcode" : "57202",
+		"ZipClass" : "STANDARD",
+		"County" : "CODINGTON",
+		"City" : "WAVERLY",
+		"State" : "SD",
+		"Latitude" : "+44.977634"
+	},
+	{
+		"Longitude" : "-097.246086",
+		"Zipcode" : "57212",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGSBURY",
+		"City" : "ARLINGTON",
+		"State" : "SD",
+		"Latitude" : "+44.368264"
+	},
+	{
+		"Longitude" : "-096.591264",
+		"Zipcode" : "57213",
+		"ZipClass" : "STANDARD",
+		"County" : "DEUEL",
+		"City" : "ASTORIA",
+		"State" : "SD",
+		"Latitude" : "+44.562302"
+	},
+	{
+		"Longitude" : "-097.209173",
+		"Zipcode" : "57214",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KINGSBURY",
+		"City" : "BADGER",
+		"State" : "SD",
+		"Latitude" : "+44.484381"
+	},
+	{
+		"Longitude" : "-096.534574",
+		"Zipcode" : "57216",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BIG STONE CITY",
+		"State" : "SD",
+		"Latitude" : "+45.170552"
+	},
+	{
+		"Longitude" : "-097.708049",
+		"Zipcode" : "57217",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "BRADLEY",
+		"State" : "SD",
+		"Latitude" : "+44.906260"
+	},
+	{
+		"Longitude" : "-096.668424",
+		"Zipcode" : "57218",
+		"ZipClass" : "STANDARD",
+		"County" : "DEUEL",
+		"City" : "BRANDT",
+		"State" : "SD",
+		"Latitude" : "+44.760480"
+	},
+	{
+		"Longitude" : "-097.637812",
+		"Zipcode" : "57219",
+		"ZipClass" : "STANDARD",
+		"County" : "DAY",
+		"City" : "BRISTOL",
+		"State" : "SD",
+		"Latitude" : "+45.319218"
+	},
+	{
+		"Longitude" : "-096.893020",
+		"Zipcode" : "57220",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKINGS",
+		"City" : "BRUCE",
+		"State" : "SD",
+		"Latitude" : "+44.456735"
+	},
+	{
+		"Longitude" : "-097.466776",
+		"Zipcode" : "57221",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMLIN",
+		"City" : "BRYANT",
+		"State" : "SD",
+		"Latitude" : "+44.590094"
+	},
+	{
+		"Longitude" : "-097.116149",
+		"Zipcode" : "57223",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMLIN",
+		"City" : "CASTLEWOOD",
+		"State" : "SD",
+		"Latitude" : "+44.656650"
+	},
+	{
+		"Longitude" : "-096.849416",
+		"Zipcode" : "57224",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "CLAIRE CITY",
+		"State" : "SD",
+		"Latitude" : "+45.616422"
+	},
+	{
+		"Longitude" : "-097.832972",
+		"Zipcode" : "57225",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "CLARK",
+		"State" : "SD",
+		"Latitude" : "+44.891983"
+	},
+	{
+		"Longitude" : "-096.690651",
+		"Zipcode" : "57226",
+		"ZipClass" : "STANDARD",
+		"County" : "DEUEL",
+		"City" : "CLEAR LAKE",
+		"State" : "SD",
+		"Latitude" : "+44.761249"
+	},
+	{
+		"Longitude" : "-096.849416",
+		"Zipcode" : "57227",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "CORONA",
+		"State" : "SD",
+		"Latitude" : "+45.616422"
+	},
+	{
+		"Longitude" : "-097.542049",
+		"Zipcode" : "57231",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGSBURY",
+		"City" : "DE SMET",
+		"State" : "SD",
+		"Latitude" : "+44.369482"
+	},
+	{
+		"Longitude" : "-097.400570",
+		"Zipcode" : "57232",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "EDEN",
+		"State" : "SD",
+		"Latitude" : "+45.631054"
+	},
+	{
+		"Longitude" : "-097.370412",
+		"Zipcode" : "57233",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGSBURY",
+		"City" : "ERWIN",
+		"State" : "SD",
+		"Latitude" : "+44.470856"
+	},
+	{
+		"Longitude" : "-097.188324",
+		"Zipcode" : "57234",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMLIN",
+		"City" : "ESTELLINE",
+		"State" : "SD",
+		"Latitude" : "+44.673762"
+	},
+	{
+		"Longitude" : "-097.306014",
+		"Zipcode" : "57235",
+		"ZipClass" : "STANDARD",
+		"County" : "CODINGTON",
+		"City" : "FLORENCE",
+		"State" : "SD",
+		"Latitude" : "+45.015481"
+	},
+	{
+		"Longitude" : "-097.737227",
+		"Zipcode" : "57236",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "GARDEN CITY",
+		"State" : "SD",
+		"Latitude" : "+44.848565"
+	},
+	{
+		"Longitude" : "-096.459270",
+		"Zipcode" : "57237",
+		"ZipClass" : "STANDARD",
+		"County" : "DEUEL",
+		"City" : "GARY",
+		"State" : "SD",
+		"Latitude" : "+44.792302"
+	},
+	{
+		"Longitude" : "-096.668424",
+		"Zipcode" : "57238",
+		"ZipClass" : "STANDARD",
+		"County" : "DEUEL",
+		"City" : "GOODWIN",
+		"State" : "SD",
+		"Latitude" : "+44.760480"
+	},
+	{
+		"Longitude" : "-097.603949",
+		"Zipcode" : "57239",
+		"ZipClass" : "STANDARD",
+		"County" : "DAY",
+		"City" : "GRENVILLE",
+		"State" : "SD",
+		"Latitude" : "+45.369855"
+	},
+	{
+		"Longitude" : "-097.204970",
+		"Zipcode" : "57241",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMLIN",
+		"City" : "HAYTI",
+		"State" : "SD",
+		"Latitude" : "+44.657338"
+	},
+	{
+		"Longitude" : "-097.381575",
+		"Zipcode" : "57242",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMLIN",
+		"City" : "HAZEL",
+		"State" : "SD",
+		"Latitude" : "+44.759144"
+	},
+	{
+		"Longitude" : "-097.391955",
+		"Zipcode" : "57243",
+		"ZipClass" : "STANDARD",
+		"County" : "CODINGTON",
+		"City" : "HENRY",
+		"State" : "SD",
+		"Latitude" : "+44.929255"
+	},
+	{
+		"Longitude" : "-097.289881",
+		"Zipcode" : "57244",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGSBURY",
+		"City" : "HETLAND",
+		"State" : "SD",
+		"Latitude" : "+44.425409"
+	},
+	{
+		"Longitude" : "-096.917412",
+		"Zipcode" : "57245",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CODINGTON",
+		"City" : "KRANZBURG",
+		"State" : "SD",
+		"Latitude" : "+44.892254"
+	},
+	{
+		"Longitude" : "-096.670622",
+		"Zipcode" : "57246",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "LABOLT",
+		"State" : "SD",
+		"Latitude" : "+45.115408"
+	},
+	{
+		"Longitude" : "-097.470748",
+		"Zipcode" : "57247",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "LAKE CITY",
+		"State" : "SD",
+		"Latitude" : "+45.717904"
+	},
+	{
+		"Longitude" : "-097.142872",
+		"Zipcode" : "57248",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMLIN",
+		"City" : "LAKE NORDEN",
+		"State" : "SD",
+		"Latitude" : "+44.588234"
+	},
+	{
+		"Longitude" : "-097.382824",
+		"Zipcode" : "57249",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGSBURY",
+		"City" : "LAKE PRESTON",
+		"State" : "SD",
+		"Latitude" : "+44.369159"
+	},
+	{
+		"Longitude" : "-096.942159",
+		"Zipcode" : "57251",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MARVIN",
+		"State" : "SD",
+		"Latitude" : "+45.274296"
+	},
+	{
+		"Longitude" : "-096.629203",
+		"Zipcode" : "57252",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MILBANK",
+		"State" : "SD",
+		"Latitude" : "+45.171617"
+	},
+	{
+		"Longitude" : "-096.839235",
+		"Zipcode" : "57253",
+		"ZipClass" : "UNIQUE",
+		"County" : "GRANT",
+		"City" : "MILBANK",
+		"State" : "SD",
+		"Latitude" : "+45.151477"
+	},
+	{
+		"Longitude" : "-096.849416",
+		"Zipcode" : "57255",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "NEW EFFINGTON",
+		"State" : "SD",
+		"Latitude" : "+45.616422"
+	},
+	{
+		"Longitude" : "-096.849416",
+		"Zipcode" : "57256",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "ORTLEY",
+		"State" : "SD",
+		"Latitude" : "+45.616422"
+	},
+	{
+		"Longitude" : "-096.951675",
+		"Zipcode" : "57257",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "PEEVER",
+		"State" : "SD",
+		"Latitude" : "+45.542151"
+	},
+	{
+		"Longitude" : "-097.939298",
+		"Zipcode" : "57258",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "RAYMOND",
+		"State" : "SD",
+		"Latitude" : "+44.910756"
+	},
+	{
+		"Longitude" : "-096.555664",
+		"Zipcode" : "57259",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "REVILLO",
+		"State" : "SD",
+		"Latitude" : "+45.080517"
+	},
+	{
+		"Longitude" : "-096.849416",
+		"Zipcode" : "57260",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "ROSHOLT",
+		"State" : "SD",
+		"Latitude" : "+45.616422"
+	},
+	{
+		"Longitude" : "-097.603949",
+		"Zipcode" : "57261",
+		"ZipClass" : "STANDARD",
+		"County" : "DAY",
+		"City" : "ROSLYN",
+		"State" : "SD",
+		"Latitude" : "+45.369855"
+	},
+	{
+		"Longitude" : "-096.970202",
+		"Zipcode" : "57262",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "SISSETON",
+		"State" : "SD",
+		"Latitude" : "+45.541443"
+	},
+	{
+		"Longitude" : "-097.036356",
+		"Zipcode" : "57263",
+		"ZipClass" : "STANDARD",
+		"County" : "CODINGTON",
+		"City" : "SOUTH SHORE",
+		"State" : "SD",
+		"Latitude" : "+45.100745"
+	},
+	{
+		"Longitude" : "-096.802259",
+		"Zipcode" : "57264",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "STOCKHOLM",
+		"State" : "SD",
+		"Latitude" : "+45.106694"
+	},
+	{
+		"Longitude" : "-096.740780",
+		"Zipcode" : "57265",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "STRANDBURG",
+		"State" : "SD",
+		"Latitude" : "+45.021579"
+	},
+	{
+		"Longitude" : "-097.036537",
+		"Zipcode" : "57266",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "SUMMIT",
+		"State" : "SD",
+		"Latitude" : "+45.302040"
+	},
+	{
+		"Longitude" : "-096.594440",
+		"Zipcode" : "57268",
+		"ZipClass" : "STANDARD",
+		"County" : "DEUEL",
+		"City" : "TORONTO",
+		"State" : "SD",
+		"Latitude" : "+44.567419"
+	},
+	{
+		"Longitude" : "-096.823706",
+		"Zipcode" : "57269",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "TWIN BROOKS",
+		"State" : "SD",
+		"Latitude" : "+45.230876"
+	},
+	{
+		"Longitude" : "-097.376617",
+		"Zipcode" : "57270",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "VEBLEN",
+		"State" : "SD",
+		"Latitude" : "+45.849458"
+	},
+	{
+		"Longitude" : "-097.737227",
+		"Zipcode" : "57271",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "VIENNA",
+		"State" : "SD",
+		"Latitude" : "+44.848565"
+	},
+	{
+		"Longitude" : "-097.453149",
+		"Zipcode" : "57272",
+		"ZipClass" : "STANDARD",
+		"County" : "CODINGTON",
+		"City" : "WALLACE",
+		"State" : "SD",
+		"Latitude" : "+45.093607"
+	},
+	{
+		"Longitude" : "-097.307239",
+		"Zipcode" : "57273",
+		"ZipClass" : "STANDARD",
+		"County" : "DAY",
+		"City" : "WAUBAY",
+		"State" : "SD",
+		"Latitude" : "+45.332568"
+	},
+	{
+		"Longitude" : "-097.525395",
+		"Zipcode" : "57274",
+		"ZipClass" : "STANDARD",
+		"County" : "DAY",
+		"City" : "WEBSTER",
+		"State" : "SD",
+		"Latitude" : "+45.315060"
+	},
+	{
+		"Longitude" : "-096.599788",
+		"Zipcode" : "57276",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKINGS",
+		"City" : "WHITE",
+		"State" : "SD",
+		"Latitude" : "+44.405596"
+	},
+	{
+		"Longitude" : "-097.573152",
+		"Zipcode" : "57278",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "WILLOW LAKE",
+		"State" : "SD",
+		"Latitude" : "+44.659815"
+	},
+	{
+		"Longitude" : "-096.832256",
+		"Zipcode" : "57279",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTS",
+		"City" : "WILMOT",
+		"State" : "SD",
+		"Latitude" : "+45.398570"
+	},
+	{
+		"Longitude" : "-098.086401",
+		"Zipcode" : "57301",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVISON",
+		"City" : "MITCHELL",
+		"State" : "SD",
+		"Latitude" : "+43.695910"
+	},
+	{
+		"Longitude" : "-097.756320",
+		"Zipcode" : "57311",
+		"ZipClass" : "STANDARD",
+		"County" : "HANSON",
+		"City" : "ALEXANDRIA",
+		"State" : "SD",
+		"Latitude" : "+43.668440"
+	},
+	{
+		"Longitude" : "-098.412198",
+		"Zipcode" : "57312",
+		"ZipClass" : "STANDARD",
+		"County" : "JERAULD",
+		"City" : "ALPENA",
+		"State" : "SD",
+		"Latitude" : "+44.122811"
+	},
+	{
+		"Longitude" : "-098.398964",
+		"Zipcode" : "57313",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "ARMOUR",
+		"State" : "SD",
+		"Latitude" : "+43.341035"
+	},
+	{
+		"Longitude" : "-098.011440",
+		"Zipcode" : "57314",
+		"ZipClass" : "STANDARD",
+		"County" : "SANBORN",
+		"City" : "ARTESIAN",
+		"State" : "SD",
+		"Latitude" : "+44.020961"
+	},
+	{
+		"Longitude" : "-097.878579",
+		"Zipcode" : "57315",
+		"ZipClass" : "STANDARD",
+		"County" : "BON HOMME",
+		"City" : "AVON",
+		"State" : "SD",
+		"Latitude" : "+42.988284"
+	},
+	{
+		"Longitude" : "-099.016376",
+		"Zipcode" : "57317",
+		"ZipClass" : "STANDARD",
+		"County" : "GREGORY",
+		"City" : "BONESTEEL",
+		"State" : "SD",
+		"Latitude" : "+43.248832"
+	},
+	{
+		"Longitude" : "-097.469058",
+		"Zipcode" : "57319",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCOOK",
+		"City" : "BRIDGEWATER",
+		"State" : "SD",
+		"Latitude" : "+43.550264"
+	},
+	{
+		"Longitude" : "-097.540053",
+		"Zipcode" : "57321",
+		"ZipClass" : "STANDARD",
+		"County" : "MINER",
+		"City" : "CANOVA",
+		"State" : "SD",
+		"Latitude" : "+43.892123"
+	},
+	{
+		"Longitude" : "-097.737227",
+		"Zipcode" : "57322",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "CARPENTER",
+		"State" : "SD",
+		"Latitude" : "+44.848565"
+	},
+	{
+		"Longitude" : "-097.720661",
+		"Zipcode" : "57323",
+		"ZipClass" : "STANDARD",
+		"County" : "MINER",
+		"City" : "CARTHAGE",
+		"State" : "SD",
+		"Latitude" : "+44.138176"
+	},
+	{
+		"Longitude" : "-098.013968",
+		"Zipcode" : "57324",
+		"ZipClass" : "STANDARD",
+		"County" : "BEADLE",
+		"City" : "CAVOUR",
+		"State" : "SD",
+		"Latitude" : "+44.325314"
+	},
+	{
+		"Longitude" : "-099.149806",
+		"Zipcode" : "57325",
+		"ZipClass" : "STANDARD",
+		"County" : "BRULE",
+		"City" : "CHAMBERLAIN",
+		"State" : "SD",
+		"Latitude" : "+43.772585"
+	},
+	{
+		"Longitude" : "-099.131736",
+		"Zipcode" : "57326",
+		"ZipClass" : "UNIQUE",
+		"County" : "BRULE",
+		"City" : "CHAMBERLAIN",
+		"State" : "SD",
+		"Latitude" : "+43.717250"
+	},
+	{
+		"Longitude" : "-098.439859",
+		"Zipcode" : "57328",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "CORSICA",
+		"State" : "SD",
+		"Latitude" : "+43.420306"
+	},
+	{
+		"Longitude" : "-098.175204",
+		"Zipcode" : "57329",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES MIX",
+		"City" : "DANTE",
+		"State" : "SD",
+		"Latitude" : "+42.984707"
+	},
+	{
+		"Longitude" : "-098.178372",
+		"Zipcode" : "57330",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "DELMONT",
+		"State" : "SD",
+		"Latitude" : "+43.290614"
+	},
+	{
+		"Longitude" : "-097.999352",
+		"Zipcode" : "57331",
+		"ZipClass" : "STANDARD",
+		"County" : "HUTCHINSON",
+		"City" : "DIMOCK",
+		"State" : "SD",
+		"Latitude" : "+43.470444"
+	},
+	{
+		"Longitude" : "-097.655390",
+		"Zipcode" : "57332",
+		"ZipClass" : "STANDARD",
+		"County" : "HANSON",
+		"City" : "EMERY",
+		"State" : "SD",
+		"Latitude" : "+43.586451"
+	},
+	{
+		"Longitude" : "-098.074101",
+		"Zipcode" : "57334",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVISON",
+		"City" : "ETHAN",
+		"State" : "SD",
+		"Latitude" : "+43.599970"
+	},
+	{
+		"Longitude" : "-099.016376",
+		"Zipcode" : "57335",
+		"ZipClass" : "STANDARD",
+		"County" : "GREGORY",
+		"City" : "FAIRFAX",
+		"State" : "SD",
+		"Latitude" : "+43.248832"
+	},
+	{
+		"Longitude" : "-097.750838",
+		"Zipcode" : "57337",
+		"ZipClass" : "STANDARD",
+		"County" : "MINER",
+		"City" : "FEDORA",
+		"State" : "SD",
+		"Latitude" : "+44.001852"
+	},
+	{
+		"Longitude" : "-099.251509",
+		"Zipcode" : "57339",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "FORT THOMPSON",
+		"State" : "SD",
+		"Latitude" : "+44.064873"
+	},
+	{
+		"Longitude" : "-097.869025",
+		"Zipcode" : "57340",
+		"ZipClass" : "STANDARD",
+		"County" : "HANSON",
+		"City" : "FULTON",
+		"State" : "SD",
+		"Latitude" : "+43.762939"
+	},
+	{
+		"Longitude" : "-099.251509",
+		"Zipcode" : "57341",
+		"ZipClass" : "STANDARD",
+		"County" : "BUFFALO",
+		"City" : "GANN VALLEY",
+		"State" : "SD",
+		"Latitude" : "+44.064873"
+	},
+	{
+		"Longitude" : "-098.736404",
+		"Zipcode" : "57342",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES MIX",
+		"City" : "GEDDES",
+		"State" : "SD",
+		"Latitude" : "+43.251263"
+	},
+	{
+		"Longitude" : "-098.528068",
+		"Zipcode" : "57344",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "HARRISON",
+		"State" : "SD",
+		"Latitude" : "+43.409186"
+	},
+	{
+		"Longitude" : "-099.486417",
+		"Zipcode" : "57345",
+		"ZipClass" : "STANDARD",
+		"County" : "HYDE",
+		"City" : "HIGHMORE",
+		"State" : "SD",
+		"Latitude" : "+44.574651"
+	},
+	{
+		"Longitude" : "-099.488221",
+		"Zipcode" : "57346",
+		"ZipClass" : "STANDARD",
+		"County" : "HYDE",
+		"City" : "STEPHAN",
+		"State" : "SD",
+		"Latitude" : "+44.545094"
+	},
+	{
+		"Longitude" : "-098.406424",
+		"Zipcode" : "57348",
+		"ZipClass" : "STANDARD",
+		"County" : "BEADLE",
+		"City" : "HITCHCOCK",
+		"State" : "SD",
+		"Latitude" : "+44.567404"
+	},
+	{
+		"Longitude" : "-097.560340",
+		"Zipcode" : "57349",
+		"ZipClass" : "STANDARD",
+		"County" : "MINER",
+		"City" : "HOWARD",
+		"State" : "SD",
+		"Latitude" : "+44.037102"
+	},
+	{
+		"Longitude" : "-098.180113",
+		"Zipcode" : "57350",
+		"ZipClass" : "STANDARD",
+		"County" : "BEADLE",
+		"City" : "HURON",
+		"State" : "SD",
+		"Latitude" : "+44.398874"
+	},
+	{
+		"Longitude" : "-097.652194",
+		"Zipcode" : "57353",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGSBURY",
+		"City" : "IROQUOIS",
+		"State" : "SD",
+		"Latitude" : "+44.369593"
+	},
+	{
+		"Longitude" : "-097.756924",
+		"Zipcode" : "57354",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUTCHINSON",
+		"City" : "KAYLOR",
+		"State" : "SD",
+		"Latitude" : "+43.334069"
+	},
+	{
+		"Longitude" : "-098.953810",
+		"Zipcode" : "57355",
+		"ZipClass" : "STANDARD",
+		"County" : "BRULE",
+		"City" : "KIMBALL",
+		"State" : "SD",
+		"Latitude" : "+43.744477"
+	},
+	{
+		"Longitude" : "-098.527479",
+		"Zipcode" : "57356",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES MIX",
+		"City" : "LAKE ANDES",
+		"State" : "SD",
+		"Latitude" : "+43.147572"
+	},
+	{
+		"Longitude" : "-098.427173",
+		"Zipcode" : "57357",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES MIX",
+		"City" : "RAVINIA",
+		"State" : "SD",
+		"Latitude" : "+43.136365"
+	},
+	{
+		"Longitude" : "-098.425228",
+		"Zipcode" : "57358",
+		"ZipClass" : "STANDARD",
+		"County" : "JERAULD",
+		"City" : "LANE",
+		"State" : "SD",
+		"Latitude" : "+44.069628"
+	},
+	{
+		"Longitude" : "-098.151193",
+		"Zipcode" : "57359",
+		"ZipClass" : "STANDARD",
+		"County" : "SANBORN",
+		"City" : "LETCHER",
+		"State" : "SD",
+		"Latitude" : "+43.953471"
+	},
+	{
+		"Longitude" : "-098.446929",
+		"Zipcode" : "57361",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES MIX",
+		"City" : "MARTY",
+		"State" : "SD",
+		"Latitude" : "+43.019570"
+	},
+	{
+		"Longitude" : "-099.062766",
+		"Zipcode" : "57362",
+		"ZipClass" : "STANDARD",
+		"County" : "HAND",
+		"City" : "MILLER",
+		"State" : "SD",
+		"Latitude" : "+44.480979"
+	},
+	{
+		"Longitude" : "-098.164483",
+		"Zipcode" : "57363",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVISON",
+		"City" : "MOUNT VERNON",
+		"State" : "SD",
+		"Latitude" : "+43.674994"
+	},
+	{
+		"Longitude" : "-098.608778",
+		"Zipcode" : "57364",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "NEW HOLLAND",
+		"State" : "SD",
+		"Latitude" : "+43.427358"
+	},
+	{
+		"Longitude" : "-099.394735",
+		"Zipcode" : "57365",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LYMAN",
+		"City" : "OACOMA",
+		"State" : "SD",
+		"Latitude" : "+43.797502"
+	},
+	{
+		"Longitude" : "-097.915618",
+		"Zipcode" : "57366",
+		"ZipClass" : "STANDARD",
+		"County" : "HUTCHINSON",
+		"City" : "PARKSTON",
+		"State" : "SD",
+		"Latitude" : "+43.383849"
+	},
+	{
+		"Longitude" : "-098.522951",
+		"Zipcode" : "57367",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHARLES MIX",
+		"City" : "PICKSTOWN",
+		"State" : "SD",
+		"Latitude" : "+43.067306"
+	},
+	{
+		"Longitude" : "-098.518533",
+		"Zipcode" : "57368",
+		"ZipClass" : "STANDARD",
+		"County" : "AURORA",
+		"City" : "PLANKINTON",
+		"State" : "SD",
+		"Latitude" : "+43.746753"
+	},
+	{
+		"Longitude" : "-098.767186",
+		"Zipcode" : "57369",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES MIX",
+		"City" : "PLATTE",
+		"State" : "SD",
+		"Latitude" : "+43.291600"
+	},
+	{
+		"Longitude" : "-099.186931",
+		"Zipcode" : "57370",
+		"ZipClass" : "STANDARD",
+		"County" : "BRULE",
+		"City" : "PUKWANA",
+		"State" : "SD",
+		"Latitude" : "+43.776542"
+	},
+	{
+		"Longitude" : "-099.218556",
+		"Zipcode" : "57371",
+		"ZipClass" : "STANDARD",
+		"County" : "HAND",
+		"City" : "REE HEIGHTS",
+		"State" : "SD",
+		"Latitude" : "+44.422833"
+	},
+	{
+		"Longitude" : "-098.869647",
+		"Zipcode" : "57373",
+		"ZipClass" : "STANDARD",
+		"County" : "HAND",
+		"City" : "SAINT LAWRENCE",
+		"State" : "SD",
+		"Latitude" : "+44.495497"
+	},
+	{
+		"Longitude" : "-097.581441",
+		"Zipcode" : "57374",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCOOK",
+		"City" : "SPENCER",
+		"State" : "SD",
+		"Latitude" : "+43.723565"
+	},
+	{
+		"Longitude" : "-098.498361",
+		"Zipcode" : "57375",
+		"ZipClass" : "STANDARD",
+		"County" : "AURORA",
+		"City" : "STICKNEY",
+		"State" : "SD",
+		"Latitude" : "+43.571628"
+	},
+	{
+		"Longitude" : "-097.923502",
+		"Zipcode" : "57376",
+		"ZipClass" : "STANDARD",
+		"County" : "HUTCHINSON",
+		"City" : "TRIPP",
+		"State" : "SD",
+		"Latitude" : "+43.248460"
+	},
+	{
+		"Longitude" : "-098.502730",
+		"Zipcode" : "57379",
+		"ZipClass" : "STANDARD",
+		"County" : "BEADLE",
+		"City" : "VIRGIL",
+		"State" : "SD",
+		"Latitude" : "+44.283816"
+	},
+	{
+		"Longitude" : "-098.315504",
+		"Zipcode" : "57380",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES MIX",
+		"City" : "WAGNER",
+		"State" : "SD",
+		"Latitude" : "+43.034725"
+	},
+	{
+		"Longitude" : "-098.642453",
+		"Zipcode" : "57381",
+		"ZipClass" : "STANDARD",
+		"County" : "BEADLE",
+		"City" : "WESSINGTON",
+		"State" : "SD",
+		"Latitude" : "+44.415437"
+	},
+	{
+		"Longitude" : "-098.675133",
+		"Zipcode" : "57382",
+		"ZipClass" : "STANDARD",
+		"County" : "JERAULD",
+		"City" : "WESSINGTON SPRINGS",
+		"State" : "SD",
+		"Latitude" : "+44.066415"
+	},
+	{
+		"Longitude" : "-098.644922",
+		"Zipcode" : "57383",
+		"ZipClass" : "STANDARD",
+		"County" : "AURORA",
+		"City" : "WHITE LAKE",
+		"State" : "SD",
+		"Latitude" : "+43.714955"
+	},
+	{
+		"Longitude" : "-098.487894",
+		"Zipcode" : "57384",
+		"ZipClass" : "STANDARD",
+		"County" : "BEADLE",
+		"City" : "WOLSEY",
+		"State" : "SD",
+		"Latitude" : "+44.449450"
+	},
+	{
+		"Longitude" : "-098.231397",
+		"Zipcode" : "57385",
+		"ZipClass" : "STANDARD",
+		"County" : "SANBORN",
+		"City" : "WOONSOCKET",
+		"State" : "SD",
+		"Latitude" : "+44.042710"
+	},
+	{
+		"Longitude" : "-098.040081",
+		"Zipcode" : "57386",
+		"ZipClass" : "STANDARD",
+		"County" : "BEADLE",
+		"City" : "YALE",
+		"State" : "SD",
+		"Latitude" : "+44.522526"
+	},
+	{
+		"Longitude" : "-098.279548",
+		"Zipcode" : "57399",
+		"ZipClass" : "UNIQUE",
+		"County" : "BEADLE",
+		"City" : "HURON",
+		"State" : "SD",
+		"Latitude" : "+44.414319"
+	},
+	{
+		"Longitude" : "-098.410405",
+		"Zipcode" : "57401",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "ABERDEEN",
+		"State" : "SD",
+		"Latitude" : "+45.476172"
+	},
+	{
+		"Longitude" : "-098.352014",
+		"Zipcode" : "57402",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "ABERDEEN",
+		"State" : "SD",
+		"Latitude" : "+45.589567"
+	},
+	{
+		"Longitude" : "-099.991823",
+		"Zipcode" : "57420",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WALWORTH",
+		"City" : "AKASKA",
+		"State" : "SD",
+		"Latitude" : "+45.290690"
+	},
+	{
+		"Longitude" : "-097.927389",
+		"Zipcode" : "57421",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "AMHERST",
+		"State" : "SD",
+		"Latitude" : "+45.758528"
+	},
+	{
+		"Longitude" : "-097.603949",
+		"Zipcode" : "57422",
+		"ZipClass" : "STANDARD",
+		"County" : "DAY",
+		"City" : "ANDOVER",
+		"State" : "SD",
+		"Latitude" : "+45.369855"
+	},
+	{
+		"Longitude" : "-098.397319",
+		"Zipcode" : "57424",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "ASHTON",
+		"State" : "SD",
+		"Latitude" : "+45.046485"
+	},
+	{
+		"Longitude" : "-098.569848",
+		"Zipcode" : "57426",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BROWN",
+		"City" : "BARNARD",
+		"State" : "SD",
+		"Latitude" : "+45.735409"
+	},
+	{
+		"Longitude" : "-098.270454",
+		"Zipcode" : "57427",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "BATH",
+		"State" : "SD",
+		"Latitude" : "+45.626851"
+	},
+	{
+		"Longitude" : "-099.595667",
+		"Zipcode" : "57428",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMUNDS",
+		"City" : "BOWDLE",
+		"State" : "SD",
+		"Latitude" : "+45.469377"
+	},
+	{
+		"Longitude" : "-098.319296",
+		"Zipcode" : "57429",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPINK",
+		"City" : "BRENTFORD",
+		"State" : "SD",
+		"Latitude" : "+45.163452"
+	},
+	{
+		"Longitude" : "-097.729570",
+		"Zipcode" : "57430",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BRITTON",
+		"State" : "SD",
+		"Latitude" : "+45.761704"
+	},
+	{
+		"Longitude" : "-098.051948",
+		"Zipcode" : "57432",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "CLAREMONT",
+		"State" : "SD",
+		"Latitude" : "+45.682867"
+	},
+	{
+		"Longitude" : "-098.339885",
+		"Zipcode" : "57433",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "COLUMBIA",
+		"State" : "SD",
+		"Latitude" : "+45.537847"
+	},
+	{
+		"Longitude" : "-098.153390",
+		"Zipcode" : "57434",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "CONDE",
+		"State" : "SD",
+		"Latitude" : "+45.139317"
+	},
+	{
+		"Longitude" : "-098.915424",
+		"Zipcode" : "57435",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULK",
+		"City" : "CRESBARD",
+		"State" : "SD",
+		"Latitude" : "+45.136245"
+	},
+	{
+		"Longitude" : "-098.102360",
+		"Zipcode" : "57436",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "DOLAND",
+		"State" : "SD",
+		"Latitude" : "+44.846523"
+	},
+	{
+		"Longitude" : "-099.330778",
+		"Zipcode" : "57437",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "EUREKA",
+		"State" : "SD",
+		"Latitude" : "+45.770740"
+	},
+	{
+		"Longitude" : "-099.195418",
+		"Zipcode" : "57438",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULK",
+		"City" : "FAULKTON",
+		"State" : "SD",
+		"Latitude" : "+45.085504"
+	},
+	{
+		"Longitude" : "-098.083721",
+		"Zipcode" : "57439",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "FERNEY",
+		"State" : "SD",
+		"Latitude" : "+45.329040"
+	},
+	{
+		"Longitude" : "-098.225875",
+		"Zipcode" : "57440",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "FRANKFORT",
+		"State" : "SD",
+		"Latitude" : "+44.870365"
+	},
+	{
+		"Longitude" : "-098.368918",
+		"Zipcode" : "57441",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "FREDERICK",
+		"State" : "SD",
+		"Latitude" : "+45.693116"
+	},
+	{
+		"Longitude" : "-100.035273",
+		"Zipcode" : "57442",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTER",
+		"City" : "GETTYSBURG",
+		"State" : "SD",
+		"Latitude" : "+45.033588"
+	},
+	{
+		"Longitude" : "-098.245639",
+		"Zipcode" : "57445",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "GROTON",
+		"State" : "SD",
+		"Latitude" : "+45.589027"
+	},
+	{
+		"Longitude" : "-098.157861",
+		"Zipcode" : "57446",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "HECLA",
+		"State" : "SD",
+		"Latitude" : "+45.849431"
+	},
+	{
+		"Longitude" : "-099.461653",
+		"Zipcode" : "57448",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMUNDS",
+		"City" : "HOSMER",
+		"State" : "SD",
+		"Latitude" : "+45.552579"
+	},
+	{
+		"Longitude" : "-098.170069",
+		"Zipcode" : "57449",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "HOUGHTON",
+		"State" : "SD",
+		"Latitude" : "+45.607110"
+	},
+	{
+		"Longitude" : "-099.777259",
+		"Zipcode" : "57450",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTER",
+		"City" : "HOVEN",
+		"State" : "SD",
+		"Latitude" : "+45.241265"
+	},
+	{
+		"Longitude" : "-099.258683",
+		"Zipcode" : "57451",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMUNDS",
+		"City" : "IPSWICH",
+		"State" : "SD",
+		"Latitude" : "+45.421905"
+	},
+	{
+		"Longitude" : "-099.821987",
+		"Zipcode" : "57452",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "JAVA",
+		"State" : "SD",
+		"Latitude" : "+45.449196"
+	},
+	{
+		"Longitude" : "-097.768102",
+		"Zipcode" : "57454",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "LANGFORD",
+		"State" : "SD",
+		"Latitude" : "+45.692919"
+	},
+	{
+		"Longitude" : "-099.998438",
+		"Zipcode" : "57455",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTER",
+		"City" : "LEBANON",
+		"State" : "SD",
+		"Latitude" : "+45.072088"
+	},
+	{
+		"Longitude" : "-098.983305",
+		"Zipcode" : "57456",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "LEOLA",
+		"State" : "SD",
+		"Latitude" : "+45.773436"
+	},
+	{
+		"Longitude" : "-099.169825",
+		"Zipcode" : "57457",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "LONGLAKE",
+		"State" : "SD",
+		"Latitude" : "+45.882332"
+	},
+	{
+		"Longitude" : "-098.599388",
+		"Zipcode" : "57460",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "MANSFIELD",
+		"State" : "SD",
+		"Latitude" : "+45.222950"
+	},
+	{
+		"Longitude" : "-098.426714",
+		"Zipcode" : "57461",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "MELLETTE",
+		"State" : "SD",
+		"Latitude" : "+45.155829"
+	},
+	{
+		"Longitude" : "-098.806895",
+		"Zipcode" : "57462",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMUNDS",
+		"City" : "MINA",
+		"State" : "SD",
+		"Latitude" : "+45.404015"
+	},
+	{
+		"Longitude" : "-098.625836",
+		"Zipcode" : "57465",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "NORTHVILLE",
+		"State" : "SD",
+		"Latitude" : "+45.125985"
+	},
+	{
+		"Longitude" : "-099.464260",
+		"Zipcode" : "57466",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULK",
+		"City" : "ONAKA",
+		"State" : "SD",
+		"Latitude" : "+45.180068"
+	},
+	{
+		"Longitude" : "-099.073204",
+		"Zipcode" : "57467",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULK",
+		"City" : "ORIENT",
+		"State" : "SD",
+		"Latitude" : "+44.911775"
+	},
+	{
+		"Longitude" : "-097.603949",
+		"Zipcode" : "57468",
+		"ZipClass" : "STANDARD",
+		"County" : "DAY",
+		"City" : "PIERPONT",
+		"State" : "SD",
+		"Latitude" : "+45.369855"
+	},
+	{
+		"Longitude" : "-098.406878",
+		"Zipcode" : "57469",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "REDFIELD",
+		"State" : "SD",
+		"Latitude" : "+44.954101"
+	},
+	{
+		"Longitude" : "-098.882787",
+		"Zipcode" : "57470",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULK",
+		"City" : "ROCKHAM",
+		"State" : "SD",
+		"Latitude" : "+45.033056"
+	},
+	{
+		"Longitude" : "-099.346593",
+		"Zipcode" : "57471",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMUNDS",
+		"City" : "ROSCOE",
+		"State" : "SD",
+		"Latitude" : "+45.419289"
+	},
+	{
+		"Longitude" : "-100.098171",
+		"Zipcode" : "57472",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "SELBY",
+		"State" : "SD",
+		"Latitude" : "+45.434632"
+	},
+	{
+		"Longitude" : "-099.340678",
+		"Zipcode" : "57473",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULK",
+		"City" : "SENECA",
+		"State" : "SD",
+		"Latitude" : "+44.991420"
+	},
+	{
+		"Longitude" : "-098.258376",
+		"Zipcode" : "57474",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "STRATFORD",
+		"State" : "SD",
+		"Latitude" : "+45.306691"
+	},
+	{
+		"Longitude" : "-099.694578",
+		"Zipcode" : "57475",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTER",
+		"City" : "TOLSTOY",
+		"State" : "SD",
+		"Latitude" : "+45.223750"
+	},
+	{
+		"Longitude" : "-098.402047",
+		"Zipcode" : "57476",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "TULARE",
+		"State" : "SD",
+		"Latitude" : "+44.893778"
+	},
+	{
+		"Longitude" : "-098.182922",
+		"Zipcode" : "57477",
+		"ZipClass" : "STANDARD",
+		"County" : "SPINK",
+		"City" : "TURTON",
+		"State" : "SD",
+		"Latitude" : "+45.045466"
+	},
+	{
+		"Longitude" : "-098.474850",
+		"Zipcode" : "57479",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "WARNER",
+		"State" : "SD",
+		"Latitude" : "+45.329227"
+	},
+	{
+		"Longitude" : "-098.580207",
+		"Zipcode" : "57481",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "WESTPORT",
+		"State" : "SD",
+		"Latitude" : "+45.670534"
+	},
+	{
+		"Longitude" : "-100.094195",
+		"Zipcode" : "57501",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "PIERRE",
+		"State" : "SD",
+		"Latitude" : "+44.334073"
+	},
+	{
+		"Longitude" : "-100.158903",
+		"Zipcode" : "57520",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLY",
+		"City" : "AGAR",
+		"State" : "SD",
+		"Latitude" : "+44.802621"
+	},
+	{
+		"Longitude" : "-101.601609",
+		"Zipcode" : "57521",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "BELVIDERE",
+		"State" : "SD",
+		"Latitude" : "+43.691966"
+	},
+	{
+		"Longitude" : "-099.926952",
+		"Zipcode" : "57522",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "BLUNT",
+		"State" : "SD",
+		"Latitude" : "+44.437190"
+	},
+	{
+		"Longitude" : "-099.293674",
+		"Zipcode" : "57523",
+		"ZipClass" : "STANDARD",
+		"County" : "GREGORY",
+		"City" : "BURKE",
+		"State" : "SD",
+		"Latitude" : "+43.182547"
+	},
+	{
+		"Longitude" : "-099.882310",
+		"Zipcode" : "57526",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIPP",
+		"City" : "CARTER",
+		"State" : "SD",
+		"Latitude" : "+43.382122"
+	},
+	{
+		"Longitude" : "-099.716537",
+		"Zipcode" : "57528",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIPP",
+		"City" : "COLOME",
+		"State" : "SD",
+		"Latitude" : "+43.260083"
+	},
+	{
+		"Longitude" : "-099.515887",
+		"Zipcode" : "57529",
+		"ZipClass" : "STANDARD",
+		"County" : "GREGORY",
+		"City" : "DALLAS",
+		"State" : "SD",
+		"Latitude" : "+43.235710"
+	},
+	{
+		"Longitude" : "-100.701672",
+		"Zipcode" : "57531",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "DRAPER",
+		"State" : "SD",
+		"Latitude" : "+43.938049"
+	},
+	{
+		"Longitude" : "-100.635312",
+		"Zipcode" : "57532",
+		"ZipClass" : "STANDARD",
+		"County" : "STANLEY",
+		"City" : "FORT PIERRE",
+		"State" : "SD",
+		"Latitude" : "+44.343326"
+	},
+	{
+		"Longitude" : "-099.362190",
+		"Zipcode" : "57533",
+		"ZipClass" : "STANDARD",
+		"County" : "GREGORY",
+		"City" : "GREGORY",
+		"State" : "SD",
+		"Latitude" : "+43.213649"
+	},
+	{
+		"Longitude" : "-099.882310",
+		"Zipcode" : "57534",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIPP",
+		"City" : "HAMILL",
+		"State" : "SD",
+		"Latitude" : "+43.382122"
+	},
+	{
+		"Longitude" : "-099.767237",
+		"Zipcode" : "57536",
+		"ZipClass" : "STANDARD",
+		"County" : "HUGHES",
+		"City" : "HARROLD",
+		"State" : "SD",
+		"Latitude" : "+44.333927"
+	},
+	{
+		"Longitude" : "-101.014052",
+		"Zipcode" : "57537",
+		"ZipClass" : "STANDARD",
+		"County" : "STANLEY",
+		"City" : "HAYES",
+		"State" : "SD",
+		"Latitude" : "+44.531281"
+	},
+	{
+		"Longitude" : "-099.195945",
+		"Zipcode" : "57538",
+		"ZipClass" : "STANDARD",
+		"County" : "GREGORY",
+		"City" : "HERRICK",
+		"State" : "SD",
+		"Latitude" : "+43.114883"
+	},
+	{
+		"Longitude" : "-099.589344",
+		"Zipcode" : "57540",
+		"ZipClass" : "STANDARD",
+		"County" : "HYDE",
+		"City" : "HOLABIRD",
+		"State" : "SD",
+		"Latitude" : "+44.490558"
+	},
+	{
+		"Longitude" : "-099.882310",
+		"Zipcode" : "57541",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIPP",
+		"City" : "IDEAL",
+		"State" : "SD",
+		"Latitude" : "+43.382122"
+	},
+	{
+		"Longitude" : "-099.824337",
+		"Zipcode" : "57542",
+		"ZipClass" : "STANDARD",
+		"County" : "LYMAN",
+		"City" : "IONA",
+		"State" : "SD",
+		"Latitude" : "+43.858620"
+	},
+	{
+		"Longitude" : "-101.389524",
+		"Zipcode" : "57543",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "KADOKA",
+		"State" : "SD",
+		"Latitude" : "+43.824178"
+	},
+	{
+		"Longitude" : "-099.824337",
+		"Zipcode" : "57544",
+		"ZipClass" : "STANDARD",
+		"County" : "LYMAN",
+		"City" : "KENNEBEC",
+		"State" : "SD",
+		"Latitude" : "+43.858620"
+	},
+	{
+		"Longitude" : "-101.601609",
+		"Zipcode" : "57547",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "LONG VALLEY",
+		"State" : "SD",
+		"Latitude" : "+43.691966"
+	},
+	{
+		"Longitude" : "-099.824337",
+		"Zipcode" : "57548",
+		"ZipClass" : "STANDARD",
+		"County" : "LYMAN",
+		"City" : "LOWER BRULE",
+		"State" : "SD",
+		"Latitude" : "+43.858620"
+	},
+	{
+		"Longitude" : "-101.734068",
+		"Zipcode" : "57551",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNETT",
+		"City" : "MARTIN",
+		"State" : "SD",
+		"Latitude" : "+43.172158"
+	},
+	{
+		"Longitude" : "-101.527178",
+		"Zipcode" : "57552",
+		"ZipClass" : "STANDARD",
+		"County" : "HAAKON",
+		"City" : "MIDLAND",
+		"State" : "SD",
+		"Latitude" : "+44.370733"
+	},
+	{
+		"Longitude" : "-101.527178",
+		"Zipcode" : "57553",
+		"ZipClass" : "STANDARD",
+		"County" : "HAAKON",
+		"City" : "MILESVILLE",
+		"State" : "SD",
+		"Latitude" : "+44.370733"
+	},
+	{
+		"Longitude" : "-100.662079",
+		"Zipcode" : "57555",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "MISSION",
+		"State" : "SD",
+		"Latitude" : "+43.304572"
+	},
+	{
+		"Longitude" : "-100.529517",
+		"Zipcode" : "57557",
+		"ZipClass" : "STANDARD",
+		"County" : "STANLEY",
+		"City" : "MISSION RIDGE",
+		"State" : "SD",
+		"Latitude" : "+44.475844"
+	},
+	{
+		"Longitude" : "-100.757340",
+		"Zipcode" : "57559",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "MURDO",
+		"State" : "SD",
+		"Latitude" : "+43.879993"
+	},
+	{
+		"Longitude" : "-100.721218",
+		"Zipcode" : "57560",
+		"ZipClass" : "STANDARD",
+		"County" : "MELLETTE",
+		"City" : "NORRIS",
+		"State" : "SD",
+		"Latitude" : "+43.623523"
+	},
+	{
+		"Longitude" : "-100.701672",
+		"Zipcode" : "57562",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "OKATON",
+		"State" : "SD",
+		"Latitude" : "+43.938049"
+	},
+	{
+		"Longitude" : "-100.713373",
+		"Zipcode" : "57563",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TODD",
+		"City" : "OKREEK",
+		"State" : "SD",
+		"Latitude" : "+43.194063"
+	},
+	{
+		"Longitude" : "-099.979546",
+		"Zipcode" : "57564",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLY",
+		"City" : "ONIDA",
+		"State" : "SD",
+		"Latitude" : "+44.722873"
+	},
+	{
+		"Longitude" : "-100.713373",
+		"Zipcode" : "57566",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "PARMELEE",
+		"State" : "SD",
+		"Latitude" : "+43.194063"
+	},
+	{
+		"Longitude" : "-101.630722",
+		"Zipcode" : "57567",
+		"ZipClass" : "STANDARD",
+		"County" : "HAAKON",
+		"City" : "PHILIP",
+		"State" : "SD",
+		"Latitude" : "+44.046063"
+	},
+	{
+		"Longitude" : "-100.046855",
+		"Zipcode" : "57568",
+		"ZipClass" : "STANDARD",
+		"County" : "LYMAN",
+		"City" : "PRESHO",
+		"State" : "SD",
+		"Latitude" : "+43.908372"
+	},
+	{
+		"Longitude" : "-099.824337",
+		"Zipcode" : "57569",
+		"ZipClass" : "STANDARD",
+		"County" : "LYMAN",
+		"City" : "RELIANCE",
+		"State" : "SD",
+		"Latitude" : "+43.858620"
+	},
+	{
+		"Longitude" : "-100.626863",
+		"Zipcode" : "57570",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TODD",
+		"City" : "ROSEBUD",
+		"State" : "SD",
+		"Latitude" : "+43.302375"
+	},
+	{
+		"Longitude" : "-099.016376",
+		"Zipcode" : "57571",
+		"ZipClass" : "STANDARD",
+		"County" : "GREGORY",
+		"City" : "SAINT CHARLES",
+		"State" : "SD",
+		"Latitude" : "+43.248832"
+	},
+	{
+		"Longitude" : "-100.713373",
+		"Zipcode" : "57572",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "SAINT FRANCIS",
+		"State" : "SD",
+		"Latitude" : "+43.194063"
+	},
+	{
+		"Longitude" : "-101.669330",
+		"Zipcode" : "57574",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNETT",
+		"City" : "TUTHILL",
+		"State" : "SD",
+		"Latitude" : "+43.193203"
+	},
+	{
+		"Longitude" : "-099.824337",
+		"Zipcode" : "57576",
+		"ZipClass" : "STANDARD",
+		"County" : "LYMAN",
+		"City" : "VIVIAN",
+		"State" : "SD",
+		"Latitude" : "+43.858620"
+	},
+	{
+		"Longitude" : "-101.601609",
+		"Zipcode" : "57577",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "WANBLEE",
+		"State" : "SD",
+		"Latitude" : "+43.691966"
+	},
+	{
+		"Longitude" : "-099.882310",
+		"Zipcode" : "57578",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIPP",
+		"City" : "WEWELA",
+		"State" : "SD",
+		"Latitude" : "+43.382122"
+	},
+	{
+		"Longitude" : "-100.745912",
+		"Zipcode" : "57579",
+		"ZipClass" : "STANDARD",
+		"County" : "MELLETTE",
+		"City" : "WHITE RIVER",
+		"State" : "SD",
+		"Latitude" : "+43.566116"
+	},
+	{
+		"Longitude" : "-099.803286",
+		"Zipcode" : "57580",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIPP",
+		"City" : "WINNER",
+		"State" : "SD",
+		"Latitude" : "+43.331763"
+	},
+	{
+		"Longitude" : "-099.882310",
+		"Zipcode" : "57584",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIPP",
+		"City" : "WITTEN",
+		"State" : "SD",
+		"Latitude" : "+43.382122"
+	},
+	{
+		"Longitude" : "-100.721218",
+		"Zipcode" : "57585",
+		"ZipClass" : "STANDARD",
+		"County" : "MELLETTE",
+		"City" : "WOOD",
+		"State" : "SD",
+		"Latitude" : "+43.623523"
+	},
+	{
+		"Longitude" : "-100.330283",
+		"Zipcode" : "57601",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "MOBRIDGE",
+		"State" : "SD",
+		"Latitude" : "+45.550822"
+	},
+	{
+		"Longitude" : "-102.513087",
+		"Zipcode" : "57620",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "BISON",
+		"State" : "SD",
+		"Latitude" : "+45.409748"
+	},
+	{
+		"Longitude" : "-101.099740",
+		"Zipcode" : "57621",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CORSON",
+		"City" : "BULLHEAD",
+		"State" : "SD",
+		"Latitude" : "+45.847567"
+	},
+	{
+		"Longitude" : "-101.568656",
+		"Zipcode" : "57622",
+		"ZipClass" : "STANDARD",
+		"County" : "ZIEBACH",
+		"City" : "CHERRY CREEK",
+		"State" : "SD",
+		"Latitude" : "+44.992051"
+	},
+	{
+		"Longitude" : "-101.607171",
+		"Zipcode" : "57623",
+		"ZipClass" : "STANDARD",
+		"County" : "ZIEBACH",
+		"City" : "DUPREE",
+		"State" : "SD",
+		"Latitude" : "+45.050456"
+	},
+	{
+		"Longitude" : "-101.232885",
+		"Zipcode" : "57625",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DEWEY",
+		"City" : "EAGLE BUTTE",
+		"State" : "SD",
+		"Latitude" : "+45.001611"
+	},
+	{
+		"Longitude" : "-102.026734",
+		"Zipcode" : "57626",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "FAITH",
+		"State" : "SD",
+		"Latitude" : "+45.024533"
+	},
+	{
+		"Longitude" : "-100.879214",
+		"Zipcode" : "57628",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "FIRESTEEL",
+		"State" : "SD",
+		"Latitude" : "+45.098685"
+	},
+	{
+		"Longitude" : "-101.568656",
+		"Zipcode" : "57629",
+		"ZipClass" : "STANDARD",
+		"County" : "ZIEBACH",
+		"City" : "GLAD VALLEY",
+		"State" : "SD",
+		"Latitude" : "+44.992051"
+	},
+	{
+		"Longitude" : "-100.879214",
+		"Zipcode" : "57630",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "GLENCROSS",
+		"State" : "SD",
+		"Latitude" : "+45.098685"
+	},
+	{
+		"Longitude" : "-100.311701",
+		"Zipcode" : "57631",
+		"ZipClass" : "STANDARD",
+		"County" : "WALWORTH",
+		"City" : "GLENHAM",
+		"State" : "SD",
+		"Latitude" : "+45.504288"
+	},
+	{
+		"Longitude" : "-100.020048",
+		"Zipcode" : "57632",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "HERREID",
+		"State" : "SD",
+		"Latitude" : "+45.833733"
+	},
+	{
+		"Longitude" : "-101.438525",
+		"Zipcode" : "57633",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "ISABEL",
+		"State" : "SD",
+		"Latitude" : "+45.396212"
+	},
+	{
+		"Longitude" : "-101.154581",
+		"Zipcode" : "57634",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "KELDRON",
+		"State" : "SD",
+		"Latitude" : "+45.708402"
+	},
+	{
+		"Longitude" : "-100.879214",
+		"Zipcode" : "57636",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DEWEY",
+		"City" : "LANTRY",
+		"State" : "SD",
+		"Latitude" : "+45.098685"
+	},
+	{
+		"Longitude" : "-102.410975",
+		"Zipcode" : "57638",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "LEMMON",
+		"State" : "SD",
+		"Latitude" : "+45.732219"
+	},
+	{
+		"Longitude" : "-101.154581",
+		"Zipcode" : "57639",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CORSON",
+		"City" : "LITTLE EAGLE",
+		"State" : "SD",
+		"Latitude" : "+45.708402"
+	},
+	{
+		"Longitude" : "-102.663011",
+		"Zipcode" : "57640",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "LODGEPOLE",
+		"State" : "SD",
+		"Latitude" : "+45.703777"
+	},
+	{
+		"Longitude" : "-101.154581",
+		"Zipcode" : "57641",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "MC INTOSH",
+		"State" : "SD",
+		"Latitude" : "+45.708402"
+	},
+	{
+		"Longitude" : "-100.891469",
+		"Zipcode" : "57642",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "MC LAUGHLIN",
+		"State" : "SD",
+		"Latitude" : "+45.876336"
+	},
+	{
+		"Longitude" : "-101.154581",
+		"Zipcode" : "57643",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "MAHTO",
+		"State" : "SD",
+		"Latitude" : "+45.708402"
+	},
+	{
+		"Longitude" : "-102.280948",
+		"Zipcode" : "57644",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "MEADOW",
+		"State" : "SD",
+		"Latitude" : "+45.453221"
+	},
+	{
+		"Longitude" : "-101.154581",
+		"Zipcode" : "57645",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "MORRISTOWN",
+		"State" : "SD",
+		"Latitude" : "+45.708402"
+	},
+	{
+		"Longitude" : "-100.048071",
+		"Zipcode" : "57646",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "MOUND CITY",
+		"State" : "SD",
+		"Latitude" : "+45.715461"
+	},
+	{
+		"Longitude" : "-100.879214",
+		"Zipcode" : "57647",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "PARADE",
+		"State" : "SD",
+		"Latitude" : "+45.098685"
+	},
+	{
+		"Longitude" : "-100.283026",
+		"Zipcode" : "57648",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "POLLOCK",
+		"State" : "SD",
+		"Latitude" : "+45.844431"
+	},
+	{
+		"Longitude" : "-102.704216",
+		"Zipcode" : "57649",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "PRAIRIE CITY",
+		"State" : "SD",
+		"Latitude" : "+45.440744"
+	},
+	{
+		"Longitude" : "-103.493668",
+		"Zipcode" : "57650",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "RALPH",
+		"State" : "SD",
+		"Latitude" : "+45.578941"
+	},
+	{
+		"Longitude" : "-103.493668",
+		"Zipcode" : "57651",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "REVA",
+		"State" : "SD",
+		"Latitude" : "+45.578941"
+	},
+	{
+		"Longitude" : "-100.879214",
+		"Zipcode" : "57652",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "RIDGEVIEW",
+		"State" : "SD",
+		"Latitude" : "+45.098685"
+	},
+	{
+		"Longitude" : "-102.292753",
+		"Zipcode" : "57653",
+		"ZipClass" : "STANDARD",
+		"County" : "PERKINS",
+		"City" : "SHADEHILL",
+		"State" : "SD",
+		"Latitude" : "+45.680798"
+	},
+	{
+		"Longitude" : "-101.074690",
+		"Zipcode" : "57656",
+		"ZipClass" : "STANDARD",
+		"County" : "DEWEY",
+		"City" : "TIMBER LAKE",
+		"State" : "SD",
+		"Latitude" : "+45.427032"
+	},
+	{
+		"Longitude" : "-101.154581",
+		"Zipcode" : "57657",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "TRAIL CITY",
+		"State" : "SD",
+		"Latitude" : "+45.708402"
+	},
+	{
+		"Longitude" : "-100.537928",
+		"Zipcode" : "57658",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "WAKPALA",
+		"State" : "SD",
+		"Latitude" : "+45.655452"
+	},
+	{
+		"Longitude" : "-101.154581",
+		"Zipcode" : "57659",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "WALKER",
+		"State" : "SD",
+		"Latitude" : "+45.708402"
+	},
+	{
+		"Longitude" : "-101.154581",
+		"Zipcode" : "57660",
+		"ZipClass" : "STANDARD",
+		"County" : "CORSON",
+		"City" : "WATAUGA",
+		"State" : "SD",
+		"Latitude" : "+45.708402"
+	},
+	{
+		"Longitude" : "-100.879214",
+		"Zipcode" : "57661",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DEWEY",
+		"City" : "WHITEHORSE",
+		"State" : "SD",
+		"Latitude" : "+45.098685"
+	},
+	{
+		"Longitude" : "-103.240024",
+		"Zipcode" : "57701",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "RAPID CITY",
+		"State" : "SD",
+		"Latitude" : "+44.004363"
+	},
+	{
+		"Longitude" : "-103.358868",
+		"Zipcode" : "57702",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "RAPID CITY",
+		"State" : "SD",
+		"Latitude" : "+44.003641"
+	},
+	{
+		"Longitude" : "-103.176287",
+		"Zipcode" : "57703",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "RAPID CITY",
+		"State" : "SD",
+		"Latitude" : "+44.048039"
+	},
+	{
+		"Longitude" : "-103.229087",
+		"Zipcode" : "57706",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "ELLSWORTH AFB",
+		"State" : "SD",
+		"Latitude" : "+44.185222"
+	},
+	{
+		"Longitude" : "-103.317149",
+		"Zipcode" : "57709",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "RAPID CITY",
+		"State" : "SD",
+		"Latitude" : "+44.076106"
+	},
+	{
+		"Longitude" : "-101.669330",
+		"Zipcode" : "57714",
+		"ZipClass" : "STANDARD",
+		"County" : "BENNETT",
+		"City" : "ALLEN",
+		"State" : "SD",
+		"Latitude" : "+43.193203"
+	},
+	{
+		"Longitude" : "-102.541100",
+		"Zipcode" : "57716",
+		"ZipClass" : "STANDARD",
+		"County" : "SHANNON",
+		"City" : "BATESLAND",
+		"State" : "SD",
+		"Latitude" : "+43.352617"
+	},
+	{
+		"Longitude" : "-103.873130",
+		"Zipcode" : "57717",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTE",
+		"City" : "BELLE FOURCHE",
+		"State" : "SD",
+		"Latitude" : "+44.930370"
+	},
+	{
+		"Longitude" : "-103.326118",
+		"Zipcode" : "57718",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "BLACK HAWK",
+		"State" : "SD",
+		"Latitude" : "+44.183216"
+	},
+	{
+		"Longitude" : "-103.204293",
+		"Zipcode" : "57719",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "BOX ELDER",
+		"State" : "SD",
+		"Latitude" : "+44.036670"
+	},
+	{
+		"Longitude" : "-103.911719",
+		"Zipcode" : "57720",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "BUFFALO",
+		"State" : "SD",
+		"Latitude" : "+45.576652"
+	},
+	{
+		"Longitude" : "-103.371071",
+		"Zipcode" : "57722",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "BUFFALO GAP",
+		"State" : "SD",
+		"Latitude" : "+43.666816"
+	},
+	{
+		"Longitude" : "-103.493668",
+		"Zipcode" : "57724",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "CAMP CROOK",
+		"State" : "SD",
+		"Latitude" : "+45.578941"
+	},
+	{
+		"Longitude" : "-102.793461",
+		"Zipcode" : "57725",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "CAPUTA",
+		"State" : "SD",
+		"Latitude" : "+43.948063"
+	},
+	{
+		"Longitude" : "-102.150335",
+		"Zipcode" : "57729",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "CREIGHTON",
+		"State" : "SD",
+		"Latitude" : "+44.312407"
+	},
+	{
+		"Longitude" : "-103.425807",
+		"Zipcode" : "57730",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "CUSTER",
+		"State" : "SD",
+		"Latitude" : "+43.657304"
+	},
+	{
+		"Longitude" : "-103.735731",
+		"Zipcode" : "57732",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "DEADWOOD",
+		"State" : "SD",
+		"Latitude" : "+44.364850"
+	},
+	{
+		"Longitude" : "-103.830431",
+		"Zipcode" : "57735",
+		"ZipClass" : "STANDARD",
+		"County" : "FALL RIVER",
+		"City" : "EDGEMONT",
+		"State" : "SD",
+		"Latitude" : "+43.294549"
+	},
+	{
+		"Longitude" : "-102.523860",
+		"Zipcode" : "57736",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "ELM SPRINGS",
+		"State" : "SD",
+		"Latitude" : "+44.348777"
+	},
+	{
+		"Longitude" : "-102.787188",
+		"Zipcode" : "57737",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "ENNING",
+		"State" : "SD",
+		"Latitude" : "+44.589806"
+	},
+	{
+		"Longitude" : "-103.208170",
+		"Zipcode" : "57738",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "FAIRBURN",
+		"State" : "SD",
+		"Latitude" : "+43.685927"
+	},
+	{
+		"Longitude" : "-103.455428",
+		"Zipcode" : "57741",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MEADE",
+		"City" : "FORT MEADE",
+		"State" : "SD",
+		"Latitude" : "+44.409320"
+	},
+	{
+		"Longitude" : "-103.697073",
+		"Zipcode" : "57742",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTE",
+		"City" : "FRUITDALE",
+		"State" : "SD",
+		"Latitude" : "+44.669130"
+	},
+	{
+		"Longitude" : "-103.191460",
+		"Zipcode" : "57744",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "HERMOSA",
+		"State" : "SD",
+		"Latitude" : "+43.838528"
+	},
+	{
+		"Longitude" : "-103.651357",
+		"Zipcode" : "57745",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "HILL CITY",
+		"State" : "SD",
+		"Latitude" : "+44.008200"
+	},
+	{
+		"Longitude" : "-103.528353",
+		"Zipcode" : "57747",
+		"ZipClass" : "STANDARD",
+		"County" : "FALL RIVER",
+		"City" : "HOT SPRINGS",
+		"State" : "SD",
+		"Latitude" : "+43.314186"
+	},
+	{
+		"Longitude" : "-102.787188",
+		"Zipcode" : "57748",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "HOWES",
+		"State" : "SD",
+		"Latitude" : "+44.589806"
+	},
+	{
+		"Longitude" : "-101.601609",
+		"Zipcode" : "57750",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "INTERIOR",
+		"State" : "SD",
+		"Latitude" : "+43.691966"
+	},
+	{
+		"Longitude" : "-103.399471",
+		"Zipcode" : "57751",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "KEYSTONE",
+		"State" : "SD",
+		"Latitude" : "+43.884764"
+	},
+	{
+		"Longitude" : "-102.541100",
+		"Zipcode" : "57752",
+		"ZipClass" : "STANDARD",
+		"County" : "SHANNON",
+		"City" : "KYLE",
+		"State" : "SD",
+		"Latitude" : "+43.352617"
+	},
+	{
+		"Longitude" : "-103.752683",
+		"Zipcode" : "57754",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "LEAD",
+		"State" : "SD",
+		"Latitude" : "+44.444505"
+	},
+	{
+		"Longitude" : "-103.493668",
+		"Zipcode" : "57755",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDING",
+		"City" : "LUDLOW",
+		"State" : "SD",
+		"Latitude" : "+45.578941"
+	},
+	{
+		"Longitude" : "-102.541100",
+		"Zipcode" : "57756",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHANNON",
+		"City" : "MANDERSON",
+		"State" : "SD",
+		"Latitude" : "+43.352617"
+	},
+	{
+		"Longitude" : "-102.787188",
+		"Zipcode" : "57758",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "MUD BUTTE",
+		"State" : "SD",
+		"Latitude" : "+44.589806"
+	},
+	{
+		"Longitude" : "-103.754204",
+		"Zipcode" : "57759",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "NEMO",
+		"State" : "SD",
+		"Latitude" : "+44.372688"
+	},
+	{
+		"Longitude" : "-103.417574",
+		"Zipcode" : "57760",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTE",
+		"City" : "NEWELL",
+		"State" : "SD",
+		"Latitude" : "+44.715217"
+	},
+	{
+		"Longitude" : "-102.798970",
+		"Zipcode" : "57761",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "NEW UNDERWOOD",
+		"State" : "SD",
+		"Latitude" : "+44.056691"
+	},
+	{
+		"Longitude" : "-103.556354",
+		"Zipcode" : "57762",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTE",
+		"City" : "NISLAND",
+		"State" : "SD",
+		"Latitude" : "+44.673533"
+	},
+	{
+		"Longitude" : "-103.243935",
+		"Zipcode" : "57763",
+		"ZipClass" : "STANDARD",
+		"County" : "FALL RIVER",
+		"City" : "OELRICHS",
+		"State" : "SD",
+		"Latitude" : "+43.180956"
+	},
+	{
+		"Longitude" : "-102.541100",
+		"Zipcode" : "57764",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHANNON",
+		"City" : "OGLALA",
+		"State" : "SD",
+		"Latitude" : "+43.352617"
+	},
+	{
+		"Longitude" : "-102.787188",
+		"Zipcode" : "57765",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "OPAL",
+		"State" : "SD",
+		"Latitude" : "+44.589806"
+	},
+	{
+		"Longitude" : "-103.527757",
+		"Zipcode" : "57766",
+		"ZipClass" : "STANDARD",
+		"County" : "FALL RIVER",
+		"City" : "ORAL",
+		"State" : "SD",
+		"Latitude" : "+43.239655"
+	},
+	{
+		"Longitude" : "-102.680781",
+		"Zipcode" : "57767",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "OWANKA",
+		"State" : "SD",
+		"Latitude" : "+44.067413"
+	},
+	{
+		"Longitude" : "-103.272284",
+		"Zipcode" : "57769",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "PIEDMONT",
+		"State" : "SD",
+		"Latitude" : "+44.220524"
+	},
+	{
+		"Longitude" : "-102.535178",
+		"Zipcode" : "57770",
+		"ZipClass" : "STANDARD",
+		"County" : "SHANNON",
+		"City" : "PINE RIDGE",
+		"State" : "SD",
+		"Latitude" : "+43.024319"
+	},
+	{
+		"Longitude" : "-102.541100",
+		"Zipcode" : "57772",
+		"ZipClass" : "STANDARD",
+		"County" : "SHANNON",
+		"City" : "PORCUPINE",
+		"State" : "SD",
+		"Latitude" : "+43.352617"
+	},
+	{
+		"Longitude" : "-103.371071",
+		"Zipcode" : "57773",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUSTER",
+		"City" : "PRINGLE",
+		"State" : "SD",
+		"Latitude" : "+43.666816"
+	},
+	{
+		"Longitude" : "-103.527757",
+		"Zipcode" : "57774",
+		"ZipClass" : "STANDARD",
+		"County" : "FALL RIVER",
+		"City" : "PROVO",
+		"State" : "SD",
+		"Latitude" : "+43.239655"
+	},
+	{
+		"Longitude" : "-102.222633",
+		"Zipcode" : "57775",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "QUINN",
+		"State" : "SD",
+		"Latitude" : "+44.068731"
+	},
+	{
+		"Longitude" : "-103.493668",
+		"Zipcode" : "57776",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARDING",
+		"City" : "REDIG",
+		"State" : "SD",
+		"Latitude" : "+45.578941"
+	},
+	{
+		"Longitude" : "-102.587048",
+		"Zipcode" : "57777",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "RED OWL",
+		"State" : "SD",
+		"Latitude" : "+44.691005"
+	},
+	{
+		"Longitude" : "-103.761058",
+		"Zipcode" : "57778",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "ROCHFORD",
+		"State" : "SD",
+		"Latitude" : "+44.117606"
+	},
+	{
+		"Longitude" : "-103.723214",
+		"Zipcode" : "57779",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SAINT ONGE",
+		"State" : "SD",
+		"Latitude" : "+44.547307"
+	},
+	{
+		"Longitude" : "-102.346797",
+		"Zipcode" : "57780",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "SCENIC",
+		"State" : "SD",
+		"Latitude" : "+43.788416"
+	},
+	{
+		"Longitude" : "-103.527757",
+		"Zipcode" : "57782",
+		"ZipClass" : "STANDARD",
+		"County" : "FALL RIVER",
+		"City" : "SMITHWICK",
+		"State" : "SD",
+		"Latitude" : "+43.239655"
+	},
+	{
+		"Longitude" : "-103.772331",
+		"Zipcode" : "57783",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SPEARFISH",
+		"State" : "SD",
+		"Latitude" : "+44.467137"
+	},
+	{
+		"Longitude" : "-103.361658",
+		"Zipcode" : "57785",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "STURGIS",
+		"State" : "SD",
+		"Latitude" : "+44.369172"
+	},
+	{
+		"Longitude" : "-102.725189",
+		"Zipcode" : "57787",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "UNION CENTER",
+		"State" : "SD",
+		"Latitude" : "+44.653923"
+	},
+	{
+		"Longitude" : "-103.425620",
+		"Zipcode" : "57788",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTTE",
+		"City" : "VALE",
+		"State" : "SD",
+		"Latitude" : "+44.719176"
+	},
+	{
+		"Longitude" : "-102.238397",
+		"Zipcode" : "57790",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "WALL",
+		"State" : "SD",
+		"Latitude" : "+44.013772"
+	},
+	{
+		"Longitude" : "-102.598660",
+		"Zipcode" : "57791",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "WASTA",
+		"State" : "SD",
+		"Latitude" : "+44.016848"
+	},
+	{
+		"Longitude" : "-102.787188",
+		"Zipcode" : "57792",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "WHITE OWL",
+		"State" : "SD",
+		"Latitude" : "+44.589806"
+	},
+	{
+		"Longitude" : "-103.644136",
+		"Zipcode" : "57793",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "WHITEWOOD",
+		"State" : "SD",
+		"Latitude" : "+44.464980"
+	},
+	{
+		"Longitude" : "-102.541100",
+		"Zipcode" : "57794",
+		"ZipClass" : "STANDARD",
+		"County" : "SHANNON",
+		"City" : "WOUNDED KNEE",
+		"State" : "SD",
+		"Latitude" : "+43.352617"
+	},
+	{
+		"Longitude" : "-103.870251",
+		"Zipcode" : "57799",
+		"ZipClass" : "UNIQUE",
+		"County" : "LAWRENCE",
+		"City" : "SPEARFISH",
+		"State" : "SD",
+		"Latitude" : "+44.495846"
+	}
+]}

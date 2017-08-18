@@ -1,0 +1,8373 @@
+{
+	"result":[
+	{
+		"Longitude" : "-081.160066",
+		"Zipcode" : "24701",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "BLUEFIELD",
+		"State" : "WV",
+		"Latitude" : "+37.332725"
+	},
+	{
+		"Longitude" : "-081.009160",
+		"Zipcode" : "24712",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "ATHENS",
+		"State" : "WV",
+		"Latitude" : "+37.452346"
+	},
+	{
+		"Longitude" : "-081.160053",
+		"Zipcode" : "24714",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "BEESON",
+		"State" : "WV",
+		"Latitude" : "+37.460069"
+	},
+	{
+		"Longitude" : "-081.325281",
+		"Zipcode" : "24715",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "BRAMWELL",
+		"State" : "WV",
+		"Latitude" : "+37.343532"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24716",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "BUD",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24719",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "COVEL",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.311849",
+		"Zipcode" : "24724",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERCER",
+		"City" : "FREEMAN",
+		"State" : "WV",
+		"Latitude" : "+37.333273"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24726",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "HERNDON",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.105803",
+		"Zipcode" : "24729",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERCER",
+		"City" : "HIAWATHA",
+		"State" : "WV",
+		"Latitude" : "+37.416395"
+	},
+	{
+		"Longitude" : "-081.105803",
+		"Zipcode" : "24731",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "KEGLEY",
+		"State" : "WV",
+		"Latitude" : "+37.416395"
+	},
+	{
+		"Longitude" : "-081.105803",
+		"Zipcode" : "24732",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERCER",
+		"City" : "KELLYSVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.416395"
+	},
+	{
+		"Longitude" : "-081.190841",
+		"Zipcode" : "24733",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "LASHMEET",
+		"State" : "WV",
+		"Latitude" : "+37.440745"
+	},
+	{
+		"Longitude" : "-081.202217",
+		"Zipcode" : "24736",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "MATOAKA",
+		"State" : "WV",
+		"Latitude" : "+37.416393"
+	},
+	{
+		"Longitude" : "-081.251807",
+		"Zipcode" : "24737",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERCER",
+		"City" : "MONTCALM",
+		"State" : "WV",
+		"Latitude" : "+37.353910"
+	},
+	{
+		"Longitude" : "-081.105803",
+		"Zipcode" : "24738",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERCER",
+		"City" : "NEMOURS",
+		"State" : "WV",
+		"Latitude" : "+37.416395"
+	},
+	{
+		"Longitude" : "-081.105803",
+		"Zipcode" : "24739",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "OAKVALE",
+		"State" : "WV",
+		"Latitude" : "+37.416395"
+	},
+	{
+		"Longitude" : "-081.117475",
+		"Zipcode" : "24740",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "PRINCETON",
+		"State" : "WV",
+		"Latitude" : "+37.379876"
+	},
+	{
+		"Longitude" : "-081.178417",
+		"Zipcode" : "24747",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "ROCK",
+		"State" : "WV",
+		"Latitude" : "+37.414224"
+	},
+	{
+		"Longitude" : "-081.105803",
+		"Zipcode" : "24751",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERCER",
+		"City" : "WOLFE",
+		"State" : "WV",
+		"Latitude" : "+37.416395"
+	},
+	{
+		"Longitude" : "-081.539352",
+		"Zipcode" : "24801",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "WELCH",
+		"State" : "WV",
+		"Latitude" : "+37.411086"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24808",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "ANAWALT",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24811",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "AVONDALE",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.683131",
+		"Zipcode" : "24813",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "BARTLEY",
+		"State" : "WV",
+		"Latitude" : "+37.343847"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24815",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "BERWIND",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24816",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "BIG SANDY",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24817",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "BRADSHAW",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24818",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "BRENTON",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24820",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "CAPELS",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.634292",
+		"Zipcode" : "24821",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "CARETTA",
+		"State" : "WV",
+		"Latitude" : "+37.382970"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24822",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "CLEAR FORK",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.702061",
+		"Zipcode" : "24823",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "COAL MOUNTAIN",
+		"State" : "WV",
+		"Latitude" : "+37.626772"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24824",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "COALWOOD",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24825",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "CRUMPLER",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24826",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "CUCUMBER",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24827",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "CYCLONE",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.681104",
+		"Zipcode" : "24828",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "DAVY",
+		"State" : "WV",
+		"Latitude" : "+37.467849"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24829",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "ECKMAN",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24830",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "ELBERT",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.570983",
+		"Zipcode" : "24831",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "ELKHORN",
+		"State" : "WV",
+		"Latitude" : "+37.432867"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24832",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "ENGLISH",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24834",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "FANROCK",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.554444",
+		"Zipcode" : "24836",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "GARY",
+		"State" : "WV",
+		"Latitude" : "+37.365840"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24839",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "HANOVER",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.576548",
+		"Zipcode" : "24841",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "HAVACO",
+		"State" : "WV",
+		"Latitude" : "+37.405828"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24842",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "HEMPHILL",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24843",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "HENSLEY",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24844",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "IAEGER",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24845",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "IKES FORK",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24846",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "ISABAN",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24847",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "ITMANN",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24848",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "JENKINJONES",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24849",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "JESSE",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24850",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "JOLO",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "24851",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "JUSTICE",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-081.431783",
+		"Zipcode" : "24852",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "KEYSTONE",
+		"State" : "WV",
+		"Latitude" : "+37.414357"
+	},
+	{
+		"Longitude" : "-081.511965",
+		"Zipcode" : "24853",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "KIMBALL",
+		"State" : "WV",
+		"Latitude" : "+37.442086"
+	},
+	{
+		"Longitude" : "-081.574986",
+		"Zipcode" : "24854",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "KOPPERSTON",
+		"State" : "WV",
+		"Latitude" : "+37.743967"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24855",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "KYLE",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24856",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "LECKIE",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24857",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "LYNCO",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24859",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "MARIANNA",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24860",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "MATHENY",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.423979",
+		"Zipcode" : "24861",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "MAYBEURY",
+		"State" : "WV",
+		"Latitude" : "+37.417549"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24862",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "MOHAWK",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24866",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "NEWHALL",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24867",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "NEW RICHMOND",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.419578",
+		"Zipcode" : "24868",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "NORTHFORK",
+		"State" : "WV",
+		"Latitude" : "+37.389939"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24869",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "NORTH SPRING",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.583069",
+		"Zipcode" : "24870",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "OCEANA",
+		"State" : "WV",
+		"Latitude" : "+37.740710"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24871",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "PAGETON",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24872",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "PANTHER",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24873",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "PAYNESVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24874",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "PINEVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24877",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "POWHATAN",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24878",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "PREMIER",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24879",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "RAYSAL",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24880",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "ROCK VIEW",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24881",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "RODERFIELD",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24882",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "SIMON",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24883",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "SKYGUSTY",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24884",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "SQUIRE",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24887",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "SWITCHBACK",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24888",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "THORPE",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24889",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "TWIN BRANCH",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24892",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "WAR",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24894",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "WARRIORMINE",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24895",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "WILCOE",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24896",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "WOLF PEN",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24897",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCDOWELL",
+		"City" : "WORTH",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "24898",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "WYOMING",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.653889",
+		"Zipcode" : "24899",
+		"ZipClass" : "STANDARD",
+		"County" : "MCDOWELL",
+		"City" : "YUKON",
+		"State" : "WV",
+		"Latitude" : "+37.375246"
+	},
+	{
+		"Longitude" : "-080.538781",
+		"Zipcode" : "24901",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "LEWISBURG",
+		"State" : "WV",
+		"Latitude" : "+37.844155"
+	},
+	{
+		"Longitude" : "-080.461492",
+		"Zipcode" : "24902",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "FAIRLEA",
+		"State" : "WV",
+		"Latitude" : "+37.774666"
+	},
+	{
+		"Longitude" : "-080.572401",
+		"Zipcode" : "24910",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "ALDERSON",
+		"State" : "WV",
+		"Latitude" : "+37.843940"
+	},
+	{
+		"Longitude" : "-079.990585",
+		"Zipcode" : "24915",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "ARBOVALE",
+		"State" : "WV",
+		"Latitude" : "+38.387966"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24916",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "ASBURY",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24917",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "AUTO",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24918",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BALLARD",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-080.890043",
+		"Zipcode" : "24919",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "BALLENGEE",
+		"State" : "WV",
+		"Latitude" : "+37.674782"
+	},
+	{
+		"Longitude" : "-079.990585",
+		"Zipcode" : "24920",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "BARTOW",
+		"State" : "WV",
+		"Latitude" : "+38.387966"
+	},
+	{
+		"Longitude" : "-079.990585",
+		"Zipcode" : "24924",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "BUCKEYE",
+		"State" : "WV",
+		"Latitude" : "+38.387966"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24925",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "CALDWELL",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-079.990585",
+		"Zipcode" : "24927",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "CASS",
+		"State" : "WV",
+		"Latitude" : "+38.387966"
+	},
+	{
+		"Longitude" : "-080.611705",
+		"Zipcode" : "24931",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "CRAWLEY",
+		"State" : "WV",
+		"Latitude" : "+37.918876"
+	},
+	{
+		"Longitude" : "-079.898674",
+		"Zipcode" : "24934",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "DUNMORE",
+		"State" : "WV",
+		"Latitude" : "+38.326214"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "24935",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "FOREST HILL",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24936",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "FORT SPRING",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.335257",
+		"Zipcode" : "24938",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "FRANKFORD",
+		"State" : "WV",
+		"Latitude" : "+37.915363"
+	},
+	{
+		"Longitude" : "-080.340084",
+		"Zipcode" : "24941",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "GAP MILLS",
+		"State" : "WV",
+		"Latitude" : "+37.589020"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24942",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "GLACE",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24943",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "GRASSY MEADOWS",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-079.990585",
+		"Zipcode" : "24944",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "GREEN BANK",
+		"State" : "WV",
+		"Latitude" : "+38.387966"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24945",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "GREENVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-080.264059",
+		"Zipcode" : "24946",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "HILLSBORO",
+		"State" : "WV",
+		"Latitude" : "+38.110904"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24950",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "KIEFFER",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24951",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "LINDSIDE",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-080.104625",
+		"Zipcode" : "24954",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "MARLINTON",
+		"State" : "WV",
+		"Latitude" : "+38.258638"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24957",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "MAXWELTON",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24958",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "MEADOW BLUFF",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24961",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "NEOLA",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "24962",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "PENCE SPRINGS",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-080.797806",
+		"Zipcode" : "24963",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "PETERSTOWN",
+		"State" : "WV",
+		"Latitude" : "+37.399956"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24966",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "RENICK",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.454189",
+		"Zipcode" : "24970",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "RONCEVERTE",
+		"State" : "WV",
+		"Latitude" : "+37.744709"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24974",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "SECONDCREEK",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24976",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "SINKS GROVE",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24977",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "SMOOT",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "24981",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "TALCOTT",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24983",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "UNION",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-080.420487",
+		"Zipcode" : "24984",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "WAITEVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.489872"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24985",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "WAYSIDE",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-080.312877",
+		"Zipcode" : "24986",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "WHITE SULPHUR SPRINGS",
+		"State" : "WV",
+		"Latitude" : "+37.782726"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "24991",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "WILLIAMSBURG",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.539672",
+		"Zipcode" : "24993",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "WOLFCREEK",
+		"State" : "WV",
+		"Latitude" : "+37.552029"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25002",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "ALLOY",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.771226",
+		"Zipcode" : "25003",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "ALUM CREEK",
+		"State" : "WV",
+		"Latitude" : "+38.243675"
+	},
+	{
+		"Longitude" : "-081.118491",
+		"Zipcode" : "25004",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "AMEAGLE",
+		"State" : "WV",
+		"Latitude" : "+37.784459"
+	},
+	{
+		"Longitude" : "-081.273681",
+		"Zipcode" : "25005",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "AMMA",
+		"State" : "WV",
+		"Latitude" : "+38.591037"
+	},
+	{
+		"Longitude" : "-081.409586",
+		"Zipcode" : "25007",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "ARNETT",
+		"State" : "WV",
+		"Latitude" : "+37.821560"
+	},
+	{
+		"Longitude" : "-081.354496",
+		"Zipcode" : "25008",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "ARTIE",
+		"State" : "WV",
+		"Latitude" : "+37.940013"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25009",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "ASHFORD",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25010",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "BALD KNOB",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.841002",
+		"Zipcode" : "25011",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PUTNAM",
+		"City" : "BANCROFT",
+		"State" : "WV",
+		"Latitude" : "+38.508559"
+	},
+	{
+		"Longitude" : "-081.502399",
+		"Zipcode" : "25015",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "BELLE",
+		"State" : "WV",
+		"Latitude" : "+38.232406"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25018",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BENTREE",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25019",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BICKMORE",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25021",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "BIM",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25022",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "BLAIR",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.630599",
+		"Zipcode" : "25024",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "BLOOMINGROSE",
+		"State" : "WV",
+		"Latitude" : "+38.154021"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25025",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "BLOUNT",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.392845",
+		"Zipcode" : "25026",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "BLUE CREEK",
+		"State" : "WV",
+		"Latitude" : "+38.490789"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25028",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "BOB WHITE",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.254838",
+		"Zipcode" : "25030",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BOMONT",
+		"State" : "WV",
+		"Latitude" : "+38.387998"
+	},
+	{
+		"Longitude" : "-081.307528",
+		"Zipcode" : "25031",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "BOOMER",
+		"State" : "WV",
+		"Latitude" : "+38.163248"
+	},
+	{
+		"Longitude" : "-081.924758",
+		"Zipcode" : "25033",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "BUFFALO",
+		"State" : "WV",
+		"Latitude" : "+38.610603"
+	},
+	{
+		"Longitude" : "-081.498415",
+		"Zipcode" : "25035",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CABIN CREEK",
+		"State" : "WV",
+		"Latitude" : "+38.193014"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25036",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "CANNELTON",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.598230",
+		"Zipcode" : "25039",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CEDAR GROVE",
+		"State" : "WV",
+		"Latitude" : "+38.279199"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25040",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "CHARLTON HEIGHTS",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.080031",
+		"Zipcode" : "25043",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CLAY",
+		"State" : "WV",
+		"Latitude" : "+38.467298"
+	},
+	{
+		"Longitude" : "-081.408766",
+		"Zipcode" : "25044",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "CLEAR CREEK",
+		"State" : "WV",
+		"Latitude" : "+37.880406"
+	},
+	{
+		"Longitude" : "-081.357213",
+		"Zipcode" : "25045",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CLENDENIN",
+		"State" : "WV",
+		"Latitude" : "+38.453862"
+	},
+	{
+		"Longitude" : "-081.314633",
+		"Zipcode" : "25046",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROANE",
+		"City" : "CLIO",
+		"State" : "WV",
+		"Latitude" : "+38.731737"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25047",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "CLOTHIER",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.402075",
+		"Zipcode" : "25048",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "COLCORD",
+		"State" : "WV",
+		"Latitude" : "+37.942986"
+	},
+	{
+		"Longitude" : "-081.607191",
+		"Zipcode" : "25049",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "COMFORT",
+		"State" : "WV",
+		"Latitude" : "+38.126494"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25051",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "COSTA",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.885268",
+		"Zipcode" : "25053",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "DANVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.019460"
+	},
+	{
+		"Longitude" : "-081.451066",
+		"Zipcode" : "25054",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "DAWES",
+		"State" : "WV",
+		"Latitude" : "+38.073666"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25057",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "DEEP WATER",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.217588",
+		"Zipcode" : "25059",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "DIXIE",
+		"State" : "WV",
+		"Latitude" : "+38.254945"
+	},
+	{
+		"Longitude" : "-081.444561",
+		"Zipcode" : "25060",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "DOROTHY",
+		"State" : "WV",
+		"Latitude" : "+37.949132"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "DRYBRANCH",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.453786",
+		"Zipcode" : "25062",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "DRY CREEK",
+		"State" : "WV",
+		"Latitude" : "+37.854572"
+	},
+	{
+		"Longitude" : "-080.936783",
+		"Zipcode" : "25063",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "DUCK",
+		"State" : "WV",
+		"Latitude" : "+38.582138"
+	},
+	{
+		"Longitude" : "-081.570048",
+		"Zipcode" : "25064",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "DUNBAR",
+		"State" : "WV",
+		"Latitude" : "+38.348822"
+	},
+	{
+		"Longitude" : "-081.438053",
+		"Zipcode" : "25067",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "EAST BANK",
+		"State" : "WV",
+		"Latitude" : "+38.209887"
+	},
+	{
+		"Longitude" : "-081.941425",
+		"Zipcode" : "25070",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PUTNAM",
+		"City" : "ELEANOR",
+		"State" : "WV",
+		"Latitude" : "+38.543573"
+	},
+	{
+		"Longitude" : "-081.450424",
+		"Zipcode" : "25071",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "ELKVIEW",
+		"State" : "WV",
+		"Latitude" : "+38.386942"
+	},
+	{
+		"Longitude" : "-081.615909",
+		"Zipcode" : "25075",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "ESKDALE",
+		"State" : "WV",
+		"Latitude" : "+38.178047"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25076",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "ETHEL",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.398422",
+		"Zipcode" : "25079",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "FALLING ROCK",
+		"State" : "WV",
+		"Latitude" : "+38.495072"
+	},
+	{
+		"Longitude" : "-081.825259",
+		"Zipcode" : "25081",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "FOSTER",
+		"State" : "WV",
+		"Latitude" : "+38.072562"
+	},
+	{
+		"Longitude" : "-082.022361",
+		"Zipcode" : "25082",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "FRAZIERS BOTTOM",
+		"State" : "WV",
+		"Latitude" : "+38.560972"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25083",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "GALLAGHER",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.174906",
+		"Zipcode" : "25085",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "GAULEY BRIDGE",
+		"State" : "WV",
+		"Latitude" : "+38.156166"
+	},
+	{
+		"Longitude" : "-081.406705",
+		"Zipcode" : "25086",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "GLASGOW",
+		"State" : "WV",
+		"Latitude" : "+38.215547"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25088",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "GLEN",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25090",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "GLEN FERRIS",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25093",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "GORDON",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.997278",
+		"Zipcode" : "25095",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MASON",
+		"City" : "GRIMMS LANDING",
+		"State" : "WV",
+		"Latitude" : "+38.752312"
+	},
+	{
+		"Longitude" : "-081.365700",
+		"Zipcode" : "25102",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "HANDLEY",
+		"State" : "WV",
+		"Latitude" : "+38.187888"
+	},
+	{
+		"Longitude" : "-081.392860",
+		"Zipcode" : "25103",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "HANSFORD",
+		"State" : "WV",
+		"Latitude" : "+38.207048"
+	},
+	{
+		"Longitude" : "-082.138543",
+		"Zipcode" : "25106",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "HENDERSON",
+		"State" : "WV",
+		"Latitude" : "+38.833117"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25107",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "HERNSHAW",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25108",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "HEWETT",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.880455",
+		"Zipcode" : "25109",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PUTNAM",
+		"City" : "HOMETOWN",
+		"State" : "WV",
+		"Latitude" : "+38.475369"
+	},
+	{
+		"Longitude" : "-081.388446",
+		"Zipcode" : "25110",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "HUGHESTON",
+		"State" : "WV",
+		"Latitude" : "+38.210970"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25111",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "INDORE",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.565140",
+		"Zipcode" : "25112",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "INSTITUTE",
+		"State" : "WV",
+		"Latitude" : "+38.282497"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25113",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "IVYDALE",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25114",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "JEFFREY",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25115",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "KANAWHA FALLS",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25118",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "KIMBERLY",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25119",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "KINCAID",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.903389",
+		"Zipcode" : "25121",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "LAKE",
+		"State" : "WV",
+		"Latitude" : "+37.920381"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25122",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "LEEWOOD",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.914474",
+		"Zipcode" : "25123",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "LEON",
+		"State" : "WV",
+		"Latitude" : "+38.704805"
+	},
+	{
+		"Longitude" : "-081.880455",
+		"Zipcode" : "25124",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "LIBERTY",
+		"State" : "WV",
+		"Latitude" : "+38.475369"
+	},
+	{
+		"Longitude" : "-081.198102",
+		"Zipcode" : "25125",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "LIZEMORES",
+		"State" : "WV",
+		"Latitude" : "+38.334726"
+	},
+	{
+		"Longitude" : "-081.371367",
+		"Zipcode" : "25126",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "LONDON",
+		"State" : "WV",
+		"Latitude" : "+38.195983"
+	},
+	{
+		"Longitude" : "-081.818718",
+		"Zipcode" : "25130",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "MADISON",
+		"State" : "WV",
+		"Latitude" : "+38.063165"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25132",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "MAMMOTH",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25133",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MAYSEL",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25134",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "MIAMI",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.322175",
+		"Zipcode" : "25136",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "MONTGOMERY",
+		"State" : "WV",
+		"Latitude" : "+38.172523"
+	},
+	{
+		"Longitude" : "-081.293090",
+		"Zipcode" : "25139",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "MOUNT CARBON",
+		"State" : "WV",
+		"Latitude" : "+38.139916"
+	},
+	{
+		"Longitude" : "-081.481192",
+		"Zipcode" : "25140",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "NAOMA",
+		"State" : "WV",
+		"Latitude" : "+37.877222"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25141",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "NEBO",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25142",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "NELLIS",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.616124",
+		"Zipcode" : "25143",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "NITRO",
+		"State" : "WV",
+		"Latitude" : "+38.323042"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25147",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "OHLEY",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25148",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "ORGAS",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25149",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOONE",
+		"City" : "OTTAWA",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25150",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "OVAPA",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25152",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "PAGE",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.679052",
+		"Zipcode" : "25154",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "PEYTONA",
+		"State" : "WV",
+		"Latitude" : "+38.136924"
+	},
+	{
+		"Longitude" : "-081.461063",
+		"Zipcode" : "25156",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "PINCH",
+		"State" : "WV",
+		"Latitude" : "+38.401962"
+	},
+	{
+		"Longitude" : "-081.783795",
+		"Zipcode" : "25159",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "POCA",
+		"State" : "WV",
+		"Latitude" : "+38.479147"
+	},
+	{
+		"Longitude" : "-081.277293",
+		"Zipcode" : "25160",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "POND GAP",
+		"State" : "WV",
+		"Latitude" : "+38.290746"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25161",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "POWELLTON",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.385107",
+		"Zipcode" : "25162",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "PRATT",
+		"State" : "WV",
+		"Latitude" : "+38.210104"
+	},
+	{
+		"Longitude" : "-081.198904",
+		"Zipcode" : "25164",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "PROCIOUS",
+		"State" : "WV",
+		"Latitude" : "+38.491236"
+	},
+	{
+		"Longitude" : "-081.658829",
+		"Zipcode" : "25165",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "RACINE",
+		"State" : "WV",
+		"Latitude" : "+38.140996"
+	},
+	{
+		"Longitude" : "-081.901394",
+		"Zipcode" : "25168",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "RED HOUSE",
+		"State" : "WV",
+		"Latitude" : "+38.555097"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25169",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "RIDGEVIEW",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.237015",
+		"Zipcode" : "25173",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "ROBSON",
+		"State" : "WV",
+		"Latitude" : "+38.076677"
+	},
+	{
+		"Longitude" : "-081.418351",
+		"Zipcode" : "25174",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "ROCK CREEK",
+		"State" : "WV",
+		"Latitude" : "+37.854721"
+	},
+	{
+		"Longitude" : "-081.636926",
+		"Zipcode" : "25177",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "SAINT ALBANS",
+		"State" : "WV",
+		"Latitude" : "+38.314610"
+	},
+	{
+		"Longitude" : "-081.384755",
+		"Zipcode" : "25180",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "SAXON",
+		"State" : "WV",
+		"Latitude" : "+37.793057"
+	},
+	{
+		"Longitude" : "-081.622894",
+		"Zipcode" : "25181",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "SETH",
+		"State" : "WV",
+		"Latitude" : "+38.085024"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25182",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "SHARON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25183",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "SHARPLES",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25185",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "MOUNT OLIVE",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.278012",
+		"Zipcode" : "25186",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "SMITHERS",
+		"State" : "WV",
+		"Latitude" : "+38.154338"
+	},
+	{
+		"Longitude" : "-082.027474",
+		"Zipcode" : "25187",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "SOUTHSIDE",
+		"State" : "WV",
+		"Latitude" : "+38.725035"
+	},
+	{
+		"Longitude" : "-081.558467",
+		"Zipcode" : "25193",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "SYLVESTER",
+		"State" : "WV",
+		"Latitude" : "+38.010386"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25201",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANAWHA",
+		"City" : "TAD",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.856300",
+		"Zipcode" : "25202",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "TORNADO",
+		"State" : "WV",
+		"Latitude" : "+38.332069"
+	},
+	{
+		"Longitude" : "-081.942704",
+		"Zipcode" : "25203",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "TURTLE CREEK",
+		"State" : "WV",
+		"Latitude" : "+37.986266"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25204",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "TWILIGHT",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.805265",
+		"Zipcode" : "25205",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOONE",
+		"City" : "UNEEDA",
+		"State" : "WV",
+		"Latitude" : "+38.042839"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25206",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "VAN",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.717040",
+		"Zipcode" : "25208",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "WHARTON",
+		"State" : "WV",
+		"Latitude" : "+37.997105"
+	},
+	{
+		"Longitude" : "-081.542234",
+		"Zipcode" : "25209",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "WHITESVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.991591"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25211",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "WIDEN",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.914048",
+		"Zipcode" : "25213",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "WINFIELD",
+		"State" : "WV",
+		"Latitude" : "+38.500990"
+	},
+	{
+		"Longitude" : "-081.565648",
+		"Zipcode" : "25214",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "WINIFREDE",
+		"State" : "WV",
+		"Latitude" : "+38.189830"
+	},
+	{
+		"Longitude" : "-081.706650",
+		"Zipcode" : "25231",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ADVENT",
+		"State" : "WV",
+		"Latitude" : "+38.824924"
+	},
+	{
+		"Longitude" : "-081.132151",
+		"Zipcode" : "25234",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ARNOLDSBURG",
+		"State" : "WV",
+		"Latitude" : "+38.828582"
+	},
+	{
+		"Longitude" : "-081.132151",
+		"Zipcode" : "25235",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "CHLOE",
+		"State" : "WV",
+		"Latitude" : "+38.828582"
+	},
+	{
+		"Longitude" : "-081.847298",
+		"Zipcode" : "25239",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "COTTAGEVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.848369"
+	},
+	{
+		"Longitude" : "-081.807118",
+		"Zipcode" : "25241",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "EVANS",
+		"State" : "WV",
+		"Latitude" : "+38.796245"
+	},
+	{
+		"Longitude" : "-081.453016",
+		"Zipcode" : "25243",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "GANDEEVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.683119"
+	},
+	{
+		"Longitude" : "-081.706650",
+		"Zipcode" : "25244",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "GAY",
+		"State" : "WV",
+		"Latitude" : "+38.824924"
+	},
+	{
+		"Longitude" : "-081.722296",
+		"Zipcode" : "25245",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "GIVEN",
+		"State" : "WV",
+		"Latitude" : "+38.706970"
+	},
+	{
+		"Longitude" : "-081.997278",
+		"Zipcode" : "25247",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MASON",
+		"City" : "HARTFORD",
+		"State" : "WV",
+		"Latitude" : "+38.752312"
+	},
+	{
+		"Longitude" : "-081.621667",
+		"Zipcode" : "25248",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "KENNA",
+		"State" : "WV",
+		"Latitude" : "+38.623155"
+	},
+	{
+		"Longitude" : "-081.997278",
+		"Zipcode" : "25250",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MASON",
+		"City" : "LAKIN",
+		"State" : "WV",
+		"Latitude" : "+38.752312"
+	},
+	{
+		"Longitude" : "-081.314633",
+		"Zipcode" : "25251",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "LEFT HAND",
+		"State" : "WV",
+		"Latitude" : "+38.731737"
+	},
+	{
+		"Longitude" : "-081.706650",
+		"Zipcode" : "25252",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "LE ROY",
+		"State" : "WV",
+		"Latitude" : "+38.824924"
+	},
+	{
+		"Longitude" : "-081.951871",
+		"Zipcode" : "25253",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "LETART",
+		"State" : "WV",
+		"Latitude" : "+38.989085"
+	},
+	{
+		"Longitude" : "-081.314633",
+		"Zipcode" : "25256",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROANE",
+		"City" : "LINDEN",
+		"State" : "WV",
+		"Latitude" : "+38.731737"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "25258",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "LOCKNEY",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-081.233061",
+		"Zipcode" : "25259",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "LOONEYVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.696744"
+	},
+	{
+		"Longitude" : "-082.016935",
+		"Zipcode" : "25260",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "MASON",
+		"State" : "WV",
+		"Latitude" : "+39.011467"
+	},
+	{
+		"Longitude" : "-081.132151",
+		"Zipcode" : "25261",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "MILLSTONE",
+		"State" : "WV",
+		"Latitude" : "+38.828582"
+	},
+	{
+		"Longitude" : "-081.835048",
+		"Zipcode" : "25262",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MILLWOOD",
+		"State" : "WV",
+		"Latitude" : "+38.905595"
+	},
+	{
+		"Longitude" : "-081.706650",
+		"Zipcode" : "25264",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MOUNT ALTO",
+		"State" : "WV",
+		"Latitude" : "+38.824924"
+	},
+	{
+		"Longitude" : "-081.965175",
+		"Zipcode" : "25265",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MASON",
+		"City" : "NEW HAVEN",
+		"State" : "WV",
+		"Latitude" : "+38.986319"
+	},
+	{
+		"Longitude" : "-081.314633",
+		"Zipcode" : "25266",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "NEWTON",
+		"State" : "WV",
+		"Latitude" : "+38.731737"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "25267",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "NORMANTOWN",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-081.132151",
+		"Zipcode" : "25268",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "ORMA",
+		"State" : "WV",
+		"Latitude" : "+38.828582"
+	},
+	{
+		"Longitude" : "-081.439879",
+		"Zipcode" : "25270",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "REEDY",
+		"State" : "WV",
+		"Latitude" : "+38.888886"
+	},
+	{
+		"Longitude" : "-081.728065",
+		"Zipcode" : "25271",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "RIPLEY",
+		"State" : "WV",
+		"Latitude" : "+38.791845"
+	},
+	{
+		"Longitude" : "-081.682596",
+		"Zipcode" : "25275",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SANDYVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.889106"
+	},
+	{
+		"Longitude" : "-081.364262",
+		"Zipcode" : "25276",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "SPENCER",
+		"State" : "WV",
+		"Latitude" : "+38.777675"
+	},
+	{
+		"Longitude" : "-081.706650",
+		"Zipcode" : "25279",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "STATTS MILLS",
+		"State" : "WV",
+		"Latitude" : "+38.824924"
+	},
+	{
+		"Longitude" : "-081.314633",
+		"Zipcode" : "25281",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "TARIFF",
+		"State" : "WV",
+		"Latitude" : "+38.731737"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25283",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "VALLEY FORK",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "25285",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "WALLBACK",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-081.419262",
+		"Zipcode" : "25286",
+		"ZipClass" : "STANDARD",
+		"County" : "ROANE",
+		"City" : "WALTON",
+		"State" : "WV",
+		"Latitude" : "+38.608737"
+	},
+	{
+		"Longitude" : "-081.997278",
+		"Zipcode" : "25287",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "WEST COLUMBIA",
+		"State" : "WV",
+		"Latitude" : "+38.752312"
+	},
+	{
+		"Longitude" : "-081.605094",
+		"Zipcode" : "25301",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.328948"
+	},
+	{
+		"Longitude" : "-081.584087",
+		"Zipcode" : "25302",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.401498"
+	},
+	{
+		"Longitude" : "-081.658246",
+		"Zipcode" : "25303",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.352946"
+	},
+	{
+		"Longitude" : "-081.595903",
+		"Zipcode" : "25304",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.305728"
+	},
+	{
+		"Longitude" : "-081.612344",
+		"Zipcode" : "25305",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.335798"
+	},
+	{
+		"Longitude" : "-081.527433",
+		"Zipcode" : "25306",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.317499"
+	},
+	{
+		"Longitude" : "-081.756808",
+		"Zipcode" : "25309",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.310767"
+	},
+	{
+		"Longitude" : "-081.632845",
+		"Zipcode" : "25311",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.371957"
+	},
+	{
+		"Longitude" : "-081.637823",
+		"Zipcode" : "25312",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.455865"
+	},
+	{
+		"Longitude" : "-081.758172",
+		"Zipcode" : "25313",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.414156"
+	},
+	{
+		"Longitude" : "-081.665927",
+		"Zipcode" : "25314",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.329250"
+	},
+	{
+		"Longitude" : "-081.553608",
+		"Zipcode" : "25315",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.235149"
+	},
+	{
+		"Longitude" : "-081.613794",
+		"Zipcode" : "25317",
+		"ZipClass" : "UNIQUE",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.335647"
+	},
+	{
+		"Longitude" : "-081.633378",
+		"Zipcode" : "25320",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.542798"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25321",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.560350",
+		"Zipcode" : "25322",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.534661"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25323",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25324",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25325",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25326",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25327",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25328",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25329",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25330",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25331",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25332",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25333",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25334",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25335",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25336",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25337",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25338",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25339",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25350",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25356",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25357",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25358",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25360",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25361",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25362",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25364",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25365",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25375",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25387",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.639389",
+		"Zipcode" : "25389",
+		"ZipClass" : "STANDARD",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.354041"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25392",
+		"ZipClass" : "UNIQUE",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-081.554655",
+		"Zipcode" : "25396",
+		"ZipClass" : "UNIQUE",
+		"County" : "KANAWHA",
+		"City" : "CHARLESTON",
+		"State" : "WV",
+		"Latitude" : "+38.296818"
+	},
+	{
+		"Longitude" : "-077.951924",
+		"Zipcode" : "25401",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "MARTINSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.444061"
+	},
+	{
+		"Longitude" : "-078.011472",
+		"Zipcode" : "25402",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "MARTINSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.461663"
+	},
+	{
+		"Longitude" : "-077.877223",
+		"Zipcode" : "25410",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BAKERTON",
+		"State" : "WV",
+		"Latitude" : "+39.315914"
+	},
+	{
+		"Longitude" : "-078.187730",
+		"Zipcode" : "25411",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "BERKELEY SPRINGS",
+		"State" : "WV",
+		"Latitude" : "+39.552557"
+	},
+	{
+		"Longitude" : "-078.064925",
+		"Zipcode" : "25413",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "BUNKER HILL",
+		"State" : "WV",
+		"Latitude" : "+39.377876"
+	},
+	{
+		"Longitude" : "-077.860278",
+		"Zipcode" : "25414",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "CHARLES TOWN",
+		"State" : "WV",
+		"Latitude" : "+39.313538"
+	},
+	{
+		"Longitude" : "-077.882155",
+		"Zipcode" : "25419",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "FALLING WATERS",
+		"State" : "WV",
+		"Latitude" : "+39.572966"
+	},
+	{
+		"Longitude" : "-078.102777",
+		"Zipcode" : "25420",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "GERRARDSTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.384529"
+	},
+	{
+		"Longitude" : "-078.143466",
+		"Zipcode" : "25421",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKELEY",
+		"City" : "GLENGARY",
+		"State" : "WV",
+		"Latitude" : "+39.381345"
+	},
+	{
+		"Longitude" : "-078.391552",
+		"Zipcode" : "25422",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "GREAT CACAPON",
+		"State" : "WV",
+		"Latitude" : "+39.612559"
+	},
+	{
+		"Longitude" : "-077.877223",
+		"Zipcode" : "25423",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "HALLTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.315914"
+	},
+	{
+		"Longitude" : "-077.789387",
+		"Zipcode" : "25425",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HARPERS FERRY",
+		"State" : "WV",
+		"Latitude" : "+39.314617"
+	},
+	{
+		"Longitude" : "-078.034659",
+		"Zipcode" : "25427",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "HEDGESVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.485043"
+	},
+	{
+		"Longitude" : "-078.033065",
+		"Zipcode" : "25428",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKELEY",
+		"City" : "INWOOD",
+		"State" : "WV",
+		"Latitude" : "+39.362373"
+	},
+	{
+		"Longitude" : "-077.878957",
+		"Zipcode" : "25429",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "KEARNEYSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.349586"
+	},
+	{
+		"Longitude" : "-077.941833",
+		"Zipcode" : "25430",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "KEARNEYSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.344424"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "25431",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "LEVELS",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-077.877223",
+		"Zipcode" : "25432",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "MILLVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.315914"
+	},
+	{
+		"Longitude" : "-078.457290",
+		"Zipcode" : "25434",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "PAW PAW",
+		"State" : "WV",
+		"Latitude" : "+39.530566"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "25437",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "POINTS",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-077.831031",
+		"Zipcode" : "25438",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "RANSON",
+		"State" : "WV",
+		"Latitude" : "+39.260060"
+	},
+	{
+		"Longitude" : "-078.026280",
+		"Zipcode" : "25440",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKELEY",
+		"City" : "RIDGEWAY",
+		"State" : "WV",
+		"Latitude" : "+39.442661"
+	},
+	{
+		"Longitude" : "-077.877223",
+		"Zipcode" : "25441",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "RIPPON",
+		"State" : "WV",
+		"Latitude" : "+39.315914"
+	},
+	{
+		"Longitude" : "-077.822878",
+		"Zipcode" : "25442",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "SHENANDOAH JUNCTION",
+		"State" : "WV",
+		"Latitude" : "+39.371605"
+	},
+	{
+		"Longitude" : "-077.838337",
+		"Zipcode" : "25443",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "SHEPHERDSTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.389587"
+	},
+	{
+		"Longitude" : "-078.754473",
+		"Zipcode" : "25444",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "SLANESVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.341250"
+	},
+	{
+		"Longitude" : "-077.878788",
+		"Zipcode" : "25446",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "SUMMIT POINT",
+		"State" : "WV",
+		"Latitude" : "+39.224095"
+	},
+	{
+		"Longitude" : "-081.968862",
+		"Zipcode" : "25501",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ALKOL",
+		"State" : "WV",
+		"Latitude" : "+38.167112"
+	},
+	{
+		"Longitude" : "-082.106790",
+		"Zipcode" : "25502",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "APPLE GROVE",
+		"State" : "WV",
+		"Latitude" : "+38.657528"
+	},
+	{
+		"Longitude" : "-082.112281",
+		"Zipcode" : "25503",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "ASHTON",
+		"State" : "WV",
+		"Latitude" : "+38.603230"
+	},
+	{
+		"Longitude" : "-082.264954",
+		"Zipcode" : "25504",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "BARBOURSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.379347"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25505",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "BIG CREEK",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-082.145897",
+		"Zipcode" : "25506",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BRANCHLAND",
+		"State" : "WV",
+		"Latitude" : "+38.219908"
+	},
+	{
+		"Longitude" : "-082.557785",
+		"Zipcode" : "25507",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "CEREDO",
+		"State" : "WV",
+		"Latitude" : "+38.384557"
+	},
+	{
+		"Longitude" : "-082.010760",
+		"Zipcode" : "25508",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "CHAPMANVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.960870"
+	},
+	{
+		"Longitude" : "-082.110405",
+		"Zipcode" : "25510",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "CULLODEN",
+		"State" : "WV",
+		"Latitude" : "+38.426471"
+	},
+	{
+		"Longitude" : "-082.418277",
+		"Zipcode" : "25511",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "DUNLOW",
+		"State" : "WV",
+		"Latitude" : "+38.132114"
+	},
+	{
+		"Longitude" : "-082.376703",
+		"Zipcode" : "25512",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "EAST LYNN",
+		"State" : "WV",
+		"Latitude" : "+38.271293"
+	},
+	{
+		"Longitude" : "-082.539781",
+		"Zipcode" : "25514",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "FORT GAY",
+		"State" : "WV",
+		"Latitude" : "+38.072978"
+	},
+	{
+		"Longitude" : "-082.155965",
+		"Zipcode" : "25515",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "GALLIPOLIS FERRY",
+		"State" : "WV",
+		"Latitude" : "+38.738211"
+	},
+	{
+		"Longitude" : "-082.418277",
+		"Zipcode" : "25517",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "GENOA",
+		"State" : "WV",
+		"Latitude" : "+38.132114"
+	},
+	{
+		"Longitude" : "-082.418277",
+		"Zipcode" : "25519",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "GLENHAYES",
+		"State" : "WV",
+		"Latitude" : "+38.132114"
+	},
+	{
+		"Longitude" : "-082.177263",
+		"Zipcode" : "25520",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "GLENWOOD",
+		"State" : "WV",
+		"Latitude" : "+38.590868"
+	},
+	{
+		"Longitude" : "-081.960658",
+		"Zipcode" : "25521",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GRIFFITHSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.246211"
+	},
+	{
+		"Longitude" : "-082.083145",
+		"Zipcode" : "25523",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HAMLIN",
+		"State" : "WV",
+		"Latitude" : "+38.280522"
+	},
+	{
+		"Longitude" : "-082.100836",
+		"Zipcode" : "25524",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HARTS",
+		"State" : "WV",
+		"Latitude" : "+38.034057"
+	},
+	{
+		"Longitude" : "-081.961657",
+		"Zipcode" : "25526",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "HURRICANE",
+		"State" : "WV",
+		"Latitude" : "+38.397097"
+	},
+	{
+		"Longitude" : "-081.860730",
+		"Zipcode" : "25529",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "JULIAN",
+		"State" : "WV",
+		"Latitude" : "+38.146531"
+	},
+	{
+		"Longitude" : "-082.525529",
+		"Zipcode" : "25530",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "KENOVA",
+		"State" : "WV",
+		"Latitude" : "+38.356931"
+	},
+	{
+		"Longitude" : "-082.418277",
+		"Zipcode" : "25534",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "KIAHSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.132114"
+	},
+	{
+		"Longitude" : "-082.457353",
+		"Zipcode" : "25535",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "LAVALETTE",
+		"State" : "WV",
+		"Latitude" : "+38.299465"
+	},
+	{
+		"Longitude" : "-082.255114",
+		"Zipcode" : "25537",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "LESAGE",
+		"State" : "WV",
+		"Latitude" : "+38.523488"
+	},
+	{
+		"Longitude" : "-082.054088",
+		"Zipcode" : "25540",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "MIDKIFF",
+		"State" : "WV",
+		"Latitude" : "+38.160210"
+	},
+	{
+		"Longitude" : "-082.134925",
+		"Zipcode" : "25541",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "MILTON",
+		"State" : "WV",
+		"Latitude" : "+38.434487"
+	},
+	{
+		"Longitude" : "-082.113554",
+		"Zipcode" : "25544",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "MYRA",
+		"State" : "WV",
+		"Latitude" : "+38.222163"
+	},
+	{
+		"Longitude" : "-082.234177",
+		"Zipcode" : "25545",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "ONA",
+		"State" : "WV",
+		"Latitude" : "+38.456541"
+	},
+	{
+		"Longitude" : "-082.005372",
+		"Zipcode" : "25547",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "PECKS MILL",
+		"State" : "WV",
+		"Latitude" : "+37.955852"
+	},
+	{
+		"Longitude" : "-082.098592",
+		"Zipcode" : "25550",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "POINT PLEASANT",
+		"State" : "WV",
+		"Latitude" : "+38.871527"
+	},
+	{
+		"Longitude" : "-082.565378",
+		"Zipcode" : "25555",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "PRICHARD",
+		"State" : "WV",
+		"Latitude" : "+38.240005"
+	},
+	{
+		"Longitude" : "-082.072502",
+		"Zipcode" : "25557",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "RANGER",
+		"State" : "WV",
+		"Latitude" : "+38.082564"
+	},
+	{
+		"Longitude" : "-082.229180",
+		"Zipcode" : "25559",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "SALT ROCK",
+		"State" : "WV",
+		"Latitude" : "+38.317827"
+	},
+	{
+		"Longitude" : "-081.896554",
+		"Zipcode" : "25560",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "SCOTT DEPOT",
+		"State" : "WV",
+		"Latitude" : "+38.450355"
+	},
+	{
+		"Longitude" : "-082.490494",
+		"Zipcode" : "25562",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "SHOALS",
+		"State" : "WV",
+		"Latitude" : "+38.343176"
+	},
+	{
+		"Longitude" : "-081.890954",
+		"Zipcode" : "25564",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SOD",
+		"State" : "WV",
+		"Latitude" : "+38.255874"
+	},
+	{
+		"Longitude" : "-082.027154",
+		"Zipcode" : "25565",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SPURLOCKVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.105713"
+	},
+	{
+		"Longitude" : "-081.870544",
+		"Zipcode" : "25567",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SUMERCO",
+		"State" : "WV",
+		"Latitude" : "+38.228049"
+	},
+	{
+		"Longitude" : "-081.880455",
+		"Zipcode" : "25569",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PUTNAM",
+		"City" : "TEAYS",
+		"State" : "WV",
+		"Latitude" : "+38.475369"
+	},
+	{
+		"Longitude" : "-082.418862",
+		"Zipcode" : "25570",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "WAYNE",
+		"State" : "WV",
+		"Latitude" : "+38.222206"
+	},
+	{
+		"Longitude" : "-082.153237",
+		"Zipcode" : "25571",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WEST HAMLIN",
+		"State" : "WV",
+		"Latitude" : "+38.299231"
+	},
+	{
+		"Longitude" : "-081.901236",
+		"Zipcode" : "25572",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WOODVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.187456"
+	},
+	{
+		"Longitude" : "-081.942329",
+		"Zipcode" : "25573",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "YAWKEY",
+		"State" : "WV",
+		"Latitude" : "+38.231798"
+	},
+	{
+		"Longitude" : "-082.025158",
+		"Zipcode" : "25601",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "LOGAN",
+		"State" : "WV",
+		"Latitude" : "+37.865036"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25606",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "ACCOVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.783341",
+		"Zipcode" : "25607",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "AMHERSTDALE",
+		"State" : "WV",
+		"Latitude" : "+37.795916"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25608",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "BAISDEN",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25611",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "BRUNO",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25612",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "CHAUNCEY",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25614",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "CORA",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25617",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "DAVIN",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.950082",
+		"Zipcode" : "25621",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "GILBERT",
+		"State" : "WV",
+		"Latitude" : "+37.636568"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25623",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "HAMPDEN",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25624",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "HENLAWSON",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-082.058464",
+		"Zipcode" : "25625",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "HOLDEN",
+		"State" : "WV",
+		"Latitude" : "+37.829956"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25628",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "KISTLER",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25630",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "LORADO",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.921698",
+		"Zipcode" : "25632",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "LYBURN",
+		"State" : "WV",
+		"Latitude" : "+37.765557"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25634",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "MALLORY",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.875358",
+		"Zipcode" : "25635",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "MAN",
+		"State" : "WV",
+		"Latitude" : "+37.735653"
+	},
+	{
+		"Longitude" : "-082.006203",
+		"Zipcode" : "25636",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "MONAVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.821927"
+	},
+	{
+		"Longitude" : "-082.048494",
+		"Zipcode" : "25637",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "MOUNT GAY",
+		"State" : "WV",
+		"Latitude" : "+37.846390"
+	},
+	{
+		"Longitude" : "-082.003139",
+		"Zipcode" : "25638",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "OMAR",
+		"State" : "WV",
+		"Latitude" : "+37.741593"
+	},
+	{
+		"Longitude" : "-081.982637",
+		"Zipcode" : "25639",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "PEACH CREEK",
+		"State" : "WV",
+		"Latitude" : "+37.875177"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25644",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "SARAH ANN",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.902401",
+		"Zipcode" : "25645",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "STIRRAT",
+		"State" : "WV",
+		"Latitude" : "+37.833204"
+	},
+	{
+		"Longitude" : "-081.963853",
+		"Zipcode" : "25646",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "STOLLINGS",
+		"State" : "WV",
+		"Latitude" : "+37.830256"
+	},
+	{
+		"Longitude" : "-081.990849",
+		"Zipcode" : "25647",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "SWITZER",
+		"State" : "WV",
+		"Latitude" : "+37.784635"
+	},
+	{
+		"Longitude" : "-082.048823",
+		"Zipcode" : "25649",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "VERDUNVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.889110"
+	},
+	{
+		"Longitude" : "-081.875714",
+		"Zipcode" : "25650",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "VERNER",
+		"State" : "WV",
+		"Latitude" : "+37.637348"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25651",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "WHARNCLIFFE",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.046594",
+		"Zipcode" : "25652",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "WHITMAN",
+		"State" : "WV",
+		"Latitude" : "+37.803545"
+	},
+	{
+		"Longitude" : "-082.053011",
+		"Zipcode" : "25653",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "WILKINSON",
+		"State" : "WV",
+		"Latitude" : "+37.808204"
+	},
+	{
+		"Longitude" : "-081.891965",
+		"Zipcode" : "25654",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "YOLYN",
+		"State" : "WV",
+		"Latitude" : "+37.781792"
+	},
+	{
+		"Longitude" : "-082.260020",
+		"Zipcode" : "25661",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "WILLIAMSON",
+		"State" : "WV",
+		"Latitude" : "+37.702526"
+	},
+	{
+		"Longitude" : "-082.308350",
+		"Zipcode" : "25665",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "BORDERLAND",
+		"State" : "WV",
+		"Latitude" : "+37.721351"
+	},
+	{
+		"Longitude" : "-082.270292",
+		"Zipcode" : "25666",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "BREEDEN",
+		"State" : "WV",
+		"Latitude" : "+37.926178"
+	},
+	{
+		"Longitude" : "-082.273892",
+		"Zipcode" : "25667",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "CHATTAROY",
+		"State" : "WV",
+		"Latitude" : "+37.704739"
+	},
+	{
+		"Longitude" : "-082.418277",
+		"Zipcode" : "25669",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "CRUM",
+		"State" : "WV",
+		"Latitude" : "+38.132114"
+	},
+	{
+		"Longitude" : "-082.193059",
+		"Zipcode" : "25670",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "DELBARTON",
+		"State" : "WV",
+		"Latitude" : "+37.718871"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25671",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "DINGESS",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25672",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "EDGARTON",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.404906",
+		"Zipcode" : "25674",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "KERMIT",
+		"State" : "WV",
+		"Latitude" : "+37.827155"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25676",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "LENORE",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25678",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "MATEWAN",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.008561",
+		"Zipcode" : "25682",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "MEADOR",
+		"State" : "WV",
+		"Latitude" : "+37.622400"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25685",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "NAUGATUCK",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25686",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "NEWTOWN",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25687",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "NOLAN",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25688",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "NORTH MATEWAN",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25690",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "RAGLAND",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25691",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "RAWL",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25692",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "RED JACKET",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25694",
+		"ZipClass" : "STANDARD",
+		"County" : "MINGO",
+		"City" : "THACKER",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25696",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "VARNEY",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.108010",
+		"Zipcode" : "25697",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MINGO",
+		"City" : "VULCAN",
+		"State" : "WV",
+		"Latitude" : "+37.743063"
+	},
+	{
+		"Longitude" : "-082.418277",
+		"Zipcode" : "25699",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "WILSONDALE",
+		"State" : "WV",
+		"Latitude" : "+38.132114"
+	},
+	{
+		"Longitude" : "-082.412866",
+		"Zipcode" : "25701",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.371727"
+	},
+	{
+		"Longitude" : "-082.348720",
+		"Zipcode" : "25702",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.444067"
+	},
+	{
+		"Longitude" : "-082.413818",
+		"Zipcode" : "25703",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.422801"
+	},
+	{
+		"Longitude" : "-082.477733",
+		"Zipcode" : "25704",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.397571"
+	},
+	{
+		"Longitude" : "-082.359088",
+		"Zipcode" : "25705",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.406124"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25706",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25707",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25708",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.418277",
+		"Zipcode" : "25709",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.132114"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25710",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25711",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25712",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25713",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25714",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25715",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25716",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25717",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25718",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25719",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25720",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25721",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25722",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25723",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25724",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25725",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25726",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25727",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25728",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25729",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.431667",
+		"Zipcode" : "25755",
+		"ZipClass" : "UNIQUE",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.422115"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25770",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25771",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25772",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25773",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25774",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25775",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25776",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25777",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25778",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-082.277401",
+		"Zipcode" : "25779",
+		"ZipClass" : "STANDARD",
+		"County" : "CABELL",
+		"City" : "HUNTINGTON",
+		"State" : "WV",
+		"Latitude" : "+38.413384"
+	},
+	{
+		"Longitude" : "-081.216446",
+		"Zipcode" : "25801",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "BECKLEY",
+		"State" : "WV",
+		"Latitude" : "+37.767248"
+	},
+	{
+		"Longitude" : "-081.224458",
+		"Zipcode" : "25802",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "BECKLEY",
+		"State" : "WV",
+		"Latitude" : "+37.748935"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25810",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "ALLEN JUNCTION",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25811",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "AMIGO",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.087871",
+		"Zipcode" : "25812",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "ANSTED",
+		"State" : "WV",
+		"Latitude" : "+38.135025"
+	},
+	{
+		"Longitude" : "-081.197300",
+		"Zipcode" : "25813",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "BEAVER",
+		"State" : "WV",
+		"Latitude" : "+37.753437"
+	},
+	{
+		"Longitude" : "-081.136328",
+		"Zipcode" : "25816",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "BLUE JAY",
+		"State" : "WV",
+		"Latitude" : "+37.735161"
+	},
+	{
+		"Longitude" : "-081.388107",
+		"Zipcode" : "25817",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "BOLT",
+		"State" : "WV",
+		"Latitude" : "+37.774581"
+	},
+	{
+		"Longitude" : "-081.200997",
+		"Zipcode" : "25818",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "BRADLEY",
+		"State" : "WV",
+		"Latitude" : "+37.862613"
+	},
+	{
+		"Longitude" : "-081.099605",
+		"Zipcode" : "25820",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "CAMP CREEK",
+		"State" : "WV",
+		"Latitude" : "+37.509522"
+	},
+	{
+		"Longitude" : "-081.174872",
+		"Zipcode" : "25823",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "COAL CITY",
+		"State" : "WV",
+		"Latitude" : "+37.670797"
+	},
+	{
+		"Longitude" : "-081.093339",
+		"Zipcode" : "25825",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "COOL RIDGE",
+		"State" : "WV",
+		"Latitude" : "+37.665456"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25826",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "CORINNE",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.201446",
+		"Zipcode" : "25827",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "CRAB ORCHARD",
+		"State" : "WV",
+		"Latitude" : "+37.700567"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25831",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "DANESE",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.216077",
+		"Zipcode" : "25832",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "DANIELS",
+		"State" : "WV",
+		"Latitude" : "+37.693341"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25833",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "DOTHAN",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.263538",
+		"Zipcode" : "25836",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "ECCLES",
+		"State" : "WV",
+		"Latitude" : "+37.779232"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25837",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "EDMOND",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.371602",
+		"Zipcode" : "25839",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "FAIRDALE",
+		"State" : "WV",
+		"Latitude" : "+37.768902"
+	},
+	{
+		"Longitude" : "-081.094259",
+		"Zipcode" : "25840",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "FAYETTEVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.063982"
+	},
+	{
+		"Longitude" : "-081.100627",
+		"Zipcode" : "25841",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "FLAT TOP",
+		"State" : "WV",
+		"Latitude" : "+37.554091"
+	},
+	{
+		"Longitude" : "-081.151526",
+		"Zipcode" : "25843",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "GHENT",
+		"State" : "WV",
+		"Latitude" : "+37.679167"
+	},
+	{
+		"Longitude" : "-081.385830",
+		"Zipcode" : "25844",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "GLEN DANIEL",
+		"State" : "WV",
+		"Latitude" : "+37.825085"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25845",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "GLEN FORK",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25846",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "GLEN JEAN",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.178779",
+		"Zipcode" : "25847",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "GLEN MORGAN",
+		"State" : "WV",
+		"Latitude" : "+37.713406"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25848",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "GLEN ROGERS",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.279864",
+		"Zipcode" : "25849",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "GLEN WHITE",
+		"State" : "WV",
+		"Latitude" : "+37.730624"
+	},
+	{
+		"Longitude" : "-081.282759",
+		"Zipcode" : "25851",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "HARPER",
+		"State" : "WV",
+		"Latitude" : "+37.802469"
+	},
+	{
+		"Longitude" : "-081.224458",
+		"Zipcode" : "25853",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "HELEN",
+		"State" : "WV",
+		"Latitude" : "+37.748935"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25854",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "HICO",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25855",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "HILLTOP",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.190628",
+		"Zipcode" : "25856",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "JONBEN",
+		"State" : "WV",
+		"Latitude" : "+37.647885"
+	},
+	{
+		"Longitude" : "-081.227631",
+		"Zipcode" : "25857",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "JOSEPHINE",
+		"State" : "WV",
+		"Latitude" : "+37.631543"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25859",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "KILSYTH",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.224458",
+		"Zipcode" : "25860",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "LANARK",
+		"State" : "WV",
+		"Latitude" : "+37.748935"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25862",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LANSING",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25864",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LAYLAND",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.317326",
+		"Zipcode" : "25865",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "LESTER",
+		"State" : "WV",
+		"Latitude" : "+37.731210"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25866",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "LOCHGELLY",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25868",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LOOKOUT",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.505936",
+		"Zipcode" : "25870",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "MABEN",
+		"State" : "WV",
+		"Latitude" : "+37.610803"
+	},
+	{
+		"Longitude" : "-081.210253",
+		"Zipcode" : "25871",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "MABSCOTT",
+		"State" : "WV",
+		"Latitude" : "+37.770012"
+	},
+	{
+		"Longitude" : "-081.214825",
+		"Zipcode" : "25873",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "MAC ARTHUR",
+		"State" : "WV",
+		"Latitude" : "+37.751700"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25875",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "MC GRAWS",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25876",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "SAULSVILLE",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.240023",
+		"Zipcode" : "25878",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "MIDWAY",
+		"State" : "WV",
+		"Latitude" : "+37.717052"
+	},
+	{
+		"Longitude" : "-081.114993",
+		"Zipcode" : "25879",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "MINDEN",
+		"State" : "WV",
+		"Latitude" : "+37.975773"
+	},
+	{
+		"Longitude" : "-081.193310",
+		"Zipcode" : "25880",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "MOUNT HOPE",
+		"State" : "WV",
+		"Latitude" : "+38.003090"
+	},
+	{
+		"Longitude" : "-081.413815",
+		"Zipcode" : "25882",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "MULLENS",
+		"State" : "WV",
+		"Latitude" : "+37.582143"
+	},
+	{
+		"Longitude" : "-081.158480",
+		"Zipcode" : "25901",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "OAK HILL",
+		"State" : "WV",
+		"Latitude" : "+37.959435"
+	},
+	{
+		"Longitude" : "-081.190678",
+		"Zipcode" : "25902",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "ODD",
+		"State" : "WV",
+		"Latitude" : "+37.596319"
+	},
+	{
+		"Longitude" : "-081.264824",
+		"Zipcode" : "25904",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "PAX",
+		"State" : "WV",
+		"Latitude" : "+37.911010"
+	},
+	{
+		"Longitude" : "-081.128631",
+		"Zipcode" : "25906",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "PINEY VIEW",
+		"State" : "WV",
+		"Latitude" : "+37.837573"
+	},
+	{
+		"Longitude" : "-081.081717",
+		"Zipcode" : "25907",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "PRINCE",
+		"State" : "WV",
+		"Latitude" : "+37.853198"
+	},
+	{
+		"Longitude" : "-081.246754",
+		"Zipcode" : "25908",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "PRINCEWICK",
+		"State" : "WV",
+		"Latitude" : "+37.715831"
+	},
+	{
+		"Longitude" : "-081.200383",
+		"Zipcode" : "25909",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "PROSPERITY",
+		"State" : "WV",
+		"Latitude" : "+37.838147"
+	},
+	{
+		"Longitude" : "-081.167549",
+		"Zipcode" : "25911",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "RALEIGH",
+		"State" : "WV",
+		"Latitude" : "+37.758469"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25912",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "RAMSEY",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25913",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "RAVENCLIFF",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25914",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "REDSTAR",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.274930",
+		"Zipcode" : "25915",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "RHODELL",
+		"State" : "WV",
+		"Latitude" : "+37.625414"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25916",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "SABINE",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.153070",
+		"Zipcode" : "25917",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "SCARBRO",
+		"State" : "WV",
+		"Latitude" : "+37.948765"
+	},
+	{
+		"Longitude" : "-081.014915",
+		"Zipcode" : "25918",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "SHADY SPRING",
+		"State" : "WV",
+		"Latitude" : "+37.741625"
+	},
+	{
+		"Longitude" : "-081.180561",
+		"Zipcode" : "25919",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "SKELTON",
+		"State" : "WV",
+		"Latitude" : "+37.800481"
+	},
+	{
+		"Longitude" : "-081.371570",
+		"Zipcode" : "25920",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "SLAB FORK",
+		"State" : "WV",
+		"Latitude" : "+37.717933"
+	},
+	{
+		"Longitude" : "-081.345004",
+		"Zipcode" : "25921",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "SOPHIA",
+		"State" : "WV",
+		"Latitude" : "+37.777244"
+	},
+	{
+		"Longitude" : "-081.112799",
+		"Zipcode" : "25922",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "SPANISHBURG",
+		"State" : "WV",
+		"Latitude" : "+37.460452"
+	},
+	{
+		"Longitude" : "-081.195122",
+		"Zipcode" : "25926",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "SPRAGUE",
+		"State" : "WV",
+		"Latitude" : "+37.787252"
+	},
+	{
+		"Longitude" : "-081.224458",
+		"Zipcode" : "25927",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "STANAFORD",
+		"State" : "WV",
+		"Latitude" : "+37.748935"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25928",
+		"ZipClass" : "STANDARD",
+		"County" : "WYOMING",
+		"City" : "STEPHENSON",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25931",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "SUMMERLEE",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.221724",
+		"Zipcode" : "25932",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "SURVEYOR",
+		"State" : "WV",
+		"Latitude" : "+37.764228"
+	},
+	{
+		"Longitude" : "-081.093678",
+		"Zipcode" : "25934",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RALEIGH",
+		"City" : "TERRY",
+		"State" : "WV",
+		"Latitude" : "+37.848955"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25936",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "THURMOND",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25938",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "VICTOR",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25942",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "WINONA",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-081.539980",
+		"Zipcode" : "25943",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WYOMING",
+		"City" : "WYCO",
+		"State" : "WV",
+		"Latitude" : "+37.603344"
+	},
+	{
+		"Longitude" : "-080.864634",
+		"Zipcode" : "25951",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "HINTON",
+		"State" : "WV",
+		"Latitude" : "+37.645544"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "25958",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "CHARMCO",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "25961",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENBRIER",
+		"City" : "CRICHTON",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.745190",
+		"Zipcode" : "25962",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "RAINELLE",
+		"State" : "WV",
+		"Latitude" : "+37.973212"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "25965",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "ELTON",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "25966",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "GREEN SULPHUR SPRINGS",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "25967",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENBRIER",
+		"City" : "HINES",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "25969",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "JUMPING BRANCH",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-081.105803",
+		"Zipcode" : "25971",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "LERONA",
+		"State" : "WV",
+		"Latitude" : "+37.416395"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "25972",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENBRIER",
+		"City" : "LESLIE",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.874366",
+		"Zipcode" : "25976",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "MEADOW BRIDGE",
+		"State" : "WV",
+		"Latitude" : "+37.865186"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "25977",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "MEADOW CREEK",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "25978",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "NIMITZ",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "25979",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "PIPESTEM",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-080.426874",
+		"Zipcode" : "25981",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "QUINWOOD",
+		"State" : "WV",
+		"Latitude" : "+37.975595"
+	},
+	{
+		"Longitude" : "-080.669597",
+		"Zipcode" : "25984",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENBRIER",
+		"City" : "RUPERT",
+		"State" : "WV",
+		"Latitude" : "+37.968468"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "25985",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "SANDSTONE",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "25986",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "SPRING DALE",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-080.877395",
+		"Zipcode" : "25988",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMERS",
+		"City" : "TRUE",
+		"State" : "WV",
+		"Latitude" : "+37.648541"
+	},
+	{
+		"Longitude" : "-081.048923",
+		"Zipcode" : "25989",
+		"ZipClass" : "STANDARD",
+		"County" : "RALEIGH",
+		"City" : "WHITE OAK",
+		"State" : "WV",
+		"Latitude" : "+37.684255"
+	},
+	{
+		"Longitude" : "-080.647599",
+		"Zipcode" : "26003",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "WHEELING",
+		"State" : "WV",
+		"Latitude" : "+40.102703"
+	},
+	{
+		"Longitude" : "-080.651350",
+		"Zipcode" : "26030",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BROOKE",
+		"City" : "BEECH BOTTOM",
+		"State" : "WV",
+		"Latitude" : "+40.225862"
+	},
+	{
+		"Longitude" : "-080.710507",
+		"Zipcode" : "26031",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BENWOOD",
+		"State" : "WV",
+		"Latitude" : "+39.955349"
+	},
+	{
+		"Longitude" : "-080.550337",
+		"Zipcode" : "26032",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKE",
+		"City" : "BETHANY",
+		"State" : "WV",
+		"Latitude" : "+40.210727"
+	},
+	{
+		"Longitude" : "-080.555275",
+		"Zipcode" : "26033",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "CAMERON",
+		"State" : "WV",
+		"Latitude" : "+39.872322"
+	},
+	{
+		"Longitude" : "-080.565784",
+		"Zipcode" : "26034",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "CHESTER",
+		"State" : "WV",
+		"Latitude" : "+40.556137"
+	},
+	{
+		"Longitude" : "-080.566155",
+		"Zipcode" : "26035",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKE",
+		"City" : "COLLIERS",
+		"State" : "WV",
+		"Latitude" : "+40.373181"
+	},
+	{
+		"Longitude" : "-080.550114",
+		"Zipcode" : "26036",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "DALLAS",
+		"State" : "WV",
+		"Latitude" : "+40.015394"
+	},
+	{
+		"Longitude" : "-080.570953",
+		"Zipcode" : "26037",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKE",
+		"City" : "FOLLANSBEE",
+		"State" : "WV",
+		"Latitude" : "+40.335218"
+	},
+	{
+		"Longitude" : "-080.719815",
+		"Zipcode" : "26038",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "GLEN DALE",
+		"State" : "WV",
+		"Latitude" : "+39.962545"
+	},
+	{
+		"Longitude" : "-080.600655",
+		"Zipcode" : "26039",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "GLEN EASTON",
+		"State" : "WV",
+		"Latitude" : "+39.868737"
+	},
+	{
+		"Longitude" : "-080.719565",
+		"Zipcode" : "26040",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "MC MECHEN",
+		"State" : "WV",
+		"Latitude" : "+39.985905"
+	},
+	{
+		"Longitude" : "-080.737134",
+		"Zipcode" : "26041",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "MOUNDSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.916748"
+	},
+	{
+		"Longitude" : "-080.571689",
+		"Zipcode" : "26047",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "NEW CUMBERLAND",
+		"State" : "WV",
+		"Latitude" : "+40.522005"
+	},
+	{
+		"Longitude" : "-080.613199",
+		"Zipcode" : "26050",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "NEWELL",
+		"State" : "WV",
+		"Latitude" : "+40.608776"
+	},
+	{
+		"Longitude" : "-080.694606",
+		"Zipcode" : "26055",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "PROCTOR",
+		"State" : "WV",
+		"Latitude" : "+39.877162"
+	},
+	{
+		"Longitude" : "-080.592823",
+		"Zipcode" : "26056",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "NEW MANCHESTER",
+		"State" : "WV",
+		"Latitude" : "+40.516234"
+	},
+	{
+		"Longitude" : "-080.599949",
+		"Zipcode" : "26058",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BROOKE",
+		"City" : "SHORT CREEK",
+		"State" : "WV",
+		"Latitude" : "+40.279320"
+	},
+	{
+		"Longitude" : "-080.597330",
+		"Zipcode" : "26059",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "TRIADELPHIA",
+		"State" : "WV",
+		"Latitude" : "+40.081064"
+	},
+	{
+		"Longitude" : "-080.589611",
+		"Zipcode" : "26060",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "VALLEY GROVE",
+		"State" : "WV",
+		"Latitude" : "+40.078249"
+	},
+	{
+		"Longitude" : "-080.565292",
+		"Zipcode" : "26062",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "WEIRTON",
+		"State" : "WV",
+		"Latitude" : "+40.507729"
+	},
+	{
+		"Longitude" : "-080.594036",
+		"Zipcode" : "26070",
+		"ZipClass" : "STANDARD",
+		"County" : "BROOKE",
+		"City" : "WELLSBURG",
+		"State" : "WV",
+		"Latitude" : "+40.293469"
+	},
+	{
+		"Longitude" : "-080.595763",
+		"Zipcode" : "26074",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OHIO",
+		"City" : "WEST LIBERTY",
+		"State" : "WV",
+		"Latitude" : "+40.169839"
+	},
+	{
+		"Longitude" : "-080.665879",
+		"Zipcode" : "26075",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BROOKE",
+		"City" : "WINDSOR HEIGHTS",
+		"State" : "WV",
+		"Latitude" : "+40.192679"
+	},
+	{
+		"Longitude" : "-081.554770",
+		"Zipcode" : "26101",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "PARKERSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.286315"
+	},
+	{
+		"Longitude" : "-081.497865",
+		"Zipcode" : "26102",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "PARKERSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.218276"
+	},
+	{
+		"Longitude" : "-081.540501",
+		"Zipcode" : "26103",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "PARKERSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.236427"
+	},
+	{
+		"Longitude" : "-081.493574",
+		"Zipcode" : "26104",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "PARKERSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.280370"
+	},
+	{
+		"Longitude" : "-081.538034",
+		"Zipcode" : "26105",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "VIENNA",
+		"State" : "WV",
+		"Latitude" : "+39.324924"
+	},
+	{
+		"Longitude" : "-081.497865",
+		"Zipcode" : "26106",
+		"ZipClass" : "UNIQUE",
+		"County" : "WOOD",
+		"City" : "PARKERSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.218276"
+	},
+	{
+		"Longitude" : "-081.497865",
+		"Zipcode" : "26120",
+		"ZipClass" : "UNIQUE",
+		"County" : "WOOD",
+		"City" : "MINERAL WELLS",
+		"State" : "WV",
+		"Latitude" : "+39.218276"
+	},
+	{
+		"Longitude" : "-081.497865",
+		"Zipcode" : "26121",
+		"ZipClass" : "UNIQUE",
+		"County" : "WOOD",
+		"City" : "MINERAL WELLS",
+		"State" : "WV",
+		"Latitude" : "+39.218276"
+	},
+	{
+		"Longitude" : "-081.736307",
+		"Zipcode" : "26133",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "BELLEVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.155706"
+	},
+	{
+		"Longitude" : "-081.263875",
+		"Zipcode" : "26134",
+		"ZipClass" : "STANDARD",
+		"County" : "PLEASANTS",
+		"City" : "BELMONT",
+		"State" : "WV",
+		"Latitude" : "+39.375025"
+	},
+	{
+		"Longitude" : "-080.870081",
+		"Zipcode" : "26135",
+		"ZipClass" : "STANDARD",
+		"County" : "TYLER",
+		"City" : "BENS RUN",
+		"State" : "WV",
+		"Latitude" : "+39.450612"
+	},
+	{
+		"Longitude" : "-081.132151",
+		"Zipcode" : "26136",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "BIG BEND",
+		"State" : "WV",
+		"Latitude" : "+38.828582"
+	},
+	{
+		"Longitude" : "-081.132151",
+		"Zipcode" : "26137",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "BIG SPRINGS",
+		"State" : "WV",
+		"Latitude" : "+38.828582"
+	},
+	{
+		"Longitude" : "-081.371951",
+		"Zipcode" : "26138",
+		"ZipClass" : "STANDARD",
+		"County" : "WIRT",
+		"City" : "BROHARD",
+		"State" : "WV",
+		"Latitude" : "+39.040511"
+	},
+	{
+		"Longitude" : "-081.371951",
+		"Zipcode" : "26141",
+		"ZipClass" : "STANDARD",
+		"County" : "WIRT",
+		"City" : "CRESTON",
+		"State" : "WV",
+		"Latitude" : "+39.040511"
+	},
+	{
+		"Longitude" : "-081.480790",
+		"Zipcode" : "26142",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "DAVISVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.216011"
+	},
+	{
+		"Longitude" : "-081.380692",
+		"Zipcode" : "26143",
+		"ZipClass" : "STANDARD",
+		"County" : "WIRT",
+		"City" : "ELIZABETH",
+		"State" : "WV",
+		"Latitude" : "+39.032058"
+	},
+	{
+		"Longitude" : "-081.057241",
+		"Zipcode" : "26146",
+		"ZipClass" : "STANDARD",
+		"County" : "TYLER",
+		"City" : "FRIENDLY",
+		"State" : "WV",
+		"Latitude" : "+39.496137"
+	},
+	{
+		"Longitude" : "-081.093773",
+		"Zipcode" : "26147",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "GRANTSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.921782"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26148",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "MACFARLAN",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-080.907644",
+		"Zipcode" : "26149",
+		"ZipClass" : "STANDARD",
+		"County" : "TYLER",
+		"City" : "MIDDLEBOURNE",
+		"State" : "WV",
+		"Latitude" : "+39.494178"
+	},
+	{
+		"Longitude" : "-081.513911",
+		"Zipcode" : "26150",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "MINERAL WELLS",
+		"State" : "WV",
+		"Latitude" : "+39.189677"
+	},
+	{
+		"Longitude" : "-081.132151",
+		"Zipcode" : "26151",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "MOUNT ZION",
+		"State" : "WV",
+		"Latitude" : "+38.828582"
+	},
+	{
+		"Longitude" : "-081.371951",
+		"Zipcode" : "26152",
+		"ZipClass" : "STANDARD",
+		"County" : "WIRT",
+		"City" : "MUNDAY",
+		"State" : "WV",
+		"Latitude" : "+39.040511"
+	},
+	{
+		"Longitude" : "-080.817928",
+		"Zipcode" : "26155",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "NEW MARTINSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.611459"
+	},
+	{
+		"Longitude" : "-080.929167",
+		"Zipcode" : "26159",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "PADEN CITY",
+		"State" : "WV",
+		"Latitude" : "+39.606691"
+	},
+	{
+		"Longitude" : "-081.371951",
+		"Zipcode" : "26160",
+		"ZipClass" : "STANDARD",
+		"County" : "WIRT",
+		"City" : "PALESTINE",
+		"State" : "WV",
+		"Latitude" : "+39.040511"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26161",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "PETROLEUM",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26162",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WETZEL",
+		"City" : "PORTERS FALLS",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-081.713983",
+		"Zipcode" : "26164",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "RAVENSWOOD",
+		"State" : "WV",
+		"Latitude" : "+38.988820"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26167",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "READER",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-081.497865",
+		"Zipcode" : "26169",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "ROCKPORT",
+		"State" : "WV",
+		"Latitude" : "+39.218276"
+	},
+	{
+		"Longitude" : "-081.207860",
+		"Zipcode" : "26170",
+		"ZipClass" : "STANDARD",
+		"County" : "PLEASANTS",
+		"City" : "SAINT MARYS",
+		"State" : "WV",
+		"Latitude" : "+39.408888"
+	},
+	{
+		"Longitude" : "-081.709496",
+		"Zipcode" : "26173",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SHERMAN",
+		"State" : "WV",
+		"Latitude" : "+38.951920"
+	},
+	{
+		"Longitude" : "-080.975638",
+		"Zipcode" : "26175",
+		"ZipClass" : "STANDARD",
+		"County" : "TYLER",
+		"City" : "SISTERSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.541445"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26178",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "SMITHVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-081.497865",
+		"Zipcode" : "26180",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "WALKER",
+		"State" : "WV",
+		"Latitude" : "+39.218276"
+	},
+	{
+		"Longitude" : "-081.657690",
+		"Zipcode" : "26181",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "WASHINGTON",
+		"State" : "WV",
+		"Latitude" : "+39.206816"
+	},
+	{
+		"Longitude" : "-081.401137",
+		"Zipcode" : "26184",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "WAVERLY",
+		"State" : "WV",
+		"Latitude" : "+39.322871"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26186",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "WILEYVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-081.455899",
+		"Zipcode" : "26187",
+		"ZipClass" : "STANDARD",
+		"County" : "WOOD",
+		"City" : "WILLIAMSTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.367796"
+	},
+	{
+		"Longitude" : "-080.240664",
+		"Zipcode" : "26201",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "BUCKHANNON",
+		"State" : "WV",
+		"Latitude" : "+38.975479"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26202",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "FENWICK",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.607651",
+		"Zipcode" : "26203",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "ERBACON",
+		"State" : "WV",
+		"Latitude" : "+38.522709"
+	},
+	{
+		"Longitude" : "-080.645376",
+		"Zipcode" : "26205",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "CRAIGSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.329918"
+	},
+	{
+		"Longitude" : "-080.564685",
+		"Zipcode" : "26206",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "COWEN",
+		"State" : "WV",
+		"Latitude" : "+38.423224"
+	},
+	{
+		"Longitude" : "-080.590651",
+		"Zipcode" : "26208",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "CAMDEN ON GAULEY",
+		"State" : "WV",
+		"Latitude" : "+38.387147"
+	},
+	{
+		"Longitude" : "-079.990585",
+		"Zipcode" : "26209",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "SNOWSHOE",
+		"State" : "WV",
+		"Latitude" : "+38.387966"
+	},
+	{
+		"Longitude" : "-080.226855",
+		"Zipcode" : "26210",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "ADRIAN",
+		"State" : "WV",
+		"Latitude" : "+38.899314"
+	},
+	{
+		"Longitude" : "-080.226855",
+		"Zipcode" : "26215",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "CLEVELAND",
+		"State" : "WV",
+		"Latitude" : "+38.899314"
+	},
+	{
+		"Longitude" : "-080.465431",
+		"Zipcode" : "26217",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "DIANA",
+		"State" : "WV",
+		"Latitude" : "+38.601167"
+	},
+	{
+		"Longitude" : "-080.226855",
+		"Zipcode" : "26218",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "FRENCH CREEK",
+		"State" : "WV",
+		"Latitude" : "+38.899314"
+	},
+	{
+		"Longitude" : "-080.226855",
+		"Zipcode" : "26219",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "FRENCHTON",
+		"State" : "WV",
+		"Latitude" : "+38.899314"
+	},
+	{
+		"Longitude" : "-080.432189",
+		"Zipcode" : "26222",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "HACKER VALLEY",
+		"State" : "WV",
+		"Latitude" : "+38.645017"
+	},
+	{
+		"Longitude" : "-079.850148",
+		"Zipcode" : "26224",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "HELVETIA",
+		"State" : "WV",
+		"Latitude" : "+38.894870"
+	},
+	{
+		"Longitude" : "-080.226855",
+		"Zipcode" : "26228",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "KANAWHA HEAD",
+		"State" : "WV",
+		"Latitude" : "+38.899314"
+	},
+	{
+		"Longitude" : "-080.226855",
+		"Zipcode" : "26229",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UPSHUR",
+		"City" : "LORENTZ",
+		"State" : "WV",
+		"Latitude" : "+38.899314"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26230",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "PICKENS",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-080.226855",
+		"Zipcode" : "26234",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "ROCK CAVE",
+		"State" : "WV",
+		"Latitude" : "+38.899314"
+	},
+	{
+		"Longitude" : "-080.226855",
+		"Zipcode" : "26236",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "SELBYVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.899314"
+	},
+	{
+		"Longitude" : "-080.212410",
+		"Zipcode" : "26237",
+		"ZipClass" : "STANDARD",
+		"County" : "UPSHUR",
+		"City" : "TALLMANSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.864632"
+	},
+	{
+		"Longitude" : "-080.017982",
+		"Zipcode" : "26238",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "VOLGA",
+		"State" : "WV",
+		"Latitude" : "+39.125078"
+	},
+	{
+		"Longitude" : "-079.892841",
+		"Zipcode" : "26241",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "ELKINS",
+		"State" : "WV",
+		"Latitude" : "+38.846815"
+	},
+	{
+		"Longitude" : "-079.932000",
+		"Zipcode" : "26250",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "BELINGTON",
+		"State" : "WV",
+		"Latitude" : "+39.022982"
+	},
+	{
+		"Longitude" : "-079.872553",
+		"Zipcode" : "26253",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "BEVERLY",
+		"State" : "WV",
+		"Latitude" : "+38.836615"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26254",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "BOWDEN",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26257",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "COALTON",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26259",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANDOLPH",
+		"City" : "DAILEY",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.468329",
+		"Zipcode" : "26260",
+		"ZipClass" : "STANDARD",
+		"County" : "TUCKER",
+		"City" : "DAVIS",
+		"State" : "WV",
+		"Latitude" : "+39.130056"
+	},
+	{
+		"Longitude" : "-080.578921",
+		"Zipcode" : "26261",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "RICHWOOD",
+		"State" : "WV",
+		"Latitude" : "+38.230265"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26263",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "DRYFORK",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.990585",
+		"Zipcode" : "26264",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "DURBIN",
+		"State" : "WV",
+		"Latitude" : "+38.387966"
+	},
+	{
+		"Longitude" : "-080.431111",
+		"Zipcode" : "26266",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "UPPERGLADE",
+		"State" : "WV",
+		"Latitude" : "+38.482539"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26267",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "ELLAMORE",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26268",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "GLADY",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.563678",
+		"Zipcode" : "26269",
+		"ZipClass" : "STANDARD",
+		"County" : "TUCKER",
+		"City" : "HAMBLETON",
+		"State" : "WV",
+		"Latitude" : "+39.117906"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26270",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "HARMAN",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.563678",
+		"Zipcode" : "26271",
+		"ZipClass" : "STANDARD",
+		"County" : "TUCKER",
+		"City" : "HENDRICKS",
+		"State" : "WV",
+		"Latitude" : "+39.117906"
+	},
+	{
+		"Longitude" : "-079.974846",
+		"Zipcode" : "26273",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "HUTTONSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.696059"
+	},
+	{
+		"Longitude" : "-079.949417",
+		"Zipcode" : "26275",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARBOUR",
+		"City" : "JUNIOR",
+		"State" : "WV",
+		"Latitude" : "+38.978405"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26276",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "KERENS",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26278",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "MABIE",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26280",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "MILL CREEK",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26282",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "MONTERVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.821443",
+		"Zipcode" : "26283",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "MONTROSE",
+		"State" : "WV",
+		"Latitude" : "+39.056458"
+	},
+	{
+		"Longitude" : "-079.967754",
+		"Zipcode" : "26285",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANDOLPH",
+		"City" : "NORTON",
+		"State" : "WV",
+		"Latitude" : "+38.930740"
+	},
+	{
+		"Longitude" : "-079.678724",
+		"Zipcode" : "26287",
+		"ZipClass" : "STANDARD",
+		"County" : "TUCKER",
+		"City" : "PARSONS",
+		"State" : "WV",
+		"Latitude" : "+39.096016"
+	},
+	{
+		"Longitude" : "-080.447555",
+		"Zipcode" : "26288",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "WEBSTER SPRINGS",
+		"State" : "WV",
+		"Latitude" : "+38.483244"
+	},
+	{
+		"Longitude" : "-079.563678",
+		"Zipcode" : "26289",
+		"ZipClass" : "STANDARD",
+		"County" : "TUCKER",
+		"City" : "RED CREEK",
+		"State" : "WV",
+		"Latitude" : "+39.117906"
+	},
+	{
+		"Longitude" : "-079.990585",
+		"Zipcode" : "26291",
+		"ZipClass" : "STANDARD",
+		"County" : "POCAHONTAS",
+		"City" : "SLATYFORK",
+		"State" : "WV",
+		"Latitude" : "+38.387966"
+	},
+	{
+		"Longitude" : "-079.481555",
+		"Zipcode" : "26292",
+		"ZipClass" : "STANDARD",
+		"County" : "TUCKER",
+		"City" : "THOMAS",
+		"State" : "WV",
+		"Latitude" : "+39.138003"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26293",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "VALLEY BEND",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26294",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "VALLEY HEAD",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-079.814713",
+		"Zipcode" : "26296",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANDOLPH",
+		"City" : "WHITMER",
+		"State" : "WV",
+		"Latitude" : "+38.753380"
+	},
+	{
+		"Longitude" : "-080.431111",
+		"Zipcode" : "26298",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEBSTER",
+		"City" : "BERGOO",
+		"State" : "WV",
+		"Latitude" : "+38.482539"
+	},
+	{
+		"Longitude" : "-080.341883",
+		"Zipcode" : "26301",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "CLARKSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.287434"
+	},
+	{
+		"Longitude" : "-080.307718",
+		"Zipcode" : "26302",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "CLARKSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.267736"
+	},
+	{
+		"Longitude" : "-080.385344",
+		"Zipcode" : "26306",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARRISON",
+		"City" : "CLARKSBURG",
+		"State" : "WV",
+		"Latitude" : "+39.285204"
+	},
+	{
+		"Longitude" : "-080.870081",
+		"Zipcode" : "26320",
+		"ZipClass" : "STANDARD",
+		"County" : "TYLER",
+		"City" : "ALMA",
+		"State" : "WV",
+		"Latitude" : "+39.450612"
+	},
+	{
+		"Longitude" : "-080.470734",
+		"Zipcode" : "26321",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "ALUM BRIDGE",
+		"State" : "WV",
+		"Latitude" : "+39.090780"
+	},
+	{
+		"Longitude" : "-080.287544",
+		"Zipcode" : "26323",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "ANMOORE",
+		"State" : "WV",
+		"Latitude" : "+39.258671"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26325",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "AUBURN",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26327",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "BEREA",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-080.719742",
+		"Zipcode" : "26328",
+		"ZipClass" : "STANDARD",
+		"County" : "DODDRIDGE",
+		"City" : "BLANDVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.270846"
+	},
+	{
+		"Longitude" : "-080.282306",
+		"Zipcode" : "26330",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BRIDGEPORT",
+		"State" : "WV",
+		"Latitude" : "+39.309303"
+	},
+	{
+		"Longitude" : "-080.385344",
+		"Zipcode" : "26332",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BRISTOL",
+		"State" : "WV",
+		"Latitude" : "+39.285204"
+	},
+	{
+		"Longitude" : "-080.017982",
+		"Zipcode" : "26334",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARBOUR",
+		"City" : "BROWNTON",
+		"State" : "WV",
+		"Latitude" : "+39.125078"
+	},
+	{
+		"Longitude" : "-080.656974",
+		"Zipcode" : "26335",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "BURNSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.777546"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26337",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "CAIRO",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-080.580370",
+		"Zipcode" : "26338",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "CAMDEN",
+		"State" : "WV",
+		"Latitude" : "+39.115329"
+	},
+	{
+		"Longitude" : "-080.719742",
+		"Zipcode" : "26339",
+		"ZipClass" : "STANDARD",
+		"County" : "DODDRIDGE",
+		"City" : "CENTER POINT",
+		"State" : "WV",
+		"Latitude" : "+39.270846"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26342",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "COXS MILLS",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-080.514490",
+		"Zipcode" : "26343",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "CRAWFORD",
+		"State" : "WV",
+		"Latitude" : "+38.945847"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26346",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "ELLENBORO",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-080.049770",
+		"Zipcode" : "26347",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "FLEMINGTON",
+		"State" : "WV",
+		"Latitude" : "+39.345364"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26348",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "FOLSOM",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-080.017982",
+		"Zipcode" : "26349",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARBOUR",
+		"City" : "GALLOWAY",
+		"State" : "WV",
+		"Latitude" : "+39.125078"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26350",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILMER",
+		"City" : "GILMER",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-080.831330",
+		"Zipcode" : "26351",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "GLENVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.940946"
+	},
+	{
+		"Longitude" : "-080.015686",
+		"Zipcode" : "26354",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "GRAFTON",
+		"State" : "WV",
+		"Latitude" : "+39.336266"
+	},
+	{
+		"Longitude" : "-080.385344",
+		"Zipcode" : "26361",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "GYPSY",
+		"State" : "WV",
+		"Latitude" : "+39.285204"
+	},
+	{
+		"Longitude" : "-081.034061",
+		"Zipcode" : "26362",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "HARRISVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.145318"
+	},
+	{
+		"Longitude" : "-080.348925",
+		"Zipcode" : "26366",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "HAYWOOD",
+		"State" : "WV",
+		"Latitude" : "+39.374487"
+	},
+	{
+		"Longitude" : "-080.332455",
+		"Zipcode" : "26369",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "HEPZIBAH",
+		"State" : "WV",
+		"Latitude" : "+39.331202"
+	},
+	{
+		"Longitude" : "-080.514490",
+		"Zipcode" : "26372",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "HORNER",
+		"State" : "WV",
+		"Latitude" : "+38.945847"
+	},
+	{
+		"Longitude" : "-079.836968",
+		"Zipcode" : "26374",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "INDEPENDENCE",
+		"State" : "WV",
+		"Latitude" : "+39.482740"
+	},
+	{
+		"Longitude" : "-080.575379",
+		"Zipcode" : "26375",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "INDUSTRIAL",
+		"State" : "WV",
+		"Latitude" : "+39.279818"
+	},
+	{
+		"Longitude" : "-080.514490",
+		"Zipcode" : "26376",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "IRELAND",
+		"State" : "WV",
+		"Latitude" : "+38.945847"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26377",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "JACKSONBURG",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-080.441713",
+		"Zipcode" : "26378",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "JANE LEW",
+		"State" : "WV",
+		"Latitude" : "+39.109143"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26384",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "LINN",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-080.357602",
+		"Zipcode" : "26385",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "LOST CREEK",
+		"State" : "WV",
+		"Latitude" : "+39.152121"
+	},
+	{
+		"Longitude" : "-080.354173",
+		"Zipcode" : "26386",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "LUMBERPORT",
+		"State" : "WV",
+		"Latitude" : "+39.377263"
+	},
+	{
+		"Longitude" : "-080.313875",
+		"Zipcode" : "26404",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "MEADOWBROOK",
+		"State" : "WV",
+		"Latitude" : "+39.346214"
+	},
+	{
+		"Longitude" : "-080.017982",
+		"Zipcode" : "26405",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "MOATSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.125078"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26407",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RITCHIE",
+		"City" : "MOUNTAIN",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-080.295772",
+		"Zipcode" : "26408",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "MOUNT CLARE",
+		"State" : "WV",
+		"Latitude" : "+39.217510"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26410",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "NEWBURG",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-080.719742",
+		"Zipcode" : "26411",
+		"ZipClass" : "STANDARD",
+		"County" : "DODDRIDGE",
+		"City" : "NEW MILTON",
+		"State" : "WV",
+		"Latitude" : "+39.270846"
+	},
+	{
+		"Longitude" : "-080.514490",
+		"Zipcode" : "26412",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "ORLANDO",
+		"State" : "WV",
+		"Latitude" : "+38.945847"
+	},
+	{
+		"Longitude" : "-081.001944",
+		"Zipcode" : "26415",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "PENNSBORO",
+		"State" : "WV",
+		"Latitude" : "+39.279104"
+	},
+	{
+		"Longitude" : "-080.049182",
+		"Zipcode" : "26416",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBOUR",
+		"City" : "PHILIPPI",
+		"State" : "WV",
+		"Latitude" : "+39.161343"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26419",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "PINE GROVE",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-081.068913",
+		"Zipcode" : "26421",
+		"ZipClass" : "STANDARD",
+		"County" : "RITCHIE",
+		"City" : "PULLMAN",
+		"State" : "WV",
+		"Latitude" : "+39.198501"
+	},
+	{
+		"Longitude" : "-080.385344",
+		"Zipcode" : "26422",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "REYNOLDSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.285204"
+	},
+	{
+		"Longitude" : "-080.049770",
+		"Zipcode" : "26424",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAYLOR",
+		"City" : "ROSEMONT",
+		"State" : "WV",
+		"Latitude" : "+39.345364"
+	},
+	{
+		"Longitude" : "-079.704927",
+		"Zipcode" : "26425",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "ROWLESBURG",
+		"State" : "WV",
+		"Latitude" : "+39.312958"
+	},
+	{
+		"Longitude" : "-080.491020",
+		"Zipcode" : "26426",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "SALEM",
+		"State" : "WV",
+		"Latitude" : "+39.245329"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26430",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "SAND FORK",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-080.273372",
+		"Zipcode" : "26431",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "SHINNSTON",
+		"State" : "WV",
+		"Latitude" : "+39.328705"
+	},
+	{
+		"Longitude" : "-080.870081",
+		"Zipcode" : "26434",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TYLER",
+		"City" : "SHIRLEY",
+		"State" : "WV",
+		"Latitude" : "+39.450612"
+	},
+	{
+		"Longitude" : "-080.049770",
+		"Zipcode" : "26435",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAYLOR",
+		"City" : "SIMPSON",
+		"State" : "WV",
+		"Latitude" : "+39.345364"
+	},
+	{
+		"Longitude" : "-080.719742",
+		"Zipcode" : "26436",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODDRIDGE",
+		"City" : "SMITHBURG",
+		"State" : "WV",
+		"Latitude" : "+39.270846"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26437",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "SMITHFIELD",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-080.320560",
+		"Zipcode" : "26438",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "SPELTER",
+		"State" : "WV",
+		"Latitude" : "+39.346511"
+	},
+	{
+		"Longitude" : "-080.049770",
+		"Zipcode" : "26440",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "THORNTON",
+		"State" : "WV",
+		"Latitude" : "+39.345364"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26443",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "TROY",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26444",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "TUNNELTON",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-080.514490",
+		"Zipcode" : "26447",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "WALKERSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.945847"
+	},
+	{
+		"Longitude" : "-080.385344",
+		"Zipcode" : "26448",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "WALLACE",
+		"State" : "WV",
+		"Latitude" : "+39.285204"
+	},
+	{
+		"Longitude" : "-080.402560",
+		"Zipcode" : "26451",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "WEST MILFORD",
+		"State" : "WV",
+		"Latitude" : "+39.199606"
+	},
+	{
+		"Longitude" : "-080.447878",
+		"Zipcode" : "26452",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "WESTON",
+		"State" : "WV",
+		"Latitude" : "+39.042331"
+	},
+	{
+		"Longitude" : "-080.774491",
+		"Zipcode" : "26456",
+		"ZipClass" : "STANDARD",
+		"County" : "DODDRIDGE",
+		"City" : "WEST UNION",
+		"State" : "WV",
+		"Latitude" : "+39.296522"
+	},
+	{
+		"Longitude" : "-080.385344",
+		"Zipcode" : "26461",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "WILSONBURG",
+		"State" : "WV",
+		"Latitude" : "+39.285204"
+	},
+	{
+		"Longitude" : "-080.385344",
+		"Zipcode" : "26463",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "WYATT",
+		"State" : "WV",
+		"Latitude" : "+39.285204"
+	},
+	{
+		"Longitude" : "-079.983141",
+		"Zipcode" : "26501",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MORGANTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.609911"
+	},
+	{
+		"Longitude" : "-079.967184",
+		"Zipcode" : "26502",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MORGANTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.625302"
+	},
+	{
+		"Longitude" : "-079.895639",
+		"Zipcode" : "26503",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MORGANTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.636606"
+	},
+	{
+		"Longitude" : "-080.093007",
+		"Zipcode" : "26504",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MORGANTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.578512"
+	},
+	{
+		"Longitude" : "-079.967623",
+		"Zipcode" : "26505",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MORGANTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.609596"
+	},
+	{
+		"Longitude" : "-079.962669",
+		"Zipcode" : "26506",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MORGANTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.645276"
+	},
+	{
+		"Longitude" : "-079.836473",
+		"Zipcode" : "26507",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MORGANTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.680786"
+	},
+	{
+		"Longitude" : "-079.922871",
+		"Zipcode" : "26508",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MORGANTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.595329"
+	},
+	{
+		"Longitude" : "-079.617653",
+		"Zipcode" : "26519",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "ALBRIGHT",
+		"State" : "WV",
+		"Latitude" : "+39.516364"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26520",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PRESTON",
+		"City" : "ARTHURDALE",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-080.093007",
+		"Zipcode" : "26521",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "BLACKSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.578512"
+	},
+	{
+		"Longitude" : "-080.093007",
+		"Zipcode" : "26522",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONONGALIA",
+		"City" : "BOOTH",
+		"State" : "WV",
+		"Latitude" : "+39.578512"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26524",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PRESTON",
+		"City" : "BRETZ",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-079.620241",
+		"Zipcode" : "26525",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "BRUCETON MILLS",
+		"State" : "WV",
+		"Latitude" : "+39.666293"
+	},
+	{
+		"Longitude" : "-080.093007",
+		"Zipcode" : "26527",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONONGALIA",
+		"City" : "CASSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.578512"
+	},
+	{
+		"Longitude" : "-080.159737",
+		"Zipcode" : "26529",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "CORE",
+		"State" : "WV",
+		"Latitude" : "+39.651628"
+	},
+	{
+		"Longitude" : "-079.895832",
+		"Zipcode" : "26531",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONONGALIA",
+		"City" : "DELLSLOW",
+		"State" : "WV",
+		"Latitude" : "+39.605344"
+	},
+	{
+		"Longitude" : "-080.093007",
+		"Zipcode" : "26533",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONONGALIA",
+		"City" : "EVERETTVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.578512"
+	},
+	{
+		"Longitude" : "-079.942937",
+		"Zipcode" : "26534",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONONGALIA",
+		"City" : "GRANVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.627640"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26535",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PRESTON",
+		"City" : "HAZELTON",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-079.675960",
+		"Zipcode" : "26537",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "KINGWOOD",
+		"State" : "WV",
+		"Latitude" : "+39.471673"
+	},
+	{
+		"Longitude" : "-080.028814",
+		"Zipcode" : "26541",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "MAIDSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.658416"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26542",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "MASONTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-080.093007",
+		"Zipcode" : "26543",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONONGALIA",
+		"City" : "OSAGE",
+		"State" : "WV",
+		"Latitude" : "+39.578512"
+	},
+	{
+		"Longitude" : "-080.093007",
+		"Zipcode" : "26544",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONONGALIA",
+		"City" : "PENTRESS",
+		"State" : "WV",
+		"Latitude" : "+39.578512"
+	},
+	{
+		"Longitude" : "-080.034965",
+		"Zipcode" : "26546",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "PURSGLOVE",
+		"State" : "WV",
+		"Latitude" : "+39.674575"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26547",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "REEDSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-080.221282",
+		"Zipcode" : "26554",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "FAIRMONT",
+		"State" : "WV",
+		"Latitude" : "+39.494115"
+	},
+	{
+		"Longitude" : "-080.218538",
+		"Zipcode" : "26555",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "FAIRMONT",
+		"State" : "WV",
+		"Latitude" : "+39.514343"
+	},
+	{
+		"Longitude" : "-080.172524",
+		"Zipcode" : "26559",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "BARRACKVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.505155"
+	},
+	{
+		"Longitude" : "-080.218538",
+		"Zipcode" : "26560",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "BAXTER",
+		"State" : "WV",
+		"Latitude" : "+39.514343"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26561",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "BIG RUN",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-080.416065",
+		"Zipcode" : "26562",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "BURTON",
+		"State" : "WV",
+		"Latitude" : "+39.651148"
+	},
+	{
+		"Longitude" : "-080.271988",
+		"Zipcode" : "26563",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "CAROLINA",
+		"State" : "WV",
+		"Latitude" : "+39.478198"
+	},
+	{
+		"Longitude" : "-080.218538",
+		"Zipcode" : "26566",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "COLFAX",
+		"State" : "WV",
+		"Latitude" : "+39.514343"
+	},
+	{
+		"Longitude" : "-080.385344",
+		"Zipcode" : "26568",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "ENTERPRISE",
+		"State" : "WV",
+		"Latitude" : "+39.285204"
+	},
+	{
+		"Longitude" : "-080.238950",
+		"Zipcode" : "26570",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "FAIRVIEW",
+		"State" : "WV",
+		"Latitude" : "+39.584289"
+	},
+	{
+		"Longitude" : "-080.252582",
+		"Zipcode" : "26571",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "FARMINGTON",
+		"State" : "WV",
+		"Latitude" : "+39.506654"
+	},
+	{
+		"Longitude" : "-080.218538",
+		"Zipcode" : "26572",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "FOUR STATES",
+		"State" : "WV",
+		"Latitude" : "+39.514343"
+	},
+	{
+		"Longitude" : "-080.180468",
+		"Zipcode" : "26574",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "GRANT TOWN",
+		"State" : "WV",
+		"Latitude" : "+39.558696"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26575",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "HUNDRED",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-080.266588",
+		"Zipcode" : "26576",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "IDAMAY",
+		"State" : "WV",
+		"Latitude" : "+39.487740"
+	},
+	{
+		"Longitude" : "-080.176171",
+		"Zipcode" : "26578",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "KINGMONT",
+		"State" : "WV",
+		"Latitude" : "+39.446631"
+	},
+	{
+		"Longitude" : "-080.666712",
+		"Zipcode" : "26581",
+		"ZipClass" : "STANDARD",
+		"County" : "WETZEL",
+		"City" : "LITTLETON",
+		"State" : "WV",
+		"Latitude" : "+39.575518"
+	},
+	{
+		"Longitude" : "-080.239960",
+		"Zipcode" : "26582",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "MANNINGTON",
+		"State" : "WV",
+		"Latitude" : "+39.536663"
+	},
+	{
+		"Longitude" : "-080.368694",
+		"Zipcode" : "26585",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "METZ",
+		"State" : "WV",
+		"Latitude" : "+39.579171"
+	},
+	{
+		"Longitude" : "-080.089673",
+		"Zipcode" : "26586",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "MONTANA MINES",
+		"State" : "WV",
+		"Latitude" : "+39.519136"
+	},
+	{
+		"Longitude" : "-080.299082",
+		"Zipcode" : "26587",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "RACHEL",
+		"State" : "WV",
+		"Latitude" : "+39.521541"
+	},
+	{
+		"Longitude" : "-080.127883",
+		"Zipcode" : "26588",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "RIVESVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.535089"
+	},
+	{
+		"Longitude" : "-080.366185",
+		"Zipcode" : "26589",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "WADESTOWN",
+		"State" : "WV",
+		"Latitude" : "+39.657200"
+	},
+	{
+		"Longitude" : "-080.093007",
+		"Zipcode" : "26590",
+		"ZipClass" : "STANDARD",
+		"County" : "MONONGALIA",
+		"City" : "WANA",
+		"State" : "WV",
+		"Latitude" : "+39.578512"
+	},
+	{
+		"Longitude" : "-080.262550",
+		"Zipcode" : "26591",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "WORTHINGTON",
+		"State" : "WV",
+		"Latitude" : "+39.451967"
+	},
+	{
+		"Longitude" : "-080.675970",
+		"Zipcode" : "26601",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "SUTTON",
+		"State" : "WV",
+		"Latitude" : "+38.654141"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26610",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "BIRCH RIVER",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26611",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "CEDARVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-080.586148",
+		"Zipcode" : "26612",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRAXTON",
+		"City" : "CENTRALIA",
+		"State" : "WV",
+		"Latitude" : "+38.620506"
+	},
+	{
+		"Longitude" : "-080.736884",
+		"Zipcode" : "26615",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "COPEN",
+		"State" : "WV",
+		"Latitude" : "+38.706017"
+	},
+	{
+		"Longitude" : "-081.050662",
+		"Zipcode" : "26617",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "DILLE",
+		"State" : "WV",
+		"Latitude" : "+38.465777"
+	},
+	{
+		"Longitude" : "-080.736884",
+		"Zipcode" : "26618",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "ELMIRA",
+		"State" : "WV",
+		"Latitude" : "+38.706017"
+	},
+	{
+		"Longitude" : "-080.732359",
+		"Zipcode" : "26619",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "EXCHANGE",
+		"State" : "WV",
+		"Latitude" : "+38.735774"
+	},
+	{
+		"Longitude" : "-080.574704",
+		"Zipcode" : "26621",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "FLATWOODS",
+		"State" : "WV",
+		"Latitude" : "+38.733696"
+	},
+	{
+		"Longitude" : "-080.858859",
+		"Zipcode" : "26623",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "FRAMETOWN",
+		"State" : "WV",
+		"Latitude" : "+38.630462"
+	},
+	{
+		"Longitude" : "-080.687337",
+		"Zipcode" : "26624",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "GASSAWAY",
+		"State" : "WV",
+		"Latitude" : "+38.718522"
+	},
+	{
+		"Longitude" : "-080.640614",
+		"Zipcode" : "26627",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "HEATERS",
+		"State" : "WV",
+		"Latitude" : "+38.762122"
+	},
+	{
+		"Longitude" : "-080.693054",
+		"Zipcode" : "26629",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "LITTLE BIRCH",
+		"State" : "WV",
+		"Latitude" : "+38.580977"
+	},
+	{
+		"Longitude" : "-080.736884",
+		"Zipcode" : "26631",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "NAPIER",
+		"State" : "WV",
+		"Latitude" : "+38.706017"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26634",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "PERKINS",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26636",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "ROSEDALE",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-080.831256",
+		"Zipcode" : "26638",
+		"ZipClass" : "STANDARD",
+		"County" : "GILMER",
+		"City" : "SHOCK",
+		"State" : "WV",
+		"Latitude" : "+38.913649"
+	},
+	{
+		"Longitude" : "-080.799944",
+		"Zipcode" : "26639",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "STRANGE CREEK",
+		"State" : "WV",
+		"Latitude" : "+38.574978"
+	},
+	{
+		"Longitude" : "-080.736884",
+		"Zipcode" : "26641",
+		"ZipClass" : "STANDARD",
+		"County" : "BRAXTON",
+		"City" : "WILSIE",
+		"State" : "WV",
+		"Latitude" : "+38.706017"
+	},
+	{
+		"Longitude" : "-080.854096",
+		"Zipcode" : "26651",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "SUMMERSVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.326251"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26656",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "BELVA",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26660",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "CALVIN",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26662",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "CANVAS",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26667",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NICHOLAS",
+		"City" : "DRENNEN",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26671",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "GILBOA",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-081.185153",
+		"Zipcode" : "26674",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "JODIE",
+		"State" : "WV",
+		"Latitude" : "+38.201250"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26675",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NICHOLAS",
+		"City" : "KESLERS CROSS LANES",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.682702",
+		"Zipcode" : "26676",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "LEIVASY",
+		"State" : "WV",
+		"Latitude" : "+38.155842"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26678",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "MOUNT LOOKOUT",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26679",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "MOUNT NEBO",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-081.064784",
+		"Zipcode" : "26680",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "NALLEN",
+		"State" : "WV",
+		"Latitude" : "+38.041293"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26681",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "NETTIE",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26684",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "POOL",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26690",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "SWISS",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-080.834152",
+		"Zipcode" : "26691",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "TIOGA",
+		"State" : "WV",
+		"Latitude" : "+38.318389"
+	},
+	{
+		"Longitude" : "-078.618258",
+		"Zipcode" : "26704",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "AUGUSTA",
+		"State" : "WV",
+		"Latitude" : "+39.251133"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26705",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "AURORA",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-079.146211",
+		"Zipcode" : "26707",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "BAYARD",
+		"State" : "WV",
+		"Latitude" : "+38.986974"
+	},
+	{
+		"Longitude" : "-078.964749",
+		"Zipcode" : "26710",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "BURLINGTON",
+		"State" : "WV",
+		"Latitude" : "+39.443055"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26711",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "CAPON BRIDGE",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26714",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "DELRAY",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-079.688154",
+		"Zipcode" : "26716",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "EGLON",
+		"State" : "WV",
+		"Latitude" : "+39.458091"
+	},
+	{
+		"Longitude" : "-078.964749",
+		"Zipcode" : "26717",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "ELK GARDEN",
+		"State" : "WV",
+		"Latitude" : "+39.443055"
+	},
+	{
+		"Longitude" : "-078.744739",
+		"Zipcode" : "26719",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "FORT ASHBY",
+		"State" : "WV",
+		"Latitude" : "+39.500536"
+	},
+	{
+		"Longitude" : "-079.233536",
+		"Zipcode" : "26720",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "GORMANIA",
+		"State" : "WV",
+		"Latitude" : "+39.070601"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26722",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "GREEN SPRING",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-078.892554",
+		"Zipcode" : "26726",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "KEYSER",
+		"State" : "WV",
+		"Latitude" : "+39.452686"
+	},
+	{
+		"Longitude" : "-079.233536",
+		"Zipcode" : "26731",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "LAHMANSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.070601"
+	},
+	{
+		"Longitude" : "-079.233536",
+		"Zipcode" : "26734",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MEDLEY",
+		"State" : "WV",
+		"Latitude" : "+39.070601"
+	},
+	{
+		"Longitude" : "-079.233536",
+		"Zipcode" : "26739",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MOUNT STORM",
+		"State" : "WV",
+		"Latitude" : "+39.070601"
+	},
+	{
+		"Longitude" : "-079.045902",
+		"Zipcode" : "26743",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "NEW CREEK",
+		"State" : "WV",
+		"Latitude" : "+39.320470"
+	},
+	{
+		"Longitude" : "-078.909518",
+		"Zipcode" : "26750",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "PIEDMONT",
+		"State" : "WV",
+		"Latitude" : "+39.546831"
+	},
+	{
+		"Longitude" : "-078.769112",
+		"Zipcode" : "26753",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "RIDGELEY",
+		"State" : "WV",
+		"Latitude" : "+39.600736"
+	},
+	{
+		"Longitude" : "-078.726985",
+		"Zipcode" : "26755",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "RIO",
+		"State" : "WV",
+		"Latitude" : "+39.184710"
+	},
+	{
+		"Longitude" : "-078.758487",
+		"Zipcode" : "26757",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "ROMNEY",
+		"State" : "WV",
+		"Latitude" : "+39.344870"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26761",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "SHANKS",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26763",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "SPRINGFIELD",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-079.519679",
+		"Zipcode" : "26764",
+		"ZipClass" : "STANDARD",
+		"County" : "PRESTON",
+		"City" : "TERRA ALTA",
+		"State" : "WV",
+		"Latitude" : "+39.430634"
+	},
+	{
+		"Longitude" : "-078.763194",
+		"Zipcode" : "26767",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "WILEY FORD",
+		"State" : "WV",
+		"Latitude" : "+39.617003"
+	},
+	{
+		"Longitude" : "-078.821226",
+		"Zipcode" : "26801",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDY",
+		"City" : "BAKER",
+		"State" : "WV",
+		"Latitude" : "+38.999518"
+	},
+	{
+		"Longitude" : "-079.353564",
+		"Zipcode" : "26802",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "BRANDYWINE",
+		"State" : "WV",
+		"Latitude" : "+38.684692"
+	},
+	{
+		"Longitude" : "-079.353564",
+		"Zipcode" : "26804",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "CIRCLEVILLE",
+		"State" : "WV",
+		"Latitude" : "+38.684692"
+	},
+	{
+		"Longitude" : "-079.327196",
+		"Zipcode" : "26807",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "FRANKLIN",
+		"State" : "WV",
+		"Latitude" : "+38.648787"
+	},
+	{
+		"Longitude" : "-078.436258",
+		"Zipcode" : "26808",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "HIGH VIEW",
+		"State" : "WV",
+		"Latitude" : "+39.211295"
+	},
+	{
+		"Longitude" : "-078.821226",
+		"Zipcode" : "26810",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDY",
+		"City" : "LOST CITY",
+		"State" : "WV",
+		"Latitude" : "+38.999518"
+	},
+	{
+		"Longitude" : "-078.821226",
+		"Zipcode" : "26812",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDY",
+		"City" : "MATHIAS",
+		"State" : "WV",
+		"Latitude" : "+38.999518"
+	},
+	{
+		"Longitude" : "-079.353564",
+		"Zipcode" : "26814",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "RIVERTON",
+		"State" : "WV",
+		"Latitude" : "+38.684692"
+	},
+	{
+		"Longitude" : "-079.353564",
+		"Zipcode" : "26815",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "SUGAR GROVE",
+		"State" : "WV",
+		"Latitude" : "+38.684692"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26817",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "BLOOMERY",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-078.821226",
+		"Zipcode" : "26818",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDY",
+		"City" : "FISHER",
+		"State" : "WV",
+		"Latitude" : "+38.999518"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26823",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPSHIRE",
+		"City" : "CAPON SPRINGS",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26824",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "JUNCTION",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-079.134177",
+		"Zipcode" : "26833",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MAYSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.116709"
+	},
+	{
+		"Longitude" : "-078.820561",
+		"Zipcode" : "26836",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDY",
+		"City" : "MOOREFIELD",
+		"State" : "WV",
+		"Latitude" : "+39.018679"
+	},
+	{
+		"Longitude" : "-078.821226",
+		"Zipcode" : "26838",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDY",
+		"City" : "MILAM",
+		"State" : "WV",
+		"Latitude" : "+38.999518"
+	},
+	{
+		"Longitude" : "-078.821226",
+		"Zipcode" : "26845",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDY",
+		"City" : "OLD FIELDS",
+		"State" : "WV",
+		"Latitude" : "+38.999518"
+	},
+	{
+		"Longitude" : "-079.129301",
+		"Zipcode" : "26847",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "PETERSBURG",
+		"State" : "WV",
+		"Latitude" : "+38.990838"
+	},
+	{
+		"Longitude" : "-078.593865",
+		"Zipcode" : "26851",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDY",
+		"City" : "WARDENSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.077365"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26852",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "PURGITSVILLE",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-079.233536",
+		"Zipcode" : "26855",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "CABINS",
+		"State" : "WV",
+		"Latitude" : "+39.070601"
+	},
+	{
+		"Longitude" : "-078.659428",
+		"Zipcode" : "26865",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "YELLOW SPRING",
+		"State" : "WV",
+		"Latitude" : "+39.314071"
+	},
+	{
+		"Longitude" : "-079.353564",
+		"Zipcode" : "26866",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "UPPER TRACT",
+		"State" : "WV",
+		"Latitude" : "+38.684692"
+	},
+	{
+		"Longitude" : "-079.353564",
+		"Zipcode" : "26884",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "SENECA ROCKS",
+		"State" : "WV",
+		"Latitude" : "+38.684692"
+	},
+	{
+		"Longitude" : "-079.353564",
+		"Zipcode" : "26886",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PENDLETON",
+		"City" : "ONEGO",
+		"State" : "WV",
+		"Latitude" : "+38.684692"
+	}
+]}

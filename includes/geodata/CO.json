@@ -1,0 +1,5961 @@
+{
+	"result":[
+	{
+		"Longitude" : "-105.223945",
+		"Zipcode" : "80001",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ARVADA",
+		"State" : "CO",
+		"Latitude" : "+39.522014"
+	},
+	{
+		"Longitude" : "-105.109236",
+		"Zipcode" : "80002",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ARVADA",
+		"State" : "CO",
+		"Latitude" : "+39.827818"
+	},
+	{
+		"Longitude" : "-105.105775",
+		"Zipcode" : "80003",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ARVADA",
+		"State" : "CO",
+		"Latitude" : "+39.835086"
+	},
+	{
+		"Longitude" : "-105.128173",
+		"Zipcode" : "80004",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ARVADA",
+		"State" : "CO",
+		"Latitude" : "+39.814481"
+	},
+	{
+		"Longitude" : "-105.123440",
+		"Zipcode" : "80005",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ARVADA",
+		"State" : "CO",
+		"Latitude" : "+39.857259"
+	},
+	{
+		"Longitude" : "-105.223945",
+		"Zipcode" : "80006",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ARVADA",
+		"State" : "CO",
+		"Latitude" : "+39.522014"
+	},
+	{
+		"Longitude" : "-105.172429",
+		"Zipcode" : "80007",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ARVADA",
+		"State" : "CO",
+		"Latitude" : "+39.863369"
+	},
+	{
+		"Longitude" : "-104.847480",
+		"Zipcode" : "80010",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.715287"
+	},
+	{
+		"Longitude" : "-104.822765",
+		"Zipcode" : "80011",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.788286"
+	},
+	{
+		"Longitude" : "-104.809730",
+		"Zipcode" : "80012",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.681201"
+	},
+	{
+		"Longitude" : "-104.762750",
+		"Zipcode" : "80013",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.660654"
+	},
+	{
+		"Longitude" : "-104.829330",
+		"Zipcode" : "80014",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.660437"
+	},
+	{
+		"Longitude" : "-104.775265",
+		"Zipcode" : "80015",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.667429"
+	},
+	{
+		"Longitude" : "-104.739428",
+		"Zipcode" : "80016",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.601172"
+	},
+	{
+		"Longitude" : "-104.806670",
+		"Zipcode" : "80017",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.702142"
+	},
+	{
+		"Longitude" : "-104.679820",
+		"Zipcode" : "80018",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.689487"
+	},
+	{
+		"Longitude" : "-104.685374",
+		"Zipcode" : "80019",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.781442"
+	},
+	{
+		"Longitude" : "-105.097151",
+		"Zipcode" : "80020",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BROOMFIELD",
+		"State" : "CO",
+		"Latitude" : "+40.046064"
+	},
+	{
+		"Longitude" : "-105.113890",
+		"Zipcode" : "80021",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BROOMFIELD",
+		"State" : "CO",
+		"Latitude" : "+39.885388"
+	},
+	{
+		"Longitude" : "-104.771527",
+		"Zipcode" : "80022",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "COMMERCE CITY",
+		"State" : "CO",
+		"Latitude" : "+39.869835"
+	},
+	{
+		"Longitude" : "-104.918783",
+		"Zipcode" : "80024",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADAMS",
+		"City" : "DUPONT",
+		"State" : "CO",
+		"Latitude" : "+39.844501"
+	},
+	{
+		"Longitude" : "-105.287967",
+		"Zipcode" : "80025",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOULDER",
+		"City" : "ELDORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+39.932420"
+	},
+	{
+		"Longitude" : "-105.104899",
+		"Zipcode" : "80026",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "LAFAYETTE",
+		"State" : "CO",
+		"Latitude" : "+40.026334"
+	},
+	{
+		"Longitude" : "-105.269915",
+		"Zipcode" : "80027",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "LOUISVILLE",
+		"State" : "CO",
+		"Latitude" : "+39.980835"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80028",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "LOUISVILLE",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.034487",
+		"Zipcode" : "80030",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "WESTMINSTER",
+		"State" : "CO",
+		"Latitude" : "+39.872535"
+	},
+	{
+		"Longitude" : "-105.034487",
+		"Zipcode" : "80031",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "WESTMINSTER",
+		"State" : "CO",
+		"Latitude" : "+39.875290"
+	},
+	{
+		"Longitude" : "-105.108182",
+		"Zipcode" : "80033",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WHEAT RIDGE",
+		"State" : "CO",
+		"Latitude" : "+39.776986"
+	},
+	{
+		"Longitude" : "-105.223945",
+		"Zipcode" : "80034",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WHEAT RIDGE",
+		"State" : "CO",
+		"Latitude" : "+39.522014"
+	},
+	{
+		"Longitude" : "-104.407918",
+		"Zipcode" : "80035",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "WESTMINSTER",
+		"State" : "CO",
+		"Latitude" : "+39.807970"
+	},
+	{
+		"Longitude" : "-104.407918",
+		"Zipcode" : "80036",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "WESTMINSTER",
+		"State" : "CO",
+		"Latitude" : "+39.807970"
+	},
+	{
+		"Longitude" : "-104.407918",
+		"Zipcode" : "80037",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "COMMERCE CITY",
+		"State" : "CO",
+		"Latitude" : "+39.807970"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80038",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BROOMFIELD",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-104.407918",
+		"Zipcode" : "80040",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.807970"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80041",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.407918",
+		"Zipcode" : "80042",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.807970"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80044",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.838361",
+		"Zipcode" : "80045",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.746736"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80046",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80047",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "AURORA",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.084781",
+		"Zipcode" : "80101",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "AGATE",
+		"State" : "CO",
+		"Latitude" : "+39.382335"
+	},
+	{
+		"Longitude" : "-104.458336",
+		"Zipcode" : "80102",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "BENNETT",
+		"State" : "CO",
+		"Latitude" : "+39.869384"
+	},
+	{
+		"Longitude" : "-104.162633",
+		"Zipcode" : "80103",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "BYERS",
+		"State" : "CO",
+		"Latitude" : "+39.652632"
+	},
+	{
+		"Longitude" : "-104.849988",
+		"Zipcode" : "80104",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "CASTLE ROCK",
+		"State" : "CO",
+		"Latitude" : "+39.374779"
+	},
+	{
+		"Longitude" : "-103.948538",
+		"Zipcode" : "80105",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "DEER TRAIL",
+		"State" : "CO",
+		"Latitude" : "+39.659461"
+	},
+	{
+		"Longitude" : "-104.505121",
+		"Zipcode" : "80106",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "ELBERT",
+		"State" : "CO",
+		"Latitude" : "+39.208967"
+	},
+	{
+		"Longitude" : "-104.495911",
+		"Zipcode" : "80107",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "ELIZABETH",
+		"State" : "CO",
+		"Latitude" : "+39.382844"
+	},
+	{
+		"Longitude" : "-104.973852",
+		"Zipcode" : "80110",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "ENGLEWOOD",
+		"State" : "CO",
+		"Latitude" : "+39.648958"
+	},
+	{
+		"Longitude" : "-104.864703",
+		"Zipcode" : "80111",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "ENGLEWOOD",
+		"State" : "CO",
+		"Latitude" : "+39.666811"
+	},
+	{
+		"Longitude" : "-104.862194",
+		"Zipcode" : "80112",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "ENGLEWOOD",
+		"State" : "CO",
+		"Latitude" : "+39.581238"
+	},
+	{
+		"Longitude" : "-104.756722",
+		"Zipcode" : "80116",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "FRANKTOWN",
+		"State" : "CO",
+		"Latitude" : "+39.304030"
+	},
+	{
+		"Longitude" : "-104.421214",
+		"Zipcode" : "80117",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "KIOWA",
+		"State" : "CO",
+		"Latitude" : "+39.370254"
+	},
+	{
+		"Longitude" : "-104.950189",
+		"Zipcode" : "80118",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LARKSPUR",
+		"State" : "CO",
+		"Latitude" : "+39.213354"
+	},
+	{
+		"Longitude" : "-105.010182",
+		"Zipcode" : "80120",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.597937"
+	},
+	{
+		"Longitude" : "-104.887730",
+		"Zipcode" : "80121",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.612789"
+	},
+	{
+		"Longitude" : "-104.955576",
+		"Zipcode" : "80122",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.582222"
+	},
+	{
+		"Longitude" : "-105.090085",
+		"Zipcode" : "80123",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.620596"
+	},
+	{
+		"Longitude" : "-104.906562",
+		"Zipcode" : "80124",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.529639"
+	},
+	{
+		"Longitude" : "-105.058970",
+		"Zipcode" : "80125",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.495327"
+	},
+	{
+		"Longitude" : "-104.969143",
+		"Zipcode" : "80126",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.543720"
+	},
+	{
+		"Longitude" : "-105.153074",
+		"Zipcode" : "80127",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.544307"
+	},
+	{
+		"Longitude" : "-105.083196",
+		"Zipcode" : "80128",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.591827"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "80129",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "80130",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-104.994708",
+		"Zipcode" : "80131",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "LOUVIERS",
+		"State" : "CO",
+		"Latitude" : "+39.347863"
+	},
+	{
+		"Longitude" : "-104.807666",
+		"Zipcode" : "80132",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "MONUMENT",
+		"State" : "CO",
+		"Latitude" : "+39.086393"
+	},
+	{
+		"Longitude" : "-104.900328",
+		"Zipcode" : "80133",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "PALMER LAKE",
+		"State" : "CO",
+		"Latitude" : "+39.112138"
+	},
+	{
+		"Longitude" : "-104.844731",
+		"Zipcode" : "80134",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "PARKER",
+		"State" : "CO",
+		"Latitude" : "+39.489472"
+	},
+	{
+		"Longitude" : "-105.067554",
+		"Zipcode" : "80135",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "SEDALIA",
+		"State" : "CO",
+		"Latitude" : "+39.311334"
+	},
+	{
+		"Longitude" : "-104.291682",
+		"Zipcode" : "80136",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "STRASBURG",
+		"State" : "CO",
+		"Latitude" : "+39.865547"
+	},
+	{
+		"Longitude" : "-104.630327",
+		"Zipcode" : "80137",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "WATKINS",
+		"State" : "CO",
+		"Latitude" : "+39.796784"
+	},
+	{
+		"Longitude" : "-104.721607",
+		"Zipcode" : "80138",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "PARKER",
+		"State" : "CO",
+		"Latitude" : "+39.510214"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80150",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "ENGLEWOOD",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80151",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "ENGLEWOOD",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80154",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "ENGLEWOOD",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80155",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "ENGLEWOOD",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80160",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80161",
+		"ZipClass" : "STANDARD",
+		"County" : "ARAPAHOE",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-105.223945",
+		"Zipcode" : "80162",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.522014"
+	},
+	{
+		"Longitude" : "-104.994708",
+		"Zipcode" : "80163",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.347863"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80165",
+		"ZipClass" : "UNIQUE",
+		"County" : "ARAPAHOE",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80166",
+		"ZipClass" : "UNIQUE",
+		"County" : "ARAPAHOE",
+		"City" : "LITTLETON",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.856808",
+		"Zipcode" : "80201",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.726303"
+	},
+	{
+		"Longitude" : "-104.996553",
+		"Zipcode" : "80202",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.760189"
+	},
+	{
+		"Longitude" : "-104.970331",
+		"Zipcode" : "80203",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.729205"
+	},
+	{
+		"Longitude" : "-105.021502",
+		"Zipcode" : "80204",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.720136"
+	},
+	{
+		"Longitude" : "-104.967585",
+		"Zipcode" : "80205",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.760137"
+	},
+	{
+		"Longitude" : "-104.953335",
+		"Zipcode" : "80206",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.730787"
+	},
+	{
+		"Longitude" : "-104.903532",
+		"Zipcode" : "80207",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.713186"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80208",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.964236",
+		"Zipcode" : "80209",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.707332"
+	},
+	{
+		"Longitude" : "-104.964186",
+		"Zipcode" : "80210",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.701677"
+	},
+	{
+		"Longitude" : "-105.018387",
+		"Zipcode" : "80211",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.765291"
+	},
+	{
+		"Longitude" : "-105.049338",
+		"Zipcode" : "80212",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.768286"
+	},
+	{
+		"Longitude" : "-105.064336",
+		"Zipcode" : "80214",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.743636"
+	},
+	{
+		"Longitude" : "-105.100854",
+		"Zipcode" : "80215",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.743486"
+	},
+	{
+		"Longitude" : "-104.942034",
+		"Zipcode" : "80216",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.777036"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80217",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.968759",
+		"Zipcode" : "80218",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.720236"
+	},
+	{
+		"Longitude" : "-105.034339",
+		"Zipcode" : "80219",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.695014"
+	},
+	{
+		"Longitude" : "-104.910843",
+		"Zipcode" : "80220",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.732436"
+	},
+	{
+		"Longitude" : "-104.998788",
+		"Zipcode" : "80221",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.838028"
+	},
+	{
+		"Longitude" : "-104.924134",
+		"Zipcode" : "80222",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.709343"
+	},
+	{
+		"Longitude" : "-105.008762",
+		"Zipcode" : "80223",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.707186"
+	},
+	{
+		"Longitude" : "-104.911434",
+		"Zipcode" : "80224",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.702037"
+	},
+	{
+		"Longitude" : "-105.120440",
+		"Zipcode" : "80225",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.697090"
+	},
+	{
+		"Longitude" : "-105.091784",
+		"Zipcode" : "80226",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.712337"
+	},
+	{
+		"Longitude" : "-105.067136",
+		"Zipcode" : "80227",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.667479"
+	},
+	{
+		"Longitude" : "-105.156000",
+		"Zipcode" : "80228",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.688776"
+	},
+	{
+		"Longitude" : "-104.922688",
+		"Zipcode" : "80229",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.867098"
+	},
+	{
+		"Longitude" : "-104.895093",
+		"Zipcode" : "80230",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.721848"
+	},
+	{
+		"Longitude" : "-104.886785",
+		"Zipcode" : "80231",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.684930"
+	},
+	{
+		"Longitude" : "-105.090779",
+		"Zipcode" : "80232",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.689487"
+	},
+	{
+		"Longitude" : "-104.940683",
+		"Zipcode" : "80233",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.901534"
+	},
+	{
+		"Longitude" : "-105.010886",
+		"Zipcode" : "80234",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.910774"
+	},
+	{
+		"Longitude" : "-105.065003",
+		"Zipcode" : "80235",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.645837"
+	},
+	{
+		"Longitude" : "-105.034988",
+		"Zipcode" : "80236",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.649837"
+	},
+	{
+		"Longitude" : "-104.903984",
+		"Zipcode" : "80237",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.638537"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80238",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.813919",
+		"Zipcode" : "80239",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.804398"
+	},
+	{
+		"Longitude" : "-104.954833",
+		"Zipcode" : "80241",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.927421"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80243",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80244",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.931234",
+		"Zipcode" : "80246",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.708637"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80248",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.697674",
+		"Zipcode" : "80249",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.837760"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80250",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80251",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80252",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80254",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80255",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.992842",
+		"Zipcode" : "80256",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.747390"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80257",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.991334",
+		"Zipcode" : "80259",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.746239"
+	},
+	{
+		"Longitude" : "-105.004125",
+		"Zipcode" : "80260",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.867235"
+	},
+	{
+		"Longitude" : "-104.985036",
+		"Zipcode" : "80261",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.737929"
+	},
+	{
+		"Longitude" : "-104.938391",
+		"Zipcode" : "80262",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.731038"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80263",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.986292",
+		"Zipcode" : "80264",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.742590"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80265",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.991511",
+		"Zipcode" : "80266",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.747179"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80270",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80271",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.987535",
+		"Zipcode" : "80273",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.727293"
+	},
+	{
+		"Longitude" : "-104.987577",
+		"Zipcode" : "80274",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.743934"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80275",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80279",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-104.906942",
+		"Zipcode" : "80280",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.716675"
+	},
+	{
+		"Longitude" : "-104.987577",
+		"Zipcode" : "80281",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.743940"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "80285",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-104.987556",
+		"Zipcode" : "80290",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.743608"
+	},
+	{
+		"Longitude" : "-104.987577",
+		"Zipcode" : "80291",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.743940"
+	},
+	{
+		"Longitude" : "-104.992842",
+		"Zipcode" : "80292",
+		"ZipClass" : "UNIQUE",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.747390"
+	},
+	{
+		"Longitude" : "-104.990686",
+		"Zipcode" : "80293",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.745786"
+	},
+	{
+		"Longitude" : "-104.989036",
+		"Zipcode" : "80294",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.749086"
+	},
+	{
+		"Longitude" : "-104.986336",
+		"Zipcode" : "80295",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.745486"
+	},
+	{
+		"Longitude" : "-104.408349",
+		"Zipcode" : "80299",
+		"ZipClass" : "STANDARD",
+		"County" : "DENVER",
+		"City" : "DENVER",
+		"State" : "CO",
+		"Latitude" : "+39.738752"
+	},
+	{
+		"Longitude" : "-105.278083",
+		"Zipcode" : "80301",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.094787"
+	},
+	{
+		"Longitude" : "-105.390027",
+		"Zipcode" : "80302",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.063935"
+	},
+	{
+		"Longitude" : "-105.274840",
+		"Zipcode" : "80303",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.067772"
+	},
+	{
+		"Longitude" : "-105.369797",
+		"Zipcode" : "80304",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.114114"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "80305",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-105.384694",
+		"Zipcode" : "80306",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.102219"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80307",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.386800",
+		"Zipcode" : "80308",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.027672"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80309",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80310",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80314",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80321",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80322",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80323",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80328",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80329",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOULDER",
+		"City" : "BOULDER",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.245659",
+		"Zipcode" : "80401",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GOLDEN",
+		"State" : "CO",
+		"Latitude" : "+39.718539"
+	},
+	{
+		"Longitude" : "-105.223945",
+		"Zipcode" : "80402",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GOLDEN",
+		"State" : "CO",
+		"Latitude" : "+39.522014"
+	},
+	{
+		"Longitude" : "-105.270395",
+		"Zipcode" : "80403",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GOLDEN",
+		"State" : "CO",
+		"Latitude" : "+39.829821"
+	},
+	{
+		"Longitude" : "-105.223945",
+		"Zipcode" : "80419",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "GOLDEN",
+		"State" : "CO",
+		"Latitude" : "+39.522014"
+	},
+	{
+		"Longitude" : "-106.063548",
+		"Zipcode" : "80420",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARK",
+		"City" : "ALMA",
+		"State" : "CO",
+		"Latitude" : "+39.297972"
+	},
+	{
+		"Longitude" : "-105.747242",
+		"Zipcode" : "80421",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "BAILEY",
+		"State" : "CO",
+		"Latitude" : "+39.203721"
+	},
+	{
+		"Longitude" : "-105.475322",
+		"Zipcode" : "80422",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILPIN",
+		"City" : "BLACK HAWK",
+		"State" : "CO",
+		"Latitude" : "+39.815990"
+	},
+	{
+		"Longitude" : "-106.631246",
+		"Zipcode" : "80423",
+		"ZipClass" : "STANDARD",
+		"County" : "EAGLE",
+		"City" : "BOND",
+		"State" : "CO",
+		"Latitude" : "+39.860356"
+	},
+	{
+		"Longitude" : "-106.022472",
+		"Zipcode" : "80424",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "BRECKENRIDGE",
+		"State" : "CO",
+		"Latitude" : "+39.475323"
+	},
+	{
+		"Longitude" : "-105.254998",
+		"Zipcode" : "80425",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "BUFFALO CREEK",
+		"State" : "CO",
+		"Latitude" : "+39.332179"
+	},
+	{
+		"Longitude" : "-106.896452",
+		"Zipcode" : "80426",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EAGLE",
+		"City" : "BURNS",
+		"State" : "CO",
+		"Latitude" : "+39.783610"
+	},
+	{
+		"Longitude" : "-105.545631",
+		"Zipcode" : "80427",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILPIN",
+		"City" : "CENTRAL CITY",
+		"State" : "CO",
+		"Latitude" : "+39.821626"
+	},
+	{
+		"Longitude" : "-106.913996",
+		"Zipcode" : "80428",
+		"ZipClass" : "STANDARD",
+		"County" : "ROUTT",
+		"City" : "CLARK",
+		"State" : "CO",
+		"Latitude" : "+40.730717"
+	},
+	{
+		"Longitude" : "-106.311697",
+		"Zipcode" : "80429",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "CLIMAX",
+		"State" : "CO",
+		"Latitude" : "+39.225758"
+	},
+	{
+		"Longitude" : "-106.448221",
+		"Zipcode" : "80430",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "COALMONT",
+		"State" : "CO",
+		"Latitude" : "+40.480364"
+	},
+	{
+		"Longitude" : "-105.816986",
+		"Zipcode" : "80432",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "COMO",
+		"State" : "CO",
+		"Latitude" : "+39.158746"
+	},
+	{
+		"Longitude" : "-105.284448",
+		"Zipcode" : "80433",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "CONIFER",
+		"State" : "CO",
+		"Latitude" : "+39.473542"
+	},
+	{
+		"Longitude" : "-106.362488",
+		"Zipcode" : "80434",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "COWDREY",
+		"State" : "CO",
+		"Latitude" : "+40.663052"
+	},
+	{
+		"Longitude" : "-105.974117",
+		"Zipcode" : "80435",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "DILLON",
+		"State" : "CO",
+		"Latitude" : "+39.595212"
+	},
+	{
+		"Longitude" : "-105.635592",
+		"Zipcode" : "80436",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLEAR CREEK",
+		"City" : "DUMONT",
+		"State" : "CO",
+		"Latitude" : "+39.753150"
+	},
+	{
+		"Longitude" : "-105.223945",
+		"Zipcode" : "80437",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "EVERGREEN",
+		"State" : "CO",
+		"Latitude" : "+39.522014"
+	},
+	{
+		"Longitude" : "-105.665451",
+		"Zipcode" : "80438",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLEAR CREEK",
+		"City" : "EMPIRE",
+		"State" : "CO",
+		"Latitude" : "+39.761930"
+	},
+	{
+		"Longitude" : "-105.326248",
+		"Zipcode" : "80439",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "EVERGREEN",
+		"State" : "CO",
+		"Latitude" : "+39.629598"
+	},
+	{
+		"Longitude" : "-105.885893",
+		"Zipcode" : "80440",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "FAIRPLAY",
+		"State" : "CO",
+		"Latitude" : "+39.149000"
+	},
+	{
+		"Longitude" : "-105.792637",
+		"Zipcode" : "80442",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAND",
+		"City" : "FRASER",
+		"State" : "CO",
+		"Latitude" : "+39.958523"
+	},
+	{
+		"Longitude" : "-106.133183",
+		"Zipcode" : "80443",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUMMIT",
+		"City" : "FRISCO",
+		"State" : "CO",
+		"Latitude" : "+39.558929"
+	},
+	{
+		"Longitude" : "-105.760626",
+		"Zipcode" : "80444",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLEAR CREEK",
+		"City" : "GEORGETOWN",
+		"State" : "CO",
+		"Latitude" : "+39.725703"
+	},
+	{
+		"Longitude" : "-105.928533",
+		"Zipcode" : "80446",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND",
+		"City" : "GRANBY",
+		"State" : "CO",
+		"Latitude" : "+40.073869"
+	},
+	{
+		"Longitude" : "-105.852209",
+		"Zipcode" : "80447",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND",
+		"City" : "GRAND LAKE",
+		"State" : "CO",
+		"Latitude" : "+40.153982"
+	},
+	{
+		"Longitude" : "-105.658305",
+		"Zipcode" : "80448",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARK",
+		"City" : "GRANT",
+		"State" : "CO",
+		"Latitude" : "+39.461223"
+	},
+	{
+		"Longitude" : "-105.878811",
+		"Zipcode" : "80449",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "HARTSEL",
+		"State" : "CO",
+		"Latitude" : "+38.967262"
+	},
+	{
+		"Longitude" : "-106.069256",
+		"Zipcode" : "80451",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAND",
+		"City" : "HOT SULPHUR SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+40.071207"
+	},
+	{
+		"Longitude" : "-105.541583",
+		"Zipcode" : "80452",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEAR CREEK",
+		"City" : "IDAHO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+39.706574"
+	},
+	{
+		"Longitude" : "-105.244245",
+		"Zipcode" : "80453",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "IDLEDALE",
+		"State" : "CO",
+		"Latitude" : "+39.668426"
+	},
+	{
+		"Longitude" : "-105.248119",
+		"Zipcode" : "80454",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "INDIAN HILLS",
+		"State" : "CO",
+		"Latitude" : "+39.654637"
+	},
+	{
+		"Longitude" : "-105.423992",
+		"Zipcode" : "80455",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "JAMESTOWN",
+		"State" : "CO",
+		"Latitude" : "+40.101985"
+	},
+	{
+		"Longitude" : "-105.686535",
+		"Zipcode" : "80456",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "JEFFERSON",
+		"State" : "CO",
+		"Latitude" : "+39.275930"
+	},
+	{
+		"Longitude" : "-105.278194",
+		"Zipcode" : "80457",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "KITTREDGE",
+		"State" : "CO",
+		"Latitude" : "+39.648137"
+	},
+	{
+		"Longitude" : "-106.378296",
+		"Zipcode" : "80459",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND",
+		"City" : "KREMMLING",
+		"State" : "CO",
+		"Latitude" : "+40.147681"
+	},
+	{
+		"Longitude" : "-106.358330",
+		"Zipcode" : "80461",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "LEADVILLE",
+		"State" : "CO",
+		"Latitude" : "+39.217530"
+	},
+	{
+		"Longitude" : "-106.772151",
+		"Zipcode" : "80463",
+		"ZipClass" : "STANDARD",
+		"County" : "EAGLE",
+		"City" : "MC COY",
+		"State" : "CO",
+		"Latitude" : "+39.827120"
+	},
+	{
+		"Longitude" : "-105.201967",
+		"Zipcode" : "80465",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MORRISON",
+		"State" : "CO",
+		"Latitude" : "+39.610289"
+	},
+	{
+		"Longitude" : "-105.495998",
+		"Zipcode" : "80466",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "NEDERLAND",
+		"State" : "CO",
+		"Latitude" : "+40.000686"
+	},
+	{
+		"Longitude" : "-106.944274",
+		"Zipcode" : "80467",
+		"ZipClass" : "STANDARD",
+		"County" : "ROUTT",
+		"City" : "OAK CREEK",
+		"State" : "CO",
+		"Latitude" : "+40.323272"
+	},
+	{
+		"Longitude" : "-106.093005",
+		"Zipcode" : "80468",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND",
+		"City" : "PARSHALL",
+		"State" : "CO",
+		"Latitude" : "+39.953932"
+	},
+	{
+		"Longitude" : "-106.973513",
+		"Zipcode" : "80469",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROUTT",
+		"City" : "PHIPPSBURG",
+		"State" : "CO",
+		"Latitude" : "+40.190711"
+	},
+	{
+		"Longitude" : "-105.313600",
+		"Zipcode" : "80470",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PINE",
+		"State" : "CO",
+		"Latitude" : "+39.356599"
+	},
+	{
+		"Longitude" : "-105.459269",
+		"Zipcode" : "80471",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOULDER",
+		"City" : "PINECLIFFE",
+		"State" : "CO",
+		"Latitude" : "+39.947386"
+	},
+	{
+		"Longitude" : "-106.185703",
+		"Zipcode" : "80473",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "RAND",
+		"State" : "CO",
+		"Latitude" : "+40.466701"
+	},
+	{
+		"Longitude" : "-105.548200",
+		"Zipcode" : "80474",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILPIN",
+		"City" : "ROLLINSVILLE",
+		"State" : "CO",
+		"Latitude" : "+39.883804"
+	},
+	{
+		"Longitude" : "-105.602959",
+		"Zipcode" : "80475",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARK",
+		"City" : "SHAWNEE",
+		"State" : "CO",
+		"Latitude" : "+39.439493"
+	},
+	{
+		"Longitude" : "-105.750740",
+		"Zipcode" : "80476",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLEAR CREEK",
+		"City" : "SILVER PLUME",
+		"State" : "CO",
+		"Latitude" : "+39.699631"
+	},
+	{
+		"Longitude" : "-106.926910",
+		"Zipcode" : "80477",
+		"ZipClass" : "STANDARD",
+		"County" : "ROUTT",
+		"City" : "STEAMBOAT SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+40.348242"
+	},
+	{
+		"Longitude" : "-105.861480",
+		"Zipcode" : "80478",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAND",
+		"City" : "TABERNASH",
+		"State" : "CO",
+		"Latitude" : "+39.979743"
+	},
+	{
+		"Longitude" : "-106.851718",
+		"Zipcode" : "80479",
+		"ZipClass" : "STANDARD",
+		"County" : "ROUTT",
+		"City" : "TOPONAS",
+		"State" : "CO",
+		"Latitude" : "+40.067609"
+	},
+	{
+		"Longitude" : "-106.249045",
+		"Zipcode" : "80480",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "WALDEN",
+		"State" : "CO",
+		"Latitude" : "+40.678825"
+	},
+	{
+		"Longitude" : "-105.472634",
+		"Zipcode" : "80481",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "WARD",
+		"State" : "CO",
+		"Latitude" : "+40.055785"
+	},
+	{
+		"Longitude" : "-105.816439",
+		"Zipcode" : "80482",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAND",
+		"City" : "WINTER PARK",
+		"State" : "CO",
+		"Latitude" : "+39.949118"
+	},
+	{
+		"Longitude" : "-106.911567",
+		"Zipcode" : "80483",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROUTT",
+		"City" : "YAMPA",
+		"State" : "CO",
+		"Latitude" : "+40.130445"
+	},
+	{
+		"Longitude" : "-106.931827",
+		"Zipcode" : "80487",
+		"ZipClass" : "STANDARD",
+		"County" : "ROUTT",
+		"City" : "STEAMBOAT SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+40.632683"
+	},
+	{
+		"Longitude" : "-106.860746",
+		"Zipcode" : "80488",
+		"ZipClass" : "STANDARD",
+		"County" : "ROUTT",
+		"City" : "STEAMBOAT SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+40.619661"
+	},
+	{
+		"Longitude" : "-106.108002",
+		"Zipcode" : "80497",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "SILVERTHORNE",
+		"State" : "CO",
+		"Latitude" : "+39.641146"
+	},
+	{
+		"Longitude" : "-106.221139",
+		"Zipcode" : "80498",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "SILVERTHORNE",
+		"State" : "CO",
+		"Latitude" : "+39.764692"
+	},
+	{
+		"Longitude" : "-105.163300",
+		"Zipcode" : "80501",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "LONGMONT",
+		"State" : "CO",
+		"Latitude" : "+40.165634"
+	},
+	{
+		"Longitude" : "-105.373507",
+		"Zipcode" : "80502",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "LONGMONT",
+		"State" : "CO",
+		"Latitude" : "+40.087835"
+	},
+	{
+		"Longitude" : "-105.212558",
+		"Zipcode" : "80503",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "LONGMONT",
+		"State" : "CO",
+		"Latitude" : "+40.159043"
+	},
+	{
+		"Longitude" : "-104.970816",
+		"Zipcode" : "80504",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "LONGMONT",
+		"State" : "CO",
+		"Latitude" : "+40.129416"
+	},
+	{
+		"Longitude" : "-105.507950",
+		"Zipcode" : "80510",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "ALLENSPARK",
+		"State" : "CO",
+		"Latitude" : "+40.210184"
+	},
+	{
+		"Longitude" : "-105.569245",
+		"Zipcode" : "80511",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "ESTES PARK",
+		"State" : "CO",
+		"Latitude" : "+40.628112"
+	},
+	{
+		"Longitude" : "-105.525784",
+		"Zipcode" : "80512",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "BELLVUE",
+		"State" : "CO",
+		"Latitude" : "+40.610729"
+	},
+	{
+		"Longitude" : "-105.321046",
+		"Zipcode" : "80513",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "BERTHOUD",
+		"State" : "CO",
+		"Latitude" : "+40.530475"
+	},
+	{
+		"Longitude" : "-104.911938",
+		"Zipcode" : "80514",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "DACONO",
+		"State" : "CO",
+		"Latitude" : "+40.204344"
+	},
+	{
+		"Longitude" : "-105.383062",
+		"Zipcode" : "80515",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "DRAKE",
+		"State" : "CO",
+		"Latitude" : "+40.427541"
+	},
+	{
+		"Longitude" : "-104.923481",
+		"Zipcode" : "80516",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "ERIE",
+		"State" : "CO",
+		"Latitude" : "+40.062204"
+	},
+	{
+		"Longitude" : "-105.323971",
+		"Zipcode" : "80517",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "ESTES PARK",
+		"State" : "CO",
+		"Latitude" : "+40.370748"
+	},
+	{
+		"Longitude" : "-104.935838",
+		"Zipcode" : "80520",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WELD",
+		"City" : "FIRESTONE",
+		"State" : "CO",
+		"Latitude" : "+40.122477"
+	},
+	{
+		"Longitude" : "-105.298344",
+		"Zipcode" : "80521",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.592270"
+	},
+	{
+		"Longitude" : "-105.057005",
+		"Zipcode" : "80522",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.642907"
+	},
+	{
+		"Longitude" : "-105.464832",
+		"Zipcode" : "80523",
+		"ZipClass" : "UNIQUE",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.455530"
+	},
+	{
+		"Longitude" : "-105.252751",
+		"Zipcode" : "80524",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.598890"
+	},
+	{
+		"Longitude" : "-105.207073",
+		"Zipcode" : "80525",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.532277"
+	},
+	{
+		"Longitude" : "-105.324268",
+		"Zipcode" : "80526",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.587553"
+	},
+	{
+		"Longitude" : "-105.280009",
+		"Zipcode" : "80527",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.540565"
+	},
+	{
+		"Longitude" : "-105.034077",
+		"Zipcode" : "80528",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.533726"
+	},
+	{
+		"Longitude" : "-104.938057",
+		"Zipcode" : "80530",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "FREDERICK",
+		"State" : "CO",
+		"Latitude" : "+40.123557"
+	},
+	{
+		"Longitude" : "-105.447005",
+		"Zipcode" : "80532",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LARIMER",
+		"City" : "GLEN HAVEN",
+		"State" : "CO",
+		"Latitude" : "+40.457758"
+	},
+	{
+		"Longitude" : "-105.232695",
+		"Zipcode" : "80533",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOULDER",
+		"City" : "HYGIENE",
+		"State" : "CO",
+		"Latitude" : "+40.181515"
+	},
+	{
+		"Longitude" : "-104.867196",
+		"Zipcode" : "80534",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "JOHNSTOWN",
+		"State" : "CO",
+		"Latitude" : "+40.320091"
+	},
+	{
+		"Longitude" : "-105.262822",
+		"Zipcode" : "80535",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "LAPORTE",
+		"State" : "CO",
+		"Latitude" : "+40.589014"
+	},
+	{
+		"Longitude" : "-105.441688",
+		"Zipcode" : "80536",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "LIVERMORE",
+		"State" : "CO",
+		"Latitude" : "+40.693564"
+	},
+	{
+		"Longitude" : "-105.266415",
+		"Zipcode" : "80537",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "LOVELAND",
+		"State" : "CO",
+		"Latitude" : "+40.553704"
+	},
+	{
+		"Longitude" : "-105.183385",
+		"Zipcode" : "80538",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "LOVELAND",
+		"State" : "CO",
+		"Latitude" : "+40.551116"
+	},
+	{
+		"Longitude" : "-105.163377",
+		"Zipcode" : "80539",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "LOVELAND",
+		"State" : "CO",
+		"Latitude" : "+40.386360"
+	},
+	{
+		"Longitude" : "-105.355280",
+		"Zipcode" : "80540",
+		"ZipClass" : "STANDARD",
+		"County" : "BOULDER",
+		"City" : "LYONS",
+		"State" : "CO",
+		"Latitude" : "+40.189788"
+	},
+	{
+		"Longitude" : "-105.372014",
+		"Zipcode" : "80541",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LARIMER",
+		"City" : "MASONVILLE",
+		"State" : "CO",
+		"Latitude" : "+40.529278"
+	},
+	{
+		"Longitude" : "-104.893796",
+		"Zipcode" : "80542",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "MEAD",
+		"State" : "CO",
+		"Latitude" : "+40.327051"
+	},
+	{
+		"Longitude" : "-104.841349",
+		"Zipcode" : "80543",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "MILLIKEN",
+		"State" : "CO",
+		"Latitude" : "+40.387381"
+	},
+	{
+		"Longitude" : "-105.275045",
+		"Zipcode" : "80544",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOULDER",
+		"City" : "NIWOT",
+		"State" : "CO",
+		"Latitude" : "+40.177043"
+	},
+	{
+		"Longitude" : "-105.638852",
+		"Zipcode" : "80545",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "RED FEATHER LAKES",
+		"State" : "CO",
+		"Latitude" : "+40.610176"
+	},
+	{
+		"Longitude" : "-104.850544",
+		"Zipcode" : "80546",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WELD",
+		"City" : "SEVERANCE",
+		"State" : "CO",
+		"Latitude" : "+40.524987"
+	},
+	{
+		"Longitude" : "-105.017539",
+		"Zipcode" : "80547",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LARIMER",
+		"City" : "TIMNATH",
+		"State" : "CO",
+		"Latitude" : "+40.708692"
+	},
+	{
+		"Longitude" : "-105.085627",
+		"Zipcode" : "80549",
+		"ZipClass" : "STANDARD",
+		"County" : "LARIMER",
+		"City" : "WELLINGTON",
+		"State" : "CO",
+		"Latitude" : "+40.795455"
+	},
+	{
+		"Longitude" : "-104.942467",
+		"Zipcode" : "80550",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "WINDSOR",
+		"State" : "CO",
+		"Latitude" : "+40.307972"
+	},
+	{
+		"Longitude" : "-104.885116",
+		"Zipcode" : "80551",
+		"ZipClass" : "UNIQUE",
+		"County" : "WELD",
+		"City" : "WINDSOR",
+		"State" : "CO",
+		"Latitude" : "+40.464092"
+	},
+	{
+		"Longitude" : "-105.569245",
+		"Zipcode" : "80553",
+		"ZipClass" : "UNIQUE",
+		"County" : "LARIMER",
+		"City" : "FORT COLLINS",
+		"State" : "CO",
+		"Latitude" : "+40.628112"
+	},
+	{
+		"Longitude" : "-104.786597",
+		"Zipcode" : "80601",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "BRIGHTON",
+		"State" : "CO",
+		"Latitude" : "+39.942984"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "80602",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "BRIGHTON",
+		"State" : "CO",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "80603",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "BRIGHTON",
+		"State" : "CO",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-104.607073",
+		"Zipcode" : "80610",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "AULT",
+		"State" : "CO",
+		"Latitude" : "+40.675794"
+	},
+	{
+		"Longitude" : "-104.240542",
+		"Zipcode" : "80611",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "BRIGGSDALE",
+		"State" : "CO",
+		"Latitude" : "+40.443596"
+	},
+	{
+		"Longitude" : "-104.869798",
+		"Zipcode" : "80612",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "CARR",
+		"State" : "CO",
+		"Latitude" : "+40.597204"
+	},
+	{
+		"Longitude" : "-104.407918",
+		"Zipcode" : "80614",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADAMS",
+		"City" : "EASTLAKE",
+		"State" : "CO",
+		"Latitude" : "+39.807970"
+	},
+	{
+		"Longitude" : "-104.660412",
+		"Zipcode" : "80615",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "EATON",
+		"State" : "CO",
+		"Latitude" : "+40.350055"
+	},
+	{
+		"Longitude" : "-104.791285",
+		"Zipcode" : "80620",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "EVANS",
+		"State" : "CO",
+		"Latitude" : "+40.263453"
+	},
+	{
+		"Longitude" : "-104.650827",
+		"Zipcode" : "80621",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "FORT LUPTON",
+		"State" : "CO",
+		"Latitude" : "+40.363977"
+	},
+	{
+		"Longitude" : "-104.500735",
+		"Zipcode" : "80622",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "GALETON",
+		"State" : "CO",
+		"Latitude" : "+40.536158"
+	},
+	{
+		"Longitude" : "-104.796889",
+		"Zipcode" : "80623",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WELD",
+		"City" : "GILCREST",
+		"State" : "CO",
+		"Latitude" : "+40.249380"
+	},
+	{
+		"Longitude" : "-104.590607",
+		"Zipcode" : "80624",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "GILL",
+		"State" : "CO",
+		"Latitude" : "+40.475572"
+	},
+	{
+		"Longitude" : "-104.680631",
+		"Zipcode" : "80631",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "GREELEY",
+		"State" : "CO",
+		"Latitude" : "+40.384991"
+	},
+	{
+		"Longitude" : "-104.762899",
+		"Zipcode" : "80632",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "GREELEY",
+		"State" : "CO",
+		"Latitude" : "+40.376626"
+	},
+	{
+		"Longitude" : "-104.314970",
+		"Zipcode" : "80633",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "GREELEY",
+		"State" : "CO",
+		"Latitude" : "+40.500919"
+	},
+	{
+		"Longitude" : "-104.796453",
+		"Zipcode" : "80634",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "GREELEY",
+		"State" : "CO",
+		"Latitude" : "+40.281195"
+	},
+	{
+		"Longitude" : "-104.314970",
+		"Zipcode" : "80638",
+		"ZipClass" : "UNIQUE",
+		"County" : "WELD",
+		"City" : "GREELEY",
+		"State" : "CO",
+		"Latitude" : "+40.500919"
+	},
+	{
+		"Longitude" : "-104.701720",
+		"Zipcode" : "80639",
+		"ZipClass" : "UNIQUE",
+		"County" : "WELD",
+		"City" : "GREELEY",
+		"State" : "CO",
+		"Latitude" : "+40.399281"
+	},
+	{
+		"Longitude" : "-104.883581",
+		"Zipcode" : "80640",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "HENDERSON",
+		"State" : "CO",
+		"Latitude" : "+39.879235"
+	},
+	{
+		"Longitude" : "-104.672306",
+		"Zipcode" : "80642",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "HUDSON",
+		"State" : "CO",
+		"Latitude" : "+40.109353"
+	},
+	{
+		"Longitude" : "-104.506123",
+		"Zipcode" : "80643",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "KEENESBURG",
+		"State" : "CO",
+		"Latitude" : "+40.085322"
+	},
+	{
+		"Longitude" : "-104.472779",
+		"Zipcode" : "80644",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "KERSEY",
+		"State" : "CO",
+		"Latitude" : "+40.474040"
+	},
+	{
+		"Longitude" : "-104.665639",
+		"Zipcode" : "80645",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "LA SALLE",
+		"State" : "CO",
+		"Latitude" : "+40.328185"
+	},
+	{
+		"Longitude" : "-104.705420",
+		"Zipcode" : "80646",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WELD",
+		"City" : "LUCERNE",
+		"State" : "CO",
+		"Latitude" : "+40.482430"
+	},
+	{
+		"Longitude" : "-104.627586",
+		"Zipcode" : "80648",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "NUNN",
+		"State" : "CO",
+		"Latitude" : "+40.492804"
+	},
+	{
+		"Longitude" : "-104.081667",
+		"Zipcode" : "80649",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "ORCHARD",
+		"State" : "CO",
+		"Latitude" : "+40.414728"
+	},
+	{
+		"Longitude" : "-104.744575",
+		"Zipcode" : "80650",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "PIERCE",
+		"State" : "CO",
+		"Latitude" : "+40.646551"
+	},
+	{
+		"Longitude" : "-104.712141",
+		"Zipcode" : "80651",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "PLATTEVILLE",
+		"State" : "CO",
+		"Latitude" : "+40.217382"
+	},
+	{
+		"Longitude" : "-104.281976",
+		"Zipcode" : "80652",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "ROGGEN",
+		"State" : "CO",
+		"Latitude" : "+40.087777"
+	},
+	{
+		"Longitude" : "-103.974159",
+		"Zipcode" : "80653",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "WELDONA",
+		"State" : "CO",
+		"Latitude" : "+40.382218"
+	},
+	{
+		"Longitude" : "-104.046791",
+		"Zipcode" : "80654",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "WIGGINS",
+		"State" : "CO",
+		"Latitude" : "+40.159839"
+	},
+	{
+		"Longitude" : "-103.847648",
+		"Zipcode" : "80701",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "FORT MORGAN",
+		"State" : "CO",
+		"Latitude" : "+40.262591"
+	},
+	{
+		"Longitude" : "-103.833813",
+		"Zipcode" : "80705",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "LOG LANE VILLAGE",
+		"State" : "CO",
+		"Latitude" : "+40.270654"
+	},
+	{
+		"Longitude" : "-103.202379",
+		"Zipcode" : "80720",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "AKRON",
+		"State" : "CO",
+		"Latitude" : "+40.073328"
+	},
+	{
+		"Longitude" : "-102.358200",
+		"Zipcode" : "80721",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "AMHERST",
+		"State" : "CO",
+		"Latitude" : "+40.608363"
+	},
+	{
+		"Longitude" : "-103.197305",
+		"Zipcode" : "80722",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "ATWOOD",
+		"State" : "CO",
+		"Latitude" : "+40.525066"
+	},
+	{
+		"Longitude" : "-103.613248",
+		"Zipcode" : "80723",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "BRUSH",
+		"State" : "CO",
+		"Latitude" : "+40.218547"
+	},
+	{
+		"Longitude" : "-103.074727",
+		"Zipcode" : "80726",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "CROOK",
+		"State" : "CO",
+		"Latitude" : "+40.852300"
+	},
+	{
+		"Longitude" : "-102.480300",
+		"Zipcode" : "80727",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "ECKLEY",
+		"State" : "CO",
+		"Latitude" : "+40.061126"
+	},
+	{
+		"Longitude" : "-102.874735",
+		"Zipcode" : "80728",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "FLEMING",
+		"State" : "CO",
+		"Latitude" : "+40.598608"
+	},
+	{
+		"Longitude" : "-104.168529",
+		"Zipcode" : "80729",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "GROVER",
+		"State" : "CO",
+		"Latitude" : "+40.820129"
+	},
+	{
+		"Longitude" : "-102.523842",
+		"Zipcode" : "80731",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "HAXTUN",
+		"State" : "CO",
+		"Latitude" : "+40.601383"
+	},
+	{
+		"Longitude" : "-104.305265",
+		"Zipcode" : "80732",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WELD",
+		"City" : "HEREFORD",
+		"State" : "CO",
+		"Latitude" : "+40.975104"
+	},
+	{
+		"Longitude" : "-103.505721",
+		"Zipcode" : "80733",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "HILLROSE",
+		"State" : "CO",
+		"Latitude" : "+40.345863"
+	},
+	{
+		"Longitude" : "-102.272326",
+		"Zipcode" : "80734",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "HOLYOKE",
+		"State" : "CO",
+		"Latitude" : "+40.587166"
+	},
+	{
+		"Longitude" : "-102.426235",
+		"Zipcode" : "80735",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "IDALIA",
+		"State" : "CO",
+		"Latitude" : "+39.816703"
+	},
+	{
+		"Longitude" : "-102.960098",
+		"Zipcode" : "80736",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "ILIFF",
+		"State" : "CO",
+		"Latitude" : "+40.784483"
+	},
+	{
+		"Longitude" : "-102.351994",
+		"Zipcode" : "80737",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "JULESBURG",
+		"State" : "CO",
+		"Latitude" : "+40.875606"
+	},
+	{
+		"Longitude" : "-103.414172",
+		"Zipcode" : "80740",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LINDON",
+		"State" : "CO",
+		"Latitude" : "+39.790894"
+	},
+	{
+		"Longitude" : "-103.413883",
+		"Zipcode" : "80741",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "MERINO",
+		"State" : "CO",
+		"Latitude" : "+40.632075"
+	},
+	{
+		"Longitude" : "-103.878656",
+		"Zipcode" : "80742",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "NEW RAYMER",
+		"State" : "CO",
+		"Latitude" : "+40.736271"
+	},
+	{
+		"Longitude" : "-103.042516",
+		"Zipcode" : "80743",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "OTIS",
+		"State" : "CO",
+		"Latitude" : "+40.163025"
+	},
+	{
+		"Longitude" : "-102.358241",
+		"Zipcode" : "80744",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "OVID",
+		"State" : "CO",
+		"Latitude" : "+40.875571"
+	},
+	{
+		"Longitude" : "-103.372814",
+		"Zipcode" : "80745",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "PADRONI",
+		"State" : "CO",
+		"Latitude" : "+40.884156"
+	},
+	{
+		"Longitude" : "-102.472203",
+		"Zipcode" : "80746",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHILLIPS",
+		"City" : "PAOLI",
+		"State" : "CO",
+		"Latitude" : "+40.610554"
+	},
+	{
+		"Longitude" : "-103.161820",
+		"Zipcode" : "80747",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "PEETZ",
+		"State" : "CO",
+		"Latitude" : "+40.825442"
+	},
+	{
+		"Longitude" : "-102.440230",
+		"Zipcode" : "80749",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "SEDGWICK",
+		"State" : "CO",
+		"Latitude" : "+40.875703"
+	},
+	{
+		"Longitude" : "-103.610575",
+		"Zipcode" : "80750",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "SNYDER",
+		"State" : "CO",
+		"Latitude" : "+40.415193"
+	},
+	{
+		"Longitude" : "-103.211191",
+		"Zipcode" : "80751",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "STERLING",
+		"State" : "CO",
+		"Latitude" : "+40.715081"
+	},
+	{
+		"Longitude" : "-103.997391",
+		"Zipcode" : "80754",
+		"ZipClass" : "STANDARD",
+		"County" : "WELD",
+		"City" : "STONEHAM",
+		"State" : "CO",
+		"Latitude" : "+40.735758"
+	},
+	{
+		"Longitude" : "-102.434252",
+		"Zipcode" : "80755",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "VERNON",
+		"State" : "CO",
+		"Latitude" : "+39.812149"
+	},
+	{
+		"Longitude" : "-103.575210",
+		"Zipcode" : "80757",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WOODROW",
+		"State" : "CO",
+		"Latitude" : "+39.804985"
+	},
+	{
+		"Longitude" : "-102.392973",
+		"Zipcode" : "80758",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "WRAY",
+		"State" : "CO",
+		"Latitude" : "+40.068525"
+	},
+	{
+		"Longitude" : "-102.618522",
+		"Zipcode" : "80759",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "YUMA",
+		"State" : "CO",
+		"Latitude" : "+40.061817"
+	},
+	{
+		"Longitude" : "-103.137281",
+		"Zipcode" : "80801",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ANTON",
+		"State" : "CO",
+		"Latitude" : "+39.690908"
+	},
+	{
+		"Longitude" : "-102.524932",
+		"Zipcode" : "80802",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "ARAPAHOE",
+		"State" : "CO",
+		"Latitude" : "+38.847485"
+	},
+	{
+		"Longitude" : "-103.323143",
+		"Zipcode" : "80804",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ARRIBA",
+		"State" : "CO",
+		"Latitude" : "+39.316461"
+	},
+	{
+		"Longitude" : "-102.433217",
+		"Zipcode" : "80805",
+		"ZipClass" : "STANDARD",
+		"County" : "KIT CARSON",
+		"City" : "BETHUNE",
+		"State" : "CO",
+		"Latitude" : "+39.293345"
+	},
+	{
+		"Longitude" : "-102.461287",
+		"Zipcode" : "80807",
+		"ZipClass" : "STANDARD",
+		"County" : "KIT CARSON",
+		"City" : "BURLINGTON",
+		"State" : "CO",
+		"Latitude" : "+39.308966"
+	},
+	{
+		"Longitude" : "-104.282512",
+		"Zipcode" : "80808",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "CALHAN",
+		"State" : "CO",
+		"Latitude" : "+38.940430"
+	},
+	{
+		"Longitude" : "-104.994972",
+		"Zipcode" : "80809",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "CASCADE",
+		"State" : "CO",
+		"Latitude" : "+38.945534"
+	},
+	{
+		"Longitude" : "-102.411537",
+		"Zipcode" : "80810",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "CHEYENNE WELLS",
+		"State" : "CO",
+		"Latitude" : "+38.827259"
+	},
+	{
+		"Longitude" : "-102.990380",
+		"Zipcode" : "80812",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "COPE",
+		"State" : "CO",
+		"Latitude" : "+39.684772"
+	},
+	{
+		"Longitude" : "-105.149874",
+		"Zipcode" : "80813",
+		"ZipClass" : "STANDARD",
+		"County" : "TELLER",
+		"City" : "CRIPPLE CREEK",
+		"State" : "CO",
+		"Latitude" : "+38.826084"
+	},
+	{
+		"Longitude" : "-105.185653",
+		"Zipcode" : "80814",
+		"ZipClass" : "STANDARD",
+		"County" : "TELLER",
+		"City" : "DIVIDE",
+		"State" : "CO",
+		"Latitude" : "+38.923901"
+	},
+	{
+		"Longitude" : "-102.783284",
+		"Zipcode" : "80815",
+		"ZipClass" : "STANDARD",
+		"County" : "KIT CARSON",
+		"City" : "FLAGLER",
+		"State" : "CO",
+		"Latitude" : "+39.325130"
+	},
+	{
+		"Longitude" : "-105.190895",
+		"Zipcode" : "80816",
+		"ZipClass" : "STANDARD",
+		"County" : "TELLER",
+		"City" : "FLORISSANT",
+		"State" : "CO",
+		"Latitude" : "+38.855231"
+	},
+	{
+		"Longitude" : "-104.652221",
+		"Zipcode" : "80817",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "FOUNTAIN",
+		"State" : "CO",
+		"Latitude" : "+38.663856"
+	},
+	{
+		"Longitude" : "-103.490650",
+		"Zipcode" : "80818",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GENOA",
+		"State" : "CO",
+		"Latitude" : "+39.348432"
+	},
+	{
+		"Longitude" : "-105.009444",
+		"Zipcode" : "80819",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EL PASO",
+		"City" : "GREEN MOUNTAIN FALLS",
+		"State" : "CO",
+		"Latitude" : "+38.938930"
+	},
+	{
+		"Longitude" : "-105.562124",
+		"Zipcode" : "80820",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "GUFFEY",
+		"State" : "CO",
+		"Latitude" : "+38.835374"
+	},
+	{
+		"Longitude" : "-103.457864",
+		"Zipcode" : "80821",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HUGO",
+		"State" : "CO",
+		"Latitude" : "+39.022942"
+	},
+	{
+		"Longitude" : "-102.500066",
+		"Zipcode" : "80822",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "JOES",
+		"State" : "CO",
+		"Latitude" : "+39.959546"
+	},
+	{
+		"Longitude" : "-103.474701",
+		"Zipcode" : "80823",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "KARVAL",
+		"State" : "CO",
+		"Latitude" : "+38.806509"
+	},
+	{
+		"Longitude" : "-102.546469",
+		"Zipcode" : "80824",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "KIRK",
+		"State" : "CO",
+		"Latitude" : "+39.664421"
+	},
+	{
+		"Longitude" : "-102.598136",
+		"Zipcode" : "80825",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "KIT CARSON",
+		"State" : "CO",
+		"Latitude" : "+38.827174"
+	},
+	{
+		"Longitude" : "-103.604851",
+		"Zipcode" : "80826",
+		"ZipClass" : "UNIQUE",
+		"County" : "LINCOLN",
+		"City" : "LIMON",
+		"State" : "CO",
+		"Latitude" : "+39.041435"
+	},
+	{
+		"Longitude" : "-105.514472",
+		"Zipcode" : "80827",
+		"ZipClass" : "STANDARD",
+		"County" : "PARK",
+		"City" : "LAKE GEORGE",
+		"State" : "CO",
+		"Latitude" : "+38.980056"
+	},
+	{
+		"Longitude" : "-103.588908",
+		"Zipcode" : "80828",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LIMON",
+		"State" : "CO",
+		"Latitude" : "+39.316540"
+	},
+	{
+		"Longitude" : "-104.927452",
+		"Zipcode" : "80829",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "MANITOU SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.853366"
+	},
+	{
+		"Longitude" : "-103.900144",
+		"Zipcode" : "80830",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "MATHESON",
+		"State" : "CO",
+		"Latitude" : "+39.114381"
+	},
+	{
+		"Longitude" : "-104.526328",
+		"Zipcode" : "80831",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "PEYTON",
+		"State" : "CO",
+		"Latitude" : "+38.984206"
+	},
+	{
+		"Longitude" : "-104.163326",
+		"Zipcode" : "80832",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "RAMAH",
+		"State" : "CO",
+		"Latitude" : "+39.035064"
+	},
+	{
+		"Longitude" : "-104.117904",
+		"Zipcode" : "80833",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "RUSH",
+		"State" : "CO",
+		"Latitude" : "+38.818756"
+	},
+	{
+		"Longitude" : "-102.881192",
+		"Zipcode" : "80834",
+		"ZipClass" : "STANDARD",
+		"County" : "KIT CARSON",
+		"City" : "SEIBERT",
+		"State" : "CO",
+		"Latitude" : "+39.322355"
+	},
+	{
+		"Longitude" : "-104.070186",
+		"Zipcode" : "80835",
+		"ZipClass" : "STANDARD",
+		"County" : "ELBERT",
+		"City" : "SIMLA",
+		"State" : "CO",
+		"Latitude" : "+39.208696"
+	},
+	{
+		"Longitude" : "-102.673010",
+		"Zipcode" : "80836",
+		"ZipClass" : "STANDARD",
+		"County" : "KIT CARSON",
+		"City" : "STRATTON",
+		"State" : "CO",
+		"Latitude" : "+39.304913"
+	},
+	{
+		"Longitude" : "-104.860561",
+		"Zipcode" : "80840",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "U S A F ACADEMY",
+		"State" : "CO",
+		"Latitude" : "+38.979235"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80841",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "U S A F ACADEMY",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-105.132073",
+		"Zipcode" : "80860",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TELLER",
+		"City" : "VICTOR",
+		"State" : "CO",
+		"Latitude" : "+38.731005"
+	},
+	{
+		"Longitude" : "-102.742290",
+		"Zipcode" : "80861",
+		"ZipClass" : "STANDARD",
+		"County" : "KIT CARSON",
+		"City" : "VONA",
+		"State" : "CO",
+		"Latitude" : "+39.311151"
+	},
+	{
+		"Longitude" : "-103.079761",
+		"Zipcode" : "80862",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHEYENNE",
+		"City" : "WILD HORSE",
+		"State" : "CO",
+		"Latitude" : "+38.804111"
+	},
+	{
+		"Longitude" : "-105.166398",
+		"Zipcode" : "80863",
+		"ZipClass" : "STANDARD",
+		"County" : "TELLER",
+		"City" : "WOODLAND PARK",
+		"State" : "CO",
+		"Latitude" : "+38.918437"
+	},
+	{
+		"Longitude" : "-104.193088",
+		"Zipcode" : "80864",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "YODER",
+		"State" : "CO",
+		"Latitude" : "+38.738943"
+	},
+	{
+		"Longitude" : "-105.155970",
+		"Zipcode" : "80866",
+		"ZipClass" : "STANDARD",
+		"County" : "TELLER",
+		"City" : "WOODLAND PARK",
+		"State" : "CO",
+		"Latitude" : "+39.036350"
+	},
+	{
+		"Longitude" : "-104.857828",
+		"Zipcode" : "80901",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.861469"
+	},
+	{
+		"Longitude" : "-104.809929",
+		"Zipcode" : "80903",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.828893"
+	},
+	{
+		"Longitude" : "-104.874531",
+		"Zipcode" : "80904",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.861981"
+	},
+	{
+		"Longitude" : "-104.801472",
+		"Zipcode" : "80905",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.844319"
+	},
+	{
+		"Longitude" : "-104.841763",
+		"Zipcode" : "80906",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.796074"
+	},
+	{
+		"Longitude" : "-104.814440",
+		"Zipcode" : "80907",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.943076"
+	},
+	{
+		"Longitude" : "-104.705498",
+		"Zipcode" : "80908",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+39.020647"
+	},
+	{
+		"Longitude" : "-104.850230",
+		"Zipcode" : "80909",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.838268"
+	},
+	{
+		"Longitude" : "-104.772059",
+		"Zipcode" : "80910",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.804094"
+	},
+	{
+		"Longitude" : "-104.789157",
+		"Zipcode" : "80911",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.922849"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80912",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.753607",
+		"Zipcode" : "80913",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.729969"
+	},
+	{
+		"Longitude" : "-104.701177",
+		"Zipcode" : "80914",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.819195"
+	},
+	{
+		"Longitude" : "-104.751515",
+		"Zipcode" : "80915",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.874436"
+	},
+	{
+		"Longitude" : "-104.718555",
+		"Zipcode" : "80916",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.810330"
+	},
+	{
+		"Longitude" : "-104.746689",
+		"Zipcode" : "80917",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.825130"
+	},
+	{
+		"Longitude" : "-104.807998",
+		"Zipcode" : "80918",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.903190"
+	},
+	{
+		"Longitude" : "-104.917436",
+		"Zipcode" : "80919",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.938149"
+	},
+	{
+		"Longitude" : "-104.755956",
+		"Zipcode" : "80920",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.965298"
+	},
+	{
+		"Longitude" : "-104.891220",
+		"Zipcode" : "80921",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+39.055054"
+	},
+	{
+		"Longitude" : "-104.701240",
+		"Zipcode" : "80922",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.904817"
+	},
+	{
+		"Longitude" : "-104.645854",
+		"Zipcode" : "80925",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.737774"
+	},
+	{
+		"Longitude" : "-104.880825",
+		"Zipcode" : "80926",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.644087"
+	},
+	{
+		"Longitude" : "-104.395746",
+		"Zipcode" : "80928",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.645078"
+	},
+	{
+		"Longitude" : "-104.624727",
+		"Zipcode" : "80929",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.846355"
+	},
+	{
+		"Longitude" : "-104.493259",
+		"Zipcode" : "80930",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824202"
+	},
+	{
+		"Longitude" : "-104.609230",
+		"Zipcode" : "80931",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.953003"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80932",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-105.011786",
+		"Zipcode" : "80933",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.939371"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80934",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80935",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80936",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80937",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80940",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80941",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80942",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80943",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80944",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80945",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80946",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80947",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80949",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80950",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80960",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80962",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80970",
+		"ZipClass" : "STANDARD",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80977",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80995",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.562027",
+		"Zipcode" : "80997",
+		"ZipClass" : "UNIQUE",
+		"County" : "EL PASO",
+		"City" : "COLORADO SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.824690"
+	},
+	{
+		"Longitude" : "-104.427776",
+		"Zipcode" : "81001",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.344117"
+	},
+	{
+		"Longitude" : "-104.552299",
+		"Zipcode" : "81002",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.128626"
+	},
+	{
+		"Longitude" : "-104.763851",
+		"Zipcode" : "81003",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.121031"
+	},
+	{
+		"Longitude" : "-104.822451",
+		"Zipcode" : "81004",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.087325"
+	},
+	{
+		"Longitude" : "-104.841328",
+		"Zipcode" : "81005",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.152191"
+	},
+	{
+		"Longitude" : "-104.521270",
+		"Zipcode" : "81006",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.113259"
+	},
+	{
+		"Longitude" : "-104.779156",
+		"Zipcode" : "81007",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.387004"
+	},
+	{
+		"Longitude" : "-104.644423",
+		"Zipcode" : "81008",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.402934"
+	},
+	{
+		"Longitude" : "-104.552299",
+		"Zipcode" : "81009",
+		"ZipClass" : "UNIQUE",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.128626"
+	},
+	{
+		"Longitude" : "-104.552299",
+		"Zipcode" : "81010",
+		"ZipClass" : "UNIQUE",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.128626"
+	},
+	{
+		"Longitude" : "-104.552299",
+		"Zipcode" : "81011",
+		"ZipClass" : "UNIQUE",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.128626"
+	},
+	{
+		"Longitude" : "-104.552299",
+		"Zipcode" : "81012",
+		"ZipClass" : "UNIQUE",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.128626"
+	},
+	{
+		"Longitude" : "-104.552299",
+		"Zipcode" : "81013",
+		"ZipClass" : "UNIQUE",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.128626"
+	},
+	{
+		"Longitude" : "-104.552299",
+		"Zipcode" : "81014",
+		"ZipClass" : "UNIQUE",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.128626"
+	},
+	{
+		"Longitude" : "-104.552299",
+		"Zipcode" : "81015",
+		"ZipClass" : "UNIQUE",
+		"County" : "PUEBLO",
+		"City" : "PUEBLO",
+		"State" : "CO",
+		"Latitude" : "+38.128626"
+	},
+	{
+		"Longitude" : "-104.613617",
+		"Zipcode" : "81019",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "COLORADO CITY",
+		"State" : "CO",
+		"Latitude" : "+37.887346"
+	},
+	{
+		"Longitude" : "-104.653809",
+		"Zipcode" : "81020",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS ANIMAS",
+		"City" : "AGUILAR",
+		"State" : "CO",
+		"Latitude" : "+37.381577"
+	},
+	{
+		"Longitude" : "-103.366655",
+		"Zipcode" : "81021",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "ARLINGTON",
+		"State" : "CO",
+		"Latitude" : "+38.430393"
+	},
+	{
+		"Longitude" : "-104.529794",
+		"Zipcode" : "81022",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "AVONDALE",
+		"State" : "CO",
+		"Latitude" : "+38.102502"
+	},
+	{
+		"Longitude" : "-104.635770",
+		"Zipcode" : "81023",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "BEULAH",
+		"State" : "CO",
+		"Latitude" : "+38.127363"
+	},
+	{
+		"Longitude" : "-104.719787",
+		"Zipcode" : "81024",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAS ANIMAS",
+		"City" : "BONCARBO",
+		"State" : "CO",
+		"Latitude" : "+37.208109"
+	},
+	{
+		"Longitude" : "-104.209119",
+		"Zipcode" : "81025",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "BOONE",
+		"State" : "CO",
+		"Latitude" : "+38.319575"
+	},
+	{
+		"Longitude" : "-103.722865",
+		"Zipcode" : "81027",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS ANIMAS",
+		"City" : "BRANSON",
+		"State" : "CO",
+		"Latitude" : "+37.232444"
+	},
+	{
+		"Longitude" : "-102.473938",
+		"Zipcode" : "81029",
+		"ZipClass" : "STANDARD",
+		"County" : "BACA",
+		"City" : "CAMPO",
+		"State" : "CO",
+		"Latitude" : "+37.184434"
+	},
+	{
+		"Longitude" : "-103.536700",
+		"Zipcode" : "81030",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OTERO",
+		"City" : "CHERAW",
+		"State" : "CO",
+		"Latitude" : "+38.102941"
+	},
+	{
+		"Longitude" : "-103.804241",
+		"Zipcode" : "81033",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CROWLEY",
+		"City" : "CROWLEY",
+		"State" : "CO",
+		"Latitude" : "+38.229447"
+	},
+	{
+		"Longitude" : "-103.779959",
+		"Zipcode" : "81034",
+		"ZipClass" : "UNIQUE",
+		"County" : "CROWLEY",
+		"City" : "CROWLEY",
+		"State" : "CO",
+		"Latitude" : "+38.317851"
+	},
+	{
+		"Longitude" : "-102.554901",
+		"Zipcode" : "81036",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "EADS",
+		"State" : "CO",
+		"Latitude" : "+38.440752"
+	},
+	{
+		"Longitude" : "-103.072469",
+		"Zipcode" : "81038",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENT",
+		"City" : "FORT LYON",
+		"State" : "CO",
+		"Latitude" : "+37.955547"
+	},
+	{
+		"Longitude" : "-103.967799",
+		"Zipcode" : "81039",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "FOWLER",
+		"State" : "CO",
+		"Latitude" : "+37.981460"
+	},
+	{
+		"Longitude" : "-105.184870",
+		"Zipcode" : "81040",
+		"ZipClass" : "STANDARD",
+		"County" : "HUERFANO",
+		"City" : "GARDNER",
+		"State" : "CO",
+		"Latitude" : "+37.787772"
+	},
+	{
+		"Longitude" : "-102.367626",
+		"Zipcode" : "81041",
+		"ZipClass" : "STANDARD",
+		"County" : "PROWERS",
+		"City" : "GRANADA",
+		"State" : "CO",
+		"Latitude" : "+37.870309"
+	},
+	{
+		"Longitude" : "-104.734610",
+		"Zipcode" : "81042",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAS ANIMAS",
+		"City" : "GULNARE",
+		"State" : "CO",
+		"Latitude" : "+37.315263"
+	},
+	{
+		"Longitude" : "-102.216833",
+		"Zipcode" : "81043",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PROWERS",
+		"City" : "HARTMAN",
+		"State" : "CO",
+		"Latitude" : "+38.119522"
+	},
+	{
+		"Longitude" : "-103.015041",
+		"Zipcode" : "81044",
+		"ZipClass" : "STANDARD",
+		"County" : "BENT",
+		"City" : "HASTY",
+		"State" : "CO",
+		"Latitude" : "+37.959036"
+	},
+	{
+		"Longitude" : "-103.130677",
+		"Zipcode" : "81045",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "HASWELL",
+		"State" : "CO",
+		"Latitude" : "+38.440077"
+	},
+	{
+		"Longitude" : "-104.358375",
+		"Zipcode" : "81046",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAS ANIMAS",
+		"City" : "HOEHNE",
+		"State" : "CO",
+		"Latitude" : "+37.279584"
+	},
+	{
+		"Longitude" : "-102.335202",
+		"Zipcode" : "81047",
+		"ZipClass" : "STANDARD",
+		"County" : "PROWERS",
+		"City" : "HOLLY",
+		"State" : "CO",
+		"Latitude" : "+37.956511"
+	},
+	{
+		"Longitude" : "-103.373586",
+		"Zipcode" : "81049",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS ANIMAS",
+		"City" : "KIM",
+		"State" : "CO",
+		"Latitude" : "+37.332760"
+	},
+	{
+		"Longitude" : "-103.664437",
+		"Zipcode" : "81050",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "LA JUNTA",
+		"State" : "CO",
+		"Latitude" : "+37.954619"
+	},
+	{
+		"Longitude" : "-102.436416",
+		"Zipcode" : "81052",
+		"ZipClass" : "STANDARD",
+		"County" : "PROWERS",
+		"City" : "LAMAR",
+		"State" : "CO",
+		"Latitude" : "+37.955488"
+	},
+	{
+		"Longitude" : "-103.088444",
+		"Zipcode" : "81054",
+		"ZipClass" : "STANDARD",
+		"County" : "BENT",
+		"City" : "LAS ANIMAS",
+		"State" : "CO",
+		"Latitude" : "+37.923031"
+	},
+	{
+		"Longitude" : "-105.057545",
+		"Zipcode" : "81055",
+		"ZipClass" : "STANDARD",
+		"County" : "HUERFANO",
+		"City" : "LA VETA",
+		"State" : "CO",
+		"Latitude" : "+37.511672"
+	},
+	{
+		"Longitude" : "-102.886910",
+		"Zipcode" : "81057",
+		"ZipClass" : "STANDARD",
+		"County" : "BENT",
+		"City" : "MC CLAVE",
+		"State" : "CO",
+		"Latitude" : "+38.085032"
+	},
+	{
+		"Longitude" : "-103.885189",
+		"Zipcode" : "81058",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "MANZANOLA",
+		"State" : "CO",
+		"Latitude" : "+38.082793"
+	},
+	{
+		"Longitude" : "-104.223007",
+		"Zipcode" : "81059",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS ANIMAS",
+		"City" : "MODEL",
+		"State" : "CO",
+		"Latitude" : "+37.519198"
+	},
+	{
+		"Longitude" : "-103.953208",
+		"Zipcode" : "81062",
+		"ZipClass" : "STANDARD",
+		"County" : "CROWLEY",
+		"City" : "OLNEY SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.327723"
+	},
+	{
+		"Longitude" : "-103.780036",
+		"Zipcode" : "81063",
+		"ZipClass" : "STANDARD",
+		"County" : "CROWLEY",
+		"City" : "ORDWAY",
+		"State" : "CO",
+		"Latitude" : "+38.317486"
+	},
+	{
+		"Longitude" : "-102.914489",
+		"Zipcode" : "81064",
+		"ZipClass" : "STANDARD",
+		"County" : "BACA",
+		"City" : "PRITCHETT",
+		"State" : "CO",
+		"Latitude" : "+37.272262"
+	},
+	{
+		"Longitude" : "-105.344931",
+		"Zipcode" : "81066",
+		"ZipClass" : "STANDARD",
+		"County" : "HUERFANO",
+		"City" : "WALSENBURG",
+		"State" : "CO",
+		"Latitude" : "+37.712093"
+	},
+	{
+		"Longitude" : "-103.708332",
+		"Zipcode" : "81067",
+		"ZipClass" : "STANDARD",
+		"County" : "OTERO",
+		"City" : "ROCKY FORD",
+		"State" : "CO",
+		"Latitude" : "+37.995867"
+	},
+	{
+		"Longitude" : "-104.874843",
+		"Zipcode" : "81069",
+		"ZipClass" : "STANDARD",
+		"County" : "PUEBLO",
+		"City" : "RYE",
+		"State" : "CO",
+		"Latitude" : "+37.936061"
+	},
+	{
+		"Longitude" : "-102.604797",
+		"Zipcode" : "81071",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "SHERIDAN LAKE",
+		"State" : "CO",
+		"Latitude" : "+38.441431"
+	},
+	{
+		"Longitude" : "-102.677359",
+		"Zipcode" : "81073",
+		"ZipClass" : "STANDARD",
+		"County" : "BACA",
+		"City" : "SPRINGFIELD",
+		"State" : "CO",
+		"Latitude" : "+37.371522"
+	},
+	{
+		"Longitude" : "-104.523155",
+		"Zipcode" : "81074",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS ANIMAS",
+		"City" : "STARKVILLE",
+		"State" : "CO",
+		"Latitude" : "+37.121029"
+	},
+	{
+		"Longitude" : "-103.599555",
+		"Zipcode" : "81076",
+		"ZipClass" : "STANDARD",
+		"County" : "CROWLEY",
+		"City" : "SUGAR CITY",
+		"State" : "CO",
+		"Latitude" : "+38.315371"
+	},
+	{
+		"Longitude" : "-103.619493",
+		"Zipcode" : "81077",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OTERO",
+		"City" : "SWINK",
+		"State" : "CO",
+		"Latitude" : "+38.054962"
+	},
+	{
+		"Longitude" : "-104.132767",
+		"Zipcode" : "81081",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS ANIMAS",
+		"City" : "TRINCHERA",
+		"State" : "CO",
+		"Latitude" : "+37.099900"
+	},
+	{
+		"Longitude" : "-104.503800",
+		"Zipcode" : "81082",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS ANIMAS",
+		"City" : "TRINIDAD",
+		"State" : "CO",
+		"Latitude" : "+37.269059"
+	},
+	{
+		"Longitude" : "-102.433241",
+		"Zipcode" : "81084",
+		"ZipClass" : "STANDARD",
+		"County" : "BACA",
+		"City" : "TWO BUTTES",
+		"State" : "CO",
+		"Latitude" : "+37.521432"
+	},
+	{
+		"Longitude" : "-102.491522",
+		"Zipcode" : "81087",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BACA",
+		"City" : "VILAS",
+		"State" : "CO",
+		"Latitude" : "+37.339950"
+	},
+	{
+		"Longitude" : "-104.779815",
+		"Zipcode" : "81089",
+		"ZipClass" : "STANDARD",
+		"County" : "HUERFANO",
+		"City" : "WALSENBURG",
+		"State" : "CO",
+		"Latitude" : "+37.646467"
+	},
+	{
+		"Longitude" : "-102.265146",
+		"Zipcode" : "81090",
+		"ZipClass" : "STANDARD",
+		"County" : "BACA",
+		"City" : "WALSH",
+		"State" : "CO",
+		"Latitude" : "+37.368042"
+	},
+	{
+		"Longitude" : "-104.795074",
+		"Zipcode" : "81091",
+		"ZipClass" : "STANDARD",
+		"County" : "LAS ANIMAS",
+		"City" : "WESTON",
+		"State" : "CO",
+		"Latitude" : "+37.190046"
+	},
+	{
+		"Longitude" : "-102.705397",
+		"Zipcode" : "81092",
+		"ZipClass" : "STANDARD",
+		"County" : "PROWERS",
+		"City" : "WILEY",
+		"State" : "CO",
+		"Latitude" : "+38.189902"
+	},
+	{
+		"Longitude" : "-105.790967",
+		"Zipcode" : "81101",
+		"ZipClass" : "STANDARD",
+		"County" : "ALAMOSA",
+		"City" : "ALAMOSA",
+		"State" : "CO",
+		"Latitude" : "+37.479933"
+	},
+	{
+		"Longitude" : "-105.881779",
+		"Zipcode" : "81102",
+		"ZipClass" : "UNIQUE",
+		"County" : "ALAMOSA",
+		"City" : "ALAMOSA",
+		"State" : "CO",
+		"Latitude" : "+37.476026"
+	},
+	{
+		"Longitude" : "-106.190367",
+		"Zipcode" : "81120",
+		"ZipClass" : "STANDARD",
+		"County" : "CONEJOS",
+		"City" : "ANTONITO",
+		"State" : "CO",
+		"Latitude" : "+37.135059"
+	},
+	{
+		"Longitude" : "-107.311830",
+		"Zipcode" : "81121",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ARCHULETA",
+		"City" : "ARBOLES",
+		"State" : "CO",
+		"Latitude" : "+37.109225"
+	},
+	{
+		"Longitude" : "-107.736318",
+		"Zipcode" : "81122",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PLATA",
+		"City" : "BAYFIELD",
+		"State" : "CO",
+		"Latitude" : "+37.292065"
+	},
+	{
+		"Longitude" : "-105.573480",
+		"Zipcode" : "81123",
+		"ZipClass" : "STANDARD",
+		"County" : "COSTILLA",
+		"City" : "BLANCA",
+		"State" : "CO",
+		"Latitude" : "+37.435812"
+	},
+	{
+		"Longitude" : "-106.127935",
+		"Zipcode" : "81124",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CONEJOS",
+		"City" : "CAPULIN",
+		"State" : "CO",
+		"Latitude" : "+37.304205"
+	},
+	{
+		"Longitude" : "-106.046711",
+		"Zipcode" : "81125",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGUACHE",
+		"City" : "CENTER",
+		"State" : "CO",
+		"Latitude" : "+37.869875"
+	},
+	{
+		"Longitude" : "-105.450502",
+		"Zipcode" : "81126",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COSTILLA",
+		"City" : "CHAMA",
+		"State" : "CO",
+		"Latitude" : "+37.326735"
+	},
+	{
+		"Longitude" : "-107.321138",
+		"Zipcode" : "81127",
+		"ZipClass" : "STANDARD",
+		"County" : "ARCHULETA",
+		"City" : "CHIMNEY ROCK",
+		"State" : "CO",
+		"Latitude" : "+37.250704"
+	},
+	{
+		"Longitude" : "-106.821686",
+		"Zipcode" : "81128",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ARCHULETA",
+		"City" : "CHROMO",
+		"State" : "CO",
+		"Latitude" : "+37.130148"
+	},
+	{
+		"Longitude" : "-106.026480",
+		"Zipcode" : "81129",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CONEJOS",
+		"City" : "CONEJOS",
+		"State" : "CO",
+		"Latitude" : "+37.101134"
+	},
+	{
+		"Longitude" : "-106.981852",
+		"Zipcode" : "81130",
+		"ZipClass" : "STANDARD",
+		"County" : "MINERAL",
+		"City" : "CREEDE",
+		"State" : "CO",
+		"Latitude" : "+37.761293"
+	},
+	{
+		"Longitude" : "-105.687880",
+		"Zipcode" : "81131",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAGUACHE",
+		"City" : "CRESTONE",
+		"State" : "CO",
+		"Latitude" : "+37.953038"
+	},
+	{
+		"Longitude" : "-106.407311",
+		"Zipcode" : "81132",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO GRANDE",
+		"City" : "DEL NORTE",
+		"State" : "CO",
+		"Latitude" : "+37.644684"
+	},
+	{
+		"Longitude" : "-105.415437",
+		"Zipcode" : "81133",
+		"ZipClass" : "STANDARD",
+		"County" : "COSTILLA",
+		"City" : "FORT GARLAND",
+		"State" : "CO",
+		"Latitude" : "+37.403455"
+	},
+	{
+		"Longitude" : "-105.530023",
+		"Zipcode" : "81134",
+		"ZipClass" : "STANDARD",
+		"County" : "COSTILLA",
+		"City" : "GARCIA",
+		"State" : "CO",
+		"Latitude" : "+37.092195"
+	},
+	{
+		"Longitude" : "-106.375292",
+		"Zipcode" : "81135",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO GRANDE",
+		"City" : "HOMELAKE",
+		"State" : "CO",
+		"Latitude" : "+37.615741"
+	},
+	{
+		"Longitude" : "-105.873616",
+		"Zipcode" : "81136",
+		"ZipClass" : "STANDARD",
+		"County" : "ALAMOSA",
+		"City" : "HOOPER",
+		"State" : "CO",
+		"Latitude" : "+37.699184"
+	},
+	{
+		"Longitude" : "-107.659745",
+		"Zipcode" : "81137",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PLATA",
+		"City" : "IGNACIO",
+		"State" : "CO",
+		"Latitude" : "+37.114844"
+	},
+	{
+		"Longitude" : "-105.429395",
+		"Zipcode" : "81138",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COSTILLA",
+		"City" : "JAROSO",
+		"State" : "CO",
+		"Latitude" : "+37.197731"
+	},
+	{
+		"Longitude" : "-106.007989",
+		"Zipcode" : "81140",
+		"ZipClass" : "STANDARD",
+		"County" : "CONEJOS",
+		"City" : "LA JARA",
+		"State" : "CO",
+		"Latitude" : "+37.276566"
+	},
+	{
+		"Longitude" : "-105.927841",
+		"Zipcode" : "81141",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CONEJOS",
+		"City" : "MANASSA",
+		"State" : "CO",
+		"Latitude" : "+37.175463"
+	},
+	{
+		"Longitude" : "-105.817955",
+		"Zipcode" : "81143",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGUACHE",
+		"City" : "MOFFAT",
+		"State" : "CO",
+		"Latitude" : "+38.065284"
+	},
+	{
+		"Longitude" : "-106.345624",
+		"Zipcode" : "81144",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO GRANDE",
+		"City" : "MONTE VISTA",
+		"State" : "CO",
+		"Latitude" : "+37.570515"
+	},
+	{
+		"Longitude" : "-105.773133",
+		"Zipcode" : "81146",
+		"ZipClass" : "STANDARD",
+		"County" : "ALAMOSA",
+		"City" : "MOSCA",
+		"State" : "CO",
+		"Latitude" : "+37.631025"
+	},
+	{
+		"Longitude" : "-107.126190",
+		"Zipcode" : "81147",
+		"ZipClass" : "STANDARD",
+		"County" : "ARCHULETA",
+		"City" : "PAGOSA SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+37.202251"
+	},
+	{
+		"Longitude" : "-105.985811",
+		"Zipcode" : "81148",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CONEJOS",
+		"City" : "ROMEO",
+		"State" : "CO",
+		"Latitude" : "+37.172101"
+	},
+	{
+		"Longitude" : "-106.351826",
+		"Zipcode" : "81149",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGUACHE",
+		"City" : "SAGUACHE",
+		"State" : "CO",
+		"Latitude" : "+38.181206"
+	},
+	{
+		"Longitude" : "-105.848097",
+		"Zipcode" : "81151",
+		"ZipClass" : "STANDARD",
+		"County" : "CONEJOS",
+		"City" : "SANFORD",
+		"State" : "CO",
+		"Latitude" : "+37.255221"
+	},
+	{
+		"Longitude" : "-105.478130",
+		"Zipcode" : "81152",
+		"ZipClass" : "STANDARD",
+		"County" : "COSTILLA",
+		"City" : "SAN LUIS",
+		"State" : "CO",
+		"Latitude" : "+37.106599"
+	},
+	{
+		"Longitude" : "-105.418718",
+		"Zipcode" : "81153",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COSTILLA",
+		"City" : "SAN PABLO",
+		"State" : "CO",
+		"Latitude" : "+37.202995"
+	},
+	{
+		"Longitude" : "-106.597775",
+		"Zipcode" : "81154",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO GRANDE",
+		"City" : "SOUTH FORK",
+		"State" : "CO",
+		"Latitude" : "+37.638307"
+	},
+	{
+		"Longitude" : "-106.046577",
+		"Zipcode" : "81155",
+		"ZipClass" : "STANDARD",
+		"County" : "SAGUACHE",
+		"City" : "VILLA GROVE",
+		"State" : "CO",
+		"Latitude" : "+38.306022"
+	},
+	{
+		"Longitude" : "-107.093153",
+		"Zipcode" : "81157",
+		"ZipClass" : "STANDARD",
+		"County" : "ARCHULETA",
+		"City" : "PAGOSA SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+37.270438"
+	},
+	{
+		"Longitude" : "-106.120582",
+		"Zipcode" : "81201",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAFFEE",
+		"City" : "SALIDA",
+		"State" : "CO",
+		"Latitude" : "+38.629119"
+	},
+	{
+		"Longitude" : "-106.660278",
+		"Zipcode" : "81210",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "ALMONT",
+		"State" : "CO",
+		"Latitude" : "+38.820006"
+	},
+	{
+		"Longitude" : "-106.179938",
+		"Zipcode" : "81211",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAFFEE",
+		"City" : "BUENA VISTA",
+		"State" : "CO",
+		"Latitude" : "+38.885032"
+	},
+	{
+		"Longitude" : "-105.507603",
+		"Zipcode" : "81212",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "CANON CITY",
+		"State" : "CO",
+		"Latitude" : "+38.477727"
+	},
+	{
+		"Longitude" : "-105.476577",
+		"Zipcode" : "81215",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "CANON CITY",
+		"State" : "CO",
+		"Latitude" : "+38.477563"
+	},
+	{
+		"Longitude" : "-107.529303",
+		"Zipcode" : "81220",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTROSE",
+		"City" : "CIMARRON",
+		"State" : "CO",
+		"Latitude" : "+38.416326"
+	},
+	{
+		"Longitude" : "-105.159722",
+		"Zipcode" : "81221",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREMONT",
+		"City" : "COAL CREEK",
+		"State" : "CO",
+		"Latitude" : "+38.338919"
+	},
+	{
+		"Longitude" : "-105.784315",
+		"Zipcode" : "81222",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREMONT",
+		"City" : "COALDALE",
+		"State" : "CO",
+		"Latitude" : "+38.382377"
+	},
+	{
+		"Longitude" : "-105.496490",
+		"Zipcode" : "81223",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "COTOPAXI",
+		"State" : "CO",
+		"Latitude" : "+38.439983"
+	},
+	{
+		"Longitude" : "-106.948680",
+		"Zipcode" : "81224",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "CRESTED BUTTE",
+		"State" : "CO",
+		"Latitude" : "+38.880713"
+	},
+	{
+		"Longitude" : "-106.963148",
+		"Zipcode" : "81225",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "CRESTED BUTTE",
+		"State" : "CO",
+		"Latitude" : "+38.900560"
+	},
+	{
+		"Longitude" : "-105.254782",
+		"Zipcode" : "81226",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "FLORENCE",
+		"State" : "CO",
+		"Latitude" : "+38.355202"
+	},
+	{
+		"Longitude" : "-106.243422",
+		"Zipcode" : "81227",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAFFEE",
+		"City" : "MONARCH",
+		"State" : "CO",
+		"Latitude" : "+38.545757"
+	},
+	{
+		"Longitude" : "-106.256615",
+		"Zipcode" : "81228",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAFFEE",
+		"City" : "GRANITE",
+		"State" : "CO",
+		"Latitude" : "+39.030747"
+	},
+	{
+		"Longitude" : "-107.037294",
+		"Zipcode" : "81230",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "GUNNISON",
+		"State" : "CO",
+		"Latitude" : "+38.528323"
+	},
+	{
+		"Longitude" : "-106.940201",
+		"Zipcode" : "81231",
+		"ZipClass" : "UNIQUE",
+		"County" : "GUNNISON",
+		"City" : "GUNNISON",
+		"State" : "CO",
+		"Latitude" : "+38.702309"
+	},
+	{
+		"Longitude" : "-105.642451",
+		"Zipcode" : "81232",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "HILLSIDE",
+		"State" : "CO",
+		"Latitude" : "+38.285533"
+	},
+	{
+		"Longitude" : "-105.769848",
+		"Zipcode" : "81233",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "HOWARD",
+		"State" : "CO",
+		"Latitude" : "+38.410012"
+	},
+	{
+		"Longitude" : "-107.276581",
+		"Zipcode" : "81235",
+		"ZipClass" : "STANDARD",
+		"County" : "HINSDALE",
+		"City" : "LAKE CITY",
+		"State" : "CO",
+		"Latitude" : "+38.026256"
+	},
+	{
+		"Longitude" : "-106.251196",
+		"Zipcode" : "81236",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAFFEE",
+		"City" : "NATHROP",
+		"State" : "CO",
+		"Latitude" : "+38.747896"
+	},
+	{
+		"Longitude" : "-106.602838",
+		"Zipcode" : "81237",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "OHIO CITY",
+		"State" : "CO",
+		"Latitude" : "+38.590788"
+	},
+	{
+		"Longitude" : "-106.635214",
+		"Zipcode" : "81239",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "PARLIN",
+		"State" : "CO",
+		"Latitude" : "+38.537083"
+	},
+	{
+		"Longitude" : "-105.047277",
+		"Zipcode" : "81240",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "PENROSE",
+		"State" : "CO",
+		"Latitude" : "+38.414125"
+	},
+	{
+		"Longitude" : "-106.570985",
+		"Zipcode" : "81241",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GUNNISON",
+		"City" : "PITKIN",
+		"State" : "CO",
+		"Latitude" : "+38.589072"
+	},
+	{
+		"Longitude" : "-106.097284",
+		"Zipcode" : "81242",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHAFFEE",
+		"City" : "PONCHA SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+38.471892"
+	},
+	{
+		"Longitude" : "-107.302888",
+		"Zipcode" : "81243",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "POWDERHORN",
+		"State" : "CO",
+		"Latitude" : "+38.270602"
+	},
+	{
+		"Longitude" : "-105.221140",
+		"Zipcode" : "81244",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREMONT",
+		"City" : "ROCKVALE",
+		"State" : "CO",
+		"Latitude" : "+38.336184"
+	},
+	{
+		"Longitude" : "-105.476577",
+		"Zipcode" : "81246",
+		"ZipClass" : "STANDARD",
+		"County" : "FREMONT",
+		"City" : "CANON CITY",
+		"State" : "CO",
+		"Latitude" : "+38.477563"
+	},
+	{
+		"Longitude" : "-107.292081",
+		"Zipcode" : "81247",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "GUNNISON",
+		"State" : "CO",
+		"Latitude" : "+38.457513"
+	},
+	{
+		"Longitude" : "-106.416083",
+		"Zipcode" : "81248",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAGUACHE",
+		"City" : "SARGENTS",
+		"State" : "CO",
+		"Latitude" : "+38.403295"
+	},
+	{
+		"Longitude" : "-106.422616",
+		"Zipcode" : "81251",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "TWIN LAKES",
+		"State" : "CO",
+		"Latitude" : "+39.151466"
+	},
+	{
+		"Longitude" : "-105.421953",
+		"Zipcode" : "81252",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "WESTCLIFFE",
+		"State" : "CO",
+		"Latitude" : "+38.095173"
+	},
+	{
+		"Longitude" : "-105.147660",
+		"Zipcode" : "81253",
+		"ZipClass" : "STANDARD",
+		"County" : "CUSTER",
+		"City" : "WETMORE",
+		"State" : "CO",
+		"Latitude" : "+38.121657"
+	},
+	{
+		"Longitude" : "-105.106881",
+		"Zipcode" : "81290",
+		"ZipClass" : "UNIQUE",
+		"County" : "FREMONT",
+		"City" : "FLORENCE",
+		"State" : "CO",
+		"Latitude" : "+38.358421"
+	},
+	{
+		"Longitude" : "-107.880367",
+		"Zipcode" : "81301",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PLATA",
+		"City" : "DURANGO",
+		"State" : "CO",
+		"Latitude" : "+37.318364"
+	},
+	{
+		"Longitude" : "-107.935945",
+		"Zipcode" : "81302",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PLATA",
+		"City" : "DURANGO",
+		"State" : "CO",
+		"Latitude" : "+37.357249"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "81303",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PLATA",
+		"City" : "DURANGO",
+		"State" : "CO",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-108.791671",
+		"Zipcode" : "81320",
+		"ZipClass" : "STANDARD",
+		"County" : "DOLORES",
+		"City" : "CAHONE",
+		"State" : "CO",
+		"Latitude" : "+37.718233"
+	},
+	{
+		"Longitude" : "-108.662826",
+		"Zipcode" : "81321",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTEZUMA",
+		"City" : "CORTEZ",
+		"State" : "CO",
+		"Latitude" : "+37.373594"
+	},
+	{
+		"Longitude" : "-108.352450",
+		"Zipcode" : "81323",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTEZUMA",
+		"City" : "DOLORES",
+		"State" : "CO",
+		"Latitude" : "+37.469333"
+	},
+	{
+		"Longitude" : "-108.924334",
+		"Zipcode" : "81324",
+		"ZipClass" : "STANDARD",
+		"County" : "DOLORES",
+		"City" : "DOVE CREEK",
+		"State" : "CO",
+		"Latitude" : "+37.711532"
+	},
+	{
+		"Longitude" : "-108.846067",
+		"Zipcode" : "81325",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN MIGUEL",
+		"City" : "EGNAR",
+		"State" : "CO",
+		"Latitude" : "+37.929371"
+	},
+	{
+		"Longitude" : "-108.138519",
+		"Zipcode" : "81326",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PLATA",
+		"City" : "HESPERUS",
+		"State" : "CO",
+		"Latitude" : "+37.205423"
+	},
+	{
+		"Longitude" : "-108.655638",
+		"Zipcode" : "81327",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTEZUMA",
+		"City" : "LEWIS",
+		"State" : "CO",
+		"Latitude" : "+37.458047"
+	},
+	{
+		"Longitude" : "-108.468364",
+		"Zipcode" : "81328",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTEZUMA",
+		"City" : "MANCOS",
+		"State" : "CO",
+		"Latitude" : "+37.336041"
+	},
+	{
+		"Longitude" : "-108.125194",
+		"Zipcode" : "81329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LA PLATA",
+		"City" : "MARVEL",
+		"State" : "CO",
+		"Latitude" : "+37.092605"
+	},
+	{
+		"Longitude" : "-108.509012",
+		"Zipcode" : "81330",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTEZUMA",
+		"City" : "MESA VERDE NATIONAL PARK",
+		"State" : "CO",
+		"Latitude" : "+37.319207"
+	},
+	{
+		"Longitude" : "-108.829926",
+		"Zipcode" : "81331",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTEZUMA",
+		"City" : "PLEASANT VIEW",
+		"State" : "CO",
+		"Latitude" : "+37.551564"
+	},
+	{
+		"Longitude" : "-108.032410",
+		"Zipcode" : "81332",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOLORES",
+		"City" : "RICO",
+		"State" : "CO",
+		"Latitude" : "+37.690498"
+	},
+	{
+		"Longitude" : "-108.509012",
+		"Zipcode" : "81334",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTEZUMA",
+		"City" : "TOWAOC",
+		"State" : "CO",
+		"Latitude" : "+37.319207"
+	},
+	{
+		"Longitude" : "-108.744007",
+		"Zipcode" : "81335",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTEZUMA",
+		"City" : "YELLOW JACKET",
+		"State" : "CO",
+		"Latitude" : "+37.508114"
+	},
+	{
+		"Longitude" : "-108.050689",
+		"Zipcode" : "81401",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTROSE",
+		"City" : "MONTROSE",
+		"State" : "CO",
+		"Latitude" : "+38.443069"
+	},
+	{
+		"Longitude" : "-107.885975",
+		"Zipcode" : "81402",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTROSE",
+		"City" : "MONTROSE",
+		"State" : "CO",
+		"Latitude" : "+38.485093"
+	},
+	{
+		"Longitude" : "-107.983125",
+		"Zipcode" : "81410",
+		"ZipClass" : "STANDARD",
+		"County" : "DELTA",
+		"City" : "AUSTIN",
+		"State" : "CO",
+		"Latitude" : "+38.805013"
+	},
+	{
+		"Longitude" : "-108.937369",
+		"Zipcode" : "81411",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTROSE",
+		"City" : "BEDROCK",
+		"State" : "CO",
+		"Latitude" : "+38.348670"
+	},
+	{
+		"Longitude" : "-107.795704",
+		"Zipcode" : "81413",
+		"ZipClass" : "STANDARD",
+		"County" : "DELTA",
+		"City" : "CEDAREDGE",
+		"State" : "CO",
+		"Latitude" : "+38.881646"
+	},
+	{
+		"Longitude" : "-107.986174",
+		"Zipcode" : "81414",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DELTA",
+		"City" : "CORY",
+		"State" : "CO",
+		"Latitude" : "+38.788697"
+	},
+	{
+		"Longitude" : "-107.630890",
+		"Zipcode" : "81415",
+		"ZipClass" : "STANDARD",
+		"County" : "DELTA",
+		"City" : "CRAWFORD",
+		"State" : "CO",
+		"Latitude" : "+38.767652"
+	},
+	{
+		"Longitude" : "-107.970780",
+		"Zipcode" : "81416",
+		"ZipClass" : "STANDARD",
+		"County" : "DELTA",
+		"City" : "DELTA",
+		"State" : "CO",
+		"Latitude" : "+38.785768"
+	},
+	{
+		"Longitude" : "-107.961178",
+		"Zipcode" : "81418",
+		"ZipClass" : "STANDARD",
+		"County" : "DELTA",
+		"City" : "ECKERT",
+		"State" : "CO",
+		"Latitude" : "+38.875340"
+	},
+	{
+		"Longitude" : "-107.752349",
+		"Zipcode" : "81419",
+		"ZipClass" : "STANDARD",
+		"County" : "DELTA",
+		"City" : "HOTCHKISS",
+		"State" : "CO",
+		"Latitude" : "+38.859973"
+	},
+	{
+		"Longitude" : "-107.780778",
+		"Zipcode" : "81420",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DELTA",
+		"City" : "LAZEAR",
+		"State" : "CO",
+		"Latitude" : "+38.781745"
+	},
+	{
+		"Longitude" : "-107.939831",
+		"Zipcode" : "81421",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DELTA",
+		"City" : "MAHER",
+		"State" : "CO",
+		"Latitude" : "+38.942927"
+	},
+	{
+		"Longitude" : "-108.574539",
+		"Zipcode" : "81422",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTROSE",
+		"City" : "NATURITA",
+		"State" : "CO",
+		"Latitude" : "+38.269387"
+	},
+	{
+		"Longitude" : "-108.316049",
+		"Zipcode" : "81423",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN MIGUEL",
+		"City" : "NORWOOD",
+		"State" : "CO",
+		"Latitude" : "+38.028899"
+	},
+	{
+		"Longitude" : "-108.576690",
+		"Zipcode" : "81424",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTROSE",
+		"City" : "NUCLA",
+		"State" : "CO",
+		"Latitude" : "+38.310689"
+	},
+	{
+		"Longitude" : "-108.078623",
+		"Zipcode" : "81425",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTROSE",
+		"City" : "OLATHE",
+		"State" : "CO",
+		"Latitude" : "+38.497566"
+	},
+	{
+		"Longitude" : "-107.864540",
+		"Zipcode" : "81426",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN MIGUEL",
+		"City" : "OPHIR",
+		"State" : "CO",
+		"Latitude" : "+37.843026"
+	},
+	{
+		"Longitude" : "-107.728712",
+		"Zipcode" : "81427",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OURAY",
+		"City" : "OURAY",
+		"State" : "CO",
+		"Latitude" : "+38.087654"
+	},
+	{
+		"Longitude" : "-107.609167",
+		"Zipcode" : "81428",
+		"ZipClass" : "STANDARD",
+		"County" : "DELTA",
+		"City" : "PAONIA",
+		"State" : "CO",
+		"Latitude" : "+38.877198"
+	},
+	{
+		"Longitude" : "-108.969823",
+		"Zipcode" : "81429",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTROSE",
+		"City" : "PARADOX",
+		"State" : "CO",
+		"Latitude" : "+38.371101"
+	},
+	{
+		"Longitude" : "-107.990438",
+		"Zipcode" : "81430",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN MIGUEL",
+		"City" : "PLACERVILLE",
+		"State" : "CO",
+		"Latitude" : "+38.059321"
+	},
+	{
+		"Longitude" : "-108.415514",
+		"Zipcode" : "81431",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTROSE",
+		"City" : "REDVALE",
+		"State" : "CO",
+		"Latitude" : "+38.192224"
+	},
+	{
+		"Longitude" : "-107.727360",
+		"Zipcode" : "81432",
+		"ZipClass" : "STANDARD",
+		"County" : "OURAY",
+		"City" : "RIDGWAY",
+		"State" : "CO",
+		"Latitude" : "+38.177464"
+	},
+	{
+		"Longitude" : "-107.680381",
+		"Zipcode" : "81433",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "SILVERTON",
+		"State" : "CO",
+		"Latitude" : "+37.848391"
+	},
+	{
+		"Longitude" : "-107.231438",
+		"Zipcode" : "81434",
+		"ZipClass" : "STANDARD",
+		"County" : "GUNNISON",
+		"City" : "SOMERSET",
+		"State" : "CO",
+		"Latitude" : "+38.988409"
+	},
+	{
+		"Longitude" : "-107.956606",
+		"Zipcode" : "81435",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN MIGUEL",
+		"City" : "TELLURIDE",
+		"State" : "CO",
+		"Latitude" : "+37.983589"
+	},
+	{
+		"Longitude" : "-108.583126",
+		"Zipcode" : "81501",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "GRAND JUNCTION",
+		"State" : "CO",
+		"Latitude" : "+39.069019"
+	},
+	{
+		"Longitude" : "-108.481354",
+		"Zipcode" : "81502",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "GRAND JUNCTION",
+		"State" : "CO",
+		"Latitude" : "+39.017876"
+	},
+	{
+		"Longitude" : "-108.591229",
+		"Zipcode" : "81503",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "GRAND JUNCTION",
+		"State" : "CO",
+		"Latitude" : "+39.013584"
+	},
+	{
+		"Longitude" : "-108.589414",
+		"Zipcode" : "81504",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "GRAND JUNCTION",
+		"State" : "CO",
+		"Latitude" : "+39.123554"
+	},
+	{
+		"Longitude" : "-108.626481",
+		"Zipcode" : "81505",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "GRAND JUNCTION",
+		"State" : "CO",
+		"Latitude" : "+39.146570"
+	},
+	{
+		"Longitude" : "-108.566523",
+		"Zipcode" : "81506",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "GRAND JUNCTION",
+		"State" : "CO",
+		"Latitude" : "+39.089167"
+	},
+	{
+		"Longitude" : "-108.404055",
+		"Zipcode" : "81520",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "CLIFTON",
+		"State" : "CO",
+		"Latitude" : "+39.082460"
+	},
+	{
+		"Longitude" : "-108.685164",
+		"Zipcode" : "81521",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "FRUITA",
+		"State" : "CO",
+		"Latitude" : "+39.149614"
+	},
+	{
+		"Longitude" : "-108.971863",
+		"Zipcode" : "81522",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "GATEWAY",
+		"State" : "CO",
+		"Latitude" : "+38.678448"
+	},
+	{
+		"Longitude" : "-108.780970",
+		"Zipcode" : "81523",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "GLADE PARK",
+		"State" : "CO",
+		"Latitude" : "+38.989416"
+	},
+	{
+		"Longitude" : "-108.784460",
+		"Zipcode" : "81524",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "LOMA",
+		"State" : "CO",
+		"Latitude" : "+39.256425"
+	},
+	{
+		"Longitude" : "-108.933957",
+		"Zipcode" : "81525",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "MACK",
+		"State" : "CO",
+		"Latitude" : "+39.246379"
+	},
+	{
+		"Longitude" : "-108.299254",
+		"Zipcode" : "81526",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "PALISADE",
+		"State" : "CO",
+		"Latitude" : "+39.095369"
+	},
+	{
+		"Longitude" : "-108.604695",
+		"Zipcode" : "81527",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "WHITEWATER",
+		"State" : "CO",
+		"Latitude" : "+38.814573"
+	},
+	{
+		"Longitude" : "-107.585235",
+		"Zipcode" : "81601",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "GLENWOOD SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+39.500281"
+	},
+	{
+		"Longitude" : "-107.325336",
+		"Zipcode" : "81602",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "GLENWOOD SPRINGS",
+		"State" : "CO",
+		"Latitude" : "+39.511742"
+	},
+	{
+		"Longitude" : "-108.277407",
+		"Zipcode" : "81610",
+		"ZipClass" : "STANDARD",
+		"County" : "MOFFAT",
+		"City" : "DINOSAUR",
+		"State" : "CO",
+		"Latitude" : "+40.367150"
+	},
+	{
+		"Longitude" : "-106.776744",
+		"Zipcode" : "81611",
+		"ZipClass" : "STANDARD",
+		"County" : "PITKIN",
+		"City" : "ASPEN",
+		"State" : "CO",
+		"Latitude" : "+39.169324"
+	},
+	{
+		"Longitude" : "-106.882774",
+		"Zipcode" : "81612",
+		"ZipClass" : "STANDARD",
+		"County" : "PITKIN",
+		"City" : "ASPEN",
+		"State" : "CO",
+		"Latitude" : "+39.223416"
+	},
+	{
+		"Longitude" : "-106.868877",
+		"Zipcode" : "81615",
+		"ZipClass" : "STANDARD",
+		"County" : "PITKIN",
+		"City" : "SNOWMASS VILLAGE",
+		"State" : "CO",
+		"Latitude" : "+39.206518"
+	},
+	{
+		"Longitude" : "-106.510843",
+		"Zipcode" : "81620",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EAGLE",
+		"City" : "AVON",
+		"State" : "CO",
+		"Latitude" : "+39.631349"
+	},
+	{
+		"Longitude" : "-106.804842",
+		"Zipcode" : "81621",
+		"ZipClass" : "STANDARD",
+		"County" : "EAGLE",
+		"City" : "BASALT",
+		"State" : "CO",
+		"Latitude" : "+39.495223"
+	},
+	{
+		"Longitude" : "-107.388130",
+		"Zipcode" : "81623",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "CARBONDALE",
+		"State" : "CO",
+		"Latitude" : "+39.476857"
+	},
+	{
+		"Longitude" : "-107.929135",
+		"Zipcode" : "81624",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "COLLBRAN",
+		"State" : "CO",
+		"Latitude" : "+39.205633"
+	},
+	{
+		"Longitude" : "-108.009784",
+		"Zipcode" : "81625",
+		"ZipClass" : "STANDARD",
+		"County" : "MOFFAT",
+		"City" : "CRAIG",
+		"State" : "CO",
+		"Latitude" : "+40.612421"
+	},
+	{
+		"Longitude" : "-107.783276",
+		"Zipcode" : "81626",
+		"ZipClass" : "STANDARD",
+		"County" : "MOFFAT",
+		"City" : "CRAIG",
+		"State" : "CO",
+		"Latitude" : "+40.667669"
+	},
+	{
+		"Longitude" : "-108.210688",
+		"Zipcode" : "81630",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "DE BEQUE",
+		"State" : "CO",
+		"Latitude" : "+39.292409"
+	},
+	{
+		"Longitude" : "-106.805111",
+		"Zipcode" : "81631",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EAGLE",
+		"City" : "EAGLE",
+		"State" : "CO",
+		"Latitude" : "+39.607401"
+	},
+	{
+		"Longitude" : "-106.620644",
+		"Zipcode" : "81632",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EAGLE",
+		"City" : "EDWARDS",
+		"State" : "CO",
+		"Latitude" : "+39.638166"
+	},
+	{
+		"Longitude" : "-108.398991",
+		"Zipcode" : "81633",
+		"ZipClass" : "STANDARD",
+		"County" : "MOFFAT",
+		"City" : "DINOSAUR",
+		"State" : "CO",
+		"Latitude" : "+40.377031"
+	},
+	{
+		"Longitude" : "-107.878874",
+		"Zipcode" : "81635",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "PARACHUTE",
+		"State" : "CO",
+		"Latitude" : "+39.458498"
+	},
+	{
+		"Longitude" : "-108.023924",
+		"Zipcode" : "81636",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "BATTLEMENT MESA",
+		"State" : "CO",
+		"Latitude" : "+39.430535"
+	},
+	{
+		"Longitude" : "-106.895722",
+		"Zipcode" : "81637",
+		"ZipClass" : "STANDARD",
+		"County" : "EAGLE",
+		"City" : "GYPSUM",
+		"State" : "CO",
+		"Latitude" : "+39.615505"
+	},
+	{
+		"Longitude" : "-107.665731",
+		"Zipcode" : "81638",
+		"ZipClass" : "STANDARD",
+		"County" : "MOFFAT",
+		"City" : "HAMILTON",
+		"State" : "CO",
+		"Latitude" : "+40.297591"
+	},
+	{
+		"Longitude" : "-107.277181",
+		"Zipcode" : "81639",
+		"ZipClass" : "STANDARD",
+		"County" : "ROUTT",
+		"City" : "HAYDEN",
+		"State" : "CO",
+		"Latitude" : "+40.438195"
+	},
+	{
+		"Longitude" : "-108.369943",
+		"Zipcode" : "81640",
+		"ZipClass" : "STANDARD",
+		"County" : "MOFFAT",
+		"City" : "MAYBELL",
+		"State" : "CO",
+		"Latitude" : "+40.673756"
+	},
+	{
+		"Longitude" : "-108.043592",
+		"Zipcode" : "81641",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO BLANCO",
+		"City" : "MEEKER",
+		"State" : "CO",
+		"Latitude" : "+39.967864"
+	},
+	{
+		"Longitude" : "-106.715287",
+		"Zipcode" : "81642",
+		"ZipClass" : "STANDARD",
+		"County" : "PITKIN",
+		"City" : "MEREDITH",
+		"State" : "CO",
+		"Latitude" : "+39.294737"
+	},
+	{
+		"Longitude" : "-108.169723",
+		"Zipcode" : "81643",
+		"ZipClass" : "STANDARD",
+		"County" : "MESA",
+		"City" : "MESA",
+		"State" : "CO",
+		"Latitude" : "+39.149320"
+	},
+	{
+		"Longitude" : "-106.417574",
+		"Zipcode" : "81645",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EAGLE",
+		"City" : "MINTURN",
+		"State" : "CO",
+		"Latitude" : "+39.580461"
+	},
+	{
+		"Longitude" : "-108.076508",
+		"Zipcode" : "81646",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MESA",
+		"City" : "MOLINA",
+		"State" : "CO",
+		"Latitude" : "+39.165152"
+	},
+	{
+		"Longitude" : "-107.566159",
+		"Zipcode" : "81647",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "NEW CASTLE",
+		"State" : "CO",
+		"Latitude" : "+39.597433"
+	},
+	{
+		"Longitude" : "-108.650793",
+		"Zipcode" : "81648",
+		"ZipClass" : "STANDARD",
+		"County" : "RIO BLANCO",
+		"City" : "RANGELY",
+		"State" : "CO",
+		"Latitude" : "+39.936331"
+	},
+	{
+		"Longitude" : "-106.385056",
+		"Zipcode" : "81649",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EAGLE",
+		"City" : "RED CLIFF",
+		"State" : "CO",
+		"Latitude" : "+39.458351"
+	},
+	{
+		"Longitude" : "-107.794723",
+		"Zipcode" : "81650",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "RIFLE",
+		"State" : "CO",
+		"Latitude" : "+39.582273"
+	},
+	{
+		"Longitude" : "-107.665664",
+		"Zipcode" : "81652",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "SILT",
+		"State" : "CO",
+		"Latitude" : "+39.502817"
+	},
+	{
+		"Longitude" : "-107.338770",
+		"Zipcode" : "81653",
+		"ZipClass" : "STANDARD",
+		"County" : "MOFFAT",
+		"City" : "SLATER",
+		"State" : "CO",
+		"Latitude" : "+40.997896"
+	},
+	{
+		"Longitude" : "-106.922425",
+		"Zipcode" : "81654",
+		"ZipClass" : "STANDARD",
+		"County" : "PITKIN",
+		"City" : "SNOWMASS",
+		"State" : "CO",
+		"Latitude" : "+39.251721"
+	},
+	{
+		"Longitude" : "-106.696372",
+		"Zipcode" : "81655",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EAGLE",
+		"City" : "WOLCOTT",
+		"State" : "CO",
+		"Latitude" : "+39.790730"
+	},
+	{
+		"Longitude" : "-106.898514",
+		"Zipcode" : "81656",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PITKIN",
+		"City" : "WOODY CREEK",
+		"State" : "CO",
+		"Latitude" : "+39.283116"
+	},
+	{
+		"Longitude" : "-106.448730",
+		"Zipcode" : "81657",
+		"ZipClass" : "STANDARD",
+		"County" : "EAGLE",
+		"City" : "VAIL",
+		"State" : "CO",
+		"Latitude" : "+39.582400"
+	},
+	{
+		"Longitude" : "-106.497314",
+		"Zipcode" : "81658",
+		"ZipClass" : "STANDARD",
+		"County" : "EAGLE",
+		"City" : "VAIL",
+		"State" : "CO",
+		"Latitude" : "+39.624171"
+	}
+]}

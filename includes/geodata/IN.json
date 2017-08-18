@@ -1,0 +1,8922 @@
+{
+	"result":[
+	{
+		"Longitude" : "-085.680698",
+		"Zipcode" : "46001",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ALEXANDRIA",
+		"State" : "IN",
+		"Latitude" : "+40.213154"
+	},
+	{
+		"Longitude" : "-085.766164",
+		"Zipcode" : "46011",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ANDERSON",
+		"State" : "IN",
+		"Latitude" : "+40.141033"
+	},
+	{
+		"Longitude" : "-085.633225",
+		"Zipcode" : "46012",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ANDERSON",
+		"State" : "IN",
+		"Latitude" : "+40.165726"
+	},
+	{
+		"Longitude" : "-085.674976",
+		"Zipcode" : "46013",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ANDERSON",
+		"State" : "IN",
+		"Latitude" : "+40.056680"
+	},
+	{
+		"Longitude" : "-085.719659",
+		"Zipcode" : "46014",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ANDERSON",
+		"State" : "IN",
+		"Latitude" : "+40.161733"
+	},
+	{
+		"Longitude" : "-085.657825",
+		"Zipcode" : "46015",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ANDERSON",
+		"State" : "IN",
+		"Latitude" : "+40.093792"
+	},
+	{
+		"Longitude" : "-085.742377",
+		"Zipcode" : "46016",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ANDERSON",
+		"State" : "IN",
+		"Latitude" : "+40.144894"
+	},
+	{
+		"Longitude" : "-085.710226",
+		"Zipcode" : "46017",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ANDERSON",
+		"State" : "IN",
+		"Latitude" : "+40.100275"
+	},
+	{
+		"Longitude" : "-085.719659",
+		"Zipcode" : "46018",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ANDERSON",
+		"State" : "IN",
+		"Latitude" : "+40.161733"
+	},
+	{
+		"Longitude" : "-086.045789",
+		"Zipcode" : "46030",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "ARCADIA",
+		"State" : "IN",
+		"Latitude" : "+40.167756"
+	},
+	{
+		"Longitude" : "-086.018909",
+		"Zipcode" : "46031",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "ATLANTA",
+		"State" : "IN",
+		"Latitude" : "+40.174289"
+	},
+	{
+		"Longitude" : "-086.117215",
+		"Zipcode" : "46032",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CARMEL",
+		"State" : "IN",
+		"Latitude" : "+40.071102"
+	},
+	{
+		"Longitude" : "-086.082936",
+		"Zipcode" : "46033",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CARMEL",
+		"State" : "IN",
+		"Latitude" : "+39.974404"
+	},
+	{
+		"Longitude" : "-086.038337",
+		"Zipcode" : "46034",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CICERO",
+		"State" : "IN",
+		"Latitude" : "+40.154903"
+	},
+	{
+		"Longitude" : "-086.647870",
+		"Zipcode" : "46035",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "COLFAX",
+		"State" : "IN",
+		"Latitude" : "+40.211041"
+	},
+	{
+		"Longitude" : "-085.719657",
+		"Zipcode" : "46036",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "ELWOOD",
+		"State" : "IN",
+		"Latitude" : "+40.278430"
+	},
+	{
+		"Longitude" : "-085.964894",
+		"Zipcode" : "46038",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "FISHERS",
+		"State" : "IN",
+		"Latitude" : "+39.967406"
+	},
+	{
+		"Longitude" : "-086.309246",
+		"Zipcode" : "46039",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "FOREST",
+		"State" : "IN",
+		"Latitude" : "+40.373825"
+	},
+	{
+		"Longitude" : "-085.792762",
+		"Zipcode" : "46040",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "FORTVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.894912"
+	},
+	{
+		"Longitude" : "-086.468915",
+		"Zipcode" : "46041",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "FRANKFORT",
+		"State" : "IN",
+		"Latitude" : "+40.304355"
+	},
+	{
+		"Longitude" : "-085.786049",
+		"Zipcode" : "46044",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "FRANKTON",
+		"State" : "IN",
+		"Latitude" : "+40.213173"
+	},
+	{
+		"Longitude" : "-086.149423",
+		"Zipcode" : "46045",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TIPTON",
+		"City" : "GOLDSMITH",
+		"State" : "IN",
+		"Latitude" : "+40.289836"
+	},
+	{
+		"Longitude" : "-086.469044",
+		"Zipcode" : "46046",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLINTON",
+		"City" : "HILLISBURG",
+		"State" : "IN",
+		"Latitude" : "+40.304473"
+	},
+	{
+		"Longitude" : "-085.945505",
+		"Zipcode" : "46047",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TIPTON",
+		"City" : "HOBBS",
+		"State" : "IN",
+		"Latitude" : "+40.284101"
+	},
+	{
+		"Longitude" : "-085.798078",
+		"Zipcode" : "46048",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "INGALLS",
+		"State" : "IN",
+		"Latitude" : "+39.957290"
+	},
+	{
+		"Longitude" : "-086.146767",
+		"Zipcode" : "46049",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "KEMPTON",
+		"State" : "IN",
+		"Latitude" : "+40.307545"
+	},
+	{
+		"Longitude" : "-086.452010",
+		"Zipcode" : "46050",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "KIRKLIN",
+		"State" : "IN",
+		"Latitude" : "+40.259929"
+	},
+	{
+		"Longitude" : "-085.834429",
+		"Zipcode" : "46051",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "LAPEL",
+		"State" : "IN",
+		"Latitude" : "+40.059560"
+	},
+	{
+		"Longitude" : "-086.490381",
+		"Zipcode" : "46052",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "LEBANON",
+		"State" : "IN",
+		"Latitude" : "+40.050302"
+	},
+	{
+		"Longitude" : "-085.897957",
+		"Zipcode" : "46055",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "MC CORDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.878113"
+	},
+	{
+		"Longitude" : "-085.617925",
+		"Zipcode" : "46056",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MARKLEVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.985793"
+	},
+	{
+		"Longitude" : "-086.490945",
+		"Zipcode" : "46057",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "MICHIGANTOWN",
+		"State" : "IN",
+		"Latitude" : "+40.306276"
+	},
+	{
+		"Longitude" : "-086.628659",
+		"Zipcode" : "46058",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "MULBERRY",
+		"State" : "IN",
+		"Latitude" : "+40.359433"
+	},
+	{
+		"Longitude" : "-085.999521",
+		"Zipcode" : "46060",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "NOBLESVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.073328"
+	},
+	{
+		"Longitude" : "-086.052285",
+		"Zipcode" : "46061",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "NOBLESVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.072462"
+	},
+	{
+		"Longitude" : "-085.728080",
+		"Zipcode" : "46063",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "ORESTES",
+		"State" : "IN",
+		"Latitude" : "+40.271524"
+	},
+	{
+		"Longitude" : "-085.757678",
+		"Zipcode" : "46064",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "PENDLETON",
+		"State" : "IN",
+		"Latitude" : "+40.107304"
+	},
+	{
+		"Longitude" : "-086.603449",
+		"Zipcode" : "46065",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "ROSSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.360973"
+	},
+	{
+		"Longitude" : "-086.469044",
+		"Zipcode" : "46067",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLINTON",
+		"City" : "SEDALIA",
+		"State" : "IN",
+		"Latitude" : "+40.304473"
+	},
+	{
+		"Longitude" : "-086.118782",
+		"Zipcode" : "46068",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "SHARPSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.354088"
+	},
+	{
+		"Longitude" : "-086.185273",
+		"Zipcode" : "46069",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "SHERIDAN",
+		"State" : "IN",
+		"Latitude" : "+40.129468"
+	},
+	{
+		"Longitude" : "-085.666794",
+		"Zipcode" : "46070",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "SUMMITVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.314012"
+	},
+	{
+		"Longitude" : "-086.581860",
+		"Zipcode" : "46071",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "THORNTOWN",
+		"State" : "IN",
+		"Latitude" : "+40.068631"
+	},
+	{
+		"Longitude" : "-086.063107",
+		"Zipcode" : "46072",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "TIPTON",
+		"State" : "IN",
+		"Latitude" : "+40.311418"
+	},
+	{
+		"Longitude" : "-086.125716",
+		"Zipcode" : "46074",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "WESTFIELD",
+		"State" : "IN",
+		"Latitude" : "+40.097028"
+	},
+	{
+		"Longitude" : "-086.346179",
+		"Zipcode" : "46075",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "WHITESTOWN",
+		"State" : "IN",
+		"Latitude" : "+40.022608"
+	},
+	{
+		"Longitude" : "-085.937642",
+		"Zipcode" : "46076",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPTON",
+		"City" : "WINDFALL",
+		"State" : "IN",
+		"Latitude" : "+40.348927"
+	},
+	{
+		"Longitude" : "-086.298135",
+		"Zipcode" : "46077",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "ZIONSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.997457"
+	},
+	{
+		"Longitude" : "-086.052285",
+		"Zipcode" : "46082",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "CARMEL",
+		"State" : "IN",
+		"Latitude" : "+40.072462"
+	},
+	{
+		"Longitude" : "-086.619774",
+		"Zipcode" : "46102",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOONE",
+		"City" : "ADVANCE",
+		"State" : "IN",
+		"Latitude" : "+39.995599"
+	},
+	{
+		"Longitude" : "-086.483474",
+		"Zipcode" : "46103",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENDRICKS",
+		"City" : "AMO",
+		"State" : "IN",
+		"Latitude" : "+39.736926"
+	},
+	{
+		"Longitude" : "-085.590869",
+		"Zipcode" : "46104",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "ARLINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.663342"
+	},
+	{
+		"Longitude" : "-086.812416",
+		"Zipcode" : "46105",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "BAINBRIDGE",
+		"State" : "IN",
+		"Latitude" : "+39.752428"
+	},
+	{
+		"Longitude" : "-086.102271",
+		"Zipcode" : "46106",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "BARGERSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.489652"
+	},
+	{
+		"Longitude" : "-086.093293",
+		"Zipcode" : "46107",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "BEECH GROVE",
+		"State" : "IN",
+		"Latitude" : "+39.713893"
+	},
+	{
+		"Longitude" : "-085.914060",
+		"Zipcode" : "46110",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "BOGGSTOWN",
+		"State" : "IN",
+		"Latitude" : "+39.566614"
+	},
+	{
+		"Longitude" : "-086.370057",
+		"Zipcode" : "46111",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "BROOKLYN",
+		"State" : "IN",
+		"Latitude" : "+39.539599"
+	},
+	{
+		"Longitude" : "-086.470429",
+		"Zipcode" : "46112",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "BROWNSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.807038"
+	},
+	{
+		"Longitude" : "-086.303090",
+		"Zipcode" : "46113",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "CAMBY",
+		"State" : "IN",
+		"Latitude" : "+39.653300"
+	},
+	{
+		"Longitude" : "-086.510386",
+		"Zipcode" : "46114",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "CARTERSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.762448"
+	},
+	{
+		"Longitude" : "-085.552199",
+		"Zipcode" : "46115",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "CARTHAGE",
+		"State" : "IN",
+		"Latitude" : "+39.735455"
+	},
+	{
+		"Longitude" : "-085.625798",
+		"Zipcode" : "46117",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "CHARLOTTESVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.838824"
+	},
+	{
+		"Longitude" : "-086.495365",
+		"Zipcode" : "46118",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "CLAYTON",
+		"State" : "IN",
+		"Latitude" : "+39.711088"
+	},
+	{
+		"Longitude" : "-086.782523",
+		"Zipcode" : "46120",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "CLOVERDALE",
+		"State" : "IN",
+		"Latitude" : "+39.658826"
+	},
+	{
+		"Longitude" : "-086.594745",
+		"Zipcode" : "46121",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "COATESVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.688598"
+	},
+	{
+		"Longitude" : "-086.530319",
+		"Zipcode" : "46122",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "DANVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.766794"
+	},
+	{
+		"Longitude" : "-086.488881",
+		"Zipcode" : "46123",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "AVON",
+		"State" : "IN",
+		"Latitude" : "+39.721434"
+	},
+	{
+		"Longitude" : "-086.099838",
+		"Zipcode" : "46124",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "EDINBURGH",
+		"State" : "IN",
+		"Latitude" : "+39.430795"
+	},
+	{
+		"Longitude" : "-086.641773",
+		"Zipcode" : "46125",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "EMINENCE",
+		"State" : "IN",
+		"Latitude" : "+39.506641"
+	},
+	{
+		"Longitude" : "-085.875930",
+		"Zipcode" : "46126",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "FAIRLAND",
+		"State" : "IN",
+		"Latitude" : "+39.617344"
+	},
+	{
+		"Longitude" : "-085.333088",
+		"Zipcode" : "46127",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "FALMOUTH",
+		"State" : "IN",
+		"Latitude" : "+39.729032"
+	},
+	{
+		"Longitude" : "-086.737960",
+		"Zipcode" : "46128",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "FILLMORE",
+		"State" : "IN",
+		"Latitude" : "+39.652271"
+	},
+	{
+		"Longitude" : "-085.765169",
+		"Zipcode" : "46129",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "FINLY",
+		"State" : "IN",
+		"Latitude" : "+39.821516"
+	},
+	{
+		"Longitude" : "-085.809775",
+		"Zipcode" : "46130",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "FOUNTAINTOWN",
+		"State" : "IN",
+		"Latitude" : "+39.580663"
+	},
+	{
+		"Longitude" : "-086.068718",
+		"Zipcode" : "46131",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "FRANKLIN",
+		"State" : "IN",
+		"Latitude" : "+39.469172"
+	},
+	{
+		"Longitude" : "-085.276882",
+		"Zipcode" : "46133",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "GLENWOOD",
+		"State" : "IN",
+		"Latitude" : "+39.585980"
+	},
+	{
+		"Longitude" : "-086.857172",
+		"Zipcode" : "46135",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "GREENCASTLE",
+		"State" : "IN",
+		"Latitude" : "+39.699485"
+	},
+	{
+		"Longitude" : "-085.775403",
+		"Zipcode" : "46140",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "GREENFIELD",
+		"State" : "IN",
+		"Latitude" : "+39.821787"
+	},
+	{
+		"Longitude" : "-086.100454",
+		"Zipcode" : "46142",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "GREENWOOD",
+		"State" : "IN",
+		"Latitude" : "+39.491246"
+	},
+	{
+		"Longitude" : "-086.101490",
+		"Zipcode" : "46143",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "GREENWOOD",
+		"State" : "IN",
+		"Latitude" : "+39.507080"
+	},
+	{
+		"Longitude" : "-085.647634",
+		"Zipcode" : "46144",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHELBY",
+		"City" : "GWYNNEVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.661720"
+	},
+	{
+		"Longitude" : "-085.465540",
+		"Zipcode" : "46146",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RUSH",
+		"City" : "HOMER",
+		"State" : "IN",
+		"Latitude" : "+39.619923"
+	},
+	{
+		"Longitude" : "-086.563204",
+		"Zipcode" : "46147",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "JAMESTOWN",
+		"State" : "IN",
+		"Latitude" : "+39.988674"
+	},
+	{
+		"Longitude" : "-085.474444",
+		"Zipcode" : "46148",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "KNIGHTSTOWN",
+		"State" : "IN",
+		"Latitude" : "+39.836197"
+	},
+	{
+		"Longitude" : "-086.560328",
+		"Zipcode" : "46149",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "LIZTON",
+		"State" : "IN",
+		"Latitude" : "+39.871667"
+	},
+	{
+		"Longitude" : "-085.583666",
+		"Zipcode" : "46150",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "MANILLA",
+		"State" : "IN",
+		"Latitude" : "+39.546509"
+	},
+	{
+		"Longitude" : "-086.466792",
+		"Zipcode" : "46151",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "MARTINSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.477625"
+	},
+	{
+		"Longitude" : "-085.768357",
+		"Zipcode" : "46154",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "MAXWELL",
+		"State" : "IN",
+		"Latitude" : "+39.856763"
+	},
+	{
+		"Longitude" : "-085.431184",
+		"Zipcode" : "46155",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RUSH",
+		"City" : "MAYS",
+		"State" : "IN",
+		"Latitude" : "+39.743769"
+	},
+	{
+		"Longitude" : "-085.486278",
+		"Zipcode" : "46156",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "MILROY",
+		"State" : "IN",
+		"Latitude" : "+39.488994"
+	},
+	{
+		"Longitude" : "-086.531957",
+		"Zipcode" : "46157",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "MONROVIA",
+		"State" : "IN",
+		"Latitude" : "+39.555178"
+	},
+	{
+		"Longitude" : "-086.437089",
+		"Zipcode" : "46158",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "MOORESVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.509420"
+	},
+	{
+		"Longitude" : "-086.267561",
+		"Zipcode" : "46160",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "MORGANTOWN",
+		"State" : "IN",
+		"Latitude" : "+39.244566"
+	},
+	{
+		"Longitude" : "-085.712640",
+		"Zipcode" : "46161",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "MORRISTOWN",
+		"State" : "IN",
+		"Latitude" : "+39.655210"
+	},
+	{
+		"Longitude" : "-085.965630",
+		"Zipcode" : "46162",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "NEEDHAM",
+		"State" : "IN",
+		"Latitude" : "+39.560511"
+	},
+	{
+		"Longitude" : "-085.885962",
+		"Zipcode" : "46163",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "NEW PALESTINE",
+		"State" : "IN",
+		"Latitude" : "+39.739927"
+	},
+	{
+		"Longitude" : "-086.109534",
+		"Zipcode" : "46164",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "NINEVEH",
+		"State" : "IN",
+		"Latitude" : "+39.391505"
+	},
+	{
+		"Longitude" : "-086.640794",
+		"Zipcode" : "46165",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "NORTH SALEM",
+		"State" : "IN",
+		"Latitude" : "+39.839162"
+	},
+	{
+		"Longitude" : "-086.533865",
+		"Zipcode" : "46166",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "PARAGON",
+		"State" : "IN",
+		"Latitude" : "+39.427654"
+	},
+	{
+		"Longitude" : "-086.475318",
+		"Zipcode" : "46167",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "PITTSBORO",
+		"State" : "IN",
+		"Latitude" : "+39.784191"
+	},
+	{
+		"Longitude" : "-086.423412",
+		"Zipcode" : "46168",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "PLAINFIELD",
+		"State" : "IN",
+		"Latitude" : "+39.729892"
+	},
+	{
+		"Longitude" : "-086.828402",
+		"Zipcode" : "46170",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PUTNAM",
+		"City" : "PUTNAMVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.668441"
+	},
+	{
+		"Longitude" : "-086.955955",
+		"Zipcode" : "46171",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "REELSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.543141"
+	},
+	{
+		"Longitude" : "-086.814317",
+		"Zipcode" : "46172",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "ROACHDALE",
+		"State" : "IN",
+		"Latitude" : "+39.821381"
+	},
+	{
+		"Longitude" : "-085.439133",
+		"Zipcode" : "46173",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "RUSHVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.612836"
+	},
+	{
+		"Longitude" : "-086.973306",
+		"Zipcode" : "46175",
+		"ZipClass" : "STANDARD",
+		"County" : "PUTNAM",
+		"City" : "RUSSELLVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.822491"
+	},
+	{
+		"Longitude" : "-085.791993",
+		"Zipcode" : "46176",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "SHELBYVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.511568"
+	},
+	{
+		"Longitude" : "-086.607678",
+		"Zipcode" : "46180",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDRICKS",
+		"City" : "STILESVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.632997"
+	},
+	{
+		"Longitude" : "-086.103674",
+		"Zipcode" : "46181",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "TRAFALGAR",
+		"State" : "IN",
+		"Latitude" : "+39.416652"
+	},
+	{
+		"Longitude" : "-085.781538",
+		"Zipcode" : "46182",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "WALDRON",
+		"State" : "IN",
+		"Latitude" : "+39.515000"
+	},
+	{
+		"Longitude" : "-086.285090",
+		"Zipcode" : "46183",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "WEST NEWTON",
+		"State" : "IN",
+		"Latitude" : "+39.648251"
+	},
+	{
+		"Longitude" : "-086.084340",
+		"Zipcode" : "46184",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "WHITELAND",
+		"State" : "IN",
+		"Latitude" : "+39.506070"
+	},
+	{
+		"Longitude" : "-085.643767",
+		"Zipcode" : "46186",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "WILKINSON",
+		"State" : "IN",
+		"Latitude" : "+39.895139"
+	},
+	{
+		"Longitude" : "-086.132160",
+		"Zipcode" : "46201",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.775092"
+	},
+	{
+		"Longitude" : "-086.143736",
+		"Zipcode" : "46202",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.762392"
+	},
+	{
+		"Longitude" : "-086.113535",
+		"Zipcode" : "46203",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.743493"
+	},
+	{
+		"Longitude" : "-086.158038",
+		"Zipcode" : "46204",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.772692"
+	},
+	{
+		"Longitude" : "-086.129886",
+		"Zipcode" : "46205",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.822641"
+	},
+	{
+		"Longitude" : "-086.161336",
+		"Zipcode" : "46206",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.761293"
+	},
+	{
+		"Longitude" : "-086.160616",
+		"Zipcode" : "46207",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.767293"
+	},
+	{
+		"Longitude" : "-086.190186",
+		"Zipcode" : "46208",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.832741"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46209",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46211",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.287465",
+		"Zipcode" : "46214",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.792379"
+	},
+	{
+		"Longitude" : "-086.013632",
+		"Zipcode" : "46216",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.864689"
+	},
+	{
+		"Longitude" : "-086.197637",
+		"Zipcode" : "46217",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.678245"
+	},
+	{
+		"Longitude" : "-086.100535",
+		"Zipcode" : "46218",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.806991"
+	},
+	{
+		"Longitude" : "-086.081084",
+		"Zipcode" : "46219",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.782841"
+	},
+	{
+		"Longitude" : "-086.108950",
+		"Zipcode" : "46220",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.869040"
+	},
+	{
+		"Longitude" : "-086.130655",
+		"Zipcode" : "46221",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.764258"
+	},
+	{
+		"Longitude" : "-086.207687",
+		"Zipcode" : "46222",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.783642"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46223",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.270740",
+		"Zipcode" : "46224",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.794042"
+	},
+	{
+		"Longitude" : "-086.167886",
+		"Zipcode" : "46225",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.743793"
+	},
+	{
+		"Longitude" : "-086.083634",
+		"Zipcode" : "46226",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.832577"
+	},
+	{
+		"Longitude" : "-086.130154",
+		"Zipcode" : "46227",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.678945"
+	},
+	{
+		"Longitude" : "-086.195081",
+		"Zipcode" : "46228",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.846191"
+	},
+	{
+		"Longitude" : "-086.035533",
+		"Zipcode" : "46229",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.798941"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46230",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.302940",
+		"Zipcode" : "46231",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.703844"
+	},
+	{
+		"Longitude" : "-086.316288",
+		"Zipcode" : "46234",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.808793"
+	},
+	{
+		"Longitude" : "-085.974081",
+		"Zipcode" : "46235",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.847090"
+	},
+	{
+		"Longitude" : "-085.976532",
+		"Zipcode" : "46236",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.868939"
+	},
+	{
+		"Longitude" : "-086.171117",
+		"Zipcode" : "46237",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.742726"
+	},
+	{
+		"Longitude" : "-086.000482",
+		"Zipcode" : "46239",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.726493"
+	},
+	{
+		"Longitude" : "-086.200688",
+		"Zipcode" : "46240",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.877991"
+	},
+	{
+		"Longitude" : "-086.261389",
+		"Zipcode" : "46241",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.709624"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46242",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46244",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46247",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.006082",
+		"Zipcode" : "46249",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.858989"
+	},
+	{
+		"Longitude" : "-086.067263",
+		"Zipcode" : "46250",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.904838"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46251",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46253",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.226810",
+		"Zipcode" : "46254",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.815940"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46255",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.009447",
+		"Zipcode" : "46256",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.897708"
+	},
+	{
+		"Longitude" : "-085.998092",
+		"Zipcode" : "46259",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.667045"
+	},
+	{
+		"Longitude" : "-086.137988",
+		"Zipcode" : "46260",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.893840"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46266",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.212310",
+		"Zipcode" : "46268",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.868173"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46274",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46275",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46277",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.276791",
+		"Zipcode" : "46278",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.872591"
+	},
+	{
+		"Longitude" : "-086.115707",
+		"Zipcode" : "46280",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.941600"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46282",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46283",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46285",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.199445",
+		"Zipcode" : "46290",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.937310"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46291",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46295",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "46296",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-086.132837",
+		"Zipcode" : "46298",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "INDIANAPOLIS",
+		"State" : "IN",
+		"Latitude" : "+39.779492"
+	},
+	{
+		"Longitude" : "-086.975178",
+		"Zipcode" : "46301",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PORTER",
+		"City" : "BEVERLY SHORES",
+		"State" : "IN",
+		"Latitude" : "+41.683796"
+	},
+	{
+		"Longitude" : "-087.130431",
+		"Zipcode" : "46302",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PORTER",
+		"City" : "BOONE GROVE",
+		"State" : "IN",
+		"Latitude" : "+41.354186"
+	},
+	{
+		"Longitude" : "-087.416650",
+		"Zipcode" : "46303",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "CEDAR LAKE",
+		"State" : "IN",
+		"Latitude" : "+41.311861"
+	},
+	{
+		"Longitude" : "-087.087021",
+		"Zipcode" : "46304",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTER",
+		"City" : "CHESTERTON",
+		"State" : "IN",
+		"Latitude" : "+41.498946"
+	},
+	{
+		"Longitude" : "-087.360089",
+		"Zipcode" : "46307",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "CROWN POINT",
+		"State" : "IN",
+		"Latitude" : "+41.444409"
+	},
+	{
+		"Longitude" : "-087.372779",
+		"Zipcode" : "46308",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "CROWN POINT",
+		"State" : "IN",
+		"Latitude" : "+41.461543"
+	},
+	{
+		"Longitude" : "-087.208423",
+		"Zipcode" : "46310",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "DEMOTTE",
+		"State" : "IN",
+		"Latitude" : "+41.107336"
+	},
+	{
+		"Longitude" : "-087.499489",
+		"Zipcode" : "46311",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "DYER",
+		"State" : "IN",
+		"Latitude" : "+41.451993"
+	},
+	{
+		"Longitude" : "-087.461490",
+		"Zipcode" : "46312",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "EAST CHICAGO",
+		"State" : "IN",
+		"Latitude" : "+41.640835"
+	},
+	{
+		"Longitude" : "-087.390338",
+		"Zipcode" : "46319",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GRIFFITH",
+		"State" : "IN",
+		"Latitude" : "+41.522129"
+	},
+	{
+		"Longitude" : "-087.487242",
+		"Zipcode" : "46320",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "HAMMOND",
+		"State" : "IN",
+		"Latitude" : "+41.444246"
+	},
+	{
+		"Longitude" : "-087.502585",
+		"Zipcode" : "46321",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "MUNSTER",
+		"State" : "IN",
+		"Latitude" : "+41.550535"
+	},
+	{
+		"Longitude" : "-087.477440",
+		"Zipcode" : "46322",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "HIGHLAND",
+		"State" : "IN",
+		"Latitude" : "+41.577699"
+	},
+	{
+		"Longitude" : "-087.456440",
+		"Zipcode" : "46323",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "HAMMOND",
+		"State" : "IN",
+		"Latitude" : "+41.590519"
+	},
+	{
+		"Longitude" : "-087.496665",
+		"Zipcode" : "46324",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "HAMMOND",
+		"State" : "IN",
+		"Latitude" : "+41.585185"
+	},
+	{
+		"Longitude" : "-087.372779",
+		"Zipcode" : "46325",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "HAMMOND",
+		"State" : "IN",
+		"Latitude" : "+41.461543"
+	},
+	{
+		"Longitude" : "-087.490390",
+		"Zipcode" : "46327",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "HAMMOND",
+		"State" : "IN",
+		"Latitude" : "+41.615085"
+	},
+	{
+		"Longitude" : "-086.788687",
+		"Zipcode" : "46340",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "HANNA",
+		"State" : "IN",
+		"Latitude" : "+41.378592"
+	},
+	{
+		"Longitude" : "-087.152358",
+		"Zipcode" : "46341",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTER",
+		"City" : "HEBRON",
+		"State" : "IN",
+		"Latitude" : "+41.347188"
+	},
+	{
+		"Longitude" : "-087.347486",
+		"Zipcode" : "46342",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "HOBART",
+		"State" : "IN",
+		"Latitude" : "+41.520515"
+	},
+	{
+		"Longitude" : "-086.699703",
+		"Zipcode" : "46345",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LA PORTE",
+		"City" : "KINGSBURY",
+		"State" : "IN",
+		"Latitude" : "+41.526023"
+	},
+	{
+		"Longitude" : "-086.691914",
+		"Zipcode" : "46346",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LA PORTE",
+		"City" : "KINGSFORD HEIGHTS",
+		"State" : "IN",
+		"Latitude" : "+41.480172"
+	},
+	{
+		"Longitude" : "-087.066825",
+		"Zipcode" : "46347",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTER",
+		"City" : "KOUTS",
+		"State" : "IN",
+		"Latitude" : "+41.301319"
+	},
+	{
+		"Longitude" : "-086.806742",
+		"Zipcode" : "46348",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "LA CROSSE",
+		"State" : "IN",
+		"Latitude" : "+41.394105"
+	},
+	{
+		"Longitude" : "-087.418963",
+		"Zipcode" : "46349",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "LAKE VILLAGE",
+		"State" : "IN",
+		"Latitude" : "+41.108242"
+	},
+	{
+		"Longitude" : "-086.737640",
+		"Zipcode" : "46350",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "LA PORTE",
+		"State" : "IN",
+		"Latitude" : "+41.537585"
+	},
+	{
+		"Longitude" : "-086.709883",
+		"Zipcode" : "46352",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "LA PORTE",
+		"State" : "IN",
+		"Latitude" : "+41.498992"
+	},
+	{
+		"Longitude" : "-087.270810",
+		"Zipcode" : "46355",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "LEROY",
+		"State" : "IN",
+		"Latitude" : "+41.359415"
+	},
+	{
+		"Longitude" : "-087.411308",
+		"Zipcode" : "46356",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "LOWELL",
+		"State" : "IN",
+		"Latitude" : "+41.280102"
+	},
+	{
+		"Longitude" : "-086.756985",
+		"Zipcode" : "46360",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "MICHIGAN CITY",
+		"State" : "IN",
+		"Latitude" : "+41.594185"
+	},
+	{
+		"Longitude" : "-086.915077",
+		"Zipcode" : "46361",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "MICHIGAN CITY",
+		"State" : "IN",
+		"Latitude" : "+41.703540"
+	},
+	{
+		"Longitude" : "-086.543956",
+		"Zipcode" : "46365",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "MILL CREEK",
+		"State" : "IN",
+		"Latitude" : "+41.609081"
+	},
+	{
+		"Longitude" : "-086.735127",
+		"Zipcode" : "46366",
+		"ZipClass" : "STANDARD",
+		"County" : "STARKE",
+		"City" : "NORTH JUDSON",
+		"State" : "IN",
+		"Latitude" : "+41.251630"
+	},
+	{
+		"Longitude" : "-087.129270",
+		"Zipcode" : "46368",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTER",
+		"City" : "PORTAGE",
+		"State" : "IN",
+		"Latitude" : "+41.473367"
+	},
+	{
+		"Longitude" : "-086.599414",
+		"Zipcode" : "46371",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "ROLLING PRAIRIE",
+		"State" : "IN",
+		"Latitude" : "+41.686609"
+	},
+	{
+		"Longitude" : "-087.322049",
+		"Zipcode" : "46372",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEWTON",
+		"City" : "ROSELAWN",
+		"State" : "IN",
+		"Latitude" : "+41.143358"
+	},
+	{
+		"Longitude" : "-087.453086",
+		"Zipcode" : "46373",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "SAINT JOHN",
+		"State" : "IN",
+		"Latitude" : "+41.453965"
+	},
+	{
+		"Longitude" : "-086.884000",
+		"Zipcode" : "46374",
+		"ZipClass" : "STANDARD",
+		"County" : "STARKE",
+		"City" : "SAN PIERRE",
+		"State" : "IN",
+		"Latitude" : "+41.216655"
+	},
+	{
+		"Longitude" : "-087.441525",
+		"Zipcode" : "46375",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "SCHERERVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.487733"
+	},
+	{
+		"Longitude" : "-087.477881",
+		"Zipcode" : "46376",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "SCHNEIDER",
+		"State" : "IN",
+		"Latitude" : "+41.189953"
+	},
+	{
+		"Longitude" : "-087.339778",
+		"Zipcode" : "46377",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "SHELBY",
+		"State" : "IN",
+		"Latitude" : "+41.191734"
+	},
+	{
+		"Longitude" : "-087.433550",
+		"Zipcode" : "46379",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEWTON",
+		"City" : "SUMAVA RESORTS",
+		"State" : "IN",
+		"Latitude" : "+41.167119"
+	},
+	{
+		"Longitude" : "-086.968614",
+		"Zipcode" : "46380",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JASPER",
+		"City" : "TEFFT",
+		"State" : "IN",
+		"Latitude" : "+41.194816"
+	},
+	{
+		"Longitude" : "-087.331323",
+		"Zipcode" : "46381",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEWTON",
+		"City" : "THAYER",
+		"State" : "IN",
+		"Latitude" : "+41.171150"
+	},
+	{
+		"Longitude" : "-086.772226",
+		"Zipcode" : "46382",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "UNION MILLS",
+		"State" : "IN",
+		"Latitude" : "+41.466863"
+	},
+	{
+		"Longitude" : "-087.065565",
+		"Zipcode" : "46383",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTER",
+		"City" : "VALPARAISO",
+		"State" : "IN",
+		"Latitude" : "+41.454731"
+	},
+	{
+		"Longitude" : "-087.076094",
+		"Zipcode" : "46384",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTER",
+		"City" : "VALPARAISO",
+		"State" : "IN",
+		"Latitude" : "+41.490545"
+	},
+	{
+		"Longitude" : "-087.078309",
+		"Zipcode" : "46385",
+		"ZipClass" : "STANDARD",
+		"County" : "PORTER",
+		"City" : "VALPARAISO",
+		"State" : "IN",
+		"Latitude" : "+41.470567"
+	},
+	{
+		"Longitude" : "-086.872078",
+		"Zipcode" : "46390",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "WANATAH",
+		"State" : "IN",
+		"Latitude" : "+41.421123"
+	},
+	{
+		"Longitude" : "-086.742979",
+		"Zipcode" : "46391",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PORTE",
+		"City" : "WESTVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.549933"
+	},
+	{
+		"Longitude" : "-087.063818",
+		"Zipcode" : "46392",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "WHEATFIELD",
+		"State" : "IN",
+		"Latitude" : "+41.133299"
+	},
+	{
+		"Longitude" : "-087.179177",
+		"Zipcode" : "46393",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PORTER",
+		"City" : "WHEELER",
+		"State" : "IN",
+		"Latitude" : "+41.511578"
+	},
+	{
+		"Longitude" : "-087.493392",
+		"Zipcode" : "46394",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "WHITING",
+		"State" : "IN",
+		"Latitude" : "+41.656785"
+	},
+	{
+		"Longitude" : "-087.319937",
+		"Zipcode" : "46401",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GARY",
+		"State" : "IN",
+		"Latitude" : "+41.590686"
+	},
+	{
+		"Longitude" : "-087.336338",
+		"Zipcode" : "46402",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GARY",
+		"State" : "IN",
+		"Latitude" : "+41.599336"
+	},
+	{
+		"Longitude" : "-087.268536",
+		"Zipcode" : "46403",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GARY",
+		"State" : "IN",
+		"Latitude" : "+41.605636"
+	},
+	{
+		"Longitude" : "-087.377538",
+		"Zipcode" : "46404",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GARY",
+		"State" : "IN",
+		"Latitude" : "+41.584136"
+	},
+	{
+		"Longitude" : "-087.354587",
+		"Zipcode" : "46405",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "LAKE STATION",
+		"State" : "IN",
+		"Latitude" : "+41.555785"
+	},
+	{
+		"Longitude" : "-087.388189",
+		"Zipcode" : "46406",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GARY",
+		"State" : "IN",
+		"Latitude" : "+41.596012"
+	},
+	{
+		"Longitude" : "-087.319987",
+		"Zipcode" : "46407",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GARY",
+		"State" : "IN",
+		"Latitude" : "+41.578886"
+	},
+	{
+		"Longitude" : "-087.375307",
+		"Zipcode" : "46408",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GARY",
+		"State" : "IN",
+		"Latitude" : "+41.544936"
+	},
+	{
+		"Longitude" : "-087.304186",
+		"Zipcode" : "46409",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "GARY",
+		"State" : "IN",
+		"Latitude" : "+41.545636"
+	},
+	{
+		"Longitude" : "-087.338656",
+		"Zipcode" : "46410",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "MERRILLVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.497212"
+	},
+	{
+		"Longitude" : "-087.372779",
+		"Zipcode" : "46411",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "MERRILLVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.461543"
+	},
+	{
+		"Longitude" : "-086.248052",
+		"Zipcode" : "46501",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "ARGOS",
+		"State" : "IN",
+		"Latitude" : "+41.242669"
+	},
+	{
+		"Longitude" : "-085.969708",
+		"Zipcode" : "46502",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KOSCIUSKO",
+		"City" : "ATWOOD",
+		"State" : "IN",
+		"Latitude" : "+41.254035"
+	},
+	{
+		"Longitude" : "-086.150818",
+		"Zipcode" : "46504",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BOURBON",
+		"State" : "IN",
+		"Latitude" : "+41.323904"
+	},
+	{
+		"Longitude" : "-086.242235",
+		"Zipcode" : "46506",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BREMEN",
+		"State" : "IN",
+		"Latitude" : "+41.405770"
+	},
+	{
+		"Longitude" : "-085.824845",
+		"Zipcode" : "46507",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "BRISTOL",
+		"State" : "IN",
+		"Latitude" : "+41.712983"
+	},
+	{
+		"Longitude" : "-085.969282",
+		"Zipcode" : "46508",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "BURKET",
+		"State" : "IN",
+		"Latitude" : "+41.154726"
+	},
+	{
+		"Longitude" : "-085.871487",
+		"Zipcode" : "46510",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "CLAYPOOL",
+		"State" : "IN",
+		"Latitude" : "+41.136771"
+	},
+	{
+		"Longitude" : "-086.386582",
+		"Zipcode" : "46511",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "CULVER",
+		"State" : "IN",
+		"Latitude" : "+41.314629"
+	},
+	{
+		"Longitude" : "-086.444254",
+		"Zipcode" : "46513",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARSHALL",
+		"City" : "DONALDSON",
+		"State" : "IN",
+		"Latitude" : "+41.361903"
+	},
+	{
+		"Longitude" : "-085.937024",
+		"Zipcode" : "46514",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "ELKHART",
+		"State" : "IN",
+		"Latitude" : "+41.718730"
+	},
+	{
+		"Longitude" : "-085.938348",
+		"Zipcode" : "46515",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "ELKHART",
+		"State" : "IN",
+		"Latitude" : "+41.641449"
+	},
+	{
+		"Longitude" : "-085.897236",
+		"Zipcode" : "46516",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "ELKHART",
+		"State" : "IN",
+		"Latitude" : "+41.620856"
+	},
+	{
+		"Longitude" : "-085.965717",
+		"Zipcode" : "46517",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "ELKHART",
+		"State" : "IN",
+		"Latitude" : "+41.617705"
+	},
+	{
+		"Longitude" : "-085.998430",
+		"Zipcode" : "46524",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "ETNA GREEN",
+		"State" : "IN",
+		"Latitude" : "+41.296306"
+	},
+	{
+		"Longitude" : "-085.858059",
+		"Zipcode" : "46526",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "GOSHEN",
+		"State" : "IN",
+		"Latitude" : "+41.584839"
+	},
+	{
+		"Longitude" : "-085.858076",
+		"Zipcode" : "46527",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "GOSHEN",
+		"State" : "IN",
+		"Latitude" : "+41.597739"
+	},
+	{
+		"Longitude" : "-085.839139",
+		"Zipcode" : "46528",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "GOSHEN",
+		"State" : "IN",
+		"Latitude" : "+41.624763"
+	},
+	{
+		"Longitude" : "-086.139868",
+		"Zipcode" : "46530",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "GRANGER",
+		"State" : "IN",
+		"Latitude" : "+41.734912"
+	},
+	{
+		"Longitude" : "-086.524321",
+		"Zipcode" : "46531",
+		"ZipClass" : "STANDARD",
+		"County" : "STARKE",
+		"City" : "GROVERTOWN",
+		"State" : "IN",
+		"Latitude" : "+41.349630"
+	},
+	{
+		"Longitude" : "-086.594849",
+		"Zipcode" : "46532",
+		"ZipClass" : "STANDARD",
+		"County" : "STARKE",
+		"City" : "HAMLET",
+		"State" : "IN",
+		"Latitude" : "+41.393141"
+	},
+	{
+		"Longitude" : "-086.608249",
+		"Zipcode" : "46534",
+		"ZipClass" : "STANDARD",
+		"County" : "STARKE",
+		"City" : "KNOX",
+		"State" : "IN",
+		"Latitude" : "+41.280907"
+	},
+	{
+		"Longitude" : "-086.270086",
+		"Zipcode" : "46536",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "LAKEVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.526373"
+	},
+	{
+		"Longitude" : "-086.309368",
+		"Zipcode" : "46537",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARSHALL",
+		"City" : "LAPAZ",
+		"State" : "IN",
+		"Latitude" : "+41.455431"
+	},
+	{
+		"Longitude" : "-085.823785",
+		"Zipcode" : "46538",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "LEESBURG",
+		"State" : "IN",
+		"Latitude" : "+41.342883"
+	},
+	{
+		"Longitude" : "-086.008586",
+		"Zipcode" : "46539",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "MENTONE",
+		"State" : "IN",
+		"Latitude" : "+41.177648"
+	},
+	{
+		"Longitude" : "-085.831327",
+		"Zipcode" : "46540",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "MIDDLEBURY",
+		"State" : "IN",
+		"Latitude" : "+41.646192"
+	},
+	{
+		"Longitude" : "-085.871138",
+		"Zipcode" : "46542",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "MILFORD",
+		"State" : "IN",
+		"Latitude" : "+41.282960"
+	},
+	{
+		"Longitude" : "-085.712083",
+		"Zipcode" : "46543",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "MILLERSBURG",
+		"State" : "IN",
+		"Latitude" : "+41.531255"
+	},
+	{
+		"Longitude" : "-086.287884",
+		"Zipcode" : "46544",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "MISHAWAKA",
+		"State" : "IN",
+		"Latitude" : "+41.615360"
+	},
+	{
+		"Longitude" : "-086.304735",
+		"Zipcode" : "46545",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "MISHAWAKA",
+		"State" : "IN",
+		"Latitude" : "+41.696407"
+	},
+	{
+		"Longitude" : "-086.196485",
+		"Zipcode" : "46546",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "MISHAWAKA",
+		"State" : "IN",
+		"Latitude" : "+41.688432"
+	},
+	{
+		"Longitude" : "-085.972724",
+		"Zipcode" : "46550",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "NAPPANEE",
+		"State" : "IN",
+		"Latitude" : "+41.574743"
+	},
+	{
+		"Longitude" : "-086.455494",
+		"Zipcode" : "46552",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "NEW CARLISLE",
+		"State" : "IN",
+		"Latitude" : "+41.701172"
+	},
+	{
+		"Longitude" : "-085.819200",
+		"Zipcode" : "46553",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "NEW PARIS",
+		"State" : "IN",
+		"Latitude" : "+41.478670"
+	},
+	{
+		"Longitude" : "-086.414045",
+		"Zipcode" : "46554",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "NORTH LIBERTY",
+		"State" : "IN",
+		"Latitude" : "+41.561716"
+	},
+	{
+		"Longitude" : "-085.710285",
+		"Zipcode" : "46555",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "NORTH WEBSTER",
+		"State" : "IN",
+		"Latitude" : "+41.332568"
+	},
+	{
+		"Longitude" : "-086.292991",
+		"Zipcode" : "46556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ST JOSEPH",
+		"City" : "NOTRE DAME",
+		"State" : "IN",
+		"Latitude" : "+41.596769"
+	},
+	{
+		"Longitude" : "-086.087002",
+		"Zipcode" : "46561",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "OSCEOLA",
+		"State" : "IN",
+		"Latitude" : "+41.669504"
+	},
+	{
+		"Longitude" : "-085.854745",
+		"Zipcode" : "46562",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "PIERCETON",
+		"State" : "IN",
+		"Latitude" : "+41.265769"
+	},
+	{
+		"Longitude" : "-086.301486",
+		"Zipcode" : "46563",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "PLYMOUTH",
+		"State" : "IN",
+		"Latitude" : "+41.352997"
+	},
+	{
+		"Longitude" : "-085.567362",
+		"Zipcode" : "46565",
+		"ZipClass" : "STANDARD",
+		"County" : "LAGRANGE",
+		"City" : "SHIPSHEWANA",
+		"State" : "IN",
+		"Latitude" : "+41.675720"
+	},
+	{
+		"Longitude" : "-085.888830",
+		"Zipcode" : "46566",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "SIDNEY",
+		"State" : "IN",
+		"Latitude" : "+41.137923"
+	},
+	{
+		"Longitude" : "-085.844729",
+		"Zipcode" : "46567",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "SYRACUSE",
+		"State" : "IN",
+		"Latitude" : "+41.296386"
+	},
+	{
+		"Longitude" : "-086.122820",
+		"Zipcode" : "46570",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "TIPPECANOE",
+		"State" : "IN",
+		"Latitude" : "+41.215971"
+	},
+	{
+		"Longitude" : "-085.540055",
+		"Zipcode" : "46571",
+		"ZipClass" : "STANDARD",
+		"County" : "LAGRANGE",
+		"City" : "TOPEKA",
+		"State" : "IN",
+		"Latitude" : "+41.578904"
+	},
+	{
+		"Longitude" : "-086.260569",
+		"Zipcode" : "46572",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARSHALL",
+		"City" : "TYNER",
+		"State" : "IN",
+		"Latitude" : "+41.325513"
+	},
+	{
+		"Longitude" : "-085.882695",
+		"Zipcode" : "46573",
+		"ZipClass" : "STANDARD",
+		"County" : "ELKHART",
+		"City" : "WAKARUSA",
+		"State" : "IN",
+		"Latitude" : "+41.585740"
+	},
+	{
+		"Longitude" : "-086.446734",
+		"Zipcode" : "46574",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "WALKERTON",
+		"State" : "IN",
+		"Latitude" : "+41.488957"
+	},
+	{
+		"Longitude" : "-085.860179",
+		"Zipcode" : "46580",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "WARSAW",
+		"State" : "IN",
+		"Latitude" : "+41.222800"
+	},
+	{
+		"Longitude" : "-085.864267",
+		"Zipcode" : "46581",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "WARSAW",
+		"State" : "IN",
+		"Latitude" : "+41.239365"
+	},
+	{
+		"Longitude" : "-085.849508",
+		"Zipcode" : "46582",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "WARSAW",
+		"State" : "IN",
+		"Latitude" : "+41.254225"
+	},
+	{
+		"Longitude" : "-085.826346",
+		"Zipcode" : "46590",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "WINONA LAKE",
+		"State" : "IN",
+		"Latitude" : "+41.232725"
+	},
+	{
+		"Longitude" : "-086.165227",
+		"Zipcode" : "46595",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ST JOSEPH",
+		"City" : "WYATT",
+		"State" : "IN",
+		"Latitude" : "+41.518136"
+	},
+	{
+		"Longitude" : "-086.251654",
+		"Zipcode" : "46601",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.673383"
+	},
+	{
+		"Longitude" : "-086.221805",
+		"Zipcode" : "46604",
+		"ZipClass" : "UNIQUE",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.664198"
+	},
+	{
+		"Longitude" : "-086.234589",
+		"Zipcode" : "46612",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.628483"
+	},
+	{
+		"Longitude" : "-086.255696",
+		"Zipcode" : "46613",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.656573"
+	},
+	{
+		"Longitude" : "-086.278463",
+		"Zipcode" : "46614",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.616532"
+	},
+	{
+		"Longitude" : "-086.216105",
+		"Zipcode" : "46615",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.677046"
+	},
+	{
+		"Longitude" : "-086.264293",
+		"Zipcode" : "46616",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.695957"
+	},
+	{
+		"Longitude" : "-086.238906",
+		"Zipcode" : "46617",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.682897"
+	},
+	{
+		"Longitude" : "-086.296056",
+		"Zipcode" : "46619",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.672919"
+	},
+	{
+		"Longitude" : "-086.292991",
+		"Zipcode" : "46620",
+		"ZipClass" : "UNIQUE",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.596769"
+	},
+	{
+		"Longitude" : "-086.283278",
+		"Zipcode" : "46624",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.733223"
+	},
+	{
+		"Longitude" : "-086.252506",
+		"Zipcode" : "46626",
+		"ZipClass" : "UNIQUE",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.677397"
+	},
+	{
+		"Longitude" : "-086.335738",
+		"Zipcode" : "46628",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.716559"
+	},
+	{
+		"Longitude" : "-086.279110",
+		"Zipcode" : "46629",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.671919"
+	},
+	{
+		"Longitude" : "-086.292991",
+		"Zipcode" : "46634",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.596769"
+	},
+	{
+		"Longitude" : "-086.338666",
+		"Zipcode" : "46635",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.686358"
+	},
+	{
+		"Longitude" : "-086.315321",
+		"Zipcode" : "46637",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.699077"
+	},
+	{
+		"Longitude" : "-086.292991",
+		"Zipcode" : "46660",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.596769"
+	},
+	{
+		"Longitude" : "-086.292991",
+		"Zipcode" : "46680",
+		"ZipClass" : "STANDARD",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.596769"
+	},
+	{
+		"Longitude" : "-086.292991",
+		"Zipcode" : "46699",
+		"ZipClass" : "UNIQUE",
+		"County" : "ST JOSEPH",
+		"City" : "SOUTH BEND",
+		"State" : "IN",
+		"Latitude" : "+41.596769"
+	},
+	{
+		"Longitude" : "-085.413862",
+		"Zipcode" : "46701",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "ALBION",
+		"State" : "IN",
+		"Latitude" : "+41.376028"
+	},
+	{
+		"Longitude" : "-085.597862",
+		"Zipcode" : "46702",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTINGTON",
+		"City" : "ANDREWS",
+		"State" : "IN",
+		"Latitude" : "+40.820278"
+	},
+	{
+		"Longitude" : "-085.000474",
+		"Zipcode" : "46703",
+		"ZipClass" : "STANDARD",
+		"County" : "STEUBEN",
+		"City" : "ANGOLA",
+		"State" : "IN",
+		"Latitude" : "+41.672567"
+	},
+	{
+		"Longitude" : "-085.292474",
+		"Zipcode" : "46704",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEN",
+		"City" : "ARCOLA",
+		"State" : "IN",
+		"Latitude" : "+41.103797"
+	},
+	{
+		"Longitude" : "-085.071275",
+		"Zipcode" : "46705",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "ASHLEY",
+		"State" : "IN",
+		"Latitude" : "+41.501455"
+	},
+	{
+		"Longitude" : "-085.027689",
+		"Zipcode" : "46706",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "AUBURN",
+		"State" : "IN",
+		"Latitude" : "+41.377758"
+	},
+	{
+		"Longitude" : "-085.391019",
+		"Zipcode" : "46710",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "AVILLA",
+		"State" : "IN",
+		"Latitude" : "+41.368123"
+	},
+	{
+		"Longitude" : "-084.934331",
+		"Zipcode" : "46711",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "BERNE",
+		"State" : "IN",
+		"Latitude" : "+40.671628"
+	},
+	{
+		"Longitude" : "-085.489198",
+		"Zipcode" : "46713",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUNTINGTON",
+		"City" : "BIPPUS",
+		"State" : "IN",
+		"Latitude" : "+40.829196"
+	},
+	{
+		"Longitude" : "-085.202300",
+		"Zipcode" : "46714",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "BLUFFTON",
+		"State" : "IN",
+		"Latitude" : "+40.713270"
+	},
+	{
+		"Longitude" : "-085.423462",
+		"Zipcode" : "46720",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "BRIMFIELD",
+		"State" : "IN",
+		"Latitude" : "+41.395275"
+	},
+	{
+		"Longitude" : "-084.912517",
+		"Zipcode" : "46721",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "BUTLER",
+		"State" : "IN",
+		"Latitude" : "+41.426441"
+	},
+	{
+		"Longitude" : "-085.389672",
+		"Zipcode" : "46723",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "CHURUBUSCO",
+		"State" : "IN",
+		"Latitude" : "+41.190811"
+	},
+	{
+		"Longitude" : "-085.500420",
+		"Zipcode" : "46725",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "COLUMBIA CITY",
+		"State" : "IN",
+		"Latitude" : "+41.149560"
+	},
+	{
+		"Longitude" : "-085.137324",
+		"Zipcode" : "46730",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "CORUNNA",
+		"State" : "IN",
+		"Latitude" : "+41.463082"
+	},
+	{
+		"Longitude" : "-085.104206",
+		"Zipcode" : "46731",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "CRAIGVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.794056"
+	},
+	{
+		"Longitude" : "-085.598750",
+		"Zipcode" : "46732",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "CROMWELL",
+		"State" : "IN",
+		"Latitude" : "+41.377903"
+	},
+	{
+		"Longitude" : "-084.937850",
+		"Zipcode" : "46733",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "DECATUR",
+		"State" : "IN",
+		"Latitude" : "+40.819110"
+	},
+	{
+		"Longitude" : "-084.945643",
+		"Zipcode" : "46737",
+		"ZipClass" : "STANDARD",
+		"County" : "STEUBEN",
+		"City" : "FREMONT",
+		"State" : "IN",
+		"Latitude" : "+41.711462"
+	},
+	{
+		"Longitude" : "-085.140707",
+		"Zipcode" : "46738",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "GARRETT",
+		"State" : "IN",
+		"Latitude" : "+41.323007"
+	},
+	{
+		"Longitude" : "-084.936072",
+		"Zipcode" : "46740",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "GENEVA",
+		"State" : "IN",
+		"Latitude" : "+40.612058"
+	},
+	{
+		"Longitude" : "-084.963984",
+		"Zipcode" : "46741",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "GRABILL",
+		"State" : "IN",
+		"Latitude" : "+41.195015"
+	},
+	{
+		"Longitude" : "-084.897465",
+		"Zipcode" : "46742",
+		"ZipClass" : "STANDARD",
+		"County" : "STEUBEN",
+		"City" : "HAMILTON",
+		"State" : "IN",
+		"Latitude" : "+41.572304"
+	},
+	{
+		"Longitude" : "-084.987882",
+		"Zipcode" : "46743",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "HARLAN",
+		"State" : "IN",
+		"Latitude" : "+41.227324"
+	},
+	{
+		"Longitude" : "-085.002148",
+		"Zipcode" : "46745",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "HOAGLAND",
+		"State" : "IN",
+		"Latitude" : "+40.957347"
+	},
+	{
+		"Longitude" : "-085.367474",
+		"Zipcode" : "46746",
+		"ZipClass" : "STANDARD",
+		"County" : "LAGRANGE",
+		"City" : "HOWE",
+		"State" : "IN",
+		"Latitude" : "+41.711914"
+	},
+	{
+		"Longitude" : "-085.113166",
+		"Zipcode" : "46747",
+		"ZipClass" : "STANDARD",
+		"County" : "STEUBEN",
+		"City" : "HUDSON",
+		"State" : "IN",
+		"Latitude" : "+41.577125"
+	},
+	{
+		"Longitude" : "-085.159437",
+		"Zipcode" : "46748",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "HUNTERTOWN",
+		"State" : "IN",
+		"Latitude" : "+41.237988"
+	},
+	{
+		"Longitude" : "-085.489225",
+		"Zipcode" : "46750",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTINGTON",
+		"City" : "HUNTINGTON",
+		"State" : "IN",
+		"Latitude" : "+40.842697"
+	},
+	{
+		"Longitude" : "-085.389073",
+		"Zipcode" : "46755",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "KENDALLVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.431488"
+	},
+	{
+		"Longitude" : "-085.205635",
+		"Zipcode" : "46759",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "KEYSTONE",
+		"State" : "IN",
+		"Latitude" : "+40.603317"
+	},
+	{
+		"Longitude" : "-085.543448",
+		"Zipcode" : "46760",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "KIMMELL",
+		"State" : "IN",
+		"Latitude" : "+41.369423"
+	},
+	{
+		"Longitude" : "-085.387208",
+		"Zipcode" : "46761",
+		"ZipClass" : "STANDARD",
+		"County" : "LAGRANGE",
+		"City" : "LAGRANGE",
+		"State" : "IN",
+		"Latitude" : "+41.655135"
+	},
+	{
+		"Longitude" : "-085.279040",
+		"Zipcode" : "46763",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "LAOTTO",
+		"State" : "IN",
+		"Latitude" : "+41.292913"
+	},
+	{
+		"Longitude" : "-085.591994",
+		"Zipcode" : "46764",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "LARWILL",
+		"State" : "IN",
+		"Latitude" : "+41.206938"
+	},
+	{
+		"Longitude" : "-085.043118",
+		"Zipcode" : "46765",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "LEO",
+		"State" : "IN",
+		"Latitude" : "+41.232203"
+	},
+	{
+		"Longitude" : "-085.278222",
+		"Zipcode" : "46766",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "LIBERTY CENTER",
+		"State" : "IN",
+		"Latitude" : "+40.698551"
+	},
+	{
+		"Longitude" : "-085.425730",
+		"Zipcode" : "46767",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "LIGONIER",
+		"State" : "IN",
+		"Latitude" : "+41.405478"
+	},
+	{
+		"Longitude" : "-084.937926",
+		"Zipcode" : "46769",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "LINN GROVE",
+		"State" : "IN",
+		"Latitude" : "+40.745320"
+	},
+	{
+		"Longitude" : "-085.354611",
+		"Zipcode" : "46770",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTINGTON",
+		"City" : "MARKLE",
+		"State" : "IN",
+		"Latitude" : "+40.862309"
+	},
+	{
+		"Longitude" : "-085.267567",
+		"Zipcode" : "46771",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAGRANGE",
+		"City" : "MONGO",
+		"State" : "IN",
+		"Latitude" : "+41.665489"
+	},
+	{
+		"Longitude" : "-084.919164",
+		"Zipcode" : "46772",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "MONROE",
+		"State" : "IN",
+		"Latitude" : "+40.709518"
+	},
+	{
+		"Longitude" : "-084.904020",
+		"Zipcode" : "46773",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "MONROEVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.059007"
+	},
+	{
+		"Longitude" : "-084.962038",
+		"Zipcode" : "46774",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "NEW HAVEN",
+		"State" : "IN",
+		"Latitude" : "+41.102098"
+	},
+	{
+		"Longitude" : "-085.140168",
+		"Zipcode" : "46776",
+		"ZipClass" : "STANDARD",
+		"County" : "STEUBEN",
+		"City" : "ORLAND",
+		"State" : "IN",
+		"Latitude" : "+41.713640"
+	},
+	{
+		"Longitude" : "-085.203797",
+		"Zipcode" : "46777",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "OSSIAN",
+		"State" : "IN",
+		"Latitude" : "+40.855435"
+	},
+	{
+		"Longitude" : "-085.152604",
+		"Zipcode" : "46778",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WELLS",
+		"City" : "PETROLEUM",
+		"State" : "IN",
+		"Latitude" : "+40.611419"
+	},
+	{
+		"Longitude" : "-085.031873",
+		"Zipcode" : "46779",
+		"ZipClass" : "STANDARD",
+		"County" : "STEUBEN",
+		"City" : "PLEASANT LAKE",
+		"State" : "IN",
+		"Latitude" : "+41.577443"
+	},
+	{
+		"Longitude" : "-084.937926",
+		"Zipcode" : "46780",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADAMS",
+		"City" : "PLEASANT MILLS",
+		"State" : "IN",
+		"Latitude" : "+40.745320"
+	},
+	{
+		"Longitude" : "-085.259163",
+		"Zipcode" : "46781",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "PONETO",
+		"State" : "IN",
+		"Latitude" : "+40.639684"
+	},
+	{
+		"Longitude" : "-085.005402",
+		"Zipcode" : "46782",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADAMS",
+		"City" : "PREBLE",
+		"State" : "IN",
+		"Latitude" : "+40.832040"
+	},
+	{
+		"Longitude" : "-085.393868",
+		"Zipcode" : "46783",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTINGTON",
+		"City" : "ROANOKE",
+		"State" : "IN",
+		"Latitude" : "+40.954446"
+	},
+	{
+		"Longitude" : "-085.401402",
+		"Zipcode" : "46784",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "ROME CITY",
+		"State" : "IN",
+		"Latitude" : "+41.401296"
+	},
+	{
+		"Longitude" : "-084.888552",
+		"Zipcode" : "46785",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "SAINT JOE",
+		"State" : "IN",
+		"Latitude" : "+41.319754"
+	},
+	{
+		"Longitude" : "-085.319241",
+		"Zipcode" : "46786",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAGRANGE",
+		"City" : "SOUTH MILFORD",
+		"State" : "IN",
+		"Latitude" : "+41.536899"
+	},
+	{
+		"Longitude" : "-085.510981",
+		"Zipcode" : "46787",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "SOUTH WHITLEY",
+		"State" : "IN",
+		"Latitude" : "+41.071204"
+	},
+	{
+		"Longitude" : "-084.902416",
+		"Zipcode" : "46788",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "SPENCERVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.302927"
+	},
+	{
+		"Longitude" : "-085.199186",
+		"Zipcode" : "46789",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAGRANGE",
+		"City" : "STROH",
+		"State" : "IN",
+		"Latitude" : "+41.583493"
+	},
+	{
+		"Longitude" : "-085.270039",
+		"Zipcode" : "46791",
+		"ZipClass" : "STANDARD",
+		"County" : "WELLS",
+		"City" : "UNIONDALE",
+		"State" : "IN",
+		"Latitude" : "+40.859358"
+	},
+	{
+		"Longitude" : "-085.468798",
+		"Zipcode" : "46792",
+		"ZipClass" : "STANDARD",
+		"County" : "HUNTINGTON",
+		"City" : "WARREN",
+		"State" : "IN",
+		"Latitude" : "+40.712066"
+	},
+	{
+		"Longitude" : "-085.019562",
+		"Zipcode" : "46793",
+		"ZipClass" : "STANDARD",
+		"County" : "DE KALB",
+		"City" : "WATERLOO",
+		"State" : "IN",
+		"Latitude" : "+41.461019"
+	},
+	{
+		"Longitude" : "-085.386856",
+		"Zipcode" : "46794",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLE",
+		"City" : "WAWAKA",
+		"State" : "IN",
+		"Latitude" : "+41.476682"
+	},
+	{
+		"Longitude" : "-085.337737",
+		"Zipcode" : "46795",
+		"ZipClass" : "STANDARD",
+		"County" : "LAGRANGE",
+		"City" : "WOLCOTTVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.583475"
+	},
+	{
+		"Longitude" : "-085.500246",
+		"Zipcode" : "46796",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NOBLE",
+		"City" : "WOLFLAKE",
+		"State" : "IN",
+		"Latitude" : "+41.336115"
+	},
+	{
+		"Longitude" : "-084.874249",
+		"Zipcode" : "46797",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "WOODBURN",
+		"State" : "IN",
+		"Latitude" : "+41.125044"
+	},
+	{
+		"Longitude" : "-085.086518",
+		"Zipcode" : "46798",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "YODER",
+		"State" : "IN",
+		"Latitude" : "+41.009498"
+	},
+	{
+		"Longitude" : "-085.282422",
+		"Zipcode" : "46799",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEN",
+		"City" : "ZANESVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.918797"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46801",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.158420",
+		"Zipcode" : "46802",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.065397"
+	},
+	{
+		"Longitude" : "-085.084069",
+		"Zipcode" : "46803",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.065648"
+	},
+	{
+		"Longitude" : "-085.239172",
+		"Zipcode" : "46804",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.057168"
+	},
+	{
+		"Longitude" : "-085.078019",
+		"Zipcode" : "46805",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.099948"
+	},
+	{
+		"Longitude" : "-085.082319",
+		"Zipcode" : "46806",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.049248"
+	},
+	{
+		"Longitude" : "-085.146820",
+		"Zipcode" : "46807",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.042342"
+	},
+	{
+		"Longitude" : "-085.184121",
+		"Zipcode" : "46808",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093898"
+	},
+	{
+		"Longitude" : "-085.205071",
+		"Zipcode" : "46809",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.037097"
+	},
+	{
+		"Longitude" : "-085.305823",
+		"Zipcode" : "46814",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.045647"
+	},
+	{
+		"Longitude" : "-085.072068",
+		"Zipcode" : "46815",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.141189"
+	},
+	{
+		"Longitude" : "-085.033817",
+		"Zipcode" : "46816",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+40.988047"
+	},
+	{
+		"Longitude" : "-085.203895",
+		"Zipcode" : "46818",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.112548"
+	},
+	{
+		"Longitude" : "-085.126419",
+		"Zipcode" : "46819",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+40.978697"
+	},
+	{
+		"Longitude" : "-085.104001",
+		"Zipcode" : "46825",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.138003"
+	},
+	{
+		"Longitude" : "-085.057218",
+		"Zipcode" : "46835",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.156698"
+	},
+	{
+		"Longitude" : "-085.084581",
+		"Zipcode" : "46845",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.095957"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46850",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46851",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46852",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46853",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46854",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46855",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46856",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46857",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46858",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46859",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46860",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46861",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46862",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46863",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46864",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.090669",
+		"Zipcode" : "46865",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.126298"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46866",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46867",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46868",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46869",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46885",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46895",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46896",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46897",
+		"ZipClass" : "UNIQUE",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46898",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-085.070713",
+		"Zipcode" : "46899",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "FORT WAYNE",
+		"State" : "IN",
+		"Latitude" : "+41.093763"
+	},
+	{
+		"Longitude" : "-086.171054",
+		"Zipcode" : "46901",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "KOKOMO",
+		"State" : "IN",
+		"Latitude" : "+40.506851"
+	},
+	{
+		"Longitude" : "-086.175590",
+		"Zipcode" : "46902",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "KOKOMO",
+		"State" : "IN",
+		"Latitude" : "+40.444291"
+	},
+	{
+		"Longitude" : "-086.118940",
+		"Zipcode" : "46903",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "KOKOMO",
+		"State" : "IN",
+		"Latitude" : "+40.469625"
+	},
+	{
+		"Longitude" : "-086.118940",
+		"Zipcode" : "46904",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "KOKOMO",
+		"State" : "IN",
+		"Latitude" : "+40.469625"
+	},
+	{
+		"Longitude" : "-086.069172",
+		"Zipcode" : "46910",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "AKRON",
+		"State" : "IN",
+		"Latitude" : "+41.047932"
+	},
+	{
+		"Longitude" : "-085.943552",
+		"Zipcode" : "46911",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "AMBOY",
+		"State" : "IN",
+		"Latitude" : "+40.650476"
+	},
+	{
+		"Longitude" : "-086.206925",
+		"Zipcode" : "46912",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FULTON",
+		"City" : "ATHENS",
+		"State" : "IN",
+		"Latitude" : "+41.040988"
+	},
+	{
+		"Longitude" : "-086.507065",
+		"Zipcode" : "46913",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "BRINGHURST",
+		"State" : "IN",
+		"Latitude" : "+40.500141"
+	},
+	{
+		"Longitude" : "-086.102125",
+		"Zipcode" : "46914",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "BUNKER HILL",
+		"State" : "IN",
+		"Latitude" : "+40.659068"
+	},
+	{
+		"Longitude" : "-086.394248",
+		"Zipcode" : "46915",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "BURLINGTON",
+		"State" : "IN",
+		"Latitude" : "+40.495181"
+	},
+	{
+		"Longitude" : "-086.573952",
+		"Zipcode" : "46916",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "BURROWS",
+		"State" : "IN",
+		"Latitude" : "+40.584272"
+	},
+	{
+		"Longitude" : "-086.499148",
+		"Zipcode" : "46917",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CAMDEN",
+		"State" : "IN",
+		"Latitude" : "+40.626954"
+	},
+	{
+		"Longitude" : "-085.878104",
+		"Zipcode" : "46919",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "CONVERSE",
+		"State" : "IN",
+		"Latitude" : "+40.578034"
+	},
+	{
+		"Longitude" : "-086.488525",
+		"Zipcode" : "46920",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CUTLER",
+		"State" : "IN",
+		"Latitude" : "+40.485424"
+	},
+	{
+		"Longitude" : "-086.129080",
+		"Zipcode" : "46921",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIAMI",
+		"City" : "DEEDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.960538"
+	},
+	{
+		"Longitude" : "-086.206925",
+		"Zipcode" : "46922",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FULTON",
+		"City" : "DELONG",
+		"State" : "IN",
+		"Latitude" : "+41.040988"
+	},
+	{
+		"Longitude" : "-086.637891",
+		"Zipcode" : "46923",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "DELPHI",
+		"State" : "IN",
+		"Latitude" : "+40.580452"
+	},
+	{
+		"Longitude" : "-086.075240",
+		"Zipcode" : "46926",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "DENVER",
+		"State" : "IN",
+		"Latitude" : "+40.867036"
+	},
+	{
+		"Longitude" : "-085.661196",
+		"Zipcode" : "46928",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "FAIRMOUNT",
+		"State" : "IN",
+		"Latitude" : "+40.515421"
+	},
+	{
+		"Longitude" : "-086.490521",
+		"Zipcode" : "46929",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "FLORA",
+		"State" : "IN",
+		"Latitude" : "+40.556269"
+	},
+	{
+		"Longitude" : "-085.571035",
+		"Zipcode" : "46930",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "FOWLERTON",
+		"State" : "IN",
+		"Latitude" : "+40.409930"
+	},
+	{
+		"Longitude" : "-086.265814",
+		"Zipcode" : "46931",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FULTON",
+		"City" : "FULTON",
+		"State" : "IN",
+		"Latitude" : "+40.948405"
+	},
+	{
+		"Longitude" : "-086.269625",
+		"Zipcode" : "46932",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "GALVESTON",
+		"State" : "IN",
+		"Latitude" : "+40.634254"
+	},
+	{
+		"Longitude" : "-085.585245",
+		"Zipcode" : "46933",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "GAS CITY",
+		"State" : "IN",
+		"Latitude" : "+40.544290"
+	},
+	{
+		"Longitude" : "-086.206925",
+		"Zipcode" : "46935",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "GRASS CREEK",
+		"State" : "IN",
+		"Latitude" : "+41.040988"
+	},
+	{
+		"Longitude" : "-085.997326",
+		"Zipcode" : "46936",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "GREENTOWN",
+		"State" : "IN",
+		"Latitude" : "+40.485442"
+	},
+	{
+		"Longitude" : "-086.018139",
+		"Zipcode" : "46937",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOWARD",
+		"City" : "HEMLOCK",
+		"State" : "IN",
+		"Latitude" : "+40.418662"
+	},
+	{
+		"Longitude" : "-085.650398",
+		"Zipcode" : "46938",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "JONESBORO",
+		"State" : "IN",
+		"Latitude" : "+40.446730"
+	},
+	{
+		"Longitude" : "-086.374647",
+		"Zipcode" : "46939",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "KEWANNA",
+		"State" : "IN",
+		"Latitude" : "+41.040533"
+	},
+	{
+		"Longitude" : "-085.740428",
+		"Zipcode" : "46940",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASH",
+		"City" : "LA FONTAINE",
+		"State" : "IN",
+		"Latitude" : "+40.696155"
+	},
+	{
+		"Longitude" : "-085.700909",
+		"Zipcode" : "46941",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASH",
+		"City" : "LAGRO",
+		"State" : "IN",
+		"Latitude" : "+40.826475"
+	},
+	{
+		"Longitude" : "-086.373410",
+		"Zipcode" : "46942",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASS",
+		"City" : "LAKE CICOTT",
+		"State" : "IN",
+		"Latitude" : "+40.736111"
+	},
+	{
+		"Longitude" : "-085.837546",
+		"Zipcode" : "46943",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WABASH",
+		"City" : "LAKETON",
+		"State" : "IN",
+		"Latitude" : "+40.974279"
+	},
+	{
+		"Longitude" : "-086.206925",
+		"Zipcode" : "46945",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FULTON",
+		"City" : "LEITERS FORD",
+		"State" : "IN",
+		"Latitude" : "+41.040988"
+	},
+	{
+		"Longitude" : "-085.735756",
+		"Zipcode" : "46946",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WABASH",
+		"City" : "LIBERTY MILLS",
+		"State" : "IN",
+		"Latitude" : "+41.035629"
+	},
+	{
+		"Longitude" : "-086.375168",
+		"Zipcode" : "46947",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "LOGANSPORT",
+		"State" : "IN",
+		"Latitude" : "+40.779270"
+	},
+	{
+		"Longitude" : "-086.354066",
+		"Zipcode" : "46950",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "LUCERNE",
+		"State" : "IN",
+		"Latitude" : "+40.875277"
+	},
+	{
+		"Longitude" : "-086.129366",
+		"Zipcode" : "46951",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "MACY",
+		"State" : "IN",
+		"Latitude" : "+40.958410"
+	},
+	{
+		"Longitude" : "-085.636731",
+		"Zipcode" : "46952",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MARION",
+		"State" : "IN",
+		"Latitude" : "+40.519756"
+	},
+	{
+		"Longitude" : "-085.626401",
+		"Zipcode" : "46953",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MARION",
+		"State" : "IN",
+		"Latitude" : "+40.499959"
+	},
+	{
+		"Longitude" : "-085.476619",
+		"Zipcode" : "46957",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "MATTHEWS",
+		"State" : "IN",
+		"Latitude" : "+40.389831"
+	},
+	{
+		"Longitude" : "-086.116189",
+		"Zipcode" : "46958",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIAMI",
+		"City" : "MEXICO",
+		"State" : "IN",
+		"Latitude" : "+40.822384"
+	},
+	{
+		"Longitude" : "-086.106432",
+		"Zipcode" : "46959",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIAMI",
+		"City" : "MIAMI",
+		"State" : "IN",
+		"Latitude" : "+40.614660"
+	},
+	{
+		"Longitude" : "-086.544617",
+		"Zipcode" : "46960",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "MONTEREY",
+		"State" : "IN",
+		"Latitude" : "+41.124552"
+	},
+	{
+		"Longitude" : "-086.193648",
+		"Zipcode" : "46961",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASS",
+		"City" : "NEW WAVERLY",
+		"State" : "IN",
+		"Latitude" : "+40.762054"
+	},
+	{
+		"Longitude" : "-085.794138",
+		"Zipcode" : "46962",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASH",
+		"City" : "NORTH MANCHESTER",
+		"State" : "IN",
+		"Latitude" : "+40.859877"
+	},
+	{
+		"Longitude" : "-086.101484",
+		"Zipcode" : "46965",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOWARD",
+		"City" : "OAKFORD",
+		"State" : "IN",
+		"Latitude" : "+40.412741"
+	},
+	{
+		"Longitude" : "-086.204238",
+		"Zipcode" : "46967",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASS",
+		"City" : "ONWARD",
+		"State" : "IN",
+		"Latitude" : "+40.694298"
+	},
+	{
+		"Longitude" : "-086.554326",
+		"Zipcode" : "46968",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STARKE",
+		"City" : "ORA",
+		"State" : "IN",
+		"Latitude" : "+41.175557"
+	},
+	{
+		"Longitude" : "-086.075810",
+		"Zipcode" : "46970",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "PERU",
+		"State" : "IN",
+		"Latitude" : "+40.739910"
+	},
+	{
+		"Longitude" : "-086.016441",
+		"Zipcode" : "46971",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "GRISSOM ARB",
+		"State" : "IN",
+		"Latitude" : "+40.780955"
+	},
+	{
+		"Longitude" : "-085.854151",
+		"Zipcode" : "46974",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASH",
+		"City" : "ROANN",
+		"State" : "IN",
+		"Latitude" : "+40.951589"
+	},
+	{
+		"Longitude" : "-086.254272",
+		"Zipcode" : "46975",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ROCHESTER",
+		"State" : "IN",
+		"Latitude" : "+41.040988"
+	},
+	{
+		"Longitude" : "-086.573952",
+		"Zipcode" : "46977",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "ROCKFIELD",
+		"State" : "IN",
+		"Latitude" : "+40.584272"
+	},
+	{
+		"Longitude" : "-086.492019",
+		"Zipcode" : "46978",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "ROYAL CENTER",
+		"State" : "IN",
+		"Latitude" : "+40.851622"
+	},
+	{
+		"Longitude" : "-086.269717",
+		"Zipcode" : "46979",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "RUSSIAVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.425730"
+	},
+	{
+		"Longitude" : "-085.792501",
+		"Zipcode" : "46980",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WABASH",
+		"City" : "SERVIA",
+		"State" : "IN",
+		"Latitude" : "+40.848927"
+	},
+	{
+		"Longitude" : "-085.856589",
+		"Zipcode" : "46982",
+		"ZipClass" : "STANDARD",
+		"County" : "KOSCIUSKO",
+		"City" : "SILVER LAKE",
+		"State" : "IN",
+		"Latitude" : "+41.130963"
+	},
+	{
+		"Longitude" : "-085.828846",
+		"Zipcode" : "46984",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WABASH",
+		"City" : "SOMERSET",
+		"State" : "IN",
+		"Latitude" : "+40.671369"
+	},
+	{
+		"Longitude" : "-086.589005",
+		"Zipcode" : "46985",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "STAR CITY",
+		"State" : "IN",
+		"Latitude" : "+41.003004"
+	},
+	{
+		"Longitude" : "-085.815617",
+		"Zipcode" : "46986",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "SWAYZEE",
+		"State" : "IN",
+		"Latitude" : "+40.505141"
+	},
+	{
+		"Longitude" : "-085.765569",
+		"Zipcode" : "46987",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "SWEETSER",
+		"State" : "IN",
+		"Latitude" : "+40.564673"
+	},
+	{
+		"Longitude" : "-086.233899",
+		"Zipcode" : "46988",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "TWELVE MILE",
+		"State" : "IN",
+		"Latitude" : "+40.866096"
+	},
+	{
+		"Longitude" : "-085.625120",
+		"Zipcode" : "46989",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "UPLAND",
+		"State" : "IN",
+		"Latitude" : "+40.455985"
+	},
+	{
+		"Longitude" : "-085.736386",
+		"Zipcode" : "46990",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASH",
+		"City" : "URBANA",
+		"State" : "IN",
+		"Latitude" : "+40.886571"
+	},
+	{
+		"Longitude" : "-085.514796",
+		"Zipcode" : "46991",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "VAN BUREN",
+		"State" : "IN",
+		"Latitude" : "+40.617379"
+	},
+	{
+		"Longitude" : "-085.791823",
+		"Zipcode" : "46992",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASH",
+		"City" : "WABASH",
+		"State" : "IN",
+		"Latitude" : "+40.801867"
+	},
+	{
+		"Longitude" : "-086.260927",
+		"Zipcode" : "46994",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "WALTON",
+		"State" : "IN",
+		"Latitude" : "+40.677128"
+	},
+	{
+		"Longitude" : "-086.215482",
+		"Zipcode" : "46995",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOWARD",
+		"City" : "WEST MIDDLETON",
+		"State" : "IN",
+		"Latitude" : "+40.442117"
+	},
+	{
+		"Longitude" : "-086.622156",
+		"Zipcode" : "46996",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "WINAMAC",
+		"State" : "IN",
+		"Latitude" : "+41.035862"
+	},
+	{
+		"Longitude" : "-086.225982",
+		"Zipcode" : "46998",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CASS",
+		"City" : "YOUNG AMERICA",
+		"State" : "IN",
+		"Latitude" : "+40.866023"
+	},
+	{
+		"Longitude" : "-084.988904",
+		"Zipcode" : "47001",
+		"ZipClass" : "STANDARD",
+		"County" : "DEARBORN",
+		"City" : "AURORA",
+		"State" : "IN",
+		"Latitude" : "+39.091081"
+	},
+	{
+		"Longitude" : "-084.862979",
+		"Zipcode" : "47003",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "WEST COLLEGE CORNER",
+		"State" : "IN",
+		"Latitude" : "+39.515851"
+	},
+	{
+		"Longitude" : "-085.229151",
+		"Zipcode" : "47006",
+		"ZipClass" : "STANDARD",
+		"County" : "RIPLEY",
+		"City" : "BATESVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.190170"
+	},
+	{
+		"Longitude" : "-084.853529",
+		"Zipcode" : "47010",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BATH",
+		"State" : "IN",
+		"Latitude" : "+39.490701"
+	},
+	{
+		"Longitude" : "-085.074867",
+		"Zipcode" : "47011",
+		"ZipClass" : "STANDARD",
+		"County" : "SWITZERLAND",
+		"City" : "BENNINGTON",
+		"State" : "IN",
+		"Latitude" : "+38.864386"
+	},
+	{
+		"Longitude" : "-085.000280",
+		"Zipcode" : "47012",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BROOKVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.416398"
+	},
+	{
+		"Longitude" : "-084.910391",
+		"Zipcode" : "47016",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CEDAR GROVE",
+		"State" : "IN",
+		"Latitude" : "+39.367379"
+	},
+	{
+		"Longitude" : "-085.191159",
+		"Zipcode" : "47017",
+		"ZipClass" : "STANDARD",
+		"County" : "RIPLEY",
+		"City" : "CROSS PLAINS",
+		"State" : "IN",
+		"Latitude" : "+38.945037"
+	},
+	{
+		"Longitude" : "-085.026230",
+		"Zipcode" : "47018",
+		"ZipClass" : "STANDARD",
+		"County" : "DEARBORN",
+		"City" : "DILLSBORO",
+		"State" : "IN",
+		"Latitude" : "+39.002217"
+	},
+	{
+		"Longitude" : "-084.925998",
+		"Zipcode" : "47019",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SWITZERLAND",
+		"City" : "EAST ENTERPRISE",
+		"State" : "IN",
+		"Latitude" : "+38.868591"
+	},
+	{
+		"Longitude" : "-084.950119",
+		"Zipcode" : "47020",
+		"ZipClass" : "STANDARD",
+		"County" : "SWITZERLAND",
+		"City" : "FLORENCE",
+		"State" : "IN",
+		"Latitude" : "+38.823530"
+	},
+	{
+		"Longitude" : "-085.150390",
+		"Zipcode" : "47021",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIPLEY",
+		"City" : "FRIENDSHIP",
+		"State" : "IN",
+		"Latitude" : "+38.970266"
+	},
+	{
+		"Longitude" : "-084.964354",
+		"Zipcode" : "47022",
+		"ZipClass" : "STANDARD",
+		"County" : "DEARBORN",
+		"City" : "GUILFORD",
+		"State" : "IN",
+		"Latitude" : "+39.193261"
+	},
+	{
+		"Longitude" : "-085.374353",
+		"Zipcode" : "47023",
+		"ZipClass" : "STANDARD",
+		"County" : "RIPLEY",
+		"City" : "HOLTON",
+		"State" : "IN",
+		"Latitude" : "+39.082863"
+	},
+	{
+		"Longitude" : "-085.178057",
+		"Zipcode" : "47024",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "LAUREL",
+		"State" : "IN",
+		"Latitude" : "+39.467957"
+	},
+	{
+		"Longitude" : "-084.891015",
+		"Zipcode" : "47025",
+		"ZipClass" : "STANDARD",
+		"County" : "DEARBORN",
+		"City" : "LAWRENCEBURG",
+		"State" : "IN",
+		"Latitude" : "+39.152741"
+	},
+	{
+		"Longitude" : "-085.111826",
+		"Zipcode" : "47030",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "METAMORA",
+		"State" : "IN",
+		"Latitude" : "+39.433095"
+	},
+	{
+		"Longitude" : "-085.228190",
+		"Zipcode" : "47031",
+		"ZipClass" : "STANDARD",
+		"County" : "RIPLEY",
+		"City" : "MILAN",
+		"State" : "IN",
+		"Latitude" : "+39.115266"
+	},
+	{
+		"Longitude" : "-084.980417",
+		"Zipcode" : "47032",
+		"ZipClass" : "STANDARD",
+		"County" : "DEARBORN",
+		"City" : "MOORES HILL",
+		"State" : "IN",
+		"Latitude" : "+39.162590"
+	},
+	{
+		"Longitude" : "-085.173900",
+		"Zipcode" : "47033",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIPLEY",
+		"City" : "MORRIS",
+		"State" : "IN",
+		"Latitude" : "+39.281429"
+	},
+	{
+		"Longitude" : "-085.326962",
+		"Zipcode" : "47034",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIPLEY",
+		"City" : "NAPOLEON",
+		"State" : "IN",
+		"Latitude" : "+39.204833"
+	},
+	{
+		"Longitude" : "-084.900711",
+		"Zipcode" : "47035",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "NEW TRENTON",
+		"State" : "IN",
+		"Latitude" : "+39.309983"
+	},
+	{
+		"Longitude" : "-085.238529",
+		"Zipcode" : "47036",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "OLDENBURG",
+		"State" : "IN",
+		"Latitude" : "+39.386175"
+	},
+	{
+		"Longitude" : "-085.285367",
+		"Zipcode" : "47037",
+		"ZipClass" : "STANDARD",
+		"County" : "RIPLEY",
+		"City" : "OSGOOD",
+		"State" : "IN",
+		"Latitude" : "+39.172808"
+	},
+	{
+		"Longitude" : "-084.881782",
+		"Zipcode" : "47038",
+		"ZipClass" : "STANDARD",
+		"County" : "SWITZERLAND",
+		"City" : "PATRIOT",
+		"State" : "IN",
+		"Latitude" : "+38.841880"
+	},
+	{
+		"Longitude" : "-085.255114",
+		"Zipcode" : "47039",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RIPLEY",
+		"City" : "PIERCEVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.111625"
+	},
+	{
+		"Longitude" : "-084.984085",
+		"Zipcode" : "47040",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "RISING SUN",
+		"State" : "IN",
+		"Latitude" : "+38.958134"
+	},
+	{
+		"Longitude" : "-085.140001",
+		"Zipcode" : "47041",
+		"ZipClass" : "STANDARD",
+		"County" : "RIPLEY",
+		"City" : "SUNMAN",
+		"State" : "IN",
+		"Latitude" : "+39.231396"
+	},
+	{
+		"Longitude" : "-085.244161",
+		"Zipcode" : "47042",
+		"ZipClass" : "STANDARD",
+		"County" : "RIPLEY",
+		"City" : "VERSAILLES",
+		"State" : "IN",
+		"Latitude" : "+39.039682"
+	},
+	{
+		"Longitude" : "-085.061136",
+		"Zipcode" : "47043",
+		"ZipClass" : "STANDARD",
+		"County" : "SWITZERLAND",
+		"City" : "VEVAY",
+		"State" : "IN",
+		"Latitude" : "+38.809388"
+	},
+	{
+		"Longitude" : "-084.914370",
+		"Zipcode" : "47060",
+		"ZipClass" : "STANDARD",
+		"County" : "DEARBORN",
+		"City" : "WEST HARRISON",
+		"State" : "IN",
+		"Latitude" : "+39.251510"
+	},
+	{
+		"Longitude" : "-085.750469",
+		"Zipcode" : "47102",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "AUSTIN",
+		"State" : "IN",
+		"Latitude" : "+38.748455"
+	},
+	{
+		"Longitude" : "-085.421753",
+		"Zipcode" : "47104",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "BETHLEHEM",
+		"State" : "IN",
+		"Latitude" : "+38.539899"
+	},
+	{
+		"Longitude" : "-085.767760",
+		"Zipcode" : "47106",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "BORDEN",
+		"State" : "IN",
+		"Latitude" : "+38.482335"
+	},
+	{
+		"Longitude" : "-086.115257",
+		"Zipcode" : "47107",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARRISON",
+		"City" : "BRADFORD",
+		"State" : "IN",
+		"Latitude" : "+38.190314"
+	},
+	{
+		"Longitude" : "-086.220645",
+		"Zipcode" : "47108",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CAMPBELLSBURG",
+		"State" : "IN",
+		"Latitude" : "+38.614255"
+	},
+	{
+		"Longitude" : "-086.172327",
+		"Zipcode" : "47110",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "CENTRAL",
+		"State" : "IN",
+		"Latitude" : "+38.096971"
+	},
+	{
+		"Longitude" : "-085.615235",
+		"Zipcode" : "47111",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "CHARLESTOWN",
+		"State" : "IN",
+		"Latitude" : "+38.459992"
+	},
+	{
+		"Longitude" : "-086.145211",
+		"Zipcode" : "47112",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "CORYDON",
+		"State" : "IN",
+		"Latitude" : "+38.186300"
+	},
+	{
+		"Longitude" : "-086.082390",
+		"Zipcode" : "47114",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "CRANDALL",
+		"State" : "IN",
+		"Latitude" : "+38.289882"
+	},
+	{
+		"Longitude" : "-086.212957",
+		"Zipcode" : "47115",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "DEPAUW",
+		"State" : "IN",
+		"Latitude" : "+38.338462"
+	},
+	{
+		"Longitude" : "-086.575635",
+		"Zipcode" : "47116",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "ECKERTY",
+		"State" : "IN",
+		"Latitude" : "+38.329303"
+	},
+	{
+		"Longitude" : "-085.988349",
+		"Zipcode" : "47117",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "ELIZABETH",
+		"State" : "IN",
+		"Latitude" : "+38.094629"
+	},
+	{
+		"Longitude" : "-086.501185",
+		"Zipcode" : "47118",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "ENGLISH",
+		"State" : "IN",
+		"Latitude" : "+38.288549"
+	},
+	{
+		"Longitude" : "-085.890727",
+		"Zipcode" : "47119",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "FLOYDS KNOBS",
+		"State" : "IN",
+		"Latitude" : "+38.352570"
+	},
+	{
+		"Longitude" : "-086.185333",
+		"Zipcode" : "47120",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FREDERICKSBURG",
+		"State" : "IN",
+		"Latitude" : "+38.467720"
+	},
+	{
+		"Longitude" : "-085.960009",
+		"Zipcode" : "47122",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "GEORGETOWN",
+		"State" : "IN",
+		"Latitude" : "+38.310980"
+	},
+	{
+		"Longitude" : "-086.484327",
+		"Zipcode" : "47123",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "GRANTSBURG",
+		"State" : "IN",
+		"Latitude" : "+38.281966"
+	},
+	{
+		"Longitude" : "-085.986626",
+		"Zipcode" : "47124",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "GREENVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.373209"
+	},
+	{
+		"Longitude" : "-086.244689",
+		"Zipcode" : "47125",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HARDINSBURG",
+		"State" : "IN",
+		"Latitude" : "+38.500408"
+	},
+	{
+		"Longitude" : "-085.774327",
+		"Zipcode" : "47126",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "HENRYVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.550400"
+	},
+	{
+		"Longitude" : "-085.764463",
+		"Zipcode" : "47129",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "CLARKSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.310958"
+	},
+	{
+		"Longitude" : "-085.716548",
+		"Zipcode" : "47130",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "JEFFERSONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.404909"
+	},
+	{
+		"Longitude" : "-085.704973",
+		"Zipcode" : "47131",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "JEFFERSONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.437021"
+	},
+	{
+		"Longitude" : "-085.732062",
+		"Zipcode" : "47132",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "JEFFERSONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.286819"
+	},
+	{
+		"Longitude" : "-085.732062",
+		"Zipcode" : "47133",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "JEFFERSONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.286819"
+	},
+	{
+		"Longitude" : "-085.732062",
+		"Zipcode" : "47134",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "JEFFERSONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.286819"
+	},
+	{
+		"Longitude" : "-086.065550",
+		"Zipcode" : "47135",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "LACONIA",
+		"State" : "IN",
+		"Latitude" : "+38.039957"
+	},
+	{
+		"Longitude" : "-085.990389",
+		"Zipcode" : "47136",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "LANESVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.227684"
+	},
+	{
+		"Longitude" : "-086.368905",
+		"Zipcode" : "47137",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "LEAVENWORTH",
+		"State" : "IN",
+		"Latitude" : "+38.195771"
+	},
+	{
+		"Longitude" : "-085.633300",
+		"Zipcode" : "47138",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "LEXINGTON",
+		"State" : "IN",
+		"Latitude" : "+38.671281"
+	},
+	{
+		"Longitude" : "-086.078828",
+		"Zipcode" : "47139",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "LITTLE YORK",
+		"State" : "IN",
+		"Latitude" : "+38.600666"
+	},
+	{
+		"Longitude" : "-086.372687",
+		"Zipcode" : "47140",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "MARENGO",
+		"State" : "IN",
+		"Latitude" : "+38.357884"
+	},
+	{
+		"Longitude" : "-085.597466",
+		"Zipcode" : "47141",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "MARYSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.549871"
+	},
+	{
+		"Longitude" : "-086.204065",
+		"Zipcode" : "47142",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "MAUCKPORT",
+		"State" : "IN",
+		"Latitude" : "+38.073945"
+	},
+	{
+		"Longitude" : "-085.769631",
+		"Zipcode" : "47143",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "MEMPHIS",
+		"State" : "IN",
+		"Latitude" : "+38.467595"
+	},
+	{
+		"Longitude" : "-085.732062",
+		"Zipcode" : "47144",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "JEFFERSONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.286819"
+	},
+	{
+		"Longitude" : "-086.314971",
+		"Zipcode" : "47145",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "MILLTOWN",
+		"State" : "IN",
+		"Latitude" : "+38.337832"
+	},
+	{
+		"Longitude" : "-085.896961",
+		"Zipcode" : "47146",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FLOYD",
+		"City" : "MOUNT SAINT FRANCIS",
+		"State" : "IN",
+		"Latitude" : "+38.298486"
+	},
+	{
+		"Longitude" : "-085.532171",
+		"Zipcode" : "47147",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NABB",
+		"State" : "IN",
+		"Latitude" : "+38.580326"
+	},
+	{
+		"Longitude" : "-085.837911",
+		"Zipcode" : "47150",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "NEW ALBANY",
+		"State" : "IN",
+		"Latitude" : "+38.293355"
+	},
+	{
+		"Longitude" : "-085.896961",
+		"Zipcode" : "47151",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "NEW ALBANY",
+		"State" : "IN",
+		"Latitude" : "+38.298486"
+	},
+	{
+		"Longitude" : "-086.049282",
+		"Zipcode" : "47160",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "NEW MIDDLETOWN",
+		"State" : "IN",
+		"Latitude" : "+38.148843"
+	},
+	{
+		"Longitude" : "-086.105996",
+		"Zipcode" : "47161",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "NEW SALISBURY",
+		"State" : "IN",
+		"Latitude" : "+38.328025"
+	},
+	{
+		"Longitude" : "-085.486131",
+		"Zipcode" : "47162",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "NEW WASHINGTON",
+		"State" : "IN",
+		"Latitude" : "+38.550289"
+	},
+	{
+		"Longitude" : "-085.669829",
+		"Zipcode" : "47163",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "OTISCO",
+		"State" : "IN",
+		"Latitude" : "+38.535058"
+	},
+	{
+		"Longitude" : "-086.105954",
+		"Zipcode" : "47164",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "PALMYRA",
+		"State" : "IN",
+		"Latitude" : "+38.380353"
+	},
+	{
+		"Longitude" : "-086.010567",
+		"Zipcode" : "47165",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PEKIN",
+		"State" : "IN",
+		"Latitude" : "+38.512878"
+	},
+	{
+		"Longitude" : "-086.168979",
+		"Zipcode" : "47166",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "RAMSEY",
+		"State" : "IN",
+		"Latitude" : "+38.303364"
+	},
+	{
+		"Longitude" : "-086.079404",
+		"Zipcode" : "47167",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SALEM",
+		"State" : "IN",
+		"Latitude" : "+38.608621"
+	},
+	{
+		"Longitude" : "-085.772815",
+		"Zipcode" : "47170",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "SCOTTSBURG",
+		"State" : "IN",
+		"Latitude" : "+38.695648"
+	},
+	{
+		"Longitude" : "-085.787963",
+		"Zipcode" : "47172",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "SELLERSBURG",
+		"State" : "IN",
+		"Latitude" : "+38.404577"
+	},
+	{
+		"Longitude" : "-086.490751",
+		"Zipcode" : "47174",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "SULPHUR",
+		"State" : "IN",
+		"Latitude" : "+38.225880"
+	},
+	{
+		"Longitude" : "-086.546080",
+		"Zipcode" : "47175",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "TASWELL",
+		"State" : "IN",
+		"Latitude" : "+38.345487"
+	},
+	{
+		"Longitude" : "-085.748631",
+		"Zipcode" : "47177",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "UNDERWOOD",
+		"State" : "IN",
+		"Latitude" : "+38.584823"
+	},
+	{
+		"Longitude" : "-085.732062",
+		"Zipcode" : "47199",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "JEFFERSONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.286819"
+	},
+	{
+		"Longitude" : "-085.891338",
+		"Zipcode" : "47201",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTHOLOMEW",
+		"City" : "COLUMBUS",
+		"State" : "IN",
+		"Latitude" : "+39.191447"
+	},
+	{
+		"Longitude" : "-085.885168",
+		"Zipcode" : "47202",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTHOLOMEW",
+		"City" : "COLUMBUS",
+		"State" : "IN",
+		"Latitude" : "+39.192972"
+	},
+	{
+		"Longitude" : "-085.827439",
+		"Zipcode" : "47203",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTHOLOMEW",
+		"City" : "COLUMBUS",
+		"State" : "IN",
+		"Latitude" : "+39.241129"
+	},
+	{
+		"Longitude" : "-086.046452",
+		"Zipcode" : "47220",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "BROWNSTOWN",
+		"State" : "IN",
+		"Latitude" : "+38.866192"
+	},
+	{
+		"Longitude" : "-085.486831",
+		"Zipcode" : "47223",
+		"ZipClass" : "STANDARD",
+		"County" : "JENNINGS",
+		"City" : "BUTLERVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.046146"
+	},
+	{
+		"Longitude" : "-085.291935",
+		"Zipcode" : "47224",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "CANAAN",
+		"State" : "IN",
+		"Latitude" : "+38.873448"
+	},
+	{
+		"Longitude" : "-085.347677",
+		"Zipcode" : "47225",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DECATUR",
+		"City" : "CLARKSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.424072"
+	},
+	{
+		"Longitude" : "-085.868533",
+		"Zipcode" : "47226",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARTHOLOMEW",
+		"City" : "CLIFFORD",
+		"State" : "IN",
+		"Latitude" : "+39.282609"
+	},
+	{
+		"Longitude" : "-085.660004",
+		"Zipcode" : "47227",
+		"ZipClass" : "STANDARD",
+		"County" : "JENNINGS",
+		"City" : "COMMISKEY",
+		"State" : "IN",
+		"Latitude" : "+38.868992"
+	},
+	{
+		"Longitude" : "-085.962761",
+		"Zipcode" : "47228",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "CORTLAND",
+		"State" : "IN",
+		"Latitude" : "+38.974458"
+	},
+	{
+		"Longitude" : "-085.985182",
+		"Zipcode" : "47229",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "CROTHERSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.815289"
+	},
+	{
+		"Longitude" : "-085.607310",
+		"Zipcode" : "47230",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DEPUTY",
+		"State" : "IN",
+		"Latitude" : "+38.794988"
+	},
+	{
+		"Longitude" : "-085.500519",
+		"Zipcode" : "47231",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "DUPONT",
+		"State" : "IN",
+		"Latitude" : "+38.876272"
+	},
+	{
+		"Longitude" : "-085.773533",
+		"Zipcode" : "47232",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTHOLOMEW",
+		"City" : "ELIZABETHTOWN",
+		"State" : "IN",
+		"Latitude" : "+39.118884"
+	},
+	{
+		"Longitude" : "-085.772010",
+		"Zipcode" : "47234",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "FLAT ROCK",
+		"State" : "IN",
+		"Latitude" : "+39.393802"
+	},
+	{
+		"Longitude" : "-086.155545",
+		"Zipcode" : "47235",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "FREETOWN",
+		"State" : "IN",
+		"Latitude" : "+38.962837"
+	},
+	{
+		"Longitude" : "-085.726135",
+		"Zipcode" : "47236",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTHOLOMEW",
+		"City" : "GRAMMER",
+		"State" : "IN",
+		"Latitude" : "+39.152228"
+	},
+	{
+		"Longitude" : "-085.491781",
+		"Zipcode" : "47240",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "GREENSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.299802"
+	},
+	{
+		"Longitude" : "-085.376804",
+		"Zipcode" : "47243",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HANOVER",
+		"State" : "IN",
+		"Latitude" : "+38.734755"
+	},
+	{
+		"Longitude" : "-085.717648",
+		"Zipcode" : "47244",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTHOLOMEW",
+		"City" : "HARTSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.218578"
+	},
+	{
+		"Longitude" : "-085.619906",
+		"Zipcode" : "47245",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JENNINGS",
+		"City" : "HAYDEN",
+		"State" : "IN",
+		"Latitude" : "+39.001301"
+	},
+	{
+		"Longitude" : "-085.787611",
+		"Zipcode" : "47246",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTHOLOMEW",
+		"City" : "HOPE",
+		"State" : "IN",
+		"Latitude" : "+39.203360"
+	},
+	{
+		"Longitude" : "-085.888579",
+		"Zipcode" : "47247",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARTHOLOMEW",
+		"City" : "JONESVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.059349"
+	},
+	{
+		"Longitude" : "-086.056681",
+		"Zipcode" : "47249",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "KURTZ",
+		"State" : "IN",
+		"Latitude" : "+38.897974"
+	},
+	{
+		"Longitude" : "-085.420605",
+		"Zipcode" : "47250",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MADISON",
+		"State" : "IN",
+		"Latitude" : "+38.804552"
+	},
+	{
+		"Longitude" : "-086.194693",
+		"Zipcode" : "47260",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MEDORA",
+		"State" : "IN",
+		"Latitude" : "+38.840030"
+	},
+	{
+		"Longitude" : "-085.491788",
+		"Zipcode" : "47261",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DECATUR",
+		"City" : "MILLHOUSEN",
+		"State" : "IN",
+		"Latitude" : "+39.292004"
+	},
+	{
+		"Longitude" : "-085.619906",
+		"Zipcode" : "47262",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JENNINGS",
+		"City" : "NEBRASKA",
+		"State" : "IN",
+		"Latitude" : "+39.001301"
+	},
+	{
+		"Longitude" : "-085.329695",
+		"Zipcode" : "47263",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DECATUR",
+		"City" : "NEW POINT",
+		"State" : "IN",
+		"Latitude" : "+39.308252"
+	},
+	{
+		"Longitude" : "-086.236710",
+		"Zipcode" : "47264",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "NORMAN",
+		"State" : "IN",
+		"Latitude" : "+38.947371"
+	},
+	{
+		"Longitude" : "-085.622328",
+		"Zipcode" : "47265",
+		"ZipClass" : "STANDARD",
+		"County" : "JENNINGS",
+		"City" : "NORTH VERNON",
+		"State" : "IN",
+		"Latitude" : "+39.023539"
+	},
+	{
+		"Longitude" : "-085.716186",
+		"Zipcode" : "47270",
+		"ZipClass" : "STANDARD",
+		"County" : "JENNINGS",
+		"City" : "PARIS CROSSING",
+		"State" : "IN",
+		"Latitude" : "+38.867520"
+	},
+	{
+		"Longitude" : "-085.463684",
+		"Zipcode" : "47272",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "SAINT PAUL",
+		"State" : "IN",
+		"Latitude" : "+39.318000"
+	},
+	{
+		"Longitude" : "-085.733853",
+		"Zipcode" : "47273",
+		"ZipClass" : "STANDARD",
+		"County" : "JENNINGS",
+		"City" : "SCIPIO",
+		"State" : "IN",
+		"Latitude" : "+39.064795"
+	},
+	{
+		"Longitude" : "-086.010789",
+		"Zipcode" : "47274",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SEYMOUR",
+		"State" : "IN",
+		"Latitude" : "+38.944827"
+	},
+	{
+		"Longitude" : "-085.949844",
+		"Zipcode" : "47280",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARTHOLOMEW",
+		"City" : "TAYLORSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.295266"
+	},
+	{
+		"Longitude" : "-086.092983",
+		"Zipcode" : "47281",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "VALLONIA",
+		"State" : "IN",
+		"Latitude" : "+38.814419"
+	},
+	{
+		"Longitude" : "-085.616595",
+		"Zipcode" : "47282",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JENNINGS",
+		"City" : "VERNON",
+		"State" : "IN",
+		"Latitude" : "+38.982509"
+	},
+	{
+		"Longitude" : "-085.564278",
+		"Zipcode" : "47283",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "WESTPORT",
+		"State" : "IN",
+		"Latitude" : "+39.241181"
+	},
+	{
+		"Longitude" : "-085.389874",
+		"Zipcode" : "47302",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "MUNCIE",
+		"State" : "IN",
+		"Latitude" : "+40.142124"
+	},
+	{
+		"Longitude" : "-085.383447",
+		"Zipcode" : "47303",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "MUNCIE",
+		"State" : "IN",
+		"Latitude" : "+40.280332"
+	},
+	{
+		"Longitude" : "-085.484122",
+		"Zipcode" : "47304",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "MUNCIE",
+		"State" : "IN",
+		"Latitude" : "+40.238544"
+	},
+	{
+		"Longitude" : "-085.433223",
+		"Zipcode" : "47305",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "MUNCIE",
+		"State" : "IN",
+		"Latitude" : "+40.247979"
+	},
+	{
+		"Longitude" : "-085.408221",
+		"Zipcode" : "47306",
+		"ZipClass" : "UNIQUE",
+		"County" : "DELAWARE",
+		"City" : "MUNCIE",
+		"State" : "IN",
+		"Latitude" : "+40.202293"
+	},
+	{
+		"Longitude" : "-085.442772",
+		"Zipcode" : "47307",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "MUNCIE",
+		"State" : "IN",
+		"Latitude" : "+40.162093"
+	},
+	{
+		"Longitude" : "-085.396685",
+		"Zipcode" : "47308",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "MUNCIE",
+		"State" : "IN",
+		"Latitude" : "+40.227938"
+	},
+	{
+		"Longitude" : "-085.274125",
+		"Zipcode" : "47320",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "ALBANY",
+		"State" : "IN",
+		"Latitude" : "+40.277967"
+	},
+	{
+		"Longitude" : "-085.167996",
+		"Zipcode" : "47322",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAYETTE",
+		"City" : "BENTONVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.656994"
+	},
+	{
+		"Longitude" : "-084.848442",
+		"Zipcode" : "47324",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "BOSTON",
+		"State" : "IN",
+		"Latitude" : "+39.757864"
+	},
+	{
+		"Longitude" : "-084.995266",
+		"Zipcode" : "47325",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "BROWNSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.682946"
+	},
+	{
+		"Longitude" : "-084.982803",
+		"Zipcode" : "47326",
+		"ZipClass" : "STANDARD",
+		"County" : "JAY",
+		"City" : "BRYANT",
+		"State" : "IN",
+		"Latitude" : "+40.541160"
+	},
+	{
+		"Longitude" : "-085.035364",
+		"Zipcode" : "47327",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "CAMBRIDGE CITY",
+		"State" : "IN",
+		"Latitude" : "+39.848569"
+	},
+	{
+		"Longitude" : "-084.986277",
+		"Zipcode" : "47330",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "CENTERVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.787438"
+	},
+	{
+		"Longitude" : "-085.168099",
+		"Zipcode" : "47331",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "CONNERSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.656933"
+	},
+	{
+		"Longitude" : "-085.508457",
+		"Zipcode" : "47334",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "DALEVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.143843"
+	},
+	{
+		"Longitude" : "-085.204359",
+		"Zipcode" : "47335",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "DUBLIN",
+		"State" : "IN",
+		"Latitude" : "+39.812688"
+	},
+	{
+		"Longitude" : "-085.091124",
+		"Zipcode" : "47336",
+		"ZipClass" : "STANDARD",
+		"County" : "JAY",
+		"City" : "DUNKIRK",
+		"State" : "IN",
+		"Latitude" : "+40.435250"
+	},
+	{
+		"Longitude" : "-085.437110",
+		"Zipcode" : "47337",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENRY",
+		"City" : "DUNREITH",
+		"State" : "IN",
+		"Latitude" : "+39.803063"
+	},
+	{
+		"Longitude" : "-085.338738",
+		"Zipcode" : "47338",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "EATON",
+		"State" : "IN",
+		"Latitude" : "+40.252982"
+	},
+	{
+		"Longitude" : "-085.102314",
+		"Zipcode" : "47339",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "ECONOMY",
+		"State" : "IN",
+		"Latitude" : "+39.961044"
+	},
+	{
+		"Longitude" : "-085.145580",
+		"Zipcode" : "47340",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "FARMLAND",
+		"State" : "IN",
+		"Latitude" : "+40.187565"
+	},
+	{
+		"Longitude" : "-084.995365",
+		"Zipcode" : "47341",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "FOUNTAIN CITY",
+		"State" : "IN",
+		"Latitude" : "+39.864218"
+	},
+	{
+		"Longitude" : "-085.432657",
+		"Zipcode" : "47342",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "GASTON",
+		"State" : "IN",
+		"Latitude" : "+40.309361"
+	},
+	{
+		"Longitude" : "-085.464036",
+		"Zipcode" : "47344",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENRY",
+		"City" : "GREENSBORO",
+		"State" : "IN",
+		"Latitude" : "+39.878933"
+	},
+	{
+		"Longitude" : "-085.013775",
+		"Zipcode" : "47345",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "GREENS FORK",
+		"State" : "IN",
+		"Latitude" : "+39.893845"
+	},
+	{
+		"Longitude" : "-085.059670",
+		"Zipcode" : "47346",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "HAGERSTOWN",
+		"State" : "IN",
+		"Latitude" : "+39.895789"
+	},
+	{
+		"Longitude" : "-085.326447",
+		"Zipcode" : "47348",
+		"ZipClass" : "STANDARD",
+		"County" : "BLACKFORD",
+		"City" : "HARTFORD CITY",
+		"State" : "IN",
+		"Latitude" : "+40.472672"
+	},
+	{
+		"Longitude" : "-085.520548",
+		"Zipcode" : "47351",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENRY",
+		"City" : "KENNARD",
+		"State" : "IN",
+		"Latitude" : "+39.904018"
+	},
+	{
+		"Longitude" : "-085.372732",
+		"Zipcode" : "47352",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "LEWISVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.830372"
+	},
+	{
+		"Longitude" : "-084.925002",
+		"Zipcode" : "47353",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "LIBERTY",
+		"State" : "IN",
+		"Latitude" : "+39.625149"
+	},
+	{
+		"Longitude" : "-085.170510",
+		"Zipcode" : "47354",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "LOSANTVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.048148"
+	},
+	{
+		"Longitude" : "-084.941102",
+		"Zipcode" : "47355",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "LYNN",
+		"State" : "IN",
+		"Latitude" : "+40.055775"
+	},
+	{
+		"Longitude" : "-085.462793",
+		"Zipcode" : "47356",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "MIDDLETOWN",
+		"State" : "IN",
+		"Latitude" : "+39.941555"
+	},
+	{
+		"Longitude" : "-085.109015",
+		"Zipcode" : "47357",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "MILTON",
+		"State" : "IN",
+		"Latitude" : "+39.764911"
+	},
+	{
+		"Longitude" : "-085.108514",
+		"Zipcode" : "47358",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "MODOC",
+		"State" : "IN",
+		"Latitude" : "+40.055419"
+	},
+	{
+		"Longitude" : "-085.295619",
+		"Zipcode" : "47359",
+		"ZipClass" : "STANDARD",
+		"County" : "BLACKFORD",
+		"City" : "MONTPELIER",
+		"State" : "IN",
+		"Latitude" : "+40.515895"
+	},
+	{
+		"Longitude" : "-085.293037",
+		"Zipcode" : "47360",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "MOORELAND",
+		"State" : "IN",
+		"Latitude" : "+40.016410"
+	},
+	{
+		"Longitude" : "-085.319923",
+		"Zipcode" : "47361",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENRY",
+		"City" : "MOUNT SUMMIT",
+		"State" : "IN",
+		"Latitude" : "+40.001295"
+	},
+	{
+		"Longitude" : "-085.366926",
+		"Zipcode" : "47362",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "NEW CASTLE",
+		"State" : "IN",
+		"Latitude" : "+39.924870"
+	},
+	{
+		"Longitude" : "-085.398625",
+		"Zipcode" : "47366",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENRY",
+		"City" : "NEW LISBON",
+		"State" : "IN",
+		"Latitude" : "+39.931785"
+	},
+	{
+		"Longitude" : "-085.389978",
+		"Zipcode" : "47367",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DELAWARE",
+		"City" : "OAKVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.079197"
+	},
+	{
+		"Longitude" : "-085.173858",
+		"Zipcode" : "47368",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "PARKER CITY",
+		"State" : "IN",
+		"Latitude" : "+40.174184"
+	},
+	{
+		"Longitude" : "-085.133813",
+		"Zipcode" : "47369",
+		"ZipClass" : "STANDARD",
+		"County" : "JAY",
+		"City" : "PENNVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.457413"
+	},
+	{
+		"Longitude" : "-085.147437",
+		"Zipcode" : "47370",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "PERSHING",
+		"State" : "IN",
+		"Latitude" : "+39.861314"
+	},
+	{
+		"Longitude" : "-084.983015",
+		"Zipcode" : "47371",
+		"ZipClass" : "STANDARD",
+		"County" : "JAY",
+		"City" : "PORTLAND",
+		"State" : "IN",
+		"Latitude" : "+40.431634"
+	},
+	{
+		"Longitude" : "-085.151994",
+		"Zipcode" : "47373",
+		"ZipClass" : "STANDARD",
+		"County" : "JAY",
+		"City" : "REDKEY",
+		"State" : "IN",
+		"Latitude" : "+40.359568"
+	},
+	{
+		"Longitude" : "-085.010442",
+		"Zipcode" : "47374",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "RICHMOND",
+		"State" : "IN",
+		"Latitude" : "+39.840810"
+	},
+	{
+		"Longitude" : "-085.015983",
+		"Zipcode" : "47375",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "RICHMOND",
+		"State" : "IN",
+		"Latitude" : "+39.860417"
+	},
+	{
+		"Longitude" : "-085.048286",
+		"Zipcode" : "47380",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "RIDGEVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.167082"
+	},
+	{
+		"Longitude" : "-084.882263",
+		"Zipcode" : "47381",
+		"ZipClass" : "STANDARD",
+		"County" : "JAY",
+		"City" : "SALAMONIA",
+		"State" : "IN",
+		"Latitude" : "+40.378574"
+	},
+	{
+		"Longitude" : "-084.918480",
+		"Zipcode" : "47382",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANDOLPH",
+		"City" : "SARATOGA",
+		"State" : "IN",
+		"Latitude" : "+40.234703"
+	},
+	{
+		"Longitude" : "-085.265562",
+		"Zipcode" : "47383",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "SELMA",
+		"State" : "IN",
+		"Latitude" : "+40.151780"
+	},
+	{
+		"Longitude" : "-085.485528",
+		"Zipcode" : "47384",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "SHIRLEY",
+		"State" : "IN",
+		"Latitude" : "+39.946332"
+	},
+	{
+		"Longitude" : "-085.450834",
+		"Zipcode" : "47385",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "SPICELAND",
+		"State" : "IN",
+		"Latitude" : "+39.917250"
+	},
+	{
+		"Longitude" : "-085.383768",
+		"Zipcode" : "47386",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "SPRINGPORT",
+		"State" : "IN",
+		"Latitude" : "+40.011128"
+	},
+	{
+		"Longitude" : "-085.284275",
+		"Zipcode" : "47387",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "STRAUGHN",
+		"State" : "IN",
+		"Latitude" : "+39.830590"
+	},
+	{
+		"Longitude" : "-085.443410",
+		"Zipcode" : "47388",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENRY",
+		"City" : "SULPHUR SPRINGS",
+		"State" : "IN",
+		"Latitude" : "+40.005999"
+	},
+	{
+		"Longitude" : "-085.006297",
+		"Zipcode" : "47390",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "UNION CITY",
+		"State" : "IN",
+		"Latitude" : "+40.166457"
+	},
+	{
+		"Longitude" : "-084.935057",
+		"Zipcode" : "47392",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "WEBSTER",
+		"State" : "IN",
+		"Latitude" : "+39.911895"
+	},
+	{
+		"Longitude" : "-085.028032",
+		"Zipcode" : "47393",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "WILLIAMSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.930541"
+	},
+	{
+		"Longitude" : "-084.984682",
+		"Zipcode" : "47394",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "WINCHESTER",
+		"State" : "IN",
+		"Latitude" : "+40.159854"
+	},
+	{
+		"Longitude" : "-085.509272",
+		"Zipcode" : "47396",
+		"ZipClass" : "STANDARD",
+		"County" : "DELAWARE",
+		"City" : "YORKTOWN",
+		"State" : "IN",
+		"Latitude" : "+40.198550"
+	},
+	{
+		"Longitude" : "-086.435094",
+		"Zipcode" : "47401",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.078810"
+	},
+	{
+		"Longitude" : "-086.501543",
+		"Zipcode" : "47402",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.173234"
+	},
+	{
+		"Longitude" : "-086.592389",
+		"Zipcode" : "47403",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.078840"
+	},
+	{
+		"Longitude" : "-086.580849",
+		"Zipcode" : "47404",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.250070"
+	},
+	{
+		"Longitude" : "-086.515145",
+		"Zipcode" : "47405",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.173447"
+	},
+	{
+		"Longitude" : "-086.518296",
+		"Zipcode" : "47406",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.174541"
+	},
+	{
+		"Longitude" : "-086.501543",
+		"Zipcode" : "47407",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.173234"
+	},
+	{
+		"Longitude" : "-086.469187",
+		"Zipcode" : "47408",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.230326"
+	},
+	{
+		"Longitude" : "-086.479430",
+		"Zipcode" : "47420",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAWRENCE",
+		"City" : "AVOCA",
+		"State" : "IN",
+		"Latitude" : "+38.839482"
+	},
+	{
+		"Longitude" : "-086.525843",
+		"Zipcode" : "47421",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "BEDFORD",
+		"State" : "IN",
+		"Latitude" : "+38.890524"
+	},
+	{
+		"Longitude" : "-086.838359",
+		"Zipcode" : "47424",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "BLOOMFIELD",
+		"State" : "IN",
+		"Latitude" : "+39.031541"
+	},
+	{
+		"Longitude" : "-086.501543",
+		"Zipcode" : "47426",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "CLEAR CREEK",
+		"State" : "IN",
+		"Latitude" : "+39.173234"
+	},
+	{
+		"Longitude" : "-086.842743",
+		"Zipcode" : "47427",
+		"ZipClass" : "STANDARD",
+		"County" : "OWEN",
+		"City" : "COAL CITY",
+		"State" : "IN",
+		"Latitude" : "+39.319527"
+	},
+	{
+		"Longitude" : "-086.626580",
+		"Zipcode" : "47429",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "ELLETTSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.276356"
+	},
+	{
+		"Longitude" : "-086.479430",
+		"Zipcode" : "47430",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAWRENCE",
+		"City" : "FORT RITNER",
+		"State" : "IN",
+		"Latitude" : "+38.839482"
+	},
+	{
+		"Longitude" : "-086.842743",
+		"Zipcode" : "47431",
+		"ZipClass" : "STANDARD",
+		"County" : "OWEN",
+		"City" : "FREEDOM",
+		"State" : "IN",
+		"Latitude" : "+39.319527"
+	},
+	{
+		"Longitude" : "-086.587861",
+		"Zipcode" : "47432",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "FRENCH LICK",
+		"State" : "IN",
+		"Latitude" : "+38.486914"
+	},
+	{
+		"Longitude" : "-086.701332",
+		"Zipcode" : "47433",
+		"ZipClass" : "STANDARD",
+		"County" : "OWEN",
+		"City" : "GOSPORT",
+		"State" : "IN",
+		"Latitude" : "+39.346964"
+	},
+	{
+		"Longitude" : "-086.545732",
+		"Zipcode" : "47434",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "HARRODSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.012984"
+	},
+	{
+		"Longitude" : "-086.230212",
+		"Zipcode" : "47435",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BROWN",
+		"City" : "HELMSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.196272"
+	},
+	{
+		"Longitude" : "-086.479430",
+		"Zipcode" : "47436",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "HELTONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.839482"
+	},
+	{
+		"Longitude" : "-086.670987",
+		"Zipcode" : "47437",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAWRENCE",
+		"City" : "HURON",
+		"State" : "IN",
+		"Latitude" : "+38.722153"
+	},
+	{
+		"Longitude" : "-086.992896",
+		"Zipcode" : "47438",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "JASONVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.078835"
+	},
+	{
+		"Longitude" : "-086.961577",
+		"Zipcode" : "47439",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENE",
+		"City" : "KOLEEN",
+		"State" : "IN",
+		"Latitude" : "+39.037144"
+	},
+	{
+		"Longitude" : "-087.126965",
+		"Zipcode" : "47441",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "LINTON",
+		"State" : "IN",
+		"Latitude" : "+39.049630"
+	},
+	{
+		"Longitude" : "-087.102958",
+		"Zipcode" : "47443",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "LYONS",
+		"State" : "IN",
+		"Latitude" : "+38.988255"
+	},
+	{
+		"Longitude" : "-086.961577",
+		"Zipcode" : "47445",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENE",
+		"City" : "MIDLAND",
+		"State" : "IN",
+		"Latitude" : "+39.037144"
+	},
+	{
+		"Longitude" : "-086.503260",
+		"Zipcode" : "47446",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "MITCHELL",
+		"State" : "IN",
+		"Latitude" : "+38.803928"
+	},
+	{
+		"Longitude" : "-086.226228",
+		"Zipcode" : "47448",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "NASHVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.180583"
+	},
+	{
+		"Longitude" : "-086.961577",
+		"Zipcode" : "47449",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "NEWBERRY",
+		"State" : "IN",
+		"Latitude" : "+39.037144"
+	},
+	{
+		"Longitude" : "-086.525522",
+		"Zipcode" : "47451",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "OOLITIC",
+		"State" : "IN",
+		"Latitude" : "+38.895608"
+	},
+	{
+		"Longitude" : "-086.451946",
+		"Zipcode" : "47452",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "ORLEANS",
+		"State" : "IN",
+		"Latitude" : "+38.586595"
+	},
+	{
+		"Longitude" : "-086.961577",
+		"Zipcode" : "47453",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "OWENSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.037144"
+	},
+	{
+		"Longitude" : "-086.459473",
+		"Zipcode" : "47454",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "PAOLI",
+		"State" : "IN",
+		"Latitude" : "+38.513132"
+	},
+	{
+		"Longitude" : "-086.842743",
+		"Zipcode" : "47455",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OWEN",
+		"City" : "PATRICKSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.319527"
+	},
+	{
+		"Longitude" : "-086.669559",
+		"Zipcode" : "47456",
+		"ZipClass" : "STANDARD",
+		"County" : "OWEN",
+		"City" : "QUINCY",
+		"State" : "IN",
+		"Latitude" : "+39.442888"
+	},
+	{
+		"Longitude" : "-086.961577",
+		"Zipcode" : "47457",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENE",
+		"City" : "SCOTLAND",
+		"State" : "IN",
+		"Latitude" : "+39.037144"
+	},
+	{
+		"Longitude" : "-086.501543",
+		"Zipcode" : "47458",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "SMITHVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.173234"
+	},
+	{
+		"Longitude" : "-086.737060",
+		"Zipcode" : "47459",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "SOLSBERRY",
+		"State" : "IN",
+		"Latitude" : "+39.104137"
+	},
+	{
+		"Longitude" : "-086.756423",
+		"Zipcode" : "47460",
+		"ZipClass" : "STANDARD",
+		"County" : "OWEN",
+		"City" : "SPENCER",
+		"State" : "IN",
+		"Latitude" : "+39.313258"
+	},
+	{
+		"Longitude" : "-086.584408",
+		"Zipcode" : "47462",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SPRINGVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.941408"
+	},
+	{
+		"Longitude" : "-086.668900",
+		"Zipcode" : "47463",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "STANFORD",
+		"State" : "IN",
+		"Latitude" : "+39.085896"
+	},
+	{
+		"Longitude" : "-086.648201",
+		"Zipcode" : "47464",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "STINESVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.299823"
+	},
+	{
+		"Longitude" : "-086.961577",
+		"Zipcode" : "47465",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "SWITZ CITY",
+		"State" : "IN",
+		"Latitude" : "+39.037144"
+	},
+	{
+		"Longitude" : "-086.479430",
+		"Zipcode" : "47467",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAWRENCE",
+		"City" : "TUNNELTON",
+		"State" : "IN",
+		"Latitude" : "+38.839482"
+	},
+	{
+		"Longitude" : "-086.421060",
+		"Zipcode" : "47468",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "UNIONVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.274735"
+	},
+	{
+		"Longitude" : "-086.589851",
+		"Zipcode" : "47469",
+		"ZipClass" : "STANDARD",
+		"County" : "ORANGE",
+		"City" : "WEST BADEN SPRINGS",
+		"State" : "IN",
+		"Latitude" : "+38.620834"
+	},
+	{
+		"Longitude" : "-086.479430",
+		"Zipcode" : "47470",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "WILLIAMS",
+		"State" : "IN",
+		"Latitude" : "+38.839482"
+	},
+	{
+		"Longitude" : "-086.970755",
+		"Zipcode" : "47471",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "WORTHINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.124289"
+	},
+	{
+		"Longitude" : "-086.501543",
+		"Zipcode" : "47490",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONROE",
+		"City" : "BLOOMINGTON",
+		"State" : "IN",
+		"Latitude" : "+39.173234"
+	},
+	{
+		"Longitude" : "-087.121505",
+		"Zipcode" : "47501",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "WASHINGTON",
+		"State" : "IN",
+		"Latitude" : "+38.689503"
+	},
+	{
+		"Longitude" : "-087.346192",
+		"Zipcode" : "47512",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "BICKNELL",
+		"State" : "IN",
+		"Latitude" : "+38.741286"
+	},
+	{
+		"Longitude" : "-086.820726",
+		"Zipcode" : "47513",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "BIRDSEYE",
+		"State" : "IN",
+		"Latitude" : "+38.326772"
+	},
+	{
+		"Longitude" : "-086.621994",
+		"Zipcode" : "47514",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "BRANCHVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.053876"
+	},
+	{
+		"Longitude" : "-086.682068",
+		"Zipcode" : "47515",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "BRISTOW",
+		"State" : "IN",
+		"Latitude" : "+38.198133"
+	},
+	{
+		"Longitude" : "-087.417076",
+		"Zipcode" : "47516",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "BRUCEVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.761354"
+	},
+	{
+		"Longitude" : "-087.091762",
+		"Zipcode" : "47519",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "CANNELBURG",
+		"State" : "IN",
+		"Latitude" : "+38.697289"
+	},
+	{
+		"Longitude" : "-086.715557",
+		"Zipcode" : "47520",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "CANNELTON",
+		"State" : "IN",
+		"Latitude" : "+37.949544"
+	},
+	{
+		"Longitude" : "-086.742618",
+		"Zipcode" : "47521",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "CELESTINE",
+		"State" : "IN",
+		"Latitude" : "+38.406745"
+	},
+	{
+		"Longitude" : "-086.900174",
+		"Zipcode" : "47522",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "CRANE",
+		"State" : "IN",
+		"Latitude" : "+38.894879"
+	},
+	{
+		"Longitude" : "-086.946217",
+		"Zipcode" : "47523",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "DALE",
+		"State" : "IN",
+		"Latitude" : "+38.149611"
+	},
+	{
+		"Longitude" : "-087.511863",
+		"Zipcode" : "47524",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "DECKER",
+		"State" : "IN",
+		"Latitude" : "+38.626138"
+	},
+	{
+		"Longitude" : "-086.565129",
+		"Zipcode" : "47525",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "DERBY",
+		"State" : "IN",
+		"Latitude" : "+38.020017"
+	},
+	{
+		"Longitude" : "-086.777335",
+		"Zipcode" : "47527",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "DUBOIS",
+		"State" : "IN",
+		"Latitude" : "+38.439461"
+	},
+	{
+		"Longitude" : "-087.382710",
+		"Zipcode" : "47528",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "EDWARDSPORT",
+		"State" : "IN",
+		"Latitude" : "+38.786795"
+	},
+	{
+		"Longitude" : "-087.085001",
+		"Zipcode" : "47529",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "ELNORA",
+		"State" : "IN",
+		"Latitude" : "+38.877167"
+	},
+	{
+		"Longitude" : "-086.864745",
+		"Zipcode" : "47531",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "EVANSTON",
+		"State" : "IN",
+		"Latitude" : "+38.045062"
+	},
+	{
+		"Longitude" : "-086.867492",
+		"Zipcode" : "47532",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "FERDINAND",
+		"State" : "IN",
+		"Latitude" : "+38.251171"
+	},
+	{
+		"Longitude" : "-087.312678",
+		"Zipcode" : "47535",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOX",
+		"City" : "FREELANDVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.862735"
+	},
+	{
+		"Longitude" : "-087.016971",
+		"Zipcode" : "47536",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "FULDA",
+		"State" : "IN",
+		"Latitude" : "+37.993813"
+	},
+	{
+		"Longitude" : "-087.049834",
+		"Zipcode" : "47537",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "GENTRYVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.080052"
+	},
+	{
+		"Longitude" : "-087.007734",
+		"Zipcode" : "47541",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "HOLLAND",
+		"State" : "IN",
+		"Latitude" : "+38.249617"
+	},
+	{
+		"Longitude" : "-086.952413",
+		"Zipcode" : "47542",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "HUNTINGBURG",
+		"State" : "IN",
+		"Latitude" : "+38.298972"
+	},
+	{
+		"Longitude" : "-087.000879",
+		"Zipcode" : "47545",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DUBOIS",
+		"City" : "IRELAND",
+		"State" : "IN",
+		"Latitude" : "+38.413687"
+	},
+	{
+		"Longitude" : "-086.929481",
+		"Zipcode" : "47546",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "JASPER",
+		"State" : "IN",
+		"Latitude" : "+38.360357"
+	},
+	{
+		"Longitude" : "-086.876173",
+		"Zipcode" : "47547",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "JASPER",
+		"State" : "IN",
+		"Latitude" : "+38.364749"
+	},
+	{
+		"Longitude" : "-086.876173",
+		"Zipcode" : "47549",
+		"ZipClass" : "UNIQUE",
+		"County" : "DUBOIS",
+		"City" : "JASPER",
+		"State" : "IN",
+		"Latitude" : "+38.364749"
+	},
+	{
+		"Longitude" : "-086.949710",
+		"Zipcode" : "47550",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "LAMAR",
+		"State" : "IN",
+		"Latitude" : "+38.042888"
+	},
+	{
+		"Longitude" : "-086.570969",
+		"Zipcode" : "47551",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "LEOPOLD",
+		"State" : "IN",
+		"Latitude" : "+38.127658"
+	},
+	{
+		"Longitude" : "-086.995988",
+		"Zipcode" : "47552",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "LINCOLN CITY",
+		"State" : "IN",
+		"Latitude" : "+38.124192"
+	},
+	{
+		"Longitude" : "-086.912985",
+		"Zipcode" : "47553",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "LOOGOOTEE",
+		"State" : "IN",
+		"Latitude" : "+38.771691"
+	},
+	{
+		"Longitude" : "-086.917205",
+		"Zipcode" : "47556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPENCER",
+		"City" : "MARIAH HILL",
+		"State" : "IN",
+		"Latitude" : "+38.166440"
+	},
+	{
+		"Longitude" : "-087.368456",
+		"Zipcode" : "47557",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "MONROE CITY",
+		"State" : "IN",
+		"Latitude" : "+38.590433"
+	},
+	{
+		"Longitude" : "-087.091762",
+		"Zipcode" : "47558",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "MONTGOMERY",
+		"State" : "IN",
+		"Latitude" : "+38.697289"
+	},
+	{
+		"Longitude" : "-087.388134",
+		"Zipcode" : "47561",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "OAKTOWN",
+		"State" : "IN",
+		"Latitude" : "+38.709818"
+	},
+	{
+		"Longitude" : "-086.986145",
+		"Zipcode" : "47562",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "ODON",
+		"State" : "IN",
+		"Latitude" : "+38.841866"
+	},
+	{
+		"Longitude" : "-087.128545",
+		"Zipcode" : "47564",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "OTWELL",
+		"State" : "IN",
+		"Latitude" : "+38.477976"
+	},
+	{
+		"Longitude" : "-087.298174",
+		"Zipcode" : "47567",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "PETERSBURG",
+		"State" : "IN",
+		"Latitude" : "+38.459787"
+	},
+	{
+		"Longitude" : "-087.091762",
+		"Zipcode" : "47568",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "PLAINVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.697289"
+	},
+	{
+		"Longitude" : "-087.321357",
+		"Zipcode" : "47573",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOX",
+		"City" : "RAGSDALE",
+		"State" : "IN",
+		"Latitude" : "+38.744136"
+	},
+	{
+		"Longitude" : "-086.534002",
+		"Zipcode" : "47574",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "ROME",
+		"State" : "IN",
+		"Latitude" : "+37.937193"
+	},
+	{
+		"Longitude" : "-086.823444",
+		"Zipcode" : "47575",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "SAINT ANTHONY",
+		"State" : "IN",
+		"Latitude" : "+38.321125"
+	},
+	{
+		"Longitude" : "-086.649020",
+		"Zipcode" : "47576",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "SAINT CROIX",
+		"State" : "IN",
+		"Latitude" : "+38.152479"
+	},
+	{
+		"Longitude" : "-086.821891",
+		"Zipcode" : "47577",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "SAINT MEINRAD",
+		"State" : "IN",
+		"Latitude" : "+38.141725"
+	},
+	{
+		"Longitude" : "-087.195940",
+		"Zipcode" : "47578",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "SANDBORN",
+		"State" : "IN",
+		"Latitude" : "+38.881471"
+	},
+	{
+		"Longitude" : "-086.928645",
+		"Zipcode" : "47579",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "SANTA CLAUS",
+		"State" : "IN",
+		"Latitude" : "+38.117579"
+	},
+	{
+		"Longitude" : "-086.912488",
+		"Zipcode" : "47580",
+		"ZipClass" : "STANDARD",
+		"County" : "DUBOIS",
+		"City" : "SCHNELLVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.352759"
+	},
+	{
+		"Longitude" : "-086.788412",
+		"Zipcode" : "47581",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "SHOALS",
+		"State" : "IN",
+		"Latitude" : "+38.669976"
+	},
+	{
+		"Longitude" : "-087.230482",
+		"Zipcode" : "47584",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "SPURGEON",
+		"State" : "IN",
+		"Latitude" : "+38.263760"
+	},
+	{
+		"Longitude" : "-087.147783",
+		"Zipcode" : "47585",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "STENDAL",
+		"State" : "IN",
+		"Latitude" : "+38.271004"
+	},
+	{
+		"Longitude" : "-086.731971",
+		"Zipcode" : "47586",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "TELL CITY",
+		"State" : "IN",
+		"Latitude" : "+37.999711"
+	},
+	{
+		"Longitude" : "-086.798123",
+		"Zipcode" : "47588",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "TROY",
+		"State" : "IN",
+		"Latitude" : "+38.033118"
+	},
+	{
+		"Longitude" : "-087.109044",
+		"Zipcode" : "47590",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "VELPEN",
+		"State" : "IN",
+		"Latitude" : "+38.367402"
+	},
+	{
+		"Longitude" : "-087.417306",
+		"Zipcode" : "47591",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "VINCENNES",
+		"State" : "IN",
+		"Latitude" : "+38.707231"
+	},
+	{
+		"Longitude" : "-087.331800",
+		"Zipcode" : "47596",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOX",
+		"City" : "WESTPHALIA",
+		"State" : "IN",
+		"Latitude" : "+38.791556"
+	},
+	{
+		"Longitude" : "-087.329395",
+		"Zipcode" : "47597",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "WHEATLAND",
+		"State" : "IN",
+		"Latitude" : "+38.656969"
+	},
+	{
+		"Longitude" : "-087.211093",
+		"Zipcode" : "47598",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "WINSLOW",
+		"State" : "IN",
+		"Latitude" : "+38.372926"
+	},
+	{
+		"Longitude" : "-087.287145",
+		"Zipcode" : "47601",
+		"ZipClass" : "STANDARD",
+		"County" : "WARRICK",
+		"City" : "BOONVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.042470"
+	},
+	{
+		"Longitude" : "-087.267847",
+		"Zipcode" : "47610",
+		"ZipClass" : "STANDARD",
+		"County" : "WARRICK",
+		"City" : "CHANDLER",
+		"State" : "IN",
+		"Latitude" : "+38.054569"
+	},
+	{
+		"Longitude" : "-086.970053",
+		"Zipcode" : "47611",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "CHRISNEY",
+		"State" : "IN",
+		"Latitude" : "+38.031396"
+	},
+	{
+		"Longitude" : "-087.711423",
+		"Zipcode" : "47612",
+		"ZipClass" : "STANDARD",
+		"County" : "POSEY",
+		"City" : "CYNTHIANA",
+		"State" : "IN",
+		"Latitude" : "+38.175698"
+	},
+	{
+		"Longitude" : "-087.416104",
+		"Zipcode" : "47613",
+		"ZipClass" : "STANDARD",
+		"County" : "WARRICK",
+		"City" : "ELBERFELD",
+		"State" : "IN",
+		"Latitude" : "+38.128931"
+	},
+	{
+		"Longitude" : "-087.163636",
+		"Zipcode" : "47614",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARRICK",
+		"City" : "FOLSOMVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.130034"
+	},
+	{
+		"Longitude" : "-086.996351",
+		"Zipcode" : "47615",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "GRANDVIEW",
+		"State" : "IN",
+		"Latitude" : "+38.003542"
+	},
+	{
+		"Longitude" : "-087.917010",
+		"Zipcode" : "47616",
+		"ZipClass" : "STANDARD",
+		"County" : "POSEY",
+		"City" : "GRIFFIN",
+		"State" : "IN",
+		"Latitude" : "+38.190994"
+	},
+	{
+		"Longitude" : "-087.249886",
+		"Zipcode" : "47617",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SPENCER",
+		"City" : "HATFIELD",
+		"State" : "IN",
+		"Latitude" : "+37.903557"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47618",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VANDERBURGH",
+		"City" : "INGLEFIELD",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.283955",
+		"Zipcode" : "47619",
+		"ZipClass" : "STANDARD",
+		"County" : "WARRICK",
+		"City" : "LYNNVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.162899"
+	},
+	{
+		"Longitude" : "-087.868228",
+		"Zipcode" : "47620",
+		"ZipClass" : "STANDARD",
+		"County" : "POSEY",
+		"City" : "MOUNT VERNON",
+		"State" : "IN",
+		"Latitude" : "+37.961781"
+	},
+	{
+		"Longitude" : "-087.245214",
+		"Zipcode" : "47629",
+		"ZipClass" : "STANDARD",
+		"County" : "WARRICK",
+		"City" : "NEWBURGH",
+		"State" : "IN",
+		"Latitude" : "+38.062420"
+	},
+	{
+		"Longitude" : "-087.283581",
+		"Zipcode" : "47630",
+		"ZipClass" : "STANDARD",
+		"County" : "WARRICK",
+		"City" : "NEWBURGH",
+		"State" : "IN",
+		"Latitude" : "+38.038331"
+	},
+	{
+		"Longitude" : "-087.898765",
+		"Zipcode" : "47631",
+		"ZipClass" : "STANDARD",
+		"County" : "POSEY",
+		"City" : "NEW HARMONY",
+		"State" : "IN",
+		"Latitude" : "+38.101827"
+	},
+	{
+		"Longitude" : "-087.786303",
+		"Zipcode" : "47633",
+		"ZipClass" : "STANDARD",
+		"County" : "POSEY",
+		"City" : "POSEYVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.148016"
+	},
+	{
+		"Longitude" : "-087.136282",
+		"Zipcode" : "47634",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "RICHLAND",
+		"State" : "IN",
+		"Latitude" : "+37.975392"
+	},
+	{
+		"Longitude" : "-087.033681",
+		"Zipcode" : "47635",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "ROCKPORT",
+		"State" : "IN",
+		"Latitude" : "+37.929173"
+	},
+	{
+		"Longitude" : "-087.244937",
+		"Zipcode" : "47637",
+		"ZipClass" : "STANDARD",
+		"County" : "WARRICK",
+		"City" : "TENNYSON",
+		"State" : "IN",
+		"Latitude" : "+38.118439"
+	},
+	{
+		"Longitude" : "-087.783602",
+		"Zipcode" : "47638",
+		"ZipClass" : "STANDARD",
+		"County" : "POSEY",
+		"City" : "WADESVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.069277"
+	},
+	{
+		"Longitude" : "-087.577358",
+		"Zipcode" : "47639",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "HAUBSTADT",
+		"State" : "IN",
+		"Latitude" : "+38.202701"
+	},
+	{
+		"Longitude" : "-087.473674",
+		"Zipcode" : "47640",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "HAZLETON",
+		"State" : "IN",
+		"Latitude" : "+38.384971"
+	},
+	{
+		"Longitude" : "-087.651777",
+		"Zipcode" : "47647",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "BUCKSKIN",
+		"State" : "IN",
+		"Latitude" : "+38.349490"
+	},
+	{
+		"Longitude" : "-087.518339",
+		"Zipcode" : "47648",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "FORT BRANCH",
+		"State" : "IN",
+		"Latitude" : "+38.305120"
+	},
+	{
+		"Longitude" : "-087.447826",
+		"Zipcode" : "47649",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "FRANCISCO",
+		"State" : "IN",
+		"Latitude" : "+38.331581"
+	},
+	{
+		"Longitude" : "-087.651777",
+		"Zipcode" : "47654",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GIBSON",
+		"City" : "MACKEY",
+		"State" : "IN",
+		"Latitude" : "+38.349490"
+	},
+	{
+		"Longitude" : "-087.514796",
+		"Zipcode" : "47660",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "OAKLAND CITY",
+		"State" : "IN",
+		"Latitude" : "+38.306265"
+	},
+	{
+		"Longitude" : "-087.681174",
+		"Zipcode" : "47665",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "OWENSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.272833"
+	},
+	{
+		"Longitude" : "-087.583761",
+		"Zipcode" : "47666",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "PATOKA",
+		"State" : "IN",
+		"Latitude" : "+38.401233"
+	},
+	{
+		"Longitude" : "-087.534003",
+		"Zipcode" : "47670",
+		"ZipClass" : "STANDARD",
+		"County" : "GIBSON",
+		"City" : "PRINCETON",
+		"State" : "IN",
+		"Latitude" : "+38.303369"
+	},
+	{
+		"Longitude" : "-087.377340",
+		"Zipcode" : "47683",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GIBSON",
+		"City" : "SOMERVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.281095"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47701",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47702",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47703",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47704",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47705",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47706",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.564842",
+		"Zipcode" : "47708",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.976692"
+	},
+	{
+		"Longitude" : "-087.569024",
+		"Zipcode" : "47710",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.029714"
+	},
+	{
+		"Longitude" : "-087.554802",
+		"Zipcode" : "47711",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.061732"
+	},
+	{
+		"Longitude" : "-087.580057",
+		"Zipcode" : "47712",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.984112"
+	},
+	{
+		"Longitude" : "-087.547564",
+		"Zipcode" : "47713",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.952190"
+	},
+	{
+		"Longitude" : "-087.519682",
+		"Zipcode" : "47714",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.959092"
+	},
+	{
+		"Longitude" : "-087.489212",
+		"Zipcode" : "47715",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.984202"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47716",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47719",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.637962",
+		"Zipcode" : "47720",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.059937"
+	},
+	{
+		"Longitude" : "-087.600791",
+		"Zipcode" : "47721",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.978035"
+	},
+	{
+		"Longitude" : "-087.542014",
+		"Zipcode" : "47722",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.970192"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47724",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.547704",
+		"Zipcode" : "47725",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.045237"
+	},
+	{
+		"Longitude" : "-087.538915",
+		"Zipcode" : "47727",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+38.031942"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47728",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47730",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47731",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47732",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47733",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47734",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47735",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47736",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47737",
+		"ZipClass" : "STANDARD",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47739",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47740",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47741",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.597316",
+		"Zipcode" : "47744",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.977492"
+	},
+	{
+		"Longitude" : "-087.574963",
+		"Zipcode" : "47747",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.997128"
+	},
+	{
+		"Longitude" : "-087.505512",
+		"Zipcode" : "47750",
+		"ZipClass" : "UNIQUE",
+		"County" : "VANDERBURGH",
+		"City" : "EVANSVILLE",
+		"State" : "IN",
+		"Latitude" : "+37.962292"
+	},
+	{
+		"Longitude" : "-087.410094",
+		"Zipcode" : "47801",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.433602"
+	},
+	{
+		"Longitude" : "-087.420140",
+		"Zipcode" : "47802",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.357875"
+	},
+	{
+		"Longitude" : "-087.315069",
+		"Zipcode" : "47803",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.468961"
+	},
+	{
+		"Longitude" : "-087.342968",
+		"Zipcode" : "47804",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.505836"
+	},
+	{
+		"Longitude" : "-087.325458",
+		"Zipcode" : "47805",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.532737"
+	},
+	{
+		"Longitude" : "-087.392019",
+		"Zipcode" : "47807",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.467536"
+	},
+	{
+		"Longitude" : "-087.410094",
+		"Zipcode" : "47808",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.433602"
+	},
+	{
+		"Longitude" : "-087.411070",
+		"Zipcode" : "47809",
+		"ZipClass" : "UNIQUE",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.470986"
+	},
+	{
+		"Longitude" : "-087.410094",
+		"Zipcode" : "47811",
+		"ZipClass" : "UNIQUE",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.433602"
+	},
+	{
+		"Longitude" : "-087.410094",
+		"Zipcode" : "47812",
+		"ZipClass" : "UNIQUE",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.433602"
+	},
+	{
+		"Longitude" : "-087.410094",
+		"Zipcode" : "47813",
+		"ZipClass" : "UNIQUE",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.433602"
+	},
+	{
+		"Longitude" : "-087.410094",
+		"Zipcode" : "47814",
+		"ZipClass" : "UNIQUE",
+		"County" : "VIGO",
+		"City" : "TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.433602"
+	},
+	{
+		"Longitude" : "-087.221819",
+		"Zipcode" : "47830",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARKE",
+		"City" : "BELLMORE",
+		"State" : "IN",
+		"Latitude" : "+39.779078"
+	},
+	{
+		"Longitude" : "-087.443566",
+		"Zipcode" : "47831",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERMILLION",
+		"City" : "BLANFORD",
+		"State" : "IN",
+		"Latitude" : "+39.877847"
+	},
+	{
+		"Longitude" : "-087.221819",
+		"Zipcode" : "47832",
+		"ZipClass" : "STANDARD",
+		"County" : "PARKE",
+		"City" : "BLOOMINGDALE",
+		"State" : "IN",
+		"Latitude" : "+39.779078"
+	},
+	{
+		"Longitude" : "-087.065524",
+		"Zipcode" : "47833",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BOWLING GREEN",
+		"State" : "IN",
+		"Latitude" : "+39.415414"
+	},
+	{
+		"Longitude" : "-087.126509",
+		"Zipcode" : "47834",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BRAZIL",
+		"State" : "IN",
+		"Latitude" : "+39.387611"
+	},
+	{
+		"Longitude" : "-087.221819",
+		"Zipcode" : "47836",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARKE",
+		"City" : "BRIDGETON",
+		"State" : "IN",
+		"Latitude" : "+39.779078"
+	},
+	{
+		"Longitude" : "-087.113196",
+		"Zipcode" : "47837",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CARBON",
+		"State" : "IN",
+		"Latitude" : "+39.591282"
+	},
+	{
+		"Longitude" : "-087.384354",
+		"Zipcode" : "47838",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "CARLISLE",
+		"State" : "IN",
+		"Latitude" : "+38.966806"
+	},
+	{
+		"Longitude" : "-087.053309",
+		"Zipcode" : "47840",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CENTERPOINT",
+		"State" : "IN",
+		"Latitude" : "+39.408241"
+	},
+	{
+		"Longitude" : "-087.136902",
+		"Zipcode" : "47841",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CLAY CITY",
+		"State" : "IN",
+		"Latitude" : "+39.301664"
+	},
+	{
+		"Longitude" : "-087.458654",
+		"Zipcode" : "47842",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILLION",
+		"City" : "CLINTON",
+		"State" : "IN",
+		"Latitude" : "+39.746685"
+	},
+	{
+		"Longitude" : "-087.090363",
+		"Zipcode" : "47845",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "COALMONT",
+		"State" : "IN",
+		"Latitude" : "+39.387544"
+	},
+	{
+		"Longitude" : "-087.175317",
+		"Zipcode" : "47846",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CORY",
+		"State" : "IN",
+		"Latitude" : "+39.368643"
+	},
+	{
+		"Longitude" : "-087.471163",
+		"Zipcode" : "47847",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILLION",
+		"City" : "DANA",
+		"State" : "IN",
+		"Latitude" : "+39.838952"
+	},
+	{
+		"Longitude" : "-087.306620",
+		"Zipcode" : "47848",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "DUGGER",
+		"State" : "IN",
+		"Latitude" : "+39.039488"
+	},
+	{
+		"Longitude" : "-087.547036",
+		"Zipcode" : "47849",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "FAIRBANKS",
+		"State" : "IN",
+		"Latitude" : "+39.190101"
+	},
+	{
+		"Longitude" : "-087.425279",
+		"Zipcode" : "47850",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "FARMERSBURG",
+		"State" : "IN",
+		"Latitude" : "+39.222063"
+	},
+	{
+		"Longitude" : "-087.245360",
+		"Zipcode" : "47851",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VIGO",
+		"City" : "FONTANET",
+		"State" : "IN",
+		"Latitude" : "+39.573663"
+	},
+	{
+		"Longitude" : "-087.449558",
+		"Zipcode" : "47852",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SULLIVAN",
+		"City" : "GRAYSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.080474"
+	},
+	{
+		"Longitude" : "-087.072888",
+		"Zipcode" : "47853",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "HARMONY",
+		"State" : "IN",
+		"Latitude" : "+39.537199"
+	},
+	{
+		"Longitude" : "-087.424521",
+		"Zipcode" : "47854",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILLION",
+		"City" : "HILLSDALE",
+		"State" : "IN",
+		"Latitude" : "+39.808476"
+	},
+	{
+		"Longitude" : "-087.299448",
+		"Zipcode" : "47855",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SULLIVAN",
+		"City" : "HYMERA",
+		"State" : "IN",
+		"Latitude" : "+39.183335"
+	},
+	{
+		"Longitude" : "-087.221819",
+		"Zipcode" : "47856",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARKE",
+		"City" : "JUDSON",
+		"State" : "IN",
+		"Latitude" : "+39.779078"
+	},
+	{
+		"Longitude" : "-087.086882",
+		"Zipcode" : "47857",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "KNIGHTSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.526913"
+	},
+	{
+		"Longitude" : "-087.277737",
+		"Zipcode" : "47858",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "LEWIS",
+		"State" : "IN",
+		"Latitude" : "+39.302796"
+	},
+	{
+		"Longitude" : "-087.221819",
+		"Zipcode" : "47859",
+		"ZipClass" : "STANDARD",
+		"County" : "PARKE",
+		"City" : "MARSHALL",
+		"State" : "IN",
+		"Latitude" : "+39.779078"
+	},
+	{
+		"Longitude" : "-087.221819",
+		"Zipcode" : "47860",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PARKE",
+		"City" : "MECCA",
+		"State" : "IN",
+		"Latitude" : "+39.779078"
+	},
+	{
+		"Longitude" : "-087.566595",
+		"Zipcode" : "47861",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "MEROM",
+		"State" : "IN",
+		"Latitude" : "+39.057641"
+	},
+	{
+		"Longitude" : "-087.369135",
+		"Zipcode" : "47862",
+		"ZipClass" : "STANDARD",
+		"County" : "PARKE",
+		"City" : "MONTEZUMA",
+		"State" : "IN",
+		"Latitude" : "+39.791725"
+	},
+	{
+		"Longitude" : "-087.461570",
+		"Zipcode" : "47863",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VIGO",
+		"City" : "NEW GOSHEN",
+		"State" : "IN",
+		"Latitude" : "+39.580285"
+	},
+	{
+		"Longitude" : "-087.475747",
+		"Zipcode" : "47864",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "NEW LEBANON",
+		"State" : "IN",
+		"Latitude" : "+39.041245"
+	},
+	{
+		"Longitude" : "-087.389047",
+		"Zipcode" : "47865",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SULLIVAN",
+		"City" : "PAXTON",
+		"State" : "IN",
+		"Latitude" : "+39.018490"
+	},
+	{
+		"Longitude" : "-087.335550",
+		"Zipcode" : "47866",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "PIMENTO",
+		"State" : "IN",
+		"Latitude" : "+39.292886"
+	},
+	{
+		"Longitude" : "-086.960667",
+		"Zipcode" : "47868",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "POLAND",
+		"State" : "IN",
+		"Latitude" : "+39.444565"
+	},
+	{
+		"Longitude" : "-087.410094",
+		"Zipcode" : "47869",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VIGO",
+		"City" : "PRAIRIE CREEK",
+		"State" : "IN",
+		"Latitude" : "+39.433602"
+	},
+	{
+		"Longitude" : "-087.475871",
+		"Zipcode" : "47870",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VIGO",
+		"City" : "PRAIRIETON",
+		"State" : "IN",
+		"Latitude" : "+39.371187"
+	},
+	{
+		"Longitude" : "-087.301367",
+		"Zipcode" : "47871",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VIGO",
+		"City" : "RILEY",
+		"State" : "IN",
+		"Latitude" : "+39.388638"
+	},
+	{
+		"Longitude" : "-087.222646",
+		"Zipcode" : "47872",
+		"ZipClass" : "STANDARD",
+		"County" : "PARKE",
+		"City" : "ROCKVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.712361"
+	},
+	{
+		"Longitude" : "-087.320767",
+		"Zipcode" : "47874",
+		"ZipClass" : "STANDARD",
+		"County" : "PARKE",
+		"City" : "ROSEDALE",
+		"State" : "IN",
+		"Latitude" : "+39.622405"
+	},
+	{
+		"Longitude" : "-087.443566",
+		"Zipcode" : "47875",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERMILLION",
+		"City" : "SAINT BERNICE",
+		"State" : "IN",
+		"Latitude" : "+39.877847"
+	},
+	{
+		"Longitude" : "-087.410094",
+		"Zipcode" : "47876",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VIGO",
+		"City" : "SAINT MARY OF THE WOODS",
+		"State" : "IN",
+		"Latitude" : "+39.433602"
+	},
+	{
+		"Longitude" : "-087.266549",
+		"Zipcode" : "47878",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VIGO",
+		"City" : "SEELYVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.492838"
+	},
+	{
+		"Longitude" : "-087.382988",
+		"Zipcode" : "47879",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "SHELBURN",
+		"State" : "IN",
+		"Latitude" : "+39.104940"
+	},
+	{
+		"Longitude" : "-087.419569",
+		"Zipcode" : "47880",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VIGO",
+		"City" : "SHEPARDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+39.600636"
+	},
+	{
+		"Longitude" : "-087.186673",
+		"Zipcode" : "47881",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "STAUNTON",
+		"State" : "IN",
+		"Latitude" : "+39.491743"
+	},
+	{
+		"Longitude" : "-087.419003",
+		"Zipcode" : "47882",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "SULLIVAN",
+		"State" : "IN",
+		"Latitude" : "+39.084199"
+	},
+	{
+		"Longitude" : "-087.454769",
+		"Zipcode" : "47884",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERMILLION",
+		"City" : "UNIVERSAL",
+		"State" : "IN",
+		"Latitude" : "+39.622129"
+	},
+	{
+		"Longitude" : "-087.468825",
+		"Zipcode" : "47885",
+		"ZipClass" : "STANDARD",
+		"County" : "VIGO",
+		"City" : "WEST TERRE HAUTE",
+		"State" : "IN",
+		"Latitude" : "+39.498419"
+	},
+	{
+		"Longitude" : "-086.830286",
+		"Zipcode" : "47901",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.399050"
+	},
+	{
+		"Longitude" : "-086.894908",
+		"Zipcode" : "47902",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.388656"
+	},
+	{
+		"Longitude" : "-086.824468",
+		"Zipcode" : "47903",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.304402"
+	},
+	{
+		"Longitude" : "-086.917273",
+		"Zipcode" : "47904",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.482287"
+	},
+	{
+		"Longitude" : "-086.884071",
+		"Zipcode" : "47905",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.392686"
+	},
+	{
+		"Longitude" : "-086.928132",
+		"Zipcode" : "47906",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "WEST LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.467303"
+	},
+	{
+		"Longitude" : "-086.916215",
+		"Zipcode" : "47907",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "WEST LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.424923"
+	},
+	{
+		"Longitude" : "-086.888066",
+		"Zipcode" : "47909",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.322769"
+	},
+	{
+		"Longitude" : "-087.050635",
+		"Zipcode" : "47916",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "ALAMO",
+		"State" : "IN",
+		"Latitude" : "+39.962271"
+	},
+	{
+		"Longitude" : "-087.499343",
+		"Zipcode" : "47917",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "AMBIA",
+		"State" : "IN",
+		"Latitude" : "+40.527877"
+	},
+	{
+		"Longitude" : "-087.213921",
+		"Zipcode" : "47918",
+		"ZipClass" : "STANDARD",
+		"County" : "FOUNTAIN",
+		"City" : "ATTICA",
+		"State" : "IN",
+		"Latitude" : "+40.240204"
+	},
+	{
+		"Longitude" : "-086.822842",
+		"Zipcode" : "47920",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "BATTLE GROUND",
+		"State" : "IN",
+		"Latitude" : "+40.533131"
+	},
+	{
+		"Longitude" : "-087.311618",
+		"Zipcode" : "47921",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "BOSWELL",
+		"State" : "IN",
+		"Latitude" : "+40.577648"
+	},
+	{
+		"Longitude" : "-087.394076",
+		"Zipcode" : "47922",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "BROOK",
+		"State" : "IN",
+		"Latitude" : "+40.883043"
+	},
+	{
+		"Longitude" : "-086.845433",
+		"Zipcode" : "47923",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "BROOKSTON",
+		"State" : "IN",
+		"Latitude" : "+40.661019"
+	},
+	{
+		"Longitude" : "-086.763111",
+		"Zipcode" : "47924",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TIPPECANOE",
+		"City" : "BUCK CREEK",
+		"State" : "IN",
+		"Latitude" : "+40.487603"
+	},
+	{
+		"Longitude" : "-086.789632",
+		"Zipcode" : "47925",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITE",
+		"City" : "BUFFALO",
+		"State" : "IN",
+		"Latitude" : "+40.750414"
+	},
+	{
+		"Longitude" : "-086.619353",
+		"Zipcode" : "47926",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "BURNETTSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.813168"
+	},
+	{
+		"Longitude" : "-087.471616",
+		"Zipcode" : "47928",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILLION",
+		"City" : "CAYUGA",
+		"State" : "IN",
+		"Latitude" : "+39.927176"
+	},
+	{
+		"Longitude" : "-086.934599",
+		"Zipcode" : "47929",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "CHALMERS",
+		"State" : "IN",
+		"Latitude" : "+40.754782"
+	},
+	{
+		"Longitude" : "-086.752440",
+		"Zipcode" : "47930",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "CLARKS HILL",
+		"State" : "IN",
+		"Latitude" : "+40.250791"
+	},
+	{
+		"Longitude" : "-087.352877",
+		"Zipcode" : "47932",
+		"ZipClass" : "STANDARD",
+		"County" : "FOUNTAIN",
+		"City" : "COVINGTON",
+		"State" : "IN",
+		"Latitude" : "+40.096833"
+	},
+	{
+		"Longitude" : "-086.893538",
+		"Zipcode" : "47933",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.042425"
+	},
+	{
+		"Longitude" : "-086.893614",
+		"Zipcode" : "47934",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.040014"
+	},
+	{
+		"Longitude" : "-086.893614",
+		"Zipcode" : "47935",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.040014"
+	},
+	{
+		"Longitude" : "-086.893614",
+		"Zipcode" : "47936",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.040014"
+	},
+	{
+		"Longitude" : "-086.893614",
+		"Zipcode" : "47937",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.040014"
+	},
+	{
+		"Longitude" : "-086.893614",
+		"Zipcode" : "47938",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.040014"
+	},
+	{
+		"Longitude" : "-086.893614",
+		"Zipcode" : "47939",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.040014"
+	},
+	{
+		"Longitude" : "-086.777653",
+		"Zipcode" : "47940",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "DARLINGTON",
+		"State" : "IN",
+		"Latitude" : "+40.107625"
+	},
+	{
+		"Longitude" : "-086.763031",
+		"Zipcode" : "47941",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TIPPECANOE",
+		"City" : "DAYTON",
+		"State" : "IN",
+		"Latitude" : "+40.362781"
+	},
+	{
+		"Longitude" : "-087.415972",
+		"Zipcode" : "47942",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "EARL PARK",
+		"State" : "IN",
+		"Latitude" : "+40.679382"
+	},
+	{
+		"Longitude" : "-087.208786",
+		"Zipcode" : "47943",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "FAIR OAKS",
+		"State" : "IN",
+		"Latitude" : "+41.076883"
+	},
+	{
+		"Longitude" : "-087.311247",
+		"Zipcode" : "47944",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "FOWLER",
+		"State" : "IN",
+		"Latitude" : "+40.606541"
+	},
+	{
+		"Longitude" : "-086.834650",
+		"Zipcode" : "47946",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "FRANCESVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.984442"
+	},
+	{
+		"Longitude" : "-087.324812",
+		"Zipcode" : "47948",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "GOODLAND",
+		"State" : "IN",
+		"Latitude" : "+40.794039"
+	},
+	{
+		"Longitude" : "-087.175046",
+		"Zipcode" : "47949",
+		"ZipClass" : "STANDARD",
+		"County" : "FOUNTAIN",
+		"City" : "HILLSBORO",
+		"State" : "IN",
+		"Latitude" : "+40.045073"
+	},
+	{
+		"Longitude" : "-086.739391",
+		"Zipcode" : "47950",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "IDAVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.809887"
+	},
+	{
+		"Longitude" : "-087.439821",
+		"Zipcode" : "47951",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "KENTLAND",
+		"State" : "IN",
+		"Latitude" : "+40.794191"
+	},
+	{
+		"Longitude" : "-087.256877",
+		"Zipcode" : "47952",
+		"ZipClass" : "STANDARD",
+		"County" : "FOUNTAIN",
+		"City" : "KINGMAN",
+		"State" : "IN",
+		"Latitude" : "+40.017364"
+	},
+	{
+		"Longitude" : "-086.855491",
+		"Zipcode" : "47954",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "LADOGA",
+		"State" : "IN",
+		"Latitude" : "+40.050732"
+	},
+	{
+		"Longitude" : "-086.901826",
+		"Zipcode" : "47955",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "LINDEN",
+		"State" : "IN",
+		"Latitude" : "+40.191498"
+	},
+	{
+		"Longitude" : "-086.849745",
+		"Zipcode" : "47957",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "MEDARYVILLE",
+		"State" : "IN",
+		"Latitude" : "+41.072624"
+	},
+	{
+		"Longitude" : "-087.147540",
+		"Zipcode" : "47958",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FOUNTAIN",
+		"City" : "MELLOTT",
+		"State" : "IN",
+		"Latitude" : "+40.164139"
+	},
+	{
+		"Longitude" : "-086.937110",
+		"Zipcode" : "47959",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "MONON",
+		"State" : "IN",
+		"Latitude" : "+40.795391"
+	},
+	{
+		"Longitude" : "-086.749521",
+		"Zipcode" : "47960",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "MONTICELLO",
+		"State" : "IN",
+		"Latitude" : "+40.779211"
+	},
+	{
+		"Longitude" : "-087.027571",
+		"Zipcode" : "47962",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TIPPECANOE",
+		"City" : "MONTMORENCI",
+		"State" : "IN",
+		"Latitude" : "+40.473159"
+	},
+	{
+		"Longitude" : "-087.411025",
+		"Zipcode" : "47963",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "MOROCCO",
+		"State" : "IN",
+		"Latitude" : "+40.954690"
+	},
+	{
+		"Longitude" : "-087.396982",
+		"Zipcode" : "47964",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEWTON",
+		"City" : "MOUNT AYR",
+		"State" : "IN",
+		"Latitude" : "+40.977567"
+	},
+	{
+		"Longitude" : "-086.920609",
+		"Zipcode" : "47965",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "NEW MARKET",
+		"State" : "IN",
+		"Latitude" : "+39.952351"
+	},
+	{
+		"Longitude" : "-087.406937",
+		"Zipcode" : "47966",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VERMILLION",
+		"City" : "NEWPORT",
+		"State" : "IN",
+		"Latitude" : "+39.873560"
+	},
+	{
+		"Longitude" : "-086.976237",
+		"Zipcode" : "47967",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "NEW RICHMOND",
+		"State" : "IN",
+		"Latitude" : "+40.193583"
+	},
+	{
+		"Longitude" : "-086.827059",
+		"Zipcode" : "47968",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "NEW ROSS",
+		"State" : "IN",
+		"Latitude" : "+40.026229"
+	},
+	{
+		"Longitude" : "-087.147014",
+		"Zipcode" : "47969",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FOUNTAIN",
+		"City" : "NEWTOWN",
+		"State" : "IN",
+		"Latitude" : "+40.203459"
+	},
+	{
+		"Longitude" : "-087.136070",
+		"Zipcode" : "47970",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "OTTERBEIN",
+		"State" : "IN",
+		"Latitude" : "+40.598666"
+	},
+	{
+		"Longitude" : "-087.259375",
+		"Zipcode" : "47971",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "OXFORD",
+		"State" : "IN",
+		"Latitude" : "+40.533538"
+	},
+	{
+		"Longitude" : "-087.475513",
+		"Zipcode" : "47974",
+		"ZipClass" : "STANDARD",
+		"County" : "VERMILLION",
+		"City" : "PERRYSVILLE",
+		"State" : "IN",
+		"Latitude" : "+40.023673"
+	},
+	{
+		"Longitude" : "-087.255833",
+		"Zipcode" : "47975",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "PINE VILLAGE",
+		"State" : "IN",
+		"Latitude" : "+40.439726"
+	},
+	{
+		"Longitude" : "-087.140991",
+		"Zipcode" : "47977",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "REMINGTON",
+		"State" : "IN",
+		"Latitude" : "+40.903837"
+	},
+	{
+		"Longitude" : "-087.103680",
+		"Zipcode" : "47978",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "RENSSELAER",
+		"State" : "IN",
+		"Latitude" : "+40.994793"
+	},
+	{
+		"Longitude" : "-086.919278",
+		"Zipcode" : "47980",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "REYNOLDS",
+		"State" : "IN",
+		"Latitude" : "+40.782613"
+	},
+	{
+		"Longitude" : "-086.920786",
+		"Zipcode" : "47981",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "ROMNEY",
+		"State" : "IN",
+		"Latitude" : "+40.258026"
+	},
+	{
+		"Longitude" : "-087.526532",
+		"Zipcode" : "47982",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "STATE LINE",
+		"State" : "IN",
+		"Latitude" : "+40.196740"
+	},
+	{
+		"Longitude" : "-086.772436",
+		"Zipcode" : "47983",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TIPPECANOE",
+		"City" : "STOCKWELL",
+		"State" : "IN",
+		"Latitude" : "+40.284511"
+	},
+	{
+		"Longitude" : "-087.310042",
+		"Zipcode" : "47984",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "TALBOT",
+		"State" : "IN",
+		"Latitude" : "+40.606301"
+	},
+	{
+		"Longitude" : "-087.206960",
+		"Zipcode" : "47986",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "TEMPLETON",
+		"State" : "IN",
+		"Latitude" : "+40.505497"
+	},
+	{
+		"Longitude" : "-087.228444",
+		"Zipcode" : "47987",
+		"ZipClass" : "STANDARD",
+		"County" : "FOUNTAIN",
+		"City" : "VEEDERSBURG",
+		"State" : "IN",
+		"Latitude" : "+40.110318"
+	},
+	{
+		"Longitude" : "-087.147674",
+		"Zipcode" : "47988",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FOUNTAIN",
+		"City" : "WALLACE",
+		"State" : "IN",
+		"Latitude" : "+39.986538"
+	},
+	{
+		"Longitude" : "-086.980365",
+		"Zipcode" : "47989",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "WAVELAND",
+		"State" : "IN",
+		"Latitude" : "+39.913473"
+	},
+	{
+		"Longitude" : "-087.035366",
+		"Zipcode" : "47990",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "WAYNETOWN",
+		"State" : "IN",
+		"Latitude" : "+40.055655"
+	},
+	{
+		"Longitude" : "-087.438432",
+		"Zipcode" : "47991",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "WEST LEBANON",
+		"State" : "IN",
+		"Latitude" : "+40.265862"
+	},
+	{
+		"Longitude" : "-087.046004",
+		"Zipcode" : "47992",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "WESTPOINT",
+		"State" : "IN",
+		"Latitude" : "+40.318084"
+	},
+	{
+		"Longitude" : "-087.403882",
+		"Zipcode" : "47993",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "WILLIAMSPORT",
+		"State" : "IN",
+		"Latitude" : "+40.314172"
+	},
+	{
+		"Longitude" : "-086.964894",
+		"Zipcode" : "47994",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "WINGATE",
+		"State" : "IN",
+		"Latitude" : "+40.118361"
+	},
+	{
+		"Longitude" : "-086.989485",
+		"Zipcode" : "47995",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "WOLCOTT",
+		"State" : "IN",
+		"Latitude" : "+40.726466"
+	},
+	{
+		"Longitude" : "-086.894908",
+		"Zipcode" : "47996",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPECANOE",
+		"City" : "WEST LAFAYETTE",
+		"State" : "IN",
+		"Latitude" : "+40.388656"
+	},
+	{
+		"Longitude" : "-086.722352",
+		"Zipcode" : "47997",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "YEOMAN",
+		"State" : "IN",
+		"Latitude" : "+40.670628"
+	}
+]}

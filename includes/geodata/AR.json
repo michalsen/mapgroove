@@ -1,0 +1,6483 @@
+{
+	"result":[
+	{
+		"Longitude" : "-091.985946",
+		"Zipcode" : "71601",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PINE BLUFF",
+		"State" : "AR",
+		"Latitude" : "+34.208962"
+	},
+	{
+		"Longitude" : "-092.012103",
+		"Zipcode" : "71602",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WHITE HALL",
+		"State" : "AR",
+		"Latitude" : "+34.257661"
+	},
+	{
+		"Longitude" : "-092.083653",
+		"Zipcode" : "71603",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PINE BLUFF",
+		"State" : "AR",
+		"Latitude" : "+34.148699"
+	},
+	{
+		"Longitude" : "-091.955115",
+		"Zipcode" : "71611",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PINE BLUFF",
+		"State" : "AR",
+		"Latitude" : "+34.261465"
+	},
+	{
+		"Longitude" : "-091.832539",
+		"Zipcode" : "71612",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WHITE HALL",
+		"State" : "AR",
+		"Latitude" : "+34.277534"
+	},
+	{
+		"Longitude" : "-092.071284",
+		"Zipcode" : "71613",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PINE BLUFF",
+		"State" : "AR",
+		"Latitude" : "+34.157876"
+	},
+	{
+		"Longitude" : "-091.207356",
+		"Zipcode" : "71630",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DESHA",
+		"City" : "ARKANSAS CITY",
+		"State" : "AR",
+		"Latitude" : "+33.608922"
+	},
+	{
+		"Longitude" : "-092.240352",
+		"Zipcode" : "71631",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "BANKS",
+		"State" : "AR",
+		"Latitude" : "+33.566349"
+	},
+	{
+		"Longitude" : "-091.806256",
+		"Zipcode" : "71635",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLEY",
+		"City" : "CROSSETT",
+		"State" : "AR",
+		"Latitude" : "+33.180855"
+	},
+	{
+		"Longitude" : "-091.394712",
+		"Zipcode" : "71638",
+		"ZipClass" : "STANDARD",
+		"County" : "CHICOT",
+		"City" : "DERMOTT",
+		"State" : "AR",
+		"Latitude" : "+33.470414"
+	},
+	{
+		"Longitude" : "-091.488393",
+		"Zipcode" : "71639",
+		"ZipClass" : "STANDARD",
+		"County" : "DESHA",
+		"City" : "DUMAS",
+		"State" : "AR",
+		"Latitude" : "+33.875244"
+	},
+	{
+		"Longitude" : "-091.310103",
+		"Zipcode" : "71640",
+		"ZipClass" : "STANDARD",
+		"County" : "CHICOT",
+		"City" : "EUDORA",
+		"State" : "AR",
+		"Latitude" : "+33.148807"
+	},
+	{
+		"Longitude" : "-091.908776",
+		"Zipcode" : "71642",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLEY",
+		"City" : "FOUNTAIN HILL",
+		"State" : "AR",
+		"Latitude" : "+33.363143"
+	},
+	{
+		"Longitude" : "-091.626178",
+		"Zipcode" : "71643",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GOULD",
+		"State" : "AR",
+		"Latitude" : "+34.024648"
+	},
+	{
+		"Longitude" : "-091.705699",
+		"Zipcode" : "71644",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GRADY",
+		"State" : "AR",
+		"Latitude" : "+34.103233"
+	},
+	{
+		"Longitude" : "-091.804371",
+		"Zipcode" : "71646",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLEY",
+		"City" : "HAMBURG",
+		"State" : "AR",
+		"Latitude" : "+33.215895"
+	},
+	{
+		"Longitude" : "-092.155958",
+		"Zipcode" : "71647",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "HERMITAGE",
+		"State" : "AR",
+		"Latitude" : "+33.390044"
+	},
+	{
+		"Longitude" : "-091.252060",
+		"Zipcode" : "71649",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHICOT",
+		"City" : "JENNIE",
+		"State" : "AR",
+		"Latitude" : "+33.283901"
+	},
+	{
+		"Longitude" : "-091.732829",
+		"Zipcode" : "71650",
+		"ZipClass" : "STANDARD",
+		"County" : "DREW",
+		"City" : "JEROME",
+		"State" : "AR",
+		"Latitude" : "+33.590601"
+	},
+	{
+		"Longitude" : "-092.290223",
+		"Zipcode" : "71651",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "JERSEY",
+		"State" : "AR",
+		"Latitude" : "+33.368404"
+	},
+	{
+		"Longitude" : "-092.276397",
+		"Zipcode" : "71652",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "KINGSLAND",
+		"State" : "AR",
+		"Latitude" : "+33.866338"
+	},
+	{
+		"Longitude" : "-091.297702",
+		"Zipcode" : "71653",
+		"ZipClass" : "STANDARD",
+		"County" : "CHICOT",
+		"City" : "LAKE VILLAGE",
+		"State" : "AR",
+		"Latitude" : "+33.331905"
+	},
+	{
+		"Longitude" : "-091.401113",
+		"Zipcode" : "71654",
+		"ZipClass" : "STANDARD",
+		"County" : "DESHA",
+		"City" : "MC GEHEE",
+		"State" : "AR",
+		"Latitude" : "+33.644573"
+	},
+	{
+		"Longitude" : "-091.755955",
+		"Zipcode" : "71655",
+		"ZipClass" : "STANDARD",
+		"County" : "DREW",
+		"City" : "MONTICELLO",
+		"State" : "AR",
+		"Latitude" : "+33.604967"
+	},
+	{
+		"Longitude" : "-091.732829",
+		"Zipcode" : "71656",
+		"ZipClass" : "STANDARD",
+		"County" : "DREW",
+		"City" : "MONTICELLO",
+		"State" : "AR",
+		"Latitude" : "+33.590601"
+	},
+	{
+		"Longitude" : "-091.732829",
+		"Zipcode" : "71657",
+		"ZipClass" : "STANDARD",
+		"County" : "DREW",
+		"City" : "MONTICELLO",
+		"State" : "AR",
+		"Latitude" : "+33.590601"
+	},
+	{
+		"Longitude" : "-091.649931",
+		"Zipcode" : "71658",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLEY",
+		"City" : "MONTROSE",
+		"State" : "AR",
+		"Latitude" : "+33.261721"
+	},
+	{
+		"Longitude" : "-091.794560",
+		"Zipcode" : "71659",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "MOSCOW",
+		"State" : "AR",
+		"Latitude" : "+34.134089"
+	},
+	{
+		"Longitude" : "-092.214399",
+		"Zipcode" : "71660",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "NEW EDINBURG",
+		"State" : "AR",
+		"Latitude" : "+33.884167"
+	},
+	{
+		"Longitude" : "-091.576612",
+		"Zipcode" : "71661",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLEY",
+		"City" : "PARKDALE",
+		"State" : "AR",
+		"Latitude" : "+33.139243"
+	},
+	{
+		"Longitude" : "-091.214054",
+		"Zipcode" : "71662",
+		"ZipClass" : "STANDARD",
+		"County" : "DESHA",
+		"City" : "PICKENS",
+		"State" : "AR",
+		"Latitude" : "+33.818318"
+	},
+	{
+		"Longitude" : "-091.512163",
+		"Zipcode" : "71663",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLEY",
+		"City" : "PORTLAND",
+		"State" : "AR",
+		"Latitude" : "+33.212137"
+	},
+	{
+		"Longitude" : "-092.131777",
+		"Zipcode" : "71665",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEVELAND",
+		"City" : "RISON",
+		"State" : "AR",
+		"Latitude" : "+33.900651"
+	},
+	{
+		"Longitude" : "-091.214054",
+		"Zipcode" : "71666",
+		"ZipClass" : "STANDARD",
+		"County" : "DESHA",
+		"City" : "MC GEHEE",
+		"State" : "AR",
+		"Latitude" : "+33.818318"
+	},
+	{
+		"Longitude" : "-091.709308",
+		"Zipcode" : "71667",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "STAR CITY",
+		"State" : "AR",
+		"Latitude" : "+33.999462"
+	},
+	{
+		"Longitude" : "-091.443347",
+		"Zipcode" : "71670",
+		"ZipClass" : "STANDARD",
+		"County" : "DESHA",
+		"City" : "TILLAR",
+		"State" : "AR",
+		"Latitude" : "+33.698144"
+	},
+	{
+		"Longitude" : "-092.097852",
+		"Zipcode" : "71671",
+		"ZipClass" : "STANDARD",
+		"County" : "BRADLEY",
+		"City" : "WARREN",
+		"State" : "AR",
+		"Latitude" : "+33.573602"
+	},
+	{
+		"Longitude" : "-091.279828",
+		"Zipcode" : "71674",
+		"ZipClass" : "STANDARD",
+		"County" : "DESHA",
+		"City" : "WATSON",
+		"State" : "AR",
+		"Latitude" : "+33.905202"
+	},
+	{
+		"Longitude" : "-091.916698",
+		"Zipcode" : "71675",
+		"ZipClass" : "STANDARD",
+		"County" : "DREW",
+		"City" : "WILMAR",
+		"State" : "AR",
+		"Latitude" : "+33.614151"
+	},
+	{
+		"Longitude" : "-091.559968",
+		"Zipcode" : "71676",
+		"ZipClass" : "STANDARD",
+		"County" : "ASHLEY",
+		"City" : "WILMOT",
+		"State" : "AR",
+		"Latitude" : "+33.151992"
+	},
+	{
+		"Longitude" : "-091.490123",
+		"Zipcode" : "71677",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DREW",
+		"City" : "WINCHESTER",
+		"State" : "AR",
+		"Latitude" : "+33.747125"
+	},
+	{
+		"Longitude" : "-091.699077",
+		"Zipcode" : "71678",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "YORKTOWN",
+		"State" : "AR",
+		"Latitude" : "+33.978738"
+	},
+	{
+		"Longitude" : "-092.851335",
+		"Zipcode" : "71701",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "CAMDEN",
+		"State" : "AR",
+		"Latitude" : "+33.594817"
+	},
+	{
+		"Longitude" : "-092.842649",
+		"Zipcode" : "71711",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "CAMDEN",
+		"State" : "AR",
+		"Latitude" : "+33.589009"
+	},
+	{
+		"Longitude" : "-092.844808",
+		"Zipcode" : "71720",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "BEARDEN",
+		"State" : "AR",
+		"Latitude" : "+33.715918"
+	},
+	{
+		"Longitude" : "-093.189406",
+		"Zipcode" : "71721",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "BEIRNE",
+		"State" : "AR",
+		"Latitude" : "+34.055486"
+	},
+	{
+		"Longitude" : "-093.294126",
+		"Zipcode" : "71722",
+		"ZipClass" : "STANDARD",
+		"County" : "NEVADA",
+		"City" : "BLUFF CITY",
+		"State" : "AR",
+		"Latitude" : "+33.700820"
+	},
+	{
+		"Longitude" : "-092.597514",
+		"Zipcode" : "71724",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UNION",
+		"City" : "CALION",
+		"State" : "AR",
+		"Latitude" : "+33.266043"
+	},
+	{
+		"Longitude" : "-092.516827",
+		"Zipcode" : "71725",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "CARTHAGE",
+		"State" : "AR",
+		"Latitude" : "+34.101037"
+	},
+	{
+		"Longitude" : "-092.996873",
+		"Zipcode" : "71726",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "CHIDESTER",
+		"State" : "AR",
+		"Latitude" : "+33.665157"
+	},
+	{
+		"Longitude" : "-093.097627",
+		"Zipcode" : "71728",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "CURTIS",
+		"State" : "AR",
+		"Latitude" : "+34.010316"
+	},
+	{
+		"Longitude" : "-092.630038",
+		"Zipcode" : "71730",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "EL DORADO",
+		"State" : "AR",
+		"Latitude" : "+33.187446"
+	},
+	{
+		"Longitude" : "-092.528910",
+		"Zipcode" : "71731",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "EL DORADO",
+		"State" : "AR",
+		"Latitude" : "+33.198024"
+	},
+	{
+		"Longitude" : "-093.203998",
+		"Zipcode" : "71740",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "EMERSON",
+		"State" : "AR",
+		"Latitude" : "+33.112106"
+	},
+	{
+		"Longitude" : "-092.610536",
+		"Zipcode" : "71742",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "FORDYCE",
+		"State" : "AR",
+		"Latitude" : "+33.935138"
+	},
+	{
+		"Longitude" : "-093.129994",
+		"Zipcode" : "71743",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "GURDON",
+		"State" : "AR",
+		"Latitude" : "+33.930011"
+	},
+	{
+		"Longitude" : "-092.582269",
+		"Zipcode" : "71744",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "HAMPTON",
+		"State" : "AR",
+		"Latitude" : "+33.516751"
+	},
+	{
+		"Longitude" : "-092.543915",
+		"Zipcode" : "71745",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALHOUN",
+		"City" : "HARRELL",
+		"State" : "AR",
+		"Latitude" : "+33.535994"
+	},
+	{
+		"Longitude" : "-092.393701",
+		"Zipcode" : "71747",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "HUTTIG",
+		"State" : "AR",
+		"Latitude" : "+33.164568"
+	},
+	{
+		"Longitude" : "-092.647817",
+		"Zipcode" : "71748",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DALLAS",
+		"City" : "IVAN",
+		"State" : "AR",
+		"Latitude" : "+33.975470"
+	},
+	{
+		"Longitude" : "-092.768091",
+		"Zipcode" : "71749",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "JUNCTION CITY",
+		"State" : "AR",
+		"Latitude" : "+33.165790"
+	},
+	{
+		"Longitude" : "-092.528910",
+		"Zipcode" : "71750",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UNION",
+		"City" : "LAWSON",
+		"State" : "AR",
+		"Latitude" : "+33.198024"
+	},
+	{
+		"Longitude" : "-092.777026",
+		"Zipcode" : "71751",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "LOUANN",
+		"State" : "AR",
+		"Latitude" : "+33.416913"
+	},
+	{
+		"Longitude" : "-093.187310",
+		"Zipcode" : "71752",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "MC NEIL",
+		"State" : "AR",
+		"Latitude" : "+33.373136"
+	},
+	{
+		"Longitude" : "-093.224021",
+		"Zipcode" : "71753",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "MAGNOLIA",
+		"State" : "AR",
+		"Latitude" : "+33.206807"
+	},
+	{
+		"Longitude" : "-093.229960",
+		"Zipcode" : "71754",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "MAGNOLIA",
+		"State" : "AR",
+		"Latitude" : "+33.242571"
+	},
+	{
+		"Longitude" : "-092.817651",
+		"Zipcode" : "71758",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "MOUNT HOLLY",
+		"State" : "AR",
+		"Latitude" : "+33.302589"
+	},
+	{
+		"Longitude" : "-092.646905",
+		"Zipcode" : "71759",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UNION",
+		"City" : "NORPHLET",
+		"State" : "AR",
+		"Latitude" : "+33.321864"
+	},
+	{
+		"Longitude" : "-092.523809",
+		"Zipcode" : "71762",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SMACKOVER",
+		"State" : "AR",
+		"Latitude" : "+33.194725"
+	},
+	{
+		"Longitude" : "-092.853193",
+		"Zipcode" : "71763",
+		"ZipClass" : "STANDARD",
+		"County" : "DALLAS",
+		"City" : "SPARKMAN",
+		"State" : "AR",
+		"Latitude" : "+33.914288"
+	},
+	{
+		"Longitude" : "-093.011863",
+		"Zipcode" : "71764",
+		"ZipClass" : "STANDARD",
+		"County" : "OUACHITA",
+		"City" : "STEPHENS",
+		"State" : "AR",
+		"Latitude" : "+33.460530"
+	},
+	{
+		"Longitude" : "-092.331829",
+		"Zipcode" : "71765",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "STRONG",
+		"State" : "AR",
+		"Latitude" : "+33.169586"
+	},
+	{
+		"Longitude" : "-092.486160",
+		"Zipcode" : "71766",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "THORNTON",
+		"State" : "AR",
+		"Latitude" : "+33.776795"
+	},
+	{
+		"Longitude" : "-092.543915",
+		"Zipcode" : "71767",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "HAMPTON",
+		"State" : "AR",
+		"Latitude" : "+33.535994"
+	},
+	{
+		"Longitude" : "-092.528910",
+		"Zipcode" : "71768",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "URBANA",
+		"State" : "AR",
+		"Latitude" : "+33.198024"
+	},
+	{
+		"Longitude" : "-093.234494",
+		"Zipcode" : "71769",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COLUMBIA",
+		"City" : "VILLAGE",
+		"State" : "AR",
+		"Latitude" : "+33.236156"
+	},
+	{
+		"Longitude" : "-093.302374",
+		"Zipcode" : "71770",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "WALDO",
+		"State" : "AR",
+		"Latitude" : "+33.350437"
+	},
+	{
+		"Longitude" : "-093.123800",
+		"Zipcode" : "71772",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "WHELEN SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+33.832537"
+	},
+	{
+		"Longitude" : "-093.606807",
+		"Zipcode" : "71801",
+		"ZipClass" : "STANDARD",
+		"County" : "HEMPSTEAD",
+		"City" : "HOPE",
+		"State" : "AR",
+		"Latitude" : "+33.673559"
+	},
+	{
+		"Longitude" : "-093.559162",
+		"Zipcode" : "71802",
+		"ZipClass" : "STANDARD",
+		"County" : "HEMPSTEAD",
+		"City" : "HOPE",
+		"State" : "AR",
+		"Latitude" : "+33.765584"
+	},
+	{
+		"Longitude" : "-094.270165",
+		"Zipcode" : "71820",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LITTLE RIVER",
+		"City" : "ALLEENE",
+		"State" : "AR",
+		"Latitude" : "+33.778125"
+	},
+	{
+		"Longitude" : "-094.130221",
+		"Zipcode" : "71822",
+		"ZipClass" : "STANDARD",
+		"County" : "LITTLE RIVER",
+		"City" : "ASHDOWN",
+		"State" : "AR",
+		"Latitude" : "+33.704625"
+	},
+	{
+		"Longitude" : "-094.120289",
+		"Zipcode" : "71823",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEVIER",
+		"City" : "BEN LOMOND",
+		"State" : "AR",
+		"Latitude" : "+33.837053"
+	},
+	{
+		"Longitude" : "-093.621434",
+		"Zipcode" : "71825",
+		"ZipClass" : "STANDARD",
+		"County" : "HEMPSTEAD",
+		"City" : "BLEVINS",
+		"State" : "AR",
+		"Latitude" : "+33.882525"
+	},
+	{
+		"Longitude" : "-093.556966",
+		"Zipcode" : "71826",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "BRADLEY",
+		"State" : "AR",
+		"Latitude" : "+33.202695"
+	},
+	{
+		"Longitude" : "-093.434895",
+		"Zipcode" : "71827",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "BUCKNER",
+		"State" : "AR",
+		"Latitude" : "+33.397484"
+	},
+	{
+		"Longitude" : "-093.294126",
+		"Zipcode" : "71828",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEVADA",
+		"City" : "CALE",
+		"State" : "AR",
+		"Latitude" : "+33.700820"
+	},
+	{
+		"Longitude" : "-093.807007",
+		"Zipcode" : "71831",
+		"ZipClass" : "STANDARD",
+		"County" : "HEMPSTEAD",
+		"City" : "COLUMBUS",
+		"State" : "AR",
+		"Latitude" : "+33.793524"
+	},
+	{
+		"Longitude" : "-094.280720",
+		"Zipcode" : "71832",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "DE QUEEN",
+		"State" : "AR",
+		"Latitude" : "+34.050929"
+	},
+	{
+		"Longitude" : "-094.044286",
+		"Zipcode" : "71833",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "DIERKS",
+		"State" : "AR",
+		"Latitude" : "+34.136218"
+	},
+	{
+		"Longitude" : "-094.023737",
+		"Zipcode" : "71834",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLER",
+		"City" : "DODDRIDGE",
+		"State" : "AR",
+		"Latitude" : "+33.441724"
+	},
+	{
+		"Longitude" : "-093.429280",
+		"Zipcode" : "71835",
+		"ZipClass" : "STANDARD",
+		"County" : "NEVADA",
+		"City" : "EMMET",
+		"State" : "AR",
+		"Latitude" : "+33.761471"
+	},
+	{
+		"Longitude" : "-094.372460",
+		"Zipcode" : "71836",
+		"ZipClass" : "STANDARD",
+		"County" : "LITTLE RIVER",
+		"City" : "FOREMAN",
+		"State" : "AR",
+		"Latitude" : "+33.734105"
+	},
+	{
+		"Longitude" : "-093.886621",
+		"Zipcode" : "71837",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLER",
+		"City" : "FOUKE",
+		"State" : "AR",
+		"Latitude" : "+33.261629"
+	},
+	{
+		"Longitude" : "-093.797520",
+		"Zipcode" : "71838",
+		"ZipClass" : "STANDARD",
+		"County" : "HEMPSTEAD",
+		"City" : "FULTON",
+		"State" : "AR",
+		"Latitude" : "+33.669917"
+	},
+	{
+		"Longitude" : "-093.612966",
+		"Zipcode" : "71839",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "GARLAND CITY",
+		"State" : "AR",
+		"Latitude" : "+33.250240"
+	},
+	{
+		"Longitude" : "-093.854484",
+		"Zipcode" : "71840",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MILLER",
+		"City" : "GENOA",
+		"State" : "AR",
+		"Latitude" : "+33.316578"
+	},
+	{
+		"Longitude" : "-094.358778",
+		"Zipcode" : "71841",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "GILLHAM",
+		"State" : "AR",
+		"Latitude" : "+34.065882"
+	},
+	{
+		"Longitude" : "-094.255693",
+		"Zipcode" : "71842",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "HORATIO",
+		"State" : "AR",
+		"Latitude" : "+34.004404"
+	},
+	{
+		"Longitude" : "-093.294126",
+		"Zipcode" : "71844",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEVADA",
+		"City" : "LANEBURG",
+		"State" : "AR",
+		"Latitude" : "+33.700820"
+	},
+	{
+		"Longitude" : "-093.597793",
+		"Zipcode" : "71845",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "LEWISVILLE",
+		"State" : "AR",
+		"Latitude" : "+33.292401"
+	},
+	{
+		"Longitude" : "-094.194636",
+		"Zipcode" : "71846",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "LOCKESBURG",
+		"State" : "AR",
+		"Latitude" : "+33.967541"
+	},
+	{
+		"Longitude" : "-093.619920",
+		"Zipcode" : "71847",
+		"ZipClass" : "STANDARD",
+		"County" : "HEMPSTEAD",
+		"City" : "MC CASKILL",
+		"State" : "AR",
+		"Latitude" : "+33.915909"
+	},
+	{
+		"Longitude" : "-093.925108",
+		"Zipcode" : "71851",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "MINERAL SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+33.895583"
+	},
+	{
+		"Longitude" : "-093.942206",
+		"Zipcode" : "71852",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "NASHVILLE",
+		"State" : "AR",
+		"Latitude" : "+34.024903"
+	},
+	{
+		"Longitude" : "-093.960638",
+		"Zipcode" : "71853",
+		"ZipClass" : "STANDARD",
+		"County" : "LITTLE RIVER",
+		"City" : "OGDEN",
+		"State" : "AR",
+		"Latitude" : "+33.596108"
+	},
+	{
+		"Longitude" : "-093.876485",
+		"Zipcode" : "71854",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLER",
+		"City" : "TEXARKANA",
+		"State" : "AR",
+		"Latitude" : "+33.431043"
+	},
+	{
+		"Longitude" : "-093.732727",
+		"Zipcode" : "71855",
+		"ZipClass" : "STANDARD",
+		"County" : "HEMPSTEAD",
+		"City" : "OZAN",
+		"State" : "AR",
+		"Latitude" : "+33.836630"
+	},
+	{
+		"Longitude" : "-093.289132",
+		"Zipcode" : "71857",
+		"ZipClass" : "STANDARD",
+		"County" : "NEVADA",
+		"City" : "PRESCOTT",
+		"State" : "AR",
+		"Latitude" : "+33.776791"
+	},
+	{
+		"Longitude" : "-093.294126",
+		"Zipcode" : "71858",
+		"ZipClass" : "STANDARD",
+		"County" : "NEVADA",
+		"City" : "ROSSTON",
+		"State" : "AR",
+		"Latitude" : "+33.700820"
+	},
+	{
+		"Longitude" : "-093.884355",
+		"Zipcode" : "71859",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "SARATOGA",
+		"State" : "AR",
+		"Latitude" : "+33.781270"
+	},
+	{
+		"Longitude" : "-093.505730",
+		"Zipcode" : "71860",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "STAMPS",
+		"State" : "AR",
+		"Latitude" : "+33.343809"
+	},
+	{
+		"Longitude" : "-093.322254",
+		"Zipcode" : "71861",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "TAYLOR",
+		"State" : "AR",
+		"Latitude" : "+33.112208"
+	},
+	{
+		"Longitude" : "-093.713625",
+		"Zipcode" : "71862",
+		"ZipClass" : "STANDARD",
+		"County" : "HEMPSTEAD",
+		"City" : "WASHINGTON",
+		"State" : "AR",
+		"Latitude" : "+33.776095"
+	},
+	{
+		"Longitude" : "-093.294126",
+		"Zipcode" : "71864",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEVADA",
+		"City" : "WILLISVILLE",
+		"State" : "AR",
+		"Latitude" : "+33.700820"
+	},
+	{
+		"Longitude" : "-094.147399",
+		"Zipcode" : "71865",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LITTLE RIVER",
+		"City" : "WILTON",
+		"State" : "AR",
+		"Latitude" : "+33.733218"
+	},
+	{
+		"Longitude" : "-094.374800",
+		"Zipcode" : "71866",
+		"ZipClass" : "STANDARD",
+		"County" : "LITTLE RIVER",
+		"City" : "WINTHROP",
+		"State" : "AR",
+		"Latitude" : "+33.857142"
+	},
+	{
+		"Longitude" : "-092.958697",
+		"Zipcode" : "71901",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "HOT SPRINGS NATIONAL PARK",
+		"State" : "AR",
+		"Latitude" : "+34.526841"
+	},
+	{
+		"Longitude" : "-093.099403",
+		"Zipcode" : "71902",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "HOT SPRINGS NATIONAL PARK",
+		"State" : "AR",
+		"Latitude" : "+34.581374"
+	},
+	{
+		"Longitude" : "-093.099403",
+		"Zipcode" : "71903",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "HOT SPRINGS NATIONAL PARK",
+		"State" : "AR",
+		"Latitude" : "+34.581374"
+	},
+	{
+		"Longitude" : "-092.989435",
+		"Zipcode" : "71909",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "HOT SPRINGS VILLAGE",
+		"State" : "AR",
+		"Latitude" : "+34.576246"
+	},
+	{
+		"Longitude" : "-093.099403",
+		"Zipcode" : "71910",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "HOT SPRINGS VILLAGE",
+		"State" : "AR",
+		"Latitude" : "+34.581374"
+	},
+	{
+		"Longitude" : "-093.043902",
+		"Zipcode" : "71913",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "HOT SPRINGS NATIONAL PARK",
+		"State" : "AR",
+		"Latitude" : "+34.482214"
+	},
+	{
+		"Longitude" : "-092.968531",
+		"Zipcode" : "71914",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "HOT SPRINGS NATIONAL PARK",
+		"State" : "AR",
+		"Latitude" : "+34.513682"
+	},
+	{
+		"Longitude" : "-093.189406",
+		"Zipcode" : "71920",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "ALPINE",
+		"State" : "AR",
+		"Latitude" : "+34.055486"
+	},
+	{
+		"Longitude" : "-093.313673",
+		"Zipcode" : "71921",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "AMITY",
+		"State" : "AR",
+		"Latitude" : "+34.232509"
+	},
+	{
+		"Longitude" : "-093.653733",
+		"Zipcode" : "71922",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "ANTOINE",
+		"State" : "AR",
+		"Latitude" : "+34.146678"
+	},
+	{
+		"Longitude" : "-093.111452",
+		"Zipcode" : "71923",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "ARKADELPHIA",
+		"State" : "AR",
+		"Latitude" : "+34.031343"
+	},
+	{
+		"Longitude" : "-093.117420",
+		"Zipcode" : "71929",
+		"ZipClass" : "STANDARD",
+		"County" : "HOT SPRING",
+		"City" : "BISMARCK",
+		"State" : "AR",
+		"Latitude" : "+34.276538"
+	},
+	{
+		"Longitude" : "-094.097200",
+		"Zipcode" : "71932",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POLK",
+		"City" : "BOARD CAMP",
+		"State" : "AR",
+		"Latitude" : "+34.537164"
+	},
+	{
+		"Longitude" : "-093.350643",
+		"Zipcode" : "71933",
+		"ZipClass" : "STANDARD",
+		"County" : "HOT SPRING",
+		"City" : "BONNERDALE",
+		"State" : "AR",
+		"Latitude" : "+34.356772"
+	},
+	{
+		"Longitude" : "-093.683883",
+		"Zipcode" : "71935",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CADDO GAP",
+		"State" : "AR",
+		"Latitude" : "+34.392489"
+	},
+	{
+		"Longitude" : "-094.383483",
+		"Zipcode" : "71937",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "COVE",
+		"State" : "AR",
+		"Latitude" : "+34.354193"
+	},
+	{
+		"Longitude" : "-093.653733",
+		"Zipcode" : "71940",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "DELIGHT",
+		"State" : "AR",
+		"Latitude" : "+34.146678"
+	},
+	{
+		"Longitude" : "-092.963796",
+		"Zipcode" : "71941",
+		"ZipClass" : "STANDARD",
+		"County" : "HOT SPRING",
+		"City" : "DONALDSON",
+		"State" : "AR",
+		"Latitude" : "+34.229869"
+	},
+	{
+		"Longitude" : "-093.002367",
+		"Zipcode" : "71942",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOT SPRING",
+		"City" : "FRIENDSHIP",
+		"State" : "AR",
+		"Latitude" : "+34.223546"
+	},
+	{
+		"Longitude" : "-093.589297",
+		"Zipcode" : "71943",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "GLENWOOD",
+		"State" : "AR",
+		"Latitude" : "+34.206025"
+	},
+	{
+		"Longitude" : "-094.356273",
+		"Zipcode" : "71944",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "GRANNIS",
+		"State" : "AR",
+		"Latitude" : "+34.338462"
+	},
+	{
+		"Longitude" : "-094.362242",
+		"Zipcode" : "71945",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "HATFIELD",
+		"State" : "AR",
+		"Latitude" : "+34.501900"
+	},
+	{
+		"Longitude" : "-094.200221",
+		"Zipcode" : "71946",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POLK",
+		"City" : "HATTON",
+		"State" : "AR",
+		"Latitude" : "+34.459413"
+	},
+	{
+		"Longitude" : "-093.038231",
+		"Zipcode" : "71949",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "JESSIEVILLE",
+		"State" : "AR",
+		"Latitude" : "+34.709408"
+	},
+	{
+		"Longitude" : "-093.653733",
+		"Zipcode" : "71950",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "KIRBY",
+		"State" : "AR",
+		"Latitude" : "+34.146678"
+	},
+	{
+		"Longitude" : "-093.099403",
+		"Zipcode" : "71951",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "HOT SPRINGS NATIONAL PARK",
+		"State" : "AR",
+		"Latitude" : "+34.581374"
+	},
+	{
+		"Longitude" : "-093.653733",
+		"Zipcode" : "71952",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "LANGLEY",
+		"State" : "AR",
+		"Latitude" : "+34.146678"
+	},
+	{
+		"Longitude" : "-094.194756",
+		"Zipcode" : "71953",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "MENA",
+		"State" : "AR",
+		"Latitude" : "+34.503699"
+	},
+	{
+		"Longitude" : "-093.233142",
+		"Zipcode" : "71956",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "MOUNTAIN PINE",
+		"State" : "AR",
+		"Latitude" : "+34.637603"
+	},
+	{
+		"Longitude" : "-093.585206",
+		"Zipcode" : "71957",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MOUNT IDA",
+		"State" : "AR",
+		"Latitude" : "+34.550661"
+	},
+	{
+		"Longitude" : "-093.754350",
+		"Zipcode" : "71958",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MURFREESBORO",
+		"State" : "AR",
+		"Latitude" : "+34.050402"
+	},
+	{
+		"Longitude" : "-093.653733",
+		"Zipcode" : "71959",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "NEWHOPE",
+		"State" : "AR",
+		"Latitude" : "+34.146678"
+	},
+	{
+		"Longitude" : "-093.669613",
+		"Zipcode" : "71960",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "NORMAN",
+		"State" : "AR",
+		"Latitude" : "+34.474709"
+	},
+	{
+		"Longitude" : "-093.803388",
+		"Zipcode" : "71961",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ODEN",
+		"State" : "AR",
+		"Latitude" : "+34.597982"
+	},
+	{
+		"Longitude" : "-093.267115",
+		"Zipcode" : "71962",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "OKOLONA",
+		"State" : "AR",
+		"Latitude" : "+34.041476"
+	},
+	{
+		"Longitude" : "-093.249203",
+		"Zipcode" : "71964",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "PEARCY",
+		"State" : "AR",
+		"Latitude" : "+34.431902"
+	},
+	{
+		"Longitude" : "-093.740852",
+		"Zipcode" : "71965",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "PENCIL BLUFF",
+		"State" : "AR",
+		"Latitude" : "+34.651272"
+	},
+	{
+		"Longitude" : "-093.664630",
+		"Zipcode" : "71966",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ODEN",
+		"State" : "AR",
+		"Latitude" : "+34.542995"
+	},
+	{
+		"Longitude" : "-093.282723",
+		"Zipcode" : "71968",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "ROYAL",
+		"State" : "AR",
+		"Latitude" : "+34.514125"
+	},
+	{
+		"Longitude" : "-093.614286",
+		"Zipcode" : "71969",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SIMS",
+		"State" : "AR",
+		"Latitude" : "+34.653145"
+	},
+	{
+		"Longitude" : "-093.530270",
+		"Zipcode" : "71970",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "STORY",
+		"State" : "AR",
+		"Latitude" : "+34.673248"
+	},
+	{
+		"Longitude" : "-094.095969",
+		"Zipcode" : "71971",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "UMPIRE",
+		"State" : "AR",
+		"Latitude" : "+34.294469"
+	},
+	{
+		"Longitude" : "-094.253511",
+		"Zipcode" : "71972",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "VANDERVOORT",
+		"State" : "AR",
+		"Latitude" : "+34.394091"
+	},
+	{
+		"Longitude" : "-094.361570",
+		"Zipcode" : "71973",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "WICKES",
+		"State" : "AR",
+		"Latitude" : "+34.307662"
+	},
+	{
+		"Longitude" : "-093.189406",
+		"Zipcode" : "71998",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "ARKADELPHIA",
+		"State" : "AR",
+		"Latitude" : "+34.055486"
+	},
+	{
+		"Longitude" : "-093.189406",
+		"Zipcode" : "71999",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLARK",
+		"City" : "ARKADELPHIA",
+		"State" : "AR",
+		"Latitude" : "+34.055486"
+	},
+	{
+		"Longitude" : "-092.923191",
+		"Zipcode" : "72001",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "ADONA",
+		"State" : "AR",
+		"Latitude" : "+34.943809"
+	},
+	{
+		"Longitude" : "-092.425087",
+		"Zipcode" : "72002",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "ALEXANDER",
+		"State" : "AR",
+		"Latitude" : "+34.694468"
+	},
+	{
+		"Longitude" : "-091.392364",
+		"Zipcode" : "72003",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "ALMYRA",
+		"State" : "AR",
+		"Latitude" : "+34.384430"
+	},
+	{
+		"Longitude" : "-091.698007",
+		"Zipcode" : "72004",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ALTHEIMER",
+		"State" : "AR",
+		"Latitude" : "+34.284273"
+	},
+	{
+		"Longitude" : "-091.081687",
+		"Zipcode" : "72005",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "AMAGON",
+		"State" : "AR",
+		"Latitude" : "+35.502463"
+	},
+	{
+		"Longitude" : "-091.372792",
+		"Zipcode" : "72006",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODRUFF",
+		"City" : "AUGUSTA",
+		"State" : "AR",
+		"Latitude" : "+35.207566"
+	},
+	{
+		"Longitude" : "-091.979545",
+		"Zipcode" : "72007",
+		"ZipClass" : "STANDARD",
+		"County" : "LONOKE",
+		"City" : "AUSTIN",
+		"State" : "AR",
+		"Latitude" : "+34.980269"
+	},
+	{
+		"Longitude" : "-091.520754",
+		"Zipcode" : "72010",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "BALD KNOB",
+		"State" : "AR",
+		"Latitude" : "+35.331399"
+	},
+	{
+		"Longitude" : "-092.482828",
+		"Zipcode" : "72011",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "BAUXITE",
+		"State" : "AR",
+		"Latitude" : "+34.509071"
+	},
+	{
+		"Longitude" : "-091.808393",
+		"Zipcode" : "72012",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "BEEBE",
+		"State" : "AR",
+		"Latitude" : "+35.173395"
+	},
+	{
+		"Longitude" : "-092.480800",
+		"Zipcode" : "72013",
+		"ZipClass" : "STANDARD",
+		"County" : "VAN BUREN",
+		"City" : "BEE BRANCH",
+		"State" : "AR",
+		"Latitude" : "+35.404671"
+	},
+	{
+		"Longitude" : "-091.116292",
+		"Zipcode" : "72014",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "BEEDEVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.418352"
+	},
+	{
+		"Longitude" : "-092.668034",
+		"Zipcode" : "72015",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "BENTON",
+		"State" : "AR",
+		"Latitude" : "+34.614356"
+	},
+	{
+		"Longitude" : "-092.626882",
+		"Zipcode" : "72016",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "BIGELOW",
+		"State" : "AR",
+		"Latitude" : "+34.968975"
+	},
+	{
+		"Longitude" : "-091.573785",
+		"Zipcode" : "72017",
+		"ZipClass" : "STANDARD",
+		"County" : "PRAIRIE",
+		"City" : "BISCOE",
+		"State" : "AR",
+		"Latitude" : "+34.785525"
+	},
+	{
+		"Longitude" : "-092.622857",
+		"Zipcode" : "72018",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "BENTON",
+		"State" : "AR",
+		"Latitude" : "+34.597345"
+	},
+	{
+		"Longitude" : "-091.525309",
+		"Zipcode" : "72020",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "BRADFORD",
+		"State" : "AR",
+		"Latitude" : "+35.380014"
+	},
+	{
+		"Longitude" : "-091.194574",
+		"Zipcode" : "72021",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "BRINKLEY",
+		"State" : "AR",
+		"Latitude" : "+34.883421"
+	},
+	{
+		"Longitude" : "-092.493519",
+		"Zipcode" : "72022",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "BRYANT",
+		"State" : "AR",
+		"Latitude" : "+34.612417"
+	},
+	{
+		"Longitude" : "-091.931526",
+		"Zipcode" : "72023",
+		"ZipClass" : "STANDARD",
+		"County" : "LONOKE",
+		"City" : "CABOT",
+		"State" : "AR",
+		"Latitude" : "+34.826103"
+	},
+	{
+		"Longitude" : "-091.751490",
+		"Zipcode" : "72024",
+		"ZipClass" : "STANDARD",
+		"County" : "LONOKE",
+		"City" : "CARLISLE",
+		"State" : "AR",
+		"Latitude" : "+34.730900"
+	},
+	{
+		"Longitude" : "-092.923191",
+		"Zipcode" : "72025",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "CASA",
+		"State" : "AR",
+		"Latitude" : "+34.943809"
+	},
+	{
+		"Longitude" : "-091.299038",
+		"Zipcode" : "72026",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "CASSCOE",
+		"State" : "AR",
+		"Latitude" : "+34.509537"
+	},
+	{
+		"Longitude" : "-092.572763",
+		"Zipcode" : "72027",
+		"ZipClass" : "STANDARD",
+		"County" : "CONWAY",
+		"City" : "CENTER RIDGE",
+		"State" : "AR",
+		"Latitude" : "+35.311464"
+	},
+	{
+		"Longitude" : "-092.545572",
+		"Zipcode" : "72028",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "VAN BUREN",
+		"City" : "CHOCTAW",
+		"State" : "AR",
+		"Latitude" : "+35.577270"
+	},
+	{
+		"Longitude" : "-091.247509",
+		"Zipcode" : "72029",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "CLARENDON",
+		"State" : "AR",
+		"Latitude" : "+34.745361"
+	},
+	{
+		"Longitude" : "-092.701955",
+		"Zipcode" : "72030",
+		"ZipClass" : "STANDARD",
+		"County" : "CONWAY",
+		"City" : "CLEVELAND",
+		"State" : "AR",
+		"Latitude" : "+35.395535"
+	},
+	{
+		"Longitude" : "-092.418750",
+		"Zipcode" : "72031",
+		"ZipClass" : "STANDARD",
+		"County" : "VAN BUREN",
+		"City" : "CLINTON",
+		"State" : "AR",
+		"Latitude" : "+35.568709"
+	},
+	{
+		"Longitude" : "-092.376466",
+		"Zipcode" : "72032",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "CONWAY",
+		"State" : "AR",
+		"Latitude" : "+35.146446"
+	},
+	{
+		"Longitude" : "-092.354915",
+		"Zipcode" : "72033",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "CONWAY",
+		"State" : "AR",
+		"Latitude" : "+35.105306"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "72034",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "CONWAY",
+		"State" : "AR",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-092.354915",
+		"Zipcode" : "72035",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAULKNER",
+		"City" : "CONWAY",
+		"State" : "AR",
+		"Latitude" : "+35.105306"
+	},
+	{
+		"Longitude" : "-091.252284",
+		"Zipcode" : "72036",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODRUFF",
+		"City" : "COTTON PLANT",
+		"State" : "AR",
+		"Latitude" : "+35.004397"
+	},
+	{
+		"Longitude" : "-091.875767",
+		"Zipcode" : "72037",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LONOKE",
+		"City" : "COY",
+		"State" : "AR",
+		"Latitude" : "+34.541185"
+	},
+	{
+		"Longitude" : "-091.317774",
+		"Zipcode" : "72038",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "CROCKETTS BLUFF",
+		"State" : "AR",
+		"Latitude" : "+34.459355"
+	},
+	{
+		"Longitude" : "-092.401428",
+		"Zipcode" : "72039",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "DAMASCUS",
+		"State" : "AR",
+		"Latitude" : "+35.302414"
+	},
+	{
+		"Longitude" : "-091.537440",
+		"Zipcode" : "72040",
+		"ZipClass" : "STANDARD",
+		"County" : "PRAIRIE",
+		"City" : "DES ARC",
+		"State" : "AR",
+		"Latitude" : "+34.831514"
+	},
+	{
+		"Longitude" : "-091.465859",
+		"Zipcode" : "72041",
+		"ZipClass" : "STANDARD",
+		"County" : "PRAIRIE",
+		"City" : "DE VALLS BLUFF",
+		"State" : "AR",
+		"Latitude" : "+34.787106"
+	},
+	{
+		"Longitude" : "-091.414442",
+		"Zipcode" : "72042",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "DE WITT",
+		"State" : "AR",
+		"Latitude" : "+34.274600"
+	},
+	{
+		"Longitude" : "-091.262651",
+		"Zipcode" : "72043",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "DIAZ",
+		"State" : "AR",
+		"Latitude" : "+35.632918"
+	},
+	{
+		"Longitude" : "-092.157022",
+		"Zipcode" : "72044",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "EDGEMONT",
+		"State" : "AR",
+		"Latitude" : "+35.632128"
+	},
+	{
+		"Longitude" : "-092.043231",
+		"Zipcode" : "72045",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "EL PASO",
+		"State" : "AR",
+		"Latitude" : "+35.128619"
+	},
+	{
+		"Longitude" : "-091.846164",
+		"Zipcode" : "72046",
+		"ZipClass" : "STANDARD",
+		"County" : "LONOKE",
+		"City" : "ENGLAND",
+		"State" : "AR",
+		"Latitude" : "+34.759526"
+	},
+	{
+		"Longitude" : "-092.202242",
+		"Zipcode" : "72047",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "ENOLA",
+		"State" : "AR",
+		"Latitude" : "+35.230211"
+	},
+	{
+		"Longitude" : "-091.148400",
+		"Zipcode" : "72048",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "ETHEL",
+		"State" : "AR",
+		"Latitude" : "+34.298173"
+	},
+	{
+		"Longitude" : "-092.127207",
+		"Zipcode" : "72051",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "FOX",
+		"State" : "AR",
+		"Latitude" : "+35.918960"
+	},
+	{
+		"Longitude" : "-091.777220",
+		"Zipcode" : "72052",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITE",
+		"City" : "GARNER",
+		"State" : "AR",
+		"Latitude" : "+35.144271"
+	},
+	{
+		"Longitude" : "-092.228271",
+		"Zipcode" : "72053",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PULASKI",
+		"City" : "COLLEGE STATION",
+		"State" : "AR",
+		"Latitude" : "+34.709342"
+	},
+	{
+		"Longitude" : "-091.347993",
+		"Zipcode" : "72055",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "GILLETT",
+		"State" : "AR",
+		"Latitude" : "+34.126257"
+	},
+	{
+		"Longitude" : "-092.304314",
+		"Zipcode" : "72057",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "GRAPEVINE",
+		"State" : "AR",
+		"Latitude" : "+34.152591"
+	},
+	{
+		"Longitude" : "-092.376242",
+		"Zipcode" : "72058",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "GREENBRIER",
+		"State" : "AR",
+		"Latitude" : "+35.211744"
+	},
+	{
+		"Longitude" : "-091.259428",
+		"Zipcode" : "72059",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WOODRUFF",
+		"City" : "GREGORY",
+		"State" : "AR",
+		"Latitude" : "+35.179148"
+	},
+	{
+		"Longitude" : "-091.606092",
+		"Zipcode" : "72060",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "GRIFFITHVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.113187"
+	},
+	{
+		"Longitude" : "-092.334843",
+		"Zipcode" : "72061",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "GUY",
+		"State" : "AR",
+		"Latitude" : "+35.322662"
+	},
+	{
+		"Longitude" : "-092.675330",
+		"Zipcode" : "72063",
+		"ZipClass" : "STANDARD",
+		"County" : "CONWAY",
+		"City" : "HATTIEVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.318809"
+	},
+	{
+		"Longitude" : "-091.569612",
+		"Zipcode" : "72064",
+		"ZipClass" : "STANDARD",
+		"County" : "PRAIRIE",
+		"City" : "HAZEN",
+		"State" : "AR",
+		"Latitude" : "+34.782306"
+	},
+	{
+		"Longitude" : "-092.205503",
+		"Zipcode" : "72065",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "HENSLEY",
+		"State" : "AR",
+		"Latitude" : "+34.520167"
+	},
+	{
+		"Longitude" : "-091.573785",
+		"Zipcode" : "72066",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PRAIRIE",
+		"City" : "HICKORY PLAINS",
+		"State" : "AR",
+		"Latitude" : "+34.785525"
+	},
+	{
+		"Longitude" : "-092.134082",
+		"Zipcode" : "72067",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "HIGDEN",
+		"State" : "AR",
+		"Latitude" : "+35.568521"
+	},
+	{
+		"Longitude" : "-091.710779",
+		"Zipcode" : "72068",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "HIGGINSON",
+		"State" : "AR",
+		"Latitude" : "+35.152032"
+	},
+	{
+		"Longitude" : "-091.183945",
+		"Zipcode" : "72069",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "HOLLY GROVE",
+		"State" : "AR",
+		"Latitude" : "+34.598059"
+	},
+	{
+		"Longitude" : "-092.692323",
+		"Zipcode" : "72070",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "HOUSTON",
+		"State" : "AR",
+		"Latitude" : "+35.055779"
+	},
+	{
+		"Longitude" : "-091.259428",
+		"Zipcode" : "72071",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WOODRUFF",
+		"City" : "HOWELL",
+		"State" : "AR",
+		"Latitude" : "+35.179148"
+	},
+	{
+		"Longitude" : "-091.833442",
+		"Zipcode" : "72072",
+		"ZipClass" : "STANDARD",
+		"County" : "LONOKE",
+		"City" : "HUMNOKE",
+		"State" : "AR",
+		"Latitude" : "+34.757194"
+	},
+	{
+		"Longitude" : "-091.638613",
+		"Zipcode" : "72073",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HUMPHREY",
+		"State" : "AR",
+		"Latitude" : "+34.374078"
+	},
+	{
+		"Longitude" : "-091.259428",
+		"Zipcode" : "72074",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WOODRUFF",
+		"City" : "HUNTER",
+		"State" : "AR",
+		"Latitude" : "+35.179148"
+	},
+	{
+		"Longitude" : "-091.307189",
+		"Zipcode" : "72075",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "JACKSONPORT",
+		"State" : "AR",
+		"Latitude" : "+35.641406"
+	},
+	{
+		"Longitude" : "-092.151490",
+		"Zipcode" : "72076",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "JACKSONVILLE",
+		"State" : "AR",
+		"Latitude" : "+34.918774"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72078",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "JACKSONVILLE",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.150644",
+		"Zipcode" : "72079",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "JEFFERSON",
+		"State" : "AR",
+		"Latitude" : "+34.402504"
+	},
+	{
+		"Longitude" : "-092.819567",
+		"Zipcode" : "72080",
+		"ZipClass" : "STANDARD",
+		"County" : "CONWAY",
+		"City" : "JERUSALEM",
+		"State" : "AR",
+		"Latitude" : "+35.427817"
+	},
+	{
+		"Longitude" : "-091.758198",
+		"Zipcode" : "72081",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "JUDSONIA",
+		"State" : "AR",
+		"Latitude" : "+35.394380"
+	},
+	{
+		"Longitude" : "-091.847466",
+		"Zipcode" : "72082",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "KENSETT",
+		"State" : "AR",
+		"Latitude" : "+35.145740"
+	},
+	{
+		"Longitude" : "-092.014365",
+		"Zipcode" : "72083",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LONOKE",
+		"City" : "KEO",
+		"State" : "AR",
+		"Latitude" : "+34.607370"
+	},
+	{
+		"Longitude" : "-092.613185",
+		"Zipcode" : "72084",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "LEOLA",
+		"State" : "AR",
+		"Latitude" : "+34.218652"
+	},
+	{
+		"Longitude" : "-091.820426",
+		"Zipcode" : "72085",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITE",
+		"City" : "LETONA",
+		"State" : "AR",
+		"Latitude" : "+35.359669"
+	},
+	{
+		"Longitude" : "-091.905399",
+		"Zipcode" : "72086",
+		"ZipClass" : "STANDARD",
+		"County" : "LONOKE",
+		"City" : "LONOKE",
+		"State" : "AR",
+		"Latitude" : "+34.812470"
+	},
+	{
+		"Longitude" : "-092.857840",
+		"Zipcode" : "72087",
+		"ZipClass" : "STANDARD",
+		"County" : "GARLAND",
+		"City" : "LONSDALE",
+		"State" : "AR",
+		"Latitude" : "+34.574419"
+	},
+	{
+		"Longitude" : "-092.274195",
+		"Zipcode" : "72088",
+		"ZipClass" : "STANDARD",
+		"County" : "VAN BUREN",
+		"City" : "FAIRFIELD BAY",
+		"State" : "AR",
+		"Latitude" : "+35.602704"
+	},
+	{
+		"Longitude" : "-092.659740",
+		"Zipcode" : "72089",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SALINE",
+		"City" : "BRYANT",
+		"State" : "AR",
+		"Latitude" : "+34.635041"
+	},
+	{
+		"Longitude" : "-092.217343",
+		"Zipcode" : "72099",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK AIR FORCE BASE",
+		"State" : "AR",
+		"Latitude" : "+34.788014"
+	},
+	{
+		"Longitude" : "-091.219846",
+		"Zipcode" : "72101",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODRUFF",
+		"City" : "MC CRORY",
+		"State" : "AR",
+		"Latitude" : "+35.259987"
+	},
+	{
+		"Longitude" : "-091.848847",
+		"Zipcode" : "72102",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "MC RAE",
+		"State" : "AR",
+		"Latitude" : "+35.246445"
+	},
+	{
+		"Longitude" : "-092.384905",
+		"Zipcode" : "72103",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "MABELVALE",
+		"State" : "AR",
+		"Latitude" : "+34.647826"
+	},
+	{
+		"Longitude" : "-092.839331",
+		"Zipcode" : "72104",
+		"ZipClass" : "STANDARD",
+		"County" : "HOT SPRING",
+		"City" : "MALVERN",
+		"State" : "AR",
+		"Latitude" : "+34.369750"
+	},
+	{
+		"Longitude" : "-092.851558",
+		"Zipcode" : "72105",
+		"ZipClass" : "STANDARD",
+		"County" : "HOT SPRING",
+		"City" : "JONES MILL",
+		"State" : "AR",
+		"Latitude" : "+34.395880"
+	},
+	{
+		"Longitude" : "-092.423585",
+		"Zipcode" : "72106",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "MAYFLOWER",
+		"State" : "AR",
+		"Latitude" : "+34.963658"
+	},
+	{
+		"Longitude" : "-092.552168",
+		"Zipcode" : "72107",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CONWAY",
+		"City" : "MENIFEE",
+		"State" : "AR",
+		"Latitude" : "+35.153852"
+	},
+	{
+		"Longitude" : "-091.224126",
+		"Zipcode" : "72108",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "MONROE",
+		"State" : "AR",
+		"Latitude" : "+34.670187"
+	},
+	{
+		"Longitude" : "-092.817379",
+		"Zipcode" : "72110",
+		"ZipClass" : "STANDARD",
+		"County" : "CONWAY",
+		"City" : "MORRILTON",
+		"State" : "AR",
+		"Latitude" : "+35.169237"
+	},
+	{
+		"Longitude" : "-092.168875",
+		"Zipcode" : "72111",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "MOUNT VERNON",
+		"State" : "AR",
+		"Latitude" : "+35.231590"
+	},
+	{
+		"Longitude" : "-091.203951",
+		"Zipcode" : "72112",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "NEWPORT",
+		"State" : "AR",
+		"Latitude" : "+35.569278"
+	},
+	{
+		"Longitude" : "-092.390298",
+		"Zipcode" : "72113",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "MAUMELLE",
+		"State" : "AR",
+		"Latitude" : "+34.857241"
+	},
+	{
+		"Longitude" : "-092.262899",
+		"Zipcode" : "72114",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.766561"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72115",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.230488",
+		"Zipcode" : "72116",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.805945"
+	},
+	{
+		"Longitude" : "-092.152405",
+		"Zipcode" : "72117",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.765751"
+	},
+	{
+		"Longitude" : "-092.328900",
+		"Zipcode" : "72118",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.833714"
+	},
+	{
+		"Longitude" : "-092.259781",
+		"Zipcode" : "72119",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.801650"
+	},
+	{
+		"Longitude" : "-092.230285",
+		"Zipcode" : "72120",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "SHERWOOD",
+		"State" : "AR",
+		"Latitude" : "+34.880689"
+	},
+	{
+		"Longitude" : "-091.652684",
+		"Zipcode" : "72121",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "PANGBURN",
+		"State" : "AR",
+		"Latitude" : "+35.329969"
+	},
+	{
+		"Longitude" : "-092.785514",
+		"Zipcode" : "72122",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "PARON",
+		"State" : "AR",
+		"Latitude" : "+34.738557"
+	},
+	{
+		"Longitude" : "-091.236983",
+		"Zipcode" : "72123",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WOODRUFF",
+		"City" : "PATTERSON",
+		"State" : "AR",
+		"Latitude" : "+35.258810"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72124",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.795821",
+		"Zipcode" : "72125",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "PERRY",
+		"State" : "AR",
+		"Latitude" : "+35.044346"
+	},
+	{
+		"Longitude" : "-092.786535",
+		"Zipcode" : "72126",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "PERRYVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.025904"
+	},
+	{
+		"Longitude" : "-092.662307",
+		"Zipcode" : "72127",
+		"ZipClass" : "STANDARD",
+		"County" : "CONWAY",
+		"City" : "PLUMERVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.153510"
+	},
+	{
+		"Longitude" : "-092.609528",
+		"Zipcode" : "72128",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "POYEN",
+		"State" : "AR",
+		"Latitude" : "+34.302300"
+	},
+	{
+		"Longitude" : "-092.539414",
+		"Zipcode" : "72129",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "PRATTSVILLE",
+		"State" : "AR",
+		"Latitude" : "+34.314910"
+	},
+	{
+		"Longitude" : "-092.093319",
+		"Zipcode" : "72130",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "PRIM",
+		"State" : "AR",
+		"Latitude" : "+35.667434"
+	},
+	{
+		"Longitude" : "-092.151804",
+		"Zipcode" : "72131",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "QUITMAN",
+		"State" : "AR",
+		"Latitude" : "+35.449492"
+	},
+	{
+		"Longitude" : "-092.150356",
+		"Zipcode" : "72132",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "REDFIELD",
+		"State" : "AR",
+		"Latitude" : "+34.436424"
+	},
+	{
+		"Longitude" : "-091.673115",
+		"Zipcode" : "72133",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "REYDELL",
+		"State" : "AR",
+		"Latitude" : "+34.210031"
+	},
+	{
+		"Longitude" : "-091.224126",
+		"Zipcode" : "72134",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "ROE",
+		"State" : "AR",
+		"Latitude" : "+34.670187"
+	},
+	{
+		"Longitude" : "-092.572248",
+		"Zipcode" : "72135",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "ROLAND",
+		"State" : "AR",
+		"Latitude" : "+34.879230"
+	},
+	{
+		"Longitude" : "-092.014311",
+		"Zipcode" : "72136",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "ROMANCE",
+		"State" : "AR",
+		"Latitude" : "+35.235771"
+	},
+	{
+		"Longitude" : "-091.855634",
+		"Zipcode" : "72137",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "ROSE BUD",
+		"State" : "AR",
+		"Latitude" : "+35.281826"
+	},
+	{
+		"Longitude" : "-091.495392",
+		"Zipcode" : "72139",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITE",
+		"City" : "RUSSELL",
+		"State" : "AR",
+		"Latitude" : "+35.356592"
+	},
+	{
+		"Longitude" : "-091.139284",
+		"Zipcode" : "72140",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "SAINT CHARLES",
+		"State" : "AR",
+		"Latitude" : "+34.337186"
+	},
+	{
+		"Longitude" : "-092.545572",
+		"Zipcode" : "72141",
+		"ZipClass" : "STANDARD",
+		"County" : "VAN BUREN",
+		"City" : "SCOTLAND",
+		"State" : "AR",
+		"Latitude" : "+35.577270"
+	},
+	{
+		"Longitude" : "-092.152336",
+		"Zipcode" : "72142",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "SCOTT",
+		"State" : "AR",
+		"Latitude" : "+34.670904"
+	},
+	{
+		"Longitude" : "-091.731729",
+		"Zipcode" : "72143",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "SEARCY",
+		"State" : "AR",
+		"Latitude" : "+35.243622"
+	},
+	{
+		"Longitude" : "-091.732556",
+		"Zipcode" : "72145",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITE",
+		"City" : "SEARCY",
+		"State" : "AR",
+		"Latitude" : "+35.277393"
+	},
+	{
+		"Longitude" : "-091.731390",
+		"Zipcode" : "72149",
+		"ZipClass" : "UNIQUE",
+		"County" : "WHITE",
+		"City" : "SEARCY",
+		"State" : "AR",
+		"Latitude" : "+35.247376"
+	},
+	{
+		"Longitude" : "-092.398709",
+		"Zipcode" : "72150",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "SHERIDAN",
+		"State" : "AR",
+		"Latitude" : "+34.306936"
+	},
+	{
+		"Longitude" : "-091.927642",
+		"Zipcode" : "72152",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "SHERRILL",
+		"State" : "AR",
+		"Latitude" : "+34.363527"
+	},
+	{
+		"Longitude" : "-092.262595",
+		"Zipcode" : "72153",
+		"ZipClass" : "STANDARD",
+		"County" : "VAN BUREN",
+		"City" : "SHIRLEY",
+		"State" : "AR",
+		"Latitude" : "+35.617110"
+	},
+	{
+		"Longitude" : "-092.673551",
+		"Zipcode" : "72156",
+		"ZipClass" : "STANDARD",
+		"County" : "CONWAY",
+		"City" : "SOLGOHACHIA",
+		"State" : "AR",
+		"Latitude" : "+35.267859"
+	},
+	{
+		"Longitude" : "-092.614982",
+		"Zipcode" : "72157",
+		"ZipClass" : "STANDARD",
+		"County" : "CONWAY",
+		"City" : "SPRINGFIELD",
+		"State" : "AR",
+		"Latitude" : "+35.244463"
+	},
+	{
+		"Longitude" : "-092.659740",
+		"Zipcode" : "72158",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "BENTON",
+		"State" : "AR",
+		"Latitude" : "+34.635041"
+	},
+	{
+		"Longitude" : "-091.419955",
+		"Zipcode" : "72160",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "STUTTGART",
+		"State" : "AR",
+		"Latitude" : "+34.387577"
+	},
+	{
+		"Longitude" : "-092.239900",
+		"Zipcode" : "72164",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PULASKI",
+		"City" : "SWEET HOME",
+		"State" : "AR",
+		"Latitude" : "+34.687292"
+	},
+	{
+		"Longitude" : "-091.453861",
+		"Zipcode" : "72165",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "THIDA",
+		"State" : "AR",
+		"Latitude" : "+35.576231"
+	},
+	{
+		"Longitude" : "-091.227608",
+		"Zipcode" : "72166",
+		"ZipClass" : "STANDARD",
+		"County" : "ARKANSAS",
+		"City" : "TICHNOR",
+		"State" : "AR",
+		"Latitude" : "+34.079836"
+	},
+	{
+		"Longitude" : "-092.658212",
+		"Zipcode" : "72167",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "TRASKWOOD",
+		"State" : "AR",
+		"Latitude" : "+34.469233"
+	},
+	{
+		"Longitude" : "-091.965460",
+		"Zipcode" : "72168",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "TUCKER",
+		"State" : "AR",
+		"Latitude" : "+34.431352"
+	},
+	{
+		"Longitude" : "-091.223248",
+		"Zipcode" : "72169",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "TUPELO",
+		"State" : "AR",
+		"Latitude" : "+35.384449"
+	},
+	{
+		"Longitude" : "-091.463319",
+		"Zipcode" : "72170",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PRAIRIE",
+		"City" : "ULM",
+		"State" : "AR",
+		"Latitude" : "+34.577224"
+	},
+	{
+		"Longitude" : "-092.228182",
+		"Zipcode" : "72173",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "VILONIA",
+		"State" : "AR",
+		"Latitude" : "+35.104753"
+	},
+	{
+		"Longitude" : "-091.862772",
+		"Zipcode" : "72175",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WABBASEKA",
+		"State" : "AR",
+		"Latitude" : "+34.348461"
+	},
+	{
+		"Longitude" : "-091.905266",
+		"Zipcode" : "72176",
+		"ZipClass" : "STANDARD",
+		"County" : "LONOKE",
+		"City" : "WARD",
+		"State" : "AR",
+		"Latitude" : "+34.988267"
+	},
+	{
+		"Longitude" : "-091.606367",
+		"Zipcode" : "72178",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITE",
+		"City" : "WEST POINT",
+		"State" : "AR",
+		"Latitude" : "+35.203213"
+	},
+	{
+		"Longitude" : "-091.864757",
+		"Zipcode" : "72179",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "WILBURN",
+		"State" : "AR",
+		"Latitude" : "+35.510638"
+	},
+	{
+		"Longitude" : "-092.221807",
+		"Zipcode" : "72180",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PULASKI",
+		"City" : "WOODSON",
+		"State" : "AR",
+		"Latitude" : "+34.533557"
+	},
+	{
+		"Longitude" : "-092.449953",
+		"Zipcode" : "72181",
+		"ZipClass" : "STANDARD",
+		"County" : "FAULKNER",
+		"City" : "WOOSTER",
+		"State" : "AR",
+		"Latitude" : "+35.187728"
+	},
+	{
+		"Longitude" : "-092.059863",
+		"Zipcode" : "72182",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "WRIGHT",
+		"State" : "AR",
+		"Latitude" : "+34.429059"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72183",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PULASKI",
+		"City" : "WRIGHTSVILLE",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-091.259428",
+		"Zipcode" : "72189",
+		"ZipClass" : "UNIQUE",
+		"County" : "WOODRUFF",
+		"City" : "MC CRORY",
+		"State" : "AR",
+		"Latitude" : "+35.179148"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72190",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.284718",
+		"Zipcode" : "72199",
+		"ZipClass" : "UNIQUE",
+		"County" : "PULASKI",
+		"City" : "NORTH LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.827174"
+	},
+	{
+		"Longitude" : "-092.284832",
+		"Zipcode" : "72201",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.755998"
+	},
+	{
+		"Longitude" : "-092.290419",
+		"Zipcode" : "72202",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.752299"
+	},
+	{
+		"Longitude" : "-092.390766",
+		"Zipcode" : "72203",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.883484"
+	},
+	{
+		"Longitude" : "-092.297304",
+		"Zipcode" : "72204",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.711026"
+	},
+	{
+		"Longitude" : "-092.346652",
+		"Zipcode" : "72205",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.742911"
+	},
+	{
+		"Longitude" : "-092.295250",
+		"Zipcode" : "72206",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.624693"
+	},
+	{
+		"Longitude" : "-092.340152",
+		"Zipcode" : "72207",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.772646"
+	},
+	{
+		"Longitude" : "-092.368649",
+		"Zipcode" : "72209",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.674055"
+	},
+	{
+		"Longitude" : "-092.478032",
+		"Zipcode" : "72210",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.723533"
+	},
+	{
+		"Longitude" : "-092.430851",
+		"Zipcode" : "72211",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.783664"
+	},
+	{
+		"Longitude" : "-092.441752",
+		"Zipcode" : "72212",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.800793"
+	},
+	{
+		"Longitude" : "-092.228248",
+		"Zipcode" : "72214",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.762141"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72215",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.235668",
+		"Zipcode" : "72216",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.817834"
+	},
+	{
+		"Longitude" : "-092.170174",
+		"Zipcode" : "72217",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.830158"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72219",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72221",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72222",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.504359",
+		"Zipcode" : "72223",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.790155"
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72225",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-092.372386",
+		"Zipcode" : "72227",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.775747"
+	},
+	{
+		"Longitude" : "-092.189397",
+		"Zipcode" : "72231",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.801890"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "72260",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-092.392487",
+		"Zipcode" : "72295",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "LITTLE ROCK",
+		"State" : "AR",
+		"Latitude" : "+34.751918"
+	},
+	{
+		"Longitude" : "-090.203849",
+		"Zipcode" : "72301",
+		"ZipClass" : "STANDARD",
+		"County" : "CRITTENDEN",
+		"City" : "WEST MEMPHIS",
+		"State" : "AR",
+		"Latitude" : "+35.210811"
+	},
+	{
+		"Longitude" : "-090.285543",
+		"Zipcode" : "72303",
+		"ZipClass" : "STANDARD",
+		"County" : "CRITTENDEN",
+		"City" : "WEST MEMPHIS",
+		"State" : "AR",
+		"Latitude" : "+35.137366"
+	},
+	{
+		"Longitude" : "-089.972762",
+		"Zipcode" : "72310",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MISSISSIPPI",
+		"City" : "ARMOREL",
+		"State" : "AR",
+		"Latitude" : "+35.852046"
+	},
+	{
+		"Longitude" : "-090.896910",
+		"Zipcode" : "72311",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "AUBREY",
+		"State" : "AR",
+		"Latitude" : "+34.719477"
+	},
+	{
+		"Longitude" : "-090.767879",
+		"Zipcode" : "72312",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHILLIPS",
+		"City" : "BARTON",
+		"State" : "AR",
+		"Latitude" : "+34.546696"
+	},
+	{
+		"Longitude" : "-090.028429",
+		"Zipcode" : "72313",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MISSISSIPPI",
+		"City" : "BASSETT",
+		"State" : "AR",
+		"Latitude" : "+35.712249"
+	},
+	{
+		"Longitude" : "-090.677331",
+		"Zipcode" : "72314",
+		"ZipClass" : "STANDARD",
+		"County" : "CROSS",
+		"City" : "BIRDEYE",
+		"State" : "AR",
+		"Latitude" : "+35.357184"
+	},
+	{
+		"Longitude" : "-089.926797",
+		"Zipcode" : "72315",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "BLYTHEVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.754685"
+	},
+	{
+		"Longitude" : "-089.966819",
+		"Zipcode" : "72316",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "BLYTHEVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.694942"
+	},
+	{
+		"Longitude" : "-089.966819",
+		"Zipcode" : "72319",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "GOSNELL",
+		"State" : "AR",
+		"Latitude" : "+35.694942"
+	},
+	{
+		"Longitude" : "-090.733710",
+		"Zipcode" : "72320",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "BRICKEYS",
+		"State" : "AR",
+		"Latitude" : "+34.839836"
+	},
+	{
+		"Longitude" : "-089.944221",
+		"Zipcode" : "72321",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MISSISSIPPI",
+		"City" : "BURDETTE",
+		"State" : "AR",
+		"Latitude" : "+35.816872"
+	},
+	{
+		"Longitude" : "-090.810810",
+		"Zipcode" : "72322",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT FRANCIS",
+		"City" : "CALDWELL",
+		"State" : "AR",
+		"Latitude" : "+35.088440"
+	},
+	{
+		"Longitude" : "-090.788851",
+		"Zipcode" : "72324",
+		"ZipClass" : "STANDARD",
+		"County" : "CROSS",
+		"City" : "CHERRY VALLEY",
+		"State" : "AR",
+		"Latitude" : "+35.340002"
+	},
+	{
+		"Longitude" : "-090.253781",
+		"Zipcode" : "72325",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRITTENDEN",
+		"City" : "CLARKEDALE",
+		"State" : "AR",
+		"Latitude" : "+35.286354"
+	},
+	{
+		"Longitude" : "-090.889489",
+		"Zipcode" : "72326",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT FRANCIS",
+		"City" : "COLT",
+		"State" : "AR",
+		"Latitude" : "+35.088055"
+	},
+	{
+		"Longitude" : "-090.358320",
+		"Zipcode" : "72327",
+		"ZipClass" : "STANDARD",
+		"County" : "CRITTENDEN",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.232042"
+	},
+	{
+		"Longitude" : "-090.829320",
+		"Zipcode" : "72328",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHILLIPS",
+		"City" : "CRUMROD",
+		"State" : "AR",
+		"Latitude" : "+34.382204"
+	},
+	{
+		"Longitude" : "-089.978877",
+		"Zipcode" : "72329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MISSISSIPPI",
+		"City" : "DRIVER",
+		"State" : "AR",
+		"Latitude" : "+35.635225"
+	},
+	{
+		"Longitude" : "-090.214040",
+		"Zipcode" : "72330",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "DYESS",
+		"State" : "AR",
+		"Latitude" : "+35.593098"
+	},
+	{
+		"Longitude" : "-090.355335",
+		"Zipcode" : "72331",
+		"ZipClass" : "STANDARD",
+		"County" : "CRITTENDEN",
+		"City" : "EARLE",
+		"State" : "AR",
+		"Latitude" : "+35.270213"
+	},
+	{
+		"Longitude" : "-090.304367",
+		"Zipcode" : "72332",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRITTENDEN",
+		"City" : "EDMONDSON",
+		"State" : "AR",
+		"Latitude" : "+35.119869"
+	},
+	{
+		"Longitude" : "-090.893927",
+		"Zipcode" : "72333",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "ELAINE",
+		"State" : "AR",
+		"Latitude" : "+34.311793"
+	},
+	{
+		"Longitude" : "-090.859555",
+		"Zipcode" : "72335",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT FRANCIS",
+		"City" : "FORREST CITY",
+		"State" : "AR",
+		"Latitude" : "+35.026272"
+	},
+	{
+		"Longitude" : "-090.726069",
+		"Zipcode" : "72336",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT FRANCIS",
+		"City" : "FORREST CITY",
+		"State" : "AR",
+		"Latitude" : "+35.100867"
+	},
+	{
+		"Longitude" : "-090.188375",
+		"Zipcode" : "72338",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "FRENCHMANS BAYOU",
+		"State" : "AR",
+		"Latitude" : "+35.459134"
+	},
+	{
+		"Longitude" : "-090.271360",
+		"Zipcode" : "72339",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRITTENDEN",
+		"City" : "GILMORE",
+		"State" : "AR",
+		"Latitude" : "+35.405678"
+	},
+	{
+		"Longitude" : "-091.029194",
+		"Zipcode" : "72340",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT FRANCIS",
+		"City" : "GOODWIN",
+		"State" : "AR",
+		"Latitude" : "+34.935798"
+	},
+	{
+		"Longitude" : "-090.750779",
+		"Zipcode" : "72341",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "HAYNES",
+		"State" : "AR",
+		"Latitude" : "+34.894534"
+	},
+	{
+		"Longitude" : "-090.751249",
+		"Zipcode" : "72342",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "HELENA",
+		"State" : "AR",
+		"Latitude" : "+34.451920"
+	},
+	{
+		"Longitude" : "-090.508034",
+		"Zipcode" : "72346",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT FRANCIS",
+		"City" : "HETH",
+		"State" : "AR",
+		"Latitude" : "+35.055842"
+	},
+	{
+		"Longitude" : "-090.958977",
+		"Zipcode" : "72347",
+		"ZipClass" : "STANDARD",
+		"County" : "CROSS",
+		"City" : "HICKORY RIDGE",
+		"State" : "AR",
+		"Latitude" : "+35.358936"
+	},
+	{
+		"Longitude" : "-090.564357",
+		"Zipcode" : "72348",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT FRANCIS",
+		"City" : "HUGHES",
+		"State" : "AR",
+		"Latitude" : "+34.959855"
+	},
+	{
+		"Longitude" : "-090.145752",
+		"Zipcode" : "72350",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "JOINER",
+		"State" : "AR",
+		"Latitude" : "+35.501635"
+	},
+	{
+		"Longitude" : "-090.088450",
+		"Zipcode" : "72351",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MISSISSIPPI",
+		"City" : "KEISER",
+		"State" : "AR",
+		"Latitude" : "+35.695435"
+	},
+	{
+		"Longitude" : "-090.755195",
+		"Zipcode" : "72352",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "LA GRANGE",
+		"State" : "AR",
+		"Latitude" : "+34.769714"
+	},
+	{
+		"Longitude" : "-090.965177",
+		"Zipcode" : "72353",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHILLIPS",
+		"City" : "LAMBROOK",
+		"State" : "AR",
+		"Latitude" : "+34.328604"
+	},
+	{
+		"Longitude" : "-090.340023",
+		"Zipcode" : "72354",
+		"ZipClass" : "STANDARD",
+		"County" : "POINSETT",
+		"City" : "LEPANTO",
+		"State" : "AR",
+		"Latitude" : "+35.596339"
+	},
+	{
+		"Longitude" : "-090.746809",
+		"Zipcode" : "72355",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "LEXA",
+		"State" : "AR",
+		"Latitude" : "+34.522109"
+	},
+	{
+		"Longitude" : "-089.887854",
+		"Zipcode" : "72358",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "LUXORA",
+		"State" : "AR",
+		"Latitude" : "+35.773408"
+	},
+	{
+		"Longitude" : "-090.708551",
+		"Zipcode" : "72359",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT FRANCIS",
+		"City" : "MADISON",
+		"State" : "AR",
+		"Latitude" : "+35.025243"
+	},
+	{
+		"Longitude" : "-090.783138",
+		"Zipcode" : "72360",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "MARIANNA",
+		"State" : "AR",
+		"Latitude" : "+34.768479"
+	},
+	{
+		"Longitude" : "-090.294424",
+		"Zipcode" : "72364",
+		"ZipClass" : "STANDARD",
+		"County" : "CRITTENDEN",
+		"City" : "MARION",
+		"State" : "AR",
+		"Latitude" : "+35.174997"
+	},
+	{
+		"Longitude" : "-090.436420",
+		"Zipcode" : "72365",
+		"ZipClass" : "STANDARD",
+		"County" : "POINSETT",
+		"City" : "MARKED TREE",
+		"State" : "AR",
+		"Latitude" : "+35.531267"
+	},
+	{
+		"Longitude" : "-090.954242",
+		"Zipcode" : "72366",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "MARVELL",
+		"State" : "AR",
+		"Latitude" : "+34.533400"
+	},
+	{
+		"Longitude" : "-090.936604",
+		"Zipcode" : "72367",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHILLIPS",
+		"City" : "MELLWOOD",
+		"State" : "AR",
+		"Latitude" : "+34.259680"
+	},
+	{
+		"Longitude" : "-090.935139",
+		"Zipcode" : "72368",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "MORO",
+		"State" : "AR",
+		"Latitude" : "+34.791849"
+	},
+	{
+		"Longitude" : "-090.785809",
+		"Zipcode" : "72369",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHILLIPS",
+		"City" : "ONEIDA",
+		"State" : "AR",
+		"Latitude" : "+34.443028"
+	},
+	{
+		"Longitude" : "-090.094653",
+		"Zipcode" : "72370",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "OSCEOLA",
+		"State" : "AR",
+		"Latitude" : "+35.646832"
+	},
+	{
+		"Longitude" : "-090.901168",
+		"Zipcode" : "72372",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT FRANCIS",
+		"City" : "PALESTINE",
+		"State" : "AR",
+		"Latitude" : "+35.027132"
+	},
+	{
+		"Longitude" : "-090.635505",
+		"Zipcode" : "72373",
+		"ZipClass" : "STANDARD",
+		"County" : "CROSS",
+		"City" : "PARKIN",
+		"State" : "AR",
+		"Latitude" : "+35.293247"
+	},
+	{
+		"Longitude" : "-090.819627",
+		"Zipcode" : "72374",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "POPLAR GROVE",
+		"State" : "AR",
+		"Latitude" : "+34.571702"
+	},
+	{
+		"Longitude" : "-090.238064",
+		"Zipcode" : "72376",
+		"ZipClass" : "STANDARD",
+		"County" : "CRITTENDEN",
+		"City" : "PROCTOR",
+		"State" : "AR",
+		"Latitude" : "+35.116116"
+	},
+	{
+		"Longitude" : "-090.346901",
+		"Zipcode" : "72377",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POINSETT",
+		"City" : "RIVERVALE",
+		"State" : "AR",
+		"Latitude" : "+35.674952"
+	},
+	{
+		"Longitude" : "-091.214054",
+		"Zipcode" : "72379",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DESHA",
+		"City" : "SNOW LAKE",
+		"State" : "AR",
+		"Latitude" : "+33.818318"
+	},
+	{
+		"Longitude" : "-089.966819",
+		"Zipcode" : "72381",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "TOMATO",
+		"State" : "AR",
+		"Latitude" : "+35.694942"
+	},
+	{
+		"Longitude" : "-091.027962",
+		"Zipcode" : "72383",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHILLIPS",
+		"City" : "TURNER",
+		"State" : "AR",
+		"Latitude" : "+34.498511"
+	},
+	{
+		"Longitude" : "-090.297822",
+		"Zipcode" : "72384",
+		"ZipClass" : "STANDARD",
+		"County" : "CRITTENDEN",
+		"City" : "TURRELL",
+		"State" : "AR",
+		"Latitude" : "+35.343902"
+	},
+	{
+		"Longitude" : "-090.772419",
+		"Zipcode" : "72385",
+		"ZipClass" : "STANDARD",
+		"County" : "CROSS",
+		"City" : "TWIST",
+		"State" : "AR",
+		"Latitude" : "+35.296539"
+	},
+	{
+		"Longitude" : "-090.397619",
+		"Zipcode" : "72386",
+		"ZipClass" : "STANDARD",
+		"County" : "POINSETT",
+		"City" : "TYRONZA",
+		"State" : "AR",
+		"Latitude" : "+35.498130"
+	},
+	{
+		"Longitude" : "-090.771505",
+		"Zipcode" : "72387",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CROSS",
+		"City" : "VANNDALE",
+		"State" : "AR",
+		"Latitude" : "+35.318200"
+	},
+	{
+		"Longitude" : "-090.886949",
+		"Zipcode" : "72389",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PHILLIPS",
+		"City" : "WABASH",
+		"State" : "AR",
+		"Latitude" : "+34.346621"
+	},
+	{
+		"Longitude" : "-090.681442",
+		"Zipcode" : "72390",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "WEST HELENA",
+		"State" : "AR",
+		"Latitude" : "+34.530216"
+	},
+	{
+		"Longitude" : "-089.966819",
+		"Zipcode" : "72391",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MISSISSIPPI",
+		"City" : "WEST RIDGE",
+		"State" : "AR",
+		"Latitude" : "+35.694942"
+	},
+	{
+		"Longitude" : "-091.091003",
+		"Zipcode" : "72392",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT FRANCIS",
+		"City" : "WHEATLEY",
+		"State" : "AR",
+		"Latitude" : "+34.950619"
+	},
+	{
+		"Longitude" : "-090.800681",
+		"Zipcode" : "72394",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT FRANCIS",
+		"City" : "WIDENER",
+		"State" : "AR",
+		"Latitude" : "+35.030375"
+	},
+	{
+		"Longitude" : "-090.043135",
+		"Zipcode" : "72395",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "WILSON",
+		"State" : "AR",
+		"Latitude" : "+35.638160"
+	},
+	{
+		"Longitude" : "-090.798946",
+		"Zipcode" : "72396",
+		"ZipClass" : "STANDARD",
+		"County" : "CROSS",
+		"City" : "WYNNE",
+		"State" : "AR",
+		"Latitude" : "+35.274844"
+	},
+	{
+		"Longitude" : "-090.623071",
+		"Zipcode" : "72401",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "JONESBORO",
+		"State" : "AR",
+		"Latitude" : "+35.835847"
+	},
+	{
+		"Longitude" : "-090.652887",
+		"Zipcode" : "72402",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "JONESBORO",
+		"State" : "AR",
+		"Latitude" : "+35.808810"
+	},
+	{
+		"Longitude" : "-090.703915",
+		"Zipcode" : "72403",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "JONESBORO",
+		"State" : "AR",
+		"Latitude" : "+35.830541"
+	},
+	{
+		"Longitude" : "-090.766012",
+		"Zipcode" : "72404",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "JONESBORO",
+		"State" : "AR",
+		"Latitude" : "+35.779183"
+	},
+	{
+		"Longitude" : "-091.030074",
+		"Zipcode" : "72410",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "ALICIA",
+		"State" : "AR",
+		"Latitude" : "+35.952057"
+	},
+	{
+		"Longitude" : "-090.641731",
+		"Zipcode" : "72411",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "BAY",
+		"State" : "AR",
+		"Latitude" : "+35.810496"
+	},
+	{
+		"Longitude" : "-090.691421",
+		"Zipcode" : "72412",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "BEECH GROVE",
+		"State" : "AR",
+		"Latitude" : "+36.128069"
+	},
+	{
+		"Longitude" : "-090.853751",
+		"Zipcode" : "72413",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "BIGGERS",
+		"State" : "AR",
+		"Latitude" : "+36.284433"
+	},
+	{
+		"Longitude" : "-090.400484",
+		"Zipcode" : "72414",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "BLACK OAK",
+		"State" : "AR",
+		"Latitude" : "+35.836846"
+	},
+	{
+		"Longitude" : "-091.187361",
+		"Zipcode" : "72415",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "BLACK ROCK",
+		"State" : "AR",
+		"Latitude" : "+36.132344"
+	},
+	{
+		"Longitude" : "-090.627804",
+		"Zipcode" : "72416",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "BONO",
+		"State" : "AR",
+		"Latitude" : "+35.856420"
+	},
+	{
+		"Longitude" : "-090.489547",
+		"Zipcode" : "72417",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "BROOKLAND",
+		"State" : "AR",
+		"Latitude" : "+35.891366"
+	},
+	{
+		"Longitude" : "-090.338001",
+		"Zipcode" : "72419",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "CARAWAY",
+		"State" : "AR",
+		"Latitude" : "+35.767307"
+	},
+	{
+		"Longitude" : "-090.963448",
+		"Zipcode" : "72421",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "CASH",
+		"State" : "AR",
+		"Latitude" : "+35.795933"
+	},
+	{
+		"Longitude" : "-090.538667",
+		"Zipcode" : "72422",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CORNING",
+		"State" : "AR",
+		"Latitude" : "+36.379467"
+	},
+	{
+		"Longitude" : "-090.730808",
+		"Zipcode" : "72424",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "DATTO",
+		"State" : "AR",
+		"Latitude" : "+36.384747"
+	},
+	{
+		"Longitude" : "-090.721173",
+		"Zipcode" : "72425",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "DELAPLAINE",
+		"State" : "AR",
+		"Latitude" : "+36.208255"
+	},
+	{
+		"Longitude" : "-090.054689",
+		"Zipcode" : "72426",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MISSISSIPPI",
+		"City" : "DELL",
+		"State" : "AR",
+		"Latitude" : "+35.881256"
+	},
+	{
+		"Longitude" : "-090.942780",
+		"Zipcode" : "72427",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRAIGHEAD",
+		"City" : "EGYPT",
+		"State" : "AR",
+		"Latitude" : "+35.863996"
+	},
+	{
+		"Longitude" : "-090.183815",
+		"Zipcode" : "72428",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "ETOWAH",
+		"State" : "AR",
+		"Latitude" : "+35.733677"
+	},
+	{
+		"Longitude" : "-090.944428",
+		"Zipcode" : "72429",
+		"ZipClass" : "STANDARD",
+		"County" : "POINSETT",
+		"City" : "FISHER",
+		"State" : "AR",
+		"Latitude" : "+35.503918"
+	},
+	{
+		"Longitude" : "-090.182485",
+		"Zipcode" : "72430",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "GREENWAY",
+		"State" : "AR",
+		"Latitude" : "+36.327813"
+	},
+	{
+		"Longitude" : "-091.079185",
+		"Zipcode" : "72431",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "GRUBBS",
+		"State" : "AR",
+		"Latitude" : "+35.654913"
+	},
+	{
+		"Longitude" : "-090.791023",
+		"Zipcode" : "72432",
+		"ZipClass" : "STANDARD",
+		"County" : "POINSETT",
+		"City" : "HARRISBURG",
+		"State" : "AR",
+		"Latitude" : "+35.575374"
+	},
+	{
+		"Longitude" : "-091.021301",
+		"Zipcode" : "72433",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "HOXIE",
+		"State" : "AR",
+		"Latitude" : "+36.050395"
+	},
+	{
+		"Longitude" : "-091.215672",
+		"Zipcode" : "72434",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "IMBODEN",
+		"State" : "AR",
+		"Latitude" : "+36.183681"
+	},
+	{
+		"Longitude" : "-090.472819",
+		"Zipcode" : "72435",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "KNOBEL",
+		"State" : "AR",
+		"Latitude" : "+36.360817"
+	},
+	{
+		"Longitude" : "-090.469652",
+		"Zipcode" : "72436",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "LAFE",
+		"State" : "AR",
+		"Latitude" : "+36.202584"
+	},
+	{
+		"Longitude" : "-090.510018",
+		"Zipcode" : "72437",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "LAKE CITY",
+		"State" : "AR",
+		"Latitude" : "+35.824808"
+	},
+	{
+		"Longitude" : "-090.210167",
+		"Zipcode" : "72438",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "LEACHVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.884302"
+	},
+	{
+		"Longitude" : "-090.748876",
+		"Zipcode" : "72439",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "LIGHT",
+		"State" : "AR",
+		"Latitude" : "+36.068050"
+	},
+	{
+		"Longitude" : "-091.229356",
+		"Zipcode" : "72440",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "LYNN",
+		"State" : "AR",
+		"Latitude" : "+36.015239"
+	},
+	{
+		"Longitude" : "-090.386431",
+		"Zipcode" : "72441",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "MC DOUGAL",
+		"State" : "AR",
+		"Latitude" : "+36.429953"
+	},
+	{
+		"Longitude" : "-090.180600",
+		"Zipcode" : "72442",
+		"ZipClass" : "STANDARD",
+		"County" : "MISSISSIPPI",
+		"City" : "MANILA",
+		"State" : "AR",
+		"Latitude" : "+35.843919"
+	},
+	{
+		"Longitude" : "-090.399740",
+		"Zipcode" : "72443",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "MARMADUKE",
+		"State" : "AR",
+		"Latitude" : "+36.156146"
+	},
+	{
+		"Longitude" : "-090.936899",
+		"Zipcode" : "72444",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "MAYNARD",
+		"State" : "AR",
+		"Latitude" : "+36.396694"
+	},
+	{
+		"Longitude" : "-091.031799",
+		"Zipcode" : "72445",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAWRENCE",
+		"City" : "MINTURN",
+		"State" : "AR",
+		"Latitude" : "+35.974287"
+	},
+	{
+		"Longitude" : "-090.347446",
+		"Zipcode" : "72447",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAIGHEAD",
+		"City" : "MONETTE",
+		"State" : "AR",
+		"Latitude" : "+35.909972"
+	},
+	{
+		"Longitude" : "-091.077910",
+		"Zipcode" : "72449",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANDOLPH",
+		"City" : "O KEAN",
+		"State" : "AR",
+		"Latitude" : "+36.306745"
+	},
+	{
+		"Longitude" : "-090.551092",
+		"Zipcode" : "72450",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "PARAGOULD",
+		"State" : "AR",
+		"Latitude" : "+36.113222"
+	},
+	{
+		"Longitude" : "-090.525077",
+		"Zipcode" : "72451",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "PARAGOULD",
+		"State" : "AR",
+		"Latitude" : "+36.116350"
+	},
+	{
+		"Longitude" : "-090.687882",
+		"Zipcode" : "72453",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "PEACH ORCHARD",
+		"State" : "AR",
+		"Latitude" : "+36.277564"
+	},
+	{
+		"Longitude" : "-090.313223",
+		"Zipcode" : "72454",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "PIGGOTT",
+		"State" : "AR",
+		"Latitude" : "+36.378787"
+	},
+	{
+		"Longitude" : "-091.084748",
+		"Zipcode" : "72455",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "POCAHONTAS",
+		"State" : "AR",
+		"Latitude" : "+36.324042"
+	},
+	{
+		"Longitude" : "-090.375252",
+		"Zipcode" : "72456",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "POLLARD",
+		"State" : "AR",
+		"Latitude" : "+36.381570"
+	},
+	{
+		"Longitude" : "-091.047594",
+		"Zipcode" : "72457",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAWRENCE",
+		"City" : "PORTIA",
+		"State" : "AR",
+		"Latitude" : "+36.082104"
+	},
+	{
+		"Longitude" : "-091.218089",
+		"Zipcode" : "72458",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "POWHATAN",
+		"State" : "AR",
+		"Latitude" : "+36.053597"
+	},
+	{
+		"Longitude" : "-091.223314",
+		"Zipcode" : "72459",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "RAVENDEN",
+		"State" : "AR",
+		"Latitude" : "+36.182460"
+	},
+	{
+		"Longitude" : "-091.009405",
+		"Zipcode" : "72460",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "RAVENDEN SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.337228"
+	},
+	{
+		"Longitude" : "-090.329565",
+		"Zipcode" : "72461",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "RECTOR",
+		"State" : "AR",
+		"Latitude" : "+36.310788"
+	},
+	{
+		"Longitude" : "-090.780125",
+		"Zipcode" : "72462",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANDOLPH",
+		"City" : "REYNO",
+		"State" : "AR",
+		"Latitude" : "+36.351441"
+	},
+	{
+		"Longitude" : "-090.142521",
+		"Zipcode" : "72464",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "SAINT FRANCIS",
+		"State" : "AR",
+		"Latitude" : "+36.454544"
+	},
+	{
+		"Longitude" : "-090.895421",
+		"Zipcode" : "72465",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAWRENCE",
+		"City" : "SEDGWICK",
+		"State" : "AR",
+		"Latitude" : "+35.964317"
+	},
+	{
+		"Longitude" : "-091.240065",
+		"Zipcode" : "72466",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SMITHVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.057939"
+	},
+	{
+		"Longitude" : "-090.673464",
+		"Zipcode" : "72467",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRAIGHEAD",
+		"City" : "STATE UNIVERSITY",
+		"State" : "AR",
+		"Latitude" : "+35.842196"
+	},
+	{
+		"Longitude" : "-091.293503",
+		"Zipcode" : "72469",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "STRAWBERRY",
+		"State" : "AR",
+		"Latitude" : "+35.967306"
+	},
+	{
+		"Longitude" : "-090.692099",
+		"Zipcode" : "72470",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "SUCCESS",
+		"State" : "AR",
+		"Latitude" : "+36.429663"
+	},
+	{
+		"Longitude" : "-091.092685",
+		"Zipcode" : "72471",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SWIFTON",
+		"State" : "AR",
+		"Latitude" : "+35.817646"
+	},
+	{
+		"Longitude" : "-090.561977",
+		"Zipcode" : "72472",
+		"ZipClass" : "STANDARD",
+		"County" : "POINSETT",
+		"City" : "TRUMANN",
+		"State" : "AR",
+		"Latitude" : "+35.588215"
+	},
+	{
+		"Longitude" : "-091.173296",
+		"Zipcode" : "72473",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "TUCKERMAN",
+		"State" : "AR",
+		"Latitude" : "+35.715280"
+	},
+	{
+		"Longitude" : "-090.671802",
+		"Zipcode" : "72474",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENE",
+		"City" : "WALCOTT",
+		"State" : "AR",
+		"Latitude" : "+36.041332"
+	},
+	{
+		"Longitude" : "-090.965815",
+		"Zipcode" : "72475",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "POINSETT",
+		"City" : "WALDENBURG",
+		"State" : "AR",
+		"Latitude" : "+35.546575"
+	},
+	{
+		"Longitude" : "-090.998707",
+		"Zipcode" : "72476",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "WALNUT RIDGE",
+		"State" : "AR",
+		"Latitude" : "+36.042979"
+	},
+	{
+		"Longitude" : "-091.054035",
+		"Zipcode" : "72478",
+		"ZipClass" : "STANDARD",
+		"County" : "RANDOLPH",
+		"City" : "WARM SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.445330"
+	},
+	{
+		"Longitude" : "-090.873808",
+		"Zipcode" : "72479",
+		"ZipClass" : "STANDARD",
+		"County" : "POINSETT",
+		"City" : "WEINER",
+		"State" : "AR",
+		"Latitude" : "+35.611992"
+	},
+	{
+		"Longitude" : "-091.355691",
+		"Zipcode" : "72482",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "WILLIFORD",
+		"State" : "AR",
+		"Latitude" : "+36.285559"
+	},
+	{
+		"Longitude" : "-091.652338",
+		"Zipcode" : "72501",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "BATESVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.768738"
+	},
+	{
+		"Longitude" : "-091.534303",
+		"Zipcode" : "72503",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "BATESVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.734617"
+	},
+	{
+		"Longitude" : "-091.915187",
+		"Zipcode" : "72512",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "HORSESHOE BEND",
+		"State" : "AR",
+		"Latitude" : "+36.185457"
+	},
+	{
+		"Longitude" : "-091.568849",
+		"Zipcode" : "72513",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "ASH FLAT",
+		"State" : "AR",
+		"Latitude" : "+36.234637"
+	},
+	{
+		"Longitude" : "-091.804608",
+		"Zipcode" : "72515",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "BEXAR",
+		"State" : "AR",
+		"Latitude" : "+36.374704"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72516",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "BOSWELL",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-092.134903",
+		"Zipcode" : "72517",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "BROCKWELL",
+		"State" : "AR",
+		"Latitude" : "+36.121391"
+	},
+	{
+		"Longitude" : "-092.129961",
+		"Zipcode" : "72519",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "CALICO ROCK",
+		"State" : "AR",
+		"Latitude" : "+36.178897"
+	},
+	{
+		"Longitude" : "-091.804608",
+		"Zipcode" : "72520",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "CAMP",
+		"State" : "AR",
+		"Latitude" : "+36.374704"
+	},
+	{
+		"Longitude" : "-091.531700",
+		"Zipcode" : "72521",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "CAVE CITY",
+		"State" : "AR",
+		"Latitude" : "+35.948292"
+	},
+	{
+		"Longitude" : "-091.456609",
+		"Zipcode" : "72522",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "CHARLOTTE",
+		"State" : "AR",
+		"Latitude" : "+35.803978"
+	},
+	{
+		"Longitude" : "-091.857781",
+		"Zipcode" : "72523",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "CONCORD",
+		"State" : "AR",
+		"Latitude" : "+35.642663"
+	},
+	{
+		"Longitude" : "-091.361550",
+		"Zipcode" : "72524",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "CORD",
+		"State" : "AR",
+		"Latitude" : "+35.843546"
+	},
+	{
+		"Longitude" : "-091.488845",
+		"Zipcode" : "72525",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "CHEROKEE VILLAGE",
+		"State" : "AR",
+		"Latitude" : "+36.295879"
+	},
+	{
+		"Longitude" : "-091.758171",
+		"Zipcode" : "72526",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "INDEPENDENCE",
+		"City" : "CUSHMAN",
+		"State" : "AR",
+		"Latitude" : "+35.872871"
+	},
+	{
+		"Longitude" : "-091.603429",
+		"Zipcode" : "72527",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "DESHA",
+		"State" : "AR",
+		"Latitude" : "+35.726232"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72528",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "DOLPH",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-091.534657",
+		"Zipcode" : "72529",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "CHEROKEE VILLAGE",
+		"State" : "AR",
+		"Latitude" : "+36.298192"
+	},
+	{
+		"Longitude" : "-092.022867",
+		"Zipcode" : "72530",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "DRASCO",
+		"State" : "AR",
+		"Latitude" : "+35.607847"
+	},
+	{
+		"Longitude" : "-091.804608",
+		"Zipcode" : "72531",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "ELIZABETH",
+		"State" : "AR",
+		"Latitude" : "+36.374704"
+	},
+	{
+		"Longitude" : "-091.607603",
+		"Zipcode" : "72532",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "EVENING SHADE",
+		"State" : "AR",
+		"Latitude" : "+36.061757"
+	},
+	{
+		"Longitude" : "-092.127207",
+		"Zipcode" : "72533",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "FIFTY SIX",
+		"State" : "AR",
+		"Latitude" : "+35.918960"
+	},
+	{
+		"Longitude" : "-091.712976",
+		"Zipcode" : "72534",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "FLORAL",
+		"State" : "AR",
+		"Latitude" : "+35.663046"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72536",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "FRANKLIN",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-092.325688",
+		"Zipcode" : "72537",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "GAMALIEL",
+		"State" : "AR",
+		"Latitude" : "+36.429570"
+	},
+	{
+		"Longitude" : "-091.823914",
+		"Zipcode" : "72538",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "GEPP",
+		"State" : "AR",
+		"Latitude" : "+36.370988"
+	},
+	{
+		"Longitude" : "-091.804608",
+		"Zipcode" : "72539",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "GLENCOE",
+		"State" : "AR",
+		"Latitude" : "+36.374704"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72540",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "GUION",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-091.481669",
+		"Zipcode" : "72542",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "HARDY",
+		"State" : "AR",
+		"Latitude" : "+36.178441"
+	},
+	{
+		"Longitude" : "-091.988830",
+		"Zipcode" : "72543",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "HEBER SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+35.453106"
+	},
+	{
+		"Longitude" : "-092.195113",
+		"Zipcode" : "72544",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "HENDERSON",
+		"State" : "AR",
+		"Latitude" : "+36.410457"
+	},
+	{
+		"Longitude" : "-092.021291",
+		"Zipcode" : "72545",
+		"ZipClass" : "UNIQUE",
+		"County" : "CLEBURNE",
+		"City" : "HEBER SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+35.535238"
+	},
+	{
+		"Longitude" : "-091.930535",
+		"Zipcode" : "72546",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "IDA",
+		"State" : "AR",
+		"Latitude" : "+35.581607"
+	},
+	{
+		"Longitude" : "-091.778953",
+		"Zipcode" : "72550",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "LOCUST GROVE",
+		"State" : "AR",
+		"Latitude" : "+35.712421"
+	},
+	{
+		"Longitude" : "-091.474841",
+		"Zipcode" : "72553",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "INDEPENDENCE",
+		"City" : "MAGNESS",
+		"State" : "AR",
+		"Latitude" : "+35.707658"
+	},
+	{
+		"Longitude" : "-091.546818",
+		"Zipcode" : "72554",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "MAMMOTH SPRING",
+		"State" : "AR",
+		"Latitude" : "+36.492437"
+	},
+	{
+		"Longitude" : "-092.127207",
+		"Zipcode" : "72555",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "MARCELLA",
+		"State" : "AR",
+		"Latitude" : "+35.918960"
+	},
+	{
+		"Longitude" : "-091.907947",
+		"Zipcode" : "72556",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "MELBOURNE",
+		"State" : "AR",
+		"Latitude" : "+36.063529"
+	},
+	{
+		"Longitude" : "-091.804608",
+		"Zipcode" : "72557",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "MOKO",
+		"State" : "AR",
+		"Latitude" : "+36.374704"
+	},
+	{
+		"Longitude" : "-092.038894",
+		"Zipcode" : "72560",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "MOUNTAIN VIEW",
+		"State" : "AR",
+		"Latitude" : "+35.820825"
+	},
+	{
+		"Longitude" : "-091.819741",
+		"Zipcode" : "72561",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "MOUNT PLEASANT",
+		"State" : "AR",
+		"Latitude" : "+35.961824"
+	},
+	{
+		"Longitude" : "-091.425170",
+		"Zipcode" : "72562",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "NEWARK",
+		"State" : "AR",
+		"Latitude" : "+35.732409"
+	},
+	{
+		"Longitude" : "-091.475445",
+		"Zipcode" : "72564",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "OIL TROUGH",
+		"State" : "AR",
+		"Latitude" : "+35.599850"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72565",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "OXFORD",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-092.112983",
+		"Zipcode" : "72566",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "PINEVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.157991"
+	},
+	{
+		"Longitude" : "-092.127207",
+		"Zipcode" : "72567",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "PLEASANT GROVE",
+		"State" : "AR",
+		"Latitude" : "+35.918960"
+	},
+	{
+		"Longitude" : "-091.619627",
+		"Zipcode" : "72568",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "PLEASANT PLAINS",
+		"State" : "AR",
+		"Latitude" : "+35.654477"
+	},
+	{
+		"Longitude" : "-091.455012",
+		"Zipcode" : "72569",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "POUGHKEEPSIE",
+		"State" : "AR",
+		"Latitude" : "+36.046345"
+	},
+	{
+		"Longitude" : "-091.536246",
+		"Zipcode" : "72571",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "ROSIE",
+		"State" : "AR",
+		"Latitude" : "+35.645494"
+	},
+	{
+		"Longitude" : "-091.283897",
+		"Zipcode" : "72572",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SAFFELL",
+		"State" : "AR",
+		"Latitude" : "+35.953043"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72573",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "SAGE",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-091.598917",
+		"Zipcode" : "72575",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "INDEPENDENCE",
+		"City" : "SALADO",
+		"State" : "AR",
+		"Latitude" : "+35.691868"
+	},
+	{
+		"Longitude" : "-091.699502",
+		"Zipcode" : "72576",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "SALEM",
+		"State" : "AR",
+		"Latitude" : "+36.425836"
+	},
+	{
+		"Longitude" : "-091.642030",
+		"Zipcode" : "72577",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARP",
+		"City" : "SIDNEY",
+		"State" : "AR",
+		"Latitude" : "+36.066371"
+	},
+	{
+		"Longitude" : "-091.804608",
+		"Zipcode" : "72578",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "STURKIE",
+		"State" : "AR",
+		"Latitude" : "+36.374704"
+	},
+	{
+		"Longitude" : "-091.531986",
+		"Zipcode" : "72579",
+		"ZipClass" : "STANDARD",
+		"County" : "INDEPENDENCE",
+		"City" : "SULPHUR ROCK",
+		"State" : "AR",
+		"Latitude" : "+35.762212"
+	},
+	{
+		"Longitude" : "-091.929979",
+		"Zipcode" : "72581",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEBURNE",
+		"City" : "TUMBLING SHOALS",
+		"State" : "AR",
+		"Latitude" : "+35.570591"
+	},
+	{
+		"Longitude" : "-091.939420",
+		"Zipcode" : "72583",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "VIOLA",
+		"State" : "AR",
+		"Latitude" : "+36.392508"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72584",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "VIOLET HILL",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72585",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "WIDEMAN",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-091.944673",
+		"Zipcode" : "72587",
+		"ZipClass" : "STANDARD",
+		"County" : "IZARD",
+		"City" : "WISEMAN",
+		"State" : "AR",
+		"Latitude" : "+36.064329"
+	},
+	{
+		"Longitude" : "-093.092861",
+		"Zipcode" : "72601",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "HARRISON",
+		"State" : "AR",
+		"Latitude" : "+36.295086"
+	},
+	{
+		"Longitude" : "-093.122554",
+		"Zipcode" : "72602",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "HARRISON",
+		"State" : "AR",
+		"Latitude" : "+36.355213"
+	},
+	{
+		"Longitude" : "-092.127207",
+		"Zipcode" : "72610",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "ALCO",
+		"State" : "AR",
+		"Latitude" : "+35.918960"
+	},
+	{
+		"Longitude" : "-093.252276",
+		"Zipcode" : "72611",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "ALPENA",
+		"State" : "AR",
+		"Latitude" : "+36.310814"
+	},
+	{
+		"Longitude" : "-093.699392",
+		"Zipcode" : "72613",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "BEAVER",
+		"State" : "AR",
+		"Latitude" : "+36.431111"
+	},
+	{
+		"Longitude" : "-093.032099",
+		"Zipcode" : "72615",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOONE",
+		"City" : "BERGMAN",
+		"State" : "AR",
+		"Latitude" : "+36.308349"
+	},
+	{
+		"Longitude" : "-093.561600",
+		"Zipcode" : "72616",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "BERRYVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.316779"
+	},
+	{
+		"Longitude" : "-092.372635",
+		"Zipcode" : "72617",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "BIG FLAT",
+		"State" : "AR",
+		"Latitude" : "+36.236380"
+	},
+	{
+		"Longitude" : "-092.629141",
+		"Zipcode" : "72619",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "BULL SHOALS",
+		"State" : "AR",
+		"Latitude" : "+36.318875"
+	},
+	{
+		"Longitude" : "-092.329645",
+		"Zipcode" : "72623",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "CLARKRIDGE",
+		"State" : "AR",
+		"Latitude" : "+36.472426"
+	},
+	{
+		"Longitude" : "-093.232298",
+		"Zipcode" : "72624",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "COMPTON",
+		"State" : "AR",
+		"Latitude" : "+35.924868"
+	},
+	{
+		"Longitude" : "-092.542469",
+		"Zipcode" : "72626",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "COTTER",
+		"State" : "AR",
+		"Latitude" : "+36.308162"
+	},
+	{
+		"Longitude" : "-093.232298",
+		"Zipcode" : "72628",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "DEER",
+		"State" : "AR",
+		"Latitude" : "+35.924868"
+	},
+	{
+		"Longitude" : "-092.545572",
+		"Zipcode" : "72629",
+		"ZipClass" : "STANDARD",
+		"County" : "VAN BUREN",
+		"City" : "DENNARD",
+		"State" : "AR",
+		"Latitude" : "+35.577270"
+	},
+	{
+		"Longitude" : "-092.913268",
+		"Zipcode" : "72630",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "DIAMOND CITY",
+		"State" : "AR",
+		"Latitude" : "+36.458431"
+	},
+	{
+		"Longitude" : "-093.767298",
+		"Zipcode" : "72631",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "EUREKA SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.435013"
+	},
+	{
+		"Longitude" : "-093.755084",
+		"Zipcode" : "72632",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "EUREKA SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.399338"
+	},
+	{
+		"Longitude" : "-092.953069",
+		"Zipcode" : "72633",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "EVERTON",
+		"State" : "AR",
+		"Latitude" : "+36.164402"
+	},
+	{
+		"Longitude" : "-092.595011",
+		"Zipcode" : "72634",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "FLIPPIN",
+		"State" : "AR",
+		"Latitude" : "+36.317483"
+	},
+	{
+		"Longitude" : "-092.487866",
+		"Zipcode" : "72635",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "GASSVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.318799"
+	},
+	{
+		"Longitude" : "-092.681408",
+		"Zipcode" : "72636",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEARCY",
+		"City" : "GILBERT",
+		"State" : "AR",
+		"Latitude" : "+35.916744"
+	},
+	{
+		"Longitude" : "-093.578750",
+		"Zipcode" : "72638",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "GREEN FOREST",
+		"State" : "AR",
+		"Latitude" : "+36.310046"
+	},
+	{
+		"Longitude" : "-092.681408",
+		"Zipcode" : "72639",
+		"ZipClass" : "STANDARD",
+		"County" : "SEARCY",
+		"City" : "HARRIET",
+		"State" : "AR",
+		"Latitude" : "+35.916744"
+	},
+	{
+		"Longitude" : "-093.232298",
+		"Zipcode" : "72640",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "HASTY",
+		"State" : "AR",
+		"Latitude" : "+35.924868"
+	},
+	{
+		"Longitude" : "-093.187651",
+		"Zipcode" : "72641",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "JASPER",
+		"State" : "AR",
+		"Latitude" : "+36.005808"
+	},
+	{
+		"Longitude" : "-092.494857",
+		"Zipcode" : "72642",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "LAKEVIEW",
+		"State" : "AR",
+		"Latitude" : "+36.372572"
+	},
+	{
+		"Longitude" : "-093.003892",
+		"Zipcode" : "72644",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "LEAD HILL",
+		"State" : "AR",
+		"Latitude" : "+36.384844"
+	},
+	{
+		"Longitude" : "-092.554222",
+		"Zipcode" : "72645",
+		"ZipClass" : "STANDARD",
+		"County" : "SEARCY",
+		"City" : "LESLIE",
+		"State" : "AR",
+		"Latitude" : "+35.835751"
+	},
+	{
+		"Longitude" : "-093.232298",
+		"Zipcode" : "72648",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "MARBLE FALLS",
+		"State" : "AR",
+		"Latitude" : "+35.924868"
+	},
+	{
+		"Longitude" : "-092.638610",
+		"Zipcode" : "72650",
+		"ZipClass" : "STANDARD",
+		"County" : "SEARCY",
+		"City" : "MARSHALL",
+		"State" : "AR",
+		"Latitude" : "+35.908133"
+	},
+	{
+		"Longitude" : "-092.474246",
+		"Zipcode" : "72651",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "MIDWAY",
+		"State" : "AR",
+		"Latitude" : "+36.377920"
+	},
+	{
+		"Longitude" : "-092.372153",
+		"Zipcode" : "72653",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "MOUNTAIN HOME",
+		"State" : "AR",
+		"Latitude" : "+36.318679"
+	},
+	{
+		"Longitude" : "-092.372635",
+		"Zipcode" : "72654",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "MOUNTAIN HOME",
+		"State" : "AR",
+		"Latitude" : "+36.236380"
+	},
+	{
+		"Longitude" : "-093.065393",
+		"Zipcode" : "72655",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "MOUNT JUDEA",
+		"State" : "AR",
+		"Latitude" : "+35.940667"
+	},
+	{
+		"Longitude" : "-092.127207",
+		"Zipcode" : "72657",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "TIMBO",
+		"State" : "AR",
+		"Latitude" : "+35.918960"
+	},
+	{
+		"Longitude" : "-092.310805",
+		"Zipcode" : "72658",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "NORFORK",
+		"State" : "AR",
+		"Latitude" : "+36.250583"
+	},
+	{
+		"Longitude" : "-092.372635",
+		"Zipcode" : "72659",
+		"ZipClass" : "STANDARD",
+		"County" : "BAXTER",
+		"City" : "NORFORK",
+		"State" : "AR",
+		"Latitude" : "+36.236380"
+	},
+	{
+		"Longitude" : "-093.370349",
+		"Zipcode" : "72660",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "OAK GROVE",
+		"State" : "AR",
+		"Latitude" : "+36.466366"
+	},
+	{
+		"Longitude" : "-092.581535",
+		"Zipcode" : "72661",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "OAKLAND",
+		"State" : "AR",
+		"Latitude" : "+36.457556"
+	},
+	{
+		"Longitude" : "-093.166451",
+		"Zipcode" : "72662",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "OMAHA",
+		"State" : "AR",
+		"Latitude" : "+36.421611"
+	},
+	{
+		"Longitude" : "-092.127207",
+		"Zipcode" : "72663",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "ONIA",
+		"State" : "AR",
+		"Latitude" : "+35.918960"
+	},
+	{
+		"Longitude" : "-093.232298",
+		"Zipcode" : "72666",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "PARTHENON",
+		"State" : "AR",
+		"Latitude" : "+35.924868"
+	},
+	{
+		"Longitude" : "-092.648858",
+		"Zipcode" : "72668",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "PEEL",
+		"State" : "AR",
+		"Latitude" : "+36.280677"
+	},
+	{
+		"Longitude" : "-092.681408",
+		"Zipcode" : "72669",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEARCY",
+		"City" : "PINDALL",
+		"State" : "AR",
+		"Latitude" : "+35.916744"
+	},
+	{
+		"Longitude" : "-093.232298",
+		"Zipcode" : "72670",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "PONCA",
+		"State" : "AR",
+		"Latitude" : "+35.924868"
+	},
+	{
+		"Longitude" : "-092.841645",
+		"Zipcode" : "72672",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "PYATT",
+		"State" : "AR",
+		"Latitude" : "+36.248623"
+	},
+	{
+		"Longitude" : "-092.699416",
+		"Zipcode" : "72675",
+		"ZipClass" : "STANDARD",
+		"County" : "SEARCY",
+		"City" : "SAINT JOE",
+		"State" : "AR",
+		"Latitude" : "+35.908381"
+	},
+	{
+		"Longitude" : "-092.685913",
+		"Zipcode" : "72677",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "SUMMIT",
+		"State" : "AR",
+		"Latitude" : "+36.267239"
+	},
+	{
+		"Longitude" : "-092.843116",
+		"Zipcode" : "72679",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "TILLY",
+		"State" : "AR",
+		"Latitude" : "+35.706942"
+	},
+	{
+		"Longitude" : "-092.127207",
+		"Zipcode" : "72680",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "TIMBO",
+		"State" : "AR",
+		"Latitude" : "+35.918960"
+	},
+	{
+		"Longitude" : "-092.989569",
+		"Zipcode" : "72682",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "VALLEY SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.148259"
+	},
+	{
+		"Longitude" : "-093.232298",
+		"Zipcode" : "72683",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "VENDOR",
+		"State" : "AR",
+		"Latitude" : "+35.924868"
+	},
+	{
+		"Longitude" : "-092.961082",
+		"Zipcode" : "72685",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "WESTERN GROVE",
+		"State" : "AR",
+		"Latitude" : "+36.098936"
+	},
+	{
+		"Longitude" : "-092.681408",
+		"Zipcode" : "72686",
+		"ZipClass" : "STANDARD",
+		"County" : "SEARCY",
+		"City" : "WITTS SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+35.916744"
+	},
+	{
+		"Longitude" : "-092.688068",
+		"Zipcode" : "72687",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "YELLVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.254905"
+	},
+	{
+		"Longitude" : "-094.190997",
+		"Zipcode" : "72701",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FAYETTEVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.974602"
+	},
+	{
+		"Longitude" : "-094.219977",
+		"Zipcode" : "72702",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FAYETTEVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.994030"
+	},
+	{
+		"Longitude" : "-094.074168",
+		"Zipcode" : "72703",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FAYETTEVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.126249"
+	},
+	{
+		"Longitude" : "-094.309322",
+		"Zipcode" : "72704",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FAYETTEVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.087732"
+	},
+	{
+		"Longitude" : "-094.043837",
+		"Zipcode" : "72711",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENTON",
+		"City" : "AVOCA",
+		"State" : "AR",
+		"Latitude" : "+36.397805"
+	},
+	{
+		"Longitude" : "-094.223419",
+		"Zipcode" : "72712",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "BENTONVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.347107"
+	},
+	{
+		"Longitude" : "-094.330765",
+		"Zipcode" : "72714",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "BELLA VISTA",
+		"State" : "AR",
+		"Latitude" : "+36.426659"
+	},
+	{
+		"Longitude" : "-094.427298",
+		"Zipcode" : "72715",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "BELLA VISTA",
+		"State" : "AR",
+		"Latitude" : "+36.442323"
+	},
+	{
+		"Longitude" : "-093.956801",
+		"Zipcode" : "72716",
+		"ZipClass" : "UNIQUE",
+		"County" : "BENTON",
+		"City" : "BENTONVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.299507"
+	},
+	{
+		"Longitude" : "-094.444142",
+		"Zipcode" : "72717",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CANEHILL",
+		"State" : "AR",
+		"Latitude" : "+35.847701"
+	},
+	{
+		"Longitude" : "-094.245722",
+		"Zipcode" : "72718",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "CAVE SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.266213"
+	},
+	{
+		"Longitude" : "-094.366608",
+		"Zipcode" : "72719",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "CENTERTON",
+		"State" : "AR",
+		"Latitude" : "+36.328519"
+	},
+	{
+		"Longitude" : "-093.704255",
+		"Zipcode" : "72721",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "COMBS",
+		"State" : "AR",
+		"Latitude" : "+36.033601"
+	},
+	{
+		"Longitude" : "-094.462415",
+		"Zipcode" : "72722",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "DECATUR",
+		"State" : "AR",
+		"Latitude" : "+36.321366"
+	},
+	{
+		"Longitude" : "-093.997572",
+		"Zipcode" : "72727",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ELKINS",
+		"State" : "AR",
+		"Latitude" : "+35.972331"
+	},
+	{
+		"Longitude" : "-094.254573",
+		"Zipcode" : "72728",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "ELM SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.210013"
+	},
+	{
+		"Longitude" : "-094.460202",
+		"Zipcode" : "72729",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "EVANSVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.805150"
+	},
+	{
+		"Longitude" : "-094.209785",
+		"Zipcode" : "72730",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FARMINGTON",
+		"State" : "AR",
+		"Latitude" : "+36.081641"
+	},
+	{
+		"Longitude" : "-094.184187",
+		"Zipcode" : "72732",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "GARFIELD",
+		"State" : "AR",
+		"Latitude" : "+36.365048"
+	},
+	{
+		"Longitude" : "-093.927748",
+		"Zipcode" : "72733",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENTON",
+		"City" : "GATEWAY",
+		"State" : "AR",
+		"Latitude" : "+36.486424"
+	},
+	{
+		"Longitude" : "-094.435512",
+		"Zipcode" : "72734",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "GENTRY",
+		"State" : "AR",
+		"Latitude" : "+36.288541"
+	},
+	{
+		"Longitude" : "-093.966645",
+		"Zipcode" : "72735",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "GOSHEN",
+		"State" : "AR",
+		"Latitude" : "+36.087551"
+	},
+	{
+		"Longitude" : "-094.471388",
+		"Zipcode" : "72736",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "GRAVETTE",
+		"State" : "AR",
+		"Latitude" : "+36.381245"
+	},
+	{
+		"Longitude" : "-094.152899",
+		"Zipcode" : "72737",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "GREENLAND",
+		"State" : "AR",
+		"Latitude" : "+35.928186"
+	},
+	{
+		"Longitude" : "-093.704255",
+		"Zipcode" : "72738",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HINDSVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.033601"
+	},
+	{
+		"Longitude" : "-094.339813",
+		"Zipcode" : "72739",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "HIWASSE",
+		"State" : "AR",
+		"Latitude" : "+36.447008"
+	},
+	{
+		"Longitude" : "-093.778748",
+		"Zipcode" : "72740",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "HUNTSVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.028046"
+	},
+	{
+		"Longitude" : "-094.219977",
+		"Zipcode" : "72741",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "JOHNSON",
+		"State" : "AR",
+		"Latitude" : "+35.994030"
+	},
+	{
+		"Longitude" : "-093.704255",
+		"Zipcode" : "72742",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "KINGSTON",
+		"State" : "AR",
+		"Latitude" : "+36.033601"
+	},
+	{
+		"Longitude" : "-094.362211",
+		"Zipcode" : "72744",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LINCOLN",
+		"State" : "AR",
+		"Latitude" : "+35.935038"
+	},
+	{
+		"Longitude" : "-094.123680",
+		"Zipcode" : "72745",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "LOWELL",
+		"State" : "AR",
+		"Latitude" : "+36.295890"
+	},
+	{
+		"Longitude" : "-094.583717",
+		"Zipcode" : "72747",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "MAYSVILLE",
+		"State" : "AR",
+		"Latitude" : "+36.391882"
+	},
+	{
+		"Longitude" : "-094.467398",
+		"Zipcode" : "72749",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MORROW",
+		"State" : "AR",
+		"Latitude" : "+35.861658"
+	},
+	{
+		"Longitude" : "-094.129727",
+		"Zipcode" : "72751",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "PEA RIDGE",
+		"State" : "AR",
+		"Latitude" : "+36.461444"
+	},
+	{
+		"Longitude" : "-093.704255",
+		"Zipcode" : "72752",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "PETTIGREW",
+		"State" : "AR",
+		"Latitude" : "+36.033601"
+	},
+	{
+		"Longitude" : "-094.317796",
+		"Zipcode" : "72753",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PRAIRIE GROVE",
+		"State" : "AR",
+		"Latitude" : "+35.927985"
+	},
+	{
+		"Longitude" : "-094.181568",
+		"Zipcode" : "72756",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "ROGERS",
+		"State" : "AR",
+		"Latitude" : "+36.355417"
+	},
+	{
+		"Longitude" : "-094.115649",
+		"Zipcode" : "72757",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "ROGERS",
+		"State" : "AR",
+		"Latitude" : "+36.371981"
+	},
+	{
+		"Longitude" : "-094.154459",
+		"Zipcode" : "72758",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "ROGERS",
+		"State" : "AR",
+		"Latitude" : "+36.316945"
+	},
+	{
+		"Longitude" : "-093.704255",
+		"Zipcode" : "72760",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "SAINT PAUL",
+		"State" : "AR",
+		"Latitude" : "+36.033601"
+	},
+	{
+		"Longitude" : "-094.383778",
+		"Zipcode" : "72761",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "SILOAM SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.217910"
+	},
+	{
+		"Longitude" : "-094.240112",
+		"Zipcode" : "72762",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SPRINGDALE",
+		"State" : "AR",
+		"Latitude" : "+36.167220"
+	},
+	{
+		"Longitude" : "-094.042788",
+		"Zipcode" : "72764",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SPRINGDALE",
+		"State" : "AR",
+		"Latitude" : "+36.171598"
+	},
+	{
+		"Longitude" : "-094.153512",
+		"Zipcode" : "72765",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SPRINGDALE",
+		"State" : "AR",
+		"Latitude" : "+36.172541"
+	},
+	{
+		"Longitude" : "-094.219977",
+		"Zipcode" : "72766",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SPRINGDALE",
+		"State" : "AR",
+		"Latitude" : "+35.994030"
+	},
+	{
+		"Longitude" : "-094.449942",
+		"Zipcode" : "72768",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "SULPHUR SPRINGS",
+		"State" : "AR",
+		"Latitude" : "+36.384794"
+	},
+	{
+		"Longitude" : "-094.493930",
+		"Zipcode" : "72769",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SUMMERS",
+		"State" : "AR",
+		"Latitude" : "+36.027589"
+	},
+	{
+		"Longitude" : "-094.242884",
+		"Zipcode" : "72770",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "TONTITOWN",
+		"State" : "AR",
+		"Latitude" : "+36.149980"
+	},
+	{
+		"Longitude" : "-093.704255",
+		"Zipcode" : "72773",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "WESLEY",
+		"State" : "AR",
+		"Latitude" : "+36.033601"
+	},
+	{
+		"Longitude" : "-094.198446",
+		"Zipcode" : "72774",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WEST FORK",
+		"State" : "AR",
+		"Latitude" : "+35.980250"
+	},
+	{
+		"Longitude" : "-093.704255",
+		"Zipcode" : "72776",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "WITTER",
+		"State" : "AR",
+		"Latitude" : "+36.033601"
+	},
+	{
+		"Longitude" : "-093.072885",
+		"Zipcode" : "72801",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "RUSSELLVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.294650"
+	},
+	{
+		"Longitude" : "-093.071219",
+		"Zipcode" : "72802",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "RUSSELLVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.306683"
+	},
+	{
+		"Longitude" : "-093.113308",
+		"Zipcode" : "72811",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "RUSSELLVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.314678"
+	},
+	{
+		"Longitude" : "-093.054388",
+		"Zipcode" : "72812",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "RUSSELLVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.423102"
+	},
+	{
+		"Longitude" : "-093.752642",
+		"Zipcode" : "72820",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "ALIX",
+		"State" : "AR",
+		"Latitude" : "+35.433560"
+	},
+	{
+		"Longitude" : "-093.759811",
+		"Zipcode" : "72821",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ALTUS",
+		"State" : "AR",
+		"Latitude" : "+35.434638"
+	},
+	{
+		"Longitude" : "-092.992285",
+		"Zipcode" : "72823",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "ATKINS",
+		"State" : "AR",
+		"Latitude" : "+35.325504"
+	},
+	{
+		"Longitude" : "-093.303203",
+		"Zipcode" : "72824",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "BELLEVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.030397"
+	},
+	{
+		"Longitude" : "-093.749342",
+		"Zipcode" : "72826",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "BLUE MOUNTAIN",
+		"State" : "AR",
+		"Latitude" : "+35.130561"
+	},
+	{
+		"Longitude" : "-093.303203",
+		"Zipcode" : "72827",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "BLUFFTON",
+		"State" : "AR",
+		"Latitude" : "+35.030397"
+	},
+	{
+		"Longitude" : "-093.303203",
+		"Zipcode" : "72828",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "BRIGGSVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.030397"
+	},
+	{
+		"Longitude" : "-093.303203",
+		"Zipcode" : "72829",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YELL",
+		"City" : "CENTERVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.030397"
+	},
+	{
+		"Longitude" : "-093.516564",
+		"Zipcode" : "72830",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "CLARKSVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.473886"
+	},
+	{
+		"Longitude" : "-093.672986",
+		"Zipcode" : "72832",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "COAL HILL",
+		"State" : "AR",
+		"Latitude" : "+35.430098"
+	},
+	{
+		"Longitude" : "-093.381315",
+		"Zipcode" : "72833",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "DANVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.052818"
+	},
+	{
+		"Longitude" : "-093.184774",
+		"Zipcode" : "72834",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "DARDANELLE",
+		"State" : "AR",
+		"Latitude" : "+35.235025"
+	},
+	{
+		"Longitude" : "-093.353200",
+		"Zipcode" : "72835",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "DELAWARE",
+		"State" : "AR",
+		"Latitude" : "+35.283987"
+	},
+	{
+		"Longitude" : "-093.063411",
+		"Zipcode" : "72837",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "DOVER",
+		"State" : "AR",
+		"Latitude" : "+35.498142"
+	},
+	{
+		"Longitude" : "-093.303203",
+		"Zipcode" : "72838",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "GRAVELLY",
+		"State" : "AR",
+		"Latitude" : "+35.030397"
+	},
+	{
+		"Longitude" : "-093.437264",
+		"Zipcode" : "72839",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "HAGARVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.547714"
+	},
+	{
+		"Longitude" : "-093.643560",
+		"Zipcode" : "72840",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "HARTMAN",
+		"State" : "AR",
+		"Latitude" : "+35.436024"
+	},
+	{
+		"Longitude" : "-094.079724",
+		"Zipcode" : "72841",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "HARVEY",
+		"State" : "AR",
+		"Latitude" : "+34.882558"
+	},
+	{
+		"Longitude" : "-093.303203",
+		"Zipcode" : "72842",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "HAVANA",
+		"State" : "AR",
+		"Latitude" : "+35.030397"
+	},
+	{
+		"Longitude" : "-092.961624",
+		"Zipcode" : "72843",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "HECTOR",
+		"State" : "AR",
+		"Latitude" : "+35.549856"
+	},
+	{
+		"Longitude" : "-093.335178",
+		"Zipcode" : "72845",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "KNOXVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.385081"
+	},
+	{
+		"Longitude" : "-093.369461",
+		"Zipcode" : "72846",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "LAMAR",
+		"State" : "AR",
+		"Latitude" : "+35.476393"
+	},
+	{
+		"Longitude" : "-093.244365",
+		"Zipcode" : "72847",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "LONDON",
+		"State" : "AR",
+		"Latitude" : "+35.368118"
+	},
+	{
+		"Longitude" : "-093.452038",
+		"Zipcode" : "72851",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "NEW BLAINE",
+		"State" : "AR",
+		"Latitude" : "+35.264248"
+	},
+	{
+		"Longitude" : "-093.437264",
+		"Zipcode" : "72852",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "OARK",
+		"State" : "AR",
+		"Latitude" : "+35.547714"
+	},
+	{
+		"Longitude" : "-093.303203",
+		"Zipcode" : "72853",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "OLA",
+		"State" : "AR",
+		"Latitude" : "+35.030397"
+	},
+	{
+		"Longitude" : "-093.445104",
+		"Zipcode" : "72854",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "OZONE",
+		"State" : "AR",
+		"Latitude" : "+35.634994"
+	},
+	{
+		"Longitude" : "-093.615999",
+		"Zipcode" : "72855",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "PARIS",
+		"State" : "AR",
+		"Latitude" : "+35.274106"
+	},
+	{
+		"Longitude" : "-093.034092",
+		"Zipcode" : "72856",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "PELSOR",
+		"State" : "AR",
+		"Latitude" : "+35.617231"
+	},
+	{
+		"Longitude" : "-093.295552",
+		"Zipcode" : "72857",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "PLAINVIEW",
+		"State" : "AR",
+		"Latitude" : "+34.992068"
+	},
+	{
+		"Longitude" : "-093.026834",
+		"Zipcode" : "72858",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "POTTSVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.232993"
+	},
+	{
+		"Longitude" : "-093.303203",
+		"Zipcode" : "72860",
+		"ZipClass" : "STANDARD",
+		"County" : "YELL",
+		"City" : "ROVER",
+		"State" : "AR",
+		"Latitude" : "+35.030397"
+	},
+	{
+		"Longitude" : "-093.537210",
+		"Zipcode" : "72863",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "SCRANTON",
+		"State" : "AR",
+		"Latitude" : "+35.344745"
+	},
+	{
+		"Longitude" : "-093.599117",
+		"Zipcode" : "72865",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "SUBIACO",
+		"State" : "AR",
+		"Latitude" : "+35.315285"
+	},
+	{
+		"Longitude" : "-094.339412",
+		"Zipcode" : "72901",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.231245"
+	},
+	{
+		"Longitude" : "-094.409114",
+		"Zipcode" : "72902",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.386190"
+	},
+	{
+		"Longitude" : "-094.356112",
+		"Zipcode" : "72903",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.354491"
+	},
+	{
+		"Longitude" : "-094.387568",
+		"Zipcode" : "72904",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.410754"
+	},
+	{
+		"Longitude" : "-094.238160",
+		"Zipcode" : "72905",
+		"ZipClass" : "UNIQUE",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.191046"
+	},
+	{
+		"Longitude" : "-094.238160",
+		"Zipcode" : "72906",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.191046"
+	},
+	{
+		"Longitude" : "-094.402779",
+		"Zipcode" : "72908",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.321912"
+	},
+	{
+		"Longitude" : "-094.238160",
+		"Zipcode" : "72913",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.191046"
+	},
+	{
+		"Longitude" : "-094.238160",
+		"Zipcode" : "72914",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.191046"
+	},
+	{
+		"Longitude" : "-094.373858",
+		"Zipcode" : "72916",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.299584"
+	},
+	{
+		"Longitude" : "-094.238160",
+		"Zipcode" : "72917",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.191046"
+	},
+	{
+		"Longitude" : "-094.238160",
+		"Zipcode" : "72918",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.191046"
+	},
+	{
+		"Longitude" : "-094.238160",
+		"Zipcode" : "72919",
+		"ZipClass" : "UNIQUE",
+		"County" : "SEBASTIAN",
+		"City" : "FORT SMITH",
+		"State" : "AR",
+		"Latitude" : "+35.191046"
+	},
+	{
+		"Longitude" : "-094.193334",
+		"Zipcode" : "72921",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "ALMA",
+		"State" : "AR",
+		"Latitude" : "+35.479157"
+	},
+	{
+		"Longitude" : "-094.354857",
+		"Zipcode" : "72923",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "BARLING",
+		"State" : "AR",
+		"Latitude" : "+35.216137"
+	},
+	{
+		"Longitude" : "-094.079724",
+		"Zipcode" : "72924",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "BATES",
+		"State" : "AR",
+		"Latitude" : "+34.882558"
+	},
+	{
+		"Longitude" : "-094.079724",
+		"Zipcode" : "72926",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "BOLES",
+		"State" : "AR",
+		"Latitude" : "+34.882558"
+	},
+	{
+		"Longitude" : "-093.930763",
+		"Zipcode" : "72927",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "BOONEVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.193560"
+	},
+	{
+		"Longitude" : "-093.922527",
+		"Zipcode" : "72928",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BRANCH",
+		"State" : "AR",
+		"Latitude" : "+35.311075"
+	},
+	{
+		"Longitude" : "-093.889389",
+		"Zipcode" : "72930",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CECIL",
+		"State" : "AR",
+		"Latitude" : "+35.486917"
+	},
+	{
+		"Longitude" : "-094.369383",
+		"Zipcode" : "72932",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "CEDARVILLE",
+		"State" : "AR",
+		"Latitude" : "+35.654281"
+	},
+	{
+		"Longitude" : "-093.950980",
+		"Zipcode" : "72933",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CHARLESTON",
+		"State" : "AR",
+		"Latitude" : "+35.387924"
+	},
+	{
+		"Longitude" : "-094.265465",
+		"Zipcode" : "72934",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "CHESTER",
+		"State" : "AR",
+		"Latitude" : "+35.676030"
+	},
+	{
+		"Longitude" : "-094.114259",
+		"Zipcode" : "72935",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRAWFORD",
+		"City" : "DYER",
+		"State" : "AR",
+		"Latitude" : "+35.496721"
+	},
+	{
+		"Longitude" : "-094.206011",
+		"Zipcode" : "72936",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "GREENWOOD",
+		"State" : "AR",
+		"Latitude" : "+35.181209"
+	},
+	{
+		"Longitude" : "-094.329759",
+		"Zipcode" : "72937",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "HACKETT",
+		"State" : "AR",
+		"Latitude" : "+35.119452"
+	},
+	{
+		"Longitude" : "-094.353779",
+		"Zipcode" : "72938",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "HARTFORD",
+		"State" : "AR",
+		"Latitude" : "+35.060177"
+	},
+	{
+		"Longitude" : "-094.246130",
+		"Zipcode" : "72940",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "HUNTINGTON",
+		"State" : "AR",
+		"Latitude" : "+35.137860"
+	},
+	{
+		"Longitude" : "-094.187830",
+		"Zipcode" : "72941",
+		"ZipClass" : "STANDARD",
+		"County" : "SEBASTIAN",
+		"City" : "LAVACA",
+		"State" : "AR",
+		"Latitude" : "+35.241045"
+	},
+	{
+		"Longitude" : "-093.812592",
+		"Zipcode" : "72943",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "MAGAZINE",
+		"State" : "AR",
+		"Latitude" : "+35.182673"
+	},
+	{
+		"Longitude" : "-094.243268",
+		"Zipcode" : "72944",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "MANSFIELD",
+		"State" : "AR",
+		"Latitude" : "+35.063448"
+	},
+	{
+		"Longitude" : "-094.349565",
+		"Zipcode" : "72945",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEBASTIAN",
+		"City" : "MIDLAND",
+		"State" : "AR",
+		"Latitude" : "+35.096272"
+	},
+	{
+		"Longitude" : "-094.149687",
+		"Zipcode" : "72946",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "MOUNTAINBURG",
+		"State" : "AR",
+		"Latitude" : "+35.646440"
+	},
+	{
+		"Longitude" : "-094.124776",
+		"Zipcode" : "72947",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "MULBERRY",
+		"State" : "AR",
+		"Latitude" : "+35.565805"
+	},
+	{
+		"Longitude" : "-094.404185",
+		"Zipcode" : "72948",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "NATURAL DAM",
+		"State" : "AR",
+		"Latitude" : "+35.680583"
+	},
+	{
+		"Longitude" : "-093.909428",
+		"Zipcode" : "72949",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "OZARK",
+		"State" : "AR",
+		"Latitude" : "+35.405649"
+	},
+	{
+		"Longitude" : "-094.079724",
+		"Zipcode" : "72950",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "PARKS",
+		"State" : "AR",
+		"Latitude" : "+34.882558"
+	},
+	{
+		"Longitude" : "-093.889921",
+		"Zipcode" : "72951",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "RATCLIFF",
+		"State" : "AR",
+		"Latitude" : "+35.291693"
+	},
+	{
+		"Longitude" : "-094.291296",
+		"Zipcode" : "72952",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "RUDY",
+		"State" : "AR",
+		"Latitude" : "+35.546818"
+	},
+	{
+		"Longitude" : "-094.411402",
+		"Zipcode" : "72955",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "UNIONTOWN",
+		"State" : "AR",
+		"Latitude" : "+35.567940"
+	},
+	{
+		"Longitude" : "-094.299086",
+		"Zipcode" : "72956",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "VAN BUREN",
+		"State" : "AR",
+		"Latitude" : "+35.496491"
+	},
+	{
+		"Longitude" : "-094.318648",
+		"Zipcode" : "72957",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "VAN BUREN",
+		"State" : "AR",
+		"Latitude" : "+35.494412"
+	},
+	{
+		"Longitude" : "-094.089381",
+		"Zipcode" : "72958",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "WALDRON",
+		"State" : "AR",
+		"Latitude" : "+34.908133"
+	},
+	{
+		"Longitude" : "-094.106004",
+		"Zipcode" : "72959",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WINSLOW",
+		"State" : "AR",
+		"Latitude" : "+35.862402"
+	}
+]}

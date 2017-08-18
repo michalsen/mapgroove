@@ -1,0 +1,5574 @@
+{
+	"result":[
+	{
+		"Longitude" : "-076.867928",
+		"Zipcode" : "20601",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "WALDORF",
+		"State" : "MD",
+		"Latitude" : "+38.603783"
+	},
+	{
+		"Longitude" : "-076.912165",
+		"Zipcode" : "20602",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "WALDORF",
+		"State" : "MD",
+		"Latitude" : "+38.518559"
+	},
+	{
+		"Longitude" : "-077.062012",
+		"Zipcode" : "20603",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "WALDORF",
+		"State" : "MD",
+		"Latitude" : "+38.521150"
+	},
+	{
+		"Longitude" : "-076.981651",
+		"Zipcode" : "20604",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "WALDORF",
+		"State" : "MD",
+		"Latitude" : "+38.509548"
+	},
+	{
+		"Longitude" : "-076.748088",
+		"Zipcode" : "20606",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "ABELL",
+		"State" : "MD",
+		"Latitude" : "+38.247149"
+	},
+	{
+		"Longitude" : "-076.998396",
+		"Zipcode" : "20607",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "ACCOKEEK",
+		"State" : "MD",
+		"Latitude" : "+38.666071"
+	},
+	{
+		"Longitude" : "-076.712639",
+		"Zipcode" : "20608",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "AQUASCO",
+		"State" : "MD",
+		"Latitude" : "+38.588843"
+	},
+	{
+		"Longitude" : "-076.743445",
+		"Zipcode" : "20609",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "AVENUE",
+		"State" : "MD",
+		"Latitude" : "+38.300217"
+	},
+	{
+		"Longitude" : "-076.533026",
+		"Zipcode" : "20610",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALVERT",
+		"City" : "BARSTOW",
+		"State" : "MD",
+		"Latitude" : "+38.444727"
+	},
+	{
+		"Longitude" : "-076.980364",
+		"Zipcode" : "20611",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "BEL ALTON",
+		"State" : "MD",
+		"Latitude" : "+38.454919"
+	},
+	{
+		"Longitude" : "-076.687344",
+		"Zipcode" : "20612",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHARLES",
+		"City" : "BENEDICT",
+		"State" : "MD",
+		"Latitude" : "+38.508689"
+	},
+	{
+		"Longitude" : "-076.824293",
+		"Zipcode" : "20613",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BRANDYWINE",
+		"State" : "MD",
+		"Latitude" : "+38.658807"
+	},
+	{
+		"Longitude" : "-076.567469",
+		"Zipcode" : "20615",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "BROOMES ISLAND",
+		"State" : "MD",
+		"Latitude" : "+38.493984"
+	},
+	{
+		"Longitude" : "-077.084649",
+		"Zipcode" : "20616",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "BRYANS ROAD",
+		"State" : "MD",
+		"Latitude" : "+38.636227"
+	},
+	{
+		"Longitude" : "-076.853752",
+		"Zipcode" : "20617",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "BRYANTOWN",
+		"State" : "MD",
+		"Latitude" : "+38.536256"
+	},
+	{
+		"Longitude" : "-076.763069",
+		"Zipcode" : "20618",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "BUSHWOOD",
+		"State" : "MD",
+		"Latitude" : "+38.309507"
+	},
+	{
+		"Longitude" : "-076.637383",
+		"Zipcode" : "20619",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "CALIFORNIA",
+		"State" : "MD",
+		"Latitude" : "+38.324994"
+	},
+	{
+		"Longitude" : "-076.621613",
+		"Zipcode" : "20620",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "CALLAWAY",
+		"State" : "MD",
+		"Latitude" : "+38.347927"
+	},
+	{
+		"Longitude" : "-076.783288",
+		"Zipcode" : "20621",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "CHAPTICO",
+		"State" : "MD",
+		"Latitude" : "+38.350987"
+	},
+	{
+		"Longitude" : "-076.754943",
+		"Zipcode" : "20622",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "CHARLOTTE HALL",
+		"State" : "MD",
+		"Latitude" : "+38.484421"
+	},
+	{
+		"Longitude" : "-076.840572",
+		"Zipcode" : "20623",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "CHELTENHAM",
+		"State" : "MD",
+		"Latitude" : "+38.745514"
+	},
+	{
+		"Longitude" : "-076.730799",
+		"Zipcode" : "20624",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "CLEMENTS",
+		"State" : "MD",
+		"Latitude" : "+38.329424"
+	},
+	{
+		"Longitude" : "-076.850190",
+		"Zipcode" : "20625",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHARLES",
+		"City" : "COBB ISLAND",
+		"State" : "MD",
+		"Latitude" : "+38.262037"
+	},
+	{
+		"Longitude" : "-076.762227",
+		"Zipcode" : "20626",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "COLTONS POINT",
+		"State" : "MD",
+		"Latitude" : "+38.236645"
+	},
+	{
+		"Longitude" : "-076.703971",
+		"Zipcode" : "20627",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARYS",
+		"City" : "COMPTON",
+		"State" : "MD",
+		"Latitude" : "+38.276828"
+	},
+	{
+		"Longitude" : "-076.359651",
+		"Zipcode" : "20628",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "DAMERON",
+		"State" : "MD",
+		"Latitude" : "+38.148114"
+	},
+	{
+		"Longitude" : "-076.434476",
+		"Zipcode" : "20629",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALVERT",
+		"City" : "DOWELL",
+		"State" : "MD",
+		"Latitude" : "+38.376974"
+	},
+	{
+		"Longitude" : "-076.474510",
+		"Zipcode" : "20630",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "DRAYDEN",
+		"State" : "MD",
+		"Latitude" : "+38.178948"
+	},
+	{
+		"Longitude" : "-076.948718",
+		"Zipcode" : "20632",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "FAULKNER",
+		"State" : "MD",
+		"Latitude" : "+38.421762"
+	},
+	{
+		"Longitude" : "-076.501513",
+		"Zipcode" : "20634",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "GREAT MILLS",
+		"State" : "MD",
+		"Latitude" : "+38.242387"
+	},
+	{
+		"Longitude" : "-076.607676",
+		"Zipcode" : "20635",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARYS",
+		"City" : "HELEN",
+		"State" : "MD",
+		"Latitude" : "+38.312112"
+	},
+	{
+		"Longitude" : "-076.569163",
+		"Zipcode" : "20636",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "HOLLYWOOD",
+		"State" : "MD",
+		"Latitude" : "+38.342437"
+	},
+	{
+		"Longitude" : "-076.781313",
+		"Zipcode" : "20637",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "HUGHESVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.520572"
+	},
+	{
+		"Longitude" : "-076.546326",
+		"Zipcode" : "20639",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "HUNTINGTOWN",
+		"State" : "MD",
+		"Latitude" : "+38.519368"
+	},
+	{
+		"Longitude" : "-077.052819",
+		"Zipcode" : "20640",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "INDIAN HEAD",
+		"State" : "MD",
+		"Latitude" : "+38.453999"
+	},
+	{
+		"Longitude" : "-077.148283",
+		"Zipcode" : "20643",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHARLES",
+		"City" : "IRONSIDES",
+		"State" : "MD",
+		"Latitude" : "+38.503876"
+	},
+	{
+		"Longitude" : "-076.884910",
+		"Zipcode" : "20645",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "ISSUE",
+		"State" : "MD",
+		"Latitude" : "+38.298477"
+	},
+	{
+		"Longitude" : "-077.010340",
+		"Zipcode" : "20646",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "LA PLATA",
+		"State" : "MD",
+		"Latitude" : "+38.513875"
+	},
+	{
+		"Longitude" : "-076.655917",
+		"Zipcode" : "20650",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "LEONARDTOWN",
+		"State" : "MD",
+		"Latitude" : "+38.278757"
+	},
+	{
+		"Longitude" : "-076.430853",
+		"Zipcode" : "20653",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "LEXINGTON PARK",
+		"State" : "MD",
+		"Latitude" : "+38.232909"
+	},
+	{
+		"Longitude" : "-076.683325",
+		"Zipcode" : "20656",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "LOVEVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.359274"
+	},
+	{
+		"Longitude" : "-076.459768",
+		"Zipcode" : "20657",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "LUSBY",
+		"State" : "MD",
+		"Latitude" : "+38.493430"
+	},
+	{
+		"Longitude" : "-077.159621",
+		"Zipcode" : "20658",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "MARBURY",
+		"State" : "MD",
+		"Latitude" : "+38.563331"
+	},
+	{
+		"Longitude" : "-076.608406",
+		"Zipcode" : "20659",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "MECHANICSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.279211"
+	},
+	{
+		"Longitude" : "-076.694102",
+		"Zipcode" : "20660",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARYS",
+		"City" : "MORGANZA",
+		"State" : "MD",
+		"Latitude" : "+38.363994"
+	},
+	{
+		"Longitude" : "-076.884559",
+		"Zipcode" : "20661",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHARLES",
+		"City" : "MOUNT VICTORIA",
+		"State" : "MD",
+		"Latitude" : "+38.343591"
+	},
+	{
+		"Longitude" : "-077.192545",
+		"Zipcode" : "20662",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "NANJEMOY",
+		"State" : "MD",
+		"Latitude" : "+38.430568"
+	},
+	{
+		"Longitude" : "-076.917398",
+		"Zipcode" : "20664",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "NEWBURG",
+		"State" : "MD",
+		"Latitude" : "+38.364718"
+	},
+	{
+		"Longitude" : "-076.433445",
+		"Zipcode" : "20667",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "PARK HALL",
+		"State" : "MD",
+		"Latitude" : "+38.216529"
+	},
+	{
+		"Longitude" : "-076.420952",
+		"Zipcode" : "20670",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "PATUXENT RIVER",
+		"State" : "MD",
+		"Latitude" : "+38.281094"
+	},
+	{
+		"Longitude" : "-076.498367",
+		"Zipcode" : "20674",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "PINEY POINT",
+		"State" : "MD",
+		"Latitude" : "+38.168630"
+	},
+	{
+		"Longitude" : "-077.015916",
+		"Zipcode" : "20675",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "POMFRET",
+		"State" : "MD",
+		"Latitude" : "+38.576096"
+	},
+	{
+		"Longitude" : "-076.531761",
+		"Zipcode" : "20676",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "PORT REPUBLIC",
+		"State" : "MD",
+		"Latitude" : "+38.560231"
+	},
+	{
+		"Longitude" : "-077.037862",
+		"Zipcode" : "20677",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "PORT TOBACCO",
+		"State" : "MD",
+		"Latitude" : "+38.504699"
+	},
+	{
+		"Longitude" : "-076.528578",
+		"Zipcode" : "20678",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "PRINCE FREDERICK",
+		"State" : "MD",
+		"Latitude" : "+38.511282"
+	},
+	{
+		"Longitude" : "-076.369412",
+		"Zipcode" : "20680",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "RIDGE",
+		"State" : "MD",
+		"Latitude" : "+38.122181"
+	},
+	{
+		"Longitude" : "-076.848093",
+		"Zipcode" : "20682",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHARLES",
+		"City" : "ROCK POINT",
+		"State" : "MD",
+		"Latitude" : "+38.283551"
+	},
+	{
+		"Longitude" : "-076.385350",
+		"Zipcode" : "20684",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "SAINT INIGOES",
+		"State" : "MD",
+		"Latitude" : "+38.141377"
+	},
+	{
+		"Longitude" : "-076.517360",
+		"Zipcode" : "20685",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "SAINT LEONARD",
+		"State" : "MD",
+		"Latitude" : "+38.440484"
+	},
+	{
+		"Longitude" : "-076.420738",
+		"Zipcode" : "20686",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT MARYS",
+		"City" : "SAINT MARYS CITY",
+		"State" : "MD",
+		"Latitude" : "+38.188796"
+	},
+	{
+		"Longitude" : "-076.351659",
+		"Zipcode" : "20687",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "SCOTLAND",
+		"State" : "MD",
+		"Latitude" : "+38.078898"
+	},
+	{
+		"Longitude" : "-076.440937",
+		"Zipcode" : "20688",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "SOLOMONS",
+		"State" : "MD",
+		"Latitude" : "+38.377410"
+	},
+	{
+		"Longitude" : "-076.541436",
+		"Zipcode" : "20689",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "SUNDERLAND",
+		"State" : "MD",
+		"Latitude" : "+38.556448"
+	},
+	{
+		"Longitude" : "-076.525504",
+		"Zipcode" : "20690",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "TALL TIMBERS",
+		"State" : "MD",
+		"Latitude" : "+38.160744"
+	},
+	{
+		"Longitude" : "-076.501604",
+		"Zipcode" : "20692",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT MARYS",
+		"City" : "VALLEY LEE",
+		"State" : "MD",
+		"Latitude" : "+38.192688"
+	},
+	{
+		"Longitude" : "-077.084009",
+		"Zipcode" : "20693",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "WELCOME",
+		"State" : "MD",
+		"Latitude" : "+38.476246"
+	},
+	{
+		"Longitude" : "-076.990278",
+		"Zipcode" : "20695",
+		"ZipClass" : "STANDARD",
+		"County" : "CHARLES",
+		"City" : "WHITE PLAINS",
+		"State" : "MD",
+		"Latitude" : "+38.597440"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20697",
+		"ZipClass" : "UNIQUE",
+		"County" : "PRINCE GEORGES",
+		"City" : "SOUTHERN MD FACILITY",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.798843",
+		"Zipcode" : "20701",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "ANNAPOLIS JUNCTION",
+		"State" : "MD",
+		"Latitude" : "+39.133200"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20703",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "LANHAM",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20704",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BELTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.886795",
+		"Zipcode" : "20705",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BELTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.044858"
+	},
+	{
+		"Longitude" : "-076.856135",
+		"Zipcode" : "20706",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "LANHAM",
+		"State" : "MD",
+		"Latitude" : "+38.960760"
+	},
+	{
+		"Longitude" : "-076.881945",
+		"Zipcode" : "20707",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "LAUREL",
+		"State" : "MD",
+		"Latitude" : "+39.093136"
+	},
+	{
+		"Longitude" : "-076.834493",
+		"Zipcode" : "20708",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "LAUREL",
+		"State" : "MD",
+		"Latitude" : "+39.049859"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20709",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "LAUREL",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.925943",
+		"Zipcode" : "20710",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BLADENSBURG",
+		"State" : "MD",
+		"Latitude" : "+38.901211"
+	},
+	{
+		"Longitude" : "-076.645735",
+		"Zipcode" : "20711",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "LOTHIAN",
+		"State" : "MD",
+		"Latitude" : "+38.802263"
+	},
+	{
+		"Longitude" : "-076.967057",
+		"Zipcode" : "20712",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "MOUNT RAINIER",
+		"State" : "MD",
+		"Latitude" : "+38.942660"
+	},
+	{
+		"Longitude" : "-076.595901",
+		"Zipcode" : "20714",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "NORTH BEACH",
+		"State" : "MD",
+		"Latitude" : "+38.610496"
+	},
+	{
+		"Longitude" : "-076.743790",
+		"Zipcode" : "20715",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BOWIE",
+		"State" : "MD",
+		"Latitude" : "+38.982612"
+	},
+	{
+		"Longitude" : "-076.709789",
+		"Zipcode" : "20716",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BOWIE",
+		"State" : "MD",
+		"Latitude" : "+38.926311"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20717",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BOWIE",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20718",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BOWIE",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20719",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BOWIE",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.790980",
+		"Zipcode" : "20720",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BOWIE",
+		"State" : "MD",
+		"Latitude" : "+38.988510"
+	},
+	{
+		"Longitude" : "-076.787141",
+		"Zipcode" : "20721",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BOWIE",
+		"State" : "MD",
+		"Latitude" : "+38.919357"
+	},
+	{
+		"Longitude" : "-076.865764",
+		"Zipcode" : "20722",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "BRENTWOOD",
+		"State" : "MD",
+		"Latitude" : "+38.886849"
+	},
+	{
+		"Longitude" : "-076.868729",
+		"Zipcode" : "20723",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "LAUREL",
+		"State" : "MD",
+		"Latitude" : "+39.136520"
+	},
+	{
+		"Longitude" : "-076.804443",
+		"Zipcode" : "20724",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "LAUREL",
+		"State" : "MD",
+		"Latitude" : "+39.098008"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20725",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "LAUREL",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20726",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "LAUREL",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20731",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "CAPITOL HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.526169",
+		"Zipcode" : "20732",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "CHESAPEAKE BEACH",
+		"State" : "MD",
+		"Latitude" : "+38.565841"
+	},
+	{
+		"Longitude" : "-076.532569",
+		"Zipcode" : "20733",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "CHURCHTON",
+		"State" : "MD",
+		"Latitude" : "+38.921313"
+	},
+	{
+		"Longitude" : "-076.912096",
+		"Zipcode" : "20735",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "CLINTON",
+		"State" : "MD",
+		"Latitude" : "+38.739765"
+	},
+	{
+		"Longitude" : "-076.562876",
+		"Zipcode" : "20736",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "OWINGS",
+		"State" : "MD",
+		"Latitude" : "+38.548775"
+	},
+	{
+		"Longitude" : "-076.917795",
+		"Zipcode" : "20737",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "RIVERDALE",
+		"State" : "MD",
+		"Latitude" : "+38.963206"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20738",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "RIVERDALE",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.895852",
+		"Zipcode" : "20740",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "COLLEGE PARK",
+		"State" : "MD",
+		"Latitude" : "+38.979495"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20741",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "COLLEGE PARK",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20742",
+		"ZipClass" : "UNIQUE",
+		"County" : "PRINCE GEORGES",
+		"City" : "COLLEGE PARK",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.892544",
+		"Zipcode" : "20743",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "CAPITOL HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+38.889711"
+	},
+	{
+		"Longitude" : "-076.977596",
+		"Zipcode" : "20744",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "FORT WASHINGTON",
+		"State" : "MD",
+		"Latitude" : "+38.757114"
+	},
+	{
+		"Longitude" : "-076.957746",
+		"Zipcode" : "20745",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "OXON HILL",
+		"State" : "MD",
+		"Latitude" : "+38.814362"
+	},
+	{
+		"Longitude" : "-076.912745",
+		"Zipcode" : "20746",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "SUITLAND",
+		"State" : "MD",
+		"Latitude" : "+38.834912"
+	},
+	{
+		"Longitude" : "-076.885744",
+		"Zipcode" : "20747",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "DISTRICT HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+38.851262"
+	},
+	{
+		"Longitude" : "-076.935795",
+		"Zipcode" : "20748",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "TEMPLE HILLS",
+		"State" : "MD",
+		"Latitude" : "+38.817263"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20749",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "FORT WASHINGTON",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20750",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "OXON HILL",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.621708",
+		"Zipcode" : "20751",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "DEALE",
+		"State" : "MD",
+		"Latitude" : "+38.960712"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20752",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "SUITLAND",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20753",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "DISTRICT HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.604364",
+		"Zipcode" : "20754",
+		"ZipClass" : "STANDARD",
+		"County" : "CALVERT",
+		"City" : "DUNKIRK",
+		"State" : "MD",
+		"Latitude" : "+38.604072"
+	},
+	{
+		"Longitude" : "-076.691190",
+		"Zipcode" : "20755",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "FORT GEORGE G MEADE",
+		"State" : "MD",
+		"Latitude" : "+39.154307"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20757",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "TEMPLE HILLS",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.583547",
+		"Zipcode" : "20758",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "FRIENDSHIP",
+		"State" : "MD",
+		"Latitude" : "+38.736079"
+	},
+	{
+		"Longitude" : "-076.927881",
+		"Zipcode" : "20759",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "FULTON",
+		"State" : "MD",
+		"Latitude" : "+39.160806"
+	},
+	{
+		"Longitude" : "-076.875551",
+		"Zipcode" : "20762",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "ANDREWS AIR FORCE BASE",
+		"State" : "MD",
+		"Latitude" : "+38.806207"
+	},
+	{
+		"Longitude" : "-076.815044",
+		"Zipcode" : "20763",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "SAVAGE",
+		"State" : "MD",
+		"Latitude" : "+39.136189"
+	},
+	{
+		"Longitude" : "-076.589086",
+		"Zipcode" : "20764",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "SHADY SIDE",
+		"State" : "MD",
+		"Latitude" : "+38.965727"
+	},
+	{
+		"Longitude" : "-076.545083",
+		"Zipcode" : "20765",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANNE ARUNDEL",
+		"City" : "GALESVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.974512"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20768",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "GREENBELT",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.811392",
+		"Zipcode" : "20769",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "GLENN DALE",
+		"State" : "MD",
+		"Latitude" : "+38.983460"
+	},
+	{
+		"Longitude" : "-076.880966",
+		"Zipcode" : "20770",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "GREENBELT",
+		"State" : "MD",
+		"Latitude" : "+38.995909"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20771",
+		"ZipClass" : "UNIQUE",
+		"County" : "PRINCE GEORGES",
+		"City" : "GREENBELT",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.786093",
+		"Zipcode" : "20772",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "UPPER MARLBORO",
+		"State" : "MD",
+		"Latitude" : "+38.816171"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20773",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "UPPER MARLBORO",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.815591",
+		"Zipcode" : "20774",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "UPPER MARLBORO",
+		"State" : "MD",
+		"Latitude" : "+38.868212"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20775",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "UPPER MARLBORO",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.564785",
+		"Zipcode" : "20776",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "HARWOOD",
+		"State" : "MD",
+		"Latitude" : "+38.962992"
+	},
+	{
+		"Longitude" : "-076.966718",
+		"Zipcode" : "20777",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "HIGHLAND",
+		"State" : "MD",
+		"Latitude" : "+39.173059"
+	},
+	{
+		"Longitude" : "-076.563885",
+		"Zipcode" : "20778",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "WEST RIVER",
+		"State" : "MD",
+		"Latitude" : "+39.002411"
+	},
+	{
+		"Longitude" : "-076.558783",
+		"Zipcode" : "20779",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "TRACYS LANDING",
+		"State" : "MD",
+		"Latitude" : "+38.942878"
+	},
+	{
+		"Longitude" : "-076.937446",
+		"Zipcode" : "20781",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "HYATTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.941610"
+	},
+	{
+		"Longitude" : "-076.967247",
+		"Zipcode" : "20782",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "HYATTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.912211"
+	},
+	{
+		"Longitude" : "-076.972297",
+		"Zipcode" : "20783",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "HYATTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.000509"
+	},
+	{
+		"Longitude" : "-076.895795",
+		"Zipcode" : "20784",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "HYATTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.951310"
+	},
+	{
+		"Longitude" : "-076.875494",
+		"Zipcode" : "20785",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "HYATTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.922261"
+	},
+	{
+		"Longitude" : "-076.982405",
+		"Zipcode" : "20787",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "HYATTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.987070"
+	},
+	{
+		"Longitude" : "-076.950913",
+		"Zipcode" : "20788",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "HYATTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.969434"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20790",
+		"ZipClass" : "UNIQUE",
+		"County" : "PRINCE GEORGES",
+		"City" : "CAPITOL HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20791",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PRINCE GEORGES",
+		"City" : "CAPITOL HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "20792",
+		"ZipClass" : "STANDARD",
+		"County" : "PRINCE GEORGES",
+		"City" : "UPPER MARLBORO",
+		"State" : "MD",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-076.813394",
+		"Zipcode" : "20794",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "JESSUP",
+		"State" : "MD",
+		"Latitude" : "+39.155266"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20797",
+		"ZipClass" : "UNIQUE",
+		"County" : "PRINCE GEORGES",
+		"City" : "SOUTHERN MD FACILITY",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20799",
+		"ZipClass" : "UNIQUE",
+		"County" : "PRINCE GEORGES",
+		"City" : "CAPITOL HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-077.140801",
+		"Zipcode" : "20812",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GLEN ECHO",
+		"State" : "MD",
+		"Latitude" : "+38.968510"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20813",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.104600",
+		"Zipcode" : "20814",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+39.004520"
+	},
+	{
+		"Longitude" : "-077.079449",
+		"Zipcode" : "20815",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CHEVY CHASE",
+		"State" : "MD",
+		"Latitude" : "+38.983759"
+	},
+	{
+		"Longitude" : "-077.116500",
+		"Zipcode" : "20816",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+38.955907"
+	},
+	{
+		"Longitude" : "-077.153801",
+		"Zipcode" : "20817",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+38.989586"
+	},
+	{
+		"Longitude" : "-077.180053",
+		"Zipcode" : "20818",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CABIN JOHN",
+		"State" : "MD",
+		"Latitude" : "+39.128407"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20824",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20825",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CHEVY CHASE",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20827",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.066745",
+		"Zipcode" : "20830",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "OLNEY",
+		"State" : "MD",
+		"Latitude" : "+39.155220"
+	},
+	{
+		"Longitude" : "-077.077651",
+		"Zipcode" : "20832",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "OLNEY",
+		"State" : "MD",
+		"Latitude" : "+39.150364"
+	},
+	{
+		"Longitude" : "-077.050550",
+		"Zipcode" : "20833",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BROOKEVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.204341"
+	},
+	{
+		"Longitude" : "-077.403211",
+		"Zipcode" : "20837",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "POOLESVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.123705"
+	},
+	{
+		"Longitude" : "-077.370970",
+		"Zipcode" : "20838",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BARNESVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.228424"
+	},
+	{
+		"Longitude" : "-077.419605",
+		"Zipcode" : "20839",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BEALLSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.178770"
+	},
+	{
+		"Longitude" : "-077.328764",
+		"Zipcode" : "20841",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BOYDS",
+		"State" : "MD",
+		"Latitude" : "+39.184675"
+	},
+	{
+		"Longitude" : "-077.421929",
+		"Zipcode" : "20842",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "DICKERSON",
+		"State" : "MD",
+		"Latitude" : "+39.191093"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20847",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ROCKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20848",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ROCKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20849",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ROCKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.184127",
+		"Zipcode" : "20850",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ROCKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.089557"
+	},
+	{
+		"Longitude" : "-077.125751",
+		"Zipcode" : "20851",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ROCKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.077858"
+	},
+	{
+		"Longitude" : "-077.121096",
+		"Zipcode" : "20852",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ROCKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.052158"
+	},
+	{
+		"Longitude" : "-077.099600",
+		"Zipcode" : "20853",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ROCKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.107357"
+	},
+	{
+		"Longitude" : "-077.234792",
+		"Zipcode" : "20854",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "POTOMAC",
+		"State" : "MD",
+		"Latitude" : "+39.029839"
+	},
+	{
+		"Longitude" : "-077.138145",
+		"Zipcode" : "20855",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "DERWOOD",
+		"State" : "MD",
+		"Latitude" : "+39.142857"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20857",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "ROCKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20859",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "POTOMAC",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.044614",
+		"Zipcode" : "20860",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SANDY SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.142424"
+	},
+	{
+		"Longitude" : "-076.994498",
+		"Zipcode" : "20861",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ASHTON",
+		"State" : "MD",
+		"Latitude" : "+39.151468"
+	},
+	{
+		"Longitude" : "-077.020626",
+		"Zipcode" : "20862",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BRINKLOW",
+		"State" : "MD",
+		"Latitude" : "+39.175506"
+	},
+	{
+		"Longitude" : "-076.935861",
+		"Zipcode" : "20866",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "BURTONSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.105644"
+	},
+	{
+		"Longitude" : "-076.972157",
+		"Zipcode" : "20868",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SPENCERVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.122262"
+	},
+	{
+		"Longitude" : "-077.259816",
+		"Zipcode" : "20871",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CLARKSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.207775"
+	},
+	{
+		"Longitude" : "-077.215203",
+		"Zipcode" : "20872",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "DAMASCUS",
+		"State" : "MD",
+		"Latitude" : "+39.285477"
+	},
+	{
+		"Longitude" : "-077.282223",
+		"Zipcode" : "20874",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GERMANTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.135512"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20875",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GERMANTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.239729",
+		"Zipcode" : "20876",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GERMANTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.210218"
+	},
+	{
+		"Longitude" : "-077.182953",
+		"Zipcode" : "20877",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.139336"
+	},
+	{
+		"Longitude" : "-077.198452",
+		"Zipcode" : "20878",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.091857"
+	},
+	{
+		"Longitude" : "-077.185542",
+		"Zipcode" : "20879",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.173000"
+	},
+	{
+		"Longitude" : "-077.172591",
+		"Zipcode" : "20880",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "WASHINGTON GROVE",
+		"State" : "MD",
+		"Latitude" : "+39.138815"
+	},
+	{
+		"Longitude" : "-077.145781",
+		"Zipcode" : "20882",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.233512"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "20883",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20884",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.202798",
+		"Zipcode" : "20885",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.187421"
+	},
+	{
+		"Longitude" : "-077.187250",
+		"Zipcode" : "20886",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MONTGOMERY VILLAGE",
+		"State" : "MD",
+		"Latitude" : "+39.175703"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20889",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20891",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "KENSINGTON",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.103410",
+		"Zipcode" : "20892",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+39.002375"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20894",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "BETHESDA",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.111555",
+		"Zipcode" : "20895",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "KENSINGTON",
+		"State" : "MD",
+		"Latitude" : "+39.095380"
+	},
+	{
+		"Longitude" : "-077.093100",
+		"Zipcode" : "20896",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "GARRETT PARK",
+		"State" : "MD",
+		"Latitude" : "+39.036496"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20897",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "SUBURB MARYLAND FAC",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20898",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.221984",
+		"Zipcode" : "20899",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "GAITHERSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.140324"
+	},
+	{
+		"Longitude" : "-077.010948",
+		"Zipcode" : "20901",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.036289"
+	},
+	{
+		"Longitude" : "-077.044449",
+		"Zipcode" : "20902",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.039974"
+	},
+	{
+		"Longitude" : "-076.980597",
+		"Zipcode" : "20903",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.015209"
+	},
+	{
+		"Longitude" : "-076.996866",
+		"Zipcode" : "20904",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.066844"
+	},
+	{
+		"Longitude" : "-077.005870",
+		"Zipcode" : "20905",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.114753"
+	},
+	{
+		"Longitude" : "-077.061278",
+		"Zipcode" : "20906",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.083978"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20907",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20908",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.029648",
+		"Zipcode" : "20910",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.003109"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20911",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.005798",
+		"Zipcode" : "20912",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "TAKOMA PARK",
+		"State" : "MD",
+		"Latitude" : "+38.982360"
+	},
+	{
+		"Longitude" : "-076.877743",
+		"Zipcode" : "20913",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "TAKOMA PARK",
+		"State" : "MD",
+		"Latitude" : "+38.833563"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20914",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20915",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20916",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20918",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-077.207617",
+		"Zipcode" : "20997",
+		"ZipClass" : "UNIQUE",
+		"County" : "MONTGOMERY",
+		"City" : "SILVER SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.143979"
+	},
+	{
+		"Longitude" : "-076.231177",
+		"Zipcode" : "21001",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "ABERDEEN",
+		"State" : "MD",
+		"Latitude" : "+39.499909"
+	},
+	{
+		"Longitude" : "-076.120824",
+		"Zipcode" : "21005",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "ABERDEEN PROVING GROUND",
+		"State" : "MD",
+		"Latitude" : "+39.477062"
+	},
+	{
+		"Longitude" : "-076.277279",
+		"Zipcode" : "21009",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "ABINGDON",
+		"State" : "MD",
+		"Latitude" : "+39.472579"
+	},
+	{
+		"Longitude" : "-076.295468",
+		"Zipcode" : "21010",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "GUNPOWDER",
+		"State" : "MD",
+		"Latitude" : "+39.380158"
+	},
+	{
+		"Longitude" : "-076.623203",
+		"Zipcode" : "21012",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ARNOLD",
+		"State" : "MD",
+		"Latitude" : "+39.031461"
+	},
+	{
+		"Longitude" : "-076.486624",
+		"Zipcode" : "21013",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "BALDWIN",
+		"State" : "MD",
+		"Latitude" : "+39.496406"
+	},
+	{
+		"Longitude" : "-076.321984",
+		"Zipcode" : "21014",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "BEL AIR",
+		"State" : "MD",
+		"Latitude" : "+39.547557"
+	},
+	{
+		"Longitude" : "-076.298713",
+		"Zipcode" : "21015",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "BEL AIR",
+		"State" : "MD",
+		"Latitude" : "+39.551757"
+	},
+	{
+		"Longitude" : "-076.238835",
+		"Zipcode" : "21017",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "BELCAMP",
+		"State" : "MD",
+		"Latitude" : "+39.473660"
+	},
+	{
+		"Longitude" : "-076.385083",
+		"Zipcode" : "21018",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARFORD",
+		"City" : "BENSON",
+		"State" : "MD",
+		"Latitude" : "+39.509276"
+	},
+	{
+		"Longitude" : "-076.804699",
+		"Zipcode" : "21020",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "BORING",
+		"State" : "MD",
+		"Latitude" : "+39.521276"
+	},
+	{
+		"Longitude" : "-076.671742",
+		"Zipcode" : "21022",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "BROOKLANDVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.397861"
+	},
+	{
+		"Longitude" : "-076.743196",
+		"Zipcode" : "21023",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "BUTLER",
+		"State" : "MD",
+		"Latitude" : "+39.532955"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21027",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "CHASE",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.236427",
+		"Zipcode" : "21028",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "CHURCHVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.563172"
+	},
+	{
+		"Longitude" : "-076.951498",
+		"Zipcode" : "21029",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "CLARKSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.212456"
+	},
+	{
+		"Longitude" : "-076.664077",
+		"Zipcode" : "21030",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "COCKEYSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.491227"
+	},
+	{
+		"Longitude" : "-076.655257",
+		"Zipcode" : "21031",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "HUNT VALLEY",
+		"State" : "MD",
+		"Latitude" : "+39.480493"
+	},
+	{
+		"Longitude" : "-076.588272",
+		"Zipcode" : "21032",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "CROWNSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.018110"
+	},
+	{
+		"Longitude" : "-076.226377",
+		"Zipcode" : "21034",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "DARLINGTON",
+		"State" : "MD",
+		"Latitude" : "+39.646205"
+	},
+	{
+		"Longitude" : "-076.628630",
+		"Zipcode" : "21035",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "DAVIDSONVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.042960"
+	},
+	{
+		"Longitude" : "-077.003750",
+		"Zipcode" : "21036",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "DAYTON",
+		"State" : "MD",
+		"Latitude" : "+39.240155"
+	},
+	{
+		"Longitude" : "-076.623684",
+		"Zipcode" : "21037",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "EDGEWATER",
+		"State" : "MD",
+		"Latitude" : "+38.975128"
+	},
+	{
+		"Longitude" : "-076.293579",
+		"Zipcode" : "21040",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "EDGEWOOD",
+		"State" : "MD",
+		"Latitude" : "+39.434799"
+	},
+	{
+		"Longitude" : "-076.941902",
+		"Zipcode" : "21041",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "ELLICOTT CITY",
+		"State" : "MD",
+		"Latitude" : "+39.236405"
+	},
+	{
+		"Longitude" : "-076.897247",
+		"Zipcode" : "21042",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "ELLICOTT CITY",
+		"State" : "MD",
+		"Latitude" : "+39.261897"
+	},
+	{
+		"Longitude" : "-076.800124",
+		"Zipcode" : "21043",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "ELLICOTT CITY",
+		"State" : "MD",
+		"Latitude" : "+39.254833"
+	},
+	{
+		"Longitude" : "-076.887905",
+		"Zipcode" : "21044",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "COLUMBIA",
+		"State" : "MD",
+		"Latitude" : "+39.206132"
+	},
+	{
+		"Longitude" : "-076.825475",
+		"Zipcode" : "21045",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "COLUMBIA",
+		"State" : "MD",
+		"Latitude" : "+39.207806"
+	},
+	{
+		"Longitude" : "-076.834945",
+		"Zipcode" : "21046",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "COLUMBIA",
+		"State" : "MD",
+		"Latitude" : "+39.175406"
+	},
+	{
+		"Longitude" : "-076.439035",
+		"Zipcode" : "21047",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "FALLSTON",
+		"State" : "MD",
+		"Latitude" : "+39.531206"
+	},
+	{
+		"Longitude" : "-076.910108",
+		"Zipcode" : "21048",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "FINKSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.499102"
+	},
+	{
+		"Longitude" : "-076.392733",
+		"Zipcode" : "21050",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "FOREST HILL",
+		"State" : "MD",
+		"Latitude" : "+39.587155"
+	},
+	{
+		"Longitude" : "-076.448385",
+		"Zipcode" : "21051",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "FORK",
+		"State" : "MD",
+		"Latitude" : "+39.473140"
+	},
+	{
+		"Longitude" : "-076.445599",
+		"Zipcode" : "21052",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "FORT HOWARD",
+		"State" : "MD",
+		"Latitude" : "+39.206998"
+	},
+	{
+		"Longitude" : "-076.717644",
+		"Zipcode" : "21053",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "FREELAND",
+		"State" : "MD",
+		"Latitude" : "+39.687103"
+	},
+	{
+		"Longitude" : "-076.631238",
+		"Zipcode" : "21054",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "GAMBRILLS",
+		"State" : "MD",
+		"Latitude" : "+39.048359"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21055",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "GARRISON",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.545474",
+		"Zipcode" : "21056",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANNE ARUNDEL",
+		"City" : "GIBSON ISLAND",
+		"State" : "MD",
+		"Latitude" : "+39.086064"
+	},
+	{
+		"Longitude" : "-076.501186",
+		"Zipcode" : "21057",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "GLEN ARM",
+		"State" : "MD",
+		"Latitude" : "+39.451006"
+	},
+	{
+		"Longitude" : "-076.579836",
+		"Zipcode" : "21060",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "GLEN BURNIE",
+		"State" : "MD",
+		"Latitude" : "+39.170158"
+	},
+	{
+		"Longitude" : "-076.615637",
+		"Zipcode" : "21061",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "GLEN BURNIE",
+		"State" : "MD",
+		"Latitude" : "+38.967943"
+	},
+	{
+		"Longitude" : "-076.594942",
+		"Zipcode" : "21062",
+		"ZipClass" : "UNIQUE",
+		"County" : "ANNE ARUNDEL",
+		"City" : "GLEN BURNIE",
+		"State" : "MD",
+		"Latitude" : "+38.974203"
+	},
+	{
+		"Longitude" : "-076.766097",
+		"Zipcode" : "21071",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "GLYNDON",
+		"State" : "MD",
+		"Latitude" : "+39.515748"
+	},
+	{
+		"Longitude" : "-076.864427",
+		"Zipcode" : "21074",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "HAMPSTEAD",
+		"State" : "MD",
+		"Latitude" : "+39.614552"
+	},
+	{
+		"Longitude" : "-076.753093",
+		"Zipcode" : "21075",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "ELKRIDGE",
+		"State" : "MD",
+		"Latitude" : "+39.205756"
+	},
+	{
+		"Longitude" : "-076.615557",
+		"Zipcode" : "21076",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "HANOVER",
+		"State" : "MD",
+		"Latitude" : "+39.057694"
+	},
+	{
+		"Longitude" : "-076.629277",
+		"Zipcode" : "21077",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "HARMANS",
+		"State" : "MD",
+		"Latitude" : "+38.947102"
+	},
+	{
+		"Longitude" : "-076.155170",
+		"Zipcode" : "21078",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "HAVRE DE GRACE",
+		"State" : "MD",
+		"Latitude" : "+39.560095"
+	},
+	{
+		"Longitude" : "-077.049302",
+		"Zipcode" : "21080",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "HENRYTON",
+		"State" : "MD",
+		"Latitude" : "+39.534703"
+	},
+	{
+		"Longitude" : "-076.471736",
+		"Zipcode" : "21082",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "HYDES",
+		"State" : "MD",
+		"Latitude" : "+39.481685"
+	},
+	{
+		"Longitude" : "-076.419734",
+		"Zipcode" : "21084",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "JARRETTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.552706"
+	},
+	{
+		"Longitude" : "-076.351881",
+		"Zipcode" : "21085",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "JOPPA",
+		"State" : "MD",
+		"Latitude" : "+39.449157"
+	},
+	{
+		"Longitude" : "-076.421783",
+		"Zipcode" : "21087",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "KINGSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.445257"
+	},
+	{
+		"Longitude" : "-077.049302",
+		"Zipcode" : "21088",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "LINEBORO",
+		"State" : "MD",
+		"Latitude" : "+39.534703"
+	},
+	{
+		"Longitude" : "-076.631743",
+		"Zipcode" : "21090",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "LINTHICUM HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+39.068309"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21092",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "LONG GREEN",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.654593",
+		"Zipcode" : "21093",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "LUTHERVILLE TIMONIUM",
+		"State" : "MD",
+		"Latitude" : "+39.433206"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21094",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "LUTHERVILLE TIMONIUM",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.594942",
+		"Zipcode" : "21098",
+		"ZipClass" : "UNIQUE",
+		"County" : "ANNE ARUNDEL",
+		"City" : "HANOVER",
+		"State" : "MD",
+		"Latitude" : "+38.974203"
+	},
+	{
+		"Longitude" : "-076.870849",
+		"Zipcode" : "21102",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "MANCHESTER",
+		"State" : "MD",
+		"Latitude" : "+39.556164"
+	},
+	{
+		"Longitude" : "-076.916267",
+		"Zipcode" : "21104",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "MARRIOTTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.378104"
+	},
+	{
+		"Longitude" : "-076.659492",
+		"Zipcode" : "21105",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "MARYLAND LINE",
+		"State" : "MD",
+		"Latitude" : "+39.711379"
+	},
+	{
+		"Longitude" : "-076.580934",
+		"Zipcode" : "21106",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ANNE ARUNDEL",
+		"City" : "MAYO",
+		"State" : "MD",
+		"Latitude" : "+38.971475"
+	},
+	{
+		"Longitude" : "-076.582479",
+		"Zipcode" : "21108",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "MILLERSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.986961"
+	},
+	{
+		"Longitude" : "-076.597891",
+		"Zipcode" : "21111",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "MONKTON",
+		"State" : "MD",
+		"Latitude" : "+39.566189"
+	},
+	{
+		"Longitude" : "-076.586886",
+		"Zipcode" : "21113",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ODENTON",
+		"State" : "MD",
+		"Latitude" : "+38.975412"
+	},
+	{
+		"Longitude" : "-076.622577",
+		"Zipcode" : "21114",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "CROFTON",
+		"State" : "MD",
+		"Latitude" : "+39.064360"
+	},
+	{
+		"Longitude" : "-076.787696",
+		"Zipcode" : "21117",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "OWINGS MILLS",
+		"State" : "MD",
+		"Latitude" : "+39.429055"
+	},
+	{
+		"Longitude" : "-076.673693",
+		"Zipcode" : "21120",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "PARKTON",
+		"State" : "MD",
+		"Latitude" : "+39.642203"
+	},
+	{
+		"Longitude" : "-076.616185",
+		"Zipcode" : "21122",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "PASADENA",
+		"State" : "MD",
+		"Latitude" : "+38.976813"
+	},
+	{
+		"Longitude" : "-076.594942",
+		"Zipcode" : "21123",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "PASADENA",
+		"State" : "MD",
+		"Latitude" : "+38.974203"
+	},
+	{
+		"Longitude" : "-076.450084",
+		"Zipcode" : "21128",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "PERRY HALL",
+		"State" : "MD",
+		"Latitude" : "+39.404757"
+	},
+	{
+		"Longitude" : "-076.211676",
+		"Zipcode" : "21130",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARFORD",
+		"City" : "PERRYMAN",
+		"State" : "MD",
+		"Latitude" : "+39.471559"
+	},
+	{
+		"Longitude" : "-076.577619",
+		"Zipcode" : "21131",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "PHOENIX",
+		"State" : "MD",
+		"Latitude" : "+39.483255"
+	},
+	{
+		"Longitude" : "-076.421834",
+		"Zipcode" : "21132",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "PYLESVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.692854"
+	},
+	{
+		"Longitude" : "-076.816675",
+		"Zipcode" : "21133",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "RANDALLSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.377872"
+	},
+	{
+		"Longitude" : "-076.796347",
+		"Zipcode" : "21136",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "REISTERSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.487615"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21139",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "RIDERWOOD",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.625199",
+		"Zipcode" : "21140",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "RIVA",
+		"State" : "MD",
+		"Latitude" : "+39.031943"
+	},
+	{
+		"Longitude" : "-076.623121",
+		"Zipcode" : "21144",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "SEVERN",
+		"State" : "MD",
+		"Latitude" : "+38.983971"
+	},
+	{
+		"Longitude" : "-076.603722",
+		"Zipcode" : "21146",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "SEVERNA PARK",
+		"State" : "MD",
+		"Latitude" : "+38.951199"
+	},
+	{
+		"Longitude" : "-076.941902",
+		"Zipcode" : "21150",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOWARD",
+		"City" : "SIMPSONVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.236405"
+	},
+	{
+		"Longitude" : "-076.715587",
+		"Zipcode" : "21152",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "SPARKS GLENCOE",
+		"State" : "MD",
+		"Latitude" : "+39.526441"
+	},
+	{
+		"Longitude" : "-076.730345",
+		"Zipcode" : "21153",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALTIMORE",
+		"City" : "STEVENSON",
+		"State" : "MD",
+		"Latitude" : "+39.412905"
+	},
+	{
+		"Longitude" : "-076.371332",
+		"Zipcode" : "21154",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "STREET",
+		"State" : "MD",
+		"Latitude" : "+39.657355"
+	},
+	{
+		"Longitude" : "-076.797213",
+		"Zipcode" : "21155",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "UPPERCO",
+		"State" : "MD",
+		"Latitude" : "+39.567574"
+	},
+	{
+		"Longitude" : "-076.583163",
+		"Zipcode" : "21156",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "UPPER FALLS",
+		"State" : "MD",
+		"Latitude" : "+39.461038"
+	},
+	{
+		"Longitude" : "-076.980701",
+		"Zipcode" : "21157",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WESTMINSTER",
+		"State" : "MD",
+		"Latitude" : "+39.564201"
+	},
+	{
+		"Longitude" : "-077.029403",
+		"Zipcode" : "21158",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WESTMINSTER",
+		"State" : "MD",
+		"Latitude" : "+39.606981"
+	},
+	{
+		"Longitude" : "-076.330641",
+		"Zipcode" : "21160",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "WHITEFORD",
+		"State" : "MD",
+		"Latitude" : "+39.703155"
+	},
+	{
+		"Longitude" : "-076.527937",
+		"Zipcode" : "21161",
+		"ZipClass" : "STANDARD",
+		"County" : "HARFORD",
+		"City" : "WHITE HALL",
+		"State" : "MD",
+		"Latitude" : "+39.658104"
+	},
+	{
+		"Longitude" : "-076.411976",
+		"Zipcode" : "21162",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "WHITE MARSH",
+		"State" : "MD",
+		"Latitude" : "+39.389457"
+	},
+	{
+		"Longitude" : "-076.845587",
+		"Zipcode" : "21163",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "WOODSTOCK",
+		"State" : "MD",
+		"Latitude" : "+39.349834"
+	},
+	{
+		"Longitude" : "-076.623489",
+		"Zipcode" : "21201",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.296536"
+	},
+	{
+		"Longitude" : "-076.608438",
+		"Zipcode" : "21202",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.295907"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21203",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.603790",
+		"Zipcode" : "21204",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "TOWSON",
+		"State" : "MD",
+		"Latitude" : "+39.407156"
+	},
+	{
+		"Longitude" : "-076.567987",
+		"Zipcode" : "21205",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.302757"
+	},
+	{
+		"Longitude" : "-076.553237",
+		"Zipcode" : "21206",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.336857"
+	},
+	{
+		"Longitude" : "-076.736594",
+		"Zipcode" : "21207",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "GWYNN OAK",
+		"State" : "MD",
+		"Latitude" : "+39.325605"
+	},
+	{
+		"Longitude" : "-076.727036",
+		"Zipcode" : "21208",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "PIKESVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.385156"
+	},
+	{
+		"Longitude" : "-076.667892",
+		"Zipcode" : "21209",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.354256"
+	},
+	{
+		"Longitude" : "-076.633290",
+		"Zipcode" : "21210",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.352356"
+	},
+	{
+		"Longitude" : "-076.638990",
+		"Zipcode" : "21211",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.327889"
+	},
+	{
+		"Longitude" : "-076.610989",
+		"Zipcode" : "21212",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.356206"
+	},
+	{
+		"Longitude" : "-076.603338",
+		"Zipcode" : "21213",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.306606"
+	},
+	{
+		"Longitude" : "-076.562187",
+		"Zipcode" : "21214",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.350006"
+	},
+	{
+		"Longitude" : "-076.681192",
+		"Zipcode" : "21215",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.343306"
+	},
+	{
+		"Longitude" : "-076.674792",
+		"Zipcode" : "21216",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.310756"
+	},
+	{
+		"Longitude" : "-076.637490",
+		"Zipcode" : "21217",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.308606"
+	},
+	{
+		"Longitude" : "-076.599139",
+		"Zipcode" : "21218",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.328456"
+	},
+	{
+		"Longitude" : "-076.445532",
+		"Zipcode" : "21219",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "SPARROWS POINT",
+		"State" : "MD",
+		"Latitude" : "+39.229611"
+	},
+	{
+		"Longitude" : "-076.505086",
+		"Zipcode" : "21220",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "MIDDLE RIVER",
+		"State" : "MD",
+		"Latitude" : "+39.344057"
+	},
+	{
+		"Longitude" : "-076.559787",
+		"Zipcode" : "21221",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "ESSEX",
+		"State" : "MD",
+		"Latitude" : "+39.296007"
+	},
+	{
+		"Longitude" : "-076.451733",
+		"Zipcode" : "21222",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "DUNDALK",
+		"State" : "MD",
+		"Latitude" : "+39.325991"
+	},
+	{
+		"Longitude" : "-076.650140",
+		"Zipcode" : "21223",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.279506"
+	},
+	{
+		"Longitude" : "-076.557237",
+		"Zipcode" : "21224",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.279207"
+	},
+	{
+		"Longitude" : "-076.616437",
+		"Zipcode" : "21225",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "BROOKLYN",
+		"State" : "MD",
+		"Latitude" : "+39.018973"
+	},
+	{
+		"Longitude" : "-076.584137",
+		"Zipcode" : "21226",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "CURTIS BAY",
+		"State" : "MD",
+		"Latitude" : "+39.068710"
+	},
+	{
+		"Longitude" : "-076.677291",
+		"Zipcode" : "21227",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "HALETHORPE",
+		"State" : "MD",
+		"Latitude" : "+39.241606"
+	},
+	{
+		"Longitude" : "-076.631074",
+		"Zipcode" : "21228",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "CATONSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.274156"
+	},
+	{
+		"Longitude" : "-076.652840",
+		"Zipcode" : "21229",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.286613"
+	},
+	{
+		"Longitude" : "-076.622439",
+		"Zipcode" : "21230",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.264548"
+	},
+	{
+		"Longitude" : "-076.592238",
+		"Zipcode" : "21231",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.288757"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21233",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.530044",
+		"Zipcode" : "21234",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "PARKVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.413106"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21235",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.489277",
+		"Zipcode" : "21236",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "NOTTINGHAM",
+		"State" : "MD",
+		"Latitude" : "+39.392107"
+	},
+	{
+		"Longitude" : "-076.488035",
+		"Zipcode" : "21237",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "ROSEDALE",
+		"State" : "MD",
+		"Latitude" : "+39.339957"
+	},
+	{
+		"Longitude" : "-076.587588",
+		"Zipcode" : "21239",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.356356"
+	},
+	{
+		"Longitude" : "-076.651589",
+		"Zipcode" : "21240",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.142793"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21241",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.784896",
+		"Zipcode" : "21244",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "WINDSOR MILL",
+		"State" : "MD",
+		"Latitude" : "+39.333105"
+	},
+	{
+		"Longitude" : "-076.713149",
+		"Zipcode" : "21250",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.258226"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21251",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.613325",
+		"Zipcode" : "21252",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.388799"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21263",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21264",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21265",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21268",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21270",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21273",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21274",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21275",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21278",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21279",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21280",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21281",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21282",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21283",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21284",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.592139",
+		"Zipcode" : "21285",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.438964"
+	},
+	{
+		"Longitude" : "-076.576089",
+		"Zipcode" : "21286",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE",
+		"City" : "TOWSON",
+		"State" : "MD",
+		"Latitude" : "+39.414306"
+	},
+	{
+		"Longitude" : "-076.592738",
+		"Zipcode" : "21287",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.297457"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21288",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21289",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.623839",
+		"Zipcode" : "21290",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.293256"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21297",
+		"ZipClass" : "STANDARD",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.620489",
+		"Zipcode" : "21298",
+		"ZipClass" : "UNIQUE",
+		"County" : "BALTIMORE CITY",
+		"City" : "BALTIMORE",
+		"State" : "MD",
+		"Latitude" : "+39.284707"
+	},
+	{
+		"Longitude" : "-076.610143",
+		"Zipcode" : "21401",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ANNAPOLIS",
+		"State" : "MD",
+		"Latitude" : "+38.967311"
+	},
+	{
+		"Longitude" : "-076.452032",
+		"Zipcode" : "21402",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ANNAPOLIS",
+		"State" : "MD",
+		"Latitude" : "+39.048110"
+	},
+	{
+		"Longitude" : "-076.584637",
+		"Zipcode" : "21403",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ANNAPOLIS",
+		"State" : "MD",
+		"Latitude" : "+39.007361"
+	},
+	{
+		"Longitude" : "-076.594942",
+		"Zipcode" : "21404",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ANNAPOLIS",
+		"State" : "MD",
+		"Latitude" : "+38.974203"
+	},
+	{
+		"Longitude" : "-076.506883",
+		"Zipcode" : "21405",
+		"ZipClass" : "STANDARD",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ANNAPOLIS",
+		"State" : "MD",
+		"Latitude" : "+38.992124"
+	},
+	{
+		"Longitude" : "-076.594942",
+		"Zipcode" : "21411",
+		"ZipClass" : "UNIQUE",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ANNAPOLIS",
+		"State" : "MD",
+		"Latitude" : "+38.974203"
+	},
+	{
+		"Longitude" : "-076.594942",
+		"Zipcode" : "21412",
+		"ZipClass" : "UNIQUE",
+		"County" : "ANNE ARUNDEL",
+		"City" : "ANNAPOLIS",
+		"State" : "MD",
+		"Latitude" : "+38.974203"
+	},
+	{
+		"Longitude" : "-078.690593",
+		"Zipcode" : "21501",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "CUMBERLAND",
+		"State" : "MD",
+		"Latitude" : "+39.580691"
+	},
+	{
+		"Longitude" : "-078.844425",
+		"Zipcode" : "21502",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "CUMBERLAND",
+		"State" : "MD",
+		"Latitude" : "+39.599150"
+	},
+	{
+		"Longitude" : "-078.690593",
+		"Zipcode" : "21503",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "CUMBERLAND",
+		"State" : "MD",
+		"Latitude" : "+39.580691"
+	},
+	{
+		"Longitude" : "-078.690593",
+		"Zipcode" : "21504",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "CUMBERLAND",
+		"State" : "MD",
+		"Latitude" : "+39.580691"
+	},
+	{
+		"Longitude" : "-078.843432",
+		"Zipcode" : "21505",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "CUMBERLAND",
+		"State" : "MD",
+		"Latitude" : "+39.594043"
+	},
+	{
+		"Longitude" : "-079.230969",
+		"Zipcode" : "21520",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "ACCIDENT",
+		"State" : "MD",
+		"Latitude" : "+39.589350"
+	},
+	{
+		"Longitude" : "-079.009008",
+		"Zipcode" : "21521",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "BARTON",
+		"State" : "MD",
+		"Latitude" : "+39.536798"
+	},
+	{
+		"Longitude" : "-079.233691",
+		"Zipcode" : "21522",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "BITTINGER",
+		"State" : "MD",
+		"Latitude" : "+39.601664"
+	},
+	{
+		"Longitude" : "-079.082970",
+		"Zipcode" : "21523",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "BLOOMINGTON",
+		"State" : "MD",
+		"Latitude" : "+39.486109"
+	},
+	{
+		"Longitude" : "-078.803067",
+		"Zipcode" : "21524",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEGANY",
+		"City" : "CORRIGANVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.696680"
+	},
+	{
+		"Longitude" : "-078.901395",
+		"Zipcode" : "21528",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEGANY",
+		"City" : "ECKHART MINES",
+		"State" : "MD",
+		"Latitude" : "+39.652837"
+	},
+	{
+		"Longitude" : "-078.777446",
+		"Zipcode" : "21529",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEGANY",
+		"City" : "ELLERSLIE",
+		"State" : "MD",
+		"Latitude" : "+39.708261"
+	},
+	{
+		"Longitude" : "-078.524164",
+		"Zipcode" : "21530",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "FLINTSTONE",
+		"State" : "MD",
+		"Latitude" : "+39.679418"
+	},
+	{
+		"Longitude" : "-079.257117",
+		"Zipcode" : "21531",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "FRIENDSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.637098"
+	},
+	{
+		"Longitude" : "-078.912502",
+		"Zipcode" : "21532",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "FROSTBURG",
+		"State" : "MD",
+		"Latitude" : "+39.642060"
+	},
+	{
+		"Longitude" : "-079.124143",
+		"Zipcode" : "21536",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "GRANTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.655141"
+	},
+	{
+		"Longitude" : "-079.222202",
+		"Zipcode" : "21538",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "KITZMILLER",
+		"State" : "MD",
+		"Latitude" : "+39.416917"
+	},
+	{
+		"Longitude" : "-078.934521",
+		"Zipcode" : "21539",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "LONACONING",
+		"State" : "MD",
+		"Latitude" : "+39.571706"
+	},
+	{
+		"Longitude" : "-079.058451",
+		"Zipcode" : "21540",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "LUKE",
+		"State" : "MD",
+		"Latitude" : "+39.475381"
+	},
+	{
+		"Longitude" : "-079.382332",
+		"Zipcode" : "21541",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "MC HENRY",
+		"State" : "MD",
+		"Latitude" : "+39.565589"
+	},
+	{
+		"Longitude" : "-078.943082",
+		"Zipcode" : "21542",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEGANY",
+		"City" : "MIDLAND",
+		"State" : "MD",
+		"Latitude" : "+39.595113"
+	},
+	{
+		"Longitude" : "-078.960403",
+		"Zipcode" : "21543",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEGANY",
+		"City" : "MIDLOTHIAN",
+		"State" : "MD",
+		"Latitude" : "+39.633866"
+	},
+	{
+		"Longitude" : "-078.872465",
+		"Zipcode" : "21545",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "MOUNT SAVAGE",
+		"State" : "MD",
+		"Latitude" : "+39.695649"
+	},
+	{
+		"Longitude" : "-079.316683",
+		"Zipcode" : "21550",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "OAKLAND",
+		"State" : "MD",
+		"Latitude" : "+39.433920"
+	},
+	{
+		"Longitude" : "-078.572564",
+		"Zipcode" : "21555",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "OLDTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.596645"
+	},
+	{
+		"Longitude" : "-078.843962",
+		"Zipcode" : "21556",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEGANY",
+		"City" : "PINTO",
+		"State" : "MD",
+		"Latitude" : "+39.572452"
+	},
+	{
+		"Longitude" : "-078.921162",
+		"Zipcode" : "21557",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "RAWLINGS",
+		"State" : "MD",
+		"Latitude" : "+39.505820"
+	},
+	{
+		"Longitude" : "-078.687137",
+		"Zipcode" : "21560",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEGANY",
+		"City" : "SPRING GAP",
+		"State" : "MD",
+		"Latitude" : "+39.601008"
+	},
+	{
+		"Longitude" : "-079.190791",
+		"Zipcode" : "21561",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRETT",
+		"City" : "SWANTON",
+		"State" : "MD",
+		"Latitude" : "+39.538568"
+	},
+	{
+		"Longitude" : "-079.013989",
+		"Zipcode" : "21562",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "WESTERNPORT",
+		"State" : "MD",
+		"Latitude" : "+39.490547"
+	},
+	{
+		"Longitude" : "-076.051486",
+		"Zipcode" : "21601",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "EASTON",
+		"State" : "MD",
+		"Latitude" : "+38.800714"
+	},
+	{
+		"Longitude" : "-076.180166",
+		"Zipcode" : "21606",
+		"ZipClass" : "UNIQUE",
+		"County" : "TALBOT",
+		"City" : "EASTON",
+		"State" : "MD",
+		"Latitude" : "+38.758525"
+	},
+	{
+		"Longitude" : "-076.060665",
+		"Zipcode" : "21607",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "BARCLAY",
+		"State" : "MD",
+		"Latitude" : "+39.073391"
+	},
+	{
+		"Longitude" : "-075.958683",
+		"Zipcode" : "21609",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAROLINE",
+		"City" : "BETHLEHEM",
+		"State" : "MD",
+		"Latitude" : "+38.740562"
+	},
+	{
+		"Longitude" : "-076.067079",
+		"Zipcode" : "21610",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "BETTERTON",
+		"State" : "MD",
+		"Latitude" : "+39.366812"
+	},
+	{
+		"Longitude" : "-076.273704",
+		"Zipcode" : "21612",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "BOZMAN",
+		"State" : "MD",
+		"Latitude" : "+38.749550"
+	},
+	{
+		"Longitude" : "-076.079864",
+		"Zipcode" : "21613",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "CAMBRIDGE",
+		"State" : "MD",
+		"Latitude" : "+38.479813"
+	},
+	{
+		"Longitude" : "-076.091375",
+		"Zipcode" : "21617",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "CENTREVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.084003"
+	},
+	{
+		"Longitude" : "-076.279172",
+		"Zipcode" : "21619",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "CHESTER",
+		"State" : "MD",
+		"Latitude" : "+38.946034"
+	},
+	{
+		"Longitude" : "-076.059316",
+		"Zipcode" : "21620",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "CHESTERTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.235988"
+	},
+	{
+		"Longitude" : "-076.191021",
+		"Zipcode" : "21622",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "CHURCH CREEK",
+		"State" : "MD",
+		"Latitude" : "+38.415211"
+	},
+	{
+		"Longitude" : "-075.961404",
+		"Zipcode" : "21623",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "CHURCH HILL",
+		"State" : "MD",
+		"Latitude" : "+39.130500"
+	},
+	{
+		"Longitude" : "-076.271370",
+		"Zipcode" : "21624",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "CLAIBORNE",
+		"State" : "MD",
+		"Latitude" : "+38.836766"
+	},
+	{
+		"Longitude" : "-076.000119",
+		"Zipcode" : "21625",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "CORDOVA",
+		"State" : "MD",
+		"Latitude" : "+38.869275"
+	},
+	{
+		"Longitude" : "-076.097337",
+		"Zipcode" : "21626",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "CRAPO",
+		"State" : "MD",
+		"Latitude" : "+38.323604"
+	},
+	{
+		"Longitude" : "-076.053064",
+		"Zipcode" : "21627",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "CROCHERON",
+		"State" : "MD",
+		"Latitude" : "+38.242608"
+	},
+	{
+		"Longitude" : "-075.929797",
+		"Zipcode" : "21628",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "QUEEN ANNES",
+		"City" : "CRUMPTON",
+		"State" : "MD",
+		"Latitude" : "+39.231771"
+	},
+	{
+		"Longitude" : "-075.835702",
+		"Zipcode" : "21629",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINE",
+		"City" : "DENTON",
+		"State" : "MD",
+		"Latitude" : "+38.859523"
+	},
+	{
+		"Longitude" : "-075.939691",
+		"Zipcode" : "21631",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "EAST NEW MARKET",
+		"State" : "MD",
+		"Latitude" : "+38.579447"
+	},
+	{
+		"Longitude" : "-075.825197",
+		"Zipcode" : "21632",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINE",
+		"City" : "FEDERALSBURG",
+		"State" : "MD",
+		"Latitude" : "+38.823318"
+	},
+	{
+		"Longitude" : "-076.203532",
+		"Zipcode" : "21634",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "FISHING CREEK",
+		"State" : "MD",
+		"Latitude" : "+38.298680"
+	},
+	{
+		"Longitude" : "-075.836031",
+		"Zipcode" : "21635",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "GALENA",
+		"State" : "MD",
+		"Latitude" : "+39.320381"
+	},
+	{
+		"Longitude" : "-075.809462",
+		"Zipcode" : "21636",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINE",
+		"City" : "GOLDSBORO",
+		"State" : "MD",
+		"Latitude" : "+39.022245"
+	},
+	{
+		"Longitude" : "-076.115897",
+		"Zipcode" : "21638",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "GRASONVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.019049"
+	},
+	{
+		"Longitude" : "-075.790732",
+		"Zipcode" : "21639",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINE",
+		"City" : "GREENSBORO",
+		"State" : "MD",
+		"Latitude" : "+38.968592"
+	},
+	{
+		"Longitude" : "-075.811781",
+		"Zipcode" : "21640",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINE",
+		"City" : "HENDERSON",
+		"State" : "MD",
+		"Latitude" : "+39.081351"
+	},
+	{
+		"Longitude" : "-075.938770",
+		"Zipcode" : "21641",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAROLINE",
+		"City" : "HILLSBORO",
+		"State" : "MD",
+		"Latitude" : "+38.920588"
+	},
+	{
+		"Longitude" : "-075.863003",
+		"Zipcode" : "21643",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "HURLOCK",
+		"State" : "MD",
+		"Latitude" : "+38.643824"
+	},
+	{
+		"Longitude" : "-075.876881",
+		"Zipcode" : "21644",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "INGLESIDE",
+		"State" : "MD",
+		"Latitude" : "+39.118226"
+	},
+	{
+		"Longitude" : "-075.961520",
+		"Zipcode" : "21645",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "KENNEDYVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.313679"
+	},
+	{
+		"Longitude" : "-076.287709",
+		"Zipcode" : "21647",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "MCDANIEL",
+		"State" : "MD",
+		"Latitude" : "+38.808497"
+	},
+	{
+		"Longitude" : "-076.241202",
+		"Zipcode" : "21648",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "MADISON",
+		"State" : "MD",
+		"Latitude" : "+38.478205"
+	},
+	{
+		"Longitude" : "-075.790870",
+		"Zipcode" : "21649",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINE",
+		"City" : "MARYDEL",
+		"State" : "MD",
+		"Latitude" : "+39.106088"
+	},
+	{
+		"Longitude" : "-075.812769",
+		"Zipcode" : "21650",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "MASSEY",
+		"State" : "MD",
+		"Latitude" : "+39.308228"
+	},
+	{
+		"Longitude" : "-075.895115",
+		"Zipcode" : "21651",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "MILLINGTON",
+		"State" : "MD",
+		"Latitude" : "+39.274314"
+	},
+	{
+		"Longitude" : "-076.152762",
+		"Zipcode" : "21652",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TALBOT",
+		"City" : "NEAVITT",
+		"State" : "MD",
+		"Latitude" : "+38.795102"
+	},
+	{
+		"Longitude" : "-076.178041",
+		"Zipcode" : "21653",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TALBOT",
+		"City" : "NEWCOMB",
+		"State" : "MD",
+		"Latitude" : "+38.751834"
+	},
+	{
+		"Longitude" : "-076.125184",
+		"Zipcode" : "21654",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "OXFORD",
+		"State" : "MD",
+		"Latitude" : "+38.710783"
+	},
+	{
+		"Longitude" : "-075.907650",
+		"Zipcode" : "21655",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINE",
+		"City" : "PRESTON",
+		"State" : "MD",
+		"Latitude" : "+38.752146"
+	},
+	{
+		"Longitude" : "-076.092127",
+		"Zipcode" : "21656",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "PRICE",
+		"State" : "MD",
+		"Latitude" : "+39.034637"
+	},
+	{
+		"Longitude" : "-075.975322",
+		"Zipcode" : "21657",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "QUEEN ANNE",
+		"State" : "MD",
+		"Latitude" : "+38.975882"
+	},
+	{
+		"Longitude" : "-076.142374",
+		"Zipcode" : "21658",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "QUEENSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.002550"
+	},
+	{
+		"Longitude" : "-075.804650",
+		"Zipcode" : "21659",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "RHODESDALE",
+		"State" : "MD",
+		"Latitude" : "+38.561727"
+	},
+	{
+		"Longitude" : "-075.866707",
+		"Zipcode" : "21660",
+		"ZipClass" : "STANDARD",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.874255"
+	},
+	{
+		"Longitude" : "-076.223193",
+		"Zipcode" : "21661",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "ROCK HALL",
+		"State" : "MD",
+		"Latitude" : "+39.117823"
+	},
+	{
+		"Longitude" : "-076.196838",
+		"Zipcode" : "21662",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "ROYAL OAK",
+		"State" : "MD",
+		"Latitude" : "+38.713532"
+	},
+	{
+		"Longitude" : "-076.167765",
+		"Zipcode" : "21663",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "SAINT MICHAELS",
+		"State" : "MD",
+		"Latitude" : "+38.748765"
+	},
+	{
+		"Longitude" : "-075.947375",
+		"Zipcode" : "21664",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DORCHESTER",
+		"City" : "SECRETARY",
+		"State" : "MD",
+		"Latitude" : "+38.600971"
+	},
+	{
+		"Longitude" : "-076.326606",
+		"Zipcode" : "21665",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "SHERWOOD",
+		"State" : "MD",
+		"Latitude" : "+38.745387"
+	},
+	{
+		"Longitude" : "-076.115680",
+		"Zipcode" : "21666",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "STEVENSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.012075"
+	},
+	{
+		"Longitude" : "-076.047396",
+		"Zipcode" : "21667",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "STILL POND",
+		"State" : "MD",
+		"Latitude" : "+39.339906"
+	},
+	{
+		"Longitude" : "-076.031257",
+		"Zipcode" : "21668",
+		"ZipClass" : "STANDARD",
+		"County" : "QUEEN ANNES",
+		"City" : "SUDLERSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.119123"
+	},
+	{
+		"Longitude" : "-076.264100",
+		"Zipcode" : "21669",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DORCHESTER",
+		"City" : "TAYLORS ISLAND",
+		"State" : "MD",
+		"Latitude" : "+38.453204"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21670",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAROLINE",
+		"City" : "TEMPLEVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-076.332647",
+		"Zipcode" : "21671",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "TILGHMAN",
+		"State" : "MD",
+		"Latitude" : "+38.704729"
+	},
+	{
+		"Longitude" : "-076.072171",
+		"Zipcode" : "21672",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "TODDVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.274149"
+	},
+	{
+		"Longitude" : "-076.058006",
+		"Zipcode" : "21673",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "TRAPPE",
+		"State" : "MD",
+		"Latitude" : "+38.664452"
+	},
+	{
+		"Longitude" : "-076.106344",
+		"Zipcode" : "21675",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "WINGATE",
+		"State" : "MD",
+		"Latitude" : "+38.307394"
+	},
+	{
+		"Longitude" : "-076.300134",
+		"Zipcode" : "21676",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "WITTMAN",
+		"State" : "MD",
+		"Latitude" : "+38.784568"
+	},
+	{
+		"Longitude" : "-076.202456",
+		"Zipcode" : "21677",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "WOOLFORD",
+		"State" : "MD",
+		"Latitude" : "+38.499650"
+	},
+	{
+		"Longitude" : "-076.081650",
+		"Zipcode" : "21678",
+		"ZipClass" : "STANDARD",
+		"County" : "KENT",
+		"City" : "WORTON",
+		"State" : "MD",
+		"Latitude" : "+39.308842"
+	},
+	{
+		"Longitude" : "-076.073905",
+		"Zipcode" : "21679",
+		"ZipClass" : "STANDARD",
+		"County" : "TALBOT",
+		"City" : "WYE MILLS",
+		"State" : "MD",
+		"Latitude" : "+38.915060"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21681",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21682",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21683",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21684",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21685",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21686",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21687",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-075.861191",
+		"Zipcode" : "21688",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAROLINE",
+		"City" : "RIDGELY",
+		"State" : "MD",
+		"Latitude" : "+38.889270"
+	},
+	{
+		"Longitude" : "-076.092127",
+		"Zipcode" : "21690",
+		"ZipClass" : "UNIQUE",
+		"County" : "QUEEN ANNES",
+		"City" : "CHESTERTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.034637"
+	},
+	{
+		"Longitude" : "-077.369299",
+		"Zipcode" : "21701",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "FREDERICK",
+		"State" : "MD",
+		"Latitude" : "+39.512748"
+	},
+	{
+		"Longitude" : "-077.461211",
+		"Zipcode" : "21702",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "FREDERICK",
+		"State" : "MD",
+		"Latitude" : "+39.492596"
+	},
+	{
+		"Longitude" : "-077.463561",
+		"Zipcode" : "21703",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "FREDERICK",
+		"State" : "MD",
+		"Latitude" : "+39.364713"
+	},
+	{
+		"Longitude" : "-077.383229",
+		"Zipcode" : "21704",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "FREDERICK",
+		"State" : "MD",
+		"Latitude" : "+39.345477"
+	},
+	{
+		"Longitude" : "-077.392139",
+		"Zipcode" : "21705",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "FREDERICK",
+		"State" : "MD",
+		"Latitude" : "+39.469961"
+	},
+	{
+		"Longitude" : "-077.392139",
+		"Zipcode" : "21709",
+		"ZipClass" : "UNIQUE",
+		"County" : "FREDERICK",
+		"City" : "FREDERICK",
+		"State" : "MD",
+		"Latitude" : "+39.469961"
+	},
+	{
+		"Longitude" : "-077.455243",
+		"Zipcode" : "21710",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "ADAMSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.291049"
+	},
+	{
+		"Longitude" : "-077.954912",
+		"Zipcode" : "21711",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BIG POOL",
+		"State" : "MD",
+		"Latitude" : "+39.666266"
+	},
+	{
+		"Longitude" : "-077.695721",
+		"Zipcode" : "21713",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BOONSBORO",
+		"State" : "MD",
+		"Latitude" : "+39.551986"
+	},
+	{
+		"Longitude" : "-077.505098",
+		"Zipcode" : "21714",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREDERICK",
+		"City" : "BRADDOCK HEIGHTS",
+		"State" : "MD",
+		"Latitude" : "+39.420300"
+	},
+	{
+		"Longitude" : "-077.658015",
+		"Zipcode" : "21715",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "BROWNSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.386893"
+	},
+	{
+		"Longitude" : "-077.624701",
+		"Zipcode" : "21716",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "BRUNSWICK",
+		"State" : "MD",
+		"Latitude" : "+39.317945"
+	},
+	{
+		"Longitude" : "-077.427405",
+		"Zipcode" : "21717",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREDERICK",
+		"City" : "BUCKEYSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.330887"
+	},
+	{
+		"Longitude" : "-077.627954",
+		"Zipcode" : "21718",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "BURKITTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.400868"
+	},
+	{
+		"Longitude" : "-077.495542",
+		"Zipcode" : "21719",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CASCADE",
+		"State" : "MD",
+		"Latitude" : "+39.695751"
+	},
+	{
+		"Longitude" : "-077.584162",
+		"Zipcode" : "21720",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "CAVETOWN",
+		"State" : "MD",
+		"Latitude" : "+39.647296"
+	},
+	{
+		"Longitude" : "-077.637152",
+		"Zipcode" : "21721",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "CHEWSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.642537"
+	},
+	{
+		"Longitude" : "-077.906389",
+		"Zipcode" : "21722",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CLEAR SPRING",
+		"State" : "MD",
+		"Latitude" : "+39.665751"
+	},
+	{
+		"Longitude" : "-077.014200",
+		"Zipcode" : "21723",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "COOKSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.328104"
+	},
+	{
+		"Longitude" : "-077.336732",
+		"Zipcode" : "21727",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "EMMITSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.675397"
+	},
+	{
+		"Longitude" : "-077.760390",
+		"Zipcode" : "21733",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FAIRPLAY",
+		"State" : "MD",
+		"Latitude" : "+39.559419"
+	},
+	{
+		"Longitude" : "-077.707207",
+		"Zipcode" : "21734",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "FUNKSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.605960"
+	},
+	{
+		"Longitude" : "-077.916196",
+		"Zipcode" : "21736",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "GAPLAND",
+		"State" : "MD",
+		"Latitude" : "+39.520696"
+	},
+	{
+		"Longitude" : "-077.012699",
+		"Zipcode" : "21737",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "GLENELG",
+		"State" : "MD",
+		"Latitude" : "+39.259656"
+	},
+	{
+		"Longitude" : "-077.025362",
+		"Zipcode" : "21738",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "GLENWOOD",
+		"State" : "MD",
+		"Latitude" : "+39.281504"
+	},
+	{
+		"Longitude" : "-077.700213",
+		"Zipcode" : "21740",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HAGERSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.588870"
+	},
+	{
+		"Longitude" : "-077.742116",
+		"Zipcode" : "21741",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HAGERSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.693944"
+	},
+	{
+		"Longitude" : "-077.652779",
+		"Zipcode" : "21742",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HAGERSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.642995"
+	},
+	{
+		"Longitude" : "-077.720642",
+		"Zipcode" : "21746",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "HAGERSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.563787"
+	},
+	{
+		"Longitude" : "-077.916196",
+		"Zipcode" : "21747",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HAGERSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.520696"
+	},
+	{
+		"Longitude" : "-077.916196",
+		"Zipcode" : "21748",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HAGERSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.520696"
+	},
+	{
+		"Longitude" : "-077.916196",
+		"Zipcode" : "21749",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "HAGERSTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.520696"
+	},
+	{
+		"Longitude" : "-078.050204",
+		"Zipcode" : "21750",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HANCOCK",
+		"State" : "MD",
+		"Latitude" : "+39.588950"
+	},
+	{
+		"Longitude" : "-077.310622",
+		"Zipcode" : "21754",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "IJAMSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.339477"
+	},
+	{
+		"Longitude" : "-077.567142",
+		"Zipcode" : "21755",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "JEFFERSON",
+		"State" : "MD",
+		"Latitude" : "+39.353688"
+	},
+	{
+		"Longitude" : "-077.693341",
+		"Zipcode" : "21756",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "KEEDYSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.458488"
+	},
+	{
+		"Longitude" : "-077.252657",
+		"Zipcode" : "21757",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "KEYMAR",
+		"State" : "MD",
+		"Latitude" : "+39.619399"
+	},
+	{
+		"Longitude" : "-077.620514",
+		"Zipcode" : "21758",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "KNOXVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.349240"
+	},
+	{
+		"Longitude" : "-077.290519",
+		"Zipcode" : "21759",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREDERICK",
+		"City" : "LADIESBURG",
+		"State" : "MD",
+		"Latitude" : "+39.569426"
+	},
+	{
+		"Longitude" : "-077.246761",
+		"Zipcode" : "21762",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREDERICK",
+		"City" : "LIBERTYTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.482208"
+	},
+	{
+		"Longitude" : "-077.049302",
+		"Zipcode" : "21764",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "LINWOOD",
+		"State" : "MD",
+		"Latitude" : "+39.534703"
+	},
+	{
+		"Longitude" : "-077.071952",
+		"Zipcode" : "21765",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOWARD",
+		"City" : "LISBON",
+		"State" : "MD",
+		"Latitude" : "+39.337804"
+	},
+	{
+		"Longitude" : "-078.408891",
+		"Zipcode" : "21766",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEGANY",
+		"City" : "LITTLE ORLEANS",
+		"State" : "MD",
+		"Latitude" : "+39.641946"
+	},
+	{
+		"Longitude" : "-077.746766",
+		"Zipcode" : "21767",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MAUGANSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.696761"
+	},
+	{
+		"Longitude" : "-077.485034",
+		"Zipcode" : "21769",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "MIDDLETOWN",
+		"State" : "MD",
+		"Latitude" : "+39.535030"
+	},
+	{
+		"Longitude" : "-077.265818",
+		"Zipcode" : "21770",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "MONROVIA",
+		"State" : "MD",
+		"Latitude" : "+39.351552"
+	},
+	{
+		"Longitude" : "-077.214087",
+		"Zipcode" : "21771",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "MOUNT AIRY",
+		"State" : "MD",
+		"Latitude" : "+39.407252"
+	},
+	{
+		"Longitude" : "-077.556275",
+		"Zipcode" : "21773",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "MYERSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.550036"
+	},
+	{
+		"Longitude" : "-077.220932",
+		"Zipcode" : "21774",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "NEW MARKET",
+		"State" : "MD",
+		"Latitude" : "+39.432571"
+	},
+	{
+		"Longitude" : "-077.294680",
+		"Zipcode" : "21775",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREDERICK",
+		"City" : "NEW MIDWAY",
+		"State" : "MD",
+		"Latitude" : "+39.564472"
+	},
+	{
+		"Longitude" : "-077.093303",
+		"Zipcode" : "21776",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "NEW WINDSOR",
+		"State" : "MD",
+		"Latitude" : "+39.521886"
+	},
+	{
+		"Longitude" : "-077.532068",
+		"Zipcode" : "21777",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "POINT OF ROCKS",
+		"State" : "MD",
+		"Latitude" : "+39.277770"
+	},
+	{
+		"Longitude" : "-077.335442",
+		"Zipcode" : "21778",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "ROCKY RIDGE",
+		"State" : "MD",
+		"Latitude" : "+39.618999"
+	},
+	{
+		"Longitude" : "-077.660130",
+		"Zipcode" : "21779",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ROHRERSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.430227"
+	},
+	{
+		"Longitude" : "-077.481888",
+		"Zipcode" : "21780",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "SABILLASVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.667035"
+	},
+	{
+		"Longitude" : "-077.760697",
+		"Zipcode" : "21781",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "SAINT JAMES",
+		"State" : "MD",
+		"Latitude" : "+39.569910"
+	},
+	{
+		"Longitude" : "-077.771667",
+		"Zipcode" : "21782",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SHARPSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.438718"
+	},
+	{
+		"Longitude" : "-077.614762",
+		"Zipcode" : "21783",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SMITHSBURG",
+		"State" : "MD",
+		"Latitude" : "+39.591355"
+	},
+	{
+		"Longitude" : "-076.969601",
+		"Zipcode" : "21784",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "SYKESVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.456720"
+	},
+	{
+		"Longitude" : "-077.169055",
+		"Zipcode" : "21787",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "TANEYTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.657449"
+	},
+	{
+		"Longitude" : "-077.398931",
+		"Zipcode" : "21788",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "THURMONT",
+		"State" : "MD",
+		"Latitude" : "+39.610876"
+	},
+	{
+		"Longitude" : "-077.496646",
+		"Zipcode" : "21790",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "TUSCARORA",
+		"State" : "MD",
+		"Latitude" : "+39.265086"
+	},
+	{
+		"Longitude" : "-077.131896",
+		"Zipcode" : "21791",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "UNION BRIDGE",
+		"State" : "MD",
+		"Latitude" : "+39.579850"
+	},
+	{
+		"Longitude" : "-077.392139",
+		"Zipcode" : "21792",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREDERICK",
+		"City" : "UNIONVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.469961"
+	},
+	{
+		"Longitude" : "-077.343542",
+		"Zipcode" : "21793",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "WALKERSVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.491247"
+	},
+	{
+		"Longitude" : "-076.981150",
+		"Zipcode" : "21794",
+		"ZipClass" : "STANDARD",
+		"County" : "HOWARD",
+		"City" : "WEST FRIENDSHIP",
+		"State" : "MD",
+		"Latitude" : "+39.296204"
+	},
+	{
+		"Longitude" : "-077.826258",
+		"Zipcode" : "21795",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WILLIAMSPORT",
+		"State" : "MD",
+		"Latitude" : "+39.589123"
+	},
+	{
+		"Longitude" : "-077.081821",
+		"Zipcode" : "21797",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WOODBINE",
+		"State" : "MD",
+		"Latitude" : "+39.402352"
+	},
+	{
+		"Longitude" : "-077.292314",
+		"Zipcode" : "21798",
+		"ZipClass" : "STANDARD",
+		"County" : "FREDERICK",
+		"City" : "WOODSBORO",
+		"State" : "MD",
+		"Latitude" : "+39.542724"
+	},
+	{
+		"Longitude" : "-075.633621",
+		"Zipcode" : "21801",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "SALISBURY",
+		"State" : "MD",
+		"Latitude" : "+38.382445"
+	},
+	{
+		"Longitude" : "-075.627600",
+		"Zipcode" : "21802",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "SALISBURY",
+		"State" : "MD",
+		"Latitude" : "+38.388434"
+	},
+	{
+		"Longitude" : "-075.627600",
+		"Zipcode" : "21803",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "SALISBURY",
+		"State" : "MD",
+		"Latitude" : "+38.388434"
+	},
+	{
+		"Longitude" : "-075.533782",
+		"Zipcode" : "21804",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "SALISBURY",
+		"State" : "MD",
+		"Latitude" : "+38.350793"
+	},
+	{
+		"Longitude" : "-075.627600",
+		"Zipcode" : "21810",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WICOMICO",
+		"City" : "ALLEN",
+		"State" : "MD",
+		"Latitude" : "+38.388434"
+	},
+	{
+		"Longitude" : "-075.320901",
+		"Zipcode" : "21811",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BERLIN",
+		"State" : "MD",
+		"Latitude" : "+38.310447"
+	},
+	{
+		"Longitude" : "-075.195960",
+		"Zipcode" : "21813",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BISHOPVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.421121"
+	},
+	{
+		"Longitude" : "-075.627600",
+		"Zipcode" : "21814",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "BIVALVE",
+		"State" : "MD",
+		"Latitude" : "+38.388434"
+	},
+	{
+		"Longitude" : "-075.818797",
+		"Zipcode" : "21817",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "CRISFIELD",
+		"State" : "MD",
+		"Latitude" : "+37.998308"
+	},
+	{
+		"Longitude" : "-075.923290",
+		"Zipcode" : "21821",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "DEAL ISLAND",
+		"State" : "MD",
+		"Latitude" : "+38.166101"
+	},
+	{
+		"Longitude" : "-075.550530",
+		"Zipcode" : "21822",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "EDEN",
+		"State" : "MD",
+		"Latitude" : "+38.216972"
+	},
+	{
+		"Longitude" : "-076.035623",
+		"Zipcode" : "21824",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "EWELL",
+		"State" : "MD",
+		"Latitude" : "+37.983912"
+	},
+	{
+		"Longitude" : "-075.620806",
+		"Zipcode" : "21826",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "FRUITLAND",
+		"State" : "MD",
+		"Latitude" : "+38.320318"
+	},
+	{
+		"Longitude" : "-075.381853",
+		"Zipcode" : "21829",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "GIRDLETREE",
+		"State" : "MD",
+		"Latitude" : "+38.102963"
+	},
+	{
+		"Longitude" : "-075.724848",
+		"Zipcode" : "21830",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "HEBRON",
+		"State" : "MD",
+		"Latitude" : "+38.409235"
+	},
+	{
+		"Longitude" : "-075.949958",
+		"Zipcode" : "21835",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "LINKWOOD",
+		"State" : "MD",
+		"Latitude" : "+38.532301"
+	},
+	{
+		"Longitude" : "-075.734412",
+		"Zipcode" : "21836",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "MANOKIN",
+		"State" : "MD",
+		"Latitude" : "+38.073294"
+	},
+	{
+		"Longitude" : "-075.754804",
+		"Zipcode" : "21837",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "MARDELA SPRINGS",
+		"State" : "MD",
+		"Latitude" : "+38.458249"
+	},
+	{
+		"Longitude" : "-075.728768",
+		"Zipcode" : "21838",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "MARION STATION",
+		"State" : "MD",
+		"Latitude" : "+38.018983"
+	},
+	{
+		"Longitude" : "-075.627600",
+		"Zipcode" : "21840",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "NANTICOKE",
+		"State" : "MD",
+		"Latitude" : "+38.388434"
+	},
+	{
+		"Longitude" : "-075.301838",
+		"Zipcode" : "21841",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "NEWARK",
+		"State" : "MD",
+		"Latitude" : "+38.246348"
+	},
+	{
+		"Longitude" : "-075.113816",
+		"Zipcode" : "21842",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "OCEAN CITY",
+		"State" : "MD",
+		"Latitude" : "+38.381107"
+	},
+	{
+		"Longitude" : "-075.324057",
+		"Zipcode" : "21843",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "OCEAN CITY",
+		"State" : "MD",
+		"Latitude" : "+38.223090"
+	},
+	{
+		"Longitude" : "-075.462009",
+		"Zipcode" : "21849",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "PARSONSBURG",
+		"State" : "MD",
+		"Latitude" : "+38.376894"
+	},
+	{
+		"Longitude" : "-075.410499",
+		"Zipcode" : "21850",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "PITTSVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.394572"
+	},
+	{
+		"Longitude" : "-075.537185",
+		"Zipcode" : "21851",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "POCOMOKE CITY",
+		"State" : "MD",
+		"Latitude" : "+38.089201"
+	},
+	{
+		"Longitude" : "-075.627600",
+		"Zipcode" : "21852",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "POWELLVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.388434"
+	},
+	{
+		"Longitude" : "-075.752920",
+		"Zipcode" : "21853",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "PRINCESS ANNE",
+		"State" : "MD",
+		"Latitude" : "+38.200553"
+	},
+	{
+		"Longitude" : "-075.763118",
+		"Zipcode" : "21856",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "QUANTICO",
+		"State" : "MD",
+		"Latitude" : "+38.305282"
+	},
+	{
+		"Longitude" : "-075.888207",
+		"Zipcode" : "21857",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "REHOBETH",
+		"State" : "MD",
+		"Latitude" : "+38.092718"
+	},
+	{
+		"Longitude" : "-075.719182",
+		"Zipcode" : "21861",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WICOMICO",
+		"City" : "SHARPTOWN",
+		"State" : "MD",
+		"Latitude" : "+38.538904"
+	},
+	{
+		"Longitude" : "-075.216551",
+		"Zipcode" : "21862",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "SHOWELL",
+		"State" : "MD",
+		"Latitude" : "+38.400306"
+	},
+	{
+		"Longitude" : "-075.326618",
+		"Zipcode" : "21863",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "SNOW HILL",
+		"State" : "MD",
+		"Latitude" : "+38.217824"
+	},
+	{
+		"Longitude" : "-075.411789",
+		"Zipcode" : "21864",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "STOCKTON",
+		"State" : "MD",
+		"Latitude" : "+38.042932"
+	},
+	{
+		"Longitude" : "-075.790882",
+		"Zipcode" : "21865",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "TYASKIN",
+		"State" : "MD",
+		"Latitude" : "+38.268914"
+	},
+	{
+		"Longitude" : "-076.023482",
+		"Zipcode" : "21866",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "TYLERTON",
+		"State" : "MD",
+		"Latitude" : "+37.966573"
+	},
+	{
+		"Longitude" : "-075.822318",
+		"Zipcode" : "21867",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SOMERSET",
+		"City" : "UPPER FAIRMOUNT",
+		"State" : "MD",
+		"Latitude" : "+38.100490"
+	},
+	{
+		"Longitude" : "-075.897058",
+		"Zipcode" : "21869",
+		"ZipClass" : "STANDARD",
+		"County" : "DORCHESTER",
+		"City" : "VIENNA",
+		"State" : "MD",
+		"Latitude" : "+38.430928"
+	},
+	{
+		"Longitude" : "-075.888207",
+		"Zipcode" : "21870",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "WENONA",
+		"State" : "MD",
+		"Latitude" : "+38.092718"
+	},
+	{
+		"Longitude" : "-075.717406",
+		"Zipcode" : "21871",
+		"ZipClass" : "STANDARD",
+		"County" : "SOMERSET",
+		"City" : "WESTOVER",
+		"State" : "MD",
+		"Latitude" : "+38.094181"
+	},
+	{
+		"Longitude" : "-075.281074",
+		"Zipcode" : "21872",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WHALEYVILLE",
+		"State" : "MD",
+		"Latitude" : "+38.412085"
+	},
+	{
+		"Longitude" : "-075.351349",
+		"Zipcode" : "21874",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "WILLARDS",
+		"State" : "MD",
+		"Latitude" : "+38.404060"
+	},
+	{
+		"Longitude" : "-075.574165",
+		"Zipcode" : "21875",
+		"ZipClass" : "STANDARD",
+		"County" : "WICOMICO",
+		"City" : "DELMAR",
+		"State" : "MD",
+		"Latitude" : "+38.452527"
+	},
+	{
+		"Longitude" : "-075.888207",
+		"Zipcode" : "21890",
+		"ZipClass" : "UNIQUE",
+		"County" : "SOMERSET",
+		"City" : "WESTOVER",
+		"State" : "MD",
+		"Latitude" : "+38.092718"
+	},
+	{
+		"Longitude" : "-075.894051",
+		"Zipcode" : "21901",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "NORTH EAST",
+		"State" : "MD",
+		"Latitude" : "+39.535078"
+	},
+	{
+		"Longitude" : "-076.072471",
+		"Zipcode" : "21902",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CECIL",
+		"City" : "PERRY POINT",
+		"State" : "MD",
+		"Latitude" : "+39.552962"
+	},
+	{
+		"Longitude" : "-076.033281",
+		"Zipcode" : "21903",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "PERRYVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.571449"
+	},
+	{
+		"Longitude" : "-076.063342",
+		"Zipcode" : "21904",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "PORT DEPOSIT",
+		"State" : "MD",
+		"Latitude" : "+39.615086"
+	},
+	{
+		"Longitude" : "-076.056651",
+		"Zipcode" : "21911",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "RISING SUN",
+		"State" : "MD",
+		"Latitude" : "+39.671572"
+	},
+	{
+		"Longitude" : "-075.915203",
+		"Zipcode" : "21912",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "WARWICK",
+		"State" : "MD",
+		"Latitude" : "+39.533058"
+	},
+	{
+		"Longitude" : "-075.863287",
+		"Zipcode" : "21913",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CECIL",
+		"City" : "CECILTON",
+		"State" : "MD",
+		"Latitude" : "+39.410355"
+	},
+	{
+		"Longitude" : "-075.978564",
+		"Zipcode" : "21914",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CECIL",
+		"City" : "CHARLESTOWN",
+		"State" : "MD",
+		"Latitude" : "+39.574387"
+	},
+	{
+		"Longitude" : "-075.849327",
+		"Zipcode" : "21915",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "CHESAPEAKE CITY",
+		"State" : "MD",
+		"Latitude" : "+39.469098"
+	},
+	{
+		"Longitude" : "-075.999972",
+		"Zipcode" : "21916",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CECIL",
+		"City" : "CHILDS",
+		"State" : "MD",
+		"Latitude" : "+39.541512"
+	},
+	{
+		"Longitude" : "-076.003452",
+		"Zipcode" : "21917",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "COLORA",
+		"State" : "MD",
+		"Latitude" : "+39.537261"
+	},
+	{
+		"Longitude" : "-076.049157",
+		"Zipcode" : "21918",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "CONOWINGO",
+		"State" : "MD",
+		"Latitude" : "+39.543894"
+	},
+	{
+		"Longitude" : "-075.927952",
+		"Zipcode" : "21919",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "EARLEVILLE",
+		"State" : "MD",
+		"Latitude" : "+39.470309"
+	},
+	{
+		"Longitude" : "-075.828196",
+		"Zipcode" : "21920",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CECIL",
+		"City" : "ELK MILLS",
+		"State" : "MD",
+		"Latitude" : "+39.658031"
+	},
+	{
+		"Longitude" : "-075.875740",
+		"Zipcode" : "21921",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "ELKTON",
+		"State" : "MD",
+		"Latitude" : "+39.561860"
+	},
+	{
+		"Longitude" : "-075.947332",
+		"Zipcode" : "21922",
+		"ZipClass" : "STANDARD",
+		"County" : "CECIL",
+		"City" : "ELKTON",
+		"State" : "MD",
+		"Latitude" : "+39.593612"
+	},
+	{
+		"Longitude" : "-075.884544",
+		"Zipcode" : "21930",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CECIL",
+		"City" : "GEORGETOWN",
+		"State" : "MD",
+		"Latitude" : "+39.366183"
+	}
+]}

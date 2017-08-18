@@ -1,0 +1,4638 @@
+{
+	"result":[
+	{
+		"Longitude" : "-112.351835",
+		"Zipcode" : "85001",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.703967"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85002",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85003",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85004",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85005",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85006",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85007",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.953512",
+		"Zipcode" : "85008",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.446797"
+	},
+	{
+		"Longitude" : "-111.969420",
+		"Zipcode" : "85009",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.447489"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85010",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85011",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85012",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85013",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85014",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.115805",
+		"Zipcode" : "85015",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.478293"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85016",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85017",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.735322",
+		"Zipcode" : "85018",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.482033"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85019",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85020",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85021",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85022",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85023",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85024",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.723635",
+		"Zipcode" : "85025",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.422621"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85026",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85027",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.661390",
+		"Zipcode" : "85028",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.382744"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85029",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85030",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85031",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85032",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85033",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.987383",
+		"Zipcode" : "85034",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.431304"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85035",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85036",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85037",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85038",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85039",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.066878",
+		"Zipcode" : "85040",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.367267"
+	},
+	{
+		"Longitude" : "-112.112254",
+		"Zipcode" : "85041",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.379728"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "85042",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85043",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.972770",
+		"Zipcode" : "85044",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.338743"
+	},
+	{
+		"Longitude" : "-112.122581",
+		"Zipcode" : "85045",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.302168"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85046",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.066901",
+		"Zipcode" : "85048",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.316039"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85050",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85051",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85053",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85054",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85055",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85060",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85061",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85062",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85063",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85064",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85065",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85066",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85067",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85068",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85069",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85070",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85071",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85072",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85073",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85074",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85075",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85076",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85077",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85078",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85079",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85080",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85082",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85085",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85086",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85087",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "NEW RIVER",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85098",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85099",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARICOPA",
+		"City" : "PHOENIX",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.856967",
+		"Zipcode" : "85201",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.440695"
+	},
+	{
+		"Longitude" : "-111.804513",
+		"Zipcode" : "85202",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.393484"
+	},
+	{
+		"Longitude" : "-111.824363",
+		"Zipcode" : "85203",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.448876"
+	},
+	{
+		"Longitude" : "-111.787678",
+		"Zipcode" : "85204",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.397131"
+	},
+	{
+		"Longitude" : "-111.732134",
+		"Zipcode" : "85205",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.443345"
+	},
+	{
+		"Longitude" : "-111.717968",
+		"Zipcode" : "85206",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.390148"
+	},
+	{
+		"Longitude" : "-111.743444",
+		"Zipcode" : "85207",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.443017"
+	},
+	{
+		"Longitude" : "-111.663655",
+		"Zipcode" : "85208",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.395932"
+	},
+	{
+		"Longitude" : "-111.840095",
+		"Zipcode" : "85210",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.387296"
+	},
+	{
+		"Longitude" : "-111.837345",
+		"Zipcode" : "85211",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.466313"
+	},
+	{
+		"Longitude" : "-111.635307",
+		"Zipcode" : "85212",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.342476"
+	},
+	{
+		"Longitude" : "-111.830905",
+		"Zipcode" : "85213",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.448407"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85214",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.718829",
+		"Zipcode" : "85215",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.470724"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85216",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.478975",
+		"Zipcode" : "85217",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "APACHE JUNCTION",
+		"State" : "AZ",
+		"Latitude" : "+33.393398"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "85218",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "APACHE JUNCTION",
+		"State" : "AZ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-111.279538",
+		"Zipcode" : "85219",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "APACHE JUNCTION",
+		"State" : "AZ",
+		"Latitude" : "+33.361583"
+	},
+	{
+		"Longitude" : "-111.535089",
+		"Zipcode" : "85220",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "APACHE JUNCTION",
+		"State" : "AZ",
+		"Latitude" : "+33.408443"
+	},
+	{
+		"Longitude" : "-111.476001",
+		"Zipcode" : "85221",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PINAL",
+		"City" : "BAPCHULE",
+		"State" : "AZ",
+		"Latitude" : "+33.225652"
+	},
+	{
+		"Longitude" : "-111.753991",
+		"Zipcode" : "85222",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "CASA GRANDE",
+		"State" : "AZ",
+		"Latitude" : "+32.890550"
+	},
+	{
+		"Longitude" : "-111.603327",
+		"Zipcode" : "85223",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "ARIZONA CITY",
+		"State" : "AZ",
+		"Latitude" : "+32.745169"
+	},
+	{
+		"Longitude" : "-111.850620",
+		"Zipcode" : "85224",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CHANDLER",
+		"State" : "AZ",
+		"Latitude" : "+33.298461"
+	},
+	{
+		"Longitude" : "-111.824367",
+		"Zipcode" : "85225",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CHANDLER",
+		"State" : "AZ",
+		"Latitude" : "+33.325991"
+	},
+	{
+		"Longitude" : "-111.932892",
+		"Zipcode" : "85226",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CHANDLER",
+		"State" : "AZ",
+		"Latitude" : "+33.303777"
+	},
+	{
+		"Longitude" : "-111.686171",
+		"Zipcode" : "85227",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CHANDLER HEIGHTS",
+		"State" : "AZ",
+		"Latitude" : "+33.212186"
+	},
+	{
+		"Longitude" : "-111.247908",
+		"Zipcode" : "85228",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "COOLIDGE",
+		"State" : "AZ",
+		"Latitude" : "+32.904485"
+	},
+	{
+		"Longitude" : "-111.705441",
+		"Zipcode" : "85230",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "CASA GRANDE",
+		"State" : "AZ",
+		"Latitude" : "+32.815123"
+	},
+	{
+		"Longitude" : "-111.261161",
+		"Zipcode" : "85231",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "ELOY",
+		"State" : "AZ",
+		"Latitude" : "+32.914889"
+	},
+	{
+		"Longitude" : "-111.424943",
+		"Zipcode" : "85232",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "FLORENCE",
+		"State" : "AZ",
+		"Latitude" : "+32.982354"
+	},
+	{
+		"Longitude" : "-111.815281",
+		"Zipcode" : "85233",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GILBERT",
+		"State" : "AZ",
+		"Latitude" : "+33.335401"
+	},
+	{
+		"Longitude" : "-111.780712",
+		"Zipcode" : "85234",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GILBERT",
+		"State" : "AZ",
+		"Latitude" : "+33.352925"
+	},
+	{
+		"Longitude" : "-110.855618",
+		"Zipcode" : "85235",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILA",
+		"City" : "HAYDEN",
+		"State" : "AZ",
+		"Latitude" : "+33.576401"
+	},
+	{
+		"Longitude" : "-111.695460",
+		"Zipcode" : "85236",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "HIGLEY",
+		"State" : "AZ",
+		"Latitude" : "+33.299317"
+	},
+	{
+		"Longitude" : "-111.064109",
+		"Zipcode" : "85237",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "KEARNY",
+		"State" : "AZ",
+		"Latitude" : "+33.145984"
+	},
+	{
+		"Longitude" : "-112.053351",
+		"Zipcode" : "85239",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "MARICOPA",
+		"State" : "AZ",
+		"Latitude" : "+32.957645"
+	},
+	{
+		"Longitude" : "-111.531036",
+		"Zipcode" : "85241",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PINAL",
+		"City" : "PICACHO",
+		"State" : "AZ",
+		"Latitude" : "+32.689594"
+	},
+	{
+		"Longitude" : "-111.656128",
+		"Zipcode" : "85242",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "QUEEN CREEK",
+		"State" : "AZ",
+		"Latitude" : "+33.284844"
+	},
+	{
+		"Longitude" : "-111.888824",
+		"Zipcode" : "85244",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CHANDLER",
+		"State" : "AZ",
+		"Latitude" : "+33.321316"
+	},
+	{
+		"Longitude" : "-111.340953",
+		"Zipcode" : "85245",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PINAL",
+		"City" : "RED ROCK",
+		"State" : "AZ",
+		"Latitude" : "+32.579972"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85246",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CHANDLER",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.714232",
+		"Zipcode" : "85247",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PINAL",
+		"City" : "SACATON",
+		"State" : "AZ",
+		"Latitude" : "+33.141592"
+	},
+	{
+		"Longitude" : "-111.859308",
+		"Zipcode" : "85248",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CHANDLER",
+		"State" : "AZ",
+		"Latitude" : "+33.250947"
+	},
+	{
+		"Longitude" : "-111.770161",
+		"Zipcode" : "85249",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CHANDLER",
+		"State" : "AZ",
+		"Latitude" : "+33.247861"
+	},
+	{
+		"Longitude" : "-111.874248",
+		"Zipcode" : "85250",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.524143"
+	},
+	{
+		"Longitude" : "-111.792658",
+		"Zipcode" : "85251",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.420061"
+	},
+	{
+		"Longitude" : "-111.868432",
+		"Zipcode" : "85252",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.499529"
+	},
+	{
+		"Longitude" : "-111.963149",
+		"Zipcode" : "85253",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PARADISE VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+33.360896"
+	},
+	{
+		"Longitude" : "-111.830180",
+		"Zipcode" : "85254",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.483533"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85255",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.800330",
+		"Zipcode" : "85256",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.507744"
+	},
+	{
+		"Longitude" : "-111.894039",
+		"Zipcode" : "85257",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.465646"
+	},
+	{
+		"Longitude" : "-111.879806",
+		"Zipcode" : "85258",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.553346"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85259",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85260",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85261",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.915298",
+		"Zipcode" : "85262",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.407445"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85263",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "RIO VERDE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.677135",
+		"Zipcode" : "85264",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "FORT MCDOWELL",
+		"State" : "AZ",
+		"Latitude" : "+33.625163"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85266",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85267",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85268",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "FOUNTAIN HILLS",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85269",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "FOUNTAIN HILLS",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85271",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SCOTTSDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.957245",
+		"Zipcode" : "85272",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "STANFIELD",
+		"State" : "AZ",
+		"Latitude" : "+32.895764"
+	},
+	{
+		"Longitude" : "-111.130022",
+		"Zipcode" : "85273",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "SUPERIOR",
+		"State" : "AZ",
+		"Latitude" : "+33.180583"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85274",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85275",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85277",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MESA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.326045",
+		"Zipcode" : "85278",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "APACHE JUNCTION",
+		"State" : "AZ",
+		"Latitude" : "+32.983653"
+	},
+	{
+		"Longitude" : "-111.326045",
+		"Zipcode" : "85279",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "FLORENCE",
+		"State" : "AZ",
+		"Latitude" : "+32.983653"
+	},
+	{
+		"Longitude" : "-111.931298",
+		"Zipcode" : "85280",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TEMPE",
+		"State" : "AZ",
+		"Latitude" : "+33.401395"
+	},
+	{
+		"Longitude" : "-111.927219",
+		"Zipcode" : "85281",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TEMPE",
+		"State" : "AZ",
+		"Latitude" : "+33.432844"
+	},
+	{
+		"Longitude" : "-111.929253",
+		"Zipcode" : "85282",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TEMPE",
+		"State" : "AZ",
+		"Latitude" : "+33.396736"
+	},
+	{
+		"Longitude" : "-111.876915",
+		"Zipcode" : "85283",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TEMPE",
+		"State" : "AZ",
+		"Latitude" : "+33.373723"
+	},
+	{
+		"Longitude" : "-111.914127",
+		"Zipcode" : "85284",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TEMPE",
+		"State" : "AZ",
+		"Latitude" : "+33.343546"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85285",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TEMPE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.934865",
+		"Zipcode" : "85287",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TEMPE",
+		"State" : "AZ",
+		"Latitude" : "+33.428511"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85289",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARICOPA",
+		"City" : "TEMPE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85290",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TORTILLA FLAT",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.429790",
+		"Zipcode" : "85291",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PINAL",
+		"City" : "VALLEY FARMS",
+		"State" : "AZ",
+		"Latitude" : "+33.013502"
+	},
+	{
+		"Longitude" : "-110.789035",
+		"Zipcode" : "85292",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "WINKELMAN",
+		"State" : "AZ",
+		"Latitude" : "+33.070467"
+	},
+	{
+		"Longitude" : "-111.748791",
+		"Zipcode" : "85296",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GILBERT",
+		"State" : "AZ",
+		"Latitude" : "+33.314508"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "85297",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GILBERT",
+		"State" : "AZ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85299",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GILBERT",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85301",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85302",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85303",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85304",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85305",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85306",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85307",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85308",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85309",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "LUKE AFB",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85310",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85311",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85312",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85313",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85318",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GLENDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85320",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARICOPA",
+		"City" : "AGUILA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85321",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "AJO",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85322",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "ARLINGTON",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85323",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "AVONDALE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.134005",
+		"Zipcode" : "85324",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "BLACK CANYON CITY",
+		"State" : "AZ",
+		"Latitude" : "+34.075451"
+	},
+	{
+		"Longitude" : "-114.003634",
+		"Zipcode" : "85325",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LA PAZ",
+		"City" : "BOUSE",
+		"State" : "AZ",
+		"Latitude" : "+33.957820"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85326",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "BUCKEYE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85327",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CAVE CREEK",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-114.032150",
+		"Zipcode" : "85328",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PAZ",
+		"City" : "CIBOLA",
+		"State" : "AZ",
+		"Latitude" : "+33.672255"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARICOPA",
+		"City" : "CASHION",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85331",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CAVE CREEK",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.787686",
+		"Zipcode" : "85332",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAVAPAI",
+		"City" : "CONGRESS",
+		"State" : "AZ",
+		"Latitude" : "+34.170305"
+	},
+	{
+		"Longitude" : "-113.525199",
+		"Zipcode" : "85333",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "DATELAND",
+		"State" : "AZ",
+		"Latitude" : "+32.825705"
+	},
+	{
+		"Longitude" : "-114.507697",
+		"Zipcode" : "85334",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PAZ",
+		"City" : "EHRENBERG",
+		"State" : "AZ",
+		"Latitude" : "+33.617670"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85335",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "EL MIRAGE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-114.774342",
+		"Zipcode" : "85336",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YUMA",
+		"City" : "GADSDEN",
+		"State" : "AZ",
+		"Latitude" : "+32.530155"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85337",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GILA BEND",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85338",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "GOODYEAR",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.182248",
+		"Zipcode" : "85339",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "LAVEEN",
+		"State" : "AZ",
+		"Latitude" : "+33.335057"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85340",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "LITCHFIELD PARK",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85341",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIMA",
+		"City" : "LUKEVILLE",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85342",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "MORRISTOWN",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85343",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PALO VERDE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-114.268073",
+		"Zipcode" : "85344",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PAZ",
+		"City" : "PARKER",
+		"State" : "AZ",
+		"Latitude" : "+33.967712"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85345",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PEORIA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-114.192454",
+		"Zipcode" : "85346",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LA PAZ",
+		"City" : "QUARTZSITE",
+		"State" : "AZ",
+		"Latitude" : "+33.729219"
+	},
+	{
+		"Longitude" : "-113.798728",
+		"Zipcode" : "85347",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "ROLL",
+		"State" : "AZ",
+		"Latitude" : "+32.752609"
+	},
+	{
+		"Longitude" : "-113.662489",
+		"Zipcode" : "85348",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PAZ",
+		"City" : "SALOME",
+		"State" : "AZ",
+		"Latitude" : "+33.647970"
+	},
+	{
+		"Longitude" : "-114.754999",
+		"Zipcode" : "85349",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YUMA",
+		"City" : "SAN LUIS",
+		"State" : "AZ",
+		"Latitude" : "+32.540068"
+	},
+	{
+		"Longitude" : "-114.606214",
+		"Zipcode" : "85350",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "SOMERTON",
+		"State" : "AZ",
+		"Latitude" : "+32.612408"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85351",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SUN CITY",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-113.976313",
+		"Zipcode" : "85352",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "TACNA",
+		"State" : "AZ",
+		"Latitude" : "+32.693448"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85353",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TOLLESON",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85354",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "TONOPAH",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85355",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "WADDELL",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-114.156058",
+		"Zipcode" : "85356",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "WELLTON",
+		"State" : "AZ",
+		"Latitude" : "+32.693461"
+	},
+	{
+		"Longitude" : "-113.458002",
+		"Zipcode" : "85357",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LA PAZ",
+		"City" : "WENDEN",
+		"State" : "AZ",
+		"Latitude" : "+34.042203"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85358",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "WICKENBURG",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-114.239557",
+		"Zipcode" : "85359",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LA PAZ",
+		"City" : "QUARTZSITE",
+		"State" : "AZ",
+		"Latitude" : "+33.666880"
+	},
+	{
+		"Longitude" : "-113.810600",
+		"Zipcode" : "85360",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOHAVE",
+		"City" : "WIKIEUP",
+		"State" : "AZ",
+		"Latitude" : "+35.747820"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85361",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "WITTMANN",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.756652",
+		"Zipcode" : "85362",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAVAPAI",
+		"City" : "YARNELL",
+		"State" : "AZ",
+		"Latitude" : "+34.250781"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85363",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "YOUNGTOWN",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-114.648722",
+		"Zipcode" : "85364",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "YUMA",
+		"State" : "AZ",
+		"Latitude" : "+32.615305"
+	},
+	{
+		"Longitude" : "-114.490471",
+		"Zipcode" : "85365",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "YUMA",
+		"State" : "AZ",
+		"Latitude" : "+32.709332"
+	},
+	{
+		"Longitude" : "-114.631172",
+		"Zipcode" : "85366",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "YUMA",
+		"State" : "AZ",
+		"Latitude" : "+32.609959"
+	},
+	{
+		"Longitude" : "-114.404216",
+		"Zipcode" : "85367",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "YUMA",
+		"State" : "AZ",
+		"Latitude" : "+32.656575"
+	},
+	{
+		"Longitude" : "-114.074901",
+		"Zipcode" : "85369",
+		"ZipClass" : "STANDARD",
+		"County" : "YUMA",
+		"City" : "YUMA",
+		"State" : "AZ",
+		"Latitude" : "+32.751632"
+	},
+	{
+		"Longitude" : "-114.390171",
+		"Zipcode" : "85371",
+		"ZipClass" : "STANDARD",
+		"County" : "LA PAZ",
+		"City" : "POSTON",
+		"State" : "AZ",
+		"Latitude" : "+34.031791"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85372",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SUN CITY",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85373",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SUN CITY",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85374",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SURPRISE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85375",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SUN CITY WEST",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85376",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SUN CITY WEST",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85377",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "CAREFREE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85378",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SURPRISE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85379",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SURPRISE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85380",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PEORIA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85381",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PEORIA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85382",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PEORIA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "85383",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PEORIA",
+		"State" : "AZ",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85385",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "PEORIA",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85387",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "SURPRISE",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-112.187170",
+		"Zipcode" : "85390",
+		"ZipClass" : "STANDARD",
+		"County" : "MARICOPA",
+		"City" : "WICKENBURG",
+		"State" : "AZ",
+		"Latitude" : "+33.276539"
+	},
+	{
+		"Longitude" : "-110.868076",
+		"Zipcode" : "85501",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "GLOBE",
+		"State" : "AZ",
+		"Latitude" : "+33.476884"
+	},
+	{
+		"Longitude" : "-110.812680",
+		"Zipcode" : "85502",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "GLOBE",
+		"State" : "AZ",
+		"Latitude" : "+33.421919"
+	},
+	{
+		"Longitude" : "-109.785973",
+		"Zipcode" : "85530",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAHAM",
+		"City" : "BYLAS",
+		"State" : "AZ",
+		"Latitude" : "+33.038678"
+	},
+	{
+		"Longitude" : "-109.787778",
+		"Zipcode" : "85531",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAHAM",
+		"City" : "CENTRAL",
+		"State" : "AZ",
+		"Latitude" : "+32.869243"
+	},
+	{
+		"Longitude" : "-110.814893",
+		"Zipcode" : "85532",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILA",
+		"City" : "CLAYPOOL",
+		"State" : "AZ",
+		"Latitude" : "+33.415409"
+	},
+	{
+		"Longitude" : "-109.255872",
+		"Zipcode" : "85533",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENLEE",
+		"City" : "CLIFTON",
+		"State" : "AZ",
+		"Latitude" : "+32.991251"
+	},
+	{
+		"Longitude" : "-109.215723",
+		"Zipcode" : "85534",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENLEE",
+		"City" : "DUNCAN",
+		"State" : "AZ",
+		"Latitude" : "+32.881003"
+	},
+	{
+		"Longitude" : "-109.897401",
+		"Zipcode" : "85535",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "EDEN",
+		"State" : "AZ",
+		"Latitude" : "+32.975112"
+	},
+	{
+		"Longitude" : "-109.971733",
+		"Zipcode" : "85536",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAHAM",
+		"City" : "FORT THOMAS",
+		"State" : "AZ",
+		"Latitude" : "+33.033314"
+	},
+	{
+		"Longitude" : "-110.966562",
+		"Zipcode" : "85539",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "MIAMI",
+		"State" : "AZ",
+		"Latitude" : "+33.528204"
+	},
+	{
+		"Longitude" : "-109.326923",
+		"Zipcode" : "85540",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENLEE",
+		"City" : "MORENCI",
+		"State" : "AZ",
+		"Latitude" : "+33.054062"
+	},
+	{
+		"Longitude" : "-111.075088",
+		"Zipcode" : "85541",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "PAYSON",
+		"State" : "AZ",
+		"Latitude" : "+33.864471"
+	},
+	{
+		"Longitude" : "-110.860653",
+		"Zipcode" : "85542",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "PERIDOT",
+		"State" : "AZ",
+		"Latitude" : "+33.741518"
+	},
+	{
+		"Longitude" : "-109.775698",
+		"Zipcode" : "85543",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "PIMA",
+		"State" : "AZ",
+		"Latitude" : "+32.878042"
+	},
+	{
+		"Longitude" : "-111.396855",
+		"Zipcode" : "85544",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "PINE",
+		"State" : "AZ",
+		"Latitude" : "+34.320445"
+	},
+	{
+		"Longitude" : "-111.005928",
+		"Zipcode" : "85545",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "ROOSEVELT",
+		"State" : "AZ",
+		"Latitude" : "+33.614316"
+	},
+	{
+		"Longitude" : "-109.701631",
+		"Zipcode" : "85546",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "SAFFORD",
+		"State" : "AZ",
+		"Latitude" : "+32.813612"
+	},
+	{
+		"Longitude" : "-111.287750",
+		"Zipcode" : "85547",
+		"ZipClass" : "STANDARD",
+		"County" : "GILA",
+		"City" : "PAYSON",
+		"State" : "AZ",
+		"Latitude" : "+34.257457"
+	},
+	{
+		"Longitude" : "-109.752196",
+		"Zipcode" : "85548",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "SAFFORD",
+		"State" : "AZ",
+		"Latitude" : "+32.797009"
+	},
+	{
+		"Longitude" : "-110.491898",
+		"Zipcode" : "85550",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILA",
+		"City" : "SAN CARLOS",
+		"State" : "AZ",
+		"Latitude" : "+33.289447"
+	},
+	{
+		"Longitude" : "-109.696449",
+		"Zipcode" : "85551",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAHAM",
+		"City" : "SOLOMON",
+		"State" : "AZ",
+		"Latitude" : "+32.842769"
+	},
+	{
+		"Longitude" : "-109.746133",
+		"Zipcode" : "85552",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "THATCHER",
+		"State" : "AZ",
+		"Latitude" : "+32.850436"
+	},
+	{
+		"Longitude" : "-110.860653",
+		"Zipcode" : "85553",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILA",
+		"City" : "TONTO BASIN",
+		"State" : "AZ",
+		"Latitude" : "+33.741518"
+	},
+	{
+		"Longitude" : "-110.860653",
+		"Zipcode" : "85554",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GILA",
+		"City" : "YOUNG",
+		"State" : "AZ",
+		"Latitude" : "+33.741518"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85601",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIMA",
+		"City" : "ARIVACA",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.262611",
+		"Zipcode" : "85602",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "BENSON",
+		"State" : "AZ",
+		"Latitude" : "+32.035885"
+	},
+	{
+		"Longitude" : "-109.819216",
+		"Zipcode" : "85603",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "BISBEE",
+		"State" : "AZ",
+		"Latitude" : "+31.445577"
+	},
+	{
+		"Longitude" : "-109.706426",
+		"Zipcode" : "85605",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCHISE",
+		"City" : "BOWIE",
+		"State" : "AZ",
+		"Latitude" : "+31.891434"
+	},
+	{
+		"Longitude" : "-109.835893",
+		"Zipcode" : "85606",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "COCHISE",
+		"State" : "AZ",
+		"Latitude" : "+32.043893"
+	},
+	{
+		"Longitude" : "-109.866187",
+		"Zipcode" : "85607",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "DOUGLAS",
+		"State" : "AZ",
+		"Latitude" : "+31.604081"
+	},
+	{
+		"Longitude" : "-109.596038",
+		"Zipcode" : "85608",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "DOUGLAS",
+		"State" : "AZ",
+		"Latitude" : "+31.415114"
+	},
+	{
+		"Longitude" : "-109.818047",
+		"Zipcode" : "85609",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCHISE",
+		"City" : "DRAGOON",
+		"State" : "AZ",
+		"Latitude" : "+32.040753"
+	},
+	{
+		"Longitude" : "-109.622175",
+		"Zipcode" : "85610",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "ELFRIDA",
+		"State" : "AZ",
+		"Latitude" : "+31.737711"
+	},
+	{
+		"Longitude" : "-110.563551",
+		"Zipcode" : "85611",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "ELGIN",
+		"State" : "AZ",
+		"Latitude" : "+31.609653"
+	},
+	{
+		"Longitude" : "-110.318682",
+		"Zipcode" : "85613",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "FORT HUACHUCA",
+		"State" : "AZ",
+		"Latitude" : "+31.559131"
+	},
+	{
+		"Longitude" : "-110.955483",
+		"Zipcode" : "85614",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "GREEN VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+31.838223"
+	},
+	{
+		"Longitude" : "-110.158573",
+		"Zipcode" : "85615",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "HEREFORD",
+		"State" : "AZ",
+		"Latitude" : "+31.411921"
+	},
+	{
+		"Longitude" : "-110.248009",
+		"Zipcode" : "85616",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "HUACHUCA CITY",
+		"State" : "AZ",
+		"Latitude" : "+31.606087"
+	},
+	{
+		"Longitude" : "-109.843770",
+		"Zipcode" : "85617",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "MC NEAL",
+		"State" : "AZ",
+		"Latitude" : "+31.512083"
+	},
+	{
+		"Longitude" : "-110.695920",
+		"Zipcode" : "85618",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "MAMMOTH",
+		"State" : "AZ",
+		"Latitude" : "+32.703898"
+	},
+	{
+		"Longitude" : "-110.760458",
+		"Zipcode" : "85619",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIMA",
+		"City" : "MOUNT LEMMON",
+		"State" : "AZ",
+		"Latitude" : "+32.376306"
+	},
+	{
+		"Longitude" : "-109.919794",
+		"Zipcode" : "85620",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCHISE",
+		"City" : "NACO",
+		"State" : "AZ",
+		"Latitude" : "+31.385182"
+	},
+	{
+		"Longitude" : "-110.881900",
+		"Zipcode" : "85621",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "NOGALES",
+		"State" : "AZ",
+		"Latitude" : "+31.463270"
+	},
+	{
+		"Longitude" : "-110.932803",
+		"Zipcode" : "85622",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "GREEN VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+31.853334"
+	},
+	{
+		"Longitude" : "-110.850082",
+		"Zipcode" : "85623",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "ORACLE",
+		"State" : "AZ",
+		"Latitude" : "+32.642130"
+	},
+	{
+		"Longitude" : "-110.675964",
+		"Zipcode" : "85624",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "PATAGONIA",
+		"State" : "AZ",
+		"Latitude" : "+31.523845"
+	},
+	{
+		"Longitude" : "-109.896053",
+		"Zipcode" : "85625",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "PEARCE",
+		"State" : "AZ",
+		"Latitude" : "+31.766243"
+	},
+	{
+		"Longitude" : "-109.611545",
+		"Zipcode" : "85626",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCHISE",
+		"City" : "PIRTLEVILLE",
+		"State" : "AZ",
+		"Latitude" : "+31.357528"
+	},
+	{
+		"Longitude" : "-110.290892",
+		"Zipcode" : "85627",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCHISE",
+		"City" : "POMERENE",
+		"State" : "AZ",
+		"Latitude" : "+32.049456"
+	},
+	{
+		"Longitude" : "-110.909305",
+		"Zipcode" : "85628",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "NOGALES",
+		"State" : "AZ",
+		"Latitude" : "+31.531998"
+	},
+	{
+		"Longitude" : "-110.895188",
+		"Zipcode" : "85629",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "SAHUARITA",
+		"State" : "AZ",
+		"Latitude" : "+31.932883"
+	},
+	{
+		"Longitude" : "-110.170442",
+		"Zipcode" : "85630",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "SAINT DAVID",
+		"State" : "AZ",
+		"Latitude" : "+31.891828"
+	},
+	{
+		"Longitude" : "-110.599242",
+		"Zipcode" : "85631",
+		"ZipClass" : "STANDARD",
+		"County" : "PINAL",
+		"City" : "SAN MANUEL",
+		"State" : "AZ",
+		"Latitude" : "+32.620892"
+	},
+	{
+		"Longitude" : "-109.754263",
+		"Zipcode" : "85632",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "SAN SIMON",
+		"State" : "AZ",
+		"Latitude" : "+31.880077"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85633",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIMA",
+		"City" : "SASABE",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.702027",
+		"Zipcode" : "85634",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "SELLS",
+		"State" : "AZ",
+		"Latitude" : "+31.974033"
+	},
+	{
+		"Longitude" : "-109.997623",
+		"Zipcode" : "85635",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "SIERRA VISTA",
+		"State" : "AZ",
+		"Latitude" : "+31.810649"
+	},
+	{
+		"Longitude" : "-110.280111",
+		"Zipcode" : "85636",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "SIERRA VISTA",
+		"State" : "AZ",
+		"Latitude" : "+31.668685"
+	},
+	{
+		"Longitude" : "-110.618814",
+		"Zipcode" : "85637",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "SONOITA",
+		"State" : "AZ",
+		"Latitude" : "+31.673105"
+	},
+	{
+		"Longitude" : "-110.076564",
+		"Zipcode" : "85638",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "TOMBSTONE",
+		"State" : "AZ",
+		"Latitude" : "+31.671060"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85639",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIMA",
+		"City" : "TOPAWA",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-111.051279",
+		"Zipcode" : "85640",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "TUMACACORI",
+		"State" : "AZ",
+		"Latitude" : "+31.616167"
+	},
+	{
+		"Longitude" : "-110.705269",
+		"Zipcode" : "85641",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "VAIL",
+		"State" : "AZ",
+		"Latitude" : "+32.002669"
+	},
+	{
+		"Longitude" : "-109.886546",
+		"Zipcode" : "85643",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "WILLCOX",
+		"State" : "AZ",
+		"Latitude" : "+32.070050"
+	},
+	{
+		"Longitude" : "-109.878211",
+		"Zipcode" : "85644",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "WILLCOX",
+		"State" : "AZ",
+		"Latitude" : "+32.300690"
+	},
+	{
+		"Longitude" : "-111.098620",
+		"Zipcode" : "85645",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "AMADO",
+		"State" : "AZ",
+		"Latitude" : "+31.672252"
+	},
+	{
+		"Longitude" : "-111.066245",
+		"Zipcode" : "85646",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "TUBAC",
+		"State" : "AZ",
+		"Latitude" : "+31.593758"
+	},
+	{
+		"Longitude" : "-111.075695",
+		"Zipcode" : "85648",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "RIO RICO",
+		"State" : "AZ",
+		"Latitude" : "+31.508436"
+	},
+	{
+		"Longitude" : "-110.215304",
+		"Zipcode" : "85650",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "SIERRA VISTA",
+		"State" : "AZ",
+		"Latitude" : "+31.489157"
+	},
+	{
+		"Longitude" : "-111.113178",
+		"Zipcode" : "85652",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIMA",
+		"City" : "CORTARO",
+		"State" : "AZ",
+		"Latitude" : "+32.420055"
+	},
+	{
+		"Longitude" : "-111.159344",
+		"Zipcode" : "85653",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "MARANA",
+		"State" : "AZ",
+		"Latitude" : "+32.442979"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85654",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIMA",
+		"City" : "RILLITO",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-109.754263",
+		"Zipcode" : "85655",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "DOUGLAS",
+		"State" : "AZ",
+		"Latitude" : "+31.880077"
+	},
+	{
+		"Longitude" : "-110.909305",
+		"Zipcode" : "85662",
+		"ZipClass" : "STANDARD",
+		"County" : "SANTA CRUZ",
+		"City" : "NOGALES",
+		"State" : "AZ",
+		"Latitude" : "+31.531998"
+	},
+	{
+		"Longitude" : "-109.754263",
+		"Zipcode" : "85670",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "FORT HUACHUCA",
+		"State" : "AZ",
+		"Latitude" : "+31.880077"
+	},
+	{
+		"Longitude" : "-109.754263",
+		"Zipcode" : "85671",
+		"ZipClass" : "STANDARD",
+		"County" : "COCHISE",
+		"City" : "SIERRA VISTA",
+		"State" : "AZ",
+		"Latitude" : "+31.880077"
+	},
+	{
+		"Longitude" : "-110.970869",
+		"Zipcode" : "85701",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.217975"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85702",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85703",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-111.100062",
+		"Zipcode" : "85704",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.395222"
+	},
+	{
+		"Longitude" : "-110.900395",
+		"Zipcode" : "85705",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.294945"
+	},
+	{
+		"Longitude" : "-110.879684",
+		"Zipcode" : "85706",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.093314"
+	},
+	{
+		"Longitude" : "-110.875093",
+		"Zipcode" : "85707",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.169577"
+	},
+	{
+		"Longitude" : "-110.874973",
+		"Zipcode" : "85708",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.187559"
+	},
+	{
+		"Longitude" : "-110.897966",
+		"Zipcode" : "85709",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.200813"
+	},
+	{
+		"Longitude" : "-110.789340",
+		"Zipcode" : "85710",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.213926"
+	},
+	{
+		"Longitude" : "-110.883744",
+		"Zipcode" : "85711",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.214075"
+	},
+	{
+		"Longitude" : "-110.883744",
+		"Zipcode" : "85712",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.253714"
+	},
+	{
+		"Longitude" : "-110.945048",
+		"Zipcode" : "85713",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.192676"
+	},
+	{
+		"Longitude" : "-110.934945",
+		"Zipcode" : "85714",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.123064"
+	},
+	{
+		"Longitude" : "-110.819977",
+		"Zipcode" : "85715",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.251875"
+	},
+	{
+		"Longitude" : "-110.923180",
+		"Zipcode" : "85716",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.244250"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85717",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.918980",
+		"Zipcode" : "85718",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.311724"
+	},
+	{
+		"Longitude" : "-110.947541",
+		"Zipcode" : "85719",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.247175"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85720",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.949996",
+		"Zipcode" : "85721",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.233761"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85722",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85723",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.944343",
+		"Zipcode" : "85724",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.240571"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85725",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.945346",
+		"Zipcode" : "85726",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.202726"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85728",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.772728",
+		"Zipcode" : "85730",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.159829"
+	},
+	{
+		"Longitude" : "-110.708174",
+		"Zipcode" : "85731",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.088034"
+	},
+	{
+		"Longitude" : "-110.712250",
+		"Zipcode" : "85732",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.084775"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85733",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.935337",
+		"Zipcode" : "85734",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.065082"
+	},
+	{
+		"Longitude" : "-110.976006",
+		"Zipcode" : "85735",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.440968"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85736",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.984499",
+		"Zipcode" : "85737",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.435158"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85738",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "CATALINA",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.892213",
+		"Zipcode" : "85739",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.465013"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85740",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-111.058754",
+		"Zipcode" : "85741",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.340073"
+	},
+	{
+		"Longitude" : "-111.065029",
+		"Zipcode" : "85742",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.407562"
+	},
+	{
+		"Longitude" : "-111.065869",
+		"Zipcode" : "85743",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.333438"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85744",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.869052",
+		"Zipcode" : "85745",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.215967"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85746",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.727183",
+		"Zipcode" : "85747",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.098362"
+	},
+	{
+		"Longitude" : "-110.738517",
+		"Zipcode" : "85748",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.213246"
+	},
+	{
+		"Longitude" : "-110.746670",
+		"Zipcode" : "85749",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.263975"
+	},
+	{
+		"Longitude" : "-110.840422",
+		"Zipcode" : "85750",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.297374"
+	},
+	{
+		"Longitude" : "-110.714678",
+		"Zipcode" : "85751",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.161972"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85752",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85754",
+		"ZipClass" : "STANDARD",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-111.890713",
+		"Zipcode" : "85775",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+31.970131"
+	},
+	{
+		"Longitude" : "-110.859106",
+		"Zipcode" : "85777",
+		"ZipClass" : "UNIQUE",
+		"County" : "PIMA",
+		"City" : "TUCSON",
+		"State" : "AZ",
+		"Latitude" : "+32.071764"
+	},
+	{
+		"Longitude" : "-110.032025",
+		"Zipcode" : "85901",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "SHOW LOW",
+		"State" : "AZ",
+		"Latitude" : "+34.570811"
+	},
+	{
+		"Longitude" : "-110.035185",
+		"Zipcode" : "85902",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "SHOW LOW",
+		"State" : "AZ",
+		"Latitude" : "+34.298092"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "85911",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "CIBECUE",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-110.203073",
+		"Zipcode" : "85912",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "WHITE MOUNTAIN LAKE",
+		"State" : "AZ",
+		"Latitude" : "+34.266588"
+	},
+	{
+		"Longitude" : "-109.240647",
+		"Zipcode" : "85920",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "ALPINE",
+		"State" : "AZ",
+		"Latitude" : "+34.177052"
+	},
+	{
+		"Longitude" : "-109.271169",
+		"Zipcode" : "85922",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENLEE",
+		"City" : "BLUE",
+		"State" : "AZ",
+		"Latitude" : "+33.102464"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "85923",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "CLAY SPRINGS",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-109.742654",
+		"Zipcode" : "85924",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "CONCHO",
+		"State" : "AZ",
+		"Latitude" : "+34.468787"
+	},
+	{
+		"Longitude" : "-109.293952",
+		"Zipcode" : "85925",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "EAGAR",
+		"State" : "AZ",
+		"Latitude" : "+34.107708"
+	},
+	{
+		"Longitude" : "-110.010612",
+		"Zipcode" : "85926",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "FORT APACHE",
+		"State" : "AZ",
+		"Latitude" : "+34.201164"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "85927",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "GREER",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-110.588287",
+		"Zipcode" : "85928",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "HEBER",
+		"State" : "AZ",
+		"Latitude" : "+34.409980"
+	},
+	{
+		"Longitude" : "-109.972598",
+		"Zipcode" : "85929",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "LAKESIDE",
+		"State" : "AZ",
+		"Latitude" : "+34.175198"
+	},
+	{
+		"Longitude" : "-109.853192",
+		"Zipcode" : "85930",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "MCNARY",
+		"State" : "AZ",
+		"Latitude" : "+34.075359"
+	},
+	{
+		"Longitude" : "-111.275860",
+		"Zipcode" : "85931",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "FOREST LAKES",
+		"State" : "AZ",
+		"Latitude" : "+35.537441"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "85932",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "NUTRIOSO",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-110.560023",
+		"Zipcode" : "85933",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "OVERGAARD",
+		"State" : "AZ",
+		"Latitude" : "+34.408619"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "85934",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "PINEDALE",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-109.935556",
+		"Zipcode" : "85935",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "PINETOP",
+		"State" : "AZ",
+		"Latitude" : "+34.141314"
+	},
+	{
+		"Longitude" : "-109.481543",
+		"Zipcode" : "85936",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "SAINT JOHNS",
+		"State" : "AZ",
+		"Latitude" : "+34.497709"
+	},
+	{
+		"Longitude" : "-110.110981",
+		"Zipcode" : "85937",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "SNOWFLAKE",
+		"State" : "AZ",
+		"Latitude" : "+34.521702"
+	},
+	{
+		"Longitude" : "-109.285553",
+		"Zipcode" : "85938",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "SPRINGERVILLE",
+		"State" : "AZ",
+		"Latitude" : "+34.118938"
+	},
+	{
+		"Longitude" : "-110.002763",
+		"Zipcode" : "85939",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "TAYLOR",
+		"State" : "AZ",
+		"Latitude" : "+34.314937"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "85940",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "VERNON",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.993738",
+		"Zipcode" : "85941",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "WHITERIVER",
+		"State" : "AZ",
+		"Latitude" : "+33.802071"
+	},
+	{
+		"Longitude" : "-110.080632",
+		"Zipcode" : "85942",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "WOODRUFF",
+		"State" : "AZ",
+		"Latitude" : "+34.647454"
+	},
+	{
+		"Longitude" : "-111.597853",
+		"Zipcode" : "86001",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "FLAGSTAFF",
+		"State" : "AZ",
+		"Latitude" : "+35.932116"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86002",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "FLAGSTAFF",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86003",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "FLAGSTAFF",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-111.324353",
+		"Zipcode" : "86004",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "FLAGSTAFF",
+		"State" : "AZ",
+		"Latitude" : "+35.610905"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86011",
+		"ZipClass" : "UNIQUE",
+		"County" : "COCONINO",
+		"City" : "FLAGSTAFF",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86015",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "BELLEMONT",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86016",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCONINO",
+		"City" : "GRAY MOUNTAIN",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-111.640991",
+		"Zipcode" : "86017",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "MUNDS PARK",
+		"State" : "AZ",
+		"Latitude" : "+34.941220"
+	},
+	{
+		"Longitude" : "-111.950030",
+		"Zipcode" : "86018",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "PARKS",
+		"State" : "AZ",
+		"Latitude" : "+35.256347"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86020",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCONINO",
+		"City" : "CAMERON",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-112.978914",
+		"Zipcode" : "86021",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOHAVE",
+		"City" : "COLORADO CITY",
+		"State" : "AZ",
+		"Latitude" : "+36.974658"
+	},
+	{
+		"Longitude" : "-112.524696",
+		"Zipcode" : "86022",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "FREDONIA",
+		"State" : "AZ",
+		"Latitude" : "+36.966490"
+	},
+	{
+		"Longitude" : "-112.130937",
+		"Zipcode" : "86023",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCONINO",
+		"City" : "GRAND CANYON",
+		"State" : "AZ",
+		"Latitude" : "+35.942057"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86024",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "HAPPY JACK",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-110.089544",
+		"Zipcode" : "86025",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "HOLBROOK",
+		"State" : "AZ",
+		"Latitude" : "+34.776828"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86028",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "PETRIFIED FOREST NATL PK",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86029",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "SUN VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86030",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "HOTEVILLA",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86031",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "INDIAN WELLS",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-110.337348",
+		"Zipcode" : "86032",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "JOSEPH CITY",
+		"State" : "AZ",
+		"Latitude" : "+34.981359"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86033",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "KAYENTA",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86034",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "KEAMS CANYON",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86035",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCONINO",
+		"City" : "LEUPP",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-111.449889",
+		"Zipcode" : "86036",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "MARBLE CANYON",
+		"State" : "AZ",
+		"Latitude" : "+36.922976"
+	},
+	{
+		"Longitude" : "-111.463026",
+		"Zipcode" : "86038",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "MORMON LAKE",
+		"State" : "AZ",
+		"Latitude" : "+34.908287"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86039",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "KYKOTSMOVI VILLAGE",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-111.502009",
+		"Zipcode" : "86040",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "PAGE",
+		"State" : "AZ",
+		"Latitude" : "+36.910804"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86042",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "POLACCA",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86043",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "SECOND MESA",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86044",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "TONALEA",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-111.241773",
+		"Zipcode" : "86045",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCONINO",
+		"City" : "TUBA CITY",
+		"State" : "AZ",
+		"Latitude" : "+36.132723"
+	},
+	{
+		"Longitude" : "-112.366031",
+		"Zipcode" : "86046",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "WILLIAMS",
+		"State" : "AZ",
+		"Latitude" : "+35.915563"
+	},
+	{
+		"Longitude" : "-110.350610",
+		"Zipcode" : "86047",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "WINSLOW",
+		"State" : "AZ",
+		"Latitude" : "+34.633764"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86052",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "NORTH RIM",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-111.451826",
+		"Zipcode" : "86053",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "KAIBITO",
+		"State" : "AZ",
+		"Latitude" : "+36.910554"
+	},
+	{
+		"Longitude" : "-110.655526",
+		"Zipcode" : "86054",
+		"ZipClass" : "STANDARD",
+		"County" : "NAVAJO",
+		"City" : "SHONTO",
+		"State" : "AZ",
+		"Latitude" : "+36.593079"
+	},
+	{
+		"Longitude" : "-112.567165",
+		"Zipcode" : "86301",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PRESCOTT",
+		"State" : "AZ",
+		"Latitude" : "+34.620826"
+	},
+	{
+		"Longitude" : "-112.491528",
+		"Zipcode" : "86302",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PRESCOTT",
+		"State" : "AZ",
+		"Latitude" : "+34.574921"
+	},
+	{
+		"Longitude" : "-112.378309",
+		"Zipcode" : "86303",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PRESCOTT",
+		"State" : "AZ",
+		"Latitude" : "+34.495790"
+	},
+	{
+		"Longitude" : "-112.490660",
+		"Zipcode" : "86304",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PRESCOTT",
+		"State" : "AZ",
+		"Latitude" : "+34.596680"
+	},
+	{
+		"Longitude" : "-112.208914",
+		"Zipcode" : "86305",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PRESCOTT",
+		"State" : "AZ",
+		"Latitude" : "+34.683235"
+	},
+	{
+		"Longitude" : "-112.307777",
+		"Zipcode" : "86312",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PRESCOTT VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+34.668291"
+	},
+	{
+		"Longitude" : "-112.397730",
+		"Zipcode" : "86313",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PRESCOTT",
+		"State" : "AZ",
+		"Latitude" : "+34.706724"
+	},
+	{
+		"Longitude" : "-112.262805",
+		"Zipcode" : "86314",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PRESCOTT VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+34.627778"
+	},
+	{
+		"Longitude" : "-112.263974",
+		"Zipcode" : "86320",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAVAPAI",
+		"City" : "ASH FORK",
+		"State" : "AZ",
+		"Latitude" : "+34.970209"
+	},
+	{
+		"Longitude" : "-113.164742",
+		"Zipcode" : "86321",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "BAGDAD",
+		"State" : "AZ",
+		"Latitude" : "+34.583624"
+	},
+	{
+		"Longitude" : "-111.809798",
+		"Zipcode" : "86322",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "CAMP VERDE",
+		"State" : "AZ",
+		"Latitude" : "+34.569687"
+	},
+	{
+		"Longitude" : "-112.171623",
+		"Zipcode" : "86323",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "CHINO VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+34.755208"
+	},
+	{
+		"Longitude" : "-112.132220",
+		"Zipcode" : "86324",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "CLARKDALE",
+		"State" : "AZ",
+		"Latitude" : "+34.659484"
+	},
+	{
+		"Longitude" : "-111.927746",
+		"Zipcode" : "86325",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "CORNVILLE",
+		"State" : "AZ",
+		"Latitude" : "+34.735388"
+	},
+	{
+		"Longitude" : "-112.043547",
+		"Zipcode" : "86326",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "COTTONWOOD",
+		"State" : "AZ",
+		"Latitude" : "+34.643596"
+	},
+	{
+		"Longitude" : "-112.284396",
+		"Zipcode" : "86327",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "DEWEY",
+		"State" : "AZ",
+		"Latitude" : "+34.556520"
+	},
+	{
+		"Longitude" : "-112.252340",
+		"Zipcode" : "86329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAVAPAI",
+		"City" : "HUMBOLDT",
+		"State" : "AZ",
+		"Latitude" : "+34.518883"
+	},
+	{
+		"Longitude" : "-112.397730",
+		"Zipcode" : "86330",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "IRON SPRINGS",
+		"State" : "AZ",
+		"Latitude" : "+34.706724"
+	},
+	{
+		"Longitude" : "-112.108626",
+		"Zipcode" : "86331",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAVAPAI",
+		"City" : "JEROME",
+		"State" : "AZ",
+		"Latitude" : "+34.748589"
+	},
+	{
+		"Longitude" : "-112.657865",
+		"Zipcode" : "86332",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "KIRKLAND",
+		"State" : "AZ",
+		"Latitude" : "+34.443950"
+	},
+	{
+		"Longitude" : "-112.163493",
+		"Zipcode" : "86333",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "MAYER",
+		"State" : "AZ",
+		"Latitude" : "+34.414534"
+	},
+	{
+		"Longitude" : "-112.537368",
+		"Zipcode" : "86334",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "PAULDEN",
+		"State" : "AZ",
+		"Latitude" : "+34.805120"
+	},
+	{
+		"Longitude" : "-111.796517",
+		"Zipcode" : "86335",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "RIMROCK",
+		"State" : "AZ",
+		"Latitude" : "+34.641610"
+	},
+	{
+		"Longitude" : "-111.279927",
+		"Zipcode" : "86336",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "SEDONA",
+		"State" : "AZ",
+		"Latitude" : "+34.756885"
+	},
+	{
+		"Longitude" : "-112.875402",
+		"Zipcode" : "86337",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAVAPAI",
+		"City" : "SELIGMAN",
+		"State" : "AZ",
+		"Latitude" : "+35.331088"
+	},
+	{
+		"Longitude" : "-112.397730",
+		"Zipcode" : "86338",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAVAPAI",
+		"City" : "SKULL VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+34.706724"
+	},
+	{
+		"Longitude" : "-111.728572",
+		"Zipcode" : "86339",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "SEDONA",
+		"State" : "AZ",
+		"Latitude" : "+34.907188"
+	},
+	{
+		"Longitude" : "-112.397730",
+		"Zipcode" : "86340",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "SEDONA",
+		"State" : "AZ",
+		"Latitude" : "+34.706724"
+	},
+	{
+		"Longitude" : "-111.767880",
+		"Zipcode" : "86341",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "SEDONA",
+		"State" : "AZ",
+		"Latitude" : "+34.776648"
+	},
+	{
+		"Longitude" : "-111.787154",
+		"Zipcode" : "86342",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "LAKE MONTEZUMA",
+		"State" : "AZ",
+		"Latitude" : "+34.641736"
+	},
+	{
+		"Longitude" : "-112.397730",
+		"Zipcode" : "86343",
+		"ZipClass" : "STANDARD",
+		"County" : "YAVAPAI",
+		"City" : "CROWN KING",
+		"State" : "AZ",
+		"Latitude" : "+34.706724"
+	},
+	{
+		"Longitude" : "-111.684752",
+		"Zipcode" : "86351",
+		"ZipClass" : "STANDARD",
+		"County" : "COCONINO",
+		"City" : "SEDONA",
+		"State" : "AZ",
+		"Latitude" : "+35.032371"
+	},
+	{
+		"Longitude" : "-114.017106",
+		"Zipcode" : "86401",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "KINGMAN",
+		"State" : "AZ",
+		"Latitude" : "+35.341456"
+	},
+	{
+		"Longitude" : "-114.063651",
+		"Zipcode" : "86402",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "KINGMAN",
+		"State" : "AZ",
+		"Latitude" : "+35.263249"
+	},
+	{
+		"Longitude" : "-114.310294",
+		"Zipcode" : "86403",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "LAKE HAVASU CITY",
+		"State" : "AZ",
+		"Latitude" : "+34.500556"
+	},
+	{
+		"Longitude" : "-114.330704",
+		"Zipcode" : "86404",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "LAKE HAVASU CITY",
+		"State" : "AZ",
+		"Latitude" : "+34.557533"
+	},
+	{
+		"Longitude" : "-113.642712",
+		"Zipcode" : "86405",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "LAKE HAVASU CITY",
+		"State" : "AZ",
+		"Latitude" : "+35.605301"
+	},
+	{
+		"Longitude" : "-114.118970",
+		"Zipcode" : "86406",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "LAKE HAVASU CITY",
+		"State" : "AZ",
+		"Latitude" : "+34.756714"
+	},
+	{
+		"Longitude" : "-113.642712",
+		"Zipcode" : "86411",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "HACKBERRY",
+		"State" : "AZ",
+		"Latitude" : "+35.605301"
+	},
+	{
+		"Longitude" : "-113.843241",
+		"Zipcode" : "86412",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "HUALAPAI",
+		"State" : "AZ",
+		"Latitude" : "+35.397172"
+	},
+	{
+		"Longitude" : "-114.221531",
+		"Zipcode" : "86413",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "GOLDEN VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+35.300240"
+	},
+	{
+		"Longitude" : "-114.567333",
+		"Zipcode" : "86426",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "FORT MOHAVE",
+		"State" : "AZ",
+		"Latitude" : "+35.066454"
+	},
+	{
+		"Longitude" : "-114.581228",
+		"Zipcode" : "86427",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "FORT MOHAVE",
+		"State" : "AZ",
+		"Latitude" : "+35.004290"
+	},
+	{
+		"Longitude" : "-114.538599",
+		"Zipcode" : "86429",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "BULLHEAD CITY",
+		"State" : "AZ",
+		"Latitude" : "+35.171497"
+	},
+	{
+		"Longitude" : "-114.543299",
+		"Zipcode" : "86430",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "BULLHEAD CITY",
+		"State" : "AZ",
+		"Latitude" : "+35.147264"
+	},
+	{
+		"Longitude" : "-114.222136",
+		"Zipcode" : "86431",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOHAVE",
+		"City" : "CHLORIDE",
+		"State" : "AZ",
+		"Latitude" : "+35.389575"
+	},
+	{
+		"Longitude" : "-114.543288",
+		"Zipcode" : "86432",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOHAVE",
+		"City" : "LITTLEFIELD",
+		"State" : "AZ",
+		"Latitude" : "+34.901161"
+	},
+	{
+		"Longitude" : "-114.383666",
+		"Zipcode" : "86433",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOHAVE",
+		"City" : "OATMAN",
+		"State" : "AZ",
+		"Latitude" : "+35.028492"
+	},
+	{
+		"Longitude" : "-113.415346",
+		"Zipcode" : "86434",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "PEACH SPRINGS",
+		"State" : "AZ",
+		"Latitude" : "+35.540361"
+	},
+	{
+		"Longitude" : "-112.052427",
+		"Zipcode" : "86435",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COCONINO",
+		"City" : "SUPAI",
+		"State" : "AZ",
+		"Latitude" : "+35.630842"
+	},
+	{
+		"Longitude" : "-114.482571",
+		"Zipcode" : "86436",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "TOPOCK",
+		"State" : "AZ",
+		"Latitude" : "+34.779071"
+	},
+	{
+		"Longitude" : "-113.642712",
+		"Zipcode" : "86437",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "VALENTINE",
+		"State" : "AZ",
+		"Latitude" : "+35.605301"
+	},
+	{
+		"Longitude" : "-113.642712",
+		"Zipcode" : "86438",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOHAVE",
+		"City" : "YUCCA",
+		"State" : "AZ",
+		"Latitude" : "+35.605301"
+	},
+	{
+		"Longitude" : "-114.619445",
+		"Zipcode" : "86439",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "BULLHEAD CITY",
+		"State" : "AZ",
+		"Latitude" : "+35.095848"
+	},
+	{
+		"Longitude" : "-114.245399",
+		"Zipcode" : "86440",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "MOHAVE VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+35.052400"
+	},
+	{
+		"Longitude" : "-114.243188",
+		"Zipcode" : "86441",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "DOLAN SPRINGS",
+		"State" : "AZ",
+		"Latitude" : "+35.269759"
+	},
+	{
+		"Longitude" : "-114.323801",
+		"Zipcode" : "86442",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "BULLHEAD CITY",
+		"State" : "AZ",
+		"Latitude" : "+35.005498"
+	},
+	{
+		"Longitude" : "-114.179228",
+		"Zipcode" : "86443",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "TEMPLE BAR MARINA",
+		"State" : "AZ",
+		"Latitude" : "+35.210634"
+	},
+	{
+		"Longitude" : "-114.077519",
+		"Zipcode" : "86444",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "MEADVIEW",
+		"State" : "AZ",
+		"Latitude" : "+35.982167"
+	},
+	{
+		"Longitude" : "-113.642712",
+		"Zipcode" : "86445",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "WILLOW BEACH",
+		"State" : "AZ",
+		"Latitude" : "+35.605301"
+	},
+	{
+		"Longitude" : "-114.591728",
+		"Zipcode" : "86446",
+		"ZipClass" : "STANDARD",
+		"County" : "MOHAVE",
+		"City" : "MOHAVE VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+34.849946"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86502",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "CHAMBERS",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.691925",
+		"Zipcode" : "86503",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "CHINLE",
+		"State" : "AZ",
+		"Latitude" : "+36.527297"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86504",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "FORT DEFIANCE",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86505",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "GANADO",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.247759",
+		"Zipcode" : "86506",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "HOUCK",
+		"State" : "AZ",
+		"Latitude" : "+35.337124"
+	},
+	{
+		"Longitude" : "-109.259299",
+		"Zipcode" : "86507",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "LUKACHUKAI",
+		"State" : "AZ",
+		"Latitude" : "+36.398903"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86508",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "LUPTON",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-110.308125",
+		"Zipcode" : "86510",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "PINON",
+		"State" : "AZ",
+		"Latitude" : "+35.962139"
+	},
+	{
+		"Longitude" : "-109.308746",
+		"Zipcode" : "86511",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "SAINT MICHAELS",
+		"State" : "AZ",
+		"Latitude" : "+35.903962"
+	},
+	{
+		"Longitude" : "-109.285537",
+		"Zipcode" : "86512",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "SANDERS",
+		"State" : "AZ",
+		"Latitude" : "+35.406729"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86514",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "TEEC NOS POS",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.078440",
+		"Zipcode" : "86515",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "WINDOW ROCK",
+		"State" : "AZ",
+		"Latitude" : "+35.667596"
+	},
+	{
+		"Longitude" : "-110.288704",
+		"Zipcode" : "86520",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NAVAJO",
+		"City" : "BLUE GAP",
+		"State" : "AZ",
+		"Latitude" : "+35.285746"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86535",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "DENNEHOTSO",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86538",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "MANY FARMS",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86540",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "NAZLINI",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86544",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "RED VALLEY",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86545",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "ROCK POINT",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86547",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "ROUND ROCK",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86549",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "APACHE",
+		"City" : "SAWMILL",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	},
+	{
+		"Longitude" : "-109.522950",
+		"Zipcode" : "86556",
+		"ZipClass" : "STANDARD",
+		"County" : "APACHE",
+		"City" : "TSAILE",
+		"State" : "AZ",
+		"Latitude" : "+35.237487"
+	}
+]}

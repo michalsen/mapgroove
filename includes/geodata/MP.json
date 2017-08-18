@@ -1,0 +1,30 @@
+{
+	"result":[
+	{
+		"Longitude" : "+145.740804",
+		"Zipcode" : "96950",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NORTHERN MARIANA ISLANDS",
+		"City" : "SAIPAN",
+		"State" : "MP",
+		"Latitude" : "+15.190135"
+	},
+	{
+		"Longitude" : "+145.740804",
+		"Zipcode" : "96951",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NORTHERN MARIANA ISLANDS",
+		"City" : "ROTA",
+		"State" : "MP",
+		"Latitude" : "+15.190135"
+	},
+	{
+		"Longitude" : "+145.740804",
+		"Zipcode" : "96952",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NORTHERN MARIANA ISLANDS",
+		"City" : "TINIAN",
+		"State" : "MP",
+		"Latitude" : "+15.190135"
+	}
+]}

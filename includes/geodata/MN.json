@@ -1,0 +1,9327 @@
+{
+	"result":[
+	{
+		"Longitude" : "-092.816193",
+		"Zipcode" : "55001",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "AFTON",
+		"State" : "MN",
+		"Latitude" : "+44.907170"
+	},
+	{
+		"Longitude" : "-092.894239",
+		"Zipcode" : "55002",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "ALMELUND",
+		"State" : "MN",
+		"Latitude" : "+45.513447"
+	},
+	{
+		"Longitude" : "-092.781055",
+		"Zipcode" : "55003",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BAYPORT",
+		"State" : "MN",
+		"Latitude" : "+45.013918"
+	},
+	{
+		"Longitude" : "-093.231538",
+		"Zipcode" : "55005",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "BETHEL",
+		"State" : "MN",
+		"Latitude" : "+45.388716"
+	},
+	{
+		"Longitude" : "-093.278348",
+		"Zipcode" : "55006",
+		"ZipClass" : "STANDARD",
+		"County" : "ISANTI",
+		"City" : "BRAHAM",
+		"State" : "MN",
+		"Latitude" : "+45.691460"
+	},
+	{
+		"Longitude" : "-093.073628",
+		"Zipcode" : "55007",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "BROOK PARK",
+		"State" : "MN",
+		"Latitude" : "+45.947444"
+	},
+	{
+		"Longitude" : "-093.263457",
+		"Zipcode" : "55008",
+		"ZipClass" : "STANDARD",
+		"County" : "ISANTI",
+		"City" : "CAMBRIDGE",
+		"State" : "MN",
+		"Latitude" : "+45.602457"
+	},
+	{
+		"Longitude" : "-092.885609",
+		"Zipcode" : "55009",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "CANNON FALLS",
+		"State" : "MN",
+		"Latitude" : "+44.483189"
+	},
+	{
+		"Longitude" : "-093.153115",
+		"Zipcode" : "55010",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DAKOTA",
+		"City" : "CASTLE ROCK",
+		"State" : "MN",
+		"Latitude" : "+44.547215"
+	},
+	{
+		"Longitude" : "-093.235026",
+		"Zipcode" : "55011",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "CEDAR",
+		"State" : "MN",
+		"Latitude" : "+45.341448"
+	},
+	{
+		"Longitude" : "-092.789369",
+		"Zipcode" : "55012",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "CENTER CITY",
+		"State" : "MN",
+		"Latitude" : "+45.448211"
+	},
+	{
+		"Longitude" : "-092.902261",
+		"Zipcode" : "55013",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "CHISAGO CITY",
+		"State" : "MN",
+		"Latitude" : "+45.362621"
+	},
+	{
+		"Longitude" : "-093.129272",
+		"Zipcode" : "55014",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "CIRCLE PINES",
+		"State" : "MN",
+		"Latitude" : "+45.185565"
+	},
+	{
+		"Longitude" : "-092.928610",
+		"Zipcode" : "55016",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "COTTAGE GROVE",
+		"State" : "MN",
+		"Latitude" : "+44.818216"
+	},
+	{
+		"Longitude" : "-093.430806",
+		"Zipcode" : "55017",
+		"ZipClass" : "STANDARD",
+		"County" : "ISANTI",
+		"City" : "DALBO",
+		"State" : "MN",
+		"Latitude" : "+45.660954"
+	},
+	{
+		"Longitude" : "-092.955359",
+		"Zipcode" : "55018",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "DENNISON",
+		"State" : "MN",
+		"Latitude" : "+44.426537"
+	},
+	{
+		"Longitude" : "-093.194444",
+		"Zipcode" : "55019",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "DUNDAS",
+		"State" : "MN",
+		"Latitude" : "+44.398613"
+	},
+	{
+		"Longitude" : "-093.369473",
+		"Zipcode" : "55020",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "ELKO",
+		"State" : "MN",
+		"Latitude" : "+44.588963"
+	},
+	{
+		"Longitude" : "-093.267456",
+		"Zipcode" : "55021",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "FARIBAULT",
+		"State" : "MN",
+		"Latitude" : "+44.362870"
+	},
+	{
+		"Longitude" : "-093.141960",
+		"Zipcode" : "55024",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "FARMINGTON",
+		"State" : "MN",
+		"Latitude" : "+44.640515"
+	},
+	{
+		"Longitude" : "-092.949266",
+		"Zipcode" : "55025",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FOREST LAKE",
+		"State" : "MN",
+		"Latitude" : "+45.246466"
+	},
+	{
+		"Longitude" : "-092.358158",
+		"Zipcode" : "55026",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "FRONTENAC",
+		"State" : "MN",
+		"Latitude" : "+44.520038"
+	},
+	{
+		"Longitude" : "-092.620355",
+		"Zipcode" : "55027",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "GOODHUE",
+		"State" : "MN",
+		"Latitude" : "+44.427157"
+	},
+	{
+		"Longitude" : "-093.201107",
+		"Zipcode" : "55029",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ISANTI",
+		"City" : "GRANDY",
+		"State" : "MN",
+		"Latitude" : "+45.642235"
+	},
+	{
+		"Longitude" : "-093.081255",
+		"Zipcode" : "55030",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "GRASSTON",
+		"State" : "MN",
+		"Latitude" : "+45.856598"
+	},
+	{
+		"Longitude" : "-092.955479",
+		"Zipcode" : "55031",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "HAMPTON",
+		"State" : "MN",
+		"Latitude" : "+44.608467"
+	},
+	{
+		"Longitude" : "-092.998865",
+		"Zipcode" : "55032",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "HARRIS",
+		"State" : "MN",
+		"Latitude" : "+45.593629"
+	},
+	{
+		"Longitude" : "-093.032909",
+		"Zipcode" : "55033",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "HASTINGS",
+		"State" : "MN",
+		"Latitude" : "+44.737166"
+	},
+	{
+		"Longitude" : "-093.124235",
+		"Zipcode" : "55036",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "HENRIETTE",
+		"State" : "MN",
+		"Latitude" : "+45.854335"
+	},
+	{
+		"Longitude" : "-092.938103",
+		"Zipcode" : "55037",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "HINCKLEY",
+		"State" : "MN",
+		"Latitude" : "+46.014689"
+	},
+	{
+		"Longitude" : "-092.945218",
+		"Zipcode" : "55038",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HUGO",
+		"State" : "MN",
+		"Latitude" : "+45.182366"
+	},
+	{
+		"Longitude" : "-093.287101",
+		"Zipcode" : "55040",
+		"ZipClass" : "STANDARD",
+		"County" : "ISANTI",
+		"City" : "ISANTI",
+		"State" : "MN",
+		"Latitude" : "+45.565289"
+	},
+	{
+		"Longitude" : "-092.232221",
+		"Zipcode" : "55041",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "LAKE CITY",
+		"State" : "MN",
+		"Latitude" : "+44.421753"
+	},
+	{
+		"Longitude" : "-092.898177",
+		"Zipcode" : "55042",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LAKE ELMO",
+		"State" : "MN",
+		"Latitude" : "+44.992866"
+	},
+	{
+		"Longitude" : "-092.789447",
+		"Zipcode" : "55043",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LAKELAND",
+		"State" : "MN",
+		"Latitude" : "+44.940859"
+	},
+	{
+		"Longitude" : "-093.258120",
+		"Zipcode" : "55044",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "LAKEVILLE",
+		"State" : "MN",
+		"Latitude" : "+44.633421"
+	},
+	{
+		"Longitude" : "-092.823088",
+		"Zipcode" : "55045",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "LINDSTROM",
+		"State" : "MN",
+		"Latitude" : "+45.404477"
+	},
+	{
+		"Longitude" : "-093.425156",
+		"Zipcode" : "55046",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "LONSDALE",
+		"State" : "MN",
+		"Latitude" : "+44.447704"
+	},
+	{
+		"Longitude" : "-092.825767",
+		"Zipcode" : "55047",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MARINE ON SAINT CROIX",
+		"State" : "MN",
+		"Latitude" : "+45.198774"
+	},
+	{
+		"Longitude" : "-093.246471",
+		"Zipcode" : "55049",
+		"ZipClass" : "STANDARD",
+		"County" : "STEELE",
+		"City" : "MEDFORD",
+		"State" : "MN",
+		"Latitude" : "+44.160283"
+	},
+	{
+		"Longitude" : "-093.297792",
+		"Zipcode" : "55051",
+		"ZipClass" : "STANDARD",
+		"County" : "KANABEC",
+		"City" : "MORA",
+		"State" : "MN",
+		"Latitude" : "+45.918782"
+	},
+	{
+		"Longitude" : "-093.342652",
+		"Zipcode" : "55052",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "MORRISTOWN",
+		"State" : "MN",
+		"Latitude" : "+44.328365"
+	},
+	{
+		"Longitude" : "-093.242155",
+		"Zipcode" : "55053",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "NERSTRAND",
+		"State" : "MN",
+		"Latitude" : "+44.327380"
+	},
+	{
+		"Longitude" : "-093.354267",
+		"Zipcode" : "55054",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCOTT",
+		"City" : "NEW MARKET",
+		"State" : "MN",
+		"Latitude" : "+44.571056"
+	},
+	{
+		"Longitude" : "-092.993263",
+		"Zipcode" : "55055",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "NEWPORT",
+		"State" : "MN",
+		"Latitude" : "+44.872395"
+	},
+	{
+		"Longitude" : "-092.885433",
+		"Zipcode" : "55056",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "NORTH BRANCH",
+		"State" : "MN",
+		"Latitude" : "+45.556522"
+	},
+	{
+		"Longitude" : "-093.241838",
+		"Zipcode" : "55057",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "NORTHFIELD",
+		"State" : "MN",
+		"Latitude" : "+44.376816"
+	},
+	{
+		"Longitude" : "-093.223724",
+		"Zipcode" : "55060",
+		"ZipClass" : "STANDARD",
+		"County" : "STEELE",
+		"City" : "OWATONNA",
+		"State" : "MN",
+		"Latitude" : "+44.047613"
+	},
+	{
+		"Longitude" : "-092.892997",
+		"Zipcode" : "55063",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "PINE CITY",
+		"State" : "MN",
+		"Latitude" : "+45.949599"
+	},
+	{
+		"Longitude" : "-093.024960",
+		"Zipcode" : "55065",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "RANDOLPH",
+		"State" : "MN",
+		"Latitude" : "+44.545066"
+	},
+	{
+		"Longitude" : "-092.537774",
+		"Zipcode" : "55066",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "RED WING",
+		"State" : "MN",
+		"Latitude" : "+44.521909"
+	},
+	{
+		"Longitude" : "-092.718004",
+		"Zipcode" : "55067",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "ROCK CREEK",
+		"State" : "MN",
+		"Latitude" : "+46.074687"
+	},
+	{
+		"Longitude" : "-093.076163",
+		"Zipcode" : "55068",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "ROSEMOUNT",
+		"State" : "MN",
+		"Latitude" : "+44.661216"
+	},
+	{
+		"Longitude" : "-092.978158",
+		"Zipcode" : "55069",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "RUSH CITY",
+		"State" : "MN",
+		"Latitude" : "+45.679870"
+	},
+	{
+		"Longitude" : "-093.357614",
+		"Zipcode" : "55070",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "SAINT FRANCIS",
+		"State" : "MN",
+		"Latitude" : "+45.393554"
+	},
+	{
+		"Longitude" : "-092.989204",
+		"Zipcode" : "55071",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT PAUL PARK",
+		"State" : "MN",
+		"Latitude" : "+44.822826"
+	},
+	{
+		"Longitude" : "-092.588959",
+		"Zipcode" : "55072",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "SANDSTONE",
+		"State" : "MN",
+		"Latitude" : "+46.132453"
+	},
+	{
+		"Longitude" : "-092.837344",
+		"Zipcode" : "55073",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SCANDIA",
+		"State" : "MN",
+		"Latitude" : "+45.253166"
+	},
+	{
+		"Longitude" : "-092.726135",
+		"Zipcode" : "55074",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "SHAFER",
+		"State" : "MN",
+		"Latitude" : "+45.382835"
+	},
+	{
+		"Longitude" : "-093.049879",
+		"Zipcode" : "55075",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "SOUTH SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.890315"
+	},
+	{
+		"Longitude" : "-093.039064",
+		"Zipcode" : "55076",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "INVER GROVE HEIGHTS",
+		"State" : "MN",
+		"Latitude" : "+44.828816"
+	},
+	{
+		"Longitude" : "-093.093969",
+		"Zipcode" : "55077",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "INVER GROVE HEIGHTS",
+		"State" : "MN",
+		"Latitude" : "+44.828265"
+	},
+	{
+		"Longitude" : "-092.894239",
+		"Zipcode" : "55078",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "STACY",
+		"State" : "MN",
+		"Latitude" : "+45.513447"
+	},
+	{
+		"Longitude" : "-092.969118",
+		"Zipcode" : "55079",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "STACY",
+		"State" : "MN",
+		"Latitude" : "+45.405278"
+	},
+	{
+		"Longitude" : "-093.275622",
+		"Zipcode" : "55080",
+		"ZipClass" : "STANDARD",
+		"County" : "ISANTI",
+		"City" : "STANCHFIELD",
+		"State" : "MN",
+		"Latitude" : "+45.651313"
+	},
+	{
+		"Longitude" : "-092.847360",
+		"Zipcode" : "55082",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "STILLWATER",
+		"State" : "MN",
+		"Latitude" : "+45.061416"
+	},
+	{
+		"Longitude" : "-092.983726",
+		"Zipcode" : "55083",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "STILLWATER",
+		"State" : "MN",
+		"Latitude" : "+45.021016"
+	},
+	{
+		"Longitude" : "-092.733042",
+		"Zipcode" : "55084",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "TAYLORS FALLS",
+		"State" : "MN",
+		"Latitude" : "+45.457557"
+	},
+	{
+		"Longitude" : "-092.968309",
+		"Zipcode" : "55085",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DAKOTA",
+		"City" : "VERMILLION",
+		"State" : "MN",
+		"Latitude" : "+44.674799"
+	},
+	{
+		"Longitude" : "-093.397354",
+		"Zipcode" : "55087",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "WARSAW",
+		"State" : "MN",
+		"Latitude" : "+44.239946"
+	},
+	{
+		"Longitude" : "-093.382574",
+		"Zipcode" : "55088",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "WEBSTER",
+		"State" : "MN",
+		"Latitude" : "+44.500341"
+	},
+	{
+		"Longitude" : "-092.704731",
+		"Zipcode" : "55089",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "WELCH",
+		"State" : "MN",
+		"Latitude" : "+44.575372"
+	},
+	{
+		"Longitude" : "-092.957034",
+		"Zipcode" : "55090",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "WILLERNIE",
+		"State" : "MN",
+		"Latitude" : "+45.053466"
+	},
+	{
+		"Longitude" : "-092.967517",
+		"Zipcode" : "55092",
+		"ZipClass" : "STANDARD",
+		"County" : "CHISAGO",
+		"City" : "WYOMING",
+		"State" : "MN",
+		"Latitude" : "+45.336417"
+	},
+	{
+		"Longitude" : "-093.092168",
+		"Zipcode" : "55101",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.967965"
+	},
+	{
+		"Longitude" : "-093.118968",
+		"Zipcode" : "55102",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.932929"
+	},
+	{
+		"Longitude" : "-093.125319",
+		"Zipcode" : "55103",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.967215"
+	},
+	{
+		"Longitude" : "-093.167020",
+		"Zipcode" : "55104",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.955615"
+	},
+	{
+		"Longitude" : "-093.160970",
+		"Zipcode" : "55105",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.934515"
+	},
+	{
+		"Longitude" : "-093.041616",
+		"Zipcode" : "55106",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.957065"
+	},
+	{
+		"Longitude" : "-093.087967",
+		"Zipcode" : "55107",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.932465"
+	},
+	{
+		"Longitude" : "-093.177122",
+		"Zipcode" : "55108",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.980614"
+	},
+	{
+		"Longitude" : "-093.029667",
+		"Zipcode" : "55109",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.013234"
+	},
+	{
+		"Longitude" : "-093.022317",
+		"Zipcode" : "55110",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.079965"
+	},
+	{
+		"Longitude" : "-093.200671",
+		"Zipcode" : "55111",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.882838"
+	},
+	{
+		"Longitude" : "-093.187223",
+		"Zipcode" : "55112",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.078815"
+	},
+	{
+		"Longitude" : "-093.157071",
+		"Zipcode" : "55113",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.013895"
+	},
+	{
+		"Longitude" : "-093.194872",
+		"Zipcode" : "55114",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.964115"
+	},
+	{
+		"Longitude" : "-092.939113",
+		"Zipcode" : "55115",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.070951"
+	},
+	{
+		"Longitude" : "-093.165356",
+		"Zipcode" : "55116",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.911215"
+	},
+	{
+		"Longitude" : "-093.106269",
+		"Zipcode" : "55117",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.002115"
+	},
+	{
+		"Longitude" : "-093.113028",
+		"Zipcode" : "55118",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.856615"
+	},
+	{
+		"Longitude" : "-093.010714",
+		"Zipcode" : "55119",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.941415"
+	},
+	{
+		"Longitude" : "-093.143369",
+		"Zipcode" : "55120",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.870365"
+	},
+	{
+		"Longitude" : "-093.159080",
+		"Zipcode" : "55121",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.822093"
+	},
+	{
+		"Longitude" : "-093.220205",
+		"Zipcode" : "55122",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.786018"
+	},
+	{
+		"Longitude" : "-093.140878",
+		"Zipcode" : "55123",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.805989"
+	},
+	{
+		"Longitude" : "-093.202881",
+		"Zipcode" : "55124",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.749701"
+	},
+	{
+		"Longitude" : "-092.943876",
+		"Zipcode" : "55125",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.919716"
+	},
+	{
+		"Longitude" : "-093.138022",
+		"Zipcode" : "55126",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.073561"
+	},
+	{
+		"Longitude" : "-093.087520",
+		"Zipcode" : "55127",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.080265"
+	},
+	{
+		"Longitude" : "-092.948738",
+		"Zipcode" : "55128",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.991316"
+	},
+	{
+		"Longitude" : "-092.923010",
+		"Zipcode" : "55129",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.898516"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55133",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55144",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55145",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.082793",
+		"Zipcode" : "55146",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.942656"
+	},
+	{
+		"Longitude" : "-093.161258",
+		"Zipcode" : "55150",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "MENDOTA",
+		"State" : "MN",
+		"Latitude" : "+44.886554"
+	},
+	{
+		"Longitude" : "-093.095518",
+		"Zipcode" : "55155",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.952165"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55161",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.106593",
+		"Zipcode" : "55164",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+44.990915"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55165",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55166",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55168",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55169",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55170",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55171",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55172",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55175",
+		"ZipClass" : "STANDARD",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55177",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55182",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55187",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55188",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55190",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.105869",
+		"Zipcode" : "55191",
+		"ZipClass" : "UNIQUE",
+		"County" : "RAMSEY",
+		"City" : "SAINT PAUL",
+		"State" : "MN",
+		"Latitude" : "+45.005902"
+	},
+	{
+		"Longitude" : "-093.664342",
+		"Zipcode" : "55301",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "ALBERTVILLE",
+		"State" : "MN",
+		"Latitude" : "+45.258673"
+	},
+	{
+		"Longitude" : "-094.105948",
+		"Zipcode" : "55302",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "ANNANDALE",
+		"State" : "MN",
+		"Latitude" : "+45.218652"
+	},
+	{
+		"Longitude" : "-093.418574",
+		"Zipcode" : "55303",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "ANOKA",
+		"State" : "MN",
+		"Latitude" : "+45.282482"
+	},
+	{
+		"Longitude" : "-093.272428",
+		"Zipcode" : "55304",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "ANDOVER",
+		"State" : "MN",
+		"Latitude" : "+45.237661"
+	},
+	{
+		"Longitude" : "-093.437230",
+		"Zipcode" : "55305",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "HOPKINS",
+		"State" : "MN",
+		"Latitude" : "+44.952763"
+	},
+	{
+		"Longitude" : "-093.221535",
+		"Zipcode" : "55306",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "BURNSVILLE",
+		"State" : "MN",
+		"Latitude" : "+44.762208"
+	},
+	{
+		"Longitude" : "-094.105481",
+		"Zipcode" : "55307",
+		"ZipClass" : "STANDARD",
+		"County" : "SIBLEY",
+		"City" : "ARLINGTON",
+		"State" : "MN",
+		"Latitude" : "+44.597449"
+	},
+	{
+		"Longitude" : "-093.842187",
+		"Zipcode" : "55308",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERBURNE",
+		"City" : "BECKER",
+		"State" : "MN",
+		"Latitude" : "+45.451864"
+	},
+	{
+		"Longitude" : "-093.686916",
+		"Zipcode" : "55309",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERBURNE",
+		"City" : "BIG LAKE",
+		"State" : "MN",
+		"Latitude" : "+45.367294"
+	},
+	{
+		"Longitude" : "-094.848215",
+		"Zipcode" : "55310",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "BIRD ISLAND",
+		"State" : "MN",
+		"Latitude" : "+44.753182"
+	},
+	{
+		"Longitude" : "-093.499583",
+		"Zipcode" : "55311",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "OSSEO",
+		"State" : "MN",
+		"Latitude" : "+45.124263"
+	},
+	{
+		"Longitude" : "-094.251718",
+		"Zipcode" : "55312",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEOD",
+		"City" : "BROWNTON",
+		"State" : "MN",
+		"Latitude" : "+44.758102"
+	},
+	{
+		"Longitude" : "-093.927556",
+		"Zipcode" : "55313",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "BUFFALO",
+		"State" : "MN",
+		"Latitude" : "+45.180732"
+	},
+	{
+		"Longitude" : "-094.752767",
+		"Zipcode" : "55314",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "BUFFALO LAKE",
+		"State" : "MN",
+		"Latitude" : "+44.710310"
+	},
+	{
+		"Longitude" : "-093.701637",
+		"Zipcode" : "55315",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "CARVER",
+		"State" : "MN",
+		"Latitude" : "+44.723162"
+	},
+	{
+		"Longitude" : "-093.397481",
+		"Zipcode" : "55316",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "CHAMPLIN",
+		"State" : "MN",
+		"Latitude" : "+45.176914"
+	},
+	{
+		"Longitude" : "-093.572584",
+		"Zipcode" : "55317",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "CHANHASSEN",
+		"State" : "MN",
+		"Latitude" : "+44.853364"
+	},
+	{
+		"Longitude" : "-093.653336",
+		"Zipcode" : "55318",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "CHASKA",
+		"State" : "MN",
+		"Latitude" : "+44.810062"
+	},
+	{
+		"Longitude" : "-093.952504",
+		"Zipcode" : "55319",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERBURNE",
+		"City" : "CLEAR LAKE",
+		"State" : "MN",
+		"Latitude" : "+45.466197"
+	},
+	{
+		"Longitude" : "-093.924410",
+		"Zipcode" : "55320",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "CLEARWATER",
+		"State" : "MN",
+		"Latitude" : "+45.226627"
+	},
+	{
+		"Longitude" : "-094.185096",
+		"Zipcode" : "55321",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "COKATO",
+		"State" : "MN",
+		"Latitude" : "+45.086044"
+	},
+	{
+		"Longitude" : "-093.787041",
+		"Zipcode" : "55322",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "COLOGNE",
+		"State" : "MN",
+		"Latitude" : "+44.768262"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55323",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENNEPIN",
+		"City" : "CRYSTAL BAY",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-094.420292",
+		"Zipcode" : "55324",
+		"ZipClass" : "STANDARD",
+		"County" : "MEEKER",
+		"City" : "DARWIN",
+		"State" : "MN",
+		"Latitude" : "+45.070558"
+	},
+	{
+		"Longitude" : "-094.368691",
+		"Zipcode" : "55325",
+		"ZipClass" : "STANDARD",
+		"County" : "MEEKER",
+		"City" : "DASSEL",
+		"State" : "MN",
+		"Latitude" : "+45.102011"
+	},
+	{
+		"Longitude" : "-093.482833",
+		"Zipcode" : "55327",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "DAYTON",
+		"State" : "MN",
+		"Latitude" : "+45.201514"
+	},
+	{
+		"Longitude" : "-093.977920",
+		"Zipcode" : "55328",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "DELANO",
+		"State" : "MN",
+		"Latitude" : "+45.041472"
+	},
+	{
+		"Longitude" : "-094.524712",
+		"Zipcode" : "55329",
+		"ZipClass" : "STANDARD",
+		"County" : "MEEKER",
+		"City" : "EDEN VALLEY",
+		"State" : "MN",
+		"Latitude" : "+45.282592"
+	},
+	{
+		"Longitude" : "-093.644522",
+		"Zipcode" : "55330",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERBURNE",
+		"City" : "ELK RIVER",
+		"State" : "MN",
+		"Latitude" : "+45.403289"
+	},
+	{
+		"Longitude" : "-093.623186",
+		"Zipcode" : "55331",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "EXCELSIOR",
+		"State" : "MN",
+		"Latitude" : "+44.912712"
+	},
+	{
+		"Longitude" : "-094.726284",
+		"Zipcode" : "55332",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "FAIRFAX",
+		"State" : "MN",
+		"Latitude" : "+44.595338"
+	},
+	{
+		"Longitude" : "-094.891273",
+		"Zipcode" : "55333",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "FRANKLIN",
+		"State" : "MN",
+		"Latitude" : "+44.564953"
+	},
+	{
+		"Longitude" : "-094.191699",
+		"Zipcode" : "55334",
+		"ZipClass" : "STANDARD",
+		"County" : "SIBLEY",
+		"City" : "GAYLORD",
+		"State" : "MN",
+		"Latitude" : "+44.572583"
+	},
+	{
+		"Longitude" : "-094.543258",
+		"Zipcode" : "55335",
+		"ZipClass" : "STANDARD",
+		"County" : "SIBLEY",
+		"City" : "GIBBON",
+		"State" : "MN",
+		"Latitude" : "+44.550170"
+	},
+	{
+		"Longitude" : "-094.195685",
+		"Zipcode" : "55336",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEOD",
+		"City" : "GLENCOE",
+		"State" : "MN",
+		"Latitude" : "+44.770238"
+	},
+	{
+		"Longitude" : "-093.226258",
+		"Zipcode" : "55337",
+		"ZipClass" : "STANDARD",
+		"County" : "DAKOTA",
+		"City" : "BURNSVILLE",
+		"State" : "MN",
+		"Latitude" : "+44.771547"
+	},
+	{
+		"Longitude" : "-094.057781",
+		"Zipcode" : "55338",
+		"ZipClass" : "STANDARD",
+		"County" : "SIBLEY",
+		"City" : "GREEN ISLE",
+		"State" : "MN",
+		"Latitude" : "+44.635750"
+	},
+	{
+		"Longitude" : "-093.837873",
+		"Zipcode" : "55339",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "HAMBURG",
+		"State" : "MN",
+		"Latitude" : "+44.785812"
+	},
+	{
+		"Longitude" : "-093.568735",
+		"Zipcode" : "55340",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "HAMEL",
+		"State" : "MN",
+		"Latitude" : "+45.073663"
+	},
+	{
+		"Longitude" : "-093.673418",
+		"Zipcode" : "55341",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "HANOVER",
+		"State" : "MN",
+		"Latitude" : "+45.160196"
+	},
+	{
+		"Longitude" : "-094.756704",
+		"Zipcode" : "55342",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "HECTOR",
+		"State" : "MN",
+		"Latitude" : "+44.709760"
+	},
+	{
+		"Longitude" : "-093.448130",
+		"Zipcode" : "55343",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "HOPKINS",
+		"State" : "MN",
+		"Latitude" : "+44.913969"
+	},
+	{
+		"Longitude" : "-093.440429",
+		"Zipcode" : "55344",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "EDEN PRAIRIE",
+		"State" : "MN",
+		"Latitude" : "+44.850563"
+	},
+	{
+		"Longitude" : "-093.481749",
+		"Zipcode" : "55345",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNETONKA",
+		"State" : "MN",
+		"Latitude" : "+44.916963"
+	},
+	{
+		"Longitude" : "-093.478080",
+		"Zipcode" : "55346",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "EDEN PRAIRIE",
+		"State" : "MN",
+		"Latitude" : "+44.875463"
+	},
+	{
+		"Longitude" : "-093.459829",
+		"Zipcode" : "55347",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "EDEN PRAIRIE",
+		"State" : "MN",
+		"Latitude" : "+44.841713"
+	},
+	{
+		"Longitude" : "-093.398727",
+		"Zipcode" : "55348",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+44.848263"
+	},
+	{
+		"Longitude" : "-094.047497",
+		"Zipcode" : "55349",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "HOWARD LAKE",
+		"State" : "MN",
+		"Latitude" : "+45.101679"
+	},
+	{
+		"Longitude" : "-094.266332",
+		"Zipcode" : "55350",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEOD",
+		"City" : "HUTCHINSON",
+		"State" : "MN",
+		"Latitude" : "+44.875565"
+	},
+	{
+		"Longitude" : "-093.601183",
+		"Zipcode" : "55352",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "JORDAN",
+		"State" : "MN",
+		"Latitude" : "+44.658362"
+	},
+	{
+		"Longitude" : "-094.309928",
+		"Zipcode" : "55353",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "KIMBALL",
+		"State" : "MN",
+		"Latitude" : "+45.362610"
+	},
+	{
+		"Longitude" : "-094.100616",
+		"Zipcode" : "55354",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEOD",
+		"City" : "LESTER PRAIRIE",
+		"State" : "MN",
+		"Latitude" : "+44.880454"
+	},
+	{
+		"Longitude" : "-094.529861",
+		"Zipcode" : "55355",
+		"ZipClass" : "STANDARD",
+		"County" : "MEEKER",
+		"City" : "LITCHFIELD",
+		"State" : "MN",
+		"Latitude" : "+45.122737"
+	},
+	{
+		"Longitude" : "-093.593836",
+		"Zipcode" : "55356",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "LONG LAKE",
+		"State" : "MN",
+		"Latitude" : "+44.995129"
+	},
+	{
+		"Longitude" : "-093.657256",
+		"Zipcode" : "55357",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "LORETTO",
+		"State" : "MN",
+		"Latitude" : "+45.100098"
+	},
+	{
+		"Longitude" : "-094.060149",
+		"Zipcode" : "55358",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MAPLE LAKE",
+		"State" : "MN",
+		"Latitude" : "+45.214072"
+	},
+	{
+		"Longitude" : "-093.689162",
+		"Zipcode" : "55359",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+44.983312"
+	},
+	{
+		"Longitude" : "-093.913561",
+		"Zipcode" : "55360",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "MAYER",
+		"State" : "MN",
+		"Latitude" : "+44.905962"
+	},
+	{
+		"Longitude" : "-093.592735",
+		"Zipcode" : "55361",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNETONKA BEACH",
+		"State" : "MN",
+		"Latitude" : "+44.940212"
+	},
+	{
+		"Longitude" : "-093.851533",
+		"Zipcode" : "55362",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.249636"
+	},
+	{
+		"Longitude" : "-094.056543",
+		"Zipcode" : "55363",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTROSE",
+		"State" : "MN",
+		"Latitude" : "+45.048202"
+	},
+	{
+		"Longitude" : "-093.662938",
+		"Zipcode" : "55364",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MOUND",
+		"State" : "MN",
+		"Latitude" : "+44.935062"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55365",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-094.229311",
+		"Zipcode" : "55366",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SIBLEY",
+		"City" : "NEW AUBURN",
+		"State" : "MN",
+		"Latitude" : "+44.673454"
+	},
+	{
+		"Longitude" : "-093.970832",
+		"Zipcode" : "55367",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "NEW GERMANY",
+		"State" : "MN",
+		"Latitude" : "+44.899612"
+	},
+	{
+		"Longitude" : "-093.899950",
+		"Zipcode" : "55368",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "NORWOOD",
+		"State" : "MN",
+		"Latitude" : "+44.738862"
+	},
+	{
+		"Longitude" : "-093.458932",
+		"Zipcode" : "55369",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "OSSEO",
+		"State" : "MN",
+		"Latitude" : "+45.128414"
+	},
+	{
+		"Longitude" : "-094.050518",
+		"Zipcode" : "55370",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEOD",
+		"City" : "PLATO",
+		"State" : "MN",
+		"Latitude" : "+44.839939"
+	},
+	{
+		"Longitude" : "-093.636630",
+		"Zipcode" : "55371",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLE LACS",
+		"City" : "PRINCETON",
+		"State" : "MN",
+		"Latitude" : "+45.740703"
+	},
+	{
+		"Longitude" : "-093.464428",
+		"Zipcode" : "55372",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "PRIOR LAKE",
+		"State" : "MN",
+		"Latitude" : "+44.682763"
+	},
+	{
+		"Longitude" : "-093.865168",
+		"Zipcode" : "55373",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "ROCKFORD",
+		"State" : "MN",
+		"Latitude" : "+45.155019"
+	},
+	{
+		"Longitude" : "-093.574586",
+		"Zipcode" : "55374",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "ROGERS",
+		"State" : "MN",
+		"Latitude" : "+45.168896"
+	},
+	{
+		"Longitude" : "-093.749040",
+		"Zipcode" : "55375",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "SAINT BONIFACIUS",
+		"State" : "MN",
+		"Latitude" : "+44.904062"
+	},
+	{
+		"Longitude" : "-093.893628",
+		"Zipcode" : "55376",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "SAINT MICHAEL",
+		"State" : "MN",
+		"Latitude" : "+45.168260"
+	},
+	{
+		"Longitude" : "-093.815434",
+		"Zipcode" : "55377",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERBURNE",
+		"City" : "SANTIAGO",
+		"State" : "MN",
+		"Latitude" : "+45.540181"
+	},
+	{
+		"Longitude" : "-093.367975",
+		"Zipcode" : "55378",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "SAVAGE",
+		"State" : "MN",
+		"Latitude" : "+44.751113"
+	},
+	{
+		"Longitude" : "-093.474144",
+		"Zipcode" : "55379",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "SHAKOPEE",
+		"State" : "MN",
+		"Latitude" : "+44.731113"
+	},
+	{
+		"Longitude" : "-093.979766",
+		"Zipcode" : "55380",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WRIGHT",
+		"City" : "SILVER CREEK",
+		"State" : "MN",
+		"Latitude" : "+45.315823"
+	},
+	{
+		"Longitude" : "-094.195425",
+		"Zipcode" : "55381",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEOD",
+		"City" : "SILVER LAKE",
+		"State" : "MN",
+		"Latitude" : "+44.921134"
+	},
+	{
+		"Longitude" : "-094.165984",
+		"Zipcode" : "55382",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "SOUTH HAVEN",
+		"State" : "MN",
+		"Latitude" : "+45.265248"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55383",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "NORWOOD",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.630286",
+		"Zipcode" : "55384",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "SPRING PARK",
+		"State" : "MN",
+		"Latitude" : "+44.936862"
+	},
+	{
+		"Longitude" : "-094.344376",
+		"Zipcode" : "55385",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEOD",
+		"City" : "STEWART",
+		"State" : "MN",
+		"Latitude" : "+44.766671"
+	},
+	{
+		"Longitude" : "-093.661737",
+		"Zipcode" : "55386",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "VICTORIA",
+		"State" : "MN",
+		"Latitude" : "+44.846645"
+	},
+	{
+		"Longitude" : "-093.746148",
+		"Zipcode" : "55387",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "WACONIA",
+		"State" : "MN",
+		"Latitude" : "+44.844847"
+	},
+	{
+		"Longitude" : "-093.853894",
+		"Zipcode" : "55388",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "WATERTOWN",
+		"State" : "MN",
+		"Latitude" : "+44.924416"
+	},
+	{
+		"Longitude" : "-094.444561",
+		"Zipcode" : "55389",
+		"ZipClass" : "STANDARD",
+		"County" : "MEEKER",
+		"City" : "WATKINS",
+		"State" : "MN",
+		"Latitude" : "+45.268619"
+	},
+	{
+		"Longitude" : "-093.974555",
+		"Zipcode" : "55390",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "WAVERLY",
+		"State" : "MN",
+		"Latitude" : "+45.060676"
+	},
+	{
+		"Longitude" : "-093.542233",
+		"Zipcode" : "55391",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "WAYZATA",
+		"State" : "MN",
+		"Latitude" : "+44.984663"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55392",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "NAVARRE",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55393",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55394",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-094.075720",
+		"Zipcode" : "55395",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEOD",
+		"City" : "WINSTED",
+		"State" : "MN",
+		"Latitude" : "+44.946121"
+	},
+	{
+		"Longitude" : "-094.347525",
+		"Zipcode" : "55396",
+		"ZipClass" : "STANDARD",
+		"County" : "SIBLEY",
+		"City" : "WINTHROP",
+		"State" : "MN",
+		"Latitude" : "+44.550833"
+	},
+	{
+		"Longitude" : "-093.919675",
+		"Zipcode" : "55397",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.800912"
+	},
+	{
+		"Longitude" : "-093.602475",
+		"Zipcode" : "55398",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERBURNE",
+		"City" : "ZIMMERMAN",
+		"State" : "MN",
+		"Latitude" : "+45.467503"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55399",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.273024",
+		"Zipcode" : "55401",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.979265"
+	},
+	{
+		"Longitude" : "-093.271825",
+		"Zipcode" : "55402",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.975915"
+	},
+	{
+		"Longitude" : "-093.287275",
+		"Zipcode" : "55403",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.972615"
+	},
+	{
+		"Longitude" : "-093.329926",
+		"Zipcode" : "55404",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.948614"
+	},
+	{
+		"Longitude" : "-093.300275",
+		"Zipcode" : "55405",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.970114"
+	},
+	{
+		"Longitude" : "-093.278975",
+		"Zipcode" : "55406",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.976015"
+	},
+	{
+		"Longitude" : "-093.254023",
+		"Zipcode" : "55407",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.935465"
+	},
+	{
+		"Longitude" : "-093.288975",
+		"Zipcode" : "55408",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.947515"
+	},
+	{
+		"Longitude" : "-093.289224",
+		"Zipcode" : "55409",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.925014"
+	},
+	{
+		"Longitude" : "-093.318825",
+		"Zipcode" : "55410",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.912364"
+	},
+	{
+		"Longitude" : "-093.297393",
+		"Zipcode" : "55411",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.999514"
+	},
+	{
+		"Longitude" : "-093.298876",
+		"Zipcode" : "55412",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.025115"
+	},
+	{
+		"Longitude" : "-093.240774",
+		"Zipcode" : "55413",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.994365"
+	},
+	{
+		"Longitude" : "-093.234173",
+		"Zipcode" : "55414",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.974515"
+	},
+	{
+		"Longitude" : "-093.258474",
+		"Zipcode" : "55415",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.974215"
+	},
+	{
+		"Longitude" : "-093.337326",
+		"Zipcode" : "55416",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.949714"
+	},
+	{
+		"Longitude" : "-093.253624",
+		"Zipcode" : "55417",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.962965"
+	},
+	{
+		"Longitude" : "-093.244524",
+		"Zipcode" : "55418",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.017765"
+	},
+	{
+		"Longitude" : "-093.282724",
+		"Zipcode" : "55419",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.890914"
+	},
+	{
+		"Longitude" : "-093.255222",
+		"Zipcode" : "55420",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.835164"
+	},
+	{
+		"Longitude" : "-093.254075",
+		"Zipcode" : "55421",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.052315"
+	},
+	{
+		"Longitude" : "-093.342428",
+		"Zipcode" : "55422",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.009601"
+	},
+	{
+		"Longitude" : "-093.255272",
+		"Zipcode" : "55423",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.875614"
+	},
+	{
+		"Longitude" : "-093.340326",
+		"Zipcode" : "55424",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.905164"
+	},
+	{
+		"Longitude" : "-093.236286",
+		"Zipcode" : "55425",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.842664"
+	},
+	{
+		"Longitude" : "-093.382928",
+		"Zipcode" : "55426",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.955014"
+	},
+	{
+		"Longitude" : "-093.390979",
+		"Zipcode" : "55427",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.999964"
+	},
+	{
+		"Longitude" : "-093.372979",
+		"Zipcode" : "55428",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.981413"
+	},
+	{
+		"Longitude" : "-093.336926",
+		"Zipcode" : "55429",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.975664"
+	},
+	{
+		"Longitude" : "-093.302227",
+		"Zipcode" : "55430",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.063923"
+	},
+	{
+		"Longitude" : "-093.311823",
+		"Zipcode" : "55431",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.828764"
+	},
+	{
+		"Longitude" : "-093.239570",
+		"Zipcode" : "55432",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.094965"
+	},
+	{
+		"Longitude" : "-093.319278",
+		"Zipcode" : "55433",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.164263"
+	},
+	{
+		"Longitude" : "-093.226925",
+		"Zipcode" : "55434",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.170399"
+	},
+	{
+		"Longitude" : "-093.367327",
+		"Zipcode" : "55435",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.932864"
+	},
+	{
+		"Longitude" : "-093.422670",
+		"Zipcode" : "55436",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.901163"
+	},
+	{
+		"Longitude" : "-093.353791",
+		"Zipcode" : "55437",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.826064"
+	},
+	{
+		"Longitude" : "-093.375027",
+		"Zipcode" : "55438",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.826613"
+	},
+	{
+		"Longitude" : "-093.375277",
+		"Zipcode" : "55439",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.874414"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55440",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.419323",
+		"Zipcode" : "55441",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.005804"
+	},
+	{
+		"Longitude" : "-093.431047",
+		"Zipcode" : "55442",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.046740"
+	},
+	{
+		"Longitude" : "-093.343120",
+		"Zipcode" : "55443",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.119364"
+	},
+	{
+		"Longitude" : "-093.305378",
+		"Zipcode" : "55444",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.117765"
+	},
+	{
+		"Longitude" : "-093.352439",
+		"Zipcode" : "55445",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.123064"
+	},
+	{
+		"Longitude" : "-093.486482",
+		"Zipcode" : "55446",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.040013"
+	},
+	{
+		"Longitude" : "-093.487482",
+		"Zipcode" : "55447",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.003335"
+	},
+	{
+		"Longitude" : "-093.313274",
+		"Zipcode" : "55448",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.174056"
+	},
+	{
+		"Longitude" : "-093.188924",
+		"Zipcode" : "55449",
+		"ZipClass" : "STANDARD",
+		"County" : "ANOKA",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.169739"
+	},
+	{
+		"Longitude" : "-093.220658",
+		"Zipcode" : "55450",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.881113"
+	},
+	{
+		"Longitude" : "-093.252524",
+		"Zipcode" : "55454",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.980859"
+	},
+	{
+		"Longitude" : "-093.298376",
+		"Zipcode" : "55455",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.038364"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55458",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55459",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55460",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55468",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55470",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55472",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55473",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55474",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55478",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55479",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55480",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55483",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55484",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55485",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55486",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55487",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55488",
+		"ZipClass" : "UNIQUE",
+		"County" : "HENNEPIN",
+		"City" : "MINNEAPOLIS",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55550",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55551",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55552",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55553",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55554",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "NORWOOD",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55555",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55556",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55557",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55558",
+		"ZipClass" : "UNIQUE",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55559",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55560",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55561",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55562",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55563",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55564",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55565",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55566",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55567",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55568",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55569",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "OSSEO",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55570",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55571",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55572",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55573",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55574",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55575",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "HOWARD LAKE",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55576",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55577",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55578",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55579",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55580",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55581",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55582",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55583",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "NORWOOD",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55584",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55585",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55586",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55587",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.880245",
+		"Zipcode" : "55588",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+44.989512"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55589",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55590",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55591",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MONTICELLO",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.888099",
+		"Zipcode" : "55592",
+		"ZipClass" : "STANDARD",
+		"County" : "WRIGHT",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.200875"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55593",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "MAPLE PLAIN",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.766524",
+		"Zipcode" : "55594",
+		"ZipClass" : "STANDARD",
+		"County" : "CARVER",
+		"City" : "YOUNG AMERICA",
+		"State" : "MN",
+		"Latitude" : "+44.805487"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55595",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "LORETTO",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55596",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "LORETTO",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55597",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "LORETTO",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55598",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "LORETTO",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-093.471880",
+		"Zipcode" : "55599",
+		"ZipClass" : "STANDARD",
+		"County" : "HENNEPIN",
+		"City" : "LORETTO",
+		"State" : "MN",
+		"Latitude" : "+45.015914"
+	},
+	{
+		"Longitude" : "-091.356586",
+		"Zipcode" : "55601",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "BEAVER BAY",
+		"State" : "MN",
+		"Latitude" : "+47.256021"
+	},
+	{
+		"Longitude" : "-092.004270",
+		"Zipcode" : "55602",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "BRIMSON",
+		"State" : "MN",
+		"Latitude" : "+47.256933"
+	},
+	{
+		"Longitude" : "-091.320571",
+		"Zipcode" : "55603",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "FINLAND",
+		"State" : "MN",
+		"Latitude" : "+47.497114"
+	},
+	{
+		"Longitude" : "-090.422940",
+		"Zipcode" : "55604",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "GRAND MARAIS",
+		"State" : "MN",
+		"Latitude" : "+47.872285"
+	},
+	{
+		"Longitude" : "-089.851983",
+		"Zipcode" : "55605",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "GRAND PORTAGE",
+		"State" : "MN",
+		"Latitude" : "+47.923022"
+	},
+	{
+		"Longitude" : "-090.001214",
+		"Zipcode" : "55606",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "HOVLAND",
+		"State" : "MN",
+		"Latitude" : "+47.851669"
+	},
+	{
+		"Longitude" : "-091.498861",
+		"Zipcode" : "55607",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "ISABELLA",
+		"State" : "MN",
+		"Latitude" : "+47.660406"
+	},
+	{
+		"Longitude" : "-091.777997",
+		"Zipcode" : "55609",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "KNIFE RIVER",
+		"State" : "MN",
+		"Latitude" : "+46.953880"
+	},
+	{
+		"Longitude" : "-090.682372",
+		"Zipcode" : "55612",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "LUTSEN",
+		"State" : "MN",
+		"Latitude" : "+47.705900"
+	},
+	{
+		"Longitude" : "-090.949997",
+		"Zipcode" : "55613",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "SCHROEDER",
+		"State" : "MN",
+		"Latitude" : "+47.518552"
+	},
+	{
+		"Longitude" : "-091.220483",
+		"Zipcode" : "55614",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "SILVER BAY",
+		"State" : "MN",
+		"Latitude" : "+47.358488"
+	},
+	{
+		"Longitude" : "-090.801861",
+		"Zipcode" : "55615",
+		"ZipClass" : "STANDARD",
+		"County" : "COOK",
+		"City" : "TOFTE",
+		"State" : "MN",
+		"Latitude" : "+47.648636"
+	},
+	{
+		"Longitude" : "-091.545363",
+		"Zipcode" : "55616",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "TWO HARBORS",
+		"State" : "MN",
+		"Latitude" : "+47.134891"
+	},
+	{
+		"Longitude" : "-092.442797",
+		"Zipcode" : "55701",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "ADOLPH",
+		"State" : "MN",
+		"Latitude" : "+47.640367"
+	},
+	{
+		"Longitude" : "-092.612312",
+		"Zipcode" : "55702",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "ALBORN",
+		"State" : "MN",
+		"Latitude" : "+47.014861"
+	},
+	{
+		"Longitude" : "-092.756769",
+		"Zipcode" : "55703",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "ANGORA",
+		"State" : "MN",
+		"Latitude" : "+47.753747"
+	},
+	{
+		"Longitude" : "-092.759076",
+		"Zipcode" : "55704",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "ASKOV",
+		"State" : "MN",
+		"Latitude" : "+46.215511"
+	},
+	{
+		"Longitude" : "-092.071317",
+		"Zipcode" : "55705",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "AURORA",
+		"State" : "MN",
+		"Latitude" : "+47.634557"
+	},
+	{
+		"Longitude" : "-091.953532",
+		"Zipcode" : "55706",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "BABBITT",
+		"State" : "MN",
+		"Latitude" : "+47.742305"
+	},
+	{
+		"Longitude" : "-092.720097",
+		"Zipcode" : "55707",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "BARNUM",
+		"State" : "MN",
+		"Latitude" : "+46.556833"
+	},
+	{
+		"Longitude" : "-092.340774",
+		"Zipcode" : "55708",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LOUIS",
+		"City" : "BIWABIK",
+		"State" : "MN",
+		"Latitude" : "+47.532826"
+	},
+	{
+		"Longitude" : "-093.388826",
+		"Zipcode" : "55709",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "BOVEY",
+		"State" : "MN",
+		"Latitude" : "+47.347269"
+	},
+	{
+		"Longitude" : "-092.651923",
+		"Zipcode" : "55710",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "BRITT",
+		"State" : "MN",
+		"Latitude" : "+47.645047"
+	},
+	{
+		"Longitude" : "-092.680451",
+		"Zipcode" : "55711",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "BROOKSTON",
+		"State" : "MN",
+		"Latitude" : "+46.837747"
+	},
+	{
+		"Longitude" : "-092.705581",
+		"Zipcode" : "55712",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "BRUNO",
+		"State" : "MN",
+		"Latitude" : "+46.226300"
+	},
+	{
+		"Longitude" : "-092.764262",
+		"Zipcode" : "55713",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LOUIS",
+		"City" : "BUHL",
+		"State" : "MN",
+		"Latitude" : "+47.493197"
+	},
+	{
+		"Longitude" : "-093.276267",
+		"Zipcode" : "55716",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ITASCA",
+		"City" : "CALUMET",
+		"State" : "MN",
+		"Latitude" : "+47.322883"
+	},
+	{
+		"Longitude" : "-092.442794",
+		"Zipcode" : "55717",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "CANYON",
+		"State" : "MN",
+		"Latitude" : "+47.068600"
+	},
+	{
+		"Longitude" : "-092.675569",
+		"Zipcode" : "55718",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "CARLTON",
+		"State" : "MN",
+		"Latitude" : "+46.622795"
+	},
+	{
+		"Longitude" : "-092.443251",
+		"Zipcode" : "55719",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "CHISHOLM",
+		"State" : "MN",
+		"Latitude" : "+47.563308"
+	},
+	{
+		"Longitude" : "-092.549564",
+		"Zipcode" : "55720",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "CLOQUET",
+		"State" : "MN",
+		"Latitude" : "+46.592512"
+	},
+	{
+		"Longitude" : "-093.516501",
+		"Zipcode" : "55721",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "COHASSET",
+		"State" : "MN",
+		"Latitude" : "+47.238241"
+	},
+	{
+		"Longitude" : "-093.385597",
+		"Zipcode" : "55722",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ITASCA",
+		"City" : "COLERAINE",
+		"State" : "MN",
+		"Latitude" : "+47.377503"
+	},
+	{
+		"Longitude" : "-092.768568",
+		"Zipcode" : "55723",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "COOK",
+		"State" : "MN",
+		"Latitude" : "+47.877563"
+	},
+	{
+		"Longitude" : "-092.435223",
+		"Zipcode" : "55724",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "COTTON",
+		"State" : "MN",
+		"Latitude" : "+47.152067"
+	},
+	{
+		"Longitude" : "-092.525385",
+		"Zipcode" : "55725",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "CRANE LAKE",
+		"State" : "MN",
+		"Latitude" : "+48.241245"
+	},
+	{
+		"Longitude" : "-092.836499",
+		"Zipcode" : "55726",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "CROMWELL",
+		"State" : "MN",
+		"Latitude" : "+46.654061"
+	},
+	{
+		"Longitude" : "-093.921429",
+		"Zipcode" : "55730",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "GRAND RAPIDS",
+		"State" : "MN",
+		"Latitude" : "+47.087782"
+	},
+	{
+		"Longitude" : "-092.020778",
+		"Zipcode" : "55731",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "ELY",
+		"State" : "MN",
+		"Latitude" : "+47.918943"
+	},
+	{
+		"Longitude" : "-092.228145",
+		"Zipcode" : "55732",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "EMBARRASS",
+		"State" : "MN",
+		"Latitude" : "+47.662641"
+	},
+	{
+		"Longitude" : "-092.364896",
+		"Zipcode" : "55733",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "ESKO",
+		"State" : "MN",
+		"Latitude" : "+46.712582"
+	},
+	{
+		"Longitude" : "-092.452058",
+		"Zipcode" : "55734",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "EVELETH",
+		"State" : "MN",
+		"Latitude" : "+47.386893"
+	},
+	{
+		"Longitude" : "-092.950358",
+		"Zipcode" : "55735",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "FINLAYSON",
+		"State" : "MN",
+		"Latitude" : "+46.237920"
+	},
+	{
+		"Longitude" : "-092.837735",
+		"Zipcode" : "55736",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "FLOODWOOD",
+		"State" : "MN",
+		"Latitude" : "+46.937895"
+	},
+	{
+		"Longitude" : "-092.675563",
+		"Zipcode" : "55738",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "FORBES",
+		"State" : "MN",
+		"Latitude" : "+47.273191"
+	},
+	{
+		"Longitude" : "-092.366335",
+		"Zipcode" : "55741",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "GILBERT",
+		"State" : "MN",
+		"Latitude" : "+47.447686"
+	},
+	{
+		"Longitude" : "-093.132367",
+		"Zipcode" : "55742",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "GOODLAND",
+		"State" : "MN",
+		"Latitude" : "+47.167838"
+	},
+	{
+		"Longitude" : "-093.393555",
+		"Zipcode" : "55744",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "GRAND RAPIDS",
+		"State" : "MN",
+		"Latitude" : "+47.232889"
+	},
+	{
+		"Longitude" : "-093.921429",
+		"Zipcode" : "55745",
+		"ZipClass" : "UNIQUE",
+		"County" : "ITASCA",
+		"City" : "GRAND RAPIDS",
+		"State" : "MN",
+		"Latitude" : "+47.087782"
+	},
+	{
+		"Longitude" : "-092.876210",
+		"Zipcode" : "55746",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "HIBBING",
+		"State" : "MN",
+		"Latitude" : "+47.413263"
+	},
+	{
+		"Longitude" : "-092.442797",
+		"Zipcode" : "55747",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "HIBBING",
+		"State" : "MN",
+		"Latitude" : "+47.640367"
+	},
+	{
+		"Longitude" : "-093.432392",
+		"Zipcode" : "55748",
+		"ZipClass" : "STANDARD",
+		"County" : "AITKIN",
+		"City" : "HILL CITY",
+		"State" : "MN",
+		"Latitude" : "+46.671645"
+	},
+	{
+		"Longitude" : "-092.410931",
+		"Zipcode" : "55749",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "HOLYOKE",
+		"State" : "MN",
+		"Latitude" : "+46.482697"
+	},
+	{
+		"Longitude" : "-092.112844",
+		"Zipcode" : "55750",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "HOYT LAKES",
+		"State" : "MN",
+		"Latitude" : "+47.507262"
+	},
+	{
+		"Longitude" : "-092.681078",
+		"Zipcode" : "55751",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "IRON",
+		"State" : "MN",
+		"Latitude" : "+47.420472"
+	},
+	{
+		"Longitude" : "-093.433078",
+		"Zipcode" : "55752",
+		"ZipClass" : "STANDARD",
+		"County" : "AITKIN",
+		"City" : "JACOBSON",
+		"State" : "MN",
+		"Latitude" : "+46.592204"
+	},
+	{
+		"Longitude" : "-093.078443",
+		"Zipcode" : "55753",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ITASCA",
+		"City" : "KEEWATIN",
+		"State" : "MN",
+		"Latitude" : "+47.398025"
+	},
+	{
+		"Longitude" : "-092.662237",
+		"Zipcode" : "55756",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "KERRICK",
+		"State" : "MN",
+		"Latitude" : "+46.331356"
+	},
+	{
+		"Longitude" : "-092.908622",
+		"Zipcode" : "55757",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "KETTLE RIVER",
+		"State" : "MN",
+		"Latitude" : "+46.520490"
+	},
+	{
+		"Longitude" : "-092.740216",
+		"Zipcode" : "55758",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LOUIS",
+		"City" : "KINNEY",
+		"State" : "MN",
+		"Latitude" : "+47.512132"
+	},
+	{
+		"Longitude" : "-093.307560",
+		"Zipcode" : "55760",
+		"ZipClass" : "STANDARD",
+		"County" : "AITKIN",
+		"City" : "MCGREGOR",
+		"State" : "MN",
+		"Latitude" : "+46.607188"
+	},
+	{
+		"Longitude" : "-092.181209",
+		"Zipcode" : "55763",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "MAKINEN",
+		"State" : "MN",
+		"Latitude" : "+47.264753"
+	},
+	{
+		"Longitude" : "-093.293880",
+		"Zipcode" : "55764",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ITASCA",
+		"City" : "MARBLE",
+		"State" : "MN",
+		"Latitude" : "+47.321916"
+	},
+	{
+		"Longitude" : "-092.803506",
+		"Zipcode" : "55765",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "MEADOWLANDS",
+		"State" : "MN",
+		"Latitude" : "+47.116076"
+	},
+	{
+		"Longitude" : "-092.412343",
+		"Zipcode" : "55766",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "MELRUDE",
+		"State" : "MN",
+		"Latitude" : "+47.249626"
+	},
+	{
+		"Longitude" : "-092.756405",
+		"Zipcode" : "55767",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "MOOSE LAKE",
+		"State" : "MN",
+		"Latitude" : "+46.552827"
+	},
+	{
+		"Longitude" : "-092.686192",
+		"Zipcode" : "55768",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "MOUNTAIN IRON",
+		"State" : "MN",
+		"Latitude" : "+47.454993"
+	},
+	{
+		"Longitude" : "-093.243688",
+		"Zipcode" : "55769",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "NASHWAUK",
+		"State" : "MN",
+		"Latitude" : "+47.441216"
+	},
+	{
+		"Longitude" : "-092.757902",
+		"Zipcode" : "55771",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "ORR",
+		"State" : "MN",
+		"Latitude" : "+47.742195"
+	},
+	{
+		"Longitude" : "-093.083438",
+		"Zipcode" : "55772",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "NETT LAKE",
+		"State" : "MN",
+		"Latitude" : "+48.081686"
+	},
+	{
+		"Longitude" : "-093.212906",
+		"Zipcode" : "55775",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "PENGILLY",
+		"State" : "MN",
+		"Latitude" : "+47.287391"
+	},
+	{
+		"Longitude" : "-092.442797",
+		"Zipcode" : "55777",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "VIRGINIA",
+		"State" : "MN",
+		"Latitude" : "+47.640367"
+	},
+	{
+		"Longitude" : "-092.448123",
+		"Zipcode" : "55779",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "SAGINAW",
+		"State" : "MN",
+		"Latitude" : "+46.910179"
+	},
+	{
+		"Longitude" : "-092.639079",
+		"Zipcode" : "55780",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "SAWYER",
+		"State" : "MN",
+		"Latitude" : "+46.701794"
+	},
+	{
+		"Longitude" : "-092.994885",
+		"Zipcode" : "55781",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "SIDE LAKE",
+		"State" : "MN",
+		"Latitude" : "+47.551459"
+	},
+	{
+		"Longitude" : "-092.246359",
+		"Zipcode" : "55782",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LOUIS",
+		"City" : "SOUDAN",
+		"State" : "MN",
+		"Latitude" : "+47.821007"
+	},
+	{
+		"Longitude" : "-092.824278",
+		"Zipcode" : "55783",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "STURGEON LAKE",
+		"State" : "MN",
+		"Latitude" : "+46.367039"
+	},
+	{
+		"Longitude" : "-093.190708",
+		"Zipcode" : "55784",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "SWAN RIVER",
+		"State" : "MN",
+		"Latitude" : "+47.067170"
+	},
+	{
+		"Longitude" : "-093.645502",
+		"Zipcode" : "55785",
+		"ZipClass" : "STANDARD",
+		"County" : "AITKIN",
+		"City" : "SWATARA",
+		"State" : "MN",
+		"Latitude" : "+46.696774"
+	},
+	{
+		"Longitude" : "-093.342118",
+		"Zipcode" : "55786",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ITASCA",
+		"City" : "TACONITE",
+		"State" : "MN",
+		"Latitude" : "+47.316395"
+	},
+	{
+		"Longitude" : "-093.213416",
+		"Zipcode" : "55787",
+		"ZipClass" : "STANDARD",
+		"County" : "AITKIN",
+		"City" : "TAMARACK",
+		"State" : "MN",
+		"Latitude" : "+46.630318"
+	},
+	{
+		"Longitude" : "-092.338233",
+		"Zipcode" : "55790",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "TOWER",
+		"State" : "MN",
+		"Latitude" : "+47.787247"
+	},
+	{
+		"Longitude" : "-092.442797",
+		"Zipcode" : "55791",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAINT LOUIS",
+		"City" : "TWIG",
+		"State" : "MN",
+		"Latitude" : "+47.640367"
+	},
+	{
+		"Longitude" : "-092.499975",
+		"Zipcode" : "55792",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "VIRGINIA",
+		"State" : "MN",
+		"Latitude" : "+47.646075"
+	},
+	{
+		"Longitude" : "-093.228104",
+		"Zipcode" : "55793",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "WARBA",
+		"State" : "MN",
+		"Latitude" : "+47.241169"
+	},
+	{
+		"Longitude" : "-092.863863",
+		"Zipcode" : "55795",
+		"ZipClass" : "STANDARD",
+		"County" : "PINE",
+		"City" : "WILLOW RIVER",
+		"State" : "MN",
+		"Latitude" : "+46.310484"
+	},
+	{
+		"Longitude" : "-092.266525",
+		"Zipcode" : "55796",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "WINTON",
+		"State" : "MN",
+		"Latitude" : "+47.720643"
+	},
+	{
+		"Longitude" : "-092.657895",
+		"Zipcode" : "55797",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "WRENSHALL",
+		"State" : "MN",
+		"Latitude" : "+46.565172"
+	},
+	{
+		"Longitude" : "-092.735406",
+		"Zipcode" : "55798",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLTON",
+		"City" : "WRIGHT",
+		"State" : "MN",
+		"Latitude" : "+46.614151"
+	},
+	{
+		"Longitude" : "-092.001934",
+		"Zipcode" : "55801",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+47.005566"
+	},
+	{
+		"Longitude" : "-092.039109",
+		"Zipcode" : "55802",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.904912"
+	},
+	{
+		"Longitude" : "-092.118400",
+		"Zipcode" : "55803",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+47.217311"
+	},
+	{
+		"Longitude" : "-092.005488",
+		"Zipcode" : "55804",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.886239"
+	},
+	{
+		"Longitude" : "-092.094589",
+		"Zipcode" : "55805",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.800389"
+	},
+	{
+		"Longitude" : "-092.133189",
+		"Zipcode" : "55806",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.774939"
+	},
+	{
+		"Longitude" : "-092.177640",
+		"Zipcode" : "55807",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.735978"
+	},
+	{
+		"Longitude" : "-092.242241",
+		"Zipcode" : "55808",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.683891"
+	},
+	{
+		"Longitude" : "-092.266038",
+		"Zipcode" : "55810",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.760620"
+	},
+	{
+		"Longitude" : "-092.199825",
+		"Zipcode" : "55811",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.814712"
+	},
+	{
+		"Longitude" : "-092.072288",
+		"Zipcode" : "55812",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+46.810788"
+	},
+	{
+		"Longitude" : "-092.442797",
+		"Zipcode" : "55814",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+47.640367"
+	},
+	{
+		"Longitude" : "-092.442797",
+		"Zipcode" : "55815",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+47.640367"
+	},
+	{
+		"Longitude" : "-092.442797",
+		"Zipcode" : "55816",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT LOUIS",
+		"City" : "DULUTH",
+		"State" : "MN",
+		"Latitude" : "+47.640367"
+	},
+	{
+		"Longitude" : "-092.516916",
+		"Zipcode" : "55901",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "ROCHESTER",
+		"State" : "MN",
+		"Latitude" : "+44.075285"
+	},
+	{
+		"Longitude" : "-092.389901",
+		"Zipcode" : "55902",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "ROCHESTER",
+		"State" : "MN",
+		"Latitude" : "+43.972494"
+	},
+	{
+		"Longitude" : "-092.540929",
+		"Zipcode" : "55903",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "ROCHESTER",
+		"State" : "MN",
+		"Latitude" : "+43.996613"
+	},
+	{
+		"Longitude" : "-092.302649",
+		"Zipcode" : "55904",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "ROCHESTER",
+		"State" : "MN",
+		"Latitude" : "+43.986220"
+	},
+	{
+		"Longitude" : "-092.466826",
+		"Zipcode" : "55905",
+		"ZipClass" : "UNIQUE",
+		"County" : "OLMSTED",
+		"City" : "ROCHESTER",
+		"State" : "MN",
+		"Latitude" : "+44.022513"
+	},
+	{
+		"Longitude" : "-092.405294",
+		"Zipcode" : "55906",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "ROCHESTER",
+		"State" : "MN",
+		"Latitude" : "+44.107815"
+	},
+	{
+		"Longitude" : "-092.743890",
+		"Zipcode" : "55909",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "ADAMS",
+		"State" : "MN",
+		"Latitude" : "+43.565168"
+	},
+	{
+		"Longitude" : "-091.946134",
+		"Zipcode" : "55910",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "ALTURA",
+		"State" : "MN",
+		"Latitude" : "+44.085616"
+	},
+	{
+		"Longitude" : "-092.976818",
+		"Zipcode" : "55912",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "AUSTIN",
+		"State" : "MN",
+		"Latitude" : "+43.699305"
+	},
+	{
+		"Longitude" : "-093.144007",
+		"Zipcode" : "55917",
+		"ZipClass" : "STANDARD",
+		"County" : "STEELE",
+		"City" : "BLOOMING PRAIRIE",
+		"State" : "MN",
+		"Latitude" : "+44.011627"
+	},
+	{
+		"Longitude" : "-092.866996",
+		"Zipcode" : "55918",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "BROWNSDALE",
+		"State" : "MN",
+		"Latitude" : "+43.746834"
+	},
+	{
+		"Longitude" : "-091.410977",
+		"Zipcode" : "55919",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "BROWNSVILLE",
+		"State" : "MN",
+		"Latitude" : "+43.648232"
+	},
+	{
+		"Longitude" : "-092.599372",
+		"Zipcode" : "55920",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "BYRON",
+		"State" : "MN",
+		"Latitude" : "+43.988227"
+	},
+	{
+		"Longitude" : "-091.458938",
+		"Zipcode" : "55921",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "CALEDONIA",
+		"State" : "MN",
+		"Latitude" : "+43.635474"
+	},
+	{
+		"Longitude" : "-091.852970",
+		"Zipcode" : "55922",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "CANTON",
+		"State" : "MN",
+		"Latitude" : "+43.527479"
+	},
+	{
+		"Longitude" : "-092.139962",
+		"Zipcode" : "55923",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "CHATFIELD",
+		"State" : "MN",
+		"Latitude" : "+43.758684"
+	},
+	{
+		"Longitude" : "-092.975313",
+		"Zipcode" : "55924",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "CLAREMONT",
+		"State" : "MN",
+		"Latitude" : "+44.046168"
+	},
+	{
+		"Longitude" : "-091.606021",
+		"Zipcode" : "55925",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "DAKOTA",
+		"State" : "MN",
+		"Latitude" : "+43.935613"
+	},
+	{
+		"Longitude" : "-092.786355",
+		"Zipcode" : "55926",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "DEXTER",
+		"State" : "MN",
+		"Latitude" : "+43.616293"
+	},
+	{
+		"Longitude" : "-092.910808",
+		"Zipcode" : "55927",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "DODGE CENTER",
+		"State" : "MN",
+		"Latitude" : "+44.045362"
+	},
+	{
+		"Longitude" : "-092.138889",
+		"Zipcode" : "55929",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "DOVER",
+		"State" : "MN",
+		"Latitude" : "+43.989637"
+	},
+	{
+		"Longitude" : "-091.463204",
+		"Zipcode" : "55931",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOUSTON",
+		"City" : "EITZEN",
+		"State" : "MN",
+		"Latitude" : "+43.508371"
+	},
+	{
+		"Longitude" : "-092.252177",
+		"Zipcode" : "55932",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "ELGIN",
+		"State" : "MN",
+		"Latitude" : "+44.123683"
+	},
+	{
+		"Longitude" : "-092.682753",
+		"Zipcode" : "55933",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "ELKTON",
+		"State" : "MN",
+		"Latitude" : "+43.664334"
+	},
+	{
+		"Longitude" : "-092.264837",
+		"Zipcode" : "55934",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "EYOTA",
+		"State" : "MN",
+		"Latitude" : "+44.009932"
+	},
+	{
+		"Longitude" : "-092.075216",
+		"Zipcode" : "55935",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "FOUNTAIN",
+		"State" : "MN",
+		"Latitude" : "+43.651181"
+	},
+	{
+		"Longitude" : "-092.544587",
+		"Zipcode" : "55936",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "GRAND MEADOW",
+		"State" : "MN",
+		"Latitude" : "+43.668417"
+	},
+	{
+		"Longitude" : "-092.069594",
+		"Zipcode" : "55939",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "HARMONY",
+		"State" : "MN",
+		"Latitude" : "+43.534993"
+	},
+	{
+		"Longitude" : "-092.797679",
+		"Zipcode" : "55940",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "HAYFIELD",
+		"State" : "MN",
+		"Latitude" : "+43.896909"
+	},
+	{
+		"Longitude" : "-091.398755",
+		"Zipcode" : "55941",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "HOKAH",
+		"State" : "MN",
+		"Latitude" : "+43.759533"
+	},
+	{
+		"Longitude" : "-091.681870",
+		"Zipcode" : "55942",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "HOMER",
+		"State" : "MN",
+		"Latitude" : "+44.019989"
+	},
+	{
+		"Longitude" : "-091.571198",
+		"Zipcode" : "55943",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "HOUSTON",
+		"State" : "MN",
+		"Latitude" : "+43.781431"
+	},
+	{
+		"Longitude" : "-092.790593",
+		"Zipcode" : "55944",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "KASSON",
+		"State" : "MN",
+		"Latitude" : "+44.017216"
+	},
+	{
+		"Longitude" : "-092.109479",
+		"Zipcode" : "55945",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "KELLOGG",
+		"State" : "MN",
+		"Latitude" : "+44.273871"
+	},
+	{
+		"Longitude" : "-092.905937",
+		"Zipcode" : "55946",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "KENYON",
+		"State" : "MN",
+		"Latitude" : "+44.294333"
+	},
+	{
+		"Longitude" : "-091.352968",
+		"Zipcode" : "55947",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "LA CRESCENT",
+		"State" : "MN",
+		"Latitude" : "+43.770564"
+	},
+	{
+		"Longitude" : "-091.977384",
+		"Zipcode" : "55949",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "LANESBORO",
+		"State" : "MN",
+		"Latitude" : "+43.721194"
+	},
+	{
+		"Longitude" : "-092.965279",
+		"Zipcode" : "55950",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MOWER",
+		"City" : "LANSING",
+		"State" : "MN",
+		"Latitude" : "+43.762936"
+	},
+	{
+		"Longitude" : "-092.532554",
+		"Zipcode" : "55951",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "LE ROY",
+		"State" : "MN",
+		"Latitude" : "+43.546515"
+	},
+	{
+		"Longitude" : "-091.880535",
+		"Zipcode" : "55952",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "LEWISTON",
+		"State" : "MN",
+		"Latitude" : "+43.944412"
+	},
+	{
+		"Longitude" : "-092.942939",
+		"Zipcode" : "55953",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "LYLE",
+		"State" : "MN",
+		"Latitude" : "+43.506952"
+	},
+	{
+		"Longitude" : "-091.768082",
+		"Zipcode" : "55954",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "MABEL",
+		"State" : "MN",
+		"Latitude" : "+43.521277"
+	},
+	{
+		"Longitude" : "-092.760046",
+		"Zipcode" : "55955",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DODGE",
+		"City" : "MANTORVILLE",
+		"State" : "MN",
+		"Latitude" : "+44.065741"
+	},
+	{
+		"Longitude" : "-092.513947",
+		"Zipcode" : "55956",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "MAZEPPA",
+		"State" : "MN",
+		"Latitude" : "+44.241752"
+	},
+	{
+		"Longitude" : "-092.336216",
+		"Zipcode" : "55957",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "MILLVILLE",
+		"State" : "MN",
+		"Latitude" : "+44.234483"
+	},
+	{
+		"Longitude" : "-091.735080",
+		"Zipcode" : "55959",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "MINNESOTA CITY",
+		"State" : "MN",
+		"Latitude" : "+44.081907"
+	},
+	{
+		"Longitude" : "-092.373869",
+		"Zipcode" : "55960",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "ORONOCO",
+		"State" : "MN",
+		"Latitude" : "+44.084556"
+	},
+	{
+		"Longitude" : "-092.087863",
+		"Zipcode" : "55961",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "OSTRANDER",
+		"State" : "MN",
+		"Latitude" : "+43.714209"
+	},
+	{
+		"Longitude" : "-092.048539",
+		"Zipcode" : "55962",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "PETERSON",
+		"State" : "MN",
+		"Latitude" : "+43.747262"
+	},
+	{
+		"Longitude" : "-092.710905",
+		"Zipcode" : "55963",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "PINE ISLAND",
+		"State" : "MN",
+		"Latitude" : "+44.261029"
+	},
+	{
+		"Longitude" : "-092.202044",
+		"Zipcode" : "55964",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "PLAINVIEW",
+		"State" : "MN",
+		"Latitude" : "+44.151210"
+	},
+	{
+		"Longitude" : "-092.094590",
+		"Zipcode" : "55965",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "PRESTON",
+		"State" : "MN",
+		"Latitude" : "+43.706377"
+	},
+	{
+		"Longitude" : "-092.483567",
+		"Zipcode" : "55967",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "RACINE",
+		"State" : "MN",
+		"Latitude" : "+43.784072"
+	},
+	{
+		"Longitude" : "-092.282467",
+		"Zipcode" : "55968",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "READS LANDING",
+		"State" : "MN",
+		"Latitude" : "+44.340826"
+	},
+	{
+		"Longitude" : "-091.819882",
+		"Zipcode" : "55969",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "ROLLINGSTONE",
+		"State" : "MN",
+		"Latitude" : "+44.099266"
+	},
+	{
+		"Longitude" : "-092.830439",
+		"Zipcode" : "55970",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "ROSE CREEK",
+		"State" : "MN",
+		"Latitude" : "+43.669317"
+	},
+	{
+		"Longitude" : "-091.793376",
+		"Zipcode" : "55971",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "RUSHFORD",
+		"State" : "MN",
+		"Latitude" : "+43.809873"
+	},
+	{
+		"Longitude" : "-091.922346",
+		"Zipcode" : "55972",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "SAINT CHARLES",
+		"State" : "MN",
+		"Latitude" : "+43.960809"
+	},
+	{
+		"Longitude" : "-092.802913",
+		"Zipcode" : "55973",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "SARGEANT",
+		"State" : "MN",
+		"Latitude" : "+43.804657"
+	},
+	{
+		"Longitude" : "-091.635822",
+		"Zipcode" : "55974",
+		"ZipClass" : "STANDARD",
+		"County" : "HOUSTON",
+		"City" : "SPRING GROVE",
+		"State" : "MN",
+		"Latitude" : "+43.571029"
+	},
+	{
+		"Longitude" : "-092.334603",
+		"Zipcode" : "55975",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "SPRING VALLEY",
+		"State" : "MN",
+		"Latitude" : "+43.689711"
+	},
+	{
+		"Longitude" : "-092.503744",
+		"Zipcode" : "55976",
+		"ZipClass" : "STANDARD",
+		"County" : "OLMSTED",
+		"City" : "STEWARTVILLE",
+		"State" : "MN",
+		"Latitude" : "+43.884346"
+	},
+	{
+		"Longitude" : "-092.660555",
+		"Zipcode" : "55977",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "TAOPI",
+		"State" : "MN",
+		"Latitude" : "+43.557786"
+	},
+	{
+		"Longitude" : "-091.969704",
+		"Zipcode" : "55979",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "UTICA",
+		"State" : "MN",
+		"Latitude" : "+43.920980"
+	},
+	{
+		"Longitude" : "-092.087925",
+		"Zipcode" : "55981",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "WABASHA",
+		"State" : "MN",
+		"Latitude" : "+44.357900"
+	},
+	{
+		"Longitude" : "-092.796930",
+		"Zipcode" : "55982",
+		"ZipClass" : "STANDARD",
+		"County" : "MOWER",
+		"City" : "WALTHAM",
+		"State" : "MN",
+		"Latitude" : "+43.694738"
+	},
+	{
+		"Longitude" : "-092.812034",
+		"Zipcode" : "55983",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "WANAMINGO",
+		"State" : "MN",
+		"Latitude" : "+44.272099"
+	},
+	{
+		"Longitude" : "-092.903452",
+		"Zipcode" : "55985",
+		"ZipClass" : "STANDARD",
+		"County" : "DODGE",
+		"City" : "WEST CONCORD",
+		"State" : "MN",
+		"Latitude" : "+44.148244"
+	},
+	{
+		"Longitude" : "-091.700889",
+		"Zipcode" : "55987",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "WINONA",
+		"State" : "MN",
+		"Latitude" : "+44.029975"
+	},
+	{
+		"Longitude" : "-091.770781",
+		"Zipcode" : "55988",
+		"ZipClass" : "STANDARD",
+		"County" : "WINONA",
+		"City" : "STOCKTON",
+		"State" : "MN",
+		"Latitude" : "+44.025217"
+	},
+	{
+		"Longitude" : "-092.237117",
+		"Zipcode" : "55990",
+		"ZipClass" : "STANDARD",
+		"County" : "FILLMORE",
+		"City" : "WYKOFF",
+		"State" : "MN",
+		"Latitude" : "+43.704566"
+	},
+	{
+		"Longitude" : "-092.425643",
+		"Zipcode" : "55991",
+		"ZipClass" : "STANDARD",
+		"County" : "WABASHA",
+		"City" : "ZUMBRO FALLS",
+		"State" : "MN",
+		"Latitude" : "+44.242705"
+	},
+	{
+		"Longitude" : "-092.693235",
+		"Zipcode" : "55992",
+		"ZipClass" : "STANDARD",
+		"County" : "GOODHUE",
+		"City" : "ZUMBROTA",
+		"State" : "MN",
+		"Latitude" : "+44.287597"
+	},
+	{
+		"Longitude" : "-094.003112",
+		"Zipcode" : "56001",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "MANKATO",
+		"State" : "MN",
+		"Latitude" : "+44.061451"
+	},
+	{
+		"Longitude" : "-094.069828",
+		"Zipcode" : "56002",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "MANKATO",
+		"State" : "MN",
+		"Latitude" : "+44.056047"
+	},
+	{
+		"Longitude" : "-094.094192",
+		"Zipcode" : "56003",
+		"ZipClass" : "STANDARD",
+		"County" : "NICOLLET",
+		"City" : "MANKATO",
+		"State" : "MN",
+		"Latitude" : "+44.217193"
+	},
+	{
+		"Longitude" : "-094.069828",
+		"Zipcode" : "56006",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "MANKATO",
+		"State" : "MN",
+		"Latitude" : "+44.056047"
+	},
+	{
+		"Longitude" : "-093.389838",
+		"Zipcode" : "56007",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "ALBERT LEA",
+		"State" : "MN",
+		"Latitude" : "+43.686288"
+	},
+	{
+		"Longitude" : "-093.532143",
+		"Zipcode" : "56009",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "ALDEN",
+		"State" : "MN",
+		"Latitude" : "+43.733525"
+	},
+	{
+		"Longitude" : "-094.158390",
+		"Zipcode" : "56010",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "AMBOY",
+		"State" : "MN",
+		"Latitude" : "+43.886884"
+	},
+	{
+		"Longitude" : "-093.757888",
+		"Zipcode" : "56011",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "BELLE PLAINE",
+		"State" : "MN",
+		"Latitude" : "+44.608912"
+	},
+	{
+		"Longitude" : "-093.977974",
+		"Zipcode" : "56013",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "BLUE EARTH",
+		"State" : "MN",
+		"Latitude" : "+43.650300"
+	},
+	{
+		"Longitude" : "-093.826733",
+		"Zipcode" : "56014",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "BRICELYN",
+		"State" : "MN",
+		"Latitude" : "+43.669878"
+	},
+	{
+		"Longitude" : "-093.326712",
+		"Zipcode" : "56016",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "CLARKS GROVE",
+		"State" : "MN",
+		"Latitude" : "+43.761669"
+	},
+	{
+		"Longitude" : "-093.817622",
+		"Zipcode" : "56017",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "CLEVELAND",
+		"State" : "MN",
+		"Latitude" : "+44.298188"
+	},
+	{
+		"Longitude" : "-094.907833",
+		"Zipcode" : "56019",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "COMFREY",
+		"State" : "MN",
+		"Latitude" : "+44.111351"
+	},
+	{
+		"Longitude" : "-093.548214",
+		"Zipcode" : "56020",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREEBORN",
+		"City" : "CONGER",
+		"State" : "MN",
+		"Latitude" : "+43.621050"
+	},
+	{
+		"Longitude" : "-094.272911",
+		"Zipcode" : "56021",
+		"ZipClass" : "STANDARD",
+		"County" : "NICOLLET",
+		"City" : "COURTLAND",
+		"State" : "MN",
+		"Latitude" : "+44.265888"
+	},
+	{
+		"Longitude" : "-094.790185",
+		"Zipcode" : "56022",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WATONWAN",
+		"City" : "DARFUR",
+		"State" : "MN",
+		"Latitude" : "+44.054830"
+	},
+	{
+		"Longitude" : "-094.007655",
+		"Zipcode" : "56023",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "DELAVAN",
+		"State" : "MN",
+		"Latitude" : "+43.768062"
+	},
+	{
+		"Longitude" : "-093.882127",
+		"Zipcode" : "56024",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "EAGLE LAKE",
+		"State" : "MN",
+		"Latitude" : "+44.163231"
+	},
+	{
+		"Longitude" : "-093.897589",
+		"Zipcode" : "56025",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "EASTON",
+		"State" : "MN",
+		"Latitude" : "+43.760823"
+	},
+	{
+		"Longitude" : "-093.286367",
+		"Zipcode" : "56026",
+		"ZipClass" : "STANDARD",
+		"County" : "STEELE",
+		"City" : "ELLENDALE",
+		"State" : "MN",
+		"Latitude" : "+43.927861"
+	},
+	{
+		"Longitude" : "-093.969840",
+		"Zipcode" : "56027",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "ELMORE",
+		"State" : "MN",
+		"Latitude" : "+43.575712"
+	},
+	{
+		"Longitude" : "-093.681980",
+		"Zipcode" : "56028",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "ELYSIAN",
+		"State" : "MN",
+		"Latitude" : "+44.199317"
+	},
+	{
+		"Longitude" : "-093.403429",
+		"Zipcode" : "56029",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "EMMONS",
+		"State" : "MN",
+		"Latitude" : "+43.652544"
+	},
+	{
+		"Longitude" : "-094.605226",
+		"Zipcode" : "56030",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "ESSIG",
+		"State" : "MN",
+		"Latitude" : "+44.325833"
+	},
+	{
+		"Longitude" : "-094.510780",
+		"Zipcode" : "56031",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "FAIRMONT",
+		"State" : "MN",
+		"Latitude" : "+43.674049"
+	},
+	{
+		"Longitude" : "-093.525396",
+		"Zipcode" : "56032",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREEBORN",
+		"City" : "FREEBORN",
+		"State" : "MN",
+		"Latitude" : "+43.783807"
+	},
+	{
+		"Longitude" : "-093.908248",
+		"Zipcode" : "56033",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "FROST",
+		"State" : "MN",
+		"Latitude" : "+43.564879"
+	},
+	{
+		"Longitude" : "-094.165036",
+		"Zipcode" : "56034",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "GARDEN CITY",
+		"State" : "MN",
+		"Latitude" : "+44.052118"
+	},
+	{
+		"Longitude" : "-093.348869",
+		"Zipcode" : "56035",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FREEBORN",
+		"City" : "GENEVA",
+		"State" : "MN",
+		"Latitude" : "+43.673904"
+	},
+	{
+		"Longitude" : "-093.361730",
+		"Zipcode" : "56036",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "GLENVILLE",
+		"State" : "MN",
+		"Latitude" : "+43.664991"
+	},
+	{
+		"Longitude" : "-094.112395",
+		"Zipcode" : "56037",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "GOOD THUNDER",
+		"State" : "MN",
+		"Latitude" : "+44.029182"
+	},
+	{
+		"Longitude" : "-094.440978",
+		"Zipcode" : "56039",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "GRANADA",
+		"State" : "MN",
+		"Latitude" : "+43.659429"
+	},
+	{
+		"Longitude" : "-094.499485",
+		"Zipcode" : "56041",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "HANSKA",
+		"State" : "MN",
+		"Latitude" : "+44.133457"
+	},
+	{
+		"Longitude" : "-093.485456",
+		"Zipcode" : "56042",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "HARTLAND",
+		"State" : "MN",
+		"Latitude" : "+43.803384"
+	},
+	{
+		"Longitude" : "-093.244932",
+		"Zipcode" : "56043",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "HAYWARD",
+		"State" : "MN",
+		"Latitude" : "+43.646968"
+	},
+	{
+		"Longitude" : "-093.962668",
+		"Zipcode" : "56044",
+		"ZipClass" : "STANDARD",
+		"County" : "SIBLEY",
+		"City" : "HENDERSON",
+		"State" : "MN",
+		"Latitude" : "+44.564912"
+	},
+	{
+		"Longitude" : "-093.204246",
+		"Zipcode" : "56045",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "HOLLANDALE",
+		"State" : "MN",
+		"Latitude" : "+43.759484"
+	},
+	{
+		"Longitude" : "-093.274017",
+		"Zipcode" : "56046",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEELE",
+		"City" : "HOPE",
+		"State" : "MN",
+		"Latitude" : "+43.955103"
+	},
+	{
+		"Longitude" : "-094.228897",
+		"Zipcode" : "56047",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "HUNTLEY",
+		"State" : "MN",
+		"Latitude" : "+43.738397"
+	},
+	{
+		"Longitude" : "-093.587350",
+		"Zipcode" : "56048",
+		"ZipClass" : "STANDARD",
+		"County" : "WASECA",
+		"City" : "JANESVILLE",
+		"State" : "MN",
+		"Latitude" : "+44.051012"
+	},
+	{
+		"Longitude" : "-093.931119",
+		"Zipcode" : "56050",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "KASOTA",
+		"State" : "MN",
+		"Latitude" : "+44.273281"
+	},
+	{
+		"Longitude" : "-093.708504",
+		"Zipcode" : "56051",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "KIESTER",
+		"State" : "MN",
+		"Latitude" : "+43.550446"
+	},
+	{
+		"Longitude" : "-093.574653",
+		"Zipcode" : "56052",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "KILKENNY",
+		"State" : "MN",
+		"Latitude" : "+44.313417"
+	},
+	{
+		"Longitude" : "-094.293887",
+		"Zipcode" : "56054",
+		"ZipClass" : "STANDARD",
+		"County" : "NICOLLET",
+		"City" : "LAFAYETTE",
+		"State" : "MN",
+		"Latitude" : "+44.361224"
+	},
+	{
+		"Longitude" : "-094.212574",
+		"Zipcode" : "56055",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "LAKE CRYSTAL",
+		"State" : "MN",
+		"Latitude" : "+44.147701"
+	},
+	{
+		"Longitude" : "-094.614361",
+		"Zipcode" : "56056",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WATONWAN",
+		"City" : "LA SALLE",
+		"State" : "MN",
+		"Latitude" : "+43.978335"
+	},
+	{
+		"Longitude" : "-093.781405",
+		"Zipcode" : "56057",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "LE CENTER",
+		"State" : "MN",
+		"Latitude" : "+44.360047"
+	},
+	{
+		"Longitude" : "-093.903348",
+		"Zipcode" : "56058",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "LE SUEUR",
+		"State" : "MN",
+		"Latitude" : "+44.390864"
+	},
+	{
+		"Longitude" : "-094.434135",
+		"Zipcode" : "56060",
+		"ZipClass" : "STANDARD",
+		"County" : "WATONWAN",
+		"City" : "LEWISVILLE",
+		"State" : "MN",
+		"Latitude" : "+43.923423"
+	},
+	{
+		"Longitude" : "-094.415480",
+		"Zipcode" : "56062",
+		"ZipClass" : "STANDARD",
+		"County" : "WATONWAN",
+		"City" : "MADELIA",
+		"State" : "MN",
+		"Latitude" : "+44.050715"
+	},
+	{
+		"Longitude" : "-093.862052",
+		"Zipcode" : "56063",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "MADISON LAKE",
+		"State" : "MN",
+		"Latitude" : "+44.083910"
+	},
+	{
+		"Longitude" : "-093.468959",
+		"Zipcode" : "56064",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "MANCHESTER",
+		"State" : "MN",
+		"Latitude" : "+43.763839"
+	},
+	{
+		"Longitude" : "-093.952056",
+		"Zipcode" : "56065",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "MAPLETON",
+		"State" : "MN",
+		"Latitude" : "+43.925112"
+	},
+	{
+		"Longitude" : "-093.817817",
+		"Zipcode" : "56068",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "MINNESOTA LAKE",
+		"State" : "MN",
+		"Latitude" : "+43.811561"
+	},
+	{
+		"Longitude" : "-093.580277",
+		"Zipcode" : "56069",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "MONTGOMERY",
+		"State" : "MN",
+		"Latitude" : "+44.349609"
+	},
+	{
+		"Longitude" : "-093.555980",
+		"Zipcode" : "56071",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "NEW PRAGUE",
+		"State" : "MN",
+		"Latitude" : "+44.536713"
+	},
+	{
+		"Longitude" : "-093.561426",
+		"Zipcode" : "56072",
+		"ZipClass" : "STANDARD",
+		"County" : "WASECA",
+		"City" : "NEW RICHLAND",
+		"State" : "MN",
+		"Latitude" : "+43.981294"
+	},
+	{
+		"Longitude" : "-094.511407",
+		"Zipcode" : "56073",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "NEW ULM",
+		"State" : "MN",
+		"Latitude" : "+44.259924"
+	},
+	{
+		"Longitude" : "-094.188233",
+		"Zipcode" : "56074",
+		"ZipClass" : "STANDARD",
+		"County" : "NICOLLET",
+		"City" : "NICOLLET",
+		"State" : "MN",
+		"Latitude" : "+44.273214"
+	},
+	{
+		"Longitude" : "-094.435705",
+		"Zipcode" : "56075",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "NORTHROP",
+		"State" : "MN",
+		"Latitude" : "+43.735278"
+	},
+	{
+		"Longitude" : "-093.348869",
+		"Zipcode" : "56076",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "OAKLAND",
+		"State" : "MN",
+		"Latitude" : "+43.673904"
+	},
+	{
+		"Longitude" : "-093.783274",
+		"Zipcode" : "56078",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "PEMBERTON",
+		"State" : "MN",
+		"Latitude" : "+44.007674"
+	},
+	{
+		"Longitude" : "-093.857123",
+		"Zipcode" : "56080",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BLUE EARTH",
+		"City" : "SAINT CLAIR",
+		"State" : "MN",
+		"Latitude" : "+44.081669"
+	},
+	{
+		"Longitude" : "-094.604116",
+		"Zipcode" : "56081",
+		"ZipClass" : "STANDARD",
+		"County" : "WATONWAN",
+		"City" : "SAINT JAMES",
+		"State" : "MN",
+		"Latitude" : "+43.982851"
+	},
+	{
+		"Longitude" : "-094.070153",
+		"Zipcode" : "56082",
+		"ZipClass" : "STANDARD",
+		"County" : "NICOLLET",
+		"City" : "SAINT PETER",
+		"State" : "MN",
+		"Latitude" : "+44.337793"
+	},
+	{
+		"Longitude" : "-095.167551",
+		"Zipcode" : "56083",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "SANBORN",
+		"State" : "MN",
+		"Latitude" : "+44.282403"
+	},
+	{
+		"Longitude" : "-094.738827",
+		"Zipcode" : "56084",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "SEARLES",
+		"State" : "MN",
+		"Latitude" : "+44.302893"
+	},
+	{
+		"Longitude" : "-094.777163",
+		"Zipcode" : "56085",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "SLEEPY EYE",
+		"State" : "MN",
+		"Latitude" : "+44.317309"
+	},
+	{
+		"Longitude" : "-094.903534",
+		"Zipcode" : "56087",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "SPRINGFIELD",
+		"State" : "MN",
+		"Latitude" : "+44.253427"
+	},
+	{
+		"Longitude" : "-094.430809",
+		"Zipcode" : "56088",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "TRUMAN",
+		"State" : "MN",
+		"Latitude" : "+43.789856"
+	},
+	{
+		"Longitude" : "-093.420578",
+		"Zipcode" : "56089",
+		"ZipClass" : "STANDARD",
+		"County" : "FREEBORN",
+		"City" : "TWIN LAKES",
+		"State" : "MN",
+		"Latitude" : "+43.559269"
+	},
+	{
+		"Longitude" : "-094.233683",
+		"Zipcode" : "56090",
+		"ZipClass" : "STANDARD",
+		"County" : "BLUE EARTH",
+		"City" : "VERNON CENTER",
+		"State" : "MN",
+		"Latitude" : "+43.925892"
+	},
+	{
+		"Longitude" : "-093.682513",
+		"Zipcode" : "56091",
+		"ZipClass" : "STANDARD",
+		"County" : "WASECA",
+		"City" : "WALDORF",
+		"State" : "MN",
+		"Latitude" : "+43.907326"
+	},
+	{
+		"Longitude" : "-093.550495",
+		"Zipcode" : "56093",
+		"ZipClass" : "STANDARD",
+		"County" : "WASECA",
+		"City" : "WASECA",
+		"State" : "MN",
+		"Latitude" : "+44.065547"
+	},
+	{
+		"Longitude" : "-093.569726",
+		"Zipcode" : "56096",
+		"ZipClass" : "STANDARD",
+		"County" : "LE SUEUR",
+		"City" : "WATERVILLE",
+		"State" : "MN",
+		"Latitude" : "+44.324235"
+	},
+	{
+		"Longitude" : "-093.912041",
+		"Zipcode" : "56097",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "WELLS",
+		"State" : "MN",
+		"Latitude" : "+43.702814"
+	},
+	{
+		"Longitude" : "-093.948241",
+		"Zipcode" : "56098",
+		"ZipClass" : "STANDARD",
+		"County" : "FARIBAULT",
+		"City" : "WINNEBAGO",
+		"State" : "MN",
+		"Latitude" : "+43.673848"
+	},
+	{
+		"Longitude" : "-095.046828",
+		"Zipcode" : "56101",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTONWOOD",
+		"City" : "WINDOM",
+		"State" : "MN",
+		"Latitude" : "+43.900192"
+	},
+	{
+		"Longitude" : "-095.953225",
+		"Zipcode" : "56110",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "ADRIAN",
+		"State" : "MN",
+		"Latitude" : "+43.620754"
+	},
+	{
+		"Longitude" : "-095.154494",
+		"Zipcode" : "56111",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ALPHA",
+		"State" : "MN",
+		"Latitude" : "+43.674174"
+	},
+	{
+		"Longitude" : "-096.184200",
+		"Zipcode" : "56113",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ARCO",
+		"State" : "MN",
+		"Latitude" : "+44.382668"
+	},
+	{
+		"Longitude" : "-095.603170",
+		"Zipcode" : "56114",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "AVOCA",
+		"State" : "MN",
+		"Latitude" : "+43.960084"
+	},
+	{
+		"Longitude" : "-095.889647",
+		"Zipcode" : "56115",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "BALATON",
+		"State" : "MN",
+		"Latitude" : "+44.261464"
+	},
+	{
+		"Longitude" : "-096.364663",
+		"Zipcode" : "56116",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "BEAVER CREEK",
+		"State" : "MN",
+		"Latitude" : "+43.612344"
+	},
+	{
+		"Longitude" : "-095.687951",
+		"Zipcode" : "56117",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "BIGELOW",
+		"State" : "MN",
+		"Latitude" : "+43.540643"
+	},
+	{
+		"Longitude" : "-095.048996",
+		"Zipcode" : "56118",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTONWOOD",
+		"City" : "BINGHAM LAKE",
+		"State" : "MN",
+		"Latitude" : "+43.895565"
+	},
+	{
+		"Longitude" : "-095.512519",
+		"Zipcode" : "56119",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "BREWSTER",
+		"State" : "MN",
+		"Latitude" : "+43.732427"
+	},
+	{
+		"Longitude" : "-094.814932",
+		"Zipcode" : "56120",
+		"ZipClass" : "STANDARD",
+		"County" : "WATONWAN",
+		"City" : "BUTTERFIELD",
+		"State" : "MN",
+		"Latitude" : "+44.002201"
+	},
+	{
+		"Longitude" : "-094.606517",
+		"Zipcode" : "56121",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "CEYLON",
+		"State" : "MN",
+		"Latitude" : "+43.584995"
+	},
+	{
+		"Longitude" : "-095.819970",
+		"Zipcode" : "56122",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "CHANDLER",
+		"State" : "MN",
+		"Latitude" : "+43.921990"
+	},
+	{
+		"Longitude" : "-095.704397",
+		"Zipcode" : "56123",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "CURRIE",
+		"State" : "MN",
+		"Latitude" : "+44.048028"
+	},
+	{
+		"Longitude" : "-095.549899",
+		"Zipcode" : "56125",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MURRAY",
+		"City" : "DOVRAY",
+		"State" : "MN",
+		"Latitude" : "+44.053323"
+	},
+	{
+		"Longitude" : "-094.550932",
+		"Zipcode" : "56127",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "DUNNELL",
+		"State" : "MN",
+		"Latitude" : "+43.674184"
+	},
+	{
+		"Longitude" : "-096.149676",
+		"Zipcode" : "56128",
+		"ZipClass" : "STANDARD",
+		"County" : "PIPESTONE",
+		"City" : "EDGERTON",
+		"State" : "MN",
+		"Latitude" : "+43.930332"
+	},
+	{
+		"Longitude" : "-095.983538",
+		"Zipcode" : "56129",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "ELLSWORTH",
+		"State" : "MN",
+		"Latitude" : "+43.536342"
+	},
+	{
+		"Longitude" : "-095.593288",
+		"Zipcode" : "56131",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "FULDA",
+		"State" : "MN",
+		"Latitude" : "+43.905962"
+	},
+	{
+		"Longitude" : "-095.861770",
+		"Zipcode" : "56132",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "GARVIN",
+		"State" : "MN",
+		"Latitude" : "+44.305584"
+	},
+	{
+		"Longitude" : "-096.218283",
+		"Zipcode" : "56134",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "HARDWICK",
+		"State" : "MN",
+		"Latitude" : "+43.810378"
+	},
+	{
+		"Longitude" : "-096.337710",
+		"Zipcode" : "56136",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HENDRICKS",
+		"State" : "MN",
+		"Latitude" : "+44.460984"
+	},
+	{
+		"Longitude" : "-095.320571",
+		"Zipcode" : "56137",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HERON LAKE",
+		"State" : "MN",
+		"Latitude" : "+43.795977"
+	},
+	{
+		"Longitude" : "-096.358365",
+		"Zipcode" : "56138",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "HILLS",
+		"State" : "MN",
+		"Latitude" : "+43.525185"
+	},
+	{
+		"Longitude" : "-096.188124",
+		"Zipcode" : "56139",
+		"ZipClass" : "STANDARD",
+		"County" : "PIPESTONE",
+		"City" : "HOLLAND",
+		"State" : "MN",
+		"Latitude" : "+44.092390"
+	},
+	{
+		"Longitude" : "-096.364032",
+		"Zipcode" : "56140",
+		"ZipClass" : "STANDARD",
+		"County" : "PIPESTONE",
+		"City" : "IHLEN",
+		"State" : "MN",
+		"Latitude" : "+43.895464"
+	},
+	{
+		"Longitude" : "-095.784003",
+		"Zipcode" : "56141",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "IONA",
+		"State" : "MN",
+		"Latitude" : "+43.891474"
+	},
+	{
+		"Longitude" : "-096.246374",
+		"Zipcode" : "56142",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "IVANHOE",
+		"State" : "MN",
+		"Latitude" : "+44.460411"
+	},
+	{
+		"Longitude" : "-095.021954",
+		"Zipcode" : "56143",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "JACKSON",
+		"State" : "MN",
+		"Latitude" : "+43.650174"
+	},
+	{
+		"Longitude" : "-096.342955",
+		"Zipcode" : "56144",
+		"ZipClass" : "STANDARD",
+		"County" : "PIPESTONE",
+		"City" : "JASPER",
+		"State" : "MN",
+		"Latitude" : "+43.879857"
+	},
+	{
+		"Longitude" : "-095.195219",
+		"Zipcode" : "56145",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTONWOOD",
+		"City" : "JEFFERS",
+		"State" : "MN",
+		"Latitude" : "+44.055769"
+	},
+	{
+		"Longitude" : "-096.252794",
+		"Zipcode" : "56146",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "KANARANZI",
+		"State" : "MN",
+		"Latitude" : "+43.674883"
+	},
+	{
+		"Longitude" : "-096.252794",
+		"Zipcode" : "56147",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "KENNETH",
+		"State" : "MN",
+		"Latitude" : "+43.674883"
+	},
+	{
+		"Longitude" : "-096.270936",
+		"Zipcode" : "56149",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LAKE BENTON",
+		"State" : "MN",
+		"Latitude" : "+44.294793"
+	},
+	{
+		"Longitude" : "-095.171548",
+		"Zipcode" : "56150",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "LAKEFIELD",
+		"State" : "MN",
+		"Latitude" : "+43.678125"
+	},
+	{
+		"Longitude" : "-095.825082",
+		"Zipcode" : "56151",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "LAKE WILSON",
+		"State" : "MN",
+		"Latitude" : "+44.006920"
+	},
+	{
+		"Longitude" : "-095.269338",
+		"Zipcode" : "56152",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "LAMBERTON",
+		"State" : "MN",
+		"Latitude" : "+44.282497"
+	},
+	{
+		"Longitude" : "-096.012811",
+		"Zipcode" : "56153",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NOBLES",
+		"City" : "LEOTA",
+		"State" : "MN",
+		"Latitude" : "+43.840423"
+	},
+	{
+		"Longitude" : "-095.942501",
+		"Zipcode" : "56155",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "LISMORE",
+		"State" : "MN",
+		"Latitude" : "+43.682995"
+	},
+	{
+		"Longitude" : "-096.163242",
+		"Zipcode" : "56156",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "LUVERNE",
+		"State" : "MN",
+		"Latitude" : "+43.698546"
+	},
+	{
+		"Longitude" : "-095.937984",
+		"Zipcode" : "56157",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "LYND",
+		"State" : "MN",
+		"Latitude" : "+44.399913"
+	},
+	{
+		"Longitude" : "-096.076950",
+		"Zipcode" : "56158",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "MAGNOLIA",
+		"State" : "MN",
+		"Latitude" : "+43.644047"
+	},
+	{
+		"Longitude" : "-094.924319",
+		"Zipcode" : "56159",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTONWOOD",
+		"City" : "MOUNTAIN LAKE",
+		"State" : "MN",
+		"Latitude" : "+43.939276"
+	},
+	{
+		"Longitude" : "-094.742716",
+		"Zipcode" : "56160",
+		"ZipClass" : "STANDARD",
+		"County" : "WATONWAN",
+		"City" : "ODIN",
+		"State" : "MN",
+		"Latitude" : "+43.867848"
+	},
+	{
+		"Longitude" : "-095.316815",
+		"Zipcode" : "56161",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "OKABENA",
+		"State" : "MN",
+		"Latitude" : "+43.738986"
+	},
+	{
+		"Longitude" : "-094.663493",
+		"Zipcode" : "56162",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "ORMSBY",
+		"State" : "MN",
+		"Latitude" : "+43.826503"
+	},
+	{
+		"Longitude" : "-096.265153",
+		"Zipcode" : "56164",
+		"ZipClass" : "STANDARD",
+		"County" : "PIPESTONE",
+		"City" : "PIPESTONE",
+		"State" : "MN",
+		"Latitude" : "+43.989267"
+	},
+	{
+		"Longitude" : "-095.703514",
+		"Zipcode" : "56165",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "READING",
+		"State" : "MN",
+		"Latitude" : "+43.732304"
+	},
+	{
+		"Longitude" : "-095.355744",
+		"Zipcode" : "56166",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "REVERE",
+		"State" : "MN",
+		"Latitude" : "+44.239130"
+	},
+	{
+		"Longitude" : "-095.640477",
+		"Zipcode" : "56167",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "ROUND LAKE",
+		"State" : "MN",
+		"Latitude" : "+43.631841"
+	},
+	{
+		"Longitude" : "-095.803869",
+		"Zipcode" : "56168",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "RUSHMORE",
+		"State" : "MN",
+		"Latitude" : "+43.623088"
+	},
+	{
+		"Longitude" : "-095.978040",
+		"Zipcode" : "56169",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "RUSSELL",
+		"State" : "MN",
+		"Latitude" : "+44.335085"
+	},
+	{
+		"Longitude" : "-096.275913",
+		"Zipcode" : "56170",
+		"ZipClass" : "STANDARD",
+		"County" : "PIPESTONE",
+		"City" : "RUTHTON",
+		"State" : "MN",
+		"Latitude" : "+44.153916"
+	},
+	{
+		"Longitude" : "-094.759431",
+		"Zipcode" : "56171",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "SHERBURN",
+		"State" : "MN",
+		"Latitude" : "+43.667369"
+	},
+	{
+		"Longitude" : "-095.763493",
+		"Zipcode" : "56172",
+		"ZipClass" : "STANDARD",
+		"County" : "MURRAY",
+		"City" : "SLAYTON",
+		"State" : "MN",
+		"Latitude" : "+43.993479"
+	},
+	{
+		"Longitude" : "-096.252794",
+		"Zipcode" : "56173",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCK",
+		"City" : "STEEN",
+		"State" : "MN",
+		"Latitude" : "+43.674883"
+	},
+	{
+		"Longitude" : "-095.319366",
+		"Zipcode" : "56174",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTONWOOD",
+		"City" : "STORDEN",
+		"State" : "MN",
+		"Latitude" : "+44.039624"
+	},
+	{
+		"Longitude" : "-095.773754",
+		"Zipcode" : "56175",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "TRACY",
+		"State" : "MN",
+		"Latitude" : "+44.290092"
+	},
+	{
+		"Longitude" : "-094.713525",
+		"Zipcode" : "56176",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "TRIMONT",
+		"State" : "MN",
+		"Latitude" : "+43.783229"
+	},
+	{
+		"Longitude" : "-096.260066",
+		"Zipcode" : "56177",
+		"ZipClass" : "STANDARD",
+		"County" : "PIPESTONE",
+		"City" : "TROSKY",
+		"State" : "MN",
+		"Latitude" : "+43.889477"
+	},
+	{
+		"Longitude" : "-096.141967",
+		"Zipcode" : "56178",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TYLER",
+		"State" : "MN",
+		"Latitude" : "+44.275371"
+	},
+	{
+		"Longitude" : "-095.481890",
+		"Zipcode" : "56180",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "WALNUT GROVE",
+		"State" : "MN",
+		"Latitude" : "+44.283007"
+	},
+	{
+		"Longitude" : "-094.673433",
+		"Zipcode" : "56181",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "WELCOME",
+		"State" : "MN",
+		"Latitude" : "+43.667270"
+	},
+	{
+		"Longitude" : "-095.196562",
+		"Zipcode" : "56183",
+		"ZipClass" : "STANDARD",
+		"County" : "COTTONWOOD",
+		"City" : "WESTBROOK",
+		"State" : "MN",
+		"Latitude" : "+44.007813"
+	},
+	{
+		"Longitude" : "-095.826712",
+		"Zipcode" : "56185",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "WILMONT",
+		"State" : "MN",
+		"Latitude" : "+43.790084"
+	},
+	{
+		"Longitude" : "-096.099250",
+		"Zipcode" : "56186",
+		"ZipClass" : "STANDARD",
+		"County" : "PIPESTONE",
+		"City" : "WOODSTOCK",
+		"State" : "MN",
+		"Latitude" : "+44.009283"
+	},
+	{
+		"Longitude" : "-095.735375",
+		"Zipcode" : "56187",
+		"ZipClass" : "STANDARD",
+		"County" : "NOBLES",
+		"City" : "WORTHINGTON",
+		"State" : "MN",
+		"Latitude" : "+43.645207"
+	},
+	{
+		"Longitude" : "-094.977723",
+		"Zipcode" : "56201",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "WILLMAR",
+		"State" : "MN",
+		"Latitude" : "+45.147104"
+	},
+	{
+		"Longitude" : "-096.000761",
+		"Zipcode" : "56207",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "ALBERTA",
+		"State" : "MN",
+		"Latitude" : "+45.585961"
+	},
+	{
+		"Longitude" : "-095.957570",
+		"Zipcode" : "56208",
+		"ZipClass" : "STANDARD",
+		"County" : "SWIFT",
+		"City" : "APPLETON",
+		"State" : "MN",
+		"Latitude" : "+45.282008"
+	},
+	{
+		"Longitude" : "-094.968572",
+		"Zipcode" : "56209",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "ATWATER",
+		"State" : "MN",
+		"Latitude" : "+45.109205"
+	},
+	{
+		"Longitude" : "-096.558886",
+		"Zipcode" : "56210",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG STONE",
+		"City" : "BARRY",
+		"State" : "MN",
+		"Latitude" : "+45.559291"
+	},
+	{
+		"Longitude" : "-096.469532",
+		"Zipcode" : "56211",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG STONE",
+		"City" : "BEARDSLEY",
+		"State" : "MN",
+		"Latitude" : "+45.381402"
+	},
+	{
+		"Longitude" : "-096.095554",
+		"Zipcode" : "56212",
+		"ZipClass" : "STANDARD",
+		"County" : "LAC QUI PARLE",
+		"City" : "BELLINGHAM",
+		"State" : "MN",
+		"Latitude" : "+45.053253"
+	},
+	{
+		"Longitude" : "-095.324839",
+		"Zipcode" : "56214",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "BELVIEW",
+		"State" : "MN",
+		"Latitude" : "+44.553001"
+	},
+	{
+		"Longitude" : "-095.672102",
+		"Zipcode" : "56215",
+		"ZipClass" : "STANDARD",
+		"County" : "SWIFT",
+		"City" : "BENSON",
+		"State" : "MN",
+		"Latitude" : "+45.281669"
+	},
+	{
+		"Longitude" : "-095.058849",
+		"Zipcode" : "56216",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "BLOMKEST",
+		"State" : "MN",
+		"Latitude" : "+44.950076"
+	},
+	{
+		"Longitude" : "-096.095554",
+		"Zipcode" : "56218",
+		"ZipClass" : "STANDARD",
+		"County" : "LAC QUI PARLE",
+		"City" : "BOYD",
+		"State" : "MN",
+		"Latitude" : "+45.053253"
+	},
+	{
+		"Longitude" : "-096.834959",
+		"Zipcode" : "56219",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAVERSE",
+		"City" : "BROWNS VALLEY",
+		"State" : "MN",
+		"Latitude" : "+45.594320"
+	},
+	{
+		"Longitude" : "-095.916433",
+		"Zipcode" : "56220",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOW MEDICINE",
+		"City" : "CANBY",
+		"State" : "MN",
+		"Latitude" : "+44.775235"
+	},
+	{
+		"Longitude" : "-096.172979",
+		"Zipcode" : "56221",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "CHOKIO",
+		"State" : "MN",
+		"Latitude" : "+45.573876"
+	},
+	{
+		"Longitude" : "-095.360420",
+		"Zipcode" : "56222",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "CLARA CITY",
+		"State" : "MN",
+		"Latitude" : "+44.992549"
+	},
+	{
+		"Longitude" : "-095.806933",
+		"Zipcode" : "56223",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOW MEDICINE",
+		"City" : "CLARKFIELD",
+		"State" : "MN",
+		"Latitude" : "+44.790853"
+	},
+	{
+		"Longitude" : "-095.261177",
+		"Zipcode" : "56224",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "CLEMENTS",
+		"State" : "MN",
+		"Latitude" : "+44.418189"
+	},
+	{
+		"Longitude" : "-096.431538",
+		"Zipcode" : "56225",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG STONE",
+		"City" : "CLINTON",
+		"State" : "MN",
+		"Latitude" : "+45.461092"
+	},
+	{
+		"Longitude" : "-095.838919",
+		"Zipcode" : "56226",
+		"ZipClass" : "STANDARD",
+		"County" : "SWIFT",
+		"City" : "CLONTARF",
+		"State" : "MN",
+		"Latitude" : "+45.305865"
+	},
+	{
+		"Longitude" : "-096.469532",
+		"Zipcode" : "56227",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG STONE",
+		"City" : "CORRELL",
+		"State" : "MN",
+		"Latitude" : "+45.381402"
+	},
+	{
+		"Longitude" : "-094.660884",
+		"Zipcode" : "56228",
+		"ZipClass" : "STANDARD",
+		"County" : "MEEKER",
+		"City" : "COSMOS",
+		"State" : "MN",
+		"Latitude" : "+45.022087"
+	},
+	{
+		"Longitude" : "-095.744921",
+		"Zipcode" : "56229",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "COTTONWOOD",
+		"State" : "MN",
+		"Latitude" : "+44.569560"
+	},
+	{
+		"Longitude" : "-095.097540",
+		"Zipcode" : "56230",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "DANUBE",
+		"State" : "MN",
+		"Latitude" : "+44.760070"
+	},
+	{
+		"Longitude" : "-095.721936",
+		"Zipcode" : "56231",
+		"ZipClass" : "STANDARD",
+		"County" : "SWIFT",
+		"City" : "DANVERS",
+		"State" : "MN",
+		"Latitude" : "+45.281751"
+	},
+	{
+		"Longitude" : "-096.056499",
+		"Zipcode" : "56232",
+		"ZipClass" : "STANDARD",
+		"County" : "LAC QUI PARLE",
+		"City" : "DAWSON",
+		"State" : "MN",
+		"Latitude" : "+44.929289"
+	},
+	{
+		"Longitude" : "-096.010121",
+		"Zipcode" : "56235",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "DONNELLY",
+		"State" : "MN",
+		"Latitude" : "+45.690959"
+	},
+	{
+		"Longitude" : "-096.422981",
+		"Zipcode" : "56236",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAVERSE",
+		"City" : "DUMONT",
+		"State" : "MN",
+		"Latitude" : "+45.718556"
+	},
+	{
+		"Longitude" : "-095.411535",
+		"Zipcode" : "56237",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOW MEDICINE",
+		"City" : "ECHO",
+		"State" : "MN",
+		"Latitude" : "+44.617739"
+	},
+	{
+		"Longitude" : "-095.907811",
+		"Zipcode" : "56239",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "GHENT",
+		"State" : "MN",
+		"Latitude" : "+44.485432"
+	},
+	{
+		"Longitude" : "-096.440429",
+		"Zipcode" : "56240",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG STONE",
+		"City" : "GRACEVILLE",
+		"State" : "MN",
+		"Latitude" : "+45.521519"
+	},
+	{
+		"Longitude" : "-095.670577",
+		"Zipcode" : "56241",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOW MEDICINE",
+		"City" : "GRANITE FALLS",
+		"State" : "MN",
+		"Latitude" : "+44.780794"
+	},
+	{
+		"Longitude" : "-094.674112",
+		"Zipcode" : "56243",
+		"ZipClass" : "STANDARD",
+		"County" : "MEEKER",
+		"City" : "GROVE CITY",
+		"State" : "MN",
+		"Latitude" : "+45.146898"
+	},
+	{
+		"Longitude" : "-095.794260",
+		"Zipcode" : "56244",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "HANCOCK",
+		"State" : "MN",
+		"Latitude" : "+45.497402"
+	},
+	{
+		"Longitude" : "-095.620580",
+		"Zipcode" : "56245",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOW MEDICINE",
+		"City" : "HANLEY FALLS",
+		"State" : "MN",
+		"Latitude" : "+44.692039"
+	},
+	{
+		"Longitude" : "-094.856110",
+		"Zipcode" : "56246",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "HAWICK",
+		"State" : "MN",
+		"Latitude" : "+45.337630"
+	},
+	{
+		"Longitude" : "-096.141993",
+		"Zipcode" : "56248",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "HERMAN",
+		"State" : "MN",
+		"Latitude" : "+45.838396"
+	},
+	{
+		"Longitude" : "-095.624619",
+		"Zipcode" : "56249",
+		"ZipClass" : "STANDARD",
+		"County" : "SWIFT",
+		"City" : "HOLLOWAY",
+		"State" : "MN",
+		"Latitude" : "+45.291840"
+	},
+	{
+		"Longitude" : "-094.918264",
+		"Zipcode" : "56251",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "KANDIYOHI",
+		"State" : "MN",
+		"Latitude" : "+45.142577"
+	},
+	{
+		"Longitude" : "-095.317927",
+		"Zipcode" : "56252",
+		"ZipClass" : "STANDARD",
+		"County" : "SWIFT",
+		"City" : "KERKHOVEN",
+		"State" : "MN",
+		"Latitude" : "+45.231737"
+	},
+	{
+		"Longitude" : "-094.900783",
+		"Zipcode" : "56253",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "LAKE LILLIAN",
+		"State" : "MN",
+		"Latitude" : "+45.011036"
+	},
+	{
+		"Longitude" : "-095.409783",
+		"Zipcode" : "56255",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "LUCAN",
+		"State" : "MN",
+		"Latitude" : "+44.472194"
+	},
+	{
+		"Longitude" : "-096.311044",
+		"Zipcode" : "56256",
+		"ZipClass" : "STANDARD",
+		"County" : "LAC QUI PARLE",
+		"City" : "MADISON",
+		"State" : "MN",
+		"Latitude" : "+45.038164"
+	},
+	{
+		"Longitude" : "-096.440184",
+		"Zipcode" : "56257",
+		"ZipClass" : "STANDARD",
+		"County" : "LAC QUI PARLE",
+		"City" : "MARIETTA",
+		"State" : "MN",
+		"Latitude" : "+45.067384"
+	},
+	{
+		"Longitude" : "-095.785872",
+		"Zipcode" : "56258",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "MARSHALL",
+		"State" : "MN",
+		"Latitude" : "+44.460429"
+	},
+	{
+		"Longitude" : "-095.573816",
+		"Zipcode" : "56260",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "MAYNARD",
+		"State" : "MN",
+		"Latitude" : "+44.999613"
+	},
+	{
+		"Longitude" : "-095.817699",
+		"Zipcode" : "56262",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "MILAN",
+		"State" : "MN",
+		"Latitude" : "+45.108407"
+	},
+	{
+		"Longitude" : "-095.531336",
+		"Zipcode" : "56263",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "MILROY",
+		"State" : "MN",
+		"Latitude" : "+44.417632"
+	},
+	{
+		"Longitude" : "-095.954362",
+		"Zipcode" : "56264",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "MINNEOTA",
+		"State" : "MN",
+		"Latitude" : "+44.523070"
+	},
+	{
+		"Longitude" : "-095.601718",
+		"Zipcode" : "56265",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "MONTEVIDEO",
+		"State" : "MN",
+		"Latitude" : "+45.014054"
+	},
+	{
+		"Longitude" : "-094.976823",
+		"Zipcode" : "56266",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "MORGAN",
+		"State" : "MN",
+		"Latitude" : "+44.404589"
+	},
+	{
+		"Longitude" : "-095.923233",
+		"Zipcode" : "56267",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "MORRIS",
+		"State" : "MN",
+		"Latitude" : "+45.595739"
+	},
+	{
+		"Longitude" : "-094.970660",
+		"Zipcode" : "56270",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "MORTON",
+		"State" : "MN",
+		"Latitude" : "+44.586097"
+	},
+	{
+		"Longitude" : "-095.512817",
+		"Zipcode" : "56271",
+		"ZipClass" : "STANDARD",
+		"County" : "SWIFT",
+		"City" : "MURDOCK",
+		"State" : "MN",
+		"Latitude" : "+45.281997"
+	},
+	{
+		"Longitude" : "-095.049378",
+		"Zipcode" : "56273",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "NEW LONDON",
+		"State" : "MN",
+		"Latitude" : "+45.167597"
+	},
+	{
+		"Longitude" : "-096.012359",
+		"Zipcode" : "56274",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "NORCROSS",
+		"State" : "MN",
+		"Latitude" : "+45.934055"
+	},
+	{
+		"Longitude" : "-096.469532",
+		"Zipcode" : "56276",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG STONE",
+		"City" : "ODESSA",
+		"State" : "MN",
+		"Latitude" : "+45.381402"
+	},
+	{
+		"Longitude" : "-095.032641",
+		"Zipcode" : "56277",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "OLIVIA",
+		"State" : "MN",
+		"Latitude" : "+44.760343"
+	},
+	{
+		"Longitude" : "-096.516214",
+		"Zipcode" : "56278",
+		"ZipClass" : "STANDARD",
+		"County" : "BIG STONE",
+		"City" : "ORTONVILLE",
+		"State" : "MN",
+		"Latitude" : "+45.376691"
+	},
+	{
+		"Longitude" : "-095.141233",
+		"Zipcode" : "56279",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "PENNOCK",
+		"State" : "MN",
+		"Latitude" : "+45.219496"
+	},
+	{
+		"Longitude" : "-096.112040",
+		"Zipcode" : "56280",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOW MEDICINE",
+		"City" : "PORTER",
+		"State" : "MN",
+		"Latitude" : "+44.674215"
+	},
+	{
+		"Longitude" : "-095.000152",
+		"Zipcode" : "56281",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "PRINSBURG",
+		"State" : "MN",
+		"Latitude" : "+45.029662"
+	},
+	{
+		"Longitude" : "-095.111335",
+		"Zipcode" : "56282",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "RAYMOND",
+		"State" : "MN",
+		"Latitude" : "+45.094173"
+	},
+	{
+		"Longitude" : "-095.200255",
+		"Zipcode" : "56283",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "REDWOOD FALLS",
+		"State" : "MN",
+		"Latitude" : "+44.521759"
+	},
+	{
+		"Longitude" : "-095.240065",
+		"Zipcode" : "56284",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "RENVILLE",
+		"State" : "MN",
+		"Latitude" : "+44.760675"
+	},
+	{
+		"Longitude" : "-095.370482",
+		"Zipcode" : "56285",
+		"ZipClass" : "STANDARD",
+		"County" : "RENVILLE",
+		"City" : "SACRED HEART",
+		"State" : "MN",
+		"Latitude" : "+44.779761"
+	},
+	{
+		"Longitude" : "-095.328167",
+		"Zipcode" : "56287",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "SEAFORTH",
+		"State" : "MN",
+		"Latitude" : "+44.461267"
+	},
+	{
+		"Longitude" : "-095.020124",
+		"Zipcode" : "56288",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "SPICER",
+		"State" : "MN",
+		"Latitude" : "+45.164862"
+	},
+	{
+		"Longitude" : "-095.141945",
+		"Zipcode" : "56289",
+		"ZipClass" : "STANDARD",
+		"County" : "KANDIYOHI",
+		"City" : "SUNBURG",
+		"State" : "MN",
+		"Latitude" : "+45.258882"
+	},
+	{
+		"Longitude" : "-095.883387",
+		"Zipcode" : "56291",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "TAUNTON",
+		"State" : "MN",
+		"Latitude" : "+44.580923"
+	},
+	{
+		"Longitude" : "-095.447604",
+		"Zipcode" : "56292",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "VESTA",
+		"State" : "MN",
+		"Latitude" : "+44.492318"
+	},
+	{
+		"Longitude" : "-095.248847",
+		"Zipcode" : "56293",
+		"ZipClass" : "STANDARD",
+		"County" : "REDWOOD",
+		"City" : "WABASSO",
+		"State" : "MN",
+		"Latitude" : "+44.420734"
+	},
+	{
+		"Longitude" : "-095.211785",
+		"Zipcode" : "56294",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "REDWOOD",
+		"City" : "WANDA",
+		"State" : "MN",
+		"Latitude" : "+44.329780"
+	},
+	{
+		"Longitude" : "-095.630814",
+		"Zipcode" : "56295",
+		"ZipClass" : "STANDARD",
+		"County" : "CHIPPEWA",
+		"City" : "WATSON",
+		"State" : "MN",
+		"Latitude" : "+45.019892"
+	},
+	{
+		"Longitude" : "-096.633211",
+		"Zipcode" : "56296",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAVERSE",
+		"City" : "WHEATON",
+		"State" : "MN",
+		"Latitude" : "+45.703481"
+	},
+	{
+		"Longitude" : "-095.576938",
+		"Zipcode" : "56297",
+		"ZipClass" : "STANDARD",
+		"County" : "YELLOW MEDICINE",
+		"City" : "WOOD LAKE",
+		"State" : "MN",
+		"Latitude" : "+44.667478"
+	},
+	{
+		"Longitude" : "-094.330619",
+		"Zipcode" : "56301",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.519196"
+	},
+	{
+		"Longitude" : "-094.643922",
+		"Zipcode" : "56302",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.493430"
+	},
+	{
+		"Longitude" : "-094.223023",
+		"Zipcode" : "56303",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.627994"
+	},
+	{
+		"Longitude" : "-094.440969",
+		"Zipcode" : "56304",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.544864"
+	},
+	{
+		"Longitude" : "-094.494229",
+		"Zipcode" : "56307",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "ALBANY",
+		"State" : "MN",
+		"Latitude" : "+45.614724"
+	},
+	{
+		"Longitude" : "-095.420589",
+		"Zipcode" : "56308",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "ALEXANDRIA",
+		"State" : "MN",
+		"Latitude" : "+45.902017"
+	},
+	{
+		"Longitude" : "-095.816743",
+		"Zipcode" : "56309",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "ASHBY",
+		"State" : "MN",
+		"Latitude" : "+46.091710"
+	},
+	{
+		"Longitude" : "-094.436477",
+		"Zipcode" : "56310",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "AVON",
+		"State" : "MN",
+		"Latitude" : "+45.599386"
+	},
+	{
+		"Longitude" : "-095.850250",
+		"Zipcode" : "56311",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BARRETT",
+		"State" : "MN",
+		"Latitude" : "+45.902775"
+	},
+	{
+		"Longitude" : "-094.963049",
+		"Zipcode" : "56312",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "BELGRADE",
+		"State" : "MN",
+		"Latitude" : "+45.509715"
+	},
+	{
+		"Longitude" : "-093.552152",
+		"Zipcode" : "56313",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MILLE LACS",
+		"City" : "BOCK",
+		"State" : "MN",
+		"Latitude" : "+45.784462"
+	},
+	{
+		"Longitude" : "-094.422896",
+		"Zipcode" : "56314",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "BOWLUS",
+		"State" : "MN",
+		"Latitude" : "+45.868809"
+	},
+	{
+		"Longitude" : "-095.516619",
+		"Zipcode" : "56315",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "BRANDON",
+		"State" : "MN",
+		"Latitude" : "+45.966435"
+	},
+	{
+		"Longitude" : "-095.056661",
+		"Zipcode" : "56316",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "BROOTEN",
+		"State" : "MN",
+		"Latitude" : "+45.513441"
+	},
+	{
+		"Longitude" : "-094.208731",
+		"Zipcode" : "56317",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "BUCKMAN",
+		"State" : "MN",
+		"Latitude" : "+46.061307"
+	},
+	{
+		"Longitude" : "-094.685781",
+		"Zipcode" : "56318",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "BURTRUM",
+		"State" : "MN",
+		"Latitude" : "+45.865750"
+	},
+	{
+		"Longitude" : "-095.371207",
+		"Zipcode" : "56319",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "CARLOS",
+		"State" : "MN",
+		"Latitude" : "+45.991208"
+	},
+	{
+		"Longitude" : "-094.661654",
+		"Zipcode" : "56320",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "COLD SPRING",
+		"State" : "MN",
+		"Latitude" : "+45.470708"
+	},
+	{
+		"Longitude" : "-094.419941",
+		"Zipcode" : "56321",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEARNS",
+		"City" : "COLLEGEVILLE",
+		"State" : "MN",
+		"Latitude" : "+45.578278"
+	},
+	{
+		"Longitude" : "-095.709642",
+		"Zipcode" : "56323",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "CYRUS",
+		"State" : "MN",
+		"Latitude" : "+45.641425"
+	},
+	{
+		"Longitude" : "-095.918542",
+		"Zipcode" : "56324",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "DALTON",
+		"State" : "MN",
+		"Latitude" : "+46.172907"
+	},
+	{
+		"Longitude" : "-094.946428",
+		"Zipcode" : "56325",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEARNS",
+		"City" : "ELROSA",
+		"State" : "MN",
+		"Latitude" : "+45.563556"
+	},
+	{
+		"Longitude" : "-095.670545",
+		"Zipcode" : "56326",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "EVANSVILLE",
+		"State" : "MN",
+		"Latitude" : "+45.984659"
+	},
+	{
+		"Longitude" : "-095.623944",
+		"Zipcode" : "56327",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "FARWELL",
+		"State" : "MN",
+		"Latitude" : "+45.728746"
+	},
+	{
+		"Longitude" : "-094.546845",
+		"Zipcode" : "56328",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORRISON",
+		"City" : "FLENSBURG",
+		"State" : "MN",
+		"Latitude" : "+45.953341"
+	},
+	{
+		"Longitude" : "-093.914797",
+		"Zipcode" : "56329",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "FOLEY",
+		"State" : "MN",
+		"Latitude" : "+45.691931"
+	},
+	{
+		"Longitude" : "-093.647135",
+		"Zipcode" : "56330",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLE LACS",
+		"City" : "FORESTON",
+		"State" : "MN",
+		"Latitude" : "+45.735675"
+	},
+	{
+		"Longitude" : "-094.660815",
+		"Zipcode" : "56331",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "FREEPORT",
+		"State" : "MN",
+		"Latitude" : "+45.643851"
+	},
+	{
+		"Longitude" : "-095.506622",
+		"Zipcode" : "56332",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "GARFIELD",
+		"State" : "MN",
+		"Latitude" : "+45.984672"
+	},
+	{
+		"Longitude" : "-094.056290",
+		"Zipcode" : "56333",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BENTON",
+		"City" : "GILMAN",
+		"State" : "MN",
+		"Latitude" : "+45.691714"
+	},
+	{
+		"Longitude" : "-095.357347",
+		"Zipcode" : "56334",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "GLENWOOD",
+		"State" : "MN",
+		"Latitude" : "+45.589131"
+	},
+	{
+		"Longitude" : "-094.851494",
+		"Zipcode" : "56335",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEARNS",
+		"City" : "GREENWALD",
+		"State" : "MN",
+		"Latitude" : "+45.597122"
+	},
+	{
+		"Longitude" : "-094.777570",
+		"Zipcode" : "56336",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "GREY EAGLE",
+		"State" : "MN",
+		"Latitude" : "+45.827791"
+	},
+	{
+		"Longitude" : "-093.888513",
+		"Zipcode" : "56338",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "HILLMAN",
+		"State" : "MN",
+		"Latitude" : "+45.990074"
+	},
+	{
+		"Longitude" : "-095.791353",
+		"Zipcode" : "56339",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "HOFFMAN",
+		"State" : "MN",
+		"Latitude" : "+45.836077"
+	},
+	{
+		"Longitude" : "-094.419140",
+		"Zipcode" : "56340",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "HOLDINGFORD",
+		"State" : "MN",
+		"Latitude" : "+45.623632"
+	},
+	{
+		"Longitude" : "-095.541618",
+		"Zipcode" : "56341",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "HOLMES CITY",
+		"State" : "MN",
+		"Latitude" : "+45.830998"
+	},
+	{
+		"Longitude" : "-093.536504",
+		"Zipcode" : "56342",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLE LACS",
+		"City" : "ISLE",
+		"State" : "MN",
+		"Latitude" : "+45.973268"
+	},
+	{
+		"Longitude" : "-095.665241",
+		"Zipcode" : "56343",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "KENSINGTON",
+		"State" : "MN",
+		"Latitude" : "+45.811895"
+	},
+	{
+		"Longitude" : "-094.208731",
+		"Zipcode" : "56344",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "LASTRUP",
+		"State" : "MN",
+		"Latitude" : "+46.061307"
+	},
+	{
+		"Longitude" : "-094.245867",
+		"Zipcode" : "56345",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "LITTLE FALLS",
+		"State" : "MN",
+		"Latitude" : "+45.980055"
+	},
+	{
+		"Longitude" : "-094.815114",
+		"Zipcode" : "56347",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "LONG PRAIRIE",
+		"State" : "MN",
+		"Latitude" : "+45.904136"
+	},
+	{
+		"Longitude" : "-095.540402",
+		"Zipcode" : "56349",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "LOWRY",
+		"State" : "MN",
+		"Latitude" : "+45.715846"
+	},
+	{
+		"Longitude" : "-093.377414",
+		"Zipcode" : "56350",
+		"ZipClass" : "STANDARD",
+		"County" : "AITKIN",
+		"City" : "MC GRATH",
+		"State" : "MN",
+		"Latitude" : "+46.195728"
+	},
+	{
+		"Longitude" : "-094.634556",
+		"Zipcode" : "56352",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "MELROSE",
+		"State" : "MN",
+		"Latitude" : "+45.614071"
+	},
+	{
+		"Longitude" : "-093.620355",
+		"Zipcode" : "56353",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLE LACS",
+		"City" : "MILACA",
+		"State" : "MN",
+		"Latitude" : "+45.903210"
+	},
+	{
+		"Longitude" : "-095.295146",
+		"Zipcode" : "56354",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "MILTONA",
+		"State" : "MN",
+		"Latitude" : "+46.061870"
+	},
+	{
+		"Longitude" : "-095.239750",
+		"Zipcode" : "56355",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "NELSON",
+		"State" : "MN",
+		"Latitude" : "+45.935551"
+	},
+	{
+		"Longitude" : "-094.751937",
+		"Zipcode" : "56356",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEARNS",
+		"City" : "NEW MUNICH",
+		"State" : "MN",
+		"Latitude" : "+45.629740"
+	},
+	{
+		"Longitude" : "-093.816445",
+		"Zipcode" : "56357",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "OAK PARK",
+		"State" : "MN",
+		"Latitude" : "+45.702225"
+	},
+	{
+		"Longitude" : "-093.402621",
+		"Zipcode" : "56358",
+		"ZipClass" : "STANDARD",
+		"County" : "KANABEC",
+		"City" : "OGILVIE",
+		"State" : "MN",
+		"Latitude" : "+45.833199"
+	},
+	{
+		"Longitude" : "-093.663152",
+		"Zipcode" : "56359",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLE LACS",
+		"City" : "ONAMIA",
+		"State" : "MN",
+		"Latitude" : "+45.943108"
+	},
+	{
+		"Longitude" : "-095.237474",
+		"Zipcode" : "56360",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OSAKIS",
+		"State" : "MN",
+		"Latitude" : "+45.871169"
+	},
+	{
+		"Longitude" : "-095.350438",
+		"Zipcode" : "56361",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "PARKERS PRAIRIE",
+		"State" : "MN",
+		"Latitude" : "+46.150334"
+	},
+	{
+		"Longitude" : "-094.734316",
+		"Zipcode" : "56362",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "PAYNESVILLE",
+		"State" : "MN",
+		"Latitude" : "+45.506403"
+	},
+	{
+		"Longitude" : "-093.646503",
+		"Zipcode" : "56363",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLE LACS",
+		"City" : "PEASE",
+		"State" : "MN",
+		"Latitude" : "+45.697362"
+	},
+	{
+		"Longitude" : "-094.123384",
+		"Zipcode" : "56364",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "PIERZ",
+		"State" : "MN",
+		"Latitude" : "+45.994539"
+	},
+	{
+		"Longitude" : "-094.124878",
+		"Zipcode" : "56367",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "RICE",
+		"State" : "MN",
+		"Latitude" : "+45.745866"
+	},
+	{
+		"Longitude" : "-094.536053",
+		"Zipcode" : "56368",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "RICHMOND",
+		"State" : "MN",
+		"Latitude" : "+45.460536"
+	},
+	{
+		"Longitude" : "-094.340582",
+		"Zipcode" : "56369",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEARNS",
+		"City" : "ROCKVILLE",
+		"State" : "MN",
+		"Latitude" : "+45.468679"
+	},
+	{
+		"Longitude" : "-094.633502",
+		"Zipcode" : "56371",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "ROSCOE",
+		"State" : "MN",
+		"Latitude" : "+45.426781"
+	},
+	{
+		"Longitude" : "-094.593338",
+		"Zipcode" : "56372",
+		"ZipClass" : "UNIQUE",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.528860"
+	},
+	{
+		"Longitude" : "-094.161377",
+		"Zipcode" : "56373",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "ROYALTON",
+		"State" : "MN",
+		"Latitude" : "+45.871308"
+	},
+	{
+		"Longitude" : "-094.350962",
+		"Zipcode" : "56374",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAINT JOSEPH",
+		"State" : "MN",
+		"Latitude" : "+45.614235"
+	},
+	{
+		"Longitude" : "-094.380968",
+		"Zipcode" : "56375",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAINT STEPHEN",
+		"State" : "MN",
+		"Latitude" : "+45.587011"
+	},
+	{
+		"Longitude" : "-094.718248",
+		"Zipcode" : "56376",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STEARNS",
+		"City" : "SAINT MARTIN",
+		"State" : "MN",
+		"Latitude" : "+45.489612"
+	},
+	{
+		"Longitude" : "-094.355049",
+		"Zipcode" : "56377",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SARTELL",
+		"State" : "MN",
+		"Latitude" : "+45.573808"
+	},
+	{
+		"Longitude" : "-094.974275",
+		"Zipcode" : "56378",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAUK CENTRE",
+		"State" : "MN",
+		"Latitude" : "+45.638568"
+	},
+	{
+		"Longitude" : "-094.073533",
+		"Zipcode" : "56379",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "SAUK RAPIDS",
+		"State" : "MN",
+		"Latitude" : "+45.654829"
+	},
+	{
+		"Longitude" : "-095.573436",
+		"Zipcode" : "56381",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "STARBUCK",
+		"State" : "MN",
+		"Latitude" : "+45.572758"
+	},
+	{
+		"Longitude" : "-094.540074",
+		"Zipcode" : "56382",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "SWANVILLE",
+		"State" : "MN",
+		"Latitude" : "+45.904382"
+	},
+	{
+		"Longitude" : "-094.565187",
+		"Zipcode" : "56384",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "UPSALA",
+		"State" : "MN",
+		"Latitude" : "+45.804875"
+	},
+	{
+		"Longitude" : "-095.225097",
+		"Zipcode" : "56385",
+		"ZipClass" : "STANDARD",
+		"County" : "POPE",
+		"City" : "VILLARD",
+		"State" : "MN",
+		"Latitude" : "+45.719299"
+	},
+	{
+		"Longitude" : "-093.620235",
+		"Zipcode" : "56386",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLE LACS",
+		"City" : "WAHKON",
+		"State" : "MN",
+		"Latitude" : "+45.989733"
+	},
+	{
+		"Longitude" : "-094.667422",
+		"Zipcode" : "56387",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "WAITE PARK",
+		"State" : "MN",
+		"Latitude" : "+45.510622"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "56388",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "WAITE PARK",
+		"State" : "MN",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-095.082130",
+		"Zipcode" : "56389",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "WEST UNION",
+		"State" : "MN",
+		"Latitude" : "+45.799542"
+	},
+	{
+		"Longitude" : "-094.593338",
+		"Zipcode" : "56393",
+		"ZipClass" : "UNIQUE",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.528860"
+	},
+	{
+		"Longitude" : "-094.593338",
+		"Zipcode" : "56395",
+		"ZipClass" : "UNIQUE",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.528860"
+	},
+	{
+		"Longitude" : "-094.593338",
+		"Zipcode" : "56396",
+		"ZipClass" : "UNIQUE",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.528860"
+	},
+	{
+		"Longitude" : "-094.593338",
+		"Zipcode" : "56397",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.528860"
+	},
+	{
+		"Longitude" : "-094.593338",
+		"Zipcode" : "56398",
+		"ZipClass" : "STANDARD",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.528860"
+	},
+	{
+		"Longitude" : "-094.593338",
+		"Zipcode" : "56399",
+		"ZipClass" : "UNIQUE",
+		"County" : "STEARNS",
+		"City" : "SAINT CLOUD",
+		"State" : "MN",
+		"Latitude" : "+45.528860"
+	},
+	{
+		"Longitude" : "-094.099983",
+		"Zipcode" : "56401",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "BRAINERD",
+		"State" : "MN",
+		"Latitude" : "+46.350195"
+	},
+	{
+		"Longitude" : "-094.196884",
+		"Zipcode" : "56425",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "BAXTER",
+		"State" : "MN",
+		"Latitude" : "+46.373474"
+	},
+	{
+		"Longitude" : "-094.641872",
+		"Zipcode" : "56430",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "AH GWAH CHING",
+		"State" : "MN",
+		"Latitude" : "+46.862332"
+	},
+	{
+		"Longitude" : "-093.430495",
+		"Zipcode" : "56431",
+		"ZipClass" : "STANDARD",
+		"County" : "AITKIN",
+		"City" : "AITKIN",
+		"State" : "MN",
+		"Latitude" : "+46.563605"
+	},
+	{
+		"Longitude" : "-094.726405",
+		"Zipcode" : "56433",
+		"ZipClass" : "STANDARD",
+		"County" : "HUBBARD",
+		"City" : "AKELEY",
+		"State" : "MN",
+		"Latitude" : "+46.987609"
+	},
+	{
+		"Longitude" : "-094.936381",
+		"Zipcode" : "56434",
+		"ZipClass" : "STANDARD",
+		"County" : "WADENA",
+		"City" : "ALDRICH",
+		"State" : "MN",
+		"Latitude" : "+46.379683"
+	},
+	{
+		"Longitude" : "-094.521914",
+		"Zipcode" : "56435",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "BACKUS",
+		"State" : "MN",
+		"Latitude" : "+46.803348"
+	},
+	{
+		"Longitude" : "-094.921064",
+		"Zipcode" : "56436",
+		"ZipClass" : "STANDARD",
+		"County" : "HUBBARD",
+		"City" : "BENEDICT",
+		"State" : "MN",
+		"Latitude" : "+47.108153"
+	},
+	{
+		"Longitude" : "-095.060770",
+		"Zipcode" : "56437",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "BERTHA",
+		"State" : "MN",
+		"Latitude" : "+46.268233"
+	},
+	{
+		"Longitude" : "-094.867727",
+		"Zipcode" : "56438",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "BROWERVILLE",
+		"State" : "MN",
+		"Latitude" : "+46.063955"
+	},
+	{
+		"Longitude" : "-094.950401",
+		"Zipcode" : "56440",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "CLARISSA",
+		"State" : "MN",
+		"Latitude" : "+46.128416"
+	},
+	{
+		"Longitude" : "-093.928197",
+		"Zipcode" : "56441",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "CROSBY",
+		"State" : "MN",
+		"Latitude" : "+46.537059"
+	},
+	{
+		"Longitude" : "-094.112783",
+		"Zipcode" : "56442",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "CROSSLAKE",
+		"State" : "MN",
+		"Latitude" : "+46.677340"
+	},
+	{
+		"Longitude" : "-094.561294",
+		"Zipcode" : "56443",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "CUSHING",
+		"State" : "MN",
+		"Latitude" : "+46.205759"
+	},
+	{
+		"Longitude" : "-093.878493",
+		"Zipcode" : "56444",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "DEERWOOD",
+		"State" : "MN",
+		"Latitude" : "+46.429194"
+	},
+	{
+		"Longitude" : "-094.999490",
+		"Zipcode" : "56446",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "EAGLE BEND",
+		"State" : "MN",
+		"Latitude" : "+46.149778"
+	},
+	{
+		"Longitude" : "-094.117266",
+		"Zipcode" : "56447",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "EMILY",
+		"State" : "MN",
+		"Latitude" : "+46.697119"
+	},
+	{
+		"Longitude" : "-094.040303",
+		"Zipcode" : "56448",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "FIFTY LAKES",
+		"State" : "MN",
+		"Latitude" : "+46.727867"
+	},
+	{
+		"Longitude" : "-094.245167",
+		"Zipcode" : "56449",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "FORT RIPLEY",
+		"State" : "MN",
+		"Latitude" : "+46.200293"
+	},
+	{
+		"Longitude" : "-093.866016",
+		"Zipcode" : "56450",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "GARRISON",
+		"State" : "MN",
+		"Latitude" : "+46.312962"
+	},
+	{
+		"Longitude" : "-094.450641",
+		"Zipcode" : "56452",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "HACKENSACK",
+		"State" : "MN",
+		"Latitude" : "+46.939139"
+	},
+	{
+		"Longitude" : "-094.945126",
+		"Zipcode" : "56453",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "HEWITT",
+		"State" : "MN",
+		"Latitude" : "+46.330157"
+	},
+	{
+		"Longitude" : "-093.978854",
+		"Zipcode" : "56455",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "IRONTON",
+		"State" : "MN",
+		"Latitude" : "+46.477792"
+	},
+	{
+		"Longitude" : "-094.085870",
+		"Zipcode" : "56456",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "JENKINS",
+		"State" : "MN",
+		"Latitude" : "+46.480723"
+	},
+	{
+		"Longitude" : "-094.921064",
+		"Zipcode" : "56458",
+		"ZipClass" : "STANDARD",
+		"County" : "HUBBARD",
+		"City" : "LAKE GEORGE",
+		"State" : "MN",
+		"Latitude" : "+47.108153"
+	},
+	{
+		"Longitude" : "-094.251926",
+		"Zipcode" : "56459",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "LAKE HUBERT",
+		"State" : "MN",
+		"Latitude" : "+46.498749"
+	},
+	{
+		"Longitude" : "-094.921064",
+		"Zipcode" : "56461",
+		"ZipClass" : "STANDARD",
+		"County" : "HUBBARD",
+		"City" : "LAPORTE",
+		"State" : "MN",
+		"Latitude" : "+47.108153"
+	},
+	{
+		"Longitude" : "-094.975221",
+		"Zipcode" : "56464",
+		"ZipClass" : "STANDARD",
+		"County" : "WADENA",
+		"City" : "MENAHGA",
+		"State" : "MN",
+		"Latitude" : "+46.730538"
+	},
+	{
+		"Longitude" : "-094.134385",
+		"Zipcode" : "56465",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "MERRIFIELD",
+		"State" : "MN",
+		"Latitude" : "+46.539308"
+	},
+	{
+		"Longitude" : "-094.563773",
+		"Zipcode" : "56466",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "MOTLEY",
+		"State" : "MN",
+		"Latitude" : "+46.288105"
+	},
+	{
+		"Longitude" : "-094.844112",
+		"Zipcode" : "56467",
+		"ZipClass" : "STANDARD",
+		"County" : "HUBBARD",
+		"City" : "NEVIS",
+		"State" : "MN",
+		"Latitude" : "+46.943360"
+	},
+	{
+		"Longitude" : "-094.237094",
+		"Zipcode" : "56468",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "NISSWA",
+		"State" : "MN",
+		"Latitude" : "+46.401244"
+	},
+	{
+		"Longitude" : "-093.489808",
+		"Zipcode" : "56469",
+		"ZipClass" : "STANDARD",
+		"County" : "AITKIN",
+		"City" : "PALISADE",
+		"State" : "MN",
+		"Latitude" : "+46.712878"
+	},
+	{
+		"Longitude" : "-095.099350",
+		"Zipcode" : "56470",
+		"ZipClass" : "STANDARD",
+		"County" : "HUBBARD",
+		"City" : "PARK RAPIDS",
+		"State" : "MN",
+		"Latitude" : "+46.984699"
+	},
+	{
+		"Longitude" : "-094.235561",
+		"Zipcode" : "56472",
+		"ZipClass" : "STANDARD",
+		"County" : "CROW WING",
+		"City" : "PEQUOT LAKES",
+		"State" : "MN",
+		"Latitude" : "+46.616147"
+	},
+	{
+		"Longitude" : "-094.464381",
+		"Zipcode" : "56473",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "PILLAGER",
+		"State" : "MN",
+		"Latitude" : "+46.693034"
+	},
+	{
+		"Longitude" : "-094.251126",
+		"Zipcode" : "56474",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "PINE RIVER",
+		"State" : "MN",
+		"Latitude" : "+46.712158"
+	},
+	{
+		"Longitude" : "-094.531738",
+		"Zipcode" : "56475",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRISON",
+		"City" : "RANDALL",
+		"State" : "MN",
+		"Latitude" : "+46.105236"
+	},
+	{
+		"Longitude" : "-094.974942",
+		"Zipcode" : "56477",
+		"ZipClass" : "STANDARD",
+		"County" : "WADENA",
+		"City" : "SEBEKA",
+		"State" : "MN",
+		"Latitude" : "+46.652292"
+	},
+	{
+		"Longitude" : "-094.900729",
+		"Zipcode" : "56478",
+		"ZipClass" : "STANDARD",
+		"County" : "WADENA",
+		"City" : "NIMROD",
+		"State" : "MN",
+		"Latitude" : "+46.605266"
+	},
+	{
+		"Longitude" : "-094.934361",
+		"Zipcode" : "56479",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "STAPLES",
+		"State" : "MN",
+		"Latitude" : "+46.250882"
+	},
+	{
+		"Longitude" : "-094.967564",
+		"Zipcode" : "56481",
+		"ZipClass" : "STANDARD",
+		"County" : "WADENA",
+		"City" : "VERNDALE",
+		"State" : "MN",
+		"Latitude" : "+46.506528"
+	},
+	{
+		"Longitude" : "-095.082796",
+		"Zipcode" : "56482",
+		"ZipClass" : "STANDARD",
+		"County" : "WADENA",
+		"City" : "WADENA",
+		"State" : "MN",
+		"Latitude" : "+46.564002"
+	},
+	{
+		"Longitude" : "-094.489824",
+		"Zipcode" : "56484",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "WALKER",
+		"State" : "MN",
+		"Latitude" : "+47.067057"
+	},
+	{
+		"Longitude" : "-095.746871",
+		"Zipcode" : "56501",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "DETROIT LAKES",
+		"State" : "MN",
+		"Latitude" : "+46.834262"
+	},
+	{
+		"Longitude" : "-095.678375",
+		"Zipcode" : "56502",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "DETROIT LAKES",
+		"State" : "MN",
+		"Latitude" : "+46.933961"
+	},
+	{
+		"Longitude" : "-096.597259",
+		"Zipcode" : "56510",
+		"ZipClass" : "STANDARD",
+		"County" : "NORMAN",
+		"City" : "ADA",
+		"State" : "MN",
+		"Latitude" : "+47.325283"
+	},
+	{
+		"Longitude" : "-095.995824",
+		"Zipcode" : "56511",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "AUDUBON",
+		"State" : "MN",
+		"Latitude" : "+46.850852"
+	},
+	{
+		"Longitude" : "-096.506156",
+		"Zipcode" : "56513",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BAKER",
+		"State" : "MN",
+		"Latitude" : "+46.890034"
+	},
+	{
+		"Longitude" : "-096.391637",
+		"Zipcode" : "56514",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BARNESVILLE",
+		"State" : "MN",
+		"Latitude" : "+46.649467"
+	},
+	{
+		"Longitude" : "-095.707485",
+		"Zipcode" : "56515",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "BATTLE LAKE",
+		"State" : "MN",
+		"Latitude" : "+46.294519"
+	},
+	{
+		"Longitude" : "-095.809180",
+		"Zipcode" : "56516",
+		"ZipClass" : "STANDARD",
+		"County" : "MAHNOMEN",
+		"City" : "BEJOU",
+		"State" : "MN",
+		"Latitude" : "+47.325198"
+	},
+	{
+		"Longitude" : "-096.433680",
+		"Zipcode" : "56517",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "BELTRAMI",
+		"State" : "MN",
+		"Latitude" : "+47.801705"
+	},
+	{
+		"Longitude" : "-095.713452",
+		"Zipcode" : "56518",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "BLUFFTON",
+		"State" : "MN",
+		"Latitude" : "+46.412413"
+	},
+	{
+		"Longitude" : "-096.500374",
+		"Zipcode" : "56519",
+		"ZipClass" : "STANDARD",
+		"County" : "NORMAN",
+		"City" : "BORUP",
+		"State" : "MN",
+		"Latitude" : "+47.201971"
+	},
+	{
+		"Longitude" : "-096.500224",
+		"Zipcode" : "56520",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKIN",
+		"City" : "BRECKENRIDGE",
+		"State" : "MN",
+		"Latitude" : "+46.191367"
+	},
+	{
+		"Longitude" : "-095.912192",
+		"Zipcode" : "56521",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "CALLAWAY",
+		"State" : "MN",
+		"Latitude" : "+46.979328"
+	},
+	{
+		"Longitude" : "-096.443327",
+		"Zipcode" : "56522",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKIN",
+		"City" : "CAMPBELL",
+		"State" : "MN",
+		"Latitude" : "+46.140224"
+	},
+	{
+		"Longitude" : "-096.871540",
+		"Zipcode" : "56523",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "CLIMAX",
+		"State" : "MN",
+		"Latitude" : "+47.683698"
+	},
+	{
+		"Longitude" : "-095.630788",
+		"Zipcode" : "56524",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "CLITHERALL",
+		"State" : "MN",
+		"Latitude" : "+46.275667"
+	},
+	{
+		"Longitude" : "-096.506156",
+		"Zipcode" : "56525",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "COMSTOCK",
+		"State" : "MN",
+		"Latitude" : "+46.890034"
+	},
+	{
+		"Longitude" : "-095.318951",
+		"Zipcode" : "56527",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "DEER CREEK",
+		"State" : "MN",
+		"Latitude" : "+46.392933"
+	},
+	{
+		"Longitude" : "-095.728629",
+		"Zipcode" : "56528",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "DENT",
+		"State" : "MN",
+		"Latitude" : "+46.571010"
+	},
+	{
+		"Longitude" : "-096.709806",
+		"Zipcode" : "56529",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "DILWORTH",
+		"State" : "MN",
+		"Latitude" : "+46.877143"
+	},
+	{
+		"Longitude" : "-095.963007",
+		"Zipcode" : "56531",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "ELBOW LAKE",
+		"State" : "MN",
+		"Latitude" : "+45.997662"
+	},
+	{
+		"Longitude" : "-096.132614",
+		"Zipcode" : "56533",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "ELIZABETH",
+		"State" : "MN",
+		"Latitude" : "+46.380324"
+	},
+	{
+		"Longitude" : "-096.097914",
+		"Zipcode" : "56534",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "ERHARD",
+		"State" : "MN",
+		"Latitude" : "+46.483858"
+	},
+	{
+		"Longitude" : "-095.998070",
+		"Zipcode" : "56535",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "ERSKINE",
+		"State" : "MN",
+		"Latitude" : "+47.665688"
+	},
+	{
+		"Longitude" : "-096.503987",
+		"Zipcode" : "56536",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "FELTON",
+		"State" : "MN",
+		"Latitude" : "+47.077246"
+	},
+	{
+		"Longitude" : "-095.657003",
+		"Zipcode" : "56537",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "FERGUS FALLS",
+		"State" : "MN",
+		"Latitude" : "+46.319400"
+	},
+	{
+		"Longitude" : "-095.713452",
+		"Zipcode" : "56538",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "FERGUS FALLS",
+		"State" : "MN",
+		"Latitude" : "+46.412413"
+	},
+	{
+		"Longitude" : "-096.285663",
+		"Zipcode" : "56540",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "FERTILE",
+		"State" : "MN",
+		"Latitude" : "+47.534788"
+	},
+	{
+		"Longitude" : "-096.469194",
+		"Zipcode" : "56541",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NORMAN",
+		"City" : "FLOM",
+		"State" : "MN",
+		"Latitude" : "+47.325074"
+	},
+	{
+		"Longitude" : "-096.270444",
+		"Zipcode" : "56542",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "FOSSTON",
+		"State" : "MN",
+		"Latitude" : "+47.597727"
+	},
+	{
+		"Longitude" : "-096.528032",
+		"Zipcode" : "56543",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKIN",
+		"City" : "FOXHOME",
+		"State" : "MN",
+		"Latitude" : "+46.326166"
+	},
+	{
+		"Longitude" : "-095.579405",
+		"Zipcode" : "56544",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "FRAZEE",
+		"State" : "MN",
+		"Latitude" : "+46.803165"
+	},
+	{
+		"Longitude" : "-096.264276",
+		"Zipcode" : "56545",
+		"ZipClass" : "STANDARD",
+		"County" : "NORMAN",
+		"City" : "GARY",
+		"State" : "MN",
+		"Latitude" : "+47.372863"
+	},
+	{
+		"Longitude" : "-096.506156",
+		"Zipcode" : "56546",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "GEORGETOWN",
+		"State" : "MN",
+		"Latitude" : "+46.890034"
+	},
+	{
+		"Longitude" : "-096.576425",
+		"Zipcode" : "56547",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "GLYNDON",
+		"State" : "MN",
+		"Latitude" : "+46.870695"
+	},
+	{
+		"Longitude" : "-096.823680",
+		"Zipcode" : "56548",
+		"ZipClass" : "STANDARD",
+		"County" : "NORMAN",
+		"City" : "HALSTAD",
+		"State" : "MN",
+		"Latitude" : "+47.350668"
+	},
+	{
+		"Longitude" : "-096.409155",
+		"Zipcode" : "56549",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "HAWLEY",
+		"State" : "MN",
+		"Latitude" : "+46.977738"
+	},
+	{
+		"Longitude" : "-096.811279",
+		"Zipcode" : "56550",
+		"ZipClass" : "STANDARD",
+		"County" : "NORMAN",
+		"City" : "HENDRUM",
+		"State" : "MN",
+		"Latitude" : "+47.263731"
+	},
+	{
+		"Longitude" : "-095.483624",
+		"Zipcode" : "56551",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "HENNING",
+		"State" : "MN",
+		"Latitude" : "+46.293243"
+	},
+	{
+		"Longitude" : "-096.255890",
+		"Zipcode" : "56552",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "HITTERDAL",
+		"State" : "MN",
+		"Latitude" : "+46.972026"
+	},
+	{
+		"Longitude" : "-096.528032",
+		"Zipcode" : "56553",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKIN",
+		"City" : "KENT",
+		"State" : "MN",
+		"Latitude" : "+46.326166"
+	},
+	{
+		"Longitude" : "-096.102425",
+		"Zipcode" : "56554",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "LAKE PARK",
+		"State" : "MN",
+		"Latitude" : "+46.891231"
+	},
+	{
+		"Longitude" : "-095.884768",
+		"Zipcode" : "56556",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "MCINTOSH",
+		"State" : "MN",
+		"Latitude" : "+47.637117"
+	},
+	{
+		"Longitude" : "-095.939586",
+		"Zipcode" : "56557",
+		"ZipClass" : "STANDARD",
+		"County" : "MAHNOMEN",
+		"City" : "MAHNOMEN",
+		"State" : "MN",
+		"Latitude" : "+47.287889"
+	},
+	{
+		"Longitude" : "-096.557389",
+		"Zipcode" : "56560",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MOORHEAD",
+		"State" : "MN",
+		"Latitude" : "+46.803546"
+	},
+	{
+		"Longitude" : "-096.506156",
+		"Zipcode" : "56561",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MOORHEAD",
+		"State" : "MN",
+		"Latitude" : "+46.890034"
+	},
+	{
+		"Longitude" : "-096.506156",
+		"Zipcode" : "56562",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MOORHEAD",
+		"State" : "MN",
+		"Latitude" : "+46.890034"
+	},
+	{
+		"Longitude" : "-096.506156",
+		"Zipcode" : "56563",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MOORHEAD",
+		"State" : "MN",
+		"Latitude" : "+46.890034"
+	},
+	{
+		"Longitude" : "-096.528032",
+		"Zipcode" : "56565",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKIN",
+		"City" : "NASHUA",
+		"State" : "MN",
+		"Latitude" : "+46.326166"
+	},
+	{
+		"Longitude" : "-095.809180",
+		"Zipcode" : "56566",
+		"ZipClass" : "STANDARD",
+		"County" : "MAHNOMEN",
+		"City" : "NAYTAHWAUSH",
+		"State" : "MN",
+		"Latitude" : "+47.325198"
+	},
+	{
+		"Longitude" : "-095.366068",
+		"Zipcode" : "56567",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "NEW YORK MILLS",
+		"State" : "MN",
+		"Latitude" : "+46.491294"
+	},
+	{
+		"Longitude" : "-096.350400",
+		"Zipcode" : "56568",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "NIELSVILLE",
+		"State" : "MN",
+		"Latitude" : "+47.836367"
+	},
+	{
+		"Longitude" : "-095.782254",
+		"Zipcode" : "56569",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "OGEMA",
+		"State" : "MN",
+		"Latitude" : "+47.109140"
+	},
+	{
+		"Longitude" : "-095.362298",
+		"Zipcode" : "56570",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "OSAGE",
+		"State" : "MN",
+		"Latitude" : "+46.923974"
+	},
+	{
+		"Longitude" : "-095.564365",
+		"Zipcode" : "56571",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "OTTERTAIL",
+		"State" : "MN",
+		"Latitude" : "+46.465546"
+	},
+	{
+		"Longitude" : "-096.059669",
+		"Zipcode" : "56572",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "PELICAN RAPIDS",
+		"State" : "MN",
+		"Latitude" : "+46.611549"
+	},
+	{
+		"Longitude" : "-095.822634",
+		"Zipcode" : "56573",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "PERHAM",
+		"State" : "MN",
+		"Latitude" : "+46.597093"
+	},
+	{
+		"Longitude" : "-096.804613",
+		"Zipcode" : "56574",
+		"ZipClass" : "STANDARD",
+		"County" : "NORMAN",
+		"City" : "PERLEY",
+		"State" : "MN",
+		"Latitude" : "+47.177615"
+	},
+	{
+		"Longitude" : "-095.429915",
+		"Zipcode" : "56575",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "PONSFORD",
+		"State" : "MN",
+		"Latitude" : "+47.061724"
+	},
+	{
+		"Longitude" : "-095.792367",
+		"Zipcode" : "56576",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "RICHVILLE",
+		"State" : "MN",
+		"Latitude" : "+46.443365"
+	},
+	{
+		"Longitude" : "-095.678375",
+		"Zipcode" : "56577",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "RICHWOOD",
+		"State" : "MN",
+		"Latitude" : "+46.933961"
+	},
+	{
+		"Longitude" : "-095.724599",
+		"Zipcode" : "56578",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "ROCHERT",
+		"State" : "MN",
+		"Latitude" : "+46.886152"
+	},
+	{
+		"Longitude" : "-096.349085",
+		"Zipcode" : "56579",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKIN",
+		"City" : "ROTHSAY",
+		"State" : "MN",
+		"Latitude" : "+46.529553"
+	},
+	{
+		"Longitude" : "-096.651185",
+		"Zipcode" : "56580",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "SABIN",
+		"State" : "MN",
+		"Latitude" : "+46.779487"
+	},
+	{
+		"Longitude" : "-096.544410",
+		"Zipcode" : "56581",
+		"ZipClass" : "STANDARD",
+		"County" : "NORMAN",
+		"City" : "SHELLY",
+		"State" : "MN",
+		"Latitude" : "+47.320042"
+	},
+	{
+		"Longitude" : "-096.359342",
+		"Zipcode" : "56583",
+		"ZipClass" : "STANDARD",
+		"County" : "TRAVERSE",
+		"City" : "TINTAH",
+		"State" : "MN",
+		"Latitude" : "+46.007415"
+	},
+	{
+		"Longitude" : "-096.182441",
+		"Zipcode" : "56584",
+		"ZipClass" : "STANDARD",
+		"County" : "NORMAN",
+		"City" : "TWIN VALLEY",
+		"State" : "MN",
+		"Latitude" : "+47.271463"
+	},
+	{
+		"Longitude" : "-096.258706",
+		"Zipcode" : "56585",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "ULEN",
+		"State" : "MN",
+		"Latitude" : "+47.066300"
+	},
+	{
+		"Longitude" : "-095.874117",
+		"Zipcode" : "56586",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "UNDERWOOD",
+		"State" : "MN",
+		"Latitude" : "+46.285081"
+	},
+	{
+		"Longitude" : "-095.919355",
+		"Zipcode" : "56587",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "VERGAS",
+		"State" : "MN",
+		"Latitude" : "+46.457968"
+	},
+	{
+		"Longitude" : "-095.713452",
+		"Zipcode" : "56588",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTER TAIL",
+		"City" : "VINING",
+		"State" : "MN",
+		"Latitude" : "+46.412413"
+	},
+	{
+		"Longitude" : "-095.939849",
+		"Zipcode" : "56589",
+		"ZipClass" : "STANDARD",
+		"County" : "MAHNOMEN",
+		"City" : "WAUBUN",
+		"State" : "MN",
+		"Latitude" : "+47.184343"
+	},
+	{
+		"Longitude" : "-096.012359",
+		"Zipcode" : "56590",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "WENDELL",
+		"State" : "MN",
+		"Latitude" : "+45.934055"
+	},
+	{
+		"Longitude" : "-095.678375",
+		"Zipcode" : "56591",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BECKER",
+		"City" : "WHITE EARTH",
+		"State" : "MN",
+		"Latitude" : "+46.933961"
+	},
+	{
+		"Longitude" : "-095.889453",
+		"Zipcode" : "56592",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "WINGER",
+		"State" : "MN",
+		"Latitude" : "+47.631462"
+	},
+	{
+		"Longitude" : "-095.391968",
+		"Zipcode" : "56593",
+		"ZipClass" : "STANDARD",
+		"County" : "BECKER",
+		"City" : "WOLF LAKE",
+		"State" : "MN",
+		"Latitude" : "+46.821648"
+	},
+	{
+		"Longitude" : "-096.528032",
+		"Zipcode" : "56594",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKIN",
+		"City" : "WOLVERTON",
+		"State" : "MN",
+		"Latitude" : "+46.326166"
+	},
+	{
+		"Longitude" : "-094.801272",
+		"Zipcode" : "56601",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "BEMIDJI",
+		"State" : "MN",
+		"Latitude" : "+47.571964"
+	},
+	{
+		"Longitude" : "-094.822154",
+		"Zipcode" : "56619",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "BEMIDJI",
+		"State" : "MN",
+		"Latitude" : "+47.625699"
+	},
+	{
+		"Longitude" : "-095.377949",
+		"Zipcode" : "56621",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "BAGLEY",
+		"State" : "MN",
+		"Latitude" : "+47.531644"
+	},
+	{
+		"Longitude" : "-094.846260",
+		"Zipcode" : "56623",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE OF THE WOODS",
+		"City" : "BAUDETTE",
+		"State" : "MN",
+		"Latitude" : "+48.750473"
+	},
+	{
+		"Longitude" : "-094.251376",
+		"Zipcode" : "56626",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "BENA",
+		"State" : "MN",
+		"Latitude" : "+47.370372"
+	},
+	{
+		"Longitude" : "-093.816060",
+		"Zipcode" : "56627",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOCHICHING",
+		"City" : "BIG FALLS",
+		"State" : "MN",
+		"Latitude" : "+48.091615"
+	},
+	{
+		"Longitude" : "-093.612694",
+		"Zipcode" : "56628",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "BIGFORK",
+		"State" : "MN",
+		"Latitude" : "+47.710353"
+	},
+	{
+		"Longitude" : "-094.063580",
+		"Zipcode" : "56629",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KOOCHICHING",
+		"City" : "BIRCHDALE",
+		"State" : "MN",
+		"Latitude" : "+48.642546"
+	},
+	{
+		"Longitude" : "-094.575871",
+		"Zipcode" : "56630",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "BLACKDUCK",
+		"State" : "MN",
+		"Latitude" : "+47.804493"
+	},
+	{
+		"Longitude" : "-093.921429",
+		"Zipcode" : "56631",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ITASCA",
+		"City" : "BOWSTRING",
+		"State" : "MN",
+		"Latitude" : "+47.087782"
+	},
+	{
+		"Longitude" : "-094.476853",
+		"Zipcode" : "56633",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "CASS LAKE",
+		"State" : "MN",
+		"Latitude" : "+47.327719"
+	},
+	{
+		"Longitude" : "-095.421104",
+		"Zipcode" : "56634",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "CLEARBROOK",
+		"State" : "MN",
+		"Latitude" : "+47.610498"
+	},
+	{
+		"Longitude" : "-093.810949",
+		"Zipcode" : "56636",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "DEER RIVER",
+		"State" : "MN",
+		"Latitude" : "+47.468430"
+	},
+	{
+		"Longitude" : "-093.837811",
+		"Zipcode" : "56637",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "TALMOON",
+		"State" : "MN",
+		"Latitude" : "+47.615375"
+	},
+	{
+		"Longitude" : "-093.524252",
+		"Zipcode" : "56639",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "EFFIE",
+		"State" : "MN",
+		"Latitude" : "+47.852226"
+	},
+	{
+		"Longitude" : "-094.263384",
+		"Zipcode" : "56641",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "FEDERAL DAM",
+		"State" : "MN",
+		"Latitude" : "+47.206552"
+	},
+	{
+		"Longitude" : "-095.470782",
+		"Zipcode" : "56644",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "GONVICK",
+		"State" : "MN",
+		"Latitude" : "+47.715406"
+	},
+	{
+		"Longitude" : "-096.350400",
+		"Zipcode" : "56646",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "GULLY",
+		"State" : "MN",
+		"Latitude" : "+47.836367"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56647",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "HINES",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-093.640382",
+		"Zipcode" : "56649",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOCHICHING",
+		"City" : "INTERNATIONAL FALLS",
+		"State" : "MN",
+		"Latitude" : "+48.232494"
+	},
+	{
+		"Longitude" : "-094.450010",
+		"Zipcode" : "56650",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "KELLIHER",
+		"State" : "MN",
+		"Latitude" : "+47.940789"
+	},
+	{
+		"Longitude" : "-096.350400",
+		"Zipcode" : "56651",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "LENGBY",
+		"State" : "MN",
+		"Latitude" : "+47.836367"
+	},
+	{
+		"Longitude" : "-095.375974",
+		"Zipcode" : "56652",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "LEONARD",
+		"State" : "MN",
+		"Latitude" : "+47.585873"
+	},
+	{
+		"Longitude" : "-093.612836",
+		"Zipcode" : "56653",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOCHICHING",
+		"City" : "LITTLEFORK",
+		"State" : "MN",
+		"Latitude" : "+48.357144"
+	},
+	{
+		"Longitude" : "-093.840769",
+		"Zipcode" : "56654",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOCHICHING",
+		"City" : "LOMAN",
+		"State" : "MN",
+		"Latitude" : "+48.538803"
+	},
+	{
+		"Longitude" : "-094.243551",
+		"Zipcode" : "56655",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "LONGVILLE",
+		"State" : "MN",
+		"Latitude" : "+46.994097"
+	},
+	{
+		"Longitude" : "-093.623560",
+		"Zipcode" : "56657",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "MARCELL",
+		"State" : "MN",
+		"Latitude" : "+47.548518"
+	},
+	{
+		"Longitude" : "-093.755536",
+		"Zipcode" : "56658",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOCHICHING",
+		"City" : "MARGIE",
+		"State" : "MN",
+		"Latitude" : "+48.278880"
+	},
+	{
+		"Longitude" : "-094.015607",
+		"Zipcode" : "56659",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "MAX",
+		"State" : "MN",
+		"Latitude" : "+47.661759"
+	},
+	{
+		"Longitude" : "-094.236930",
+		"Zipcode" : "56660",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOCHICHING",
+		"City" : "MIZPAH",
+		"State" : "MN",
+		"Latitude" : "+47.933964"
+	},
+	{
+		"Longitude" : "-094.097415",
+		"Zipcode" : "56661",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOCHICHING",
+		"City" : "NORTHOME",
+		"State" : "MN",
+		"Latitude" : "+47.919215"
+	},
+	{
+		"Longitude" : "-093.918172",
+		"Zipcode" : "56662",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "OUTING",
+		"State" : "MN",
+		"Latitude" : "+46.879043"
+	},
+	{
+		"Longitude" : "-094.471485",
+		"Zipcode" : "56663",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "PENNINGTON",
+		"State" : "MN",
+		"Latitude" : "+47.448274"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56666",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BELTRAMI",
+		"City" : "PONEMAH",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56667",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "PUPOSKY",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-093.297710",
+		"Zipcode" : "56668",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KOOCHICHING",
+		"City" : "RANIER",
+		"State" : "MN",
+		"Latitude" : "+48.603143"
+	},
+	{
+		"Longitude" : "-093.310667",
+		"Zipcode" : "56669",
+		"ZipClass" : "STANDARD",
+		"County" : "KOOCHICHING",
+		"City" : "RAY",
+		"State" : "MN",
+		"Latitude" : "+48.394721"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56670",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BELTRAMI",
+		"City" : "REDBY",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56671",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BELTRAMI",
+		"City" : "REDLAKE",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-094.021032",
+		"Zipcode" : "56672",
+		"ZipClass" : "STANDARD",
+		"County" : "CASS",
+		"City" : "REMER",
+		"State" : "MN",
+		"Latitude" : "+47.095793"
+	},
+	{
+		"Longitude" : "-095.747559",
+		"Zipcode" : "56673",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "ROOSEVELT",
+		"State" : "MN",
+		"Latitude" : "+48.769244"
+	},
+	{
+		"Longitude" : "-095.375974",
+		"Zipcode" : "56676",
+		"ZipClass" : "STANDARD",
+		"County" : "CLEARWATER",
+		"City" : "SHEVLIN",
+		"State" : "MN",
+		"Latitude" : "+47.585873"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56678",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "SOLWAY",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-093.755536",
+		"Zipcode" : "56679",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KOOCHICHING",
+		"City" : "SOUTH INTERNATIONAL FALLS",
+		"State" : "MN",
+		"Latitude" : "+48.278880"
+	},
+	{
+		"Longitude" : "-093.922032",
+		"Zipcode" : "56680",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "SPRING LAKE",
+		"State" : "MN",
+		"Latitude" : "+47.635946"
+	},
+	{
+		"Longitude" : "-094.187735",
+		"Zipcode" : "56681",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "SQUAW LAKE",
+		"State" : "MN",
+		"Latitude" : "+47.624415"
+	},
+	{
+		"Longitude" : "-095.747559",
+		"Zipcode" : "56682",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "SWIFT",
+		"State" : "MN",
+		"Latitude" : "+48.769244"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56683",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "TENSTRIKE",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-096.350400",
+		"Zipcode" : "56684",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "TRAIL",
+		"State" : "MN",
+		"Latitude" : "+47.836367"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56685",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "WASKISH",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-094.933138",
+		"Zipcode" : "56686",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE OF THE WOODS",
+		"City" : "WILLIAMS",
+		"State" : "MN",
+		"Latitude" : "+48.820843"
+	},
+	{
+		"Longitude" : "-095.008708",
+		"Zipcode" : "56687",
+		"ZipClass" : "STANDARD",
+		"County" : "BELTRAMI",
+		"City" : "WILTON",
+		"State" : "MN",
+		"Latitude" : "+47.974989"
+	},
+	{
+		"Longitude" : "-093.962961",
+		"Zipcode" : "56688",
+		"ZipClass" : "STANDARD",
+		"County" : "ITASCA",
+		"City" : "WIRT",
+		"State" : "MN",
+		"Latitude" : "+47.746177"
+	},
+	{
+		"Longitude" : "-096.149002",
+		"Zipcode" : "56701",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "THIEF RIVER FALLS",
+		"State" : "MN",
+		"Latitude" : "+48.076333"
+	},
+	{
+		"Longitude" : "-096.998433",
+		"Zipcode" : "56710",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "ALVARADO",
+		"State" : "MN",
+		"Latitude" : "+48.191085"
+	},
+	{
+		"Longitude" : "-094.885668",
+		"Zipcode" : "56711",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE OF THE WOODS",
+		"City" : "ANGLE INLET",
+		"State" : "MN",
+		"Latitude" : "+48.875164"
+	},
+	{
+		"Longitude" : "-096.350400",
+		"Zipcode" : "56712",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "ANGUS",
+		"State" : "MN",
+		"Latitude" : "+47.836367"
+	},
+	{
+		"Longitude" : "-096.816197",
+		"Zipcode" : "56713",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "ARGYLE",
+		"State" : "MN",
+		"Latitude" : "+48.331455"
+	},
+	{
+		"Longitude" : "-096.020334",
+		"Zipcode" : "56714",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "BADGER",
+		"State" : "MN",
+		"Latitude" : "+48.774428"
+	},
+	{
+		"Longitude" : "-096.005263",
+		"Zipcode" : "56715",
+		"ZipClass" : "STANDARD",
+		"County" : "RED LAKE",
+		"City" : "BROOKS",
+		"State" : "MN",
+		"Latitude" : "+47.814152"
+	},
+	{
+		"Longitude" : "-096.412000",
+		"Zipcode" : "56716",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "CROOKSTON",
+		"State" : "MN",
+		"Latitude" : "+47.705082"
+	},
+	{
+		"Longitude" : "-096.812921",
+		"Zipcode" : "56720",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITTSON",
+		"City" : "DONALDSON",
+		"State" : "MN",
+		"Latitude" : "+48.771938"
+	},
+	{
+		"Longitude" : "-096.924085",
+		"Zipcode" : "56721",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "EAST GRAND FORKS",
+		"State" : "MN",
+		"Latitude" : "+47.874048"
+	},
+	{
+		"Longitude" : "-096.350400",
+		"Zipcode" : "56722",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "EUCLID",
+		"State" : "MN",
+		"Latitude" : "+47.836367"
+	},
+	{
+		"Longitude" : "-096.798532",
+		"Zipcode" : "56723",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "FISHER",
+		"State" : "MN",
+		"Latitude" : "+47.799949"
+	},
+	{
+		"Longitude" : "-096.378062",
+		"Zipcode" : "56724",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "GATZKE",
+		"State" : "MN",
+		"Latitude" : "+48.358371"
+	},
+	{
+		"Longitude" : "-095.804345",
+		"Zipcode" : "56725",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "GOODRIDGE",
+		"State" : "MN",
+		"Latitude" : "+48.144158"
+	},
+	{
+		"Longitude" : "-096.286287",
+		"Zipcode" : "56726",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "GREENBUSH",
+		"State" : "MN",
+		"Latitude" : "+48.834783"
+	},
+	{
+		"Longitude" : "-096.378062",
+		"Zipcode" : "56727",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "GRYGLA",
+		"State" : "MN",
+		"Latitude" : "+48.358371"
+	},
+	{
+		"Longitude" : "-096.942022",
+		"Zipcode" : "56728",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTSON",
+		"City" : "HALLOCK",
+		"State" : "MN",
+		"Latitude" : "+48.774787"
+	},
+	{
+		"Longitude" : "-096.812921",
+		"Zipcode" : "56729",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTSON",
+		"City" : "HALMA",
+		"State" : "MN",
+		"Latitude" : "+48.771938"
+	},
+	{
+		"Longitude" : "-096.812921",
+		"Zipcode" : "56731",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KITTSON",
+		"City" : "HUMBOLDT",
+		"State" : "MN",
+		"Latitude" : "+48.771938"
+	},
+	{
+		"Longitude" : "-096.532660",
+		"Zipcode" : "56732",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTSON",
+		"City" : "KARLSTAD",
+		"State" : "MN",
+		"Latitude" : "+48.565003"
+	},
+	{
+		"Longitude" : "-096.914605",
+		"Zipcode" : "56733",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTSON",
+		"City" : "KENNEDY",
+		"State" : "MN",
+		"Latitude" : "+48.643714"
+	},
+	{
+		"Longitude" : "-096.812921",
+		"Zipcode" : "56734",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTSON",
+		"City" : "LAKE BRONSON",
+		"State" : "MN",
+		"Latitude" : "+48.771938"
+	},
+	{
+		"Longitude" : "-096.812921",
+		"Zipcode" : "56735",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTSON",
+		"City" : "LANCASTER",
+		"State" : "MN",
+		"Latitude" : "+48.771938"
+	},
+	{
+		"Longitude" : "-096.154311",
+		"Zipcode" : "56736",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "MENTOR",
+		"State" : "MN",
+		"Latitude" : "+47.681728"
+	},
+	{
+		"Longitude" : "-096.513779",
+		"Zipcode" : "56737",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "MIDDLE RIVER",
+		"State" : "MN",
+		"Latitude" : "+48.438104"
+	},
+	{
+		"Longitude" : "-096.378062",
+		"Zipcode" : "56738",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "NEWFOLDEN",
+		"State" : "MN",
+		"Latitude" : "+48.358371"
+	},
+	{
+		"Longitude" : "-096.812921",
+		"Zipcode" : "56740",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTSON",
+		"City" : "NOYES",
+		"State" : "MN",
+		"Latitude" : "+48.771938"
+	},
+	{
+		"Longitude" : "-094.885668",
+		"Zipcode" : "56741",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE OF THE WOODS",
+		"City" : "OAK ISLAND",
+		"State" : "MN",
+		"Latitude" : "+48.875164"
+	},
+	{
+		"Longitude" : "-095.853261",
+		"Zipcode" : "56742",
+		"ZipClass" : "STANDARD",
+		"County" : "RED LAKE",
+		"City" : "OKLEE",
+		"State" : "MN",
+		"Latitude" : "+47.838345"
+	},
+	{
+		"Longitude" : "-097.130755",
+		"Zipcode" : "56744",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "OSLO",
+		"State" : "MN",
+		"Latitude" : "+48.199410"
+	},
+	{
+		"Longitude" : "-096.095883",
+		"Zipcode" : "56748",
+		"ZipClass" : "STANDARD",
+		"County" : "RED LAKE",
+		"City" : "PLUMMER",
+		"State" : "MN",
+		"Latitude" : "+47.862170"
+	},
+	{
+		"Longitude" : "-096.270368",
+		"Zipcode" : "56750",
+		"ZipClass" : "STANDARD",
+		"County" : "RED LAKE",
+		"City" : "RED LAKE FALLS",
+		"State" : "MN",
+		"Latitude" : "+47.885347"
+	},
+	{
+		"Longitude" : "-095.750383",
+		"Zipcode" : "56751",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "ROSEAU",
+		"State" : "MN",
+		"Latitude" : "+48.704839"
+	},
+	{
+		"Longitude" : "-096.213472",
+		"Zipcode" : "56754",
+		"ZipClass" : "STANDARD",
+		"County" : "PENNINGTON",
+		"City" : "SAINT HILAIRE",
+		"State" : "MN",
+		"Latitude" : "+48.014969"
+	},
+	{
+		"Longitude" : "-097.092442",
+		"Zipcode" : "56755",
+		"ZipClass" : "STANDARD",
+		"County" : "KITTSON",
+		"City" : "SAINT VINCENT",
+		"State" : "MN",
+		"Latitude" : "+48.871994"
+	},
+	{
+		"Longitude" : "-095.747559",
+		"Zipcode" : "56756",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "SALOL",
+		"State" : "MN",
+		"Latitude" : "+48.769244"
+	},
+	{
+		"Longitude" : "-096.867548",
+		"Zipcode" : "56757",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "STEPHEN",
+		"State" : "MN",
+		"Latitude" : "+48.477158"
+	},
+	{
+		"Longitude" : "-096.378062",
+		"Zipcode" : "56758",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "STRANDQUIST",
+		"State" : "MN",
+		"Latitude" : "+48.358371"
+	},
+	{
+		"Longitude" : "-096.062783",
+		"Zipcode" : "56759",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "STRATHCONA",
+		"State" : "MN",
+		"Latitude" : "+48.749138"
+	},
+	{
+		"Longitude" : "-096.378062",
+		"Zipcode" : "56760",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "VIKING",
+		"State" : "MN",
+		"Latitude" : "+48.358371"
+	},
+	{
+		"Longitude" : "-095.747559",
+		"Zipcode" : "56761",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "WANNASKA",
+		"State" : "MN",
+		"Latitude" : "+48.769244"
+	},
+	{
+		"Longitude" : "-096.772583",
+		"Zipcode" : "56762",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "WARREN",
+		"State" : "MN",
+		"Latitude" : "+48.261376"
+	},
+	{
+		"Longitude" : "-095.250324",
+		"Zipcode" : "56763",
+		"ZipClass" : "STANDARD",
+		"County" : "ROSEAU",
+		"City" : "WARROAD",
+		"State" : "MN",
+		"Latitude" : "+48.900663"
+	}
+]}

@@ -1,0 +1,9147 @@
+{
+	"result":[
+	{
+		"Longitude" : "-085.090374",
+		"Zipcode" : "40003",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "BAGDAD",
+		"State" : "KY",
+		"Latitude" : "+38.274456"
+	},
+	{
+		"Longitude" : "-085.466944",
+		"Zipcode" : "40004",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "BARDSTOWN",
+		"State" : "KY",
+		"Latitude" : "+37.822585"
+	},
+	{
+		"Longitude" : "-085.329441",
+		"Zipcode" : "40006",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIMBLE",
+		"City" : "BEDFORD",
+		"State" : "KY",
+		"Latitude" : "+38.603011"
+	},
+	{
+		"Longitude" : "-085.016907",
+		"Zipcode" : "40007",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "BETHLEHEM",
+		"State" : "KY",
+		"Latitude" : "+38.452892"
+	},
+	{
+		"Longitude" : "-085.327083",
+		"Zipcode" : "40008",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "BLOOMFIELD",
+		"State" : "KY",
+		"Latitude" : "+37.826549"
+	},
+	{
+		"Longitude" : "-085.107213",
+		"Zipcode" : "40009",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "BRADFORDSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.504057"
+	},
+	{
+		"Longitude" : "-085.445840",
+		"Zipcode" : "40010",
+		"ZipClass" : "STANDARD",
+		"County" : "OLDHAM",
+		"City" : "BUCKNER",
+		"State" : "KY",
+		"Latitude" : "+38.389195"
+	},
+	{
+		"Longitude" : "-085.132315",
+		"Zipcode" : "40011",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "CAMPBELLSBURG",
+		"State" : "KY",
+		"Latitude" : "+38.458070"
+	},
+	{
+		"Longitude" : "-085.191533",
+		"Zipcode" : "40012",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "CHAPLIN",
+		"State" : "KY",
+		"Latitude" : "+37.903151"
+	},
+	{
+		"Longitude" : "-085.465785",
+		"Zipcode" : "40013",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "COXS CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.912465"
+	},
+	{
+		"Longitude" : "-085.446974",
+		"Zipcode" : "40014",
+		"ZipClass" : "STANDARD",
+		"County" : "OLDHAM",
+		"City" : "CRESTWOOD",
+		"State" : "KY",
+		"Latitude" : "+38.358083"
+	},
+	{
+		"Longitude" : "-085.663040",
+		"Zipcode" : "40018",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "EASTWOOD",
+		"State" : "KY",
+		"Latitude" : "+38.229770"
+	},
+	{
+		"Longitude" : "-085.171224",
+		"Zipcode" : "40019",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "EMINENCE",
+		"State" : "KY",
+		"Latitude" : "+38.416293"
+	},
+	{
+		"Longitude" : "-085.386242",
+		"Zipcode" : "40020",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NELSON",
+		"City" : "FAIRFIELD",
+		"State" : "KY",
+		"Latitude" : "+37.933981"
+	},
+	{
+		"Longitude" : "-085.340174",
+		"Zipcode" : "40022",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "FINCHVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.154830"
+	},
+	{
+		"Longitude" : "-085.446269",
+		"Zipcode" : "40023",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "FISHERVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188936"
+	},
+	{
+		"Longitude" : "-085.643359",
+		"Zipcode" : "40025",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "GLENVIEW",
+		"State" : "KY",
+		"Latitude" : "+38.309597"
+	},
+	{
+		"Longitude" : "-085.527464",
+		"Zipcode" : "40026",
+		"ZipClass" : "STANDARD",
+		"County" : "OLDHAM",
+		"City" : "GOSHEN",
+		"State" : "KY",
+		"Latitude" : "+38.412346"
+	},
+	{
+		"Longitude" : "-085.632990",
+		"Zipcode" : "40027",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "HARRODS CREEK",
+		"State" : "KY",
+		"Latitude" : "+38.329718"
+	},
+	{
+		"Longitude" : "-085.454359",
+		"Zipcode" : "40031",
+		"ZipClass" : "STANDARD",
+		"County" : "OLDHAM",
+		"City" : "LA GRANGE",
+		"State" : "KY",
+		"Latitude" : "+38.423186"
+	},
+	{
+		"Longitude" : "-085.460504",
+		"Zipcode" : "40032",
+		"ZipClass" : "UNIQUE",
+		"County" : "OLDHAM",
+		"City" : "LA GRANGE",
+		"State" : "KY",
+		"Latitude" : "+38.404640"
+	},
+	{
+		"Longitude" : "-085.256025",
+		"Zipcode" : "40033",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "LEBANON",
+		"State" : "KY",
+		"Latitude" : "+37.541558"
+	},
+	{
+		"Longitude" : "-084.988603",
+		"Zipcode" : "40036",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "LOCKPORT",
+		"State" : "KY",
+		"Latitude" : "+38.455714"
+	},
+	{
+		"Longitude" : "-085.417876",
+		"Zipcode" : "40037",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "LORETTO",
+		"State" : "KY",
+		"Latitude" : "+37.647483"
+	},
+	{
+		"Longitude" : "-085.059008",
+		"Zipcode" : "40040",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MACKVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.756812"
+	},
+	{
+		"Longitude" : "-085.662215",
+		"Zipcode" : "40041",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "MASONIC HOME",
+		"State" : "KY",
+		"Latitude" : "+38.253610"
+	},
+	{
+		"Longitude" : "-085.378762",
+		"Zipcode" : "40045",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIMBLE",
+		"City" : "MILTON",
+		"State" : "KY",
+		"Latitude" : "+38.687402"
+	},
+	{
+		"Longitude" : "-085.181188",
+		"Zipcode" : "40046",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "MOUNT EDEN",
+		"State" : "KY",
+		"Latitude" : "+38.019718"
+	},
+	{
+		"Longitude" : "-085.581303",
+		"Zipcode" : "40047",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLITT",
+		"City" : "MOUNT WASHINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.041410"
+	},
+	{
+		"Longitude" : "-085.446710",
+		"Zipcode" : "40048",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NELSON",
+		"City" : "NAZARETH",
+		"State" : "KY",
+		"Latitude" : "+37.756941"
+	},
+	{
+		"Longitude" : "-085.393204",
+		"Zipcode" : "40049",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "NERINX",
+		"State" : "KY",
+		"Latitude" : "+37.660251"
+	},
+	{
+		"Longitude" : "-085.187060",
+		"Zipcode" : "40050",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "NEW CASTLE",
+		"State" : "KY",
+		"Latitude" : "+38.427404"
+	},
+	{
+		"Longitude" : "-085.547037",
+		"Zipcode" : "40051",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "NEW HAVEN",
+		"State" : "KY",
+		"Latitude" : "+37.643761"
+	},
+	{
+		"Longitude" : "-085.516424",
+		"Zipcode" : "40052",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "NEW HOPE",
+		"State" : "KY",
+		"Latitude" : "+37.602081"
+	},
+	{
+		"Longitude" : "-085.300936",
+		"Zipcode" : "40055",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "PENDLETON",
+		"State" : "KY",
+		"Latitude" : "+38.473652"
+	},
+	{
+		"Longitude" : "-085.485175",
+		"Zipcode" : "40056",
+		"ZipClass" : "STANDARD",
+		"County" : "OLDHAM",
+		"City" : "PEWEE VALLEY",
+		"State" : "KY",
+		"Latitude" : "+38.303255"
+	},
+	{
+		"Longitude" : "-085.032581",
+		"Zipcode" : "40057",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "PLEASUREVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.431413"
+	},
+	{
+		"Longitude" : "-085.124192",
+		"Zipcode" : "40058",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENRY",
+		"City" : "PORT ROYAL",
+		"State" : "KY",
+		"Latitude" : "+38.494055"
+	},
+	{
+		"Longitude" : "-085.598451",
+		"Zipcode" : "40059",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PROSPECT",
+		"State" : "KY",
+		"Latitude" : "+38.341558"
+	},
+	{
+		"Longitude" : "-085.429061",
+		"Zipcode" : "40060",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "RAYWICK",
+		"State" : "KY",
+		"Latitude" : "+37.533664"
+	},
+	{
+		"Longitude" : "-085.201068",
+		"Zipcode" : "40061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "SAINT CATHARINE",
+		"State" : "KY",
+		"Latitude" : "+37.773962"
+	},
+	{
+		"Longitude" : "-085.425149",
+		"Zipcode" : "40062",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SAINT FRANCIS",
+		"State" : "KY",
+		"Latitude" : "+37.604695"
+	},
+	{
+		"Longitude" : "-085.355132",
+		"Zipcode" : "40063",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "SAINT MARY",
+		"State" : "KY",
+		"Latitude" : "+37.579519"
+	},
+	{
+		"Longitude" : "-085.172072",
+		"Zipcode" : "40065",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "SHELBYVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.222445"
+	},
+	{
+		"Longitude" : "-085.212156",
+		"Zipcode" : "40066",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "SHELBYVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.197268"
+	},
+	{
+		"Longitude" : "-085.360625",
+		"Zipcode" : "40067",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "SIMPSONVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.223861"
+	},
+	{
+		"Longitude" : "-085.267223",
+		"Zipcode" : "40068",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "SMITHFIELD",
+		"State" : "KY",
+		"Latitude" : "+38.408032"
+	},
+	{
+		"Longitude" : "-085.210650",
+		"Zipcode" : "40069",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SPRINGFIELD",
+		"State" : "KY",
+		"Latitude" : "+37.734249"
+	},
+	{
+		"Longitude" : "-085.248914",
+		"Zipcode" : "40070",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "SULPHUR",
+		"State" : "KY",
+		"Latitude" : "+38.476096"
+	},
+	{
+		"Longitude" : "-085.366055",
+		"Zipcode" : "40071",
+		"ZipClass" : "STANDARD",
+		"County" : "SPENCER",
+		"City" : "TAYLORSVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.032735"
+	},
+	{
+		"Longitude" : "-085.101879",
+		"Zipcode" : "40075",
+		"ZipClass" : "STANDARD",
+		"County" : "HENRY",
+		"City" : "TURNERS STATION",
+		"State" : "KY",
+		"Latitude" : "+38.552133"
+	},
+	{
+		"Longitude" : "-085.103096",
+		"Zipcode" : "40076",
+		"ZipClass" : "STANDARD",
+		"County" : "SHELBY",
+		"City" : "WADDY",
+		"State" : "KY",
+		"Latitude" : "+38.122662"
+	},
+	{
+		"Longitude" : "-085.424726",
+		"Zipcode" : "40077",
+		"ZipClass" : "STANDARD",
+		"County" : "OLDHAM",
+		"City" : "WESTPORT",
+		"State" : "KY",
+		"Latitude" : "+38.491635"
+	},
+	{
+		"Longitude" : "-085.128804",
+		"Zipcode" : "40078",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WILLISBURG",
+		"State" : "KY",
+		"Latitude" : "+37.843697"
+	},
+	{
+		"Longitude" : "-086.345301",
+		"Zipcode" : "40104",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "BATTLETOWN",
+		"State" : "KY",
+		"Latitude" : "+38.093864"
+	},
+	{
+		"Longitude" : "-085.594790",
+		"Zipcode" : "40107",
+		"ZipClass" : "STANDARD",
+		"County" : "NELSON",
+		"City" : "BOSTON",
+		"State" : "KY",
+		"Latitude" : "+37.740827"
+	},
+	{
+		"Longitude" : "-086.179546",
+		"Zipcode" : "40108",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "BRANDENBURG",
+		"State" : "KY",
+		"Latitude" : "+37.975520"
+	},
+	{
+		"Longitude" : "-085.755592",
+		"Zipcode" : "40109",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLITT",
+		"City" : "BROOKS",
+		"State" : "KY",
+		"Latitude" : "+38.051236"
+	},
+	{
+		"Longitude" : "-085.655450",
+		"Zipcode" : "40110",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BULLITT",
+		"City" : "CLERMONT",
+		"State" : "KY",
+		"Latitude" : "+37.934620"
+	},
+	{
+		"Longitude" : "-086.463591",
+		"Zipcode" : "40111",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "CLOVERPORT",
+		"State" : "KY",
+		"Latitude" : "+37.847839"
+	},
+	{
+		"Longitude" : "-086.237827",
+		"Zipcode" : "40115",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "CUSTER",
+		"State" : "KY",
+		"Latitude" : "+37.735817"
+	},
+	{
+		"Longitude" : "-086.115209",
+		"Zipcode" : "40117",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "EKRON",
+		"State" : "KY",
+		"Latitude" : "+37.884962"
+	},
+	{
+		"Longitude" : "-085.758416",
+		"Zipcode" : "40118",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "FAIRDALE",
+		"State" : "KY",
+		"Latitude" : "+38.096526"
+	},
+	{
+		"Longitude" : "-086.483592",
+		"Zipcode" : "40119",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYSON",
+		"City" : "FALLS OF ROUGH",
+		"State" : "KY",
+		"Latitude" : "+37.552184"
+	},
+	{
+		"Longitude" : "-085.952833",
+		"Zipcode" : "40121",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "FORT KNOX",
+		"State" : "KY",
+		"Latitude" : "+37.899466"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "40129",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BULLITT",
+		"City" : "HILLVIEW",
+		"State" : "KY",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-086.414768",
+		"Zipcode" : "40140",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "GARFIELD",
+		"State" : "KY",
+		"Latitude" : "+37.802295"
+	},
+	{
+		"Longitude" : "-086.199842",
+		"Zipcode" : "40142",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "GUSTON",
+		"State" : "KY",
+		"Latitude" : "+37.889946"
+	},
+	{
+		"Longitude" : "-086.453710",
+		"Zipcode" : "40143",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "HARDINSBURG",
+		"State" : "KY",
+		"Latitude" : "+37.751214"
+	},
+	{
+		"Longitude" : "-086.414768",
+		"Zipcode" : "40144",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "HARNED",
+		"State" : "KY",
+		"Latitude" : "+37.802295"
+	},
+	{
+		"Longitude" : "-086.321158",
+		"Zipcode" : "40145",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "HUDSON",
+		"State" : "KY",
+		"Latitude" : "+37.606992"
+	},
+	{
+		"Longitude" : "-086.284170",
+		"Zipcode" : "40146",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "IRVINGTON",
+		"State" : "KY",
+		"Latitude" : "+37.828452"
+	},
+	{
+		"Longitude" : "-085.688029",
+		"Zipcode" : "40150",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLITT",
+		"City" : "LEBANON JUNCTION",
+		"State" : "KY",
+		"Latitude" : "+37.908780"
+	},
+	{
+		"Longitude" : "-086.449076",
+		"Zipcode" : "40152",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "MC DANIELS",
+		"State" : "KY",
+		"Latitude" : "+37.619425"
+	},
+	{
+		"Longitude" : "-086.414768",
+		"Zipcode" : "40153",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRECKINRIDGE",
+		"City" : "MC QUADY",
+		"State" : "KY",
+		"Latitude" : "+37.802295"
+	},
+	{
+		"Longitude" : "-086.081991",
+		"Zipcode" : "40155",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "MULDRAUGH",
+		"State" : "KY",
+		"Latitude" : "+37.934131"
+	},
+	{
+		"Longitude" : "-086.355493",
+		"Zipcode" : "40157",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "PAYNEVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.022328"
+	},
+	{
+		"Longitude" : "-085.976854",
+		"Zipcode" : "40159",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "RADCLIFF",
+		"State" : "KY",
+		"Latitude" : "+37.723474"
+	},
+	{
+		"Longitude" : "-085.849432",
+		"Zipcode" : "40160",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "RADCLIFF",
+		"State" : "KY",
+		"Latitude" : "+37.826634"
+	},
+	{
+		"Longitude" : "-086.398391",
+		"Zipcode" : "40161",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "RHODELIA",
+		"State" : "KY",
+		"Latitude" : "+38.005963"
+	},
+	{
+		"Longitude" : "-086.032496",
+		"Zipcode" : "40162",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "RINEYVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.755939"
+	},
+	{
+		"Longitude" : "-086.414768",
+		"Zipcode" : "40164",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "SE REE",
+		"State" : "KY",
+		"Latitude" : "+37.802295"
+	},
+	{
+		"Longitude" : "-085.704609",
+		"Zipcode" : "40165",
+		"ZipClass" : "STANDARD",
+		"County" : "BULLITT",
+		"City" : "SHEPHERDSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.959505"
+	},
+	{
+		"Longitude" : "-086.524210",
+		"Zipcode" : "40170",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "STEPHENSPORT",
+		"State" : "KY",
+		"Latitude" : "+37.913755"
+	},
+	{
+		"Longitude" : "-086.414768",
+		"Zipcode" : "40171",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "UNION STAR",
+		"State" : "KY",
+		"Latitude" : "+37.802295"
+	},
+	{
+		"Longitude" : "-086.050646",
+		"Zipcode" : "40175",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "VINE GROVE",
+		"State" : "KY",
+		"Latitude" : "+37.803725"
+	},
+	{
+		"Longitude" : "-086.287044",
+		"Zipcode" : "40176",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "WEBSTER",
+		"State" : "KY",
+		"Latitude" : "+37.881048"
+	},
+	{
+		"Longitude" : "-085.966061",
+		"Zipcode" : "40177",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "WEST POINT",
+		"State" : "KY",
+		"Latitude" : "+37.980384"
+	},
+	{
+		"Longitude" : "-086.405203",
+		"Zipcode" : "40178",
+		"ZipClass" : "STANDARD",
+		"County" : "BRECKINRIDGE",
+		"City" : "WESTVIEW",
+		"State" : "KY",
+		"Latitude" : "+37.645844"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40201",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.753812",
+		"Zipcode" : "40202",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.252470"
+	},
+	{
+		"Longitude" : "-085.769412",
+		"Zipcode" : "40203",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.249273"
+	},
+	{
+		"Longitude" : "-085.722711",
+		"Zipcode" : "40204",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.239420"
+	},
+	{
+		"Longitude" : "-085.600260",
+		"Zipcode" : "40205",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.224181"
+	},
+	{
+		"Longitude" : "-085.703411",
+		"Zipcode" : "40206",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.250320"
+	},
+	{
+		"Longitude" : "-085.666284",
+		"Zipcode" : "40207",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.262769"
+	},
+	{
+		"Longitude" : "-085.763912",
+		"Zipcode" : "40208",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.217820"
+	},
+	{
+		"Longitude" : "-085.769189",
+		"Zipcode" : "40209",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.214391"
+	},
+	{
+		"Longitude" : "-085.788702",
+		"Zipcode" : "40210",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.232070"
+	},
+	{
+		"Longitude" : "-085.815363",
+		"Zipcode" : "40211",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.232811"
+	},
+	{
+		"Longitude" : "-085.794213",
+		"Zipcode" : "40212",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.234969"
+	},
+	{
+		"Longitude" : "-085.707133",
+		"Zipcode" : "40213",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.182609"
+	},
+	{
+		"Longitude" : "-085.788862",
+		"Zipcode" : "40214",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.163269"
+	},
+	{
+		"Longitude" : "-085.785512",
+		"Zipcode" : "40215",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.191880"
+	},
+	{
+		"Longitude" : "-085.833463",
+		"Zipcode" : "40216",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.186519"
+	},
+	{
+		"Longitude" : "-085.739861",
+		"Zipcode" : "40217",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.217870"
+	},
+	{
+		"Longitude" : "-085.678060",
+		"Zipcode" : "40218",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.171856"
+	},
+	{
+		"Longitude" : "-085.695260",
+		"Zipcode" : "40219",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.138118"
+	},
+	{
+		"Longitude" : "-085.620304",
+		"Zipcode" : "40220",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.214603"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40221",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.623671",
+		"Zipcode" : "40222",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.267429"
+	},
+	{
+		"Longitude" : "-085.558228",
+		"Zipcode" : "40223",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.265072"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40224",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40225",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.626526",
+		"Zipcode" : "40228",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.144155"
+	},
+	{
+		"Longitude" : "-085.649393",
+		"Zipcode" : "40229",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.135961"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40231",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40232",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40233",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.581536",
+		"Zipcode" : "40241",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.304531"
+	},
+	{
+		"Longitude" : "-085.593960",
+		"Zipcode" : "40242",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.278469"
+	},
+	{
+		"Longitude" : "-085.535309",
+		"Zipcode" : "40243",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.242201"
+	},
+	{
+		"Longitude" : "-085.475021",
+		"Zipcode" : "40245",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.258384"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40250",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40251",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40252",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40253",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40255",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40256",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40257",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.864063",
+		"Zipcode" : "40258",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.145719"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40259",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40261",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40266",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40268",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40269",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40270",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.851022",
+		"Zipcode" : "40272",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.084554"
+	},
+	{
+		"Longitude" : "-085.685261",
+		"Zipcode" : "40280",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.246721"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40281",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40282",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40283",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40285",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40287",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40289",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40290",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.575352",
+		"Zipcode" : "40291",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.131320"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40292",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40293",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40294",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40295",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40296",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40297",
+		"ZipClass" : "UNIQUE",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.676819",
+		"Zipcode" : "40298",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.188962"
+	},
+	{
+		"Longitude" : "-085.521751",
+		"Zipcode" : "40299",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.176762"
+	},
+	{
+		"Longitude" : "-084.749940",
+		"Zipcode" : "40310",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERCER",
+		"City" : "BURGIN",
+		"State" : "KY",
+		"Latitude" : "+37.754839"
+	},
+	{
+		"Longitude" : "-083.994865",
+		"Zipcode" : "40311",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "CARLISLE",
+		"State" : "KY",
+		"Latitude" : "+38.334059"
+	},
+	{
+		"Longitude" : "-083.859331",
+		"Zipcode" : "40312",
+		"ZipClass" : "STANDARD",
+		"County" : "POWELL",
+		"City" : "CLAY CITY",
+		"State" : "KY",
+		"Latitude" : "+37.847517"
+	},
+	{
+		"Longitude" : "-083.442495",
+		"Zipcode" : "40313",
+		"ZipClass" : "STANDARD",
+		"County" : "ROWAN",
+		"City" : "CLEARFIELD",
+		"State" : "KY",
+		"Latitude" : "+38.128726"
+	},
+	{
+		"Longitude" : "-083.605538",
+		"Zipcode" : "40316",
+		"ZipClass" : "STANDARD",
+		"County" : "MENIFEE",
+		"City" : "DENNISTON",
+		"State" : "KY",
+		"Latitude" : "+37.938651"
+	},
+	{
+		"Longitude" : "-083.268234",
+		"Zipcode" : "40317",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROWAN",
+		"City" : "ELLIOTTVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.176471"
+	},
+	{
+		"Longitude" : "-083.533691",
+		"Zipcode" : "40319",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROWAN",
+		"City" : "FARMERS",
+		"State" : "KY",
+		"Latitude" : "+38.140258"
+	},
+	{
+		"Longitude" : "-084.157766",
+		"Zipcode" : "40320",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "FORD",
+		"State" : "KY",
+		"Latitude" : "+37.968496"
+	},
+	{
+		"Longitude" : "-083.608449",
+		"Zipcode" : "40322",
+		"ZipClass" : "STANDARD",
+		"County" : "MENIFEE",
+		"City" : "FRENCHBURG",
+		"State" : "KY",
+		"Latitude" : "+37.947025"
+	},
+	{
+		"Longitude" : "-084.574498",
+		"Zipcode" : "40324",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "GEORGETOWN",
+		"State" : "KY",
+		"Latitude" : "+38.239718"
+	},
+	{
+		"Longitude" : "-085.086510",
+		"Zipcode" : "40328",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "GRAVEL SWITCH",
+		"State" : "KY",
+		"Latitude" : "+37.585972"
+	},
+	{
+		"Longitude" : "-083.417250",
+		"Zipcode" : "40329",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROWAN",
+		"City" : "HALDEMAN",
+		"State" : "KY",
+		"Latitude" : "+38.206706"
+	},
+	{
+		"Longitude" : "-084.860707",
+		"Zipcode" : "40330",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "HARRODSBURG",
+		"State" : "KY",
+		"Latitude" : "+37.803283"
+	},
+	{
+		"Longitude" : "-083.771261",
+		"Zipcode" : "40334",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "HOPE",
+		"State" : "KY",
+		"Latitude" : "+38.016064"
+	},
+	{
+		"Longitude" : "-083.944815",
+		"Zipcode" : "40336",
+		"ZipClass" : "STANDARD",
+		"County" : "ESTILL",
+		"City" : "IRVINE",
+		"State" : "KY",
+		"Latitude" : "+37.704240"
+	},
+	{
+		"Longitude" : "-083.870275",
+		"Zipcode" : "40337",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "JEFFERSONVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.964096"
+	},
+	{
+		"Longitude" : "-084.656887",
+		"Zipcode" : "40339",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JESSAMINE",
+		"City" : "KEENE",
+		"State" : "KY",
+		"Latitude" : "+37.950381"
+	},
+	{
+		"Longitude" : "-084.579491",
+		"Zipcode" : "40340",
+		"ZipClass" : "STANDARD",
+		"County" : "JESSAMINE",
+		"City" : "NICHOLASVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.866238"
+	},
+	{
+		"Longitude" : "-084.979923",
+		"Zipcode" : "40342",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "LAWRENCEBURG",
+		"State" : "KY",
+		"Latitude" : "+38.006484"
+	},
+	{
+		"Longitude" : "-083.743488",
+		"Zipcode" : "40346",
+		"ZipClass" : "STANDARD",
+		"County" : "MENIFEE",
+		"City" : "MEANS",
+		"State" : "KY",
+		"Latitude" : "+37.973921"
+	},
+	{
+		"Longitude" : "-084.718028",
+		"Zipcode" : "40347",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODFORD",
+		"City" : "MIDWAY",
+		"State" : "KY",
+		"Latitude" : "+38.145835"
+	},
+	{
+		"Longitude" : "-084.151319",
+		"Zipcode" : "40348",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOURBON",
+		"City" : "MILLERSBURG",
+		"State" : "KY",
+		"Latitude" : "+38.296337"
+	},
+	{
+		"Longitude" : "-083.886328",
+		"Zipcode" : "40350",
+		"ZipClass" : "STANDARD",
+		"County" : "NICHOLAS",
+		"City" : "MOOREFIELD",
+		"State" : "KY",
+		"Latitude" : "+38.303859"
+	},
+	{
+		"Longitude" : "-083.420390",
+		"Zipcode" : "40351",
+		"ZipClass" : "STANDARD",
+		"County" : "ROWAN",
+		"City" : "MOREHEAD",
+		"State" : "KY",
+		"Latitude" : "+38.210471"
+	},
+	{
+		"Longitude" : "-083.924711",
+		"Zipcode" : "40353",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "MOUNT STERLING",
+		"State" : "KY",
+		"Latitude" : "+38.052103"
+	},
+	{
+		"Longitude" : "-084.875620",
+		"Zipcode" : "40355",
+		"ZipClass" : "STANDARD",
+		"County" : "OWEN",
+		"City" : "NEW LIBERTY",
+		"State" : "KY",
+		"Latitude" : "+38.627652"
+	},
+	{
+		"Longitude" : "-084.565075",
+		"Zipcode" : "40356",
+		"ZipClass" : "STANDARD",
+		"County" : "JESSAMINE",
+		"City" : "NICHOLASVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.863751"
+	},
+	{
+		"Longitude" : "-084.107655",
+		"Zipcode" : "40357",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOURBON",
+		"City" : "NORTH MIDDLETOWN",
+		"State" : "KY",
+		"Latitude" : "+38.146395"
+	},
+	{
+		"Longitude" : "-083.700824",
+		"Zipcode" : "40358",
+		"ZipClass" : "STANDARD",
+		"County" : "BATH",
+		"City" : "OLYMPIA",
+		"State" : "KY",
+		"Latitude" : "+38.084908"
+	},
+	{
+		"Longitude" : "-084.843115",
+		"Zipcode" : "40359",
+		"ZipClass" : "STANDARD",
+		"County" : "OWEN",
+		"City" : "OWENTON",
+		"State" : "KY",
+		"Latitude" : "+38.493552"
+	},
+	{
+		"Longitude" : "-083.784560",
+		"Zipcode" : "40360",
+		"ZipClass" : "STANDARD",
+		"County" : "BATH",
+		"City" : "OWINGSVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.146022"
+	},
+	{
+		"Longitude" : "-084.213426",
+		"Zipcode" : "40361",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "PARIS",
+		"State" : "KY",
+		"Latitude" : "+38.217248"
+	},
+	{
+		"Longitude" : "-084.205944",
+		"Zipcode" : "40362",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "PARIS",
+		"State" : "KY",
+		"Latitude" : "+38.219407"
+	},
+	{
+		"Longitude" : "-085.013882",
+		"Zipcode" : "40363",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OWEN",
+		"City" : "PERRY PARK",
+		"State" : "KY",
+		"Latitude" : "+38.521800"
+	},
+	{
+		"Longitude" : "-083.757123",
+		"Zipcode" : "40366",
+		"ZipClass" : "STANDARD",
+		"County" : "BATH",
+		"City" : "PRESTON",
+		"State" : "KY",
+		"Latitude" : "+38.086673"
+	},
+	{
+		"Longitude" : "-084.553016",
+		"Zipcode" : "40370",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "SADIEVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.383618"
+	},
+	{
+		"Longitude" : "-083.621715",
+		"Zipcode" : "40371",
+		"ZipClass" : "STANDARD",
+		"County" : "BATH",
+		"City" : "SALT LICK",
+		"State" : "KY",
+		"Latitude" : "+38.104370"
+	},
+	{
+		"Longitude" : "-084.884036",
+		"Zipcode" : "40372",
+		"ZipClass" : "STANDARD",
+		"County" : "MERCER",
+		"City" : "SALVISA",
+		"State" : "KY",
+		"Latitude" : "+37.866351"
+	},
+	{
+		"Longitude" : "-083.884380",
+		"Zipcode" : "40374",
+		"ZipClass" : "STANDARD",
+		"County" : "BATH",
+		"City" : "SHARPSBURG",
+		"State" : "KY",
+		"Latitude" : "+38.228942"
+	},
+	{
+		"Longitude" : "-083.693949",
+		"Zipcode" : "40376",
+		"ZipClass" : "STANDARD",
+		"County" : "POWELL",
+		"City" : "SLADE",
+		"State" : "KY",
+		"Latitude" : "+37.816074"
+	},
+	{
+		"Longitude" : "-084.676123",
+		"Zipcode" : "40379",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "STAMPING GROUND",
+		"State" : "KY",
+		"Latitude" : "+38.306329"
+	},
+	{
+		"Longitude" : "-083.785309",
+		"Zipcode" : "40380",
+		"ZipClass" : "STANDARD",
+		"County" : "POWELL",
+		"City" : "STANTON",
+		"State" : "KY",
+		"Latitude" : "+37.822307"
+	},
+	{
+		"Longitude" : "-084.737666",
+		"Zipcode" : "40383",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODFORD",
+		"City" : "VERSAILLES",
+		"State" : "KY",
+		"Latitude" : "+37.998762"
+	},
+	{
+		"Longitude" : "-084.745488",
+		"Zipcode" : "40384",
+		"ZipClass" : "UNIQUE",
+		"County" : "WOODFORD",
+		"City" : "VERSAILLES",
+		"State" : "KY",
+		"Latitude" : "+38.021292"
+	},
+	{
+		"Longitude" : "-084.144830",
+		"Zipcode" : "40385",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "WACO",
+		"State" : "KY",
+		"Latitude" : "+37.717603"
+	},
+	{
+		"Longitude" : "-084.745488",
+		"Zipcode" : "40386",
+		"ZipClass" : "UNIQUE",
+		"County" : "WOODFORD",
+		"City" : "VERSAILLES",
+		"State" : "KY",
+		"Latitude" : "+38.021292"
+	},
+	{
+		"Longitude" : "-083.467497",
+		"Zipcode" : "40387",
+		"ZipClass" : "STANDARD",
+		"County" : "MENIFEE",
+		"City" : "WELLINGTON",
+		"State" : "KY",
+		"Latitude" : "+37.978036"
+	},
+	{
+		"Longitude" : "-084.671365",
+		"Zipcode" : "40390",
+		"ZipClass" : "STANDARD",
+		"County" : "JESSAMINE",
+		"City" : "WILMORE",
+		"State" : "KY",
+		"Latitude" : "+37.860199"
+	},
+	{
+		"Longitude" : "-084.160724",
+		"Zipcode" : "40391",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "WINCHESTER",
+		"State" : "KY",
+		"Latitude" : "+37.964922"
+	},
+	{
+		"Longitude" : "-084.157766",
+		"Zipcode" : "40392",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "WINCHESTER",
+		"State" : "KY",
+		"Latitude" : "+37.968496"
+	},
+	{
+		"Longitude" : "-083.971127",
+		"Zipcode" : "40402",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ANNVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.305202"
+	},
+	{
+		"Longitude" : "-084.235247",
+		"Zipcode" : "40403",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "BEREA",
+		"State" : "KY",
+		"Latitude" : "+37.592589"
+	},
+	{
+		"Longitude" : "-084.299699",
+		"Zipcode" : "40404",
+		"ZipClass" : "UNIQUE",
+		"County" : "MADISON",
+		"City" : "BEREA",
+		"State" : "KY",
+		"Latitude" : "+37.716443"
+	},
+	{
+		"Longitude" : "-084.299699",
+		"Zipcode" : "40405",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "BIGHILL",
+		"State" : "KY",
+		"Latitude" : "+37.716443"
+	},
+	{
+		"Longitude" : "-084.412242",
+		"Zipcode" : "40409",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKCASTLE",
+		"City" : "BRODHEAD",
+		"State" : "KY",
+		"Latitude" : "+37.373811"
+	},
+	{
+		"Longitude" : "-084.546693",
+		"Zipcode" : "40410",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARRARD",
+		"City" : "BRYANTSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.651397"
+	},
+	{
+		"Longitude" : "-084.517065",
+		"Zipcode" : "40419",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "CRAB ORCHARD",
+		"State" : "KY",
+		"Latitude" : "+37.432210"
+	},
+	{
+		"Longitude" : "-083.993588",
+		"Zipcode" : "40421",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "DABOLT",
+		"State" : "KY",
+		"Latitude" : "+37.416008"
+	},
+	{
+		"Longitude" : "-084.849682",
+		"Zipcode" : "40422",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYLE",
+		"City" : "DANVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.636006"
+	},
+	{
+		"Longitude" : "-084.845767",
+		"Zipcode" : "40423",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYLE",
+		"City" : "DANVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.624659"
+	},
+	{
+		"Longitude" : "-083.908492",
+		"Zipcode" : "40434",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "GRAY HAWK",
+		"State" : "KY",
+		"Latitude" : "+37.395468"
+	},
+	{
+		"Longitude" : "-084.767288",
+		"Zipcode" : "40437",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "HUSTONVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.443361"
+	},
+	{
+		"Longitude" : "-084.846678",
+		"Zipcode" : "40440",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYLE",
+		"City" : "JUNCTION CITY",
+		"State" : "KY",
+		"Latitude" : "+37.581754"
+	},
+	{
+		"Longitude" : "-084.695425",
+		"Zipcode" : "40442",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "KINGS MOUNTAIN",
+		"State" : "KY",
+		"Latitude" : "+37.362372"
+	},
+	{
+		"Longitude" : "-084.583605",
+		"Zipcode" : "40444",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRARD",
+		"City" : "LANCASTER",
+		"State" : "KY",
+		"Latitude" : "+37.683184"
+	},
+	{
+		"Longitude" : "-084.213618",
+		"Zipcode" : "40445",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKCASTLE",
+		"City" : "LIVINGSTON",
+		"State" : "KY",
+		"Latitude" : "+37.290742"
+	},
+	{
+		"Longitude" : "-084.546693",
+		"Zipcode" : "40446",
+		"ZipClass" : "UNIQUE",
+		"County" : "GARRARD",
+		"City" : "LANCASTER",
+		"State" : "KY",
+		"Latitude" : "+37.651397"
+	},
+	{
+		"Longitude" : "-084.025131",
+		"Zipcode" : "40447",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MC KEE",
+		"State" : "KY",
+		"Latitude" : "+37.433778"
+	},
+	{
+		"Longitude" : "-084.699802",
+		"Zipcode" : "40448",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINCOLN",
+		"City" : "MC KINNEY",
+		"State" : "KY",
+		"Latitude" : "+37.445989"
+	},
+	{
+		"Longitude" : "-084.949180",
+		"Zipcode" : "40452",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOYLE",
+		"City" : "MITCHELLSBURG",
+		"State" : "KY",
+		"Latitude" : "+37.603345"
+	},
+	{
+		"Longitude" : "-084.337882",
+		"Zipcode" : "40456",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKCASTLE",
+		"City" : "MOUNT VERNON",
+		"State" : "KY",
+		"Latitude" : "+37.398303"
+	},
+	{
+		"Longitude" : "-084.316140",
+		"Zipcode" : "40460",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKCASTLE",
+		"City" : "ORLANDO",
+		"State" : "KY",
+		"Latitude" : "+37.345751"
+	},
+	{
+		"Longitude" : "-084.426456",
+		"Zipcode" : "40461",
+		"ZipClass" : "STANDARD",
+		"County" : "GARRARD",
+		"City" : "PAINT LICK",
+		"State" : "KY",
+		"Latitude" : "+37.593625"
+	},
+	{
+		"Longitude" : "-084.924963",
+		"Zipcode" : "40464",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYLE",
+		"City" : "PARKSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.571105"
+	},
+	{
+		"Longitude" : "-083.993588",
+		"Zipcode" : "40467",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "PEOPLES",
+		"State" : "KY",
+		"Latitude" : "+37.416008"
+	},
+	{
+		"Longitude" : "-084.976020",
+		"Zipcode" : "40468",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYLE",
+		"City" : "PERRYVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.637433"
+	},
+	{
+		"Longitude" : "-083.856874",
+		"Zipcode" : "40472",
+		"ZipClass" : "STANDARD",
+		"County" : "ESTILL",
+		"City" : "RAVENNA",
+		"State" : "KY",
+		"Latitude" : "+37.713915"
+	},
+	{
+		"Longitude" : "-084.316140",
+		"Zipcode" : "40473",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCKCASTLE",
+		"City" : "RENFRO VALLEY",
+		"State" : "KY",
+		"Latitude" : "+37.345751"
+	},
+	{
+		"Longitude" : "-084.296913",
+		"Zipcode" : "40475",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "RICHMOND",
+		"State" : "KY",
+		"Latitude" : "+37.764867"
+	},
+	{
+		"Longitude" : "-084.299699",
+		"Zipcode" : "40476",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "RICHMOND",
+		"State" : "KY",
+		"Latitude" : "+37.716443"
+	},
+	{
+		"Longitude" : "-084.059717",
+		"Zipcode" : "40481",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SANDGAP",
+		"State" : "KY",
+		"Latitude" : "+37.465920"
+	},
+	{
+		"Longitude" : "-084.684467",
+		"Zipcode" : "40484",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "STANFORD",
+		"State" : "KY",
+		"Latitude" : "+37.522046"
+	},
+	{
+		"Longitude" : "-083.930007",
+		"Zipcode" : "40486",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "TYNER",
+		"State" : "KY",
+		"Latitude" : "+37.357587"
+	},
+	{
+		"Longitude" : "-084.042748",
+		"Zipcode" : "40488",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "WANETA",
+		"State" : "KY",
+		"Latitude" : "+37.474770"
+	},
+	{
+		"Longitude" : "-084.620613",
+		"Zipcode" : "40489",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WAYNESBURG",
+		"State" : "KY",
+		"Latitude" : "+37.377689"
+	},
+	{
+		"Longitude" : "-084.316140",
+		"Zipcode" : "40492",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCKCASTLE",
+		"City" : "WILDIE",
+		"State" : "KY",
+		"Latitude" : "+37.345751"
+	},
+	{
+		"Longitude" : "-084.082894",
+		"Zipcode" : "40495",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ESTILL",
+		"City" : "WINSTON",
+		"State" : "KY",
+		"Latitude" : "+37.709721"
+	},
+	{
+		"Longitude" : "-084.486043",
+		"Zipcode" : "40502",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.016674"
+	},
+	{
+		"Longitude" : "-084.539437",
+		"Zipcode" : "40503",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.002578"
+	},
+	{
+		"Longitude" : "-084.539422",
+		"Zipcode" : "40504",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.038613"
+	},
+	{
+		"Longitude" : "-084.462937",
+		"Zipcode" : "40505",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.060845"
+	},
+	{
+		"Longitude" : "-084.507471",
+		"Zipcode" : "40506",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028712"
+	},
+	{
+		"Longitude" : "-084.495969",
+		"Zipcode" : "40507",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.045571"
+	},
+	{
+		"Longitude" : "-084.498954",
+		"Zipcode" : "40508",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.051285"
+	},
+	{
+		"Longitude" : "-084.372883",
+		"Zipcode" : "40509",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+37.986629"
+	},
+	{
+		"Longitude" : "-084.594901",
+		"Zipcode" : "40510",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.061460"
+	},
+	{
+		"Longitude" : "-084.492226",
+		"Zipcode" : "40511",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.132747"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40512",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.605827",
+		"Zipcode" : "40513",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.015130"
+	},
+	{
+		"Longitude" : "-084.560827",
+		"Zipcode" : "40514",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+37.982677"
+	},
+	{
+		"Longitude" : "-084.437207",
+		"Zipcode" : "40515",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+37.924774"
+	},
+	{
+		"Longitude" : "-084.430752",
+		"Zipcode" : "40516",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.064867"
+	},
+	{
+		"Longitude" : "-084.487251",
+		"Zipcode" : "40517",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+37.986751"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40522",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40523",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40524",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40526",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40533",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.508361",
+		"Zipcode" : "40536",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.032075"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40544",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40546",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40550",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40555",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40574",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40575",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40576",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40577",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40578",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40579",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40580",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40581",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40582",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40583",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40584",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40585",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40586",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40587",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40588",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40589",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40590",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40591",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40592",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40593",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40594",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40595",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.471505",
+		"Zipcode" : "40596",
+		"ZipClass" : "STANDARD",
+		"County" : "FAYETTE",
+		"City" : "LEXINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.028269"
+	},
+	{
+		"Longitude" : "-084.869708",
+		"Zipcode" : "40601",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.228115"
+	},
+	{
+		"Longitude" : "-084.874809",
+		"Zipcode" : "40602",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.234133"
+	},
+	{
+		"Longitude" : "-084.874809",
+		"Zipcode" : "40603",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.234133"
+	},
+	{
+		"Longitude" : "-084.874809",
+		"Zipcode" : "40604",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.234133"
+	},
+	{
+		"Longitude" : "-084.874809",
+		"Zipcode" : "40618",
+		"ZipClass" : "UNIQUE",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.234133"
+	},
+	{
+		"Longitude" : "-084.874809",
+		"Zipcode" : "40619",
+		"ZipClass" : "UNIQUE",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.234133"
+	},
+	{
+		"Longitude" : "-084.874809",
+		"Zipcode" : "40620",
+		"ZipClass" : "UNIQUE",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.234133"
+	},
+	{
+		"Longitude" : "-084.874809",
+		"Zipcode" : "40621",
+		"ZipClass" : "UNIQUE",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.234133"
+	},
+	{
+		"Longitude" : "-084.874809",
+		"Zipcode" : "40622",
+		"ZipClass" : "UNIQUE",
+		"County" : "FRANKLIN",
+		"City" : "FRANKFORT",
+		"State" : "KY",
+		"Latitude" : "+38.234133"
+	},
+	{
+		"Longitude" : "-084.184688",
+		"Zipcode" : "40701",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "CORBIN",
+		"State" : "KY",
+		"Latitude" : "+36.854371"
+	},
+	{
+		"Longitude" : "-084.103100",
+		"Zipcode" : "40702",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "CORBIN",
+		"State" : "KY",
+		"Latitude" : "+36.937426"
+	},
+	{
+		"Longitude" : "-084.140847",
+		"Zipcode" : "40724",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAUREL",
+		"City" : "BUSH",
+		"State" : "KY",
+		"Latitude" : "+37.152074"
+	},
+	{
+		"Longitude" : "-084.137960",
+		"Zipcode" : "40729",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUREL",
+		"City" : "EAST BERNSTADT",
+		"State" : "KY",
+		"Latitude" : "+37.248761"
+	},
+	{
+		"Longitude" : "-084.141486",
+		"Zipcode" : "40730",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WHITLEY",
+		"City" : "EMLYN",
+		"State" : "KY",
+		"Latitude" : "+36.703868"
+	},
+	{
+		"Longitude" : "-083.933848",
+		"Zipcode" : "40734",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "GRAY",
+		"State" : "KY",
+		"Latitude" : "+36.936999"
+	},
+	{
+		"Longitude" : "-084.129021",
+		"Zipcode" : "40737",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUREL",
+		"City" : "KEAVY",
+		"State" : "KY",
+		"Latitude" : "+36.997587"
+	},
+	{
+		"Longitude" : "-084.028217",
+		"Zipcode" : "40740",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUREL",
+		"City" : "LILY",
+		"State" : "KY",
+		"Latitude" : "+37.025647"
+	},
+	{
+		"Longitude" : "-084.096062",
+		"Zipcode" : "40741",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUREL",
+		"City" : "LONDON",
+		"State" : "KY",
+		"Latitude" : "+37.154931"
+	},
+	{
+		"Longitude" : "-084.115617",
+		"Zipcode" : "40742",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUREL",
+		"City" : "LONDON",
+		"State" : "KY",
+		"Latitude" : "+37.137615"
+	},
+	{
+		"Longitude" : "-084.045746",
+		"Zipcode" : "40743",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUREL",
+		"City" : "LONDON",
+		"State" : "KY",
+		"Latitude" : "+37.134455"
+	},
+	{
+		"Longitude" : "-084.113057",
+		"Zipcode" : "40744",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUREL",
+		"City" : "LONDON",
+		"State" : "KY",
+		"Latitude" : "+37.099490"
+	},
+	{
+		"Longitude" : "-084.115617",
+		"Zipcode" : "40745",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUREL",
+		"City" : "LONDON",
+		"State" : "KY",
+		"Latitude" : "+37.137615"
+	},
+	{
+		"Longitude" : "-084.115617",
+		"Zipcode" : "40751",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAUREL",
+		"City" : "MARYDELL",
+		"State" : "KY",
+		"Latitude" : "+37.137615"
+	},
+	{
+		"Longitude" : "-084.116780",
+		"Zipcode" : "40754",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "NEVISDALE",
+		"State" : "KY",
+		"Latitude" : "+36.780333"
+	},
+	{
+		"Longitude" : "-084.116614",
+		"Zipcode" : "40755",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAUREL",
+		"City" : "PITTSBURG",
+		"State" : "KY",
+		"Latitude" : "+37.167752"
+	},
+	{
+		"Longitude" : "-084.070522",
+		"Zipcode" : "40759",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "ROCKHOLDS",
+		"State" : "KY",
+		"Latitude" : "+36.832568"
+	},
+	{
+		"Longitude" : "-083.955033",
+		"Zipcode" : "40763",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "SILER",
+		"State" : "KY",
+		"Latitude" : "+36.702504"
+	},
+	{
+		"Longitude" : "-084.139406",
+		"Zipcode" : "40769",
+		"ZipClass" : "STANDARD",
+		"County" : "WHITLEY",
+		"City" : "WILLIAMSBURG",
+		"State" : "KY",
+		"Latitude" : "+36.747032"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40771",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "WOODBINE",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.287927",
+		"Zipcode" : "40801",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARLAN",
+		"City" : "AGES BROOKSIDE",
+		"State" : "KY",
+		"Latitude" : "+36.865351"
+	},
+	{
+		"Longitude" : "-083.455300",
+		"Zipcode" : "40803",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LESLIE",
+		"City" : "ASHER",
+		"State" : "KY",
+		"Latitude" : "+37.011357"
+	},
+	{
+		"Longitude" : "-083.304537",
+		"Zipcode" : "40806",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "BAXTER",
+		"State" : "KY",
+		"Latitude" : "+36.879484"
+	},
+	{
+		"Longitude" : "-082.955273",
+		"Zipcode" : "40807",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARLAN",
+		"City" : "BENHAM",
+		"State" : "KY",
+		"Latitude" : "+36.971157"
+	},
+	{
+		"Longitude" : "-083.206701",
+		"Zipcode" : "40808",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "BIG LAUREL",
+		"State" : "KY",
+		"Latitude" : "+36.984102"
+	},
+	{
+		"Longitude" : "-083.324159",
+		"Zipcode" : "40810",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "BLEDSOE",
+		"State" : "KY",
+		"Latitude" : "+36.934041"
+	},
+	{
+		"Longitude" : "-083.640460",
+		"Zipcode" : "40813",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "CALVIN",
+		"State" : "KY",
+		"Latitude" : "+36.714629"
+	},
+	{
+		"Longitude" : "-083.291362",
+		"Zipcode" : "40815",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "CAWOOD",
+		"State" : "KY",
+		"Latitude" : "+36.781218"
+	},
+	{
+		"Longitude" : "-083.349418",
+		"Zipcode" : "40816",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "CHAPPELL",
+		"State" : "KY",
+		"Latitude" : "+37.009799"
+	},
+	{
+		"Longitude" : "-083.264806",
+		"Zipcode" : "40818",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "COALGOOD",
+		"State" : "KY",
+		"Latitude" : "+36.789038"
+	},
+	{
+		"Longitude" : "-083.470712",
+		"Zipcode" : "40819",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "COLDIRON",
+		"State" : "KY",
+		"Latitude" : "+36.820072"
+	},
+	{
+		"Longitude" : "-083.170137",
+		"Zipcode" : "40820",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "CRANKS",
+		"State" : "KY",
+		"Latitude" : "+36.847188"
+	},
+	{
+		"Longitude" : "-083.163759",
+		"Zipcode" : "40823",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "CUMBERLAND",
+		"State" : "KY",
+		"Latitude" : "+36.912209"
+	},
+	{
+		"Longitude" : "-083.375307",
+		"Zipcode" : "40824",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARLAN",
+		"City" : "DAYHOIT",
+		"State" : "KY",
+		"Latitude" : "+36.835555"
+	},
+	{
+		"Longitude" : "-082.809267",
+		"Zipcode" : "40826",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "EOLIA",
+		"State" : "KY",
+		"Latitude" : "+37.043638"
+	},
+	{
+		"Longitude" : "-083.456094",
+		"Zipcode" : "40827",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "ESSIE",
+		"State" : "KY",
+		"Latitude" : "+37.054676"
+	},
+	{
+		"Longitude" : "-083.223251",
+		"Zipcode" : "40828",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "EVARTS",
+		"State" : "KY",
+		"Latitude" : "+36.839806"
+	},
+	{
+		"Longitude" : "-083.264497",
+		"Zipcode" : "40829",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARLAN",
+		"City" : "GRAYS KNOB",
+		"State" : "KY",
+		"Latitude" : "+36.797447"
+	},
+	{
+		"Longitude" : "-083.330675",
+		"Zipcode" : "40830",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "GULSTON",
+		"State" : "KY",
+		"Latitude" : "+36.770110"
+	},
+	{
+		"Longitude" : "-083.203025",
+		"Zipcode" : "40831",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "HARLAN",
+		"State" : "KY",
+		"Latitude" : "+36.861519"
+	},
+	{
+		"Longitude" : "-083.431346",
+		"Zipcode" : "40840",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "HELTON",
+		"State" : "KY",
+		"Latitude" : "+36.954292"
+	},
+	{
+		"Longitude" : "-082.988157",
+		"Zipcode" : "40843",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "HOLMES MILL",
+		"State" : "KY",
+		"Latitude" : "+36.876106"
+	},
+	{
+		"Longitude" : "-083.424395",
+		"Zipcode" : "40844",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LESLIE",
+		"City" : "HOSKINSTON",
+		"State" : "KY",
+		"Latitude" : "+37.070198"
+	},
+	{
+		"Longitude" : "-083.708181",
+		"Zipcode" : "40845",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "HULEN",
+		"State" : "KY",
+		"Latitude" : "+36.769184"
+	},
+	{
+		"Longitude" : "-083.145061",
+		"Zipcode" : "40847",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARLAN",
+		"City" : "KENVIR",
+		"State" : "KY",
+		"Latitude" : "+36.873380"
+	},
+	{
+		"Longitude" : "-083.143310",
+		"Zipcode" : "40849",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARLAN",
+		"City" : "LEJUNIOR",
+		"State" : "KY",
+		"Latitude" : "+36.889879"
+	},
+	{
+		"Longitude" : "-083.353034",
+		"Zipcode" : "40854",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARLAN",
+		"City" : "LOYALL",
+		"State" : "KY",
+		"Latitude" : "+36.848097"
+	},
+	{
+		"Longitude" : "-082.919767",
+		"Zipcode" : "40855",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARLAN",
+		"City" : "LYNCH",
+		"State" : "KY",
+		"Latitude" : "+36.960303"
+	},
+	{
+		"Longitude" : "-083.708181",
+		"Zipcode" : "40856",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "MIRACLE",
+		"State" : "KY",
+		"Latitude" : "+36.769184"
+	},
+	{
+		"Longitude" : "-083.394253",
+		"Zipcode" : "40858",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "MOZELLE",
+		"State" : "KY",
+		"Latitude" : "+36.998854"
+	},
+	{
+		"Longitude" : "-082.879541",
+		"Zipcode" : "40862",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "PARTRIDGE",
+		"State" : "KY",
+		"Latitude" : "+37.012888"
+	},
+	{
+		"Longitude" : "-083.459350",
+		"Zipcode" : "40863",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "PATHFORK",
+		"State" : "KY",
+		"Latitude" : "+36.749620"
+	},
+	{
+		"Longitude" : "-083.238139",
+		"Zipcode" : "40865",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "PUTNEY",
+		"State" : "KY",
+		"Latitude" : "+36.903881"
+	},
+	{
+		"Longitude" : "-083.419745",
+		"Zipcode" : "40868",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "STINNETT",
+		"State" : "KY",
+		"Latitude" : "+37.083080"
+	},
+	{
+		"Longitude" : "-083.161655",
+		"Zipcode" : "40870",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "TOTZ",
+		"State" : "KY",
+		"Latitude" : "+36.932991"
+	},
+	{
+		"Longitude" : "-083.419056",
+		"Zipcode" : "40873",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "WALLINS CREEK",
+		"State" : "KY",
+		"Latitude" : "+36.817164"
+	},
+	{
+		"Longitude" : "-083.466672",
+		"Zipcode" : "40874",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "WARBRANCH",
+		"State" : "KY",
+		"Latitude" : "+36.983970"
+	},
+	{
+		"Longitude" : "-083.708181",
+		"Zipcode" : "40902",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "ARJAY",
+		"State" : "KY",
+		"Latitude" : "+36.769184"
+	},
+	{
+		"Longitude" : "-083.850573",
+		"Zipcode" : "40903",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "ARTEMUS",
+		"State" : "KY",
+		"Latitude" : "+36.839539"
+	},
+	{
+		"Longitude" : "-083.894888",
+		"Zipcode" : "40906",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "BARBOURVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.810109"
+	},
+	{
+		"Longitude" : "-083.708181",
+		"Zipcode" : "40913",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "BEVERLY",
+		"State" : "KY",
+		"Latitude" : "+36.769184"
+	},
+	{
+		"Longitude" : "-083.737014",
+		"Zipcode" : "40914",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "BIG CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.147687"
+	},
+	{
+		"Longitude" : "-083.789161",
+		"Zipcode" : "40915",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "BIMBLE",
+		"State" : "KY",
+		"Latitude" : "+36.908172"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40921",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "BRYANTS STORE",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40923",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "CANNON",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.030287",
+		"Zipcode" : "40927",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "CLOSPLINT",
+		"State" : "KY",
+		"Latitude" : "+36.884520"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40930",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOX",
+		"City" : "DEWITT",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.737014",
+		"Zipcode" : "40931",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "ERILINE",
+		"State" : "KY",
+		"Latitude" : "+37.147687"
+	},
+	{
+		"Longitude" : "-083.737014",
+		"Zipcode" : "40932",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "FALL ROCK",
+		"State" : "KY",
+		"Latitude" : "+37.147687"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40935",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "FLAT LICK",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40939",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "FOURMILE",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.708181",
+		"Zipcode" : "40940",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "FRAKES",
+		"State" : "KY",
+		"Latitude" : "+36.769184"
+	},
+	{
+		"Longitude" : "-083.737014",
+		"Zipcode" : "40941",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "GARRARD",
+		"State" : "KY",
+		"Latitude" : "+37.147687"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40943",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "GIRDLER",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.737014",
+		"Zipcode" : "40944",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "GOOSE ROCK",
+		"State" : "KY",
+		"Latitude" : "+37.147687"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40946",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "GREEN ROAD",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40949",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "HEIDRICK",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.737014",
+		"Zipcode" : "40951",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLAY",
+		"City" : "HIMA",
+		"State" : "KY",
+		"Latitude" : "+37.147687"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40953",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "HINKLE",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.708181",
+		"Zipcode" : "40955",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BELL",
+		"City" : "INGRAM",
+		"State" : "KY",
+		"Latitude" : "+36.769184"
+	},
+	{
+		"Longitude" : "-083.708181",
+		"Zipcode" : "40958",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "KETTLE ISLAND",
+		"State" : "KY",
+		"Latitude" : "+36.769184"
+	},
+	{
+		"Longitude" : "-083.779273",
+		"Zipcode" : "40962",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MANCHESTER",
+		"State" : "KY",
+		"Latitude" : "+37.151101"
+	},
+	{
+		"Longitude" : "-083.183446",
+		"Zipcode" : "40964",
+		"ZipClass" : "STANDARD",
+		"County" : "HARLAN",
+		"City" : "MARY ALICE",
+		"State" : "KY",
+		"Latitude" : "+36.842977"
+	},
+	{
+		"Longitude" : "-083.693159",
+		"Zipcode" : "40965",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "MIDDLESBORO",
+		"State" : "KY",
+		"Latitude" : "+36.669566"
+	},
+	{
+		"Longitude" : "-083.737014",
+		"Zipcode" : "40972",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "ONEIDA",
+		"State" : "KY",
+		"Latitude" : "+37.147687"
+	},
+	{
+		"Longitude" : "-083.766776",
+		"Zipcode" : "40977",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "PINEVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.715863"
+	},
+	{
+		"Longitude" : "-083.494862",
+		"Zipcode" : "40979",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "ROARK",
+		"State" : "KY",
+		"Latitude" : "+37.043772"
+	},
+	{
+		"Longitude" : "-083.386991",
+		"Zipcode" : "40981",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PERRY",
+		"City" : "SAUL",
+		"State" : "KY",
+		"Latitude" : "+37.331259"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40982",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "SCALF",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.737014",
+		"Zipcode" : "40983",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "SEXTONS CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.147687"
+	},
+	{
+		"Longitude" : "-083.708181",
+		"Zipcode" : "40988",
+		"ZipClass" : "STANDARD",
+		"County" : "BELL",
+		"City" : "STONEY FORK",
+		"State" : "KY",
+		"Latitude" : "+36.769184"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40995",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "TROSPER",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40997",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "WALKER",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-083.829985",
+		"Zipcode" : "40999",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOX",
+		"City" : "WOOLLUM",
+		"State" : "KY",
+		"Latitude" : "+36.871254"
+	},
+	{
+		"Longitude" : "-084.374584",
+		"Zipcode" : "41001",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "ALEXANDRIA",
+		"State" : "KY",
+		"Latitude" : "+38.921584"
+	},
+	{
+		"Longitude" : "-083.982911",
+		"Zipcode" : "41002",
+		"ZipClass" : "STANDARD",
+		"County" : "BRACKEN",
+		"City" : "AUGUSTA",
+		"State" : "KY",
+		"Latitude" : "+38.723420"
+	},
+	{
+		"Longitude" : "-084.347201",
+		"Zipcode" : "41003",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BERRY",
+		"State" : "KY",
+		"Latitude" : "+38.442076"
+	},
+	{
+		"Longitude" : "-084.093504",
+		"Zipcode" : "41004",
+		"ZipClass" : "STANDARD",
+		"County" : "BRACKEN",
+		"City" : "BROOKSVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.638654"
+	},
+	{
+		"Longitude" : "-084.773564",
+		"Zipcode" : "41005",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "BURLINGTON",
+		"State" : "KY",
+		"Latitude" : "+39.015027"
+	},
+	{
+		"Longitude" : "-084.392841",
+		"Zipcode" : "41006",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "BUTLER",
+		"State" : "KY",
+		"Latitude" : "+38.739446"
+	},
+	{
+		"Longitude" : "-084.317079",
+		"Zipcode" : "41007",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "CALIFORNIA",
+		"State" : "KY",
+		"Latitude" : "+38.905563"
+	},
+	{
+		"Longitude" : "-085.098906",
+		"Zipcode" : "41008",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CARROLLTON",
+		"State" : "KY",
+		"Latitude" : "+38.663866"
+	},
+	{
+		"Longitude" : "-084.611567",
+		"Zipcode" : "41010",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "CORINTH",
+		"State" : "KY",
+		"Latitude" : "+38.552305"
+	},
+	{
+		"Longitude" : "-084.542748",
+		"Zipcode" : "41011",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "COVINGTON",
+		"State" : "KY",
+		"Latitude" : "+39.059060"
+	},
+	{
+		"Longitude" : "-084.520501",
+		"Zipcode" : "41012",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "COVINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.944663"
+	},
+	{
+		"Longitude" : "-084.511793",
+		"Zipcode" : "41014",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "COVINGTON",
+		"State" : "KY",
+		"Latitude" : "+39.064211"
+	},
+	{
+		"Longitude" : "-084.490048",
+		"Zipcode" : "41015",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "LATONIA",
+		"State" : "KY",
+		"Latitude" : "+38.947110"
+	},
+	{
+		"Longitude" : "-084.574749",
+		"Zipcode" : "41016",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "COVINGTON",
+		"State" : "KY",
+		"Latitude" : "+39.082839"
+	},
+	{
+		"Longitude" : "-084.559020",
+		"Zipcode" : "41017",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "FT MITCHELL",
+		"State" : "KY",
+		"Latitude" : "+39.029983"
+	},
+	{
+		"Longitude" : "-084.591389",
+		"Zipcode" : "41018",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "ERLANGER",
+		"State" : "KY",
+		"Latitude" : "+39.019684"
+	},
+	{
+		"Longitude" : "-084.520501",
+		"Zipcode" : "41019",
+		"ZipClass" : "UNIQUE",
+		"County" : "KENTON",
+		"City" : "COVINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.944663"
+	},
+	{
+		"Longitude" : "-084.747789",
+		"Zipcode" : "41022",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "FLORENCE",
+		"State" : "KY",
+		"Latitude" : "+38.962372"
+	},
+	{
+		"Longitude" : "-084.597256",
+		"Zipcode" : "41030",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "CRITTENDEN",
+		"State" : "KY",
+		"Latitude" : "+38.770542"
+	},
+	{
+		"Longitude" : "-084.323033",
+		"Zipcode" : "41031",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "CYNTHIANA",
+		"State" : "KY",
+		"Latitude" : "+38.356954"
+	},
+	{
+		"Longitude" : "-084.485907",
+		"Zipcode" : "41033",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "DE MOSSVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.762312"
+	},
+	{
+		"Longitude" : "-083.904101",
+		"Zipcode" : "41034",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "DOVER",
+		"State" : "KY",
+		"Latitude" : "+38.707093"
+	},
+	{
+		"Longitude" : "-084.650966",
+		"Zipcode" : "41035",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "DRY RIDGE",
+		"State" : "KY",
+		"Latitude" : "+38.691789"
+	},
+	{
+		"Longitude" : "-083.718626",
+		"Zipcode" : "41037",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FLEMING",
+		"City" : "ELIZAVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.348100"
+	},
+	{
+		"Longitude" : "-083.718626",
+		"Zipcode" : "41039",
+		"ZipClass" : "STANDARD",
+		"County" : "FLEMING",
+		"City" : "EWING",
+		"State" : "KY",
+		"Latitude" : "+38.348100"
+	},
+	{
+		"Longitude" : "-084.318142",
+		"Zipcode" : "41040",
+		"ZipClass" : "STANDARD",
+		"County" : "PENDLETON",
+		"City" : "FALMOUTH",
+		"State" : "KY",
+		"Latitude" : "+38.637848"
+	},
+	{
+		"Longitude" : "-083.732284",
+		"Zipcode" : "41041",
+		"ZipClass" : "STANDARD",
+		"County" : "FLEMING",
+		"City" : "FLEMINGSBURG",
+		"State" : "KY",
+		"Latitude" : "+38.438363"
+	},
+	{
+		"Longitude" : "-084.656711",
+		"Zipcode" : "41042",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "FLORENCE",
+		"State" : "KY",
+		"Latitude" : "+38.989548"
+	},
+	{
+		"Longitude" : "-084.171226",
+		"Zipcode" : "41043",
+		"ZipClass" : "STANDARD",
+		"County" : "BRACKEN",
+		"City" : "FOSTER",
+		"State" : "KY",
+		"Latitude" : "+38.766691"
+	},
+	{
+		"Longitude" : "-083.989965",
+		"Zipcode" : "41044",
+		"ZipClass" : "STANDARD",
+		"County" : "BRACKEN",
+		"City" : "GERMANTOWN",
+		"State" : "KY",
+		"Latitude" : "+38.635744"
+	},
+	{
+		"Longitude" : "-085.047073",
+		"Zipcode" : "41045",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "GHENT",
+		"State" : "KY",
+		"Latitude" : "+38.715638"
+	},
+	{
+		"Longitude" : "-084.805495",
+		"Zipcode" : "41046",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "GLENCOE",
+		"State" : "KY",
+		"Latitude" : "+38.732647"
+	},
+	{
+		"Longitude" : "-084.712389",
+		"Zipcode" : "41048",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "HEBRON",
+		"State" : "KY",
+		"Latitude" : "+39.086656"
+	},
+	{
+		"Longitude" : "-083.584351",
+		"Zipcode" : "41049",
+		"ZipClass" : "STANDARD",
+		"County" : "FLEMING",
+		"City" : "HILLSBORO",
+		"State" : "KY",
+		"Latitude" : "+38.237176"
+	},
+	{
+		"Longitude" : "-084.547450",
+		"Zipcode" : "41051",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "INDEPENDENCE",
+		"State" : "KY",
+		"Latitude" : "+38.923041"
+	},
+	{
+		"Longitude" : "-084.750673",
+		"Zipcode" : "41052",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "JONESVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.658689"
+	},
+	{
+		"Longitude" : "-084.520501",
+		"Zipcode" : "41053",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KENTON",
+		"City" : "KENTON",
+		"State" : "KY",
+		"Latitude" : "+38.944663"
+	},
+	{
+		"Longitude" : "-084.578552",
+		"Zipcode" : "41054",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "MASON",
+		"State" : "KY",
+		"Latitude" : "+38.593226"
+	},
+	{
+		"Longitude" : "-083.860969",
+		"Zipcode" : "41055",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "MAYSLICK",
+		"State" : "KY",
+		"Latitude" : "+38.522012"
+	},
+	{
+		"Longitude" : "-083.806657",
+		"Zipcode" : "41056",
+		"ZipClass" : "STANDARD",
+		"County" : "MASON",
+		"City" : "MAYSVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.620653"
+	},
+	{
+		"Longitude" : "-084.356980",
+		"Zipcode" : "41059",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "MELBOURNE",
+		"State" : "KY",
+		"Latitude" : "+39.003401"
+	},
+	{
+		"Longitude" : "-084.070074",
+		"Zipcode" : "41061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRACKEN",
+		"City" : "MILFORD",
+		"State" : "KY",
+		"Latitude" : "+38.688556"
+	},
+	{
+		"Longitude" : "-083.910276",
+		"Zipcode" : "41062",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MASON",
+		"City" : "MINERVA",
+		"State" : "KY",
+		"Latitude" : "+38.719573"
+	},
+	{
+		"Longitude" : "-084.517548",
+		"Zipcode" : "41063",
+		"ZipClass" : "STANDARD",
+		"County" : "KENTON",
+		"City" : "MORNING VIEW",
+		"State" : "KY",
+		"Latitude" : "+38.866297"
+	},
+	{
+		"Longitude" : "-084.035565",
+		"Zipcode" : "41064",
+		"ZipClass" : "STANDARD",
+		"County" : "ROBERTSON",
+		"City" : "MOUNT OLIVET",
+		"State" : "KY",
+		"Latitude" : "+38.531698"
+	},
+	{
+		"Longitude" : "-083.718626",
+		"Zipcode" : "41065",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FLEMING",
+		"City" : "MUSES MILLS",
+		"State" : "KY",
+		"Latitude" : "+38.348100"
+	},
+	{
+		"Longitude" : "-084.478742",
+		"Zipcode" : "41071",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "NEWPORT",
+		"State" : "KY",
+		"Latitude" : "+39.056261"
+	},
+	{
+		"Longitude" : "-084.368926",
+		"Zipcode" : "41072",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "NEWPORT",
+		"State" : "KY",
+		"Latitude" : "+38.963761"
+	},
+	{
+		"Longitude" : "-084.473642",
+		"Zipcode" : "41073",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "BELLEVUE",
+		"State" : "KY",
+		"Latitude" : "+39.104410"
+	},
+	{
+		"Longitude" : "-084.396404",
+		"Zipcode" : "41074",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "DAYTON",
+		"State" : "KY",
+		"Latitude" : "+39.057835"
+	},
+	{
+		"Longitude" : "-084.453991",
+		"Zipcode" : "41075",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "FORT THOMAS",
+		"State" : "KY",
+		"Latitude" : "+39.080411"
+	},
+	{
+		"Longitude" : "-084.440757",
+		"Zipcode" : "41076",
+		"ZipClass" : "STANDARD",
+		"County" : "CAMPBELL",
+		"City" : "NEWPORT",
+		"State" : "KY",
+		"Latitude" : "+39.029015"
+	},
+	{
+		"Longitude" : "-084.837832",
+		"Zipcode" : "41080",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "PETERSBURG",
+		"State" : "KY",
+		"Latitude" : "+39.039096"
+	},
+	{
+		"Longitude" : "-083.718626",
+		"Zipcode" : "41081",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FLEMING",
+		"City" : "PLUMMERS LANDING",
+		"State" : "KY",
+		"Latitude" : "+38.348100"
+	},
+	{
+		"Longitude" : "-085.005783",
+		"Zipcode" : "41083",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "SANDERS",
+		"State" : "KY",
+		"Latitude" : "+38.660372"
+	},
+	{
+		"Longitude" : "-084.388143",
+		"Zipcode" : "41085",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CAMPBELL",
+		"City" : "SILVER GROVE",
+		"State" : "KY",
+		"Latitude" : "+39.034045"
+	},
+	{
+		"Longitude" : "-084.895823",
+		"Zipcode" : "41086",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "SPARTA",
+		"State" : "KY",
+		"Latitude" : "+38.731246"
+	},
+	{
+		"Longitude" : "-084.746057",
+		"Zipcode" : "41091",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "UNION",
+		"State" : "KY",
+		"Latitude" : "+38.921583"
+	},
+	{
+		"Longitude" : "-084.692136",
+		"Zipcode" : "41092",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "VERONA",
+		"State" : "KY",
+		"Latitude" : "+38.824585"
+	},
+	{
+		"Longitude" : "-083.718626",
+		"Zipcode" : "41093",
+		"ZipClass" : "STANDARD",
+		"County" : "FLEMING",
+		"City" : "WALLINGFORD",
+		"State" : "KY",
+		"Latitude" : "+38.348100"
+	},
+	{
+		"Longitude" : "-084.665597",
+		"Zipcode" : "41094",
+		"ZipClass" : "STANDARD",
+		"County" : "BOONE",
+		"City" : "WALTON",
+		"State" : "KY",
+		"Latitude" : "+38.881420"
+	},
+	{
+		"Longitude" : "-084.877785",
+		"Zipcode" : "41095",
+		"ZipClass" : "STANDARD",
+		"County" : "GALLATIN",
+		"City" : "WARSAW",
+		"State" : "KY",
+		"Latitude" : "+38.762505"
+	},
+	{
+		"Longitude" : "-083.808021",
+		"Zipcode" : "41096",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MASON",
+		"City" : "WASHINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.612250"
+	},
+	{
+		"Longitude" : "-084.603041",
+		"Zipcode" : "41097",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "WILLIAMSTOWN",
+		"State" : "KY",
+		"Latitude" : "+38.654385"
+	},
+	{
+		"Longitude" : "-085.047765",
+		"Zipcode" : "41098",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WORTHVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.637181"
+	},
+	{
+		"Longitude" : "-084.368926",
+		"Zipcode" : "41099",
+		"ZipClass" : "UNIQUE",
+		"County" : "CAMPBELL",
+		"City" : "NEWPORT",
+		"State" : "KY",
+		"Latitude" : "+38.963761"
+	},
+	{
+		"Longitude" : "-082.693914",
+		"Zipcode" : "41101",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "ASHLAND",
+		"State" : "KY",
+		"Latitude" : "+38.432960"
+	},
+	{
+		"Longitude" : "-082.717284",
+		"Zipcode" : "41102",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "ASHLAND",
+		"State" : "KY",
+		"Latitude" : "+38.421818"
+	},
+	{
+		"Longitude" : "-082.694757",
+		"Zipcode" : "41105",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "ASHLAND",
+		"State" : "KY",
+		"Latitude" : "+38.370285"
+	},
+	{
+		"Longitude" : "-082.694757",
+		"Zipcode" : "41114",
+		"ZipClass" : "UNIQUE",
+		"County" : "BOYD",
+		"City" : "ASHLAND",
+		"State" : "KY",
+		"Latitude" : "+38.370285"
+	},
+	{
+		"Longitude" : "-082.872362",
+		"Zipcode" : "41121",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENUP",
+		"City" : "ARGILLITE",
+		"State" : "KY",
+		"Latitude" : "+38.511714"
+	},
+	{
+		"Longitude" : "-082.744663",
+		"Zipcode" : "41124",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "BLAINE",
+		"State" : "KY",
+		"Latitude" : "+38.074113"
+	},
+	{
+		"Longitude" : "-083.361625",
+		"Zipcode" : "41127",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "CAMP DIX",
+		"State" : "KY",
+		"Latitude" : "+38.602881"
+	},
+	{
+		"Longitude" : "-083.133597",
+		"Zipcode" : "41128",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARTER",
+		"City" : "CARTER",
+		"State" : "KY",
+		"Latitude" : "+38.433912"
+	},
+	{
+		"Longitude" : "-082.649833",
+		"Zipcode" : "41129",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "CATLETTSBURG",
+		"State" : "KY",
+		"Latitude" : "+38.349127"
+	},
+	{
+		"Longitude" : "-082.856231",
+		"Zipcode" : "41132",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "DENTON",
+		"State" : "KY",
+		"Latitude" : "+38.259701"
+	},
+	{
+		"Longitude" : "-083.335329",
+		"Zipcode" : "41135",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "EMERSON",
+		"State" : "KY",
+		"Latitude" : "+38.521926"
+	},
+	{
+		"Longitude" : "-083.335329",
+		"Zipcode" : "41137",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "FIREBRICK",
+		"State" : "KY",
+		"Latitude" : "+38.521926"
+	},
+	{
+		"Longitude" : "-082.728176",
+		"Zipcode" : "41139",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENUP",
+		"City" : "FLATWOODS",
+		"State" : "KY",
+		"Latitude" : "+38.503160"
+	},
+	{
+		"Longitude" : "-083.335329",
+		"Zipcode" : "41141",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "GARRISON",
+		"State" : "KY",
+		"Latitude" : "+38.521926"
+	},
+	{
+		"Longitude" : "-083.081077",
+		"Zipcode" : "41142",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARTER",
+		"City" : "GRAHN",
+		"State" : "KY",
+		"Latitude" : "+38.289740"
+	},
+	{
+		"Longitude" : "-083.000742",
+		"Zipcode" : "41143",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "GRAYSON",
+		"State" : "KY",
+		"Latitude" : "+38.324893"
+	},
+	{
+		"Longitude" : "-082.839401",
+		"Zipcode" : "41144",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENUP",
+		"City" : "GREENUP",
+		"State" : "KY",
+		"Latitude" : "+38.617863"
+	},
+	{
+		"Longitude" : "-083.061941",
+		"Zipcode" : "41146",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "HITCHINS",
+		"State" : "KY",
+		"Latitude" : "+38.271432"
+	},
+	{
+		"Longitude" : "-083.079708",
+		"Zipcode" : "41149",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIOTT",
+		"City" : "ISONVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.131568"
+	},
+	{
+		"Longitude" : "-083.242129",
+		"Zipcode" : "41150",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "JACOBS",
+		"State" : "KY",
+		"Latitude" : "+38.225087"
+	},
+	{
+		"Longitude" : "-082.916586",
+		"Zipcode" : "41156",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENUP",
+		"City" : "LLOYD",
+		"State" : "KY",
+		"Latitude" : "+38.565211"
+	},
+	{
+		"Longitude" : "-082.744663",
+		"Zipcode" : "41159",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "MARTHA",
+		"State" : "KY",
+		"Latitude" : "+38.074113"
+	},
+	{
+		"Longitude" : "-082.744663",
+		"Zipcode" : "41160",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "MAZIE",
+		"State" : "KY",
+		"Latitude" : "+38.074113"
+	},
+	{
+		"Longitude" : "-083.177987",
+		"Zipcode" : "41164",
+		"ZipClass" : "STANDARD",
+		"County" : "CARTER",
+		"City" : "OLIVE HILL",
+		"State" : "KY",
+		"Latitude" : "+38.349219"
+	},
+	{
+		"Longitude" : "-083.335329",
+		"Zipcode" : "41166",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "QUINCY",
+		"State" : "KY",
+		"Latitude" : "+38.521926"
+	},
+	{
+		"Longitude" : "-082.717666",
+		"Zipcode" : "41168",
+		"ZipClass" : "STANDARD",
+		"County" : "BOYD",
+		"City" : "RUSH",
+		"State" : "KY",
+		"Latitude" : "+38.309110"
+	},
+	{
+		"Longitude" : "-082.827053",
+		"Zipcode" : "41169",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENUP",
+		"City" : "RUSSELL",
+		"State" : "KY",
+		"Latitude" : "+38.607408"
+	},
+	{
+		"Longitude" : "-083.335329",
+		"Zipcode" : "41170",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "SAINT PAUL",
+		"State" : "KY",
+		"Latitude" : "+38.521926"
+	},
+	{
+		"Longitude" : "-083.079708",
+		"Zipcode" : "41171",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIOTT",
+		"City" : "SANDY HOOK",
+		"State" : "KY",
+		"Latitude" : "+38.131568"
+	},
+	{
+		"Longitude" : "-083.284720",
+		"Zipcode" : "41173",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARTER",
+		"City" : "SOLDIER",
+		"State" : "KY",
+		"Latitude" : "+38.262029"
+	},
+	{
+		"Longitude" : "-082.916586",
+		"Zipcode" : "41174",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENUP",
+		"City" : "SOUTH PORTSMOUTH",
+		"State" : "KY",
+		"Latitude" : "+38.565211"
+	},
+	{
+		"Longitude" : "-082.936626",
+		"Zipcode" : "41175",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENUP",
+		"City" : "SOUTH SHORE",
+		"State" : "KY",
+		"Latitude" : "+38.714809"
+	},
+	{
+		"Longitude" : "-083.270248",
+		"Zipcode" : "41179",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "VANCEBURG",
+		"State" : "KY",
+		"Latitude" : "+38.469945"
+	},
+	{
+		"Longitude" : "-082.882533",
+		"Zipcode" : "41180",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "WEBBVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.190296"
+	},
+	{
+		"Longitude" : "-082.907615",
+		"Zipcode" : "41181",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARTER",
+		"City" : "WILLARD",
+		"State" : "KY",
+		"Latitude" : "+38.204459"
+	},
+	{
+		"Longitude" : "-082.727678",
+		"Zipcode" : "41183",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENUP",
+		"City" : "WORTHINGTON",
+		"State" : "KY",
+		"Latitude" : "+38.546615"
+	},
+	{
+		"Longitude" : "-083.335329",
+		"Zipcode" : "41189",
+		"ZipClass" : "STANDARD",
+		"County" : "LEWIS",
+		"City" : "TOLLESBORO",
+		"State" : "KY",
+		"Latitude" : "+38.521926"
+	},
+	{
+		"Longitude" : "-082.744663",
+		"Zipcode" : "41201",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "ADAMS",
+		"State" : "KY",
+		"Latitude" : "+38.074113"
+	},
+	{
+		"Longitude" : "-082.622288",
+		"Zipcode" : "41203",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARTIN",
+		"City" : "BEAUTY",
+		"State" : "KY",
+		"Latitude" : "+37.761149"
+	},
+	{
+		"Longitude" : "-082.694671",
+		"Zipcode" : "41204",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "BOONS CAMP",
+		"State" : "KY",
+		"Latitude" : "+37.822653"
+	},
+	{
+		"Longitude" : "-082.559438",
+		"Zipcode" : "41214",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "DEBORD",
+		"State" : "KY",
+		"Latitude" : "+37.800137"
+	},
+	{
+		"Longitude" : "-082.865092",
+		"Zipcode" : "41215",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "DENVER",
+		"State" : "KY",
+		"Latitude" : "+37.771963"
+	},
+	{
+		"Longitude" : "-082.818187",
+		"Zipcode" : "41216",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "EAST POINT",
+		"State" : "KY",
+		"Latitude" : "+37.757935"
+	},
+	{
+		"Longitude" : "-082.922077",
+		"Zipcode" : "41219",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "FLATGAP",
+		"State" : "KY",
+		"Latitude" : "+37.923134"
+	},
+	{
+		"Longitude" : "-082.841565",
+		"Zipcode" : "41222",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "HAGERHILL",
+		"State" : "KY",
+		"Latitude" : "+37.780451"
+	},
+	{
+		"Longitude" : "-082.533718",
+		"Zipcode" : "41224",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "INEZ",
+		"State" : "KY",
+		"Latitude" : "+37.875400"
+	},
+	{
+		"Longitude" : "-082.966183",
+		"Zipcode" : "41226",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "KEATON",
+		"State" : "KY",
+		"Latitude" : "+37.973831"
+	},
+	{
+		"Longitude" : "-082.865598",
+		"Zipcode" : "41228",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "LEANDER",
+		"State" : "KY",
+		"Latitude" : "+37.739663"
+	},
+	{
+		"Longitude" : "-082.605591",
+		"Zipcode" : "41230",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "LOUISA",
+		"State" : "KY",
+		"Latitude" : "+38.104327"
+	},
+	{
+		"Longitude" : "-082.492731",
+		"Zipcode" : "41231",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "LOVELY",
+		"State" : "KY",
+		"Latitude" : "+37.815648"
+	},
+	{
+		"Longitude" : "-082.744663",
+		"Zipcode" : "41232",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "LOWMANSVILLE",
+		"State" : "KY",
+		"Latitude" : "+38.074113"
+	},
+	{
+		"Longitude" : "-082.741549",
+		"Zipcode" : "41234",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "MEALLY",
+		"State" : "KY",
+		"Latitude" : "+37.807776"
+	},
+	{
+		"Longitude" : "-082.939108",
+		"Zipcode" : "41238",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "OIL SPRINGS",
+		"State" : "KY",
+		"Latitude" : "+37.812772"
+	},
+	{
+		"Longitude" : "-082.794504",
+		"Zipcode" : "41240",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "PAINTSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.824167"
+	},
+	{
+		"Longitude" : "-082.492731",
+		"Zipcode" : "41250",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "PILGRIM",
+		"State" : "KY",
+		"Latitude" : "+37.815648"
+	},
+	{
+		"Longitude" : "-082.725052",
+		"Zipcode" : "41254",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "RIVER",
+		"State" : "KY",
+		"Latitude" : "+37.879486"
+	},
+	{
+		"Longitude" : "-082.832532",
+		"Zipcode" : "41255",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SITKA",
+		"State" : "KY",
+		"Latitude" : "+37.920063"
+	},
+	{
+		"Longitude" : "-082.882251",
+		"Zipcode" : "41256",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "STAFFORDSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.825284"
+	},
+	{
+		"Longitude" : "-082.803427",
+		"Zipcode" : "41257",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "STAMBAUGH",
+		"State" : "KY",
+		"Latitude" : "+37.916598"
+	},
+	{
+		"Longitude" : "-082.766705",
+		"Zipcode" : "41260",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "THELMA",
+		"State" : "KY",
+		"Latitude" : "+37.810703"
+	},
+	{
+		"Longitude" : "-082.645668",
+		"Zipcode" : "41262",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "TOMAHAWK",
+		"State" : "KY",
+		"Latitude" : "+37.825114"
+	},
+	{
+		"Longitude" : "-082.760226",
+		"Zipcode" : "41263",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "TUTOR KEY",
+		"State" : "KY",
+		"Latitude" : "+37.850698"
+	},
+	{
+		"Longitude" : "-082.744663",
+		"Zipcode" : "41264",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "ULYSSES",
+		"State" : "KY",
+		"Latitude" : "+38.074113"
+	},
+	{
+		"Longitude" : "-082.740121",
+		"Zipcode" : "41265",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "VAN LEAR",
+		"State" : "KY",
+		"Latitude" : "+37.784196"
+	},
+	{
+		"Longitude" : "-082.492731",
+		"Zipcode" : "41267",
+		"ZipClass" : "STANDARD",
+		"County" : "MARTIN",
+		"City" : "WARFIELD",
+		"State" : "KY",
+		"Latitude" : "+37.815648"
+	},
+	{
+		"Longitude" : "-082.791012",
+		"Zipcode" : "41268",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JOHNSON",
+		"City" : "WEST VAN LEAR",
+		"State" : "KY",
+		"Latitude" : "+37.797057"
+	},
+	{
+		"Longitude" : "-082.726407",
+		"Zipcode" : "41271",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "WILLIAMSPORT",
+		"State" : "KY",
+		"Latitude" : "+37.831277"
+	},
+	{
+		"Longitude" : "-082.781153",
+		"Zipcode" : "41274",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "WITTENSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.899527"
+	},
+	{
+		"Longitude" : "-083.494029",
+		"Zipcode" : "41301",
+		"ZipClass" : "STANDARD",
+		"County" : "WOLFE",
+		"City" : "CAMPTON",
+		"State" : "KY",
+		"Latitude" : "+37.728737"
+	},
+	{
+		"Longitude" : "-083.264320",
+		"Zipcode" : "41307",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "ATHOL",
+		"State" : "KY",
+		"Latitude" : "+37.515013"
+	},
+	{
+		"Longitude" : "-083.244088",
+		"Zipcode" : "41310",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "BAYS",
+		"State" : "KY",
+		"Latitude" : "+37.640513"
+	},
+	{
+		"Longitude" : "-083.714013",
+		"Zipcode" : "41311",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "BEATTYVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.599904"
+	},
+	{
+		"Longitude" : "-083.475446",
+		"Zipcode" : "41313",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WOLFE",
+		"City" : "BETHANY",
+		"State" : "KY",
+		"Latitude" : "+37.740503"
+	},
+	{
+		"Longitude" : "-083.657351",
+		"Zipcode" : "41314",
+		"ZipClass" : "STANDARD",
+		"County" : "OWSLEY",
+		"City" : "BOONEVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.496523"
+	},
+	{
+		"Longitude" : "-083.235959",
+		"Zipcode" : "41317",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "CLAYHOLE",
+		"State" : "KY",
+		"Latitude" : "+37.462104"
+	},
+	{
+		"Longitude" : "-083.420976",
+		"Zipcode" : "41332",
+		"ZipClass" : "STANDARD",
+		"County" : "WOLFE",
+		"City" : "HAZEL GREEN",
+		"State" : "KY",
+		"Latitude" : "+37.798052"
+	},
+	{
+		"Longitude" : "-083.776253",
+		"Zipcode" : "41333",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "HEIDELBERG",
+		"State" : "KY",
+		"Latitude" : "+37.556255"
+	},
+	{
+		"Longitude" : "-083.704908",
+		"Zipcode" : "41338",
+		"ZipClass" : "STANDARD",
+		"County" : "OWSLEY",
+		"City" : "ISLAND CITY",
+		"State" : "KY",
+		"Latitude" : "+37.398617"
+	},
+	{
+		"Longitude" : "-083.291331",
+		"Zipcode" : "41339",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "JACKSON",
+		"State" : "KY",
+		"Latitude" : "+37.486809"
+	},
+	{
+		"Longitude" : "-083.475446",
+		"Zipcode" : "41342",
+		"ZipClass" : "STANDARD",
+		"County" : "WOLFE",
+		"City" : "LEE CITY",
+		"State" : "KY",
+		"Latitude" : "+37.740503"
+	},
+	{
+		"Longitude" : "-083.704908",
+		"Zipcode" : "41344",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OWSLEY",
+		"City" : "LEROSE",
+		"State" : "KY",
+		"Latitude" : "+37.398617"
+	},
+	{
+		"Longitude" : "-083.600784",
+		"Zipcode" : "41347",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "LONE",
+		"State" : "KY",
+		"Latitude" : "+37.544180"
+	},
+	{
+		"Longitude" : "-083.297614",
+		"Zipcode" : "41348",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "LOST CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.441782"
+	},
+	{
+		"Longitude" : "-083.704908",
+		"Zipcode" : "41351",
+		"ZipClass" : "STANDARD",
+		"County" : "OWSLEY",
+		"City" : "MISTLETOE",
+		"State" : "KY",
+		"Latitude" : "+37.398617"
+	},
+	{
+		"Longitude" : "-083.233761",
+		"Zipcode" : "41352",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "MIZE",
+		"State" : "KY",
+		"Latitude" : "+37.914002"
+	},
+	{
+		"Longitude" : "-083.631377",
+		"Zipcode" : "41360",
+		"ZipClass" : "STANDARD",
+		"County" : "WOLFE",
+		"City" : "PINE RIDGE",
+		"State" : "KY",
+		"Latitude" : "+37.772774"
+	},
+	{
+		"Longitude" : "-083.713974",
+		"Zipcode" : "41362",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "PRIMROSE",
+		"State" : "KY",
+		"Latitude" : "+37.603320"
+	},
+	{
+		"Longitude" : "-083.675179",
+		"Zipcode" : "41364",
+		"ZipClass" : "STANDARD",
+		"County" : "OWSLEY",
+		"City" : "RICETOWN",
+		"State" : "KY",
+		"Latitude" : "+37.387127"
+	},
+	{
+		"Longitude" : "-083.636349",
+		"Zipcode" : "41365",
+		"ZipClass" : "STANDARD",
+		"County" : "WOLFE",
+		"City" : "ROGERS",
+		"State" : "KY",
+		"Latitude" : "+37.715699"
+	},
+	{
+		"Longitude" : "-083.287774",
+		"Zipcode" : "41366",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "ROUSSEAU",
+		"State" : "KY",
+		"Latitude" : "+37.593059"
+	},
+	{
+		"Longitude" : "-083.226964",
+		"Zipcode" : "41367",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "ROWDY",
+		"State" : "KY",
+		"Latitude" : "+37.397017"
+	},
+	{
+		"Longitude" : "-083.643410",
+		"Zipcode" : "41368",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "SAINT HELENS",
+		"State" : "KY",
+		"Latitude" : "+37.611684"
+	},
+	{
+		"Longitude" : "-083.444462",
+		"Zipcode" : "41377",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "TALBERT",
+		"State" : "KY",
+		"Latitude" : "+37.417538"
+	},
+	{
+		"Longitude" : "-083.360738",
+		"Zipcode" : "41385",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "VANCLEVE",
+		"State" : "KY",
+		"Latitude" : "+37.628827"
+	},
+	{
+		"Longitude" : "-083.704908",
+		"Zipcode" : "41386",
+		"ZipClass" : "STANDARD",
+		"County" : "OWSLEY",
+		"City" : "VINCENT",
+		"State" : "KY",
+		"Latitude" : "+37.398617"
+	},
+	{
+		"Longitude" : "-083.377999",
+		"Zipcode" : "41390",
+		"ZipClass" : "STANDARD",
+		"County" : "BREATHITT",
+		"City" : "WHICK",
+		"State" : "KY",
+		"Latitude" : "+37.421929"
+	},
+	{
+		"Longitude" : "-083.687173",
+		"Zipcode" : "41397",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "ZOE",
+		"State" : "KY",
+		"Latitude" : "+37.672317"
+	},
+	{
+		"Longitude" : "-083.233761",
+		"Zipcode" : "41408",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "CANNEL CITY",
+		"State" : "KY",
+		"Latitude" : "+37.914002"
+	},
+	{
+		"Longitude" : "-083.074592",
+		"Zipcode" : "41410",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAGOFFIN",
+		"City" : "CISCO",
+		"State" : "KY",
+		"Latitude" : "+37.690636"
+	},
+	{
+		"Longitude" : "-083.125202",
+		"Zipcode" : "41413",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "CROCKETT",
+		"State" : "KY",
+		"Latitude" : "+37.970507"
+	},
+	{
+		"Longitude" : "-083.074592",
+		"Zipcode" : "41419",
+		"ZipClass" : "STANDARD",
+		"County" : "MAGOFFIN",
+		"City" : "EDNA",
+		"State" : "KY",
+		"Latitude" : "+37.690636"
+	},
+	{
+		"Longitude" : "-083.119310",
+		"Zipcode" : "41421",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "ELKFORK",
+		"State" : "KY",
+		"Latitude" : "+37.970781"
+	},
+	{
+		"Longitude" : "-083.074592",
+		"Zipcode" : "41422",
+		"ZipClass" : "STANDARD",
+		"County" : "MAGOFFIN",
+		"City" : "ELSIE",
+		"State" : "KY",
+		"Latitude" : "+37.690636"
+	},
+	{
+		"Longitude" : "-083.233761",
+		"Zipcode" : "41425",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "EZEL",
+		"State" : "KY",
+		"Latitude" : "+37.914002"
+	},
+	{
+		"Longitude" : "-083.010863",
+		"Zipcode" : "41426",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAGOFFIN",
+		"City" : "FALCON",
+		"State" : "KY",
+		"Latitude" : "+37.784255"
+	},
+	{
+		"Longitude" : "-083.074592",
+		"Zipcode" : "41433",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAGOFFIN",
+		"City" : "GAPVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.690636"
+	},
+	{
+		"Longitude" : "-083.074592",
+		"Zipcode" : "41444",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MAGOFFIN",
+		"City" : "IVYTON",
+		"State" : "KY",
+		"Latitude" : "+37.690636"
+	},
+	{
+		"Longitude" : "-083.233761",
+		"Zipcode" : "41451",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "MALONE",
+		"State" : "KY",
+		"Latitude" : "+37.914002"
+	},
+	{
+		"Longitude" : "-083.233761",
+		"Zipcode" : "41459",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MORGAN",
+		"City" : "OPHIR",
+		"State" : "KY",
+		"Latitude" : "+37.914002"
+	},
+	{
+		"Longitude" : "-083.022500",
+		"Zipcode" : "41464",
+		"ZipClass" : "STANDARD",
+		"County" : "MAGOFFIN",
+		"City" : "ROYALTON",
+		"State" : "KY",
+		"Latitude" : "+37.676288"
+	},
+	{
+		"Longitude" : "-083.029761",
+		"Zipcode" : "41465",
+		"ZipClass" : "STANDARD",
+		"County" : "MAGOFFIN",
+		"City" : "SALYERSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.732536"
+	},
+	{
+		"Longitude" : "-083.198234",
+		"Zipcode" : "41472",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "WEST LIBERTY",
+		"State" : "KY",
+		"Latitude" : "+37.976210"
+	},
+	{
+		"Longitude" : "-083.233761",
+		"Zipcode" : "41477",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "WRIGLEY",
+		"State" : "KY",
+		"Latitude" : "+37.914002"
+	},
+	{
+		"Longitude" : "-082.447075",
+		"Zipcode" : "41501",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "PIKEVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.482901"
+	},
+	{
+		"Longitude" : "-082.550507",
+		"Zipcode" : "41502",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "PIKEVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.481637"
+	},
+	{
+		"Longitude" : "-082.310048",
+		"Zipcode" : "41503",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "SOUTH WILLIAMSON",
+		"State" : "KY",
+		"Latitude" : "+37.488710"
+	},
+	{
+		"Longitude" : "-082.448017",
+		"Zipcode" : "41512",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "ASHCAMP",
+		"State" : "KY",
+		"Latitude" : "+37.462655"
+	},
+	{
+		"Longitude" : "-082.340599",
+		"Zipcode" : "41513",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "BELCHER",
+		"State" : "KY",
+		"Latitude" : "+37.347810"
+	},
+	{
+		"Longitude" : "-082.313128",
+		"Zipcode" : "41514",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "BELFRY",
+		"State" : "KY",
+		"Latitude" : "+37.640727"
+	},
+	{
+		"Longitude" : "-082.611090",
+		"Zipcode" : "41517",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "BURDINE",
+		"State" : "KY",
+		"Latitude" : "+37.184477"
+	},
+	{
+		"Longitude" : "-082.330826",
+		"Zipcode" : "41519",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "CANADA",
+		"State" : "KY",
+		"Latitude" : "+37.589934"
+	},
+	{
+		"Longitude" : "-082.577320",
+		"Zipcode" : "41520",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "DORTON",
+		"State" : "KY",
+		"Latitude" : "+37.279027"
+	},
+	{
+		"Longitude" : "-082.384689",
+		"Zipcode" : "41522",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "ELKHORN CITY",
+		"State" : "KY",
+		"Latitude" : "+37.423670"
+	},
+	{
+		"Longitude" : "-082.256227",
+		"Zipcode" : "41524",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "FEDSCREEK",
+		"State" : "KY",
+		"Latitude" : "+37.426582"
+	},
+	{
+		"Longitude" : "-082.518527",
+		"Zipcode" : "41526",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "FORDS BRANCH",
+		"State" : "KY",
+		"Latitude" : "+37.437194"
+	},
+	{
+		"Longitude" : "-082.279522",
+		"Zipcode" : "41527",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "FOREST HILLS",
+		"State" : "KY",
+		"Latitude" : "+37.630682"
+	},
+	{
+		"Longitude" : "-082.129733",
+		"Zipcode" : "41528",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "FREEBURN",
+		"State" : "KY",
+		"Latitude" : "+37.551774"
+	},
+	{
+		"Longitude" : "-082.264495",
+		"Zipcode" : "41531",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "HARDY",
+		"State" : "KY",
+		"Latitude" : "+37.649157"
+	},
+	{
+		"Longitude" : "-082.480755",
+		"Zipcode" : "41534",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "HELLIER",
+		"State" : "KY",
+		"Latitude" : "+37.281894"
+	},
+	{
+		"Longitude" : "-082.288195",
+		"Zipcode" : "41535",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "HUDDY",
+		"State" : "KY",
+		"Latitude" : "+37.606484"
+	},
+	{
+		"Longitude" : "-082.651342",
+		"Zipcode" : "41537",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "JENKINS",
+		"State" : "KY",
+		"Latitude" : "+37.191103"
+	},
+	{
+		"Longitude" : "-082.348837",
+		"Zipcode" : "41538",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "JONANCY",
+		"State" : "KY",
+		"Latitude" : "+37.470577"
+	},
+	{
+		"Longitude" : "-082.330705",
+		"Zipcode" : "41539",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "KIMPER",
+		"State" : "KY",
+		"Latitude" : "+37.411318"
+	},
+	{
+		"Longitude" : "-082.309224",
+		"Zipcode" : "41540",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "LICK CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.359184"
+	},
+	{
+		"Longitude" : "-082.464979",
+		"Zipcode" : "41542",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "LOOKOUT",
+		"State" : "KY",
+		"Latitude" : "+37.314848"
+	},
+	{
+		"Longitude" : "-082.280348",
+		"Zipcode" : "41543",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MC ANDREWS",
+		"State" : "KY",
+		"Latitude" : "+37.562421"
+	},
+	{
+		"Longitude" : "-082.226783",
+		"Zipcode" : "41544",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MC CARR",
+		"State" : "KY",
+		"Latitude" : "+37.628873"
+	},
+	{
+		"Longitude" : "-082.301252",
+		"Zipcode" : "41546",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MC VEIGH",
+		"State" : "KY",
+		"Latitude" : "+37.519774"
+	},
+	{
+		"Longitude" : "-082.091605",
+		"Zipcode" : "41547",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MAJESTIC",
+		"State" : "KY",
+		"Latitude" : "+37.531145"
+	},
+	{
+		"Longitude" : "-082.348728",
+		"Zipcode" : "41548",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MOUTHCARD",
+		"State" : "KY",
+		"Latitude" : "+37.395235"
+	},
+	{
+		"Longitude" : "-082.348837",
+		"Zipcode" : "41549",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "MYRA",
+		"State" : "KY",
+		"Latitude" : "+37.470577"
+	},
+	{
+		"Longitude" : "-082.229946",
+		"Zipcode" : "41553",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "PHELPS",
+		"State" : "KY",
+		"Latitude" : "+37.541435"
+	},
+	{
+		"Longitude" : "-082.424168",
+		"Zipcode" : "41554",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "PHYLLIS",
+		"State" : "KY",
+		"Latitude" : "+37.408938"
+	},
+	{
+		"Longitude" : "-082.262124",
+		"Zipcode" : "41555",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "PINSONFORK",
+		"State" : "KY",
+		"Latitude" : "+37.546621"
+	},
+	{
+		"Longitude" : "-082.422135",
+		"Zipcode" : "41557",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "RACCOON",
+		"State" : "KY",
+		"Latitude" : "+37.493468"
+	},
+	{
+		"Longitude" : "-082.208487",
+		"Zipcode" : "41558",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "RANSOM",
+		"State" : "KY",
+		"Latitude" : "+37.542575"
+	},
+	{
+		"Longitude" : "-082.407751",
+		"Zipcode" : "41559",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "REGINA",
+		"State" : "KY",
+		"Latitude" : "+37.370376"
+	},
+	{
+		"Longitude" : "-082.561632",
+		"Zipcode" : "41560",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "ROBINSON CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.379875"
+	},
+	{
+		"Longitude" : "-082.462574",
+		"Zipcode" : "41561",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "ROCKHOUSE",
+		"State" : "KY",
+		"Latitude" : "+37.331620"
+	},
+	{
+		"Longitude" : "-082.467345",
+		"Zipcode" : "41562",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "SHELBIANA",
+		"State" : "KY",
+		"Latitude" : "+37.406280"
+	},
+	{
+		"Longitude" : "-082.528583",
+		"Zipcode" : "41563",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "SHELBY GAP",
+		"State" : "KY",
+		"Latitude" : "+37.231149"
+	},
+	{
+		"Longitude" : "-082.411486",
+		"Zipcode" : "41564",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "SIDNEY",
+		"State" : "KY",
+		"Latitude" : "+37.557911"
+	},
+	{
+		"Longitude" : "-082.197771",
+		"Zipcode" : "41566",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "STEELE",
+		"State" : "KY",
+		"Latitude" : "+37.399777"
+	},
+	{
+		"Longitude" : "-082.274370",
+		"Zipcode" : "41567",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "STONE",
+		"State" : "KY",
+		"Latitude" : "+37.580715"
+	},
+	{
+		"Longitude" : "-082.078363",
+		"Zipcode" : "41568",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "STOPOVER",
+		"State" : "KY",
+		"Latitude" : "+37.509279"
+	},
+	{
+		"Longitude" : "-082.286675",
+		"Zipcode" : "41569",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "TOLER",
+		"State" : "KY",
+		"Latitude" : "+37.608343"
+	},
+	{
+		"Longitude" : "-082.507019",
+		"Zipcode" : "41571",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "VARNEY",
+		"State" : "KY",
+		"Latitude" : "+37.621659"
+	},
+	{
+		"Longitude" : "-082.611355",
+		"Zipcode" : "41572",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "VIRGIE",
+		"State" : "KY",
+		"Latitude" : "+37.319685"
+	},
+	{
+		"Longitude" : "-082.676900",
+		"Zipcode" : "41601",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "ALLEN",
+		"State" : "KY",
+		"Latitude" : "+37.479896"
+	},
+	{
+		"Longitude" : "-082.695892",
+		"Zipcode" : "41602",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "AUXIER",
+		"State" : "KY",
+		"Latitude" : "+37.715759"
+	},
+	{
+		"Longitude" : "-082.680631",
+		"Zipcode" : "41603",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "BANNER",
+		"State" : "KY",
+		"Latitude" : "+37.570682"
+	},
+	{
+		"Longitude" : "-082.686866",
+		"Zipcode" : "41604",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "BEAVER",
+		"State" : "KY",
+		"Latitude" : "+37.377377"
+	},
+	{
+		"Longitude" : "-082.701035",
+		"Zipcode" : "41605",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "BETSY LAYNE",
+		"State" : "KY",
+		"Latitude" : "+37.540420"
+	},
+	{
+		"Longitude" : "-082.740255",
+		"Zipcode" : "41606",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "BEVINSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.346493"
+	},
+	{
+		"Longitude" : "-082.740742",
+		"Zipcode" : "41607",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "BLUE RIVER",
+		"State" : "KY",
+		"Latitude" : "+37.633196"
+	},
+	{
+		"Longitude" : "-082.716529",
+		"Zipcode" : "41612",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "BYPRO",
+		"State" : "KY",
+		"Latitude" : "+37.346545"
+	},
+	{
+		"Longitude" : "-082.684788",
+		"Zipcode" : "41615",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "DANA",
+		"State" : "KY",
+		"Latitude" : "+37.561699"
+	},
+	{
+		"Longitude" : "-082.870801",
+		"Zipcode" : "41616",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "DAVID",
+		"State" : "KY",
+		"Latitude" : "+37.576668"
+	},
+	{
+		"Longitude" : "-082.757540",
+		"Zipcode" : "41619",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "DRIFT",
+		"State" : "KY",
+		"Latitude" : "+37.493261"
+	},
+	{
+		"Longitude" : "-082.722679",
+		"Zipcode" : "41621",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "DWALE",
+		"State" : "KY",
+		"Latitude" : "+37.624553"
+	},
+	{
+		"Longitude" : "-082.818388",
+		"Zipcode" : "41622",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "EASTERN",
+		"State" : "KY",
+		"Latitude" : "+37.512564"
+	},
+	{
+		"Longitude" : "-082.834287",
+		"Zipcode" : "41630",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "GARRETT",
+		"State" : "KY",
+		"Latitude" : "+37.472094"
+	},
+	{
+		"Longitude" : "-082.664491",
+		"Zipcode" : "41631",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "GRETHEL",
+		"State" : "KY",
+		"Latitude" : "+37.457565"
+	},
+	{
+		"Longitude" : "-082.945214",
+		"Zipcode" : "41632",
+		"ZipClass" : "STANDARD",
+		"County" : "MAGOFFIN",
+		"City" : "GUNLOCK",
+		"State" : "KY",
+		"Latitude" : "+37.589246"
+	},
+	{
+		"Longitude" : "-082.677387",
+		"Zipcode" : "41635",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "HAROLD",
+		"State" : "KY",
+		"Latitude" : "+37.580715"
+	},
+	{
+		"Longitude" : "-082.714841",
+		"Zipcode" : "41636",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "HI HAT",
+		"State" : "KY",
+		"Latitude" : "+37.428614"
+	},
+	{
+		"Longitude" : "-082.851807",
+		"Zipcode" : "41640",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "HUEYSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.508668"
+	},
+	{
+		"Longitude" : "-082.677517",
+		"Zipcode" : "41642",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "IVEL",
+		"State" : "KY",
+		"Latitude" : "+37.469203"
+	},
+	{
+		"Longitude" : "-082.829405",
+		"Zipcode" : "41643",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "LACKEY",
+		"State" : "KY",
+		"Latitude" : "+37.470999"
+	},
+	{
+		"Longitude" : "-082.797386",
+		"Zipcode" : "41645",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "LANGLEY",
+		"State" : "KY",
+		"Latitude" : "+37.586933"
+	},
+	{
+		"Longitude" : "-082.713723",
+		"Zipcode" : "41647",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "MC DOWELL",
+		"State" : "KY",
+		"Latitude" : "+37.560801"
+	},
+	{
+		"Longitude" : "-082.785950",
+		"Zipcode" : "41649",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "MARTIN",
+		"State" : "KY",
+		"Latitude" : "+37.600698"
+	},
+	{
+		"Longitude" : "-082.676257",
+		"Zipcode" : "41650",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "MELVIN",
+		"State" : "KY",
+		"Latitude" : "+37.353614"
+	},
+	{
+		"Longitude" : "-082.764640",
+		"Zipcode" : "41651",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "MINNIE",
+		"State" : "KY",
+		"Latitude" : "+37.454849"
+	},
+	{
+		"Longitude" : "-082.771139",
+		"Zipcode" : "41653",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "PRESTONSBURG",
+		"State" : "KY",
+		"Latitude" : "+37.536748"
+	},
+	{
+		"Longitude" : "-082.762194",
+		"Zipcode" : "41655",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "PRINTER",
+		"State" : "KY",
+		"Latitude" : "+37.568892"
+	},
+	{
+		"Longitude" : "-082.673213",
+		"Zipcode" : "41659",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "STANVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.458380"
+	},
+	{
+		"Longitude" : "-082.648485",
+		"Zipcode" : "41660",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "TEABERRY",
+		"State" : "KY",
+		"Latitude" : "+37.413736"
+	},
+	{
+		"Longitude" : "-082.645206",
+		"Zipcode" : "41663",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FLOYD",
+		"City" : "TRAM",
+		"State" : "KY",
+		"Latitude" : "+37.572499"
+	},
+	{
+		"Longitude" : "-082.729805",
+		"Zipcode" : "41666",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "WAYLAND",
+		"State" : "KY",
+		"Latitude" : "+37.514783"
+	},
+	{
+		"Longitude" : "-082.704127",
+		"Zipcode" : "41667",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "WEEKSBURY",
+		"State" : "KY",
+		"Latitude" : "+37.316961"
+	},
+	{
+		"Longitude" : "-082.715606",
+		"Zipcode" : "41669",
+		"ZipClass" : "STANDARD",
+		"County" : "FLOYD",
+		"City" : "WHEELWRIGHT",
+		"State" : "KY",
+		"Latitude" : "+37.331441"
+	},
+	{
+		"Longitude" : "-083.239904",
+		"Zipcode" : "41701",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "HAZARD",
+		"State" : "KY",
+		"Latitude" : "+37.299666"
+	},
+	{
+		"Longitude" : "-083.206495",
+		"Zipcode" : "41702",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "HAZARD",
+		"State" : "KY",
+		"Latitude" : "+37.320076"
+	},
+	{
+		"Longitude" : "-083.154594",
+		"Zipcode" : "41712",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "ARY",
+		"State" : "KY",
+		"Latitude" : "+37.363778"
+	},
+	{
+		"Longitude" : "-083.273609",
+		"Zipcode" : "41713",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PERRY",
+		"City" : "AVAWAM",
+		"State" : "KY",
+		"Latitude" : "+37.225390"
+	},
+	{
+		"Longitude" : "-083.503508",
+		"Zipcode" : "41714",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "BEAR BRANCH",
+		"State" : "KY",
+		"Latitude" : "+37.193912"
+	},
+	{
+		"Longitude" : "-083.309013",
+		"Zipcode" : "41719",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "BONNYMAN",
+		"State" : "KY",
+		"Latitude" : "+37.310308"
+	},
+	{
+		"Longitude" : "-083.471730",
+		"Zipcode" : "41721",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "BUCKHORN",
+		"State" : "KY",
+		"Latitude" : "+37.302001"
+	},
+	{
+		"Longitude" : "-083.156088",
+		"Zipcode" : "41722",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "BULAN",
+		"State" : "KY",
+		"Latitude" : "+37.315033"
+	},
+	{
+		"Longitude" : "-083.238897",
+		"Zipcode" : "41723",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "BUSY",
+		"State" : "KY",
+		"Latitude" : "+37.277522"
+	},
+	{
+		"Longitude" : "-083.068963",
+		"Zipcode" : "41725",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOTT",
+		"City" : "CARRIE",
+		"State" : "KY",
+		"Latitude" : "+37.318236"
+	},
+	{
+		"Longitude" : "-083.262663",
+		"Zipcode" : "41727",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "CHAVIES",
+		"State" : "KY",
+		"Latitude" : "+37.277764"
+	},
+	{
+		"Longitude" : "-083.217443",
+		"Zipcode" : "41729",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "COMBS",
+		"State" : "KY",
+		"Latitude" : "+37.264854"
+	},
+	{
+		"Longitude" : "-083.395648",
+		"Zipcode" : "41730",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "CONFLUENCE",
+		"State" : "KY",
+		"Latitude" : "+37.258617"
+	},
+	{
+		"Longitude" : "-083.088916",
+		"Zipcode" : "41731",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "CORNETTSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.140800"
+	},
+	{
+		"Longitude" : "-083.096311",
+		"Zipcode" : "41735",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "DELPHIA",
+		"State" : "KY",
+		"Latitude" : "+37.033615"
+	},
+	{
+		"Longitude" : "-083.241868",
+		"Zipcode" : "41736",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PERRY",
+		"City" : "DICE",
+		"State" : "KY",
+		"Latitude" : "+37.375823"
+	},
+	{
+		"Longitude" : "-083.130273",
+		"Zipcode" : "41739",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PERRY",
+		"City" : "DWARF",
+		"State" : "KY",
+		"Latitude" : "+37.339408"
+	},
+	{
+		"Longitude" : "-083.047116",
+		"Zipcode" : "41740",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "EMMALENA",
+		"State" : "KY",
+		"Latitude" : "+37.349857"
+	},
+	{
+		"Longitude" : "-083.090441",
+		"Zipcode" : "41743",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KNOTT",
+		"City" : "FISTY",
+		"State" : "KY",
+		"Latitude" : "+37.306360"
+	},
+	{
+		"Longitude" : "-083.436773",
+		"Zipcode" : "41745",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "GAYS CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.349687"
+	},
+	{
+		"Longitude" : "-083.091716",
+		"Zipcode" : "41746",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "HAPPY",
+		"State" : "KY",
+		"Latitude" : "+37.210078"
+	},
+	{
+		"Longitude" : "-083.122477",
+		"Zipcode" : "41747",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PERRY",
+		"City" : "HARDBURLY",
+		"State" : "KY",
+		"Latitude" : "+37.300202"
+	},
+	{
+		"Longitude" : "-083.416902",
+		"Zipcode" : "41749",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "HYDEN",
+		"State" : "KY",
+		"Latitude" : "+37.187746"
+	},
+	{
+		"Longitude" : "-083.142655",
+		"Zipcode" : "41751",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "JEFF",
+		"State" : "KY",
+		"Latitude" : "+37.218395"
+	},
+	{
+		"Longitude" : "-083.275015",
+		"Zipcode" : "41754",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "KRYPTON",
+		"State" : "KY",
+		"Latitude" : "+37.347409"
+	},
+	{
+		"Longitude" : "-083.024610",
+		"Zipcode" : "41759",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "SASSAFRAS",
+		"State" : "KY",
+		"Latitude" : "+37.231962"
+	},
+	{
+		"Longitude" : "-083.081735",
+		"Zipcode" : "41760",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "SCUDDY",
+		"State" : "KY",
+		"Latitude" : "+37.197107"
+	},
+	{
+		"Longitude" : "-083.506407",
+		"Zipcode" : "41762",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "SIZEROCK",
+		"State" : "KY",
+		"Latitude" : "+37.218801"
+	},
+	{
+		"Longitude" : "-083.113638",
+		"Zipcode" : "41763",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "SLEMP",
+		"State" : "KY",
+		"Latitude" : "+37.070492"
+	},
+	{
+		"Longitude" : "-083.253867",
+		"Zipcode" : "41764",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "SMILAX",
+		"State" : "KY",
+		"Latitude" : "+37.121424"
+	},
+	{
+		"Longitude" : "-083.384749",
+		"Zipcode" : "41766",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "THOUSANDSTICKS",
+		"State" : "KY",
+		"Latitude" : "+37.158641"
+	},
+	{
+		"Longitude" : "-083.015310",
+		"Zipcode" : "41772",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "VEST",
+		"State" : "KY",
+		"Latitude" : "+37.407264"
+	},
+	{
+		"Longitude" : "-083.065816",
+		"Zipcode" : "41773",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "VICCO",
+		"State" : "KY",
+		"Latitude" : "+37.201968"
+	},
+	{
+		"Longitude" : "-083.136390",
+		"Zipcode" : "41774",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "VIPER",
+		"State" : "KY",
+		"Latitude" : "+37.243690"
+	},
+	{
+		"Longitude" : "-083.356305",
+		"Zipcode" : "41775",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "WENDOVER",
+		"State" : "KY",
+		"Latitude" : "+37.107867"
+	},
+	{
+		"Longitude" : "-083.267303",
+		"Zipcode" : "41776",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "WOOTON",
+		"State" : "KY",
+		"Latitude" : "+37.126066"
+	},
+	{
+		"Longitude" : "-083.236134",
+		"Zipcode" : "41777",
+		"ZipClass" : "STANDARD",
+		"County" : "LESLIE",
+		"City" : "YEADDISS",
+		"State" : "KY",
+		"Latitude" : "+37.056529"
+	},
+	{
+		"Longitude" : "-083.321215",
+		"Zipcode" : "41778",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PERRY",
+		"City" : "YERKES",
+		"State" : "KY",
+		"Latitude" : "+37.283017"
+	},
+	{
+		"Longitude" : "-082.995605",
+		"Zipcode" : "41804",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "BLACKEY",
+		"State" : "KY",
+		"Latitude" : "+37.155055"
+	},
+	{
+		"Longitude" : "-082.694980",
+		"Zipcode" : "41810",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LETCHER",
+		"City" : "CROMONA",
+		"State" : "KY",
+		"Latitude" : "+37.178814"
+	},
+	{
+		"Longitude" : "-082.769564",
+		"Zipcode" : "41812",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "DEANE",
+		"State" : "KY",
+		"Latitude" : "+37.240912"
+	},
+	{
+		"Longitude" : "-082.814691",
+		"Zipcode" : "41815",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "ERMINE",
+		"State" : "KY",
+		"Latitude" : "+37.140336"
+	},
+	{
+		"Longitude" : "-082.910653",
+		"Zipcode" : "41817",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "GARNER",
+		"State" : "KY",
+		"Latitude" : "+37.367552"
+	},
+	{
+		"Longitude" : "-083.065458",
+		"Zipcode" : "41819",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "GORDON",
+		"State" : "KY",
+		"Latitude" : "+36.989061"
+	},
+	{
+		"Longitude" : "-083.002662",
+		"Zipcode" : "41821",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "HALLIE",
+		"State" : "KY",
+		"Latitude" : "+37.083683"
+	},
+	{
+		"Longitude" : "-082.961977",
+		"Zipcode" : "41822",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "HINDMAN",
+		"State" : "KY",
+		"Latitude" : "+37.367278"
+	},
+	{
+		"Longitude" : "-082.875397",
+		"Zipcode" : "41824",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "ISOM",
+		"State" : "KY",
+		"Latitude" : "+37.193211"
+	},
+	{
+		"Longitude" : "-082.722772",
+		"Zipcode" : "41825",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "JACKHORN",
+		"State" : "KY",
+		"Latitude" : "+37.224615"
+	},
+	{
+		"Longitude" : "-082.837148",
+		"Zipcode" : "41826",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "JEREMIAH",
+		"State" : "KY",
+		"Latitude" : "+37.135577"
+	},
+	{
+		"Longitude" : "-082.797478",
+		"Zipcode" : "41828",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "KITE",
+		"State" : "KY",
+		"Latitude" : "+37.313565"
+	},
+	{
+		"Longitude" : "-082.967672",
+		"Zipcode" : "41831",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "LEBURN",
+		"State" : "KY",
+		"Latitude" : "+37.370519"
+	},
+	{
+		"Longitude" : "-082.954758",
+		"Zipcode" : "41832",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "LETCHER",
+		"State" : "KY",
+		"Latitude" : "+37.153075"
+	},
+	{
+		"Longitude" : "-082.987812",
+		"Zipcode" : "41833",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "LINEFORK",
+		"State" : "KY",
+		"Latitude" : "+37.023328"
+	},
+	{
+		"Longitude" : "-082.944607",
+		"Zipcode" : "41834",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "LITTCARR",
+		"State" : "KY",
+		"Latitude" : "+37.275003"
+	},
+	{
+		"Longitude" : "-082.673426",
+		"Zipcode" : "41835",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "MC ROBERTS",
+		"State" : "KY",
+		"Latitude" : "+37.213652"
+	},
+	{
+		"Longitude" : "-082.916130",
+		"Zipcode" : "41836",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "MALLIE",
+		"State" : "KY",
+		"Latitude" : "+37.269218"
+	},
+	{
+		"Longitude" : "-082.742726",
+		"Zipcode" : "41837",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "MAYKING",
+		"State" : "KY",
+		"Latitude" : "+37.130234"
+	},
+	{
+		"Longitude" : "-082.751669",
+		"Zipcode" : "41838",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "MILLSTONE",
+		"State" : "KY",
+		"Latitude" : "+37.176559"
+	},
+	{
+		"Longitude" : "-082.885808",
+		"Zipcode" : "41839",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "MOUSIE",
+		"State" : "KY",
+		"Latitude" : "+37.419099"
+	},
+	{
+		"Longitude" : "-082.711046",
+		"Zipcode" : "41840",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "NEON",
+		"State" : "KY",
+		"Latitude" : "+37.187588"
+	},
+	{
+		"Longitude" : "-082.874059",
+		"Zipcode" : "41843",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "PINE TOP",
+		"State" : "KY",
+		"Latitude" : "+37.286790"
+	},
+	{
+		"Longitude" : "-082.874239",
+		"Zipcode" : "41844",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "PIPPA PASSES",
+		"State" : "KY",
+		"Latitude" : "+37.349054"
+	},
+	{
+		"Longitude" : "-082.903459",
+		"Zipcode" : "41845",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "PREMIUM",
+		"State" : "KY",
+		"Latitude" : "+37.125231"
+	},
+	{
+		"Longitude" : "-082.942357",
+		"Zipcode" : "41847",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "REDFOX",
+		"State" : "KY",
+		"Latitude" : "+37.217206"
+	},
+	{
+		"Longitude" : "-082.940730",
+		"Zipcode" : "41848",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "ROXANA",
+		"State" : "KY",
+		"Latitude" : "+37.110216"
+	},
+	{
+		"Longitude" : "-082.716166",
+		"Zipcode" : "41849",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LETCHER",
+		"City" : "SECO",
+		"State" : "KY",
+		"Latitude" : "+37.173926"
+	},
+	{
+		"Longitude" : "-082.795137",
+		"Zipcode" : "41855",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "THORNTON",
+		"State" : "KY",
+		"Latitude" : "+37.178608"
+	},
+	{
+		"Longitude" : "-082.855032",
+		"Zipcode" : "41858",
+		"ZipClass" : "STANDARD",
+		"County" : "LETCHER",
+		"City" : "WHITESBURG",
+		"State" : "KY",
+		"Latitude" : "+37.138850"
+	},
+	{
+		"Longitude" : "-082.783552",
+		"Zipcode" : "41859",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "DEMA",
+		"State" : "KY",
+		"Latitude" : "+37.397578"
+	},
+	{
+		"Longitude" : "-082.836144",
+		"Zipcode" : "41861",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "RAVEN",
+		"State" : "KY",
+		"Latitude" : "+37.387621"
+	},
+	{
+		"Longitude" : "-082.792578",
+		"Zipcode" : "41862",
+		"ZipClass" : "STANDARD",
+		"County" : "KNOTT",
+		"City" : "TOPMOST",
+		"State" : "KY",
+		"Latitude" : "+37.348498"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "41901",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "MIGRATE",
+		"State" : "KY",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "41902",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "MIGRATE",
+		"State" : "KY",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "41903",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "MIGRATE",
+		"State" : "KY",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "41904",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "MIGRATE",
+		"State" : "KY",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "41905",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "MIGRATE",
+		"State" : "KY",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "41906",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAYETTE",
+		"City" : "MIGRATE",
+		"State" : "KY",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-088.713292",
+		"Zipcode" : "42001",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCRACKEN",
+		"City" : "PADUCAH",
+		"State" : "KY",
+		"Latitude" : "+37.031586"
+	},
+	{
+		"Longitude" : "-088.712470",
+		"Zipcode" : "42002",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCRACKEN",
+		"City" : "PADUCAH",
+		"State" : "KY",
+		"Latitude" : "+37.085511"
+	},
+	{
+		"Longitude" : "-088.581289",
+		"Zipcode" : "42003",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCRACKEN",
+		"City" : "PADUCAH",
+		"State" : "KY",
+		"Latitude" : "+37.015159"
+	},
+	{
+		"Longitude" : "-088.283872",
+		"Zipcode" : "42020",
+		"ZipClass" : "STANDARD",
+		"County" : "CALLOWAY",
+		"City" : "ALMO",
+		"State" : "KY",
+		"Latitude" : "+36.690186"
+	},
+	{
+		"Longitude" : "-089.009178",
+		"Zipcode" : "42021",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLISLE",
+		"City" : "ARLINGTON",
+		"State" : "KY",
+		"Latitude" : "+36.789033"
+	},
+	{
+		"Longitude" : "-088.948562",
+		"Zipcode" : "42022",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALLARD",
+		"City" : "BANDANA",
+		"State" : "KY",
+		"Latitude" : "+37.148007"
+	},
+	{
+		"Longitude" : "-089.006956",
+		"Zipcode" : "42023",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLISLE",
+		"City" : "BARDWELL",
+		"State" : "KY",
+		"Latitude" : "+36.875220"
+	},
+	{
+		"Longitude" : "-089.011480",
+		"Zipcode" : "42024",
+		"ZipClass" : "STANDARD",
+		"County" : "BALLARD",
+		"City" : "BARLOW",
+		"State" : "KY",
+		"Latitude" : "+37.081273"
+	},
+	{
+		"Longitude" : "-088.305502",
+		"Zipcode" : "42025",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BENTON",
+		"State" : "KY",
+		"Latitude" : "+36.888765"
+	},
+	{
+		"Longitude" : "-088.637039",
+		"Zipcode" : "42027",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "BOAZ",
+		"State" : "KY",
+		"Latitude" : "+36.900149"
+	},
+	{
+		"Longitude" : "-088.339599",
+		"Zipcode" : "42028",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "BURNA",
+		"State" : "KY",
+		"Latitude" : "+37.155977"
+	},
+	{
+		"Longitude" : "-088.373197",
+		"Zipcode" : "42029",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "CALVERT CITY",
+		"State" : "KY",
+		"Latitude" : "+36.986553"
+	},
+	{
+		"Longitude" : "-088.979474",
+		"Zipcode" : "42031",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "CLINTON",
+		"State" : "KY",
+		"Latitude" : "+36.680798"
+	},
+	{
+		"Longitude" : "-089.101900",
+		"Zipcode" : "42032",
+		"ZipClass" : "STANDARD",
+		"County" : "HICKMAN",
+		"City" : "COLUMBUS",
+		"State" : "KY",
+		"Latitude" : "+36.732689"
+	},
+	{
+		"Longitude" : "-088.079607",
+		"Zipcode" : "42033",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRITTENDEN",
+		"City" : "CRAYNE",
+		"State" : "KY",
+		"Latitude" : "+37.336533"
+	},
+	{
+		"Longitude" : "-088.995991",
+		"Zipcode" : "42035",
+		"ZipClass" : "STANDARD",
+		"County" : "CARLISLE",
+		"City" : "CUNNINGHAM",
+		"State" : "KY",
+		"Latitude" : "+36.863147"
+	},
+	{
+		"Longitude" : "-088.235991",
+		"Zipcode" : "42036",
+		"ZipClass" : "STANDARD",
+		"County" : "CALLOWAY",
+		"City" : "DEXTER",
+		"State" : "KY",
+		"Latitude" : "+36.715535"
+	},
+	{
+		"Longitude" : "-088.183598",
+		"Zipcode" : "42037",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRITTENDEN",
+		"City" : "DYCUSBURG",
+		"State" : "KY",
+		"Latitude" : "+37.157866"
+	},
+	{
+		"Longitude" : "-088.024871",
+		"Zipcode" : "42038",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "EDDYVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.044697"
+	},
+	{
+		"Longitude" : "-088.788730",
+		"Zipcode" : "42039",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "FANCY FARM",
+		"State" : "KY",
+		"Latitude" : "+36.780953"
+	},
+	{
+		"Longitude" : "-088.518640",
+		"Zipcode" : "42040",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "FARMINGTON",
+		"State" : "KY",
+		"Latitude" : "+36.600013"
+	},
+	{
+		"Longitude" : "-089.081143",
+		"Zipcode" : "42041",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "FULTON",
+		"State" : "KY",
+		"Latitude" : "+36.546939"
+	},
+	{
+		"Longitude" : "-088.266684",
+		"Zipcode" : "42044",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "GILBERTSVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.965547"
+	},
+	{
+		"Longitude" : "-088.264746",
+		"Zipcode" : "42045",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "GRAND RIVERS",
+		"State" : "KY",
+		"Latitude" : "+37.076174"
+	},
+	{
+		"Longitude" : "-088.092285",
+		"Zipcode" : "42046",
+		"ZipClass" : "STANDARD",
+		"County" : "CALLOWAY",
+		"City" : "HAMLIN",
+		"State" : "KY",
+		"Latitude" : "+36.603300"
+	},
+	{
+		"Longitude" : "-088.393763",
+		"Zipcode" : "42047",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "HAMPTON",
+		"State" : "KY",
+		"Latitude" : "+37.302521"
+	},
+	{
+		"Longitude" : "-088.304440",
+		"Zipcode" : "42048",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "HARDIN",
+		"State" : "KY",
+		"Latitude" : "+36.817672"
+	},
+	{
+		"Longitude" : "-088.322336",
+		"Zipcode" : "42049",
+		"ZipClass" : "STANDARD",
+		"County" : "CALLOWAY",
+		"City" : "HAZEL",
+		"State" : "KY",
+		"Latitude" : "+36.578831"
+	},
+	{
+		"Longitude" : "-089.208001",
+		"Zipcode" : "42050",
+		"ZipClass" : "STANDARD",
+		"County" : "FULTON",
+		"City" : "HICKMAN",
+		"State" : "KY",
+		"Latitude" : "+36.548671"
+	},
+	{
+		"Longitude" : "-088.640928",
+		"Zipcode" : "42051",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "HICKORY",
+		"State" : "KY",
+		"Latitude" : "+36.852197"
+	},
+	{
+		"Longitude" : "-088.851344",
+		"Zipcode" : "42053",
+		"ZipClass" : "STANDARD",
+		"County" : "BALLARD",
+		"City" : "KEVIL",
+		"State" : "KY",
+		"Latitude" : "+37.098119"
+	},
+	{
+		"Longitude" : "-088.421888",
+		"Zipcode" : "42054",
+		"ZipClass" : "STANDARD",
+		"County" : "CALLOWAY",
+		"City" : "KIRKSEY",
+		"State" : "KY",
+		"Latitude" : "+36.699095"
+	},
+	{
+		"Longitude" : "-088.144971",
+		"Zipcode" : "42055",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "KUTTAWA",
+		"State" : "KY",
+		"Latitude" : "+37.073525"
+	},
+	{
+		"Longitude" : "-088.986278",
+		"Zipcode" : "42056",
+		"ZipClass" : "STANDARD",
+		"County" : "BALLARD",
+		"City" : "LA CENTER",
+		"State" : "KY",
+		"Latitude" : "+37.080505"
+	},
+	{
+		"Longitude" : "-088.466549",
+		"Zipcode" : "42058",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "LEDBETTER",
+		"State" : "KY",
+		"Latitude" : "+37.061146"
+	},
+	{
+		"Longitude" : "-088.836371",
+		"Zipcode" : "42060",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BALLARD",
+		"City" : "LOVELACEVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.963650"
+	},
+	{
+		"Longitude" : "-088.772824",
+		"Zipcode" : "42061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAVES",
+		"City" : "LOWES",
+		"State" : "KY",
+		"Latitude" : "+36.886172"
+	},
+	{
+		"Longitude" : "-088.652009",
+		"Zipcode" : "42063",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAVES",
+		"City" : "LYNNVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.723872"
+	},
+	{
+		"Longitude" : "-088.087479",
+		"Zipcode" : "42064",
+		"ZipClass" : "STANDARD",
+		"County" : "CRITTENDEN",
+		"City" : "MARION",
+		"State" : "KY",
+		"Latitude" : "+37.322088"
+	},
+	{
+		"Longitude" : "-088.651839",
+		"Zipcode" : "42066",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "MAYFIELD",
+		"State" : "KY",
+		"Latitude" : "+36.715599"
+	},
+	{
+		"Longitude" : "-088.758968",
+		"Zipcode" : "42069",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "MELBER",
+		"State" : "KY",
+		"Latitude" : "+36.904548"
+	},
+	{
+		"Longitude" : "-088.995991",
+		"Zipcode" : "42070",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARLISLE",
+		"City" : "MILBURN",
+		"State" : "KY",
+		"Latitude" : "+36.863147"
+	},
+	{
+		"Longitude" : "-088.279562",
+		"Zipcode" : "42071",
+		"ZipClass" : "STANDARD",
+		"County" : "CALLOWAY",
+		"City" : "MURRAY",
+		"State" : "KY",
+		"Latitude" : "+36.625349"
+	},
+	{
+		"Longitude" : "-088.150463",
+		"Zipcode" : "42076",
+		"ZipClass" : "STANDARD",
+		"County" : "CALLOWAY",
+		"City" : "NEW CONCORD",
+		"State" : "KY",
+		"Latitude" : "+36.562065"
+	},
+	{
+		"Longitude" : "-088.329698",
+		"Zipcode" : "42078",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "SALEM",
+		"State" : "KY",
+		"Latitude" : "+37.269417"
+	},
+	{
+		"Longitude" : "-088.581458",
+		"Zipcode" : "42079",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "SEDALIA",
+		"State" : "KY",
+		"Latitude" : "+36.574835"
+	},
+	{
+		"Longitude" : "-088.375665",
+		"Zipcode" : "42081",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "SMITHLAND",
+		"State" : "KY",
+		"Latitude" : "+37.238666"
+	},
+	{
+		"Longitude" : "-088.515287",
+		"Zipcode" : "42082",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "SYMSONIA",
+		"State" : "KY",
+		"Latitude" : "+36.904412"
+	},
+	{
+		"Longitude" : "-088.285031",
+		"Zipcode" : "42083",
+		"ZipClass" : "STANDARD",
+		"County" : "LIVINGSTON",
+		"City" : "TILINE",
+		"State" : "KY",
+		"Latitude" : "+37.145668"
+	},
+	{
+		"Longitude" : "-088.246148",
+		"Zipcode" : "42084",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRITTENDEN",
+		"City" : "TOLU",
+		"State" : "KY",
+		"Latitude" : "+37.434913"
+	},
+	{
+		"Longitude" : "-088.761466",
+		"Zipcode" : "42085",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "WATER VALLEY",
+		"State" : "KY",
+		"Latitude" : "+36.572137"
+	},
+	{
+		"Longitude" : "-088.810261",
+		"Zipcode" : "42086",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCRACKEN",
+		"City" : "WEST PADUCAH",
+		"State" : "KY",
+		"Latitude" : "+37.082918"
+	},
+	{
+		"Longitude" : "-088.961579",
+		"Zipcode" : "42087",
+		"ZipClass" : "STANDARD",
+		"County" : "BALLARD",
+		"City" : "WICKLIFFE",
+		"State" : "KY",
+		"Latitude" : "+37.056862"
+	},
+	{
+		"Longitude" : "-088.725226",
+		"Zipcode" : "42088",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAVES",
+		"City" : "WINGO",
+		"State" : "KY",
+		"Latitude" : "+36.607840"
+	},
+	{
+		"Longitude" : "-086.451752",
+		"Zipcode" : "42101",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "BOWLING GREEN",
+		"State" : "KY",
+		"Latitude" : "+37.017407"
+	},
+	{
+		"Longitude" : "-086.387046",
+		"Zipcode" : "42102",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "BOWLING GREEN",
+		"State" : "KY",
+		"Latitude" : "+36.922292"
+	},
+	{
+		"Longitude" : "-086.358413",
+		"Zipcode" : "42103",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "BOWLING GREEN",
+		"State" : "KY",
+		"Latitude" : "+36.950002"
+	},
+	{
+		"Longitude" : "-086.453985",
+		"Zipcode" : "42104",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "BOWLING GREEN",
+		"State" : "KY",
+		"Latitude" : "+36.887214"
+	},
+	{
+		"Longitude" : "-086.176030",
+		"Zipcode" : "42120",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "ADOLPHUS",
+		"State" : "KY",
+		"Latitude" : "+36.679310"
+	},
+	{
+		"Longitude" : "-086.348542",
+		"Zipcode" : "42122",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "ALVATON",
+		"State" : "KY",
+		"Latitude" : "+36.866699"
+	},
+	{
+		"Longitude" : "-085.992039",
+		"Zipcode" : "42123",
+		"ZipClass" : "STANDARD",
+		"County" : "BARREN",
+		"City" : "AUSTIN",
+		"State" : "KY",
+		"Latitude" : "+36.815869"
+	},
+	{
+		"Longitude" : "-085.649583",
+		"Zipcode" : "42124",
+		"ZipClass" : "STANDARD",
+		"County" : "METCALFE",
+		"City" : "BEAUMONT",
+		"State" : "KY",
+		"Latitude" : "+36.857666"
+	},
+	{
+		"Longitude" : "-085.908887",
+		"Zipcode" : "42127",
+		"ZipClass" : "STANDARD",
+		"County" : "BARREN",
+		"City" : "CAVE CITY",
+		"State" : "KY",
+		"Latitude" : "+37.102790"
+	},
+	{
+		"Longitude" : "-086.394012",
+		"Zipcode" : "42128",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "DRAKE",
+		"State" : "KY",
+		"Latitude" : "+36.983441"
+	},
+	{
+		"Longitude" : "-085.609522",
+		"Zipcode" : "42129",
+		"ZipClass" : "STANDARD",
+		"County" : "METCALFE",
+		"City" : "EDMONTON",
+		"State" : "KY",
+		"Latitude" : "+37.000783"
+	},
+	{
+		"Longitude" : "-085.775282",
+		"Zipcode" : "42130",
+		"ZipClass" : "STANDARD",
+		"County" : "BARREN",
+		"City" : "EIGHTY EIGHT",
+		"State" : "KY",
+		"Latitude" : "+36.912970"
+	},
+	{
+		"Longitude" : "-085.911680",
+		"Zipcode" : "42131",
+		"ZipClass" : "STANDARD",
+		"County" : "BARREN",
+		"City" : "ETOILE",
+		"State" : "KY",
+		"Latitude" : "+36.819311"
+	},
+	{
+		"Longitude" : "-085.846991",
+		"Zipcode" : "42133",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "FOUNTAIN RUN",
+		"State" : "KY",
+		"Latitude" : "+36.726089"
+	},
+	{
+		"Longitude" : "-086.583305",
+		"Zipcode" : "42134",
+		"ZipClass" : "STANDARD",
+		"County" : "SIMPSON",
+		"City" : "FRANKLIN",
+		"State" : "KY",
+		"Latitude" : "+36.740598"
+	},
+	{
+		"Longitude" : "-086.581957",
+		"Zipcode" : "42135",
+		"ZipClass" : "STANDARD",
+		"County" : "SIMPSON",
+		"City" : "FRANKLIN",
+		"State" : "KY",
+		"Latitude" : "+36.758166"
+	},
+	{
+		"Longitude" : "-085.856306",
+		"Zipcode" : "42140",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "GAMALIEL",
+		"State" : "KY",
+		"Latitude" : "+36.669398"
+	},
+	{
+		"Longitude" : "-085.941203",
+		"Zipcode" : "42141",
+		"ZipClass" : "STANDARD",
+		"County" : "BARREN",
+		"City" : "GLASGOW",
+		"State" : "KY",
+		"Latitude" : "+36.942763"
+	},
+	{
+		"Longitude" : "-085.957797",
+		"Zipcode" : "42142",
+		"ZipClass" : "STANDARD",
+		"County" : "BARREN",
+		"City" : "GLASGOW",
+		"State" : "KY",
+		"Latitude" : "+36.946326"
+	},
+	{
+		"Longitude" : "-086.184088",
+		"Zipcode" : "42150",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "HALFWAY",
+		"State" : "KY",
+		"Latitude" : "+36.782131"
+	},
+	{
+		"Longitude" : "-085.567555",
+		"Zipcode" : "42151",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "HESTAND",
+		"State" : "KY",
+		"Latitude" : "+36.647144"
+	},
+	{
+		"Longitude" : "-085.816472",
+		"Zipcode" : "42152",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARREN",
+		"City" : "HISEVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.098753"
+	},
+	{
+		"Longitude" : "-086.038273",
+		"Zipcode" : "42153",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEN",
+		"City" : "HOLLAND",
+		"State" : "KY",
+		"Latitude" : "+36.678703"
+	},
+	{
+		"Longitude" : "-085.698474",
+		"Zipcode" : "42154",
+		"ZipClass" : "STANDARD",
+		"County" : "METCALFE",
+		"City" : "KNOB LICK",
+		"State" : "KY",
+		"Latitude" : "+37.055613"
+	},
+	{
+		"Longitude" : "-085.995572",
+		"Zipcode" : "42156",
+		"ZipClass" : "STANDARD",
+		"County" : "BARREN",
+		"City" : "LUCAS",
+		"State" : "KY",
+		"Latitude" : "+36.840503"
+	},
+	{
+		"Longitude" : "-085.819518",
+		"Zipcode" : "42157",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "MOUNT HERMON",
+		"State" : "KY",
+		"Latitude" : "+36.772341"
+	},
+	{
+		"Longitude" : "-086.250131",
+		"Zipcode" : "42159",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "OAKLAND",
+		"State" : "KY",
+		"Latitude" : "+36.998452"
+	},
+	{
+		"Longitude" : "-086.013864",
+		"Zipcode" : "42160",
+		"ZipClass" : "STANDARD",
+		"County" : "BARREN",
+		"City" : "PARK CITY",
+		"State" : "KY",
+		"Latitude" : "+36.965149"
+	},
+	{
+		"Longitude" : "-086.143188",
+		"Zipcode" : "42163",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMONSON",
+		"City" : "ROCKY HILL",
+		"State" : "KY",
+		"Latitude" : "+37.094250"
+	},
+	{
+		"Longitude" : "-086.188104",
+		"Zipcode" : "42164",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "SCOTTSVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.783817"
+	},
+	{
+		"Longitude" : "-085.660577",
+		"Zipcode" : "42166",
+		"ZipClass" : "STANDARD",
+		"County" : "METCALFE",
+		"City" : "SUMMER SHADE",
+		"State" : "KY",
+		"Latitude" : "+36.956935"
+	},
+	{
+		"Longitude" : "-085.700865",
+		"Zipcode" : "42167",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "TOMPKINSVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.723634"
+	},
+	{
+		"Longitude" : "-086.538000",
+		"Zipcode" : "42170",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "WOODBURN",
+		"State" : "KY",
+		"Latitude" : "+36.906410"
+	},
+	{
+		"Longitude" : "-086.187045",
+		"Zipcode" : "42171",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "SMITHS GROVE",
+		"State" : "KY",
+		"Latitude" : "+37.018230"
+	},
+	{
+		"Longitude" : "-086.670181",
+		"Zipcode" : "42201",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BUTLER",
+		"City" : "ABERDEEN",
+		"State" : "KY",
+		"Latitude" : "+37.279564"
+	},
+	{
+		"Longitude" : "-086.860422",
+		"Zipcode" : "42202",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "ADAIRVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.772851"
+	},
+	{
+		"Longitude" : "-087.219328",
+		"Zipcode" : "42203",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "ALLEGRE",
+		"State" : "KY",
+		"Latitude" : "+36.929243"
+	},
+	{
+		"Longitude" : "-087.104104",
+		"Zipcode" : "42204",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "ALLENSVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.720672"
+	},
+	{
+		"Longitude" : "-086.797432",
+		"Zipcode" : "42206",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "AUBURN",
+		"State" : "KY",
+		"Latitude" : "+36.835067"
+	},
+	{
+		"Longitude" : "-086.254260",
+		"Zipcode" : "42207",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMONSON",
+		"City" : "BEE SPRING",
+		"State" : "KY",
+		"Latitude" : "+37.300469"
+	},
+	{
+		"Longitude" : "-086.672160",
+		"Zipcode" : "42209",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "BROOKLYN",
+		"State" : "KY",
+		"Latitude" : "+37.197491"
+	},
+	{
+		"Longitude" : "-086.292256",
+		"Zipcode" : "42210",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMONSON",
+		"City" : "BROWNSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.222931"
+	},
+	{
+		"Longitude" : "-087.828578",
+		"Zipcode" : "42211",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIGG",
+		"City" : "CADIZ",
+		"State" : "KY",
+		"Latitude" : "+36.802010"
+	},
+	{
+		"Longitude" : "-085.703791",
+		"Zipcode" : "42214",
+		"ZipClass" : "STANDARD",
+		"County" : "METCALFE",
+		"City" : "CENTER",
+		"State" : "KY",
+		"Latitude" : "+37.117670"
+	},
+	{
+		"Longitude" : "-087.718377",
+		"Zipcode" : "42215",
+		"ZipClass" : "STANDARD",
+		"County" : "TRIGG",
+		"City" : "CERULEAN",
+		"State" : "KY",
+		"Latitude" : "+36.953435"
+	},
+	{
+		"Longitude" : "-087.152148",
+		"Zipcode" : "42216",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TODD",
+		"City" : "CLIFTY",
+		"State" : "KY",
+		"Latitude" : "+37.004492"
+	},
+	{
+		"Longitude" : "-087.487724",
+		"Zipcode" : "42217",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "CROFTON",
+		"State" : "KY",
+		"Latitude" : "+37.043116"
+	},
+	{
+		"Longitude" : "-086.767822",
+		"Zipcode" : "42219",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "DUNBAR",
+		"State" : "KY",
+		"Latitude" : "+37.170909"
+	},
+	{
+		"Longitude" : "-087.177881",
+		"Zipcode" : "42220",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "ELKTON",
+		"State" : "KY",
+		"Latitude" : "+36.862405"
+	},
+	{
+		"Longitude" : "-087.496529",
+		"Zipcode" : "42221",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHRISTIAN",
+		"City" : "FAIRVIEW",
+		"State" : "KY",
+		"Latitude" : "+36.898071"
+	},
+	{
+		"Longitude" : "-087.458858",
+		"Zipcode" : "42223",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "FORT CAMPBELL",
+		"State" : "KY",
+		"Latitude" : "+36.657253"
+	},
+	{
+		"Longitude" : "-087.580011",
+		"Zipcode" : "42232",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "GRACEY",
+		"State" : "KY",
+		"Latitude" : "+36.918213"
+	},
+	{
+		"Longitude" : "-087.150248",
+		"Zipcode" : "42234",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "GUTHRIE",
+		"State" : "KY",
+		"Latitude" : "+36.714895"
+	},
+	{
+		"Longitude" : "-086.394012",
+		"Zipcode" : "42235",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WARREN",
+		"City" : "HADLEY",
+		"State" : "KY",
+		"Latitude" : "+36.983441"
+	},
+	{
+		"Longitude" : "-087.604569",
+		"Zipcode" : "42236",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "HERNDON",
+		"State" : "KY",
+		"Latitude" : "+36.719274"
+	},
+	{
+		"Longitude" : "-087.471106",
+		"Zipcode" : "42240",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "HOPKINSVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.876568"
+	},
+	{
+		"Longitude" : "-087.496529",
+		"Zipcode" : "42241",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "HOPKINSVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.898071"
+	},
+	{
+		"Longitude" : "-086.885846",
+		"Zipcode" : "42251",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "HUNTSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.157967"
+	},
+	{
+		"Longitude" : "-086.509271",
+		"Zipcode" : "42252",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "JETSON",
+		"State" : "KY",
+		"Latitude" : "+37.248326"
+	},
+	{
+		"Longitude" : "-087.645839",
+		"Zipcode" : "42254",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "LA FAYETTE",
+		"State" : "KY",
+		"Latitude" : "+36.677547"
+	},
+	{
+		"Longitude" : "-086.918045",
+		"Zipcode" : "42256",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "LEWISBURG",
+		"State" : "KY",
+		"Latitude" : "+36.907058"
+	},
+	{
+		"Longitude" : "-086.299361",
+		"Zipcode" : "42257",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMONSON",
+		"City" : "LINDSEYVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.237211"
+	},
+	{
+		"Longitude" : "-086.168796",
+		"Zipcode" : "42259",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMONSON",
+		"City" : "MAMMOTH CAVE",
+		"State" : "KY",
+		"Latitude" : "+37.280199"
+	},
+	{
+		"Longitude" : "-086.685898",
+		"Zipcode" : "42261",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "MORGANTOWN",
+		"State" : "KY",
+		"Latitude" : "+37.200170"
+	},
+	{
+		"Longitude" : "-087.429302",
+		"Zipcode" : "42262",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "OAK GROVE",
+		"State" : "KY",
+		"Latitude" : "+36.738092"
+	},
+	{
+		"Longitude" : "-086.980398",
+		"Zipcode" : "42265",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "OLMSTEAD",
+		"State" : "KY",
+		"Latitude" : "+36.759526"
+	},
+	{
+		"Longitude" : "-087.409139",
+		"Zipcode" : "42266",
+		"ZipClass" : "STANDARD",
+		"County" : "CHRISTIAN",
+		"City" : "PEMBROKE",
+		"State" : "KY",
+		"Latitude" : "+36.864233"
+	},
+	{
+		"Longitude" : "-086.804803",
+		"Zipcode" : "42267",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "PROVO",
+		"State" : "KY",
+		"Latitude" : "+37.229645"
+	},
+	{
+		"Longitude" : "-086.394012",
+		"Zipcode" : "42270",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "RICHARDSVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.983441"
+	},
+	{
+		"Longitude" : "-086.859847",
+		"Zipcode" : "42273",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "ROCHESTER",
+		"State" : "KY",
+		"Latitude" : "+37.207489"
+	},
+	{
+		"Longitude" : "-086.597869",
+		"Zipcode" : "42274",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "ROCKFIELD",
+		"State" : "KY",
+		"Latitude" : "+36.924137"
+	},
+	{
+		"Longitude" : "-086.411435",
+		"Zipcode" : "42275",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMONSON",
+		"City" : "ROUNDHILL",
+		"State" : "KY",
+		"Latitude" : "+37.242474"
+	},
+	{
+		"Longitude" : "-086.882321",
+		"Zipcode" : "42276",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "RUSSELLVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.845273"
+	},
+	{
+		"Longitude" : "-087.109500",
+		"Zipcode" : "42280",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "SHARON GROVE",
+		"State" : "KY",
+		"Latitude" : "+36.948365"
+	},
+	{
+		"Longitude" : "-086.663225",
+		"Zipcode" : "42283",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOGAN",
+		"City" : "SOUTH UNION",
+		"State" : "KY",
+		"Latitude" : "+36.869206"
+	},
+	{
+		"Longitude" : "-086.270740",
+		"Zipcode" : "42285",
+		"ZipClass" : "STANDARD",
+		"County" : "EDMONSON",
+		"City" : "SWEEDEN",
+		"State" : "KY",
+		"Latitude" : "+37.236073"
+	},
+	{
+		"Longitude" : "-087.245890",
+		"Zipcode" : "42286",
+		"ZipClass" : "STANDARD",
+		"County" : "TODD",
+		"City" : "TRENTON",
+		"State" : "KY",
+		"Latitude" : "+36.741950"
+	},
+	{
+		"Longitude" : "-086.522996",
+		"Zipcode" : "42287",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "WELCHS CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.318319"
+	},
+	{
+		"Longitude" : "-086.672160",
+		"Zipcode" : "42288",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BUTLER",
+		"City" : "WOODBURY",
+		"State" : "KY",
+		"Latitude" : "+37.197491"
+	},
+	{
+		"Longitude" : "-087.257303",
+		"Zipcode" : "42301",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "OWENSBORO",
+		"State" : "KY",
+		"Latitude" : "+37.751818"
+	},
+	{
+		"Longitude" : "-087.112823",
+		"Zipcode" : "42302",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "OWENSBORO",
+		"State" : "KY",
+		"Latitude" : "+37.745491"
+	},
+	{
+		"Longitude" : "-087.042939",
+		"Zipcode" : "42303",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "OWENSBORO",
+		"State" : "KY",
+		"Latitude" : "+37.779387"
+	},
+	{
+		"Longitude" : "-087.112823",
+		"Zipcode" : "42304",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "OWENSBORO",
+		"State" : "KY",
+		"Latitude" : "+37.745491"
+	},
+	{
+		"Longitude" : "-086.864676",
+		"Zipcode" : "42320",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "BEAVER DAM",
+		"State" : "KY",
+		"Latitude" : "+37.355569"
+	},
+	{
+		"Longitude" : "-087.024457",
+		"Zipcode" : "42321",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "BEECH CREEK",
+		"State" : "KY",
+		"Latitude" : "+37.153324"
+	},
+	{
+		"Longitude" : "-087.406866",
+		"Zipcode" : "42322",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCLEAN",
+		"City" : "BEECH GROVE",
+		"State" : "KY",
+		"Latitude" : "+37.615062"
+	},
+	{
+		"Longitude" : "-087.076198",
+		"Zipcode" : "42323",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "BEECHMONT",
+		"State" : "KY",
+		"Latitude" : "+37.233477"
+	},
+	{
+		"Longitude" : "-087.004852",
+		"Zipcode" : "42324",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "BELTON",
+		"State" : "KY",
+		"Latitude" : "+37.137789"
+	},
+	{
+		"Longitude" : "-087.271176",
+		"Zipcode" : "42325",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "BREMEN",
+		"State" : "KY",
+		"Latitude" : "+37.337159"
+	},
+	{
+		"Longitude" : "-087.000060",
+		"Zipcode" : "42326",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "BROWDER",
+		"State" : "KY",
+		"Latitude" : "+37.199946"
+	},
+	{
+		"Longitude" : "-087.287491",
+		"Zipcode" : "42327",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "CALHOUN",
+		"State" : "KY",
+		"Latitude" : "+37.580950"
+	},
+	{
+		"Longitude" : "-087.026469",
+		"Zipcode" : "42328",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "CENTERTOWN",
+		"State" : "KY",
+		"Latitude" : "+37.394873"
+	},
+	{
+		"Longitude" : "-087.111579",
+		"Zipcode" : "42330",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "CENTRAL CITY",
+		"State" : "KY",
+		"Latitude" : "+37.243098"
+	},
+	{
+		"Longitude" : "-087.089689",
+		"Zipcode" : "42332",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MUHLENBERG",
+		"City" : "CLEATON",
+		"State" : "KY",
+		"Latitude" : "+37.253342"
+	},
+	{
+		"Longitude" : "-086.764417",
+		"Zipcode" : "42333",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "CROMWELL",
+		"State" : "KY",
+		"Latitude" : "+37.373832"
+	},
+	{
+		"Longitude" : "-087.112823",
+		"Zipcode" : "42334",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DAVIESS",
+		"City" : "CURDSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.745491"
+	},
+	{
+		"Longitude" : "-087.008634",
+		"Zipcode" : "42337",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "DRAKESBORO",
+		"State" : "KY",
+		"Latitude" : "+37.211475"
+	},
+	{
+		"Longitude" : "-086.777620",
+		"Zipcode" : "42338",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "DUNDEE",
+		"State" : "KY",
+		"Latitude" : "+37.552013"
+	},
+	{
+		"Longitude" : "-087.018401",
+		"Zipcode" : "42339",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "DUNMOR",
+		"State" : "KY",
+		"Latitude" : "+37.194268"
+	},
+	{
+		"Longitude" : "-086.729497",
+		"Zipcode" : "42343",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "FORDSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.614496"
+	},
+	{
+		"Longitude" : "-087.297584",
+		"Zipcode" : "42344",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "GRAHAM",
+		"State" : "KY",
+		"Latitude" : "+37.246726"
+	},
+	{
+		"Longitude" : "-087.164385",
+		"Zipcode" : "42345",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "GREENVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.200830"
+	},
+	{
+		"Longitude" : "-086.869715",
+		"Zipcode" : "42347",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "HARTFORD",
+		"State" : "KY",
+		"Latitude" : "+37.472545"
+	},
+	{
+		"Longitude" : "-086.782723",
+		"Zipcode" : "42348",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "HAWESVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.832151"
+	},
+	{
+		"Longitude" : "-086.689904",
+		"Zipcode" : "42349",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "HORSE BRANCH",
+		"State" : "KY",
+		"Latitude" : "+37.415242"
+	},
+	{
+		"Longitude" : "-087.206541",
+		"Zipcode" : "42350",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "ISLAND",
+		"State" : "KY",
+		"Latitude" : "+37.459336"
+	},
+	{
+		"Longitude" : "-086.882034",
+		"Zipcode" : "42351",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "LEWISPORT",
+		"State" : "KY",
+		"Latitude" : "+37.911077"
+	},
+	{
+		"Longitude" : "-087.112413",
+		"Zipcode" : "42352",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "LIVERMORE",
+		"State" : "KY",
+		"Latitude" : "+37.513281"
+	},
+	{
+		"Longitude" : "-086.924358",
+		"Zipcode" : "42354",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "MC HENRY",
+		"State" : "KY",
+		"Latitude" : "+37.363601"
+	},
+	{
+		"Longitude" : "-086.977249",
+		"Zipcode" : "42355",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "MACEO",
+		"State" : "KY",
+		"Latitude" : "+37.859021"
+	},
+	{
+		"Longitude" : "-087.323841",
+		"Zipcode" : "42356",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DAVIESS",
+		"City" : "MAPLE MOUNT",
+		"State" : "KY",
+		"Latitude" : "+37.693229"
+	},
+	{
+		"Longitude" : "-086.718192",
+		"Zipcode" : "42361",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "OLATON",
+		"State" : "KY",
+		"Latitude" : "+37.518118"
+	},
+	{
+		"Longitude" : "-086.804814",
+		"Zipcode" : "42364",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "PELLVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.827235"
+	},
+	{
+		"Longitude" : "-086.994053",
+		"Zipcode" : "42365",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "PENROD",
+		"State" : "KY",
+		"Latitude" : "+37.112633"
+	},
+	{
+		"Longitude" : "-086.929674",
+		"Zipcode" : "42366",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "PHILPOT",
+		"State" : "KY",
+		"Latitude" : "+37.719598"
+	},
+	{
+		"Longitude" : "-087.154898",
+		"Zipcode" : "42367",
+		"ZipClass" : "STANDARD",
+		"County" : "MUHLENBERG",
+		"City" : "POWDERLY",
+		"State" : "KY",
+		"Latitude" : "+37.242948"
+	},
+	{
+		"Longitude" : "-086.741434",
+		"Zipcode" : "42368",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "REYNOLDS STATION",
+		"State" : "KY",
+		"Latitude" : "+37.740277"
+	},
+	{
+		"Longitude" : "-086.885260",
+		"Zipcode" : "42369",
+		"ZipClass" : "STANDARD",
+		"County" : "OHIO",
+		"City" : "ROCKPORT",
+		"State" : "KY",
+		"Latitude" : "+37.389897"
+	},
+	{
+		"Longitude" : "-086.778272",
+		"Zipcode" : "42370",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OHIO",
+		"City" : "ROSINE",
+		"State" : "KY",
+		"Latitude" : "+37.545044"
+	},
+	{
+		"Longitude" : "-087.246152",
+		"Zipcode" : "42371",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "RUMSEY",
+		"State" : "KY",
+		"Latitude" : "+37.470441"
+	},
+	{
+		"Longitude" : "-087.258644",
+		"Zipcode" : "42372",
+		"ZipClass" : "STANDARD",
+		"County" : "MCLEAN",
+		"City" : "SACRAMENTO",
+		"State" : "KY",
+		"Latitude" : "+37.488059"
+	},
+	{
+		"Longitude" : "-087.165762",
+		"Zipcode" : "42374",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MUHLENBERG",
+		"City" : "SOUTH CARROLLTON",
+		"State" : "KY",
+		"Latitude" : "+37.353575"
+	},
+	{
+		"Longitude" : "-087.112823",
+		"Zipcode" : "42375",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "STANLEY",
+		"State" : "KY",
+		"Latitude" : "+37.745491"
+	},
+	{
+		"Longitude" : "-087.121770",
+		"Zipcode" : "42376",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "UTICA",
+		"State" : "KY",
+		"Latitude" : "+37.633807"
+	},
+	{
+		"Longitude" : "-087.112823",
+		"Zipcode" : "42377",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DAVIESS",
+		"City" : "WEST LOUISVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.745491"
+	},
+	{
+		"Longitude" : "-086.883013",
+		"Zipcode" : "42378",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIESS",
+		"City" : "WHITESVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.682485"
+	},
+	{
+		"Longitude" : "-087.601240",
+		"Zipcode" : "42402",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENDERSON",
+		"City" : "BASKETT",
+		"State" : "KY",
+		"Latitude" : "+37.778911"
+	},
+	{
+		"Longitude" : "-087.933437",
+		"Zipcode" : "42403",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "BLACKFORD",
+		"State" : "KY",
+		"Latitude" : "+37.446023"
+	},
+	{
+		"Longitude" : "-087.812941",
+		"Zipcode" : "42404",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "CLAY",
+		"State" : "KY",
+		"Latitude" : "+37.486077"
+	},
+	{
+		"Longitude" : "-087.689478",
+		"Zipcode" : "42406",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "CORYDON",
+		"State" : "KY",
+		"Latitude" : "+37.754734"
+	},
+	{
+		"Longitude" : "-087.624098",
+		"Zipcode" : "42408",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "DAWSON SPRINGS",
+		"State" : "KY",
+		"Latitude" : "+37.220571"
+	},
+	{
+		"Longitude" : "-087.671680",
+		"Zipcode" : "42409",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "DIXON",
+		"State" : "KY",
+		"Latitude" : "+37.519247"
+	},
+	{
+		"Longitude" : "-087.513052",
+		"Zipcode" : "42410",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "EARLINGTON",
+		"State" : "KY",
+		"Latitude" : "+37.274270"
+	},
+	{
+		"Longitude" : "-087.988003",
+		"Zipcode" : "42411",
+		"ZipClass" : "STANDARD",
+		"County" : "CALDWELL",
+		"City" : "FREDONIA",
+		"State" : "KY",
+		"Latitude" : "+37.201173"
+	},
+	{
+		"Longitude" : "-087.469567",
+		"Zipcode" : "42413",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "HANSON",
+		"State" : "KY",
+		"Latitude" : "+37.335312"
+	},
+	{
+		"Longitude" : "-087.599052",
+		"Zipcode" : "42419",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "HENDERSON",
+		"State" : "KY",
+		"Latitude" : "+37.807173"
+	},
+	{
+		"Longitude" : "-087.527383",
+		"Zipcode" : "42420",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "HENDERSON",
+		"State" : "KY",
+		"Latitude" : "+37.785068"
+	},
+	{
+		"Longitude" : "-087.532576",
+		"Zipcode" : "42431",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "MADISONVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.299458"
+	},
+	{
+		"Longitude" : "-087.563868",
+		"Zipcode" : "42436",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "MANITOU",
+		"State" : "KY",
+		"Latitude" : "+37.406689"
+	},
+	{
+		"Longitude" : "-087.943938",
+		"Zipcode" : "42437",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "MORGANFIELD",
+		"State" : "KY",
+		"Latitude" : "+37.686939"
+	},
+	{
+		"Longitude" : "-087.461536",
+		"Zipcode" : "42440",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOPKINS",
+		"City" : "MORTONS GAP",
+		"State" : "KY",
+		"Latitude" : "+37.249018"
+	},
+	{
+		"Longitude" : "-087.651863",
+		"Zipcode" : "42441",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "NEBO",
+		"State" : "KY",
+		"Latitude" : "+37.364469"
+	},
+	{
+		"Longitude" : "-087.506773",
+		"Zipcode" : "42442",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "NORTONVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.257874"
+	},
+	{
+		"Longitude" : "-087.643862",
+		"Zipcode" : "42444",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEBSTER",
+		"City" : "POOLE",
+		"State" : "KY",
+		"Latitude" : "+37.641002"
+	},
+	{
+		"Longitude" : "-087.865635",
+		"Zipcode" : "42445",
+		"ZipClass" : "STANDARD",
+		"County" : "CALDWELL",
+		"City" : "PRINCETON",
+		"State" : "KY",
+		"Latitude" : "+37.140606"
+	},
+	{
+		"Longitude" : "-087.734014",
+		"Zipcode" : "42450",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "PROVIDENCE",
+		"State" : "KY",
+		"Latitude" : "+37.484437"
+	},
+	{
+		"Longitude" : "-087.378292",
+		"Zipcode" : "42451",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "REED",
+		"State" : "KY",
+		"Latitude" : "+37.849700"
+	},
+	{
+		"Longitude" : "-087.551576",
+		"Zipcode" : "42452",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "ROBARDS",
+		"State" : "KY",
+		"Latitude" : "+37.700857"
+	},
+	{
+		"Longitude" : "-087.569718",
+		"Zipcode" : "42453",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "SAINT CHARLES",
+		"State" : "KY",
+		"Latitude" : "+37.160353"
+	},
+	{
+		"Longitude" : "-087.636436",
+		"Zipcode" : "42455",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "SEBREE",
+		"State" : "KY",
+		"Latitude" : "+37.570081"
+	},
+	{
+		"Longitude" : "-087.534622",
+		"Zipcode" : "42456",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "SLAUGHTERS",
+		"State" : "KY",
+		"Latitude" : "+37.505442"
+	},
+	{
+		"Longitude" : "-087.788906",
+		"Zipcode" : "42457",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HENDERSON",
+		"City" : "SMITH MILLS",
+		"State" : "KY",
+		"Latitude" : "+37.832330"
+	},
+	{
+		"Longitude" : "-087.547026",
+		"Zipcode" : "42458",
+		"ZipClass" : "STANDARD",
+		"County" : "HENDERSON",
+		"City" : "SPOTTSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.840368"
+	},
+	{
+		"Longitude" : "-087.989378",
+		"Zipcode" : "42459",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "STURGIS",
+		"State" : "KY",
+		"Latitude" : "+37.628913"
+	},
+	{
+		"Longitude" : "-087.932773",
+		"Zipcode" : "42460",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UNION",
+		"City" : "SULLIVAN",
+		"State" : "KY",
+		"Latitude" : "+37.493997"
+	},
+	{
+		"Longitude" : "-087.914375",
+		"Zipcode" : "42461",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "UNIONTOWN",
+		"State" : "KY",
+		"Latitude" : "+37.717433"
+	},
+	{
+		"Longitude" : "-087.866487",
+		"Zipcode" : "42462",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "WAVERLY",
+		"State" : "KY",
+		"Latitude" : "+37.631341"
+	},
+	{
+		"Longitude" : "-087.866125",
+		"Zipcode" : "42463",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEBSTER",
+		"City" : "WHEATCROFT",
+		"State" : "KY",
+		"Latitude" : "+37.487972"
+	},
+	{
+		"Longitude" : "-087.400477",
+		"Zipcode" : "42464",
+		"ZipClass" : "STANDARD",
+		"County" : "HOPKINS",
+		"City" : "WHITE PLAINS",
+		"State" : "KY",
+		"Latitude" : "+37.200310"
+	},
+	{
+		"Longitude" : "-084.544294",
+		"Zipcode" : "42501",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "SOMERSET",
+		"State" : "KY",
+		"Latitude" : "+37.102880"
+	},
+	{
+		"Longitude" : "-084.427729",
+		"Zipcode" : "42502",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "SOMERSET",
+		"State" : "KY",
+		"Latitude" : "+37.093250"
+	},
+	{
+		"Longitude" : "-084.518445",
+		"Zipcode" : "42503",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "SOMERSET",
+		"State" : "KY",
+		"Latitude" : "+37.131938"
+	},
+	{
+		"Longitude" : "-084.899860",
+		"Zipcode" : "42516",
+		"ZipClass" : "STANDARD",
+		"County" : "CASEY",
+		"City" : "BETHELRIDGE",
+		"State" : "KY",
+		"Latitude" : "+37.242524"
+	},
+	{
+		"Longitude" : "-084.624731",
+		"Zipcode" : "42518",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "BRONSTON",
+		"State" : "KY",
+		"Latitude" : "+36.952751"
+	},
+	{
+		"Longitude" : "-084.537413",
+		"Zipcode" : "42519",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "BURNSIDE",
+		"State" : "KY",
+		"Latitude" : "+37.029301"
+	},
+	{
+		"Longitude" : "-084.983484",
+		"Zipcode" : "42528",
+		"ZipClass" : "STANDARD",
+		"County" : "CASEY",
+		"City" : "DUNNVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.190615"
+	},
+	{
+		"Longitude" : "-084.699690",
+		"Zipcode" : "42533",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "FERGUSON",
+		"State" : "KY",
+		"Latitude" : "+37.114754"
+	},
+	{
+		"Longitude" : "-084.957722",
+		"Zipcode" : "42539",
+		"ZipClass" : "STANDARD",
+		"County" : "CASEY",
+		"City" : "LIBERTY",
+		"State" : "KY",
+		"Latitude" : "+37.302162"
+	},
+	{
+		"Longitude" : "-084.798875",
+		"Zipcode" : "42541",
+		"ZipClass" : "STANDARD",
+		"County" : "CASEY",
+		"City" : "MIDDLEBURG",
+		"State" : "KY",
+		"Latitude" : "+37.367190"
+	},
+	{
+		"Longitude" : "-084.719207",
+		"Zipcode" : "42544",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "NANCY",
+		"State" : "KY",
+		"Latitude" : "+37.063143"
+	},
+	{
+		"Longitude" : "-084.686815",
+		"Zipcode" : "42553",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "SCIENCE HILL",
+		"State" : "KY",
+		"Latitude" : "+37.110682"
+	},
+	{
+		"Longitude" : "-084.581482",
+		"Zipcode" : "42558",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PULASKI",
+		"City" : "TATEVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.949190"
+	},
+	{
+		"Longitude" : "-084.592898",
+		"Zipcode" : "42564",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "WEST SOMERSET",
+		"State" : "KY",
+		"Latitude" : "+37.111433"
+	},
+	{
+		"Longitude" : "-084.879909",
+		"Zipcode" : "42565",
+		"ZipClass" : "STANDARD",
+		"County" : "CASEY",
+		"City" : "WINDSOR",
+		"State" : "KY",
+		"Latitude" : "+37.156790"
+	},
+	{
+		"Longitude" : "-084.826280",
+		"Zipcode" : "42566",
+		"ZipClass" : "STANDARD",
+		"County" : "CASEY",
+		"City" : "YOSEMITE",
+		"State" : "KY",
+		"Latitude" : "+37.291935"
+	},
+	{
+		"Longitude" : "-084.596990",
+		"Zipcode" : "42567",
+		"ZipClass" : "STANDARD",
+		"County" : "PULASKI",
+		"City" : "EUBANK",
+		"State" : "KY",
+		"Latitude" : "+37.128053"
+	},
+	{
+		"Longitude" : "-085.181967",
+		"Zipcode" : "42602",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "ALBANY",
+		"State" : "KY",
+		"Latitude" : "+36.745738"
+	},
+	{
+		"Longitude" : "-085.135354",
+		"Zipcode" : "42603",
+		"ZipClass" : "STANDARD",
+		"County" : "CLINTON",
+		"City" : "ALPHA",
+		"State" : "KY",
+		"Latitude" : "+36.751732"
+	},
+	{
+		"Longitude" : "-085.124561",
+		"Zipcode" : "42629",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "JAMESTOWN",
+		"State" : "KY",
+		"Latitude" : "+36.945046"
+	},
+	{
+		"Longitude" : "-084.502512",
+		"Zipcode" : "42631",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCCREARY",
+		"City" : "MARSHES SIDING",
+		"State" : "KY",
+		"Latitude" : "+36.777331"
+	},
+	{
+		"Longitude" : "-084.818345",
+		"Zipcode" : "42632",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "MILL SPRINGS",
+		"State" : "KY",
+		"Latitude" : "+36.800363"
+	},
+	{
+		"Longitude" : "-084.825400",
+		"Zipcode" : "42633",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "MONTICELLO",
+		"State" : "KY",
+		"Latitude" : "+36.867400"
+	},
+	{
+		"Longitude" : "-084.502512",
+		"Zipcode" : "42634",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCREARY",
+		"City" : "PARKERS LAKE",
+		"State" : "KY",
+		"Latitude" : "+36.777331"
+	},
+	{
+		"Longitude" : "-084.502512",
+		"Zipcode" : "42635",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCREARY",
+		"City" : "PINE KNOT",
+		"State" : "KY",
+		"Latitude" : "+36.777331"
+	},
+	{
+		"Longitude" : "-084.502512",
+		"Zipcode" : "42638",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCREARY",
+		"City" : "REVELO",
+		"State" : "KY",
+		"Latitude" : "+36.777331"
+	},
+	{
+		"Longitude" : "-085.069717",
+		"Zipcode" : "42642",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "RUSSELL SPRINGS",
+		"State" : "KY",
+		"Latitude" : "+37.019307"
+	},
+	{
+		"Longitude" : "-084.502512",
+		"Zipcode" : "42647",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCREARY",
+		"City" : "STEARNS",
+		"State" : "KY",
+		"Latitude" : "+36.777331"
+	},
+	{
+		"Longitude" : "-084.502512",
+		"Zipcode" : "42649",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCREARY",
+		"City" : "STRUNK",
+		"State" : "KY",
+		"Latitude" : "+36.777331"
+	},
+	{
+		"Longitude" : "-084.467609",
+		"Zipcode" : "42653",
+		"ZipClass" : "STANDARD",
+		"County" : "MCCREARY",
+		"City" : "WHITLEY CITY",
+		"State" : "KY",
+		"Latitude" : "+36.721677"
+	},
+	{
+		"Longitude" : "-085.878391",
+		"Zipcode" : "42701",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "ELIZABETHTOWN",
+		"State" : "KY",
+		"Latitude" : "+37.684807"
+	},
+	{
+		"Longitude" : "-085.976854",
+		"Zipcode" : "42702",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "ELIZABETHTOWN",
+		"State" : "KY",
+		"Latitude" : "+37.723474"
+	},
+	{
+		"Longitude" : "-085.317785",
+		"Zipcode" : "42711",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "BAKERTON",
+		"State" : "KY",
+		"Latitude" : "+36.879564"
+	},
+	{
+		"Longitude" : "-086.286363",
+		"Zipcode" : "42712",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYSON",
+		"City" : "BIG CLIFTY",
+		"State" : "KY",
+		"Latitude" : "+37.493818"
+	},
+	{
+		"Longitude" : "-085.913432",
+		"Zipcode" : "42713",
+		"ZipClass" : "STANDARD",
+		"County" : "HART",
+		"City" : "BONNIEVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.370142"
+	},
+	{
+		"Longitude" : "-085.403561",
+		"Zipcode" : "42715",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "BREEDING",
+		"State" : "KY",
+		"Latitude" : "+36.955287"
+	},
+	{
+		"Longitude" : "-085.626798",
+		"Zipcode" : "42716",
+		"ZipClass" : "STANDARD",
+		"County" : "LARUE",
+		"City" : "BUFFALO",
+		"State" : "KY",
+		"Latitude" : "+37.485493"
+	},
+	{
+		"Longitude" : "-085.408741",
+		"Zipcode" : "42717",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "BURKESVILLE",
+		"State" : "KY",
+		"Latitude" : "+36.769106"
+	},
+	{
+		"Longitude" : "-085.357952",
+		"Zipcode" : "42718",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "CAMPBELLSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.337416"
+	},
+	{
+		"Longitude" : "-085.330374",
+		"Zipcode" : "42719",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "CAMPBELLSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.337936"
+	},
+	{
+		"Longitude" : "-085.370926",
+		"Zipcode" : "42720",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADAIR",
+		"City" : "CANE VALLEY",
+		"State" : "KY",
+		"Latitude" : "+37.121145"
+	},
+	{
+		"Longitude" : "-086.370024",
+		"Zipcode" : "42721",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYSON",
+		"City" : "CANEYVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.430259"
+	},
+	{
+		"Longitude" : "-085.727548",
+		"Zipcode" : "42722",
+		"ZipClass" : "STANDARD",
+		"County" : "HART",
+		"City" : "CANMER",
+		"State" : "KY",
+		"Latitude" : "+37.277025"
+	},
+	{
+		"Longitude" : "-086.054481",
+		"Zipcode" : "42724",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "CECILIA",
+		"State" : "KY",
+		"Latitude" : "+37.669044"
+	},
+	{
+		"Longitude" : "-086.208318",
+		"Zipcode" : "42726",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYSON",
+		"City" : "CLARKSON",
+		"State" : "KY",
+		"Latitude" : "+37.433583"
+	},
+	{
+		"Longitude" : "-085.265586",
+		"Zipcode" : "42728",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "COLUMBIA",
+		"State" : "KY",
+		"Latitude" : "+37.116131"
+	},
+	{
+		"Longitude" : "-085.982964",
+		"Zipcode" : "42729",
+		"ZipClass" : "STANDARD",
+		"County" : "HART",
+		"City" : "CUB RUN",
+		"State" : "KY",
+		"Latitude" : "+37.260115"
+	},
+	{
+		"Longitude" : "-085.539565",
+		"Zipcode" : "42731",
+		"ZipClass" : "STANDARD",
+		"County" : "CUMBERLAND",
+		"City" : "DUBRE",
+		"State" : "KY",
+		"Latitude" : "+36.842115"
+	},
+	{
+		"Longitude" : "-086.090565",
+		"Zipcode" : "42732",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "EASTVIEW",
+		"State" : "KY",
+		"Latitude" : "+37.606115"
+	},
+	{
+		"Longitude" : "-085.218987",
+		"Zipcode" : "42733",
+		"ZipClass" : "STANDARD",
+		"County" : "TAYLOR",
+		"City" : "ELK HORN",
+		"State" : "KY",
+		"Latitude" : "+37.340494"
+	},
+	{
+		"Longitude" : "-085.296830",
+		"Zipcode" : "42735",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "FAIRPLAY",
+		"State" : "KY",
+		"Latitude" : "+37.045089"
+	},
+	{
+		"Longitude" : "-086.007199",
+		"Zipcode" : "42740",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "GLENDALE",
+		"State" : "KY",
+		"Latitude" : "+37.602581"
+	},
+	{
+		"Longitude" : "-085.248697",
+		"Zipcode" : "42741",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "GLENS FORK",
+		"State" : "KY",
+		"Latitude" : "+37.006969"
+	},
+	{
+		"Longitude" : "-085.465005",
+		"Zipcode" : "42742",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "GRADYVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.091158"
+	},
+	{
+		"Longitude" : "-085.519334",
+		"Zipcode" : "42743",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "GREENSBURG",
+		"State" : "KY",
+		"Latitude" : "+37.275860"
+	},
+	{
+		"Longitude" : "-085.772032",
+		"Zipcode" : "42746",
+		"ZipClass" : "STANDARD",
+		"County" : "HART",
+		"City" : "HARDYVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.216477"
+	},
+	{
+		"Longitude" : "-085.707267",
+		"Zipcode" : "42748",
+		"ZipClass" : "STANDARD",
+		"County" : "LARUE",
+		"City" : "HODGENVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.559321"
+	},
+	{
+		"Longitude" : "-085.895520",
+		"Zipcode" : "42749",
+		"ZipClass" : "STANDARD",
+		"County" : "HART",
+		"City" : "HORSE CAVE",
+		"State" : "KY",
+		"Latitude" : "+37.202266"
+	},
+	{
+		"Longitude" : "-085.172020",
+		"Zipcode" : "42753",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "KNIFLEY",
+		"State" : "KY",
+		"Latitude" : "+37.231312"
+	},
+	{
+		"Longitude" : "-086.324894",
+		"Zipcode" : "42754",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYSON",
+		"City" : "LEITCHFIELD",
+		"State" : "KY",
+		"Latitude" : "+37.460336"
+	},
+	{
+		"Longitude" : "-086.343941",
+		"Zipcode" : "42755",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYSON",
+		"City" : "LEITCHFIELD",
+		"State" : "KY",
+		"Latitude" : "+37.471943"
+	},
+	{
+		"Longitude" : "-085.723511",
+		"Zipcode" : "42757",
+		"ZipClass" : "STANDARD",
+		"County" : "LARUE",
+		"City" : "MAGNOLIA",
+		"State" : "KY",
+		"Latitude" : "+37.469063"
+	},
+	{
+		"Longitude" : "-085.198031",
+		"Zipcode" : "42758",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TAYLOR",
+		"City" : "MANNSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.360392"
+	},
+	{
+		"Longitude" : "-085.501540",
+		"Zipcode" : "42759",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "MARROWBONE",
+		"State" : "KY",
+		"Latitude" : "+36.830573"
+	},
+	{
+		"Longitude" : "-085.459565",
+		"Zipcode" : "42761",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAIR",
+		"City" : "MILLTOWN",
+		"State" : "KY",
+		"Latitude" : "+37.107146"
+	},
+	{
+		"Longitude" : "-086.400828",
+		"Zipcode" : "42762",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAYSON",
+		"City" : "MILLWOOD",
+		"State" : "KY",
+		"Latitude" : "+37.444623"
+	},
+	{
+		"Longitude" : "-085.639231",
+		"Zipcode" : "42764",
+		"ZipClass" : "STANDARD",
+		"County" : "LARUE",
+		"City" : "MOUNT SHERMAN",
+		"State" : "KY",
+		"Latitude" : "+37.463961"
+	},
+	{
+		"Longitude" : "-085.914004",
+		"Zipcode" : "42765",
+		"ZipClass" : "STANDARD",
+		"County" : "HART",
+		"City" : "MUNFORDVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.292040"
+	},
+	{
+		"Longitude" : "-085.950238",
+		"Zipcode" : "42776",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "SONORA",
+		"State" : "KY",
+		"Latitude" : "+37.515024"
+	},
+	{
+		"Longitude" : "-085.614043",
+		"Zipcode" : "42782",
+		"ZipClass" : "STANDARD",
+		"County" : "GREEN",
+		"City" : "SUMMERSVILLE",
+		"State" : "KY",
+		"Latitude" : "+37.354827"
+	},
+	{
+		"Longitude" : "-086.085259",
+		"Zipcode" : "42783",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "SUMMIT",
+		"State" : "KY",
+		"Latitude" : "+37.567134"
+	},
+	{
+		"Longitude" : "-085.963435",
+		"Zipcode" : "42784",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "UPTON",
+		"State" : "KY",
+		"Latitude" : "+37.478353"
+	},
+	{
+		"Longitude" : "-085.462435",
+		"Zipcode" : "42786",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CUMBERLAND",
+		"City" : "WATERVIEW",
+		"State" : "KY",
+		"Latitude" : "+36.819839"
+	},
+	{
+		"Longitude" : "-086.033456",
+		"Zipcode" : "42788",
+		"ZipClass" : "STANDARD",
+		"County" : "HARDIN",
+		"City" : "WHITE MILLS",
+		"State" : "KY",
+		"Latitude" : "+37.534951"
+	}
+]}

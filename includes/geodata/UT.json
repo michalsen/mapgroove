@@ -1,0 +1,3171 @@
+{
+	"result":[
+	{
+		"Longitude" : "-110.435974",
+		"Zipcode" : "84001",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "ALTAMONT",
+		"State" : "UT",
+		"Latitude" : "+40.320728"
+	},
+	{
+		"Longitude" : "-110.435974",
+		"Zipcode" : "84002",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "ALTONAH",
+		"State" : "UT",
+		"Latitude" : "+40.320728"
+	},
+	{
+		"Longitude" : "-111.803101",
+		"Zipcode" : "84003",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "AMERICAN FORK",
+		"State" : "UT",
+		"Latitude" : "+40.395796"
+	},
+	{
+		"Longitude" : "-111.773164",
+		"Zipcode" : "84004",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "ALPINE",
+		"State" : "UT",
+		"Latitude" : "+40.459133"
+	},
+	{
+		"Longitude" : "-112.078600",
+		"Zipcode" : "84006",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "BINGHAM CANYON",
+		"State" : "UT",
+		"Latitude" : "+40.592045"
+	},
+	{
+		"Longitude" : "-110.229816",
+		"Zipcode" : "84007",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "BLUEBELL",
+		"State" : "UT",
+		"Latitude" : "+40.312539"
+	},
+	{
+		"Longitude" : "-109.505593",
+		"Zipcode" : "84008",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "BONANZA",
+		"State" : "UT",
+		"Latitude" : "+40.443106"
+	},
+	{
+		"Longitude" : "-111.870994",
+		"Zipcode" : "84010",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "BOUNTIFUL",
+		"State" : "UT",
+		"Latitude" : "+40.874038"
+	},
+	{
+		"Longitude" : "-112.115984",
+		"Zipcode" : "84011",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "BOUNTIFUL",
+		"State" : "UT",
+		"Latitude" : "+40.963547"
+	},
+	{
+		"Longitude" : "-111.919871",
+		"Zipcode" : "84013",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "CEDAR VALLEY",
+		"State" : "UT",
+		"Latitude" : "+40.183311"
+	},
+	{
+		"Longitude" : "-111.889651",
+		"Zipcode" : "84014",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "CENTERVILLE",
+		"State" : "UT",
+		"Latitude" : "+40.929547"
+	},
+	{
+		"Longitude" : "-111.995023",
+		"Zipcode" : "84015",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "CLEARFIELD",
+		"State" : "UT",
+		"Latitude" : "+41.017594"
+	},
+	{
+		"Longitude" : "-111.888121",
+		"Zipcode" : "84016",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "CLEARFIELD",
+		"State" : "UT",
+		"Latitude" : "+40.892995"
+	},
+	{
+		"Longitude" : "-111.322754",
+		"Zipcode" : "84017",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "COALVILLE",
+		"State" : "UT",
+		"Latitude" : "+40.840518"
+	},
+	{
+		"Longitude" : "-111.486959",
+		"Zipcode" : "84018",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "CROYDON",
+		"State" : "UT",
+		"Latitude" : "+41.090456"
+	},
+	{
+		"Longitude" : "-111.869671",
+		"Zipcode" : "84020",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "DRAPER",
+		"State" : "UT",
+		"Latitude" : "+40.506148"
+	},
+	{
+		"Longitude" : "-110.313210",
+		"Zipcode" : "84021",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "DUCHESNE",
+		"State" : "UT",
+		"Latitude" : "+40.193815"
+	},
+	{
+		"Longitude" : "-112.689833",
+		"Zipcode" : "84022",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOELE",
+		"City" : "DUGWAY",
+		"State" : "UT",
+		"Latitude" : "+40.270806"
+	},
+	{
+		"Longitude" : "-109.432883",
+		"Zipcode" : "84023",
+		"ZipClass" : "STANDARD",
+		"County" : "DAGGETT",
+		"City" : "DUTCH JOHN",
+		"State" : "UT",
+		"Latitude" : "+40.936315"
+	},
+	{
+		"Longitude" : "-111.451001",
+		"Zipcode" : "84024",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUMMIT",
+		"City" : "ECHO",
+		"State" : "UT",
+		"Latitude" : "+40.989171"
+	},
+	{
+		"Longitude" : "-111.907344",
+		"Zipcode" : "84025",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "FARMINGTON",
+		"State" : "UT",
+		"Latitude" : "+40.969069"
+	},
+	{
+		"Longitude" : "-109.846675",
+		"Zipcode" : "84026",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "FORT DUCHESNE",
+		"State" : "UT",
+		"Latitude" : "+40.290515"
+	},
+	{
+		"Longitude" : "-110.435974",
+		"Zipcode" : "84027",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "FRUITLAND",
+		"State" : "UT",
+		"Latitude" : "+40.320728"
+	},
+	{
+		"Longitude" : "-111.379691",
+		"Zipcode" : "84028",
+		"ZipClass" : "STANDARD",
+		"County" : "RICH",
+		"City" : "GARDEN CITY",
+		"State" : "UT",
+		"Latitude" : "+41.907816"
+	},
+	{
+		"Longitude" : "-112.540610",
+		"Zipcode" : "84029",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOELE",
+		"City" : "GRANTSVILLE",
+		"State" : "UT",
+		"Latitude" : "+40.560384"
+	},
+	{
+		"Longitude" : "-109.547839",
+		"Zipcode" : "84030",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "GUSHER",
+		"State" : "UT",
+		"Latitude" : "+40.160179"
+	},
+	{
+		"Longitude" : "-110.807816",
+		"Zipcode" : "84031",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "HANNA",
+		"State" : "UT",
+		"Latitude" : "+40.428901"
+	},
+	{
+		"Longitude" : "-111.348882",
+		"Zipcode" : "84032",
+		"ZipClass" : "STANDARD",
+		"County" : "WASATCH",
+		"City" : "HEBER CITY",
+		"State" : "UT",
+		"Latitude" : "+40.517678"
+	},
+	{
+		"Longitude" : "-111.501094",
+		"Zipcode" : "84033",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUMMIT",
+		"City" : "HENEFER",
+		"State" : "UT",
+		"Latitude" : "+41.018639"
+	},
+	{
+		"Longitude" : "-113.095905",
+		"Zipcode" : "84034",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOELE",
+		"City" : "IBAPAH",
+		"State" : "UT",
+		"Latitude" : "+40.489989"
+	},
+	{
+		"Longitude" : "-109.387441",
+		"Zipcode" : "84035",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "JENSEN",
+		"State" : "UT",
+		"Latitude" : "+40.344753"
+	},
+	{
+		"Longitude" : "-111.312427",
+		"Zipcode" : "84036",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "KAMAS",
+		"State" : "UT",
+		"Latitude" : "+40.667933"
+	},
+	{
+		"Longitude" : "-111.927970",
+		"Zipcode" : "84037",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "KAYSVILLE",
+		"State" : "UT",
+		"Latitude" : "+40.960691"
+	},
+	{
+		"Longitude" : "-111.349487",
+		"Zipcode" : "84038",
+		"ZipClass" : "STANDARD",
+		"County" : "RICH",
+		"City" : "LAKETOWN",
+		"State" : "UT",
+		"Latitude" : "+41.858357"
+	},
+	{
+		"Longitude" : "-109.774553",
+		"Zipcode" : "84039",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "LAPOINT",
+		"State" : "UT",
+		"Latitude" : "+40.485962"
+	},
+	{
+		"Longitude" : "-111.926140",
+		"Zipcode" : "84040",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "LAYTON",
+		"State" : "UT",
+		"Latitude" : "+41.088889"
+	},
+	{
+		"Longitude" : "-111.994525",
+		"Zipcode" : "84041",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "LAYTON",
+		"State" : "UT",
+		"Latitude" : "+41.059863"
+	},
+	{
+		"Longitude" : "-111.719923",
+		"Zipcode" : "84042",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "LINDON",
+		"State" : "UT",
+		"Latitude" : "+40.340251"
+	},
+	{
+		"Longitude" : "-111.921078",
+		"Zipcode" : "84043",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "LEHI",
+		"State" : "UT",
+		"Latitude" : "+40.318139"
+	},
+	{
+		"Longitude" : "-112.088875",
+		"Zipcode" : "84044",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "MAGNA",
+		"State" : "UT",
+		"Latitude" : "+40.699401"
+	},
+	{
+		"Longitude" : "-109.704889",
+		"Zipcode" : "84046",
+		"ZipClass" : "STANDARD",
+		"County" : "DAGGETT",
+		"City" : "MANILA",
+		"State" : "UT",
+		"Latitude" : "+40.990039"
+	},
+	{
+		"Longitude" : "-111.885868",
+		"Zipcode" : "84047",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "MIDVALE",
+		"State" : "UT",
+		"Latitude" : "+40.608972"
+	},
+	{
+		"Longitude" : "-111.485127",
+		"Zipcode" : "84049",
+		"ZipClass" : "STANDARD",
+		"County" : "WASATCH",
+		"City" : "MIDWAY",
+		"State" : "UT",
+		"Latitude" : "+40.489378"
+	},
+	{
+		"Longitude" : "-111.702746",
+		"Zipcode" : "84050",
+		"ZipClass" : "STANDARD",
+		"County" : "MORGAN",
+		"City" : "MORGAN",
+		"State" : "UT",
+		"Latitude" : "+41.068883"
+	},
+	{
+		"Longitude" : "-110.435974",
+		"Zipcode" : "84051",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "MOUNTAIN HOME",
+		"State" : "UT",
+		"Latitude" : "+40.320728"
+	},
+	{
+		"Longitude" : "-110.049034",
+		"Zipcode" : "84052",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "MYTON",
+		"State" : "UT",
+		"Latitude" : "+40.200074"
+	},
+	{
+		"Longitude" : "-110.435974",
+		"Zipcode" : "84053",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "NEOLA",
+		"State" : "UT",
+		"Latitude" : "+40.320728"
+	},
+	{
+		"Longitude" : "-111.919115",
+		"Zipcode" : "84054",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "NORTH SALT LAKE",
+		"State" : "UT",
+		"Latitude" : "+40.844595"
+	},
+	{
+		"Longitude" : "-111.245610",
+		"Zipcode" : "84055",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUMMIT",
+		"City" : "OAKLEY",
+		"State" : "UT",
+		"Latitude" : "+40.724311"
+	},
+	{
+		"Longitude" : "-111.989813",
+		"Zipcode" : "84056",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "HILL AFB",
+		"State" : "UT",
+		"Latitude" : "+41.120219"
+	},
+	{
+		"Longitude" : "-111.724960",
+		"Zipcode" : "84057",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "OREM",
+		"State" : "UT",
+		"Latitude" : "+40.311353"
+	},
+	{
+		"Longitude" : "-111.720910",
+		"Zipcode" : "84058",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "OREM",
+		"State" : "UT",
+		"Latitude" : "+40.281800"
+	},
+	{
+		"Longitude" : "-111.536036",
+		"Zipcode" : "84059",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "OREM",
+		"State" : "UT",
+		"Latitude" : "+40.176975"
+	},
+	{
+		"Longitude" : "-111.448892",
+		"Zipcode" : "84060",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "PARK CITY",
+		"State" : "UT",
+		"Latitude" : "+40.711880"
+	},
+	{
+		"Longitude" : "-111.351178",
+		"Zipcode" : "84061",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "PEOA",
+		"State" : "UT",
+		"Latitude" : "+40.743379"
+	},
+	{
+		"Longitude" : "-111.732911",
+		"Zipcode" : "84062",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "PLEASANT GROVE",
+		"State" : "UT",
+		"Latitude" : "+40.386385"
+	},
+	{
+		"Longitude" : "-109.806162",
+		"Zipcode" : "84063",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "RANDLETT",
+		"State" : "UT",
+		"Latitude" : "+40.301680"
+	},
+	{
+		"Longitude" : "-111.184512",
+		"Zipcode" : "84064",
+		"ZipClass" : "STANDARD",
+		"County" : "RICH",
+		"City" : "RANDOLPH",
+		"State" : "UT",
+		"Latitude" : "+41.690895"
+	},
+	{
+		"Longitude" : "-112.006270",
+		"Zipcode" : "84065",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "RIVERTON",
+		"State" : "UT",
+		"Latitude" : "+40.495129"
+	},
+	{
+		"Longitude" : "-110.106937",
+		"Zipcode" : "84066",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "ROOSEVELT",
+		"State" : "UT",
+		"Latitude" : "+40.266539"
+	},
+	{
+		"Longitude" : "-112.052525",
+		"Zipcode" : "84067",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "ROY",
+		"State" : "UT",
+		"Latitude" : "+41.178743"
+	},
+	{
+		"Longitude" : "-111.505365",
+		"Zipcode" : "84068",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "PARK CITY",
+		"State" : "UT",
+		"Latitude" : "+40.667970"
+	},
+	{
+		"Longitude" : "-112.465914",
+		"Zipcode" : "84069",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOELE",
+		"City" : "RUSH VALLEY",
+		"State" : "UT",
+		"Latitude" : "+40.356629"
+	},
+	{
+		"Longitude" : "-111.859504",
+		"Zipcode" : "84070",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SANDY",
+		"State" : "UT",
+		"Latitude" : "+40.578597"
+	},
+	{
+		"Longitude" : "-112.355926",
+		"Zipcode" : "84071",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOELE",
+		"City" : "STOCKTON",
+		"State" : "UT",
+		"Latitude" : "+40.441463"
+	},
+	{
+		"Longitude" : "-110.721218",
+		"Zipcode" : "84072",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "TABIONA",
+		"State" : "UT",
+		"Latitude" : "+40.359782"
+	},
+	{
+		"Longitude" : "-110.435974",
+		"Zipcode" : "84073",
+		"ZipClass" : "STANDARD",
+		"County" : "DUCHESNE",
+		"City" : "TALMAGE",
+		"State" : "UT",
+		"Latitude" : "+40.320728"
+	},
+	{
+		"Longitude" : "-113.144159",
+		"Zipcode" : "84074",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOELE",
+		"City" : "TOOELE",
+		"State" : "UT",
+		"Latitude" : "+40.617392"
+	},
+	{
+		"Longitude" : "-112.079415",
+		"Zipcode" : "84075",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "SYRACUSE",
+		"State" : "UT",
+		"Latitude" : "+41.096293"
+	},
+	{
+		"Longitude" : "-109.840776",
+		"Zipcode" : "84076",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "TRIDELL",
+		"State" : "UT",
+		"Latitude" : "+40.425577"
+	},
+	{
+		"Longitude" : "-109.556103",
+		"Zipcode" : "84078",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "VERNAL",
+		"State" : "UT",
+		"Latitude" : "+40.368246"
+	},
+	{
+		"Longitude" : "-109.547839",
+		"Zipcode" : "84079",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "VERNAL",
+		"State" : "UT",
+		"Latitude" : "+40.160179"
+	},
+	{
+		"Longitude" : "-112.455046",
+		"Zipcode" : "84080",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOELE",
+		"City" : "VERNON",
+		"State" : "UT",
+		"Latitude" : "+40.086909"
+	},
+	{
+		"Longitude" : "-111.394222",
+		"Zipcode" : "84082",
+		"ZipClass" : "STANDARD",
+		"County" : "WASATCH",
+		"City" : "WALLSBURG",
+		"State" : "UT",
+		"Latitude" : "+40.410548"
+	},
+	{
+		"Longitude" : "-113.991849",
+		"Zipcode" : "84083",
+		"ZipClass" : "STANDARD",
+		"County" : "TOOELE",
+		"City" : "WENDOVER",
+		"State" : "UT",
+		"Latitude" : "+40.732900"
+	},
+	{
+		"Longitude" : "-111.978898",
+		"Zipcode" : "84084",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "WEST JORDAN",
+		"State" : "UT",
+		"Latitude" : "+40.606125"
+	},
+	{
+		"Longitude" : "-109.911237",
+		"Zipcode" : "84085",
+		"ZipClass" : "STANDARD",
+		"County" : "UINTAH",
+		"City" : "WHITEROCKS",
+		"State" : "UT",
+		"Latitude" : "+40.374808"
+	},
+	{
+		"Longitude" : "-111.183650",
+		"Zipcode" : "84086",
+		"ZipClass" : "STANDARD",
+		"County" : "RICH",
+		"City" : "WOODRUFF",
+		"State" : "UT",
+		"Latitude" : "+41.467578"
+	},
+	{
+		"Longitude" : "-111.926646",
+		"Zipcode" : "84087",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "WOODS CROSS",
+		"State" : "UT",
+		"Latitude" : "+40.889027"
+	},
+	{
+		"Longitude" : "-111.983420",
+		"Zipcode" : "84088",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "WEST JORDAN",
+		"State" : "UT",
+		"Latitude" : "+40.587629"
+	},
+	{
+		"Longitude" : "-112.115984",
+		"Zipcode" : "84089",
+		"ZipClass" : "STANDARD",
+		"County" : "DAVIS",
+		"City" : "CLEARFIELD",
+		"State" : "UT",
+		"Latitude" : "+40.963547"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84090",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SANDY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84091",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SANDY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.746713",
+		"Zipcode" : "84092",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SANDY",
+		"State" : "UT",
+		"Latitude" : "+40.583401"
+	},
+	{
+		"Longitude" : "-111.824566",
+		"Zipcode" : "84093",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SANDY",
+		"State" : "UT",
+		"Latitude" : "+40.595025"
+	},
+	{
+		"Longitude" : "-111.858617",
+		"Zipcode" : "84094",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SANDY",
+		"State" : "UT",
+		"Latitude" : "+40.569893"
+	},
+	{
+		"Longitude" : "-111.953891",
+		"Zipcode" : "84095",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SOUTH JORDAN",
+		"State" : "UT",
+		"Latitude" : "+40.554098"
+	},
+	{
+		"Longitude" : "-111.670519",
+		"Zipcode" : "84097",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "OREM",
+		"State" : "UT",
+		"Latitude" : "+40.297153"
+	},
+	{
+		"Longitude" : "-111.548098",
+		"Zipcode" : "84098",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMMIT",
+		"City" : "PARK CITY",
+		"State" : "UT",
+		"Latitude" : "+40.702896"
+	},
+	{
+		"Longitude" : "-111.900719",
+		"Zipcode" : "84101",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.756095"
+	},
+	{
+		"Longitude" : "-111.862590",
+		"Zipcode" : "84102",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.759246"
+	},
+	{
+		"Longitude" : "-111.869485",
+		"Zipcode" : "84103",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.785847"
+	},
+	{
+		"Longitude" : "-111.984100",
+		"Zipcode" : "84104",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.747845"
+	},
+	{
+		"Longitude" : "-111.856517",
+		"Zipcode" : "84105",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.738153"
+	},
+	{
+		"Longitude" : "-111.836766",
+		"Zipcode" : "84106",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.707846"
+	},
+	{
+		"Longitude" : "-111.890414",
+		"Zipcode" : "84107",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.656796"
+	},
+	{
+		"Longitude" : "-111.753274",
+		"Zipcode" : "84108",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.777078"
+	},
+	{
+		"Longitude" : "-111.744257",
+		"Zipcode" : "84109",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.707005"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84110",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.883718",
+		"Zipcode" : "84111",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.755596"
+	},
+	{
+		"Longitude" : "-111.840284",
+		"Zipcode" : "84112",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.765868"
+	},
+	{
+		"Longitude" : "-111.836423",
+		"Zipcode" : "84113",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.765795"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84114",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.893118",
+		"Zipcode" : "84115",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.714496"
+	},
+	{
+		"Longitude" : "-111.999902",
+		"Zipcode" : "84116",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.798495"
+	},
+	{
+		"Longitude" : "-111.833966",
+		"Zipcode" : "84117",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.655097"
+	},
+	{
+		"Longitude" : "-112.005421",
+		"Zipcode" : "84118",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.650407"
+	},
+	{
+		"Longitude" : "-111.913368",
+		"Zipcode" : "84119",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.633297"
+	},
+	{
+		"Longitude" : "-112.000072",
+		"Zipcode" : "84120",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.695045"
+	},
+	{
+		"Longitude" : "-111.777749",
+		"Zipcode" : "84121",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.622557"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84122",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.919269",
+		"Zipcode" : "84123",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.659630"
+	},
+	{
+		"Longitude" : "-111.820566",
+		"Zipcode" : "84124",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.653246"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84125",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84126",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84127",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-112.037673",
+		"Zipcode" : "84128",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.697645"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84130",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84131",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.838541",
+		"Zipcode" : "84132",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.772743"
+	},
+	{
+		"Longitude" : "-111.889319",
+		"Zipcode" : "84133",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.769046"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84134",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84135",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.887869",
+		"Zipcode" : "84136",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.768546"
+	},
+	{
+		"Longitude" : "-111.748280",
+		"Zipcode" : "84138",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.671614"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84139",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.930870",
+		"Zipcode" : "84140",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.771345"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84141",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84142",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.900832",
+		"Zipcode" : "84143",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.786886"
+	},
+	{
+		"Longitude" : "-111.890819",
+		"Zipcode" : "84144",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.767946"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84145",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84147",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.837567",
+		"Zipcode" : "84148",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.756796"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84150",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84151",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.662730",
+		"Zipcode" : "84152",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.728579"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84153",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84157",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.762115",
+		"Zipcode" : "84158",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.768996"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84165",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84170",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84171",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.900769",
+		"Zipcode" : "84180",
+		"ZipClass" : "STANDARD",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.769045"
+	},
+	{
+		"Longitude" : "-111.956811",
+		"Zipcode" : "84184",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.676839"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84189",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "-111.908297",
+		"Zipcode" : "84190",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.668068"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "84193",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "84194",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "84195",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-111.939420",
+		"Zipcode" : "84199",
+		"ZipClass" : "UNIQUE",
+		"County" : "SALT LAKE",
+		"City" : "SALT LAKE CITY",
+		"State" : "UT",
+		"Latitude" : "+40.725946"
+	},
+	{
+		"Longitude" : "-112.007924",
+		"Zipcode" : "84201",
+		"ZipClass" : "UNIQUE",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.244261"
+	},
+	{
+		"Longitude" : "-111.956721",
+		"Zipcode" : "84244",
+		"ZipClass" : "UNIQUE",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.255285"
+	},
+	{
+		"Longitude" : "-112.124107",
+		"Zipcode" : "84301",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOX ELDER",
+		"City" : "BEAR RIVER CITY",
+		"State" : "UT",
+		"Latitude" : "+41.609266"
+	},
+	{
+		"Longitude" : "-112.061761",
+		"Zipcode" : "84302",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "BRIGHAM CITY",
+		"State" : "UT",
+		"Latitude" : "+41.537922"
+	},
+	{
+		"Longitude" : "-111.998197",
+		"Zipcode" : "84304",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "CACHE JUNCTION",
+		"State" : "UT",
+		"Latitude" : "+41.816936"
+	},
+	{
+		"Longitude" : "-112.030254",
+		"Zipcode" : "84305",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CACHE",
+		"City" : "CLARKSTON",
+		"State" : "UT",
+		"Latitude" : "+41.919726"
+	},
+	{
+		"Longitude" : "-112.066608",
+		"Zipcode" : "84306",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "COLLINSTON",
+		"State" : "UT",
+		"Latitude" : "+41.781268"
+	},
+	{
+		"Longitude" : "-112.390322",
+		"Zipcode" : "84307",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "CORINNE",
+		"State" : "UT",
+		"Latitude" : "+41.454713"
+	},
+	{
+		"Longitude" : "-111.973275",
+		"Zipcode" : "84308",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "CORNISH",
+		"State" : "UT",
+		"Latitude" : "+41.944253"
+	},
+	{
+		"Longitude" : "-112.097195",
+		"Zipcode" : "84309",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "DEWEYVILLE",
+		"State" : "UT",
+		"Latitude" : "+41.713643"
+	},
+	{
+		"Longitude" : "-111.738298",
+		"Zipcode" : "84310",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "EDEN",
+		"State" : "UT",
+		"Latitude" : "+41.339343"
+	},
+	{
+		"Longitude" : "-112.094039",
+		"Zipcode" : "84311",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "FIELDING",
+		"State" : "UT",
+		"Latitude" : "+41.628942"
+	},
+	{
+		"Longitude" : "-112.140361",
+		"Zipcode" : "84312",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "GARLAND",
+		"State" : "UT",
+		"Latitude" : "+41.798402"
+	},
+	{
+		"Longitude" : "-112.957875",
+		"Zipcode" : "84313",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "GROUSE CREEK",
+		"State" : "UT",
+		"Latitude" : "+41.500586"
+	},
+	{
+		"Longitude" : "-112.104979",
+		"Zipcode" : "84314",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "HONEYVILLE",
+		"State" : "UT",
+		"Latitude" : "+41.651978"
+	},
+	{
+		"Longitude" : "-112.103475",
+		"Zipcode" : "84315",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "HOOPER",
+		"State" : "UT",
+		"Latitude" : "+41.182343"
+	},
+	{
+		"Longitude" : "-112.396755",
+		"Zipcode" : "84316",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOX ELDER",
+		"City" : "HOWELL",
+		"State" : "UT",
+		"Latitude" : "+41.773280"
+	},
+	{
+		"Longitude" : "-111.715855",
+		"Zipcode" : "84317",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "HUNTSVILLE",
+		"State" : "UT",
+		"Latitude" : "+41.266035"
+	},
+	{
+		"Longitude" : "-111.812321",
+		"Zipcode" : "84318",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "HYDE PARK",
+		"State" : "UT",
+		"Latitude" : "+41.800028"
+	},
+	{
+		"Longitude" : "-111.879653",
+		"Zipcode" : "84319",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "HYRUM",
+		"State" : "UT",
+		"Latitude" : "+41.717589"
+	},
+	{
+		"Longitude" : "-111.874421",
+		"Zipcode" : "84320",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "LEWISTON",
+		"State" : "UT",
+		"Latitude" : "+41.816874"
+	},
+	{
+		"Longitude" : "-111.885084",
+		"Zipcode" : "84321",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "LOGAN",
+		"State" : "UT",
+		"Latitude" : "+41.766950"
+	},
+	{
+		"Longitude" : "-111.896571",
+		"Zipcode" : "84322",
+		"ZipClass" : "UNIQUE",
+		"County" : "CACHE",
+		"City" : "LOGAN",
+		"State" : "UT",
+		"Latitude" : "+41.641189"
+	},
+	{
+		"Longitude" : "-111.783783",
+		"Zipcode" : "84323",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "LOGAN",
+		"State" : "UT",
+		"Latitude" : "+41.684253"
+	},
+	{
+		"Longitude" : "-111.942400",
+		"Zipcode" : "84324",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "MANTUA",
+		"State" : "UT",
+		"Latitude" : "+41.492844"
+	},
+	{
+		"Longitude" : "-111.989806",
+		"Zipcode" : "84325",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "MENDON",
+		"State" : "UT",
+		"Latitude" : "+41.724699"
+	},
+	{
+		"Longitude" : "-111.818459",
+		"Zipcode" : "84326",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CACHE",
+		"City" : "MILLVILLE",
+		"State" : "UT",
+		"Latitude" : "+41.675906"
+	},
+	{
+		"Longitude" : "-112.002633",
+		"Zipcode" : "84327",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CACHE",
+		"City" : "NEWTON",
+		"State" : "UT",
+		"Latitude" : "+41.921329"
+	},
+	{
+		"Longitude" : "-111.810740",
+		"Zipcode" : "84328",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "PARADISE",
+		"State" : "UT",
+		"Latitude" : "+41.548529"
+	},
+	{
+		"Longitude" : "-113.523193",
+		"Zipcode" : "84329",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "PARK VALLEY",
+		"State" : "UT",
+		"Latitude" : "+41.808234"
+	},
+	{
+		"Longitude" : "-112.138837",
+		"Zipcode" : "84330",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOX ELDER",
+		"City" : "PLYMOUTH",
+		"State" : "UT",
+		"Latitude" : "+41.883058"
+	},
+	{
+		"Longitude" : "-112.180605",
+		"Zipcode" : "84331",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "PORTAGE",
+		"State" : "UT",
+		"Latitude" : "+41.906183"
+	},
+	{
+		"Longitude" : "-111.915564",
+		"Zipcode" : "84332",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "PROVIDENCE",
+		"State" : "UT",
+		"Latitude" : "+41.797849"
+	},
+	{
+		"Longitude" : "-111.798034",
+		"Zipcode" : "84333",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "RICHMOND",
+		"State" : "UT",
+		"Latitude" : "+41.883064"
+	},
+	{
+		"Longitude" : "-112.146687",
+		"Zipcode" : "84334",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOX ELDER",
+		"City" : "RIVERSIDE",
+		"State" : "UT",
+		"Latitude" : "+41.786849"
+	},
+	{
+		"Longitude" : "-111.910101",
+		"Zipcode" : "84335",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "SMITHFIELD",
+		"State" : "UT",
+		"Latitude" : "+41.801798"
+	},
+	{
+		"Longitude" : "-112.726895",
+		"Zipcode" : "84336",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "SNOWVILLE",
+		"State" : "UT",
+		"Latitude" : "+41.965964"
+	},
+	{
+		"Longitude" : "-112.255453",
+		"Zipcode" : "84337",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "TREMONTON",
+		"State" : "UT",
+		"Latitude" : "+41.688490"
+	},
+	{
+		"Longitude" : "-111.925583",
+		"Zipcode" : "84338",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "TRENTON",
+		"State" : "UT",
+		"Latitude" : "+41.924050"
+	},
+	{
+		"Longitude" : "-111.917588",
+		"Zipcode" : "84339",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "WELLSVILLE",
+		"State" : "UT",
+		"Latitude" : "+41.637826"
+	},
+	{
+		"Longitude" : "-112.047650",
+		"Zipcode" : "84340",
+		"ZipClass" : "STANDARD",
+		"County" : "BOX ELDER",
+		"City" : "WILLARD",
+		"State" : "UT",
+		"Latitude" : "+41.387828"
+	},
+	{
+		"Longitude" : "-111.917217",
+		"Zipcode" : "84341",
+		"ZipClass" : "STANDARD",
+		"County" : "CACHE",
+		"City" : "LOGAN",
+		"State" : "UT",
+		"Latitude" : "+41.838005"
+	},
+	{
+		"Longitude" : "-111.957685",
+		"Zipcode" : "84401",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.221328"
+	},
+	{
+		"Longitude" : "-111.956721",
+		"Zipcode" : "84402",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.255285"
+	},
+	{
+		"Longitude" : "-111.938216",
+		"Zipcode" : "84403",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.178343"
+	},
+	{
+		"Longitude" : "-112.079805",
+		"Zipcode" : "84404",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.279292"
+	},
+	{
+		"Longitude" : "-111.968874",
+		"Zipcode" : "84405",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.171493"
+	},
+	{
+		"Longitude" : "-111.965867",
+		"Zipcode" : "84407",
+		"ZipClass" : "UNIQUE",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.238547"
+	},
+	{
+		"Longitude" : "-111.948474",
+		"Zipcode" : "84408",
+		"ZipClass" : "UNIQUE",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.195593"
+	},
+	{
+		"Longitude" : "-111.956721",
+		"Zipcode" : "84409",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.255285"
+	},
+	{
+		"Longitude" : "-111.956721",
+		"Zipcode" : "84412",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.255285"
+	},
+	{
+		"Longitude" : "-111.925590",
+		"Zipcode" : "84414",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.309184"
+	},
+	{
+		"Longitude" : "-111.956721",
+		"Zipcode" : "84415",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBER",
+		"City" : "OGDEN",
+		"State" : "UT",
+		"Latitude" : "+41.255285"
+	},
+	{
+		"Longitude" : "-110.650901",
+		"Zipcode" : "84501",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "PRICE",
+		"State" : "UT",
+		"Latitude" : "+39.567883"
+	},
+	{
+		"Longitude" : "-110.226910",
+		"Zipcode" : "84510",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "ANETH",
+		"State" : "UT",
+		"Latitude" : "+37.748946"
+	},
+	{
+		"Longitude" : "-109.441410",
+		"Zipcode" : "84511",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "BLANDING",
+		"State" : "UT",
+		"Latitude" : "+37.566938"
+	},
+	{
+		"Longitude" : "-109.479932",
+		"Zipcode" : "84512",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "BLUFF",
+		"State" : "UT",
+		"Latitude" : "+37.624663"
+	},
+	{
+		"Longitude" : "-111.052868",
+		"Zipcode" : "84513",
+		"ZipClass" : "STANDARD",
+		"County" : "EMERY",
+		"City" : "CASTLE DALE",
+		"State" : "UT",
+		"Latitude" : "+39.196393"
+	},
+	{
+		"Longitude" : "-109.615008",
+		"Zipcode" : "84515",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAND",
+		"City" : "CISCO",
+		"State" : "UT",
+		"Latitude" : "+38.999877"
+	},
+	{
+		"Longitude" : "-111.100814",
+		"Zipcode" : "84516",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMERY",
+		"City" : "CLAWSON",
+		"State" : "UT",
+		"Latitude" : "+39.119759"
+	},
+	{
+		"Longitude" : "-110.893573",
+		"Zipcode" : "84518",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMERY",
+		"City" : "CLEVELAND",
+		"State" : "UT",
+		"Latitude" : "+39.373583"
+	},
+	{
+		"Longitude" : "-110.403536",
+		"Zipcode" : "84520",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "EAST CARBON",
+		"State" : "UT",
+		"Latitude" : "+39.531795"
+	},
+	{
+		"Longitude" : "-110.810027",
+		"Zipcode" : "84521",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMERY",
+		"City" : "ELMO",
+		"State" : "UT",
+		"Latitude" : "+39.403255"
+	},
+	{
+		"Longitude" : "-111.251238",
+		"Zipcode" : "84522",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMERY",
+		"City" : "EMERY",
+		"State" : "UT",
+		"Latitude" : "+38.922600"
+	},
+	{
+		"Longitude" : "-111.118572",
+		"Zipcode" : "84523",
+		"ZipClass" : "STANDARD",
+		"County" : "EMERY",
+		"City" : "FERRON",
+		"State" : "UT",
+		"Latitude" : "+39.143730"
+	},
+	{
+		"Longitude" : "-110.213864",
+		"Zipcode" : "84525",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMERY",
+		"City" : "GREEN RIVER",
+		"State" : "UT",
+		"Latitude" : "+39.020075"
+	},
+	{
+		"Longitude" : "-110.776670",
+		"Zipcode" : "84526",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "HELPER",
+		"State" : "UT",
+		"Latitude" : "+39.637459"
+	},
+	{
+		"Longitude" : "-110.560697",
+		"Zipcode" : "84527",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "HIAWATHA",
+		"State" : "UT",
+		"Latitude" : "+39.640779"
+	},
+	{
+		"Longitude" : "-110.961933",
+		"Zipcode" : "84528",
+		"ZipClass" : "STANDARD",
+		"County" : "EMERY",
+		"City" : "HUNTINGTON",
+		"State" : "UT",
+		"Latitude" : "+39.283156"
+	},
+	{
+		"Longitude" : "-110.807260",
+		"Zipcode" : "84529",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "KENILWORTH",
+		"State" : "UT",
+		"Latitude" : "+39.688418"
+	},
+	{
+		"Longitude" : "-110.226910",
+		"Zipcode" : "84530",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "LA SAL",
+		"State" : "UT",
+		"Latitude" : "+37.748946"
+	},
+	{
+		"Longitude" : "-110.226910",
+		"Zipcode" : "84531",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "MEXICAN HAT",
+		"State" : "UT",
+		"Latitude" : "+37.748946"
+	},
+	{
+		"Longitude" : "-109.540190",
+		"Zipcode" : "84532",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAND",
+		"City" : "MOAB",
+		"State" : "UT",
+		"Latitude" : "+38.580400"
+	},
+	{
+		"Longitude" : "-110.226910",
+		"Zipcode" : "84533",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "LAKE POWELL",
+		"State" : "UT",
+		"Latitude" : "+37.748946"
+	},
+	{
+		"Longitude" : "-109.106079",
+		"Zipcode" : "84534",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "MONTEZUMA CREEK",
+		"State" : "UT",
+		"Latitude" : "+37.253910"
+	},
+	{
+		"Longitude" : "-109.259108",
+		"Zipcode" : "84535",
+		"ZipClass" : "STANDARD",
+		"County" : "SAN JUAN",
+		"City" : "MONTICELLO",
+		"State" : "UT",
+		"Latitude" : "+38.099745"
+	},
+	{
+		"Longitude" : "-109.568090",
+		"Zipcode" : "84536",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SAN JUAN",
+		"City" : "MONUMENT VALLEY",
+		"State" : "UT",
+		"Latitude" : "+37.280022"
+	},
+	{
+		"Longitude" : "-111.051827",
+		"Zipcode" : "84537",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "EMERY",
+		"City" : "ORANGEVILLE",
+		"State" : "UT",
+		"Latitude" : "+39.230155"
+	},
+	{
+		"Longitude" : "-110.398832",
+		"Zipcode" : "84539",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARBON",
+		"City" : "SUNNYSIDE",
+		"State" : "UT",
+		"Latitude" : "+39.534651"
+	},
+	{
+		"Longitude" : "-109.615008",
+		"Zipcode" : "84540",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAND",
+		"City" : "THOMPSON",
+		"State" : "UT",
+		"Latitude" : "+38.999877"
+	},
+	{
+		"Longitude" : "-110.641314",
+		"Zipcode" : "84542",
+		"ZipClass" : "STANDARD",
+		"County" : "CARBON",
+		"City" : "WELLINGTON",
+		"State" : "UT",
+		"Latitude" : "+39.614663"
+	},
+	{
+		"Longitude" : "-111.695558",
+		"Zipcode" : "84601",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "PROVO",
+		"State" : "UT",
+		"Latitude" : "+40.235053"
+	},
+	{
+		"Longitude" : "-111.732476",
+		"Zipcode" : "84602",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "PROVO",
+		"State" : "UT",
+		"Latitude" : "+40.356343"
+	},
+	{
+		"Longitude" : "-111.626081",
+		"Zipcode" : "84603",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "PROVO",
+		"State" : "UT",
+		"Latitude" : "+40.203908"
+	},
+	{
+		"Longitude" : "-111.608241",
+		"Zipcode" : "84604",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "PROVO",
+		"State" : "UT",
+		"Latitude" : "+40.317059"
+	},
+	{
+		"Longitude" : "-111.536036",
+		"Zipcode" : "84605",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "PROVO",
+		"State" : "UT",
+		"Latitude" : "+40.176975"
+	},
+	{
+		"Longitude" : "-111.635353",
+		"Zipcode" : "84606",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "PROVO",
+		"State" : "UT",
+		"Latitude" : "+40.218905"
+	},
+	{
+		"Longitude" : "-111.904385",
+		"Zipcode" : "84620",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEVIER",
+		"City" : "AURORA",
+		"State" : "UT",
+		"Latitude" : "+38.959002"
+	},
+	{
+		"Longitude" : "-111.719605",
+		"Zipcode" : "84621",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "AXTELL",
+		"State" : "UT",
+		"Latitude" : "+39.192478"
+	},
+	{
+		"Longitude" : "-111.823067",
+		"Zipcode" : "84622",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "CENTERFIELD",
+		"State" : "UT",
+		"Latitude" : "+39.109892"
+	},
+	{
+		"Longitude" : "-111.493217",
+		"Zipcode" : "84623",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "CHESTER",
+		"State" : "UT",
+		"Latitude" : "+39.494319"
+	},
+	{
+		"Longitude" : "-112.526542",
+		"Zipcode" : "84624",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLARD",
+		"City" : "DELTA",
+		"State" : "UT",
+		"Latitude" : "+39.247056"
+	},
+	{
+		"Longitude" : "-111.536036",
+		"Zipcode" : "84626",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UTAH",
+		"City" : "ELBERTA",
+		"State" : "UT",
+		"Latitude" : "+40.176975"
+	},
+	{
+		"Longitude" : "-111.625230",
+		"Zipcode" : "84627",
+		"ZipClass" : "STANDARD",
+		"County" : "SANPETE",
+		"City" : "EPHRAIM",
+		"State" : "UT",
+		"Latitude" : "+39.373122"
+	},
+	{
+		"Longitude" : "-112.174424",
+		"Zipcode" : "84628",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JUAB",
+		"City" : "EUREKA",
+		"State" : "UT",
+		"Latitude" : "+39.941737"
+	},
+	{
+		"Longitude" : "-111.430513",
+		"Zipcode" : "84629",
+		"ZipClass" : "STANDARD",
+		"County" : "SANPETE",
+		"City" : "FAIRVIEW",
+		"State" : "UT",
+		"Latitude" : "+39.697844"
+	},
+	{
+		"Longitude" : "-111.879009",
+		"Zipcode" : "84630",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "FAYETTE",
+		"State" : "UT",
+		"Latitude" : "+39.215210"
+	},
+	{
+		"Longitude" : "-112.467412",
+		"Zipcode" : "84631",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLARD",
+		"City" : "FILLMORE",
+		"State" : "UT",
+		"Latitude" : "+39.055572"
+	},
+	{
+		"Longitude" : "-111.729316",
+		"Zipcode" : "84632",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "FOUNTAIN GREEN",
+		"State" : "UT",
+		"Latitude" : "+39.392622"
+	},
+	{
+		"Longitude" : "-111.764116",
+		"Zipcode" : "84633",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UTAH",
+		"City" : "GOSHEN",
+		"State" : "UT",
+		"Latitude" : "+40.029693"
+	},
+	{
+		"Longitude" : "-111.845821",
+		"Zipcode" : "84634",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "GUNNISON",
+		"State" : "UT",
+		"Latitude" : "+39.136318"
+	},
+	{
+		"Longitude" : "-113.130306",
+		"Zipcode" : "84635",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLARD",
+		"City" : "HINCKLEY",
+		"State" : "UT",
+		"Latitude" : "+39.114202"
+	},
+	{
+		"Longitude" : "-112.283443",
+		"Zipcode" : "84636",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MILLARD",
+		"City" : "HOLDEN",
+		"State" : "UT",
+		"Latitude" : "+39.096372"
+	},
+	{
+		"Longitude" : "-112.456072",
+		"Zipcode" : "84637",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MILLARD",
+		"City" : "KANOSH",
+		"State" : "UT",
+		"Latitude" : "+38.831824"
+	},
+	{
+		"Longitude" : "-112.295191",
+		"Zipcode" : "84638",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLARD",
+		"City" : "LEAMINGTON",
+		"State" : "UT",
+		"Latitude" : "+39.530246"
+	},
+	{
+		"Longitude" : "-111.943753",
+		"Zipcode" : "84639",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JUAB",
+		"City" : "LEVAN",
+		"State" : "UT",
+		"Latitude" : "+39.521515"
+	},
+	{
+		"Longitude" : "-112.397903",
+		"Zipcode" : "84640",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLARD",
+		"City" : "LYNNDYL",
+		"State" : "UT",
+		"Latitude" : "+39.494252"
+	},
+	{
+		"Longitude" : "-111.657690",
+		"Zipcode" : "84642",
+		"ZipClass" : "STANDARD",
+		"County" : "SANPETE",
+		"City" : "MANTI",
+		"State" : "UT",
+		"Latitude" : "+39.358358"
+	},
+	{
+		"Longitude" : "-111.690522",
+		"Zipcode" : "84643",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "MAYFIELD",
+		"State" : "UT",
+		"Latitude" : "+39.115440"
+	},
+	{
+		"Longitude" : "-113.032141",
+		"Zipcode" : "84644",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MILLARD",
+		"City" : "MEADOW",
+		"State" : "UT",
+		"Latitude" : "+39.064330"
+	},
+	{
+		"Longitude" : "-111.850284",
+		"Zipcode" : "84645",
+		"ZipClass" : "STANDARD",
+		"County" : "JUAB",
+		"City" : "MONA",
+		"State" : "UT",
+		"Latitude" : "+39.848111"
+	},
+	{
+		"Longitude" : "-111.560318",
+		"Zipcode" : "84646",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "MORONI",
+		"State" : "UT",
+		"Latitude" : "+39.510792"
+	},
+	{
+		"Longitude" : "-111.605642",
+		"Zipcode" : "84647",
+		"ZipClass" : "STANDARD",
+		"County" : "SANPETE",
+		"City" : "MOUNT PLEASANT",
+		"State" : "UT",
+		"Latitude" : "+39.348588"
+	},
+	{
+		"Longitude" : "-111.841787",
+		"Zipcode" : "84648",
+		"ZipClass" : "STANDARD",
+		"County" : "JUAB",
+		"City" : "NEPHI",
+		"State" : "UT",
+		"Latitude" : "+39.757861"
+	},
+	{
+		"Longitude" : "-112.328797",
+		"Zipcode" : "84649",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MILLARD",
+		"City" : "OAK CITY",
+		"State" : "UT",
+		"Latitude" : "+39.372902"
+	},
+	{
+		"Longitude" : "-112.628084",
+		"Zipcode" : "84650",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLARD",
+		"City" : "OASIS",
+		"State" : "UT",
+		"Latitude" : "+39.290220"
+	},
+	{
+		"Longitude" : "-111.723974",
+		"Zipcode" : "84651",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "PAYSON",
+		"State" : "UT",
+		"Latitude" : "+40.032911"
+	},
+	{
+		"Longitude" : "-111.975313",
+		"Zipcode" : "84652",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEVIER",
+		"City" : "REDMOND",
+		"State" : "UT",
+		"Latitude" : "+38.906498"
+	},
+	{
+		"Longitude" : "-111.599759",
+		"Zipcode" : "84653",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "SALEM",
+		"State" : "UT",
+		"Latitude" : "+40.011274"
+	},
+	{
+		"Longitude" : "-111.908156",
+		"Zipcode" : "84654",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "SALINA",
+		"State" : "UT",
+		"Latitude" : "+38.921403"
+	},
+	{
+		"Longitude" : "-111.812973",
+		"Zipcode" : "84655",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "SANTAQUIN",
+		"State" : "UT",
+		"Latitude" : "+40.003254"
+	},
+	{
+		"Longitude" : "-112.106366",
+		"Zipcode" : "84656",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLARD",
+		"City" : "SCIPIO",
+		"State" : "UT",
+		"Latitude" : "+39.249513"
+	},
+	{
+		"Longitude" : "-111.973737",
+		"Zipcode" : "84657",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "SIGURD",
+		"State" : "UT",
+		"Latitude" : "+38.848233"
+	},
+	{
+		"Longitude" : "-111.649086",
+		"Zipcode" : "84660",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "SPANISH FORK",
+		"State" : "UT",
+		"Latitude" : "+40.069946"
+	},
+	{
+		"Longitude" : "-111.466090",
+		"Zipcode" : "84662",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "SPRING CITY",
+		"State" : "UT",
+		"Latitude" : "+39.467083"
+	},
+	{
+		"Longitude" : "-111.562586",
+		"Zipcode" : "84663",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "SPRINGVILLE",
+		"State" : "UT",
+		"Latitude" : "+40.180718"
+	},
+	{
+		"Longitude" : "-111.580197",
+		"Zipcode" : "84664",
+		"ZipClass" : "STANDARD",
+		"County" : "UTAH",
+		"City" : "MAPLETON",
+		"State" : "UT",
+		"Latitude" : "+40.125168"
+	},
+	{
+		"Longitude" : "-111.740853",
+		"Zipcode" : "84665",
+		"ZipClass" : "STANDARD",
+		"County" : "SANPETE",
+		"City" : "STERLING",
+		"State" : "UT",
+		"Latitude" : "+39.133489"
+	},
+	{
+		"Longitude" : "-111.634051",
+		"Zipcode" : "84667",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SANPETE",
+		"City" : "WALES",
+		"State" : "UT",
+		"Latitude" : "+39.488381"
+	},
+	{
+		"Longitude" : "-112.074362",
+		"Zipcode" : "84701",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "RICHFIELD",
+		"State" : "UT",
+		"Latitude" : "+38.738771"
+	},
+	{
+		"Longitude" : "-112.482285",
+		"Zipcode" : "84710",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANE",
+		"City" : "ALTON",
+		"State" : "UT",
+		"Latitude" : "+37.438637"
+	},
+	{
+		"Longitude" : "-112.065687",
+		"Zipcode" : "84711",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEVIER",
+		"City" : "ANNABELLA",
+		"State" : "UT",
+		"Latitude" : "+38.716845"
+	},
+	{
+		"Longitude" : "-110.543374",
+		"Zipcode" : "84712",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "ANTIMONY",
+		"State" : "UT",
+		"Latitude" : "+37.729535"
+	},
+	{
+		"Longitude" : "-112.798228",
+		"Zipcode" : "84713",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "BEAVER",
+		"State" : "UT",
+		"Latitude" : "+38.315334"
+	},
+	{
+		"Longitude" : "-113.663891",
+		"Zipcode" : "84714",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "BERYL",
+		"State" : "UT",
+		"Latitude" : "+37.721369"
+	},
+	{
+		"Longitude" : "-111.526391",
+		"Zipcode" : "84715",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "BICKNELL",
+		"State" : "UT",
+		"Latitude" : "+38.327826"
+	},
+	{
+		"Longitude" : "-111.308206",
+		"Zipcode" : "84716",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARFIELD",
+		"City" : "BOULDER",
+		"State" : "UT",
+		"Latitude" : "+37.844777"
+	},
+	{
+		"Longitude" : "-111.308206",
+		"Zipcode" : "84717",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "BRYCE CANYON",
+		"State" : "UT",
+		"Latitude" : "+37.844777"
+	},
+	{
+		"Longitude" : "-111.308206",
+		"Zipcode" : "84718",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARFIELD",
+		"City" : "CANNONVILLE",
+		"State" : "UT",
+		"Latitude" : "+37.844777"
+	},
+	{
+		"Longitude" : "-112.839145",
+		"Zipcode" : "84719",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IRON",
+		"City" : "BRIAN HEAD",
+		"State" : "UT",
+		"Latitude" : "+37.735522"
+	},
+	{
+		"Longitude" : "-113.192619",
+		"Zipcode" : "84720",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "CEDAR CITY",
+		"State" : "UT",
+		"Latitude" : "+37.694059"
+	},
+	{
+		"Longitude" : "-113.369500",
+		"Zipcode" : "84721",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "CEDAR CITY",
+		"State" : "UT",
+		"Latitude" : "+37.656843"
+	},
+	{
+		"Longitude" : "-113.624783",
+		"Zipcode" : "84722",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CENTRAL",
+		"State" : "UT",
+		"Latitude" : "+37.466930"
+	},
+	{
+		"Longitude" : "-112.232857",
+		"Zipcode" : "84723",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIUTE",
+		"City" : "CIRCLEVILLE",
+		"State" : "UT",
+		"Latitude" : "+38.182708"
+	},
+	{
+		"Longitude" : "-112.108495",
+		"Zipcode" : "84724",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEVIER",
+		"City" : "ELSINORE",
+		"State" : "UT",
+		"Latitude" : "+38.686192"
+	},
+	{
+		"Longitude" : "-113.689359",
+		"Zipcode" : "84725",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "ENTERPRISE",
+		"State" : "UT",
+		"Latitude" : "+37.579739"
+	},
+	{
+		"Longitude" : "-111.595666",
+		"Zipcode" : "84726",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARFIELD",
+		"City" : "ESCALANTE",
+		"State" : "UT",
+		"Latitude" : "+37.767764"
+	},
+	{
+		"Longitude" : "-113.032141",
+		"Zipcode" : "84728",
+		"ZipClass" : "STANDARD",
+		"County" : "MILLARD",
+		"City" : "GARRISON",
+		"State" : "UT",
+		"Latitude" : "+39.064330"
+	},
+	{
+		"Longitude" : "-112.601749",
+		"Zipcode" : "84729",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANE",
+		"City" : "GLENDALE",
+		"State" : "UT",
+		"Latitude" : "+37.311416"
+	},
+	{
+		"Longitude" : "-111.962780",
+		"Zipcode" : "84730",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "GLENWOOD",
+		"State" : "UT",
+		"Latitude" : "+38.766687"
+	},
+	{
+		"Longitude" : "-112.783262",
+		"Zipcode" : "84731",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "GREENVILLE",
+		"State" : "UT",
+		"Latitude" : "+38.235645"
+	},
+	{
+		"Longitude" : "-112.142622",
+		"Zipcode" : "84732",
+		"ZipClass" : "STANDARD",
+		"County" : "PIUTE",
+		"City" : "GREENWICH",
+		"State" : "UT",
+		"Latitude" : "+38.328871"
+	},
+	{
+		"Longitude" : "-113.760596",
+		"Zipcode" : "84733",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "GUNLOCK",
+		"State" : "UT",
+		"Latitude" : "+37.287695"
+	},
+	{
+		"Longitude" : "-110.687960",
+		"Zipcode" : "84734",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "HANKSVILLE",
+		"State" : "UT",
+		"Latitude" : "+38.286909"
+	},
+	{
+		"Longitude" : "-112.477716",
+		"Zipcode" : "84735",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARFIELD",
+		"City" : "HATCH",
+		"State" : "UT",
+		"Latitude" : "+37.717477"
+	},
+	{
+		"Longitude" : "-111.308206",
+		"Zipcode" : "84736",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARFIELD",
+		"City" : "HENRIEVILLE",
+		"State" : "UT",
+		"Latitude" : "+37.844777"
+	},
+	{
+		"Longitude" : "-113.367458",
+		"Zipcode" : "84737",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HURRICANE",
+		"State" : "UT",
+		"Latitude" : "+37.145366"
+	},
+	{
+		"Longitude" : "-113.545812",
+		"Zipcode" : "84738",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "IVINS",
+		"State" : "UT",
+		"Latitude" : "+37.218261"
+	},
+	{
+		"Longitude" : "-112.115118",
+		"Zipcode" : "84739",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "JOSEPH",
+		"State" : "UT",
+		"Latitude" : "+38.683242"
+	},
+	{
+		"Longitude" : "-112.223742",
+		"Zipcode" : "84740",
+		"ZipClass" : "STANDARD",
+		"County" : "PIUTE",
+		"City" : "JUNCTION",
+		"State" : "UT",
+		"Latitude" : "+38.243856"
+	},
+	{
+		"Longitude" : "-111.687187",
+		"Zipcode" : "84741",
+		"ZipClass" : "STANDARD",
+		"County" : "KANE",
+		"City" : "KANAB",
+		"State" : "UT",
+		"Latitude" : "+37.265251"
+	},
+	{
+		"Longitude" : "-113.203633",
+		"Zipcode" : "84742",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "KANARRAVILLE",
+		"State" : "UT",
+		"Latitude" : "+37.522753"
+	},
+	{
+		"Longitude" : "-112.205360",
+		"Zipcode" : "84743",
+		"ZipClass" : "STANDARD",
+		"County" : "PIUTE",
+		"City" : "KINGSTON",
+		"State" : "UT",
+		"Latitude" : "+38.227829"
+	},
+	{
+		"Longitude" : "-111.871305",
+		"Zipcode" : "84744",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "KOOSHAREM",
+		"State" : "UT",
+		"Latitude" : "+38.722109"
+	},
+	{
+		"Longitude" : "-113.316429",
+		"Zipcode" : "84745",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LA VERKIN",
+		"State" : "UT",
+		"Latitude" : "+37.222917"
+	},
+	{
+		"Longitude" : "-113.335620",
+		"Zipcode" : "84746",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LEEDS",
+		"State" : "UT",
+		"Latitude" : "+37.237225"
+	},
+	{
+		"Longitude" : "-111.595751",
+		"Zipcode" : "84747",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "LOA",
+		"State" : "UT",
+		"Latitude" : "+38.441473"
+	},
+	{
+		"Longitude" : "-111.592048",
+		"Zipcode" : "84749",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "LYMAN",
+		"State" : "UT",
+		"Latitude" : "+38.398684"
+	},
+	{
+		"Longitude" : "-112.206757",
+		"Zipcode" : "84750",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIUTE",
+		"City" : "MARYSVALE",
+		"State" : "UT",
+		"Latitude" : "+38.434909"
+	},
+	{
+		"Longitude" : "-113.250981",
+		"Zipcode" : "84751",
+		"ZipClass" : "STANDARD",
+		"County" : "BEAVER",
+		"City" : "MILFORD",
+		"State" : "UT",
+		"Latitude" : "+38.305873"
+	},
+	{
+		"Longitude" : "-112.923106",
+		"Zipcode" : "84752",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BEAVER",
+		"City" : "MINERSVILLE",
+		"State" : "UT",
+		"Latitude" : "+38.214874"
+	},
+	{
+		"Longitude" : "-113.813634",
+		"Zipcode" : "84753",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "MODENA",
+		"State" : "UT",
+		"Latitude" : "+37.775781"
+	},
+	{
+		"Longitude" : "-112.126117",
+		"Zipcode" : "84754",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "MONROE",
+		"State" : "UT",
+		"Latitude" : "+38.657847"
+	},
+	{
+		"Longitude" : "-112.696938",
+		"Zipcode" : "84755",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANE",
+		"City" : "MOUNT CARMEL",
+		"State" : "UT",
+		"Latitude" : "+37.241269"
+	},
+	{
+		"Longitude" : "-113.627239",
+		"Zipcode" : "84756",
+		"ZipClass" : "STANDARD",
+		"County" : "IRON",
+		"City" : "NEWCASTLE",
+		"State" : "UT",
+		"Latitude" : "+37.692401"
+	},
+	{
+		"Longitude" : "-113.268012",
+		"Zipcode" : "84757",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "NEW HARMONY",
+		"State" : "UT",
+		"Latitude" : "+37.455047"
+	},
+	{
+		"Longitude" : "-112.716919",
+		"Zipcode" : "84758",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANE",
+		"City" : "ORDERVILLE",
+		"State" : "UT",
+		"Latitude" : "+37.272395"
+	},
+	{
+		"Longitude" : "-112.522595",
+		"Zipcode" : "84759",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "PANGUITCH",
+		"State" : "UT",
+		"Latitude" : "+37.827846"
+	},
+	{
+		"Longitude" : "-112.791568",
+		"Zipcode" : "84760",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IRON",
+		"City" : "PARAGONAH",
+		"State" : "UT",
+		"Latitude" : "+37.886012"
+	},
+	{
+		"Longitude" : "-112.849246",
+		"Zipcode" : "84761",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IRON",
+		"City" : "PAROWAN",
+		"State" : "UT",
+		"Latitude" : "+37.823412"
+	},
+	{
+		"Longitude" : "-112.663612",
+		"Zipcode" : "84762",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KANE",
+		"City" : "DUCK CREEK VILLAGE",
+		"State" : "UT",
+		"Latitude" : "+37.516889"
+	},
+	{
+		"Longitude" : "-113.042525",
+		"Zipcode" : "84763",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "ROCKVILLE",
+		"State" : "UT",
+		"Latitude" : "+37.160144"
+	},
+	{
+		"Longitude" : "-111.308206",
+		"Zipcode" : "84764",
+		"ZipClass" : "STANDARD",
+		"County" : "GARFIELD",
+		"City" : "BRYCE",
+		"State" : "UT",
+		"Latitude" : "+37.844777"
+	},
+	{
+		"Longitude" : "-113.676057",
+		"Zipcode" : "84765",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SANTA CLARA",
+		"State" : "UT",
+		"Latitude" : "+37.345219"
+	},
+	{
+		"Longitude" : "-112.310757",
+		"Zipcode" : "84766",
+		"ZipClass" : "STANDARD",
+		"County" : "SEVIER",
+		"City" : "SEVIER",
+		"State" : "UT",
+		"Latitude" : "+38.578516"
+	},
+	{
+		"Longitude" : "-113.013922",
+		"Zipcode" : "84767",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SPRINGDALE",
+		"State" : "UT",
+		"Latitude" : "+37.186249"
+	},
+	{
+		"Longitude" : "-113.355421",
+		"Zipcode" : "84770",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT GEORGE",
+		"State" : "UT",
+		"Latitude" : "+37.306845"
+	},
+	{
+		"Longitude" : "-113.476182",
+		"Zipcode" : "84771",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT GEORGE",
+		"State" : "UT",
+		"Latitude" : "+37.309231"
+	},
+	{
+		"Longitude" : "-112.900041",
+		"Zipcode" : "84772",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "IRON",
+		"City" : "SUMMIT",
+		"State" : "UT",
+		"Latitude" : "+37.815946"
+	},
+	{
+		"Longitude" : "-111.464123",
+		"Zipcode" : "84773",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "TEASDALE",
+		"State" : "UT",
+		"Latitude" : "+38.272761"
+	},
+	{
+		"Longitude" : "-113.332321",
+		"Zipcode" : "84774",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "TOQUERVILLE",
+		"State" : "UT",
+		"Latitude" : "+37.237701"
+	},
+	{
+		"Longitude" : "-111.413774",
+		"Zipcode" : "84775",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "TORREY",
+		"State" : "UT",
+		"Latitude" : "+38.296853"
+	},
+	{
+		"Longitude" : "-112.083565",
+		"Zipcode" : "84776",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GARFIELD",
+		"City" : "TROPIC",
+		"State" : "UT",
+		"Latitude" : "+37.626146"
+	},
+	{
+		"Longitude" : "-113.185422",
+		"Zipcode" : "84779",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "VIRGIN",
+		"State" : "UT",
+		"Latitude" : "+37.202201"
+	},
+	{
+		"Longitude" : "-113.583816",
+		"Zipcode" : "84780",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WASHINGTON",
+		"State" : "UT",
+		"Latitude" : "+37.322604"
+	},
+	{
+		"Longitude" : "-113.384806",
+		"Zipcode" : "84781",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PINE VALLEY",
+		"State" : "UT",
+		"Latitude" : "+37.371040"
+	},
+	{
+		"Longitude" : "-113.621344",
+		"Zipcode" : "84782",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "VEYO",
+		"State" : "UT",
+		"Latitude" : "+37.359958"
+	},
+	{
+		"Longitude" : "-113.665249",
+		"Zipcode" : "84783",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "DAMMERON VALLEY",
+		"State" : "UT",
+		"Latitude" : "+37.307734"
+	},
+	{
+		"Longitude" : "-112.978418",
+		"Zipcode" : "84784",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HILDALE",
+		"State" : "UT",
+		"Latitude" : "+37.004364"
+	},
+	{
+		"Longitude" : "-113.558068",
+		"Zipcode" : "84790",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT GEORGE",
+		"State" : "UT",
+		"Latitude" : "+37.083098"
+	},
+	{
+		"Longitude" : "-113.476182",
+		"Zipcode" : "84791",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SAINT GEORGE",
+		"State" : "UT",
+		"Latitude" : "+37.309231"
+	}
+]}

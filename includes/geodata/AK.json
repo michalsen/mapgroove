@@ -1,0 +1,2424 @@
+{
+	"result": [{
+			"Longitude": "-149.486981",
+			"Zipcode": "99501",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.287624"
+		},
+		{
+			"Longitude": "-149.960008",
+			"Zipcode": "99502",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.166069"
+		},
+		{
+			"Longitude": "-149.893867",
+			"Zipcode": "99503",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.188411"
+		},
+		{
+			"Longitude": "-149.771928",
+			"Zipcode": "99504",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.205284"
+		},
+		{
+			"Longitude": "-149.690318",
+			"Zipcode": "99505",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "FORT RICHARDSON",
+			"State": "AK",
+			"Latitude": "+61.259092"
+		},
+		{
+			"Longitude": "-149.804165",
+			"Zipcode": "99506",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ELMENDORF AFB",
+			"State": "AK",
+			"Latitude": "+61.257409"
+		},
+		{
+			"Longitude": "-149.776157",
+			"Zipcode": "99507",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.151903"
+		},
+		{
+			"Longitude": "-149.823203",
+			"Zipcode": "99508",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.205076"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99509",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-149.878418",
+			"Zipcode": "99510",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.144568"
+		},
+		{
+			"Longitude": "-149.800476",
+			"Zipcode": "99511",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.068324"
+		},
+		{
+			"Longitude": "-149.808426",
+			"Zipcode": "99512",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.203954"
+		},
+		{
+			"Longitude": "-149.886174",
+			"Zipcode": "99513",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.214877"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99514",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-149.912019",
+			"Zipcode": "99515",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.115754"
+		},
+		{
+			"Longitude": "-149.762371",
+			"Zipcode": "99516",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.091201"
+		},
+		{
+			"Longitude": "-149.938090",
+			"Zipcode": "99517",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.189494"
+		},
+		{
+			"Longitude": "-149.894338",
+			"Zipcode": "99518",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.157813"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99519",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99520",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99521",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99522",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99523",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99524",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99540",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "INDIAN",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-176.787412",
+			"Zipcode": "99546",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS WEST",
+			"City": "ADAK",
+			"State": "AK",
+			"Latitude": "+54.240180"
+		},
+		{
+			"Longitude": "-176.787412",
+			"Zipcode": "99547",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS WEST",
+			"City": "ATKA",
+			"State": "AK",
+			"Latitude": "+54.240180"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99548",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "CHIGNIK LAKE",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99549",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "PORT HEIDEN",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-153.505567",
+			"Zipcode": "99550",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KODIAK ISLAND",
+			"City": "PORT LIONS",
+			"State": "AK",
+			"Latitude": "+57.701171"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99551",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "AKIACHAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99552",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "AKIAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-162.558130",
+			"Zipcode": "99553",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS EAST",
+			"City": "AKUTAN",
+			"State": "AK",
+			"Latitude": "+55.430594"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99554",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "ALAKANUK",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99555",
+			"ZipClass": "PO BOX ONLY",
+			"County": "DILLINGHAM",
+			"City": "ALEKNAGIK",
+			"State": "AK",
+			"Latitude": "+58.962101"
+		},
+		{
+			"Longitude": "-151.707810",
+			"Zipcode": "99556",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "ANCHOR POINT",
+			"State": "AK",
+			"Latitude": "+59.837116"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99557",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "ANIAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99558",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "ANVIK",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-162.173906",
+			"Zipcode": "99559",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "BETHEL",
+			"State": "AK",
+			"Latitude": "+60.129979"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99561",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "CHEFORNAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99563",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "CHEVAK",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99564",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "CHIGNIK",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99565",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "CHIGNIK LAGOON",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-144.991027",
+			"Zipcode": "99566",
+			"ZipClass": "PO BOX ONLY",
+			"County": "VALDEZ CORDOVA",
+			"City": "CHITINA",
+			"State": "AK",
+			"Latitude": "+61.470966"
+		},
+		{
+			"Longitude": "-149.424631",
+			"Zipcode": "99567",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "CHUGIAK",
+			"State": "AK",
+			"Latitude": "+61.393834"
+		},
+		{
+			"Longitude": "-151.442983",
+			"Zipcode": "99568",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "CLAM GULCH",
+			"State": "AK",
+			"Latitude": "+60.187496"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99569",
+			"ZipClass": "PO BOX ONLY",
+			"County": "DILLINGHAM",
+			"City": "CLARKS POINT",
+			"State": "AK",
+			"Latitude": "+58.962101"
+		},
+		{
+			"Longitude": "-160.654522",
+			"Zipcode": "99571",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS EAST",
+			"City": "COLD BAY",
+			"State": "AK",
+			"Latitude": "+55.650875"
+		},
+		{
+			"Longitude": "-149.770159",
+			"Zipcode": "99572",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "COOPER LANDING",
+			"State": "AK",
+			"Latitude": "+60.491478"
+		},
+		{
+			"Longitude": "-144.991027",
+			"Zipcode": "99573",
+			"ZipClass": "STANDARD",
+			"County": "VALDEZ CORDOVA",
+			"City": "COPPER CENTER",
+			"State": "AK",
+			"Latitude": "+61.470966"
+		},
+		{
+			"Longitude": "-145.753350",
+			"Zipcode": "99574",
+			"ZipClass": "PO BOX ONLY",
+			"County": "VALDEZ CORDOVA",
+			"City": "CORDOVA",
+			"State": "AK",
+			"Latitude": "+60.536166"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99575",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "CROOKED CREEK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-158.523138",
+			"Zipcode": "99576",
+			"ZipClass": "PO BOX ONLY",
+			"County": "DILLINGHAM",
+			"City": "DILLINGHAM",
+			"State": "AK",
+			"Latitude": "+59.040181"
+		},
+		{
+			"Longitude": "-149.424518",
+			"Zipcode": "99577",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "EAGLE RIVER",
+			"State": "AK",
+			"Latitude": "+61.303131"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99578",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "EEK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99579",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "EGEGIK",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99580",
+			"ZipClass": "PO BOX ONLY",
+			"County": "DILLINGHAM",
+			"City": "EKWOK",
+			"State": "AK",
+			"Latitude": "+58.962101"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99581",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "EMMONAK",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-162.558130",
+			"Zipcode": "99583",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS EAST",
+			"City": "FALSE PASS",
+			"State": "AK",
+			"Latitude": "+55.430594"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99584",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "FLAT",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99585",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "MARSHALL",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-144.991027",
+			"Zipcode": "99586",
+			"ZipClass": "STANDARD",
+			"County": "VALDEZ CORDOVA",
+			"City": "GAKONA",
+			"State": "AK",
+			"Latitude": "+61.470966"
+		},
+		{
+			"Longitude": "-149.140623",
+			"Zipcode": "99587",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ANCHORAGE",
+			"City": "GIRDWOOD",
+			"State": "AK",
+			"Latitude": "+60.957674"
+		},
+		{
+			"Longitude": "-144.991027",
+			"Zipcode": "99588",
+			"ZipClass": "STANDARD",
+			"County": "VALDEZ CORDOVA",
+			"City": "GLENNALLEN",
+			"State": "AK",
+			"Latitude": "+61.470966"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99589",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "GOODNEWS BAY",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99590",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "GRAYLING",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-176.787412",
+			"Zipcode": "99591",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS WEST",
+			"City": "SAINT GEORGE ISLAND",
+			"State": "AK",
+			"Latitude": "+54.240180"
+		},
+		{
+			"Longitude": "-149.880393",
+			"Zipcode": "99599",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.187188"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99602",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "HOLY CROSS",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-151.362422",
+			"Zipcode": "99603",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "HOMER",
+			"State": "AK",
+			"Latitude": "+60.056453"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99604",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "HOOPER BAY",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-151.655567",
+			"Zipcode": "99605",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KENAI PENINSULA",
+			"City": "HOPE",
+			"State": "AK",
+			"Latitude": "+60.036583"
+		},
+		{
+			"Longitude": "-154.823629",
+			"Zipcode": "99606",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "ILIAMNA",
+			"State": "AK",
+			"Latitude": "+59.752463"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99607",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "KALSKAG",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-155.797078",
+			"Zipcode": "99608",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KODIAK ISLAND",
+			"City": "KARLUK",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99609",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "KASIGLUK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-151.116301",
+			"Zipcode": "99610",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "KASILOF",
+			"State": "AK",
+			"Latitude": "+60.352575"
+		},
+		{
+			"Longitude": "-150.407958",
+			"Zipcode": "99611",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "KENAI",
+			"State": "AK",
+			"Latitude": "+60.422041"
+		},
+		{
+			"Longitude": "-162.558130",
+			"Zipcode": "99612",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS EAST",
+			"City": "KING COVE",
+			"State": "AK",
+			"Latitude": "+55.430594"
+		},
+		{
+			"Longitude": "-157.159459",
+			"Zipcode": "99613",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "KING SALMON",
+			"State": "AK",
+			"Latitude": "+58.745599"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99614",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "KIPNUK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-152.472876",
+			"Zipcode": "99615",
+			"ZipClass": "STANDARD",
+			"County": "KODIAK ISLAND",
+			"City": "KODIAK",
+			"State": "AK",
+			"Latitude": "+57.762816"
+		},
+		{
+			"Longitude": "-155.797078",
+			"Zipcode": "99619",
+			"ZipClass": "STANDARD",
+			"County": "KODIAK ISLAND",
+			"City": "KODIAK",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99620",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "KOTLIK",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99621",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "KWETHLUK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99622",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "KWIGILLINGOK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-155.797078",
+			"Zipcode": "99624",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KODIAK ISLAND",
+			"City": "LARSEN BAY",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99625",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "LEVELOCK",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99626",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "LOWER KALSKAG",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-155.571200",
+			"Zipcode": "99627",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "MC GRATH",
+			"State": "AK",
+			"Latitude": "+62.945716"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99628",
+			"ZipClass": "PO BOX ONLY",
+			"County": "DILLINGHAM",
+			"City": "MANOKOTAK",
+			"State": "AK",
+			"Latitude": "+58.962101"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99630",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "MEKORYUK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-151.655567",
+			"Zipcode": "99631",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "MOOSE PASS",
+			"State": "AK",
+			"Latitude": "+60.036583"
+		},
+		{
+			"Longitude": "-164.287228",
+			"Zipcode": "99632",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "MOUNTAIN VILLAGE",
+			"State": "AK",
+			"Latitude": "+62.332461"
+		},
+		{
+			"Longitude": "-156.788199",
+			"Zipcode": "99633",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BRISTOL BAY",
+			"City": "NAKNEK",
+			"State": "AK",
+			"Latitude": "+58.655425"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99634",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "NAPAKIAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-151.276633",
+			"Zipcode": "99635",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "NIKISKI",
+			"State": "AK",
+			"Latitude": "+60.700696"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99636",
+			"ZipClass": "PO BOX ONLY",
+			"County": "DILLINGHAM",
+			"City": "NEW STUYAHOK",
+			"State": "AK",
+			"Latitude": "+58.962101"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99637",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "TOKSOOK BAY",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-176.787412",
+			"Zipcode": "99638",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS WEST",
+			"City": "NIKOLSKI",
+			"State": "AK",
+			"Latitude": "+54.240180"
+		},
+		{
+			"Longitude": "-151.517286",
+			"Zipcode": "99639",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "NINILCHIK",
+			"State": "AK",
+			"Latitude": "+60.049140"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99640",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "NONDALTON",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99641",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "NUNAPITCHUK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-155.797078",
+			"Zipcode": "99643",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KODIAK ISLAND",
+			"City": "OLD HARBOR",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-155.797078",
+			"Zipcode": "99644",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KODIAK ISLAND",
+			"City": "OUZINKIE",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-149.633916",
+			"Zipcode": "99645",
+			"ZipClass": "STANDARD",
+			"County": "MATANUSKA SUSITNA",
+			"City": "PALMER",
+			"State": "AK",
+			"Latitude": "+62.257284"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99647",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "PEDRO BAY",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99648",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "PERRYVILLE",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-157.485781",
+			"Zipcode": "99649",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "PILOT POINT",
+			"State": "AK",
+			"Latitude": "+57.528787"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99650",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "PILOT STATION",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99651",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "PLATINUM",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-149.728806",
+			"Zipcode": "99652",
+			"ZipClass": "STANDARD",
+			"County": "MATANUSKA SUSITNA",
+			"City": "BIG LAKE",
+			"State": "AK",
+			"Latitude": "+61.523043"
+		},
+		{
+			"Longitude": "-156.648418",
+			"Zipcode": "99653",
+			"ZipClass": "PO BOX ONLY",
+			"County": "LAKE AND PENINSULA",
+			"City": "PORT ALSWORTH",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-149.374335",
+			"Zipcode": "99654",
+			"ZipClass": "STANDARD",
+			"County": "MATANUSKA SUSITNA",
+			"City": "WASILLA",
+			"State": "AK",
+			"Latitude": "+61.581305"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99655",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "QUINHAGAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99656",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "RED DEVIL",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99657",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "RUSSIAN MISSION",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99658",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "SAINT MARYS",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99659",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "SAINT MICHAEL",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-176.787412",
+			"Zipcode": "99660",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS WEST",
+			"City": "SAINT PAUL ISLAND",
+			"State": "AK",
+			"Latitude": "+54.240180"
+		},
+		{
+			"Longitude": "-160.485506",
+			"Zipcode": "99661",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS EAST",
+			"City": "SAND POINT",
+			"State": "AK",
+			"Latitude": "+55.350356"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99662",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "SCAMMON BAY",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-151.700915",
+			"Zipcode": "99663",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KENAI PENINSULA",
+			"City": "SELDOVIA",
+			"State": "AK",
+			"Latitude": "+59.449486"
+		},
+		{
+			"Longitude": "-149.402123",
+			"Zipcode": "99664",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "SEWARD",
+			"State": "AK",
+			"Latitude": "+60.252810"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99665",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "SHAGELUK",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-163.237636",
+			"Zipcode": "99666",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WADE HAMPTON",
+			"City": "NUNAM IQUA",
+			"State": "AK",
+			"Latitude": "+62.117231"
+		},
+		{
+			"Longitude": "-149.715167",
+			"Zipcode": "99667",
+			"ZipClass": "PO BOX ONLY",
+			"County": "MATANUSKA SUSITNA",
+			"City": "SKWENTNA",
+			"State": "AK",
+			"Latitude": "+62.280436"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99668",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "SLEETMUTE",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-151.247935",
+			"Zipcode": "99669",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "SOLDOTNA",
+			"State": "AK",
+			"Latitude": "+60.110034"
+		},
+		{
+			"Longitude": "-157.159459",
+			"Zipcode": "99670",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BRISTOL BAY",
+			"City": "SOUTH NAKNEK",
+			"State": "AK",
+			"Latitude": "+58.745599"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99671",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "STEBBINS",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-150.853238",
+			"Zipcode": "99672",
+			"ZipClass": "STANDARD",
+			"County": "KENAI PENINSULA",
+			"City": "STERLING",
+			"State": "AK",
+			"Latitude": "+60.513614"
+		},
+		{
+			"Longitude": "-148.783687",
+			"Zipcode": "99674",
+			"ZipClass": "PO BOX ONLY",
+			"County": "MATANUSKA SUSITNA",
+			"City": "SUTTON",
+			"State": "AK",
+			"Latitude": "+61.732741"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99675",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "TAKOTNA",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-149.715167",
+			"Zipcode": "99676",
+			"ZipClass": "STANDARD",
+			"County": "MATANUSKA SUSITNA",
+			"City": "TALKEETNA",
+			"State": "AK",
+			"Latitude": "+62.280436"
+		},
+		{
+			"Longitude": "-144.991027",
+			"Zipcode": "99677",
+			"ZipClass": "PO BOX ONLY",
+			"County": "VALDEZ CORDOVA",
+			"City": "TATITLEK",
+			"State": "AK",
+			"Latitude": "+61.470966"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99678",
+			"ZipClass": "PO BOX ONLY",
+			"County": "DILLINGHAM",
+			"City": "TOGIAK",
+			"State": "AK",
+			"Latitude": "+58.962101"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99679",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "TULUKSAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99680",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "TUNTUTULIAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99681",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "TUNUNAK",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-151.655567",
+			"Zipcode": "99682",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KENAI PENINSULA",
+			"City": "TYONEK",
+			"State": "AK",
+			"Latitude": "+60.036583"
+		},
+		{
+			"Longitude": "-150.009239",
+			"Zipcode": "99683",
+			"ZipClass": "STANDARD",
+			"County": "MATANUSKA SUSITNA",
+			"City": "TRAPPER CREEK",
+			"State": "AK",
+			"Latitude": "+61.720499"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99684",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "UNALAKLEET",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-166.518069",
+			"Zipcode": "99685",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS WEST",
+			"City": "UNALASKA",
+			"State": "AK",
+			"Latitude": "+53.855130"
+		},
+		{
+			"Longitude": "-145.775152",
+			"Zipcode": "99686",
+			"ZipClass": "STANDARD",
+			"County": "VALDEZ CORDOVA",
+			"City": "VALDEZ",
+			"State": "AK",
+			"Latitude": "+61.685570"
+		},
+		{
+			"Longitude": "-149.478398",
+			"Zipcode": "99687",
+			"ZipClass": "STANDARD",
+			"County": "MATANUSKA SUSITNA",
+			"City": "WASILLA",
+			"State": "AK",
+			"Latitude": "+61.531298"
+		},
+		{
+			"Longitude": "-150.003758",
+			"Zipcode": "99688",
+			"ZipClass": "STANDARD",
+			"County": "MATANUSKA SUSITNA",
+			"City": "WILLOW",
+			"State": "AK",
+			"Latitude": "+61.896608"
+		},
+		{
+			"Longitude": "-135.181256",
+			"Zipcode": "99689",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YAKUTAT",
+			"City": "YAKUTAT",
+			"State": "AK",
+			"Latitude": "+58.331798"
+		},
+		{
+			"Longitude": "-163.118947",
+			"Zipcode": "99690",
+			"ZipClass": "PO BOX ONLY",
+			"County": "BETHEL",
+			"City": "NIGHTMUTE",
+			"State": "AK",
+			"Latitude": "+60.314735"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99691",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "NIKOLAI",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-166.525333",
+			"Zipcode": "99692",
+			"ZipClass": "PO BOX ONLY",
+			"County": "ALEUTIANS WEST",
+			"City": "DUTCH HARBOR",
+			"State": "AK",
+			"Latitude": "+53.865295"
+		},
+		{
+			"Longitude": "-144.991027",
+			"Zipcode": "99693",
+			"ZipClass": "PO BOX ONLY",
+			"County": "VALDEZ CORDOVA",
+			"City": "WHITTIER",
+			"State": "AK",
+			"Latitude": "+61.470966"
+		},
+		{
+			"Longitude": "-149.715167",
+			"Zipcode": "99694",
+			"ZipClass": "STANDARD",
+			"County": "MATANUSKA SUSITNA",
+			"City": "HOUSTON",
+			"State": "AK",
+			"Latitude": "+62.280436"
+		},
+		{
+			"Longitude": "-149.440311",
+			"Zipcode": "99695",
+			"ZipClass": "STANDARD",
+			"County": "ANCHORAGE",
+			"City": "ANCHORAGE",
+			"State": "AK",
+			"Latitude": "+61.108864"
+		},
+		{
+			"Longitude": "-155.797078",
+			"Zipcode": "99697",
+			"ZipClass": "STANDARD",
+			"County": "KODIAK ISLAND",
+			"City": "KODIAK",
+			"State": "AK",
+			"Latitude": "+58.268704"
+		},
+		{
+			"Longitude": "-147.522052",
+			"Zipcode": "99701",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.644047"
+		},
+		{
+			"Longitude": "-147.463336",
+			"Zipcode": "99702",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "EIELSON AFB",
+			"State": "AK",
+			"Latitude": "+64.790803"
+		},
+		{
+			"Longitude": "-147.644180",
+			"Zipcode": "99703",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FORT WAINWRIGHT",
+			"State": "AK",
+			"Latitude": "+64.832821"
+		},
+		{
+			"Longitude": "-149.986676",
+			"Zipcode": "99704",
+			"ZipClass": "STANDARD",
+			"County": "DENALI",
+			"City": "CLEAR",
+			"State": "AK",
+			"Latitude": "+63.543571"
+		},
+		{
+			"Longitude": "-147.207748",
+			"Zipcode": "99705",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "NORTH POLE",
+			"State": "AK",
+			"Latitude": "+64.780765"
+		},
+		{
+			"Longitude": "-147.937747",
+			"Zipcode": "99706",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.852055"
+		},
+		{
+			"Longitude": "-147.405134",
+			"Zipcode": "99707",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.699839"
+		},
+		{
+			"Longitude": "-147.856443",
+			"Zipcode": "99708",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.947462"
+		},
+		{
+			"Longitude": "-147.999791",
+			"Zipcode": "99709",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.860126"
+		},
+		{
+			"Longitude": "-147.535549",
+			"Zipcode": "99710",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.948648"
+		},
+		{
+			"Longitude": "-147.388840",
+			"Zipcode": "99711",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.826445"
+		},
+		{
+			"Longitude": "-147.156588",
+			"Zipcode": "99712",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+65.036453"
+		},
+		{
+			"Longitude": "-146.924788",
+			"Zipcode": "99714",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "SALCHA",
+			"State": "AK",
+			"Latitude": "+64.489102"
+		},
+		{
+			"Longitude": "-146.898195",
+			"Zipcode": "99716",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "TWO RIVERS",
+			"State": "AK",
+			"Latitude": "+64.874591"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99720",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "ALLAKAKET",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-153.993988",
+			"Zipcode": "99721",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "ANAKTUVUK PASS",
+			"State": "AK",
+			"Latitude": "+66.693255"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99722",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "ARCTIC VILLAGE",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-150.238942",
+			"Zipcode": "99723",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "BARROW",
+			"State": "AK",
+			"Latitude": "+70.220472"
+		},
+		{
+			"Longitude": "-149.193010",
+			"Zipcode": "99724",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "BEAVER",
+			"State": "AK",
+			"Latitude": "+66.929746"
+		},
+		{
+			"Longitude": "-148.094930",
+			"Zipcode": "99725",
+			"ZipClass": "PO BOX ONLY",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "ESTER",
+			"State": "AK",
+			"Latitude": "+64.870974"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99726",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "BETTLES FIELD",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99727",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "BUCKLAND",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-149.986676",
+			"Zipcode": "99729",
+			"ZipClass": "PO BOX ONLY",
+			"County": "DENALI",
+			"City": "CANTWELL",
+			"State": "AK",
+			"Latitude": "+63.543571"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99730",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "CENTRAL",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-144.002648",
+			"Zipcode": "99732",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SOUTHEAST FAIRBANKS",
+			"City": "CHICKEN",
+			"State": "AK",
+			"Latitude": "+63.870552"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99733",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "CIRCLE",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-153.993988",
+			"Zipcode": "99734",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "PRUDHOE BAY",
+			"State": "AK",
+			"Latitude": "+66.693255"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99736",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "DEERING",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-143.422478",
+			"Zipcode": "99737",
+			"ZipClass": "STANDARD",
+			"County": "SOUTHEAST FAIRBANKS",
+			"City": "DELTA JUNCTION",
+			"State": "AK",
+			"Latitude": "+63.107461"
+		},
+		{
+			"Longitude": "-144.002648",
+			"Zipcode": "99738",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SOUTHEAST FAIRBANKS",
+			"City": "EAGLE",
+			"State": "AK",
+			"Latitude": "+63.870552"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99739",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "ELIM",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99740",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "FORT YUKON",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99741",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "GALENA",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99742",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "GAMBELL",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-149.986676",
+			"Zipcode": "99743",
+			"ZipClass": "STANDARD",
+			"County": "DENALI",
+			"City": "HEALY",
+			"State": "AK",
+			"Latitude": "+63.543571"
+		},
+		{
+			"Longitude": "-149.986676",
+			"Zipcode": "99744",
+			"ZipClass": "STANDARD",
+			"County": "DENALI",
+			"City": "ANDERSON",
+			"State": "AK",
+			"Latitude": "+63.543571"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99745",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "HUGHES",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99746",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "HUSLIA",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-153.993988",
+			"Zipcode": "99747",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "KAKTOVIK",
+			"State": "AK",
+			"Latitude": "+66.693255"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99748",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "KALTAG",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99749",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "KIANA",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99750",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "KIVALINA",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99751",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "KOBUK",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-161.780844",
+			"Zipcode": "99752",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "KOTZEBUE",
+			"State": "AK",
+			"Latitude": "+66.865256"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99753",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "KOYUK",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99754",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "KOYUKUK",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-149.986676",
+			"Zipcode": "99755",
+			"ZipClass": "STANDARD",
+			"County": "DENALI",
+			"City": "DENALI NATIONAL PARK",
+			"State": "AK",
+			"Latitude": "+63.543571"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99756",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "MANLEY HOT SPRINGS",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99757",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "LAKE MINCHUMINA",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99758",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "MINTO",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-164.249713",
+			"Zipcode": "99759",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "POINT LAY",
+			"State": "AK",
+			"Latitude": "+68.887048"
+		},
+		{
+			"Longitude": "-153.451125",
+			"Zipcode": "99760",
+			"ZipClass": "STANDARD",
+			"County": "YUKON KOYUKUK",
+			"City": "NENANA",
+			"State": "AK",
+			"Latitude": "+64.117464"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99761",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "NOATAK",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-163.800760",
+			"Zipcode": "99762",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "NOME",
+			"State": "AK",
+			"Latitude": "+63.888671"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99763",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "NOORVIK",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-144.002648",
+			"Zipcode": "99764",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SOUTHEAST FAIRBANKS",
+			"City": "NORTHWAY",
+			"State": "AK",
+			"Latitude": "+63.870552"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99765",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "NULATO",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-153.993988",
+			"Zipcode": "99766",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "POINT HOPE",
+			"State": "AK",
+			"Latitude": "+66.693255"
+		},
+		{
+			"Longitude": "-150.161868",
+			"Zipcode": "99767",
+			"ZipClass": "STANDARD",
+			"County": "YUKON KOYUKUK",
+			"City": "RAMPART",
+			"State": "AK",
+			"Latitude": "+65.509038"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99768",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "RUBY",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99769",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "SAVOONGA",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99770",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "SELAWIK",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99771",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "SHAKTOOLIK",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99772",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "SHISHMAREF",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99773",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "SHUNGNAK",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99774",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "STEVENS VILLAGE",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-147.826709",
+			"Zipcode": "99775",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.859078"
+		},
+		{
+			"Longitude": "-144.002648",
+			"Zipcode": "99776",
+			"ZipClass": "STANDARD",
+			"County": "SOUTHEAST FAIRBANKS",
+			"City": "TANACROSS",
+			"State": "AK",
+			"Latitude": "+63.870552"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99777",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "TANANA",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99778",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "TELLER",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-144.002648",
+			"Zipcode": "99779",
+			"ZipClass": "STANDARD",
+			"County": "SOUTHEAST FAIRBANKS",
+			"City": "TETLIN",
+			"State": "AK",
+			"Latitude": "+63.870552"
+		},
+		{
+			"Longitude": "-144.002648",
+			"Zipcode": "99780",
+			"ZipClass": "STANDARD",
+			"County": "SOUTHEAST FAIRBANKS",
+			"City": "TOK",
+			"State": "AK",
+			"Latitude": "+63.870552"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99781",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "VENETIE",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-153.993988",
+			"Zipcode": "99782",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "WAINWRIGHT",
+			"State": "AK",
+			"Latitude": "+66.693255"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99783",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "WALES",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99784",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "WHITE MOUNTAIN",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-165.672344",
+			"Zipcode": "99785",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NOME",
+			"City": "BREVIG MISSION",
+			"State": "AK",
+			"Latitude": "+64.755604"
+		},
+		{
+			"Longitude": "-159.843924",
+			"Zipcode": "99786",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTHWEST ARCTIC",
+			"City": "AMBLER",
+			"State": "AK",
+			"Latitude": "+66.868442"
+		},
+		{
+			"Longitude": "-151.025085",
+			"Zipcode": "99788",
+			"ZipClass": "PO BOX ONLY",
+			"County": "YUKON KOYUKUK",
+			"City": "CHALKYITSIK",
+			"State": "AK",
+			"Latitude": "+65.226375"
+		},
+		{
+			"Longitude": "-153.993988",
+			"Zipcode": "99789",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "NUIQSUT",
+			"State": "AK",
+			"Latitude": "+66.693255"
+		},
+		{
+			"Longitude": "-146.275980",
+			"Zipcode": "99790",
+			"ZipClass": "STANDARD",
+			"County": "FAIRBANKS NORTH STAR",
+			"City": "FAIRBANKS",
+			"State": "AK",
+			"Latitude": "+64.856055"
+		},
+		{
+			"Longitude": "-157.441073",
+			"Zipcode": "99791",
+			"ZipClass": "PO BOX ONLY",
+			"County": "NORTH SLOPE",
+			"City": "ATQASUK",
+			"State": "AK",
+			"Latitude": "+70.494693"
+		},
+		{
+			"Longitude": "-134.523946",
+			"Zipcode": "99801",
+			"ZipClass": "STANDARD",
+			"County": "JUNEAU",
+			"City": "JUNEAU",
+			"State": "AK",
+			"Latitude": "+58.373561"
+		},
+		{
+			"Longitude": "-134.589690",
+			"Zipcode": "99802",
+			"ZipClass": "STANDARD",
+			"County": "JUNEAU",
+			"City": "JUNEAU",
+			"State": "AK",
+			"Latitude": "+58.405657"
+		},
+		{
+			"Longitude": "-134.617383",
+			"Zipcode": "99803",
+			"ZipClass": "STANDARD",
+			"County": "JUNEAU",
+			"City": "JUNEAU",
+			"State": "AK",
+			"Latitude": "+58.377074"
+		},
+		{
+			"Longitude": "-134.197786",
+			"Zipcode": "99811",
+			"ZipClass": "STANDARD",
+			"County": "JUNEAU",
+			"City": "JUNEAU",
+			"State": "AK",
+			"Latitude": "+58.383480"
+		},
+		{
+			"Longitude": "-134.585954",
+			"Zipcode": "99820",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SKAGWAY HOONAH ANGOON",
+			"City": "ANGOON",
+			"State": "AK",
+			"Latitude": "+57.500525"
+		},
+		{
+			"Longitude": "-134.700348",
+			"Zipcode": "99821",
+			"ZipClass": "STANDARD",
+			"County": "JUNEAU",
+			"City": "AUKE BAY",
+			"State": "AK",
+			"Latitude": "+58.449413"
+		},
+		{
+			"Longitude": "-134.397642",
+			"Zipcode": "99824",
+			"ZipClass": "STANDARD",
+			"County": "JUNEAU",
+			"City": "DOUGLAS",
+			"State": "AK",
+			"Latitude": "+58.276308"
+		},
+		{
+			"Longitude": "-135.181256",
+			"Zipcode": "99825",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SKAGWAY HOONAH ANGOON",
+			"City": "ELFIN COVE",
+			"State": "AK",
+			"Latitude": "+58.331798"
+		},
+		{
+			"Longitude": "-135.181256",
+			"Zipcode": "99826",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SKAGWAY HOONAH ANGOON",
+			"City": "GUSTAVUS",
+			"State": "AK",
+			"Latitude": "+58.331798"
+		},
+		{
+			"Longitude": "-135.681153",
+			"Zipcode": "99827",
+			"ZipClass": "STANDARD",
+			"County": "HAINES",
+			"City": "HAINES",
+			"State": "AK",
+			"Latitude": "+59.312688"
+		},
+		{
+			"Longitude": "-135.431561",
+			"Zipcode": "99829",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SKAGWAY HOONAH ANGOON",
+			"City": "HOONAH",
+			"State": "AK",
+			"Latitude": "+58.097655"
+		},
+		{
+			"Longitude": "-133.935996",
+			"Zipcode": "99830",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WRANGELL PETERSBURG",
+			"City": "KAKE",
+			"State": "AK",
+			"Latitude": "+56.973554"
+		},
+		{
+			"Longitude": "-135.181256",
+			"Zipcode": "99832",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SKAGWAY HOONAH ANGOON",
+			"City": "PELICAN",
+			"State": "AK",
+			"Latitude": "+58.331798"
+		},
+		{
+			"Longitude": "-132.931950",
+			"Zipcode": "99833",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WRANGELL PETERSBURG",
+			"City": "PETERSBURG",
+			"State": "AK",
+			"Latitude": "+56.767056"
+		},
+		{
+			"Longitude": "-135.318348",
+			"Zipcode": "99835",
+			"ZipClass": "STANDARD",
+			"County": "SITKA",
+			"City": "SITKA",
+			"State": "AK",
+			"Latitude": "+57.080818"
+		},
+		{
+			"Longitude": "-132.827948",
+			"Zipcode": "99836",
+			"ZipClass": "STANDARD",
+			"County": "WRANGELL PETERSBURG",
+			"City": "PORT ALEXANDER",
+			"State": "AK",
+			"Latitude": "+56.535950"
+		},
+		{
+			"Longitude": "-135.314852",
+			"Zipcode": "99840",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SKAGWAY HOONAH ANGOON",
+			"City": "SKAGWAY",
+			"State": "AK",
+			"Latitude": "+59.456753"
+		},
+		{
+			"Longitude": "-135.285061",
+			"Zipcode": "99841",
+			"ZipClass": "PO BOX ONLY",
+			"County": "SKAGWAY HOONAH ANGOON",
+			"City": "TENAKEE SPRINGS",
+			"State": "AK",
+			"Latitude": "+57.798249"
+		},
+		{
+			"Longitude": "-134.197786",
+			"Zipcode": "99850",
+			"ZipClass": "STANDARD",
+			"County": "JUNEAU",
+			"City": "JUNEAU",
+			"State": "AK",
+			"Latitude": "+58.383480"
+		},
+		{
+			"Longitude": "-131.674090",
+			"Zipcode": "99901",
+			"ZipClass": "STANDARD",
+			"County": "KETCHIKAN GATEWAY",
+			"City": "KETCHIKAN",
+			"State": "AK",
+			"Latitude": "+55.400674"
+		},
+		{
+			"Longitude": "-132.003244",
+			"Zipcode": "99903",
+			"ZipClass": "STANDARD",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "MEYERS CHUCK",
+			"State": "AK",
+			"Latitude": "+55.517921"
+		},
+		{
+			"Longitude": "-132.003244",
+			"Zipcode": "99918",
+			"ZipClass": "STANDARD",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "COFFMAN COVE",
+			"State": "AK",
+			"Latitude": "+55.517921"
+		},
+		{
+			"Longitude": "-131.580407",
+			"Zipcode": "99919",
+			"ZipClass": "STANDARD",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "THORNE BAY",
+			"State": "AK",
+			"Latitude": "+55.126774"
+		},
+		{
+			"Longitude": "-133.117022",
+			"Zipcode": "99921",
+			"ZipClass": "PO BOX ONLY",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "CRAIG",
+			"State": "AK",
+			"Latitude": "+55.513301"
+		},
+		{
+			"Longitude": "-132.825903",
+			"Zipcode": "99922",
+			"ZipClass": "PO BOX ONLY",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "HYDABURG",
+			"State": "AK",
+			"Latitude": "+55.208706"
+		},
+		{
+			"Longitude": "-132.003244",
+			"Zipcode": "99923",
+			"ZipClass": "PO BOX ONLY",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "HYDER",
+			"State": "AK",
+			"Latitude": "+55.517921"
+		},
+		{
+			"Longitude": "-133.090680",
+			"Zipcode": "99925",
+			"ZipClass": "PO BOX ONLY",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "KLAWOCK",
+			"State": "AK",
+			"Latitude": "+55.554393"
+		},
+		{
+			"Longitude": "-131.566827",
+			"Zipcode": "99926",
+			"ZipClass": "PO BOX ONLY",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "METLAKATLA",
+			"State": "AK",
+			"Latitude": "+55.094325"
+		},
+		{
+			"Longitude": "-132.003244",
+			"Zipcode": "99927",
+			"ZipClass": "PO BOX ONLY",
+			"County": "PRINCE WALES KETCHIKAN",
+			"City": "POINT BAKER",
+			"State": "AK",
+			"Latitude": "+55.517921"
+		},
+		{
+			"Longitude": "-131.675370",
+			"Zipcode": "99928",
+			"ZipClass": "PO BOX ONLY",
+			"County": "KETCHIKAN GATEWAY",
+			"City": "WARD COVE",
+			"State": "AK",
+			"Latitude": "+55.395359"
+		},
+		{
+			"Longitude": "-132.364407",
+			"Zipcode": "99929",
+			"ZipClass": "PO BOX ONLY",
+			"County": "WRANGELL PETERSBURG",
+			"City": "WRANGELL",
+			"State": "AK",
+			"Latitude": "+56.449893"
+		},
+		{
+			"Longitude": "-131.432682",
+			"Zipcode": "99950",
+			"ZipClass": "STANDARD",
+			"County": "KETCHIKAN GATEWAY",
+			"City": "KETCHIKAN",
+			"State": "AK",
+			"Latitude": "+55.542007"
+		}
+	]
+}

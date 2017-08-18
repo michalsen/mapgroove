@@ -1,0 +1,4846 @@
+({
+	"result":[
+	{
+		"Longitude" : "-089.447507",
+		"Zipcode" : "38601",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "ABBEVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.471941"
+	},
+	{
+		"Longitude" : "-090.106756",
+		"Zipcode" : "38602",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TATE",
+		"City" : "ARKABUTLA",
+		"State" : "MS",
+		"Latitude" : "+34.686272"
+	},
+	{
+		"Longitude" : "-089.163282",
+		"Zipcode" : "38603",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "ASHLAND",
+		"State" : "MS",
+		"Latitude" : "+34.741457"
+	},
+	{
+		"Longitude" : "-089.956497",
+		"Zipcode" : "38606",
+		"ZipClass" : "STANDARD",
+		"County" : "PANOLA",
+		"City" : "BATESVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.343102"
+	},
+	{
+		"Longitude" : "-090.292720",
+		"Zipcode" : "38609",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "QUITMAN",
+		"City" : "BELEN",
+		"State" : "MS",
+		"Latitude" : "+34.235111"
+	},
+	{
+		"Longitude" : "-088.998770",
+		"Zipcode" : "38610",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPAH",
+		"City" : "BLUE MOUNTAIN",
+		"State" : "MS",
+		"Latitude" : "+34.667999"
+	},
+	{
+		"Longitude" : "-089.617691",
+		"Zipcode" : "38611",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BYHALIA",
+		"State" : "MS",
+		"Latitude" : "+34.848108"
+	},
+	{
+		"Longitude" : "-090.634809",
+		"Zipcode" : "38614",
+		"ZipClass" : "STANDARD",
+		"County" : "COAHOMA",
+		"City" : "CLARKSDALE",
+		"State" : "MS",
+		"Latitude" : "+34.256003"
+	},
+	{
+		"Longitude" : "-090.519949",
+		"Zipcode" : "38617",
+		"ZipClass" : "STANDARD",
+		"County" : "COAHOMA",
+		"City" : "COAHOMA",
+		"State" : "MS",
+		"Latitude" : "+34.308025"
+	},
+	{
+		"Longitude" : "-089.962513",
+		"Zipcode" : "38618",
+		"ZipClass" : "STANDARD",
+		"County" : "TATE",
+		"City" : "COLDWATER",
+		"State" : "MS",
+		"Latitude" : "+34.690180"
+	},
+	{
+		"Longitude" : "-089.954427",
+		"Zipcode" : "38619",
+		"ZipClass" : "STANDARD",
+		"County" : "PANOLA",
+		"City" : "COMO",
+		"State" : "MS",
+		"Latitude" : "+34.474028"
+	},
+	{
+		"Longitude" : "-089.962994",
+		"Zipcode" : "38620",
+		"ZipClass" : "STANDARD",
+		"County" : "PANOLA",
+		"City" : "COURTLAND",
+		"State" : "MS",
+		"Latitude" : "+34.250820"
+	},
+	{
+		"Longitude" : "-090.101204",
+		"Zipcode" : "38621",
+		"ZipClass" : "STANDARD",
+		"County" : "PANOLA",
+		"City" : "CRENSHAW",
+		"State" : "MS",
+		"Latitude" : "+34.447051"
+	},
+	{
+		"Longitude" : "-090.136429",
+		"Zipcode" : "38622",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "QUITMAN",
+		"City" : "CROWDER",
+		"State" : "MS",
+		"Latitude" : "+34.173057"
+	},
+	{
+		"Longitude" : "-090.292717",
+		"Zipcode" : "38623",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "QUITMAN",
+		"City" : "DARLING",
+		"State" : "MS",
+		"Latitude" : "+34.291611"
+	},
+	{
+		"Longitude" : "-088.827123",
+		"Zipcode" : "38625",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPAH",
+		"City" : "DUMAS",
+		"State" : "MS",
+		"Latitude" : "+34.641739"
+	},
+	{
+		"Longitude" : "-090.369304",
+		"Zipcode" : "38626",
+		"ZipClass" : "STANDARD",
+		"County" : "TUNICA",
+		"City" : "DUNDEE",
+		"State" : "MS",
+		"Latitude" : "+34.535704"
+	},
+	{
+		"Longitude" : "-089.057270",
+		"Zipcode" : "38627",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ETTA",
+		"State" : "MS",
+		"Latitude" : "+34.432943"
+	},
+	{
+		"Longitude" : "-090.292717",
+		"Zipcode" : "38628",
+		"ZipClass" : "STANDARD",
+		"County" : "QUITMAN",
+		"City" : "FALCON",
+		"State" : "MS",
+		"Latitude" : "+34.291611"
+	},
+	{
+		"Longitude" : "-088.933747",
+		"Zipcode" : "38629",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPAH",
+		"City" : "FALKNER",
+		"State" : "MS",
+		"Latitude" : "+34.850879"
+	},
+	{
+		"Longitude" : "-090.648864",
+		"Zipcode" : "38630",
+		"ZipClass" : "STANDARD",
+		"County" : "COAHOMA",
+		"City" : "FARRELL",
+		"State" : "MS",
+		"Latitude" : "+34.242356"
+	},
+	{
+		"Longitude" : "-090.606054",
+		"Zipcode" : "38631",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COAHOMA",
+		"City" : "FRIARS POINT",
+		"State" : "MS",
+		"Latitude" : "+34.374060"
+	},
+	{
+		"Longitude" : "-089.994591",
+		"Zipcode" : "38632",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "HERNANDO",
+		"State" : "MS",
+		"Latitude" : "+34.806840"
+	},
+	{
+		"Longitude" : "-089.180301",
+		"Zipcode" : "38633",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "HICKORY FLAT",
+		"State" : "MS",
+		"Latitude" : "+34.623448"
+	},
+	{
+		"Longitude" : "-089.484963",
+		"Zipcode" : "38634",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "HOLLY SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+34.745040"
+	},
+	{
+		"Longitude" : "-089.513878",
+		"Zipcode" : "38635",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "HOLLY SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+34.774733"
+	},
+	{
+		"Longitude" : "-090.033550",
+		"Zipcode" : "38637",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "HORN LAKE",
+		"State" : "MS",
+		"Latitude" : "+34.950609"
+	},
+	{
+		"Longitude" : "-089.828798",
+		"Zipcode" : "38638",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TATE",
+		"City" : "INDEPENDENCE",
+		"State" : "MS",
+		"Latitude" : "+34.695853"
+	},
+	{
+		"Longitude" : "-090.429351",
+		"Zipcode" : "38639",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COAHOMA",
+		"City" : "JONESTOWN",
+		"State" : "MS",
+		"Latitude" : "+34.303730"
+	},
+	{
+		"Longitude" : "-090.146030",
+		"Zipcode" : "38641",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "LAKE CORMORANT",
+		"State" : "MS",
+		"Latitude" : "+34.911835"
+	},
+	{
+		"Longitude" : "-089.399923",
+		"Zipcode" : "38642",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "LAMAR",
+		"State" : "MS",
+		"Latitude" : "+34.930329"
+	},
+	{
+		"Longitude" : "-090.215916",
+		"Zipcode" : "38643",
+		"ZipClass" : "STANDARD",
+		"County" : "QUITMAN",
+		"City" : "LAMBERT",
+		"State" : "MS",
+		"Latitude" : "+34.189235"
+	},
+	{
+		"Longitude" : "-090.498088",
+		"Zipcode" : "38644",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COAHOMA",
+		"City" : "LULA",
+		"State" : "MS",
+		"Latitude" : "+34.461795"
+	},
+	{
+		"Longitude" : "-090.479410",
+		"Zipcode" : "38645",
+		"ZipClass" : "STANDARD",
+		"County" : "COAHOMA",
+		"City" : "LYON",
+		"State" : "MS",
+		"Latitude" : "+34.236389"
+	},
+	{
+		"Longitude" : "-090.214465",
+		"Zipcode" : "38646",
+		"ZipClass" : "STANDARD",
+		"County" : "QUITMAN",
+		"City" : "MARKS",
+		"State" : "MS",
+		"Latitude" : "+34.314968"
+	},
+	{
+		"Longitude" : "-089.185048",
+		"Zipcode" : "38647",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "MICHIGAN CITY",
+		"State" : "MS",
+		"Latitude" : "+34.788948"
+	},
+	{
+		"Longitude" : "-089.523027",
+		"Zipcode" : "38649",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "MOUNT PLEASANT",
+		"State" : "MS",
+		"Latitude" : "+34.953584"
+	},
+	{
+		"Longitude" : "-089.133523",
+		"Zipcode" : "38650",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "MYRTLE",
+		"State" : "MS",
+		"Latitude" : "+34.512992"
+	},
+	{
+		"Longitude" : "-089.985853",
+		"Zipcode" : "38651",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "NESBIT",
+		"State" : "MS",
+		"Latitude" : "+34.875133"
+	},
+	{
+		"Longitude" : "-088.963649",
+		"Zipcode" : "38652",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "NEW ALBANY",
+		"State" : "MS",
+		"Latitude" : "+34.488692"
+	},
+	{
+		"Longitude" : "-089.869062",
+		"Zipcode" : "38654",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "OLIVE BRANCH",
+		"State" : "MS",
+		"Latitude" : "+34.921172"
+	},
+	{
+		"Longitude" : "-089.483519",
+		"Zipcode" : "38655",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "OXFORD",
+		"State" : "MS",
+		"Latitude" : "+34.330814"
+	},
+	{
+		"Longitude" : "-089.888559",
+		"Zipcode" : "38658",
+		"ZipClass" : "STANDARD",
+		"County" : "PANOLA",
+		"City" : "POPE",
+		"State" : "MS",
+		"Latitude" : "+34.196241"
+	},
+	{
+		"Longitude" : "-089.366355",
+		"Zipcode" : "38659",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "POTTS CAMP",
+		"State" : "MS",
+		"Latitude" : "+34.629210"
+	},
+	{
+		"Longitude" : "-089.564928",
+		"Zipcode" : "38661",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "RED BANKS",
+		"State" : "MS",
+		"Latitude" : "+34.893744"
+	},
+	{
+		"Longitude" : "-088.903624",
+		"Zipcode" : "38663",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPAH",
+		"City" : "RIPLEY",
+		"State" : "MS",
+		"Latitude" : "+34.722961"
+	},
+	{
+		"Longitude" : "-090.332582",
+		"Zipcode" : "38664",
+		"ZipClass" : "STANDARD",
+		"County" : "TUNICA",
+		"City" : "ROBINSONVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.780008"
+	},
+	{
+		"Longitude" : "-090.039377",
+		"Zipcode" : "38665",
+		"ZipClass" : "STANDARD",
+		"County" : "PANOLA",
+		"City" : "SARAH",
+		"State" : "MS",
+		"Latitude" : "+34.414146"
+	},
+	{
+		"Longitude" : "-089.930441",
+		"Zipcode" : "38666",
+		"ZipClass" : "STANDARD",
+		"County" : "PANOLA",
+		"City" : "SARDIS",
+		"State" : "MS",
+		"Latitude" : "+34.358883"
+	},
+	{
+		"Longitude" : "-089.930083",
+		"Zipcode" : "38668",
+		"ZipClass" : "STANDARD",
+		"County" : "TATE",
+		"City" : "SENATOBIA",
+		"State" : "MS",
+		"Latitude" : "+34.621336"
+	},
+	{
+		"Longitude" : "-090.733538",
+		"Zipcode" : "38669",
+		"ZipClass" : "STANDARD",
+		"County" : "COAHOMA",
+		"City" : "SHERARD",
+		"State" : "MS",
+		"Latitude" : "+34.195345"
+	},
+	{
+		"Longitude" : "-090.330278",
+		"Zipcode" : "38670",
+		"ZipClass" : "STANDARD",
+		"County" : "TUNICA",
+		"City" : "SLEDGE",
+		"State" : "MS",
+		"Latitude" : "+34.561069"
+	},
+	{
+		"Longitude" : "-089.996240",
+		"Zipcode" : "38671",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "SOUTHAVEN",
+		"State" : "MS",
+		"Latitude" : "+34.956633"
+	},
+	{
+		"Longitude" : "-089.925792",
+		"Zipcode" : "38672",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "SOUTHAVEN",
+		"State" : "MS",
+		"Latitude" : "+34.947407"
+	},
+	{
+		"Longitude" : "-089.611016",
+		"Zipcode" : "38673",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "TAYLOR",
+		"State" : "MS",
+		"Latitude" : "+34.291869"
+	},
+	{
+		"Longitude" : "-088.900175",
+		"Zipcode" : "38674",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPAH",
+		"City" : "TIPLERSVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.877104"
+	},
+	{
+		"Longitude" : "-089.483865",
+		"Zipcode" : "38675",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "TULA",
+		"State" : "MS",
+		"Latitude" : "+34.358201"
+	},
+	{
+		"Longitude" : "-090.338981",
+		"Zipcode" : "38676",
+		"ZipClass" : "STANDARD",
+		"County" : "TUNICA",
+		"City" : "TUNICA",
+		"State" : "MS",
+		"Latitude" : "+34.692892"
+	},
+	{
+		"Longitude" : "-089.573605",
+		"Zipcode" : "38677",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAFAYETTE",
+		"City" : "UNIVERSITY",
+		"State" : "MS",
+		"Latitude" : "+34.339620"
+	},
+	{
+		"Longitude" : "-089.640820",
+		"Zipcode" : "38679",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARSHALL",
+		"City" : "VICTORIA",
+		"State" : "MS",
+		"Latitude" : "+34.870804"
+	},
+	{
+		"Longitude" : "-090.113913",
+		"Zipcode" : "38680",
+		"ZipClass" : "STANDARD",
+		"County" : "DE SOTO",
+		"City" : "WALLS",
+		"State" : "MS",
+		"Latitude" : "+34.960712"
+	},
+	{
+		"Longitude" : "-088.885227",
+		"Zipcode" : "38683",
+		"ZipClass" : "STANDARD",
+		"County" : "TIPPAH",
+		"City" : "WALNUT",
+		"State" : "MS",
+		"Latitude" : "+34.894620"
+	},
+	{
+		"Longitude" : "-089.612918",
+		"Zipcode" : "38685",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "WATERFORD",
+		"State" : "MS",
+		"Latitude" : "+34.547621"
+	},
+	{
+		"Longitude" : "-089.991991",
+		"Zipcode" : "38686",
+		"ZipClass" : "UNIQUE",
+		"County" : "DE SOTO",
+		"City" : "WALLS",
+		"State" : "MS",
+		"Latitude" : "+34.875277"
+	},
+	{
+		"Longitude" : "-091.022970",
+		"Zipcode" : "38701",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GREENVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.314539"
+	},
+	{
+		"Longitude" : "-090.994597",
+		"Zipcode" : "38702",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GREENVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.425792"
+	},
+	{
+		"Longitude" : "-091.009518",
+		"Zipcode" : "38703",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GREENVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.414186"
+	},
+	{
+		"Longitude" : "-090.918503",
+		"Zipcode" : "38704",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GREENVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.253401"
+	},
+	{
+		"Longitude" : "-090.759740",
+		"Zipcode" : "38720",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "ALLIGATOR",
+		"State" : "MS",
+		"Latitude" : "+34.074216"
+	},
+	{
+		"Longitude" : "-090.831601",
+		"Zipcode" : "38721",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARKEY",
+		"City" : "ANGUILLA",
+		"State" : "MS",
+		"Latitude" : "+32.973917"
+	},
+	{
+		"Longitude" : "-090.844813",
+		"Zipcode" : "38722",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "ARCOLA",
+		"State" : "MS",
+		"Latitude" : "+33.265970"
+	},
+	{
+		"Longitude" : "-091.047905",
+		"Zipcode" : "38723",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "AVON",
+		"State" : "MS",
+		"Latitude" : "+33.218997"
+	},
+	{
+		"Longitude" : "-090.994878",
+		"Zipcode" : "38725",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "BENOIT",
+		"State" : "MS",
+		"Latitude" : "+33.627816"
+	},
+	{
+		"Longitude" : "-090.958277",
+		"Zipcode" : "38726",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "BEULAH",
+		"State" : "MS",
+		"Latitude" : "+33.752910"
+	},
+	{
+		"Longitude" : "-090.773978",
+		"Zipcode" : "38730",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "BOYLE",
+		"State" : "MS",
+		"Latitude" : "+33.741709"
+	},
+	{
+		"Longitude" : "-091.088255",
+		"Zipcode" : "38731",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CHATHAM",
+		"State" : "MS",
+		"Latitude" : "+33.085379"
+	},
+	{
+		"Longitude" : "-090.843130",
+		"Zipcode" : "38732",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "CLEVELAND",
+		"State" : "MS",
+		"Latitude" : "+33.847591"
+	},
+	{
+		"Longitude" : "-090.819547",
+		"Zipcode" : "38733",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "CLEVELAND",
+		"State" : "MS",
+		"Latitude" : "+33.624024"
+	},
+	{
+		"Longitude" : "-090.549626",
+		"Zipcode" : "38736",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "DODDSVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.690173"
+	},
+	{
+		"Longitude" : "-090.607299",
+		"Zipcode" : "38737",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "DREW",
+		"State" : "MS",
+		"Latitude" : "+33.685766"
+	},
+	{
+		"Longitude" : "-090.607457",
+		"Zipcode" : "38738",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "PARCHMAN",
+		"State" : "MS",
+		"Latitude" : "+33.628715"
+	},
+	{
+		"Longitude" : "-090.501063",
+		"Zipcode" : "38739",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COAHOMA",
+		"City" : "DUBLIN",
+		"State" : "MS",
+		"Latitude" : "+34.060359"
+	},
+	{
+		"Longitude" : "-090.770386",
+		"Zipcode" : "38740",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "DUNCAN",
+		"State" : "MS",
+		"Latitude" : "+33.948090"
+	},
+	{
+		"Longitude" : "-091.019421",
+		"Zipcode" : "38744",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GLEN ALLAN",
+		"State" : "MS",
+		"Latitude" : "+33.045837"
+	},
+	{
+		"Longitude" : "-090.952716",
+		"Zipcode" : "38745",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ISSAQUENA",
+		"City" : "GRACE",
+		"State" : "MS",
+		"Latitude" : "+32.711257"
+	},
+	{
+		"Longitude" : "-090.919616",
+		"Zipcode" : "38746",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "GUNNISON",
+		"State" : "MS",
+		"Latitude" : "+34.000588"
+	},
+	{
+		"Longitude" : "-090.910451",
+		"Zipcode" : "38748",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HOLLANDALE",
+		"State" : "MS",
+		"Latitude" : "+33.230409"
+	},
+	{
+		"Longitude" : "-090.607457",
+		"Zipcode" : "38749",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "HOLLY RIDGE",
+		"State" : "MS",
+		"Latitude" : "+33.628715"
+	},
+	{
+		"Longitude" : "-090.608662",
+		"Zipcode" : "38751",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "INDIANOLA",
+		"State" : "MS",
+		"Latitude" : "+33.443446"
+	},
+	{
+		"Longitude" : "-090.583441",
+		"Zipcode" : "38753",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "INVERNESS",
+		"State" : "MS",
+		"Latitude" : "+33.350655"
+	},
+	{
+		"Longitude" : "-090.596770",
+		"Zipcode" : "38754",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMPHREYS",
+		"City" : "ISOLA",
+		"State" : "MS",
+		"Latitude" : "+33.263048"
+	},
+	{
+		"Longitude" : "-090.883870",
+		"Zipcode" : "38756",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LELAND",
+		"State" : "MS",
+		"Latitude" : "+33.398505"
+	},
+	{
+		"Longitude" : "-090.507012",
+		"Zipcode" : "38758",
+		"ZipClass" : "STANDARD",
+		"County" : "COAHOMA",
+		"City" : "MATTSON",
+		"State" : "MS",
+		"Latitude" : "+34.076795"
+	},
+	{
+		"Longitude" : "-090.840631",
+		"Zipcode" : "38759",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "MERIGOLD",
+		"State" : "MS",
+		"Latitude" : "+33.818742"
+	},
+	{
+		"Longitude" : "-090.994264",
+		"Zipcode" : "38760",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "METCALFE",
+		"State" : "MS",
+		"Latitude" : "+33.454614"
+	},
+	{
+		"Longitude" : "-090.506817",
+		"Zipcode" : "38761",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "MOORHEAD",
+		"State" : "MS",
+		"Latitude" : "+33.443386"
+	},
+	{
+		"Longitude" : "-090.846978",
+		"Zipcode" : "38762",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "MOUND BAYOU",
+		"State" : "MS",
+		"Latitude" : "+33.767126"
+	},
+	{
+		"Longitude" : "-090.810960",
+		"Zipcode" : "38763",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARKEY",
+		"City" : "NITTA YUMA",
+		"State" : "MS",
+		"Latitude" : "+32.879795"
+	},
+	{
+		"Longitude" : "-090.927280",
+		"Zipcode" : "38764",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOLIVAR",
+		"City" : "PACE",
+		"State" : "MS",
+		"Latitude" : "+33.725717"
+	},
+	{
+		"Longitude" : "-090.810960",
+		"Zipcode" : "38765",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHARKEY",
+		"City" : "PANTHER BURN",
+		"State" : "MS",
+		"Latitude" : "+32.879795"
+	},
+	{
+		"Longitude" : "-090.786500",
+		"Zipcode" : "38767",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COAHOMA",
+		"City" : "RENA LARA",
+		"State" : "MS",
+		"Latitude" : "+34.141200"
+	},
+	{
+		"Longitude" : "-090.477605",
+		"Zipcode" : "38768",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SUNFLOWER",
+		"City" : "ROME",
+		"State" : "MS",
+		"Latitude" : "+33.958959"
+	},
+	{
+		"Longitude" : "-090.882598",
+		"Zipcode" : "38769",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "ROSEDALE",
+		"State" : "MS",
+		"Latitude" : "+33.841892"
+	},
+	{
+		"Longitude" : "-090.555537",
+		"Zipcode" : "38771",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "RULEVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.664790"
+	},
+	{
+		"Longitude" : "-091.039093",
+		"Zipcode" : "38772",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOLIVAR",
+		"City" : "SCOTT",
+		"State" : "MS",
+		"Latitude" : "+33.562871"
+	},
+	{
+		"Longitude" : "-090.794341",
+		"Zipcode" : "38773",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "SHAW",
+		"State" : "MS",
+		"Latitude" : "+33.608538"
+	},
+	{
+		"Longitude" : "-090.745040",
+		"Zipcode" : "38774",
+		"ZipClass" : "STANDARD",
+		"County" : "BOLIVAR",
+		"City" : "SHELBY",
+		"State" : "MS",
+		"Latitude" : "+33.957757"
+	},
+	{
+		"Longitude" : "-090.910404",
+		"Zipcode" : "38776",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "STONEVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.409614"
+	},
+	{
+		"Longitude" : "-090.545111",
+		"Zipcode" : "38778",
+		"ZipClass" : "STANDARD",
+		"County" : "SUNFLOWER",
+		"City" : "SUNFLOWER",
+		"State" : "MS",
+		"Latitude" : "+33.556746"
+	},
+	{
+		"Longitude" : "-090.995399",
+		"Zipcode" : "38780",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASHINGTON",
+		"City" : "WAYSIDE",
+		"State" : "MS",
+		"Latitude" : "+33.272695"
+	},
+	{
+		"Longitude" : "-090.737149",
+		"Zipcode" : "38781",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BOLIVAR",
+		"City" : "WINSTONVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.887774"
+	},
+	{
+		"Longitude" : "-090.957291",
+		"Zipcode" : "38782",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WINTERVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.269118"
+	},
+	{
+		"Longitude" : "-088.683828",
+		"Zipcode" : "38801",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "TUPELO",
+		"State" : "MS",
+		"Latitude" : "+34.291889"
+	},
+	{
+		"Longitude" : "-088.767127",
+		"Zipcode" : "38802",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "TUPELO",
+		"State" : "MS",
+		"Latitude" : "+34.234527"
+	},
+	{
+		"Longitude" : "-088.778520",
+		"Zipcode" : "38803",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "TUPELO",
+		"State" : "MS",
+		"Latitude" : "+34.187638"
+	},
+	{
+		"Longitude" : "-088.684672",
+		"Zipcode" : "38804",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "TUPELO",
+		"State" : "MS",
+		"Latitude" : "+34.337100"
+	},
+	{
+		"Longitude" : "-089.032791",
+		"Zipcode" : "38820",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PONTOTOC",
+		"City" : "ALGOMA",
+		"State" : "MS",
+		"Latitude" : "+34.171543"
+	},
+	{
+		"Longitude" : "-088.411284",
+		"Zipcode" : "38821",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "AMORY",
+		"State" : "MS",
+		"Latitude" : "+33.942639"
+	},
+	{
+		"Longitude" : "-088.639220",
+		"Zipcode" : "38824",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "BALDWYN",
+		"State" : "MS",
+		"Latitude" : "+34.314813"
+	},
+	{
+		"Longitude" : "-088.462173",
+		"Zipcode" : "38825",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONROE",
+		"City" : "BECKER",
+		"State" : "MS",
+		"Latitude" : "+33.869763"
+	},
+	{
+		"Longitude" : "-088.745933",
+		"Zipcode" : "38826",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "BELDEN",
+		"State" : "MS",
+		"Latitude" : "+34.269844"
+	},
+	{
+		"Longitude" : "-088.226740",
+		"Zipcode" : "38827",
+		"ZipClass" : "STANDARD",
+		"County" : "TISHOMINGO",
+		"City" : "BELMONT",
+		"State" : "MS",
+		"Latitude" : "+34.550663"
+	},
+	{
+		"Longitude" : "-088.958608",
+		"Zipcode" : "38828",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "BLUE SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+34.464253"
+	},
+	{
+		"Longitude" : "-088.533107",
+		"Zipcode" : "38829",
+		"ZipClass" : "STANDARD",
+		"County" : "PRENTISS",
+		"City" : "BOONEVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.632922"
+	},
+	{
+		"Longitude" : "-088.286923",
+		"Zipcode" : "38833",
+		"ZipClass" : "STANDARD",
+		"County" : "TISHOMINGO",
+		"City" : "BURNSVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.855985"
+	},
+	{
+		"Longitude" : "-088.591575",
+		"Zipcode" : "38834",
+		"ZipClass" : "STANDARD",
+		"County" : "ALCORN",
+		"City" : "CORINTH",
+		"State" : "MS",
+		"Latitude" : "+34.875890"
+	},
+	{
+		"Longitude" : "-088.521772",
+		"Zipcode" : "38835",
+		"ZipClass" : "STANDARD",
+		"County" : "ALCORN",
+		"City" : "CORINTH",
+		"State" : "MS",
+		"Latitude" : "+34.920451"
+	},
+	{
+		"Longitude" : "-088.248391",
+		"Zipcode" : "38838",
+		"ZipClass" : "STANDARD",
+		"County" : "TISHOMINGO",
+		"City" : "DENNIS",
+		"State" : "MS",
+		"Latitude" : "+34.584628"
+	},
+	{
+		"Longitude" : "-089.303214",
+		"Zipcode" : "38839",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CALHOUN",
+		"City" : "DERMA",
+		"State" : "MS",
+		"Latitude" : "+33.856165"
+	},
+	{
+		"Longitude" : "-089.010873",
+		"Zipcode" : "38841",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "ECRU",
+		"State" : "MS",
+		"Latitude" : "+34.336606"
+	},
+	{
+		"Longitude" : "-088.355013",
+		"Zipcode" : "38843",
+		"ZipClass" : "STANDARD",
+		"County" : "ITAWAMBA",
+		"City" : "FULTON",
+		"State" : "MS",
+		"Latitude" : "+34.276489"
+	},
+	{
+		"Longitude" : "-088.263500",
+		"Zipcode" : "38844",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "GATTMAN",
+		"State" : "MS",
+		"Latitude" : "+33.840260"
+	},
+	{
+		"Longitude" : "-088.419820",
+		"Zipcode" : "38846",
+		"ZipClass" : "STANDARD",
+		"County" : "ALCORN",
+		"City" : "GLEN",
+		"State" : "MS",
+		"Latitude" : "+34.868523"
+	},
+	{
+		"Longitude" : "-088.246027",
+		"Zipcode" : "38847",
+		"ZipClass" : "STANDARD",
+		"County" : "ITAWAMBA",
+		"City" : "GOLDEN",
+		"State" : "MS",
+		"Latitude" : "+34.346321"
+	},
+	{
+		"Longitude" : "-088.320711",
+		"Zipcode" : "38848",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "GREENWOOD SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+33.940078"
+	},
+	{
+		"Longitude" : "-088.665975",
+		"Zipcode" : "38849",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "GUNTOWN",
+		"State" : "MS",
+		"Latitude" : "+34.421084"
+	},
+	{
+		"Longitude" : "-088.996107",
+		"Zipcode" : "38850",
+		"ZipClass" : "STANDARD",
+		"County" : "CHICKASAW",
+		"City" : "HOULKA",
+		"State" : "MS",
+		"Latitude" : "+34.013571"
+	},
+	{
+		"Longitude" : "-088.931148",
+		"Zipcode" : "38851",
+		"ZipClass" : "STANDARD",
+		"County" : "CHICKASAW",
+		"City" : "HOUSTON",
+		"State" : "MS",
+		"Latitude" : "+33.911901"
+	},
+	{
+		"Longitude" : "-088.231800",
+		"Zipcode" : "38852",
+		"ZipClass" : "STANDARD",
+		"County" : "TISHOMINGO",
+		"City" : "IUKA",
+		"State" : "MS",
+		"Latitude" : "+34.815830"
+	},
+	{
+		"Longitude" : "-088.955351",
+		"Zipcode" : "38854",
+		"ZipClass" : "STANDARD",
+		"County" : "CHICKASAW",
+		"City" : "MC CONDY",
+		"State" : "MS",
+		"Latitude" : "+33.906827"
+	},
+	{
+		"Longitude" : "-088.393184",
+		"Zipcode" : "38855",
+		"ZipClass" : "STANDARD",
+		"County" : "ITAWAMBA",
+		"City" : "MANTACHIE",
+		"State" : "MS",
+		"Latitude" : "+34.324376"
+	},
+	{
+		"Longitude" : "-088.510356",
+		"Zipcode" : "38856",
+		"ZipClass" : "STANDARD",
+		"County" : "PRENTISS",
+		"City" : "MARIETTA",
+		"State" : "MS",
+		"Latitude" : "+34.592786"
+	},
+	{
+		"Longitude" : "-088.592851",
+		"Zipcode" : "38857",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "MOOREVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.275006"
+	},
+	{
+		"Longitude" : "-088.472146",
+		"Zipcode" : "38858",
+		"ZipClass" : "STANDARD",
+		"County" : "ITAWAMBA",
+		"City" : "NETTLETON",
+		"State" : "MS",
+		"Latitude" : "+34.161842"
+	},
+	{
+		"Longitude" : "-088.387511",
+		"Zipcode" : "38859",
+		"ZipClass" : "STANDARD",
+		"County" : "PRENTISS",
+		"City" : "NEW SITE",
+		"State" : "MS",
+		"Latitude" : "+34.531462"
+	},
+	{
+		"Longitude" : "-088.868022",
+		"Zipcode" : "38860",
+		"ZipClass" : "STANDARD",
+		"County" : "CHICKASAW",
+		"City" : "OKOLONA",
+		"State" : "MS",
+		"Latitude" : "+33.942950"
+	},
+	{
+		"Longitude" : "-088.617454",
+		"Zipcode" : "38862",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "PLANTERSVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.239541"
+	},
+	{
+		"Longitude" : "-089.040537",
+		"Zipcode" : "38863",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "PONTOTOC",
+		"State" : "MS",
+		"Latitude" : "+34.227246"
+	},
+	{
+		"Longitude" : "-089.179467",
+		"Zipcode" : "38864",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "RANDOLPH",
+		"State" : "MS",
+		"Latitude" : "+34.161748"
+	},
+	{
+		"Longitude" : "-088.563250",
+		"Zipcode" : "38865",
+		"ZipClass" : "STANDARD",
+		"County" : "ALCORN",
+		"City" : "RIENZI",
+		"State" : "MS",
+		"Latitude" : "+34.818882"
+	},
+	{
+		"Longitude" : "-088.667209",
+		"Zipcode" : "38866",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "SALTILLO",
+		"State" : "MS",
+		"Latitude" : "+34.304376"
+	},
+	{
+		"Longitude" : "-088.683960",
+		"Zipcode" : "38868",
+		"ZipClass" : "STANDARD",
+		"County" : "LEE",
+		"City" : "SHANNON",
+		"State" : "MS",
+		"Latitude" : "+34.144146"
+	},
+	{
+		"Longitude" : "-088.836268",
+		"Zipcode" : "38869",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PONTOTOC",
+		"City" : "SHERMAN",
+		"State" : "MS",
+		"Latitude" : "+34.349542"
+	},
+	{
+		"Longitude" : "-088.365609",
+		"Zipcode" : "38870",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "SMITHVILLE",
+		"State" : "MS",
+		"Latitude" : "+34.045269"
+	},
+	{
+		"Longitude" : "-089.159059",
+		"Zipcode" : "38871",
+		"ZipClass" : "STANDARD",
+		"County" : "PONTOTOC",
+		"City" : "THAXTON",
+		"State" : "MS",
+		"Latitude" : "+34.317365"
+	},
+	{
+		"Longitude" : "-088.238068",
+		"Zipcode" : "38873",
+		"ZipClass" : "STANDARD",
+		"County" : "TISHOMINGO",
+		"City" : "TISHOMINGO",
+		"State" : "MS",
+		"Latitude" : "+34.671205"
+	},
+	{
+		"Longitude" : "-089.251922",
+		"Zipcode" : "38874",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAFAYETTE",
+		"City" : "TOCCOPOLA",
+		"State" : "MS",
+		"Latitude" : "+34.226527"
+	},
+	{
+		"Longitude" : "-088.955351",
+		"Zipcode" : "38875",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHICKASAW",
+		"City" : "TREBLOC",
+		"State" : "MS",
+		"Latitude" : "+33.906827"
+	},
+	{
+		"Longitude" : "-088.333454",
+		"Zipcode" : "38876",
+		"ZipClass" : "STANDARD",
+		"County" : "ITAWAMBA",
+		"City" : "TREMONT",
+		"State" : "MS",
+		"Latitude" : "+34.235149"
+	},
+	{
+		"Longitude" : "-088.898807",
+		"Zipcode" : "38877",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHICKASAW",
+		"City" : "VAN VLEET",
+		"State" : "MS",
+		"Latitude" : "+33.987089"
+	},
+	{
+		"Longitude" : "-089.221899",
+		"Zipcode" : "38878",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "VARDAMAN",
+		"State" : "MS",
+		"Latitude" : "+33.896961"
+	},
+	{
+		"Longitude" : "-088.759077",
+		"Zipcode" : "38879",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEE",
+		"City" : "VERONA",
+		"State" : "MS",
+		"Latitude" : "+34.170691"
+	},
+	{
+		"Longitude" : "-088.582231",
+		"Zipcode" : "38880",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PRENTISS",
+		"City" : "WHEELER",
+		"State" : "MS",
+		"Latitude" : "+34.612636"
+	},
+	{
+		"Longitude" : "-089.845462",
+		"Zipcode" : "38901",
+		"ZipClass" : "STANDARD",
+		"County" : "GRENADA",
+		"City" : "GRENADA",
+		"State" : "MS",
+		"Latitude" : "+33.786016"
+	},
+	{
+		"Longitude" : "-089.794687",
+		"Zipcode" : "38902",
+		"ZipClass" : "STANDARD",
+		"County" : "GRENADA",
+		"City" : "GRENADA",
+		"State" : "MS",
+		"Latitude" : "+33.824113"
+	},
+	{
+		"Longitude" : "-090.053958",
+		"Zipcode" : "38912",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "AVALON",
+		"State" : "MS",
+		"Latitude" : "+33.654970"
+	},
+	{
+		"Longitude" : "-089.395779",
+		"Zipcode" : "38913",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "BANNER",
+		"State" : "MS",
+		"Latitude" : "+34.122660"
+	},
+	{
+		"Longitude" : "-089.431864",
+		"Zipcode" : "38914",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "BIG CREEK",
+		"State" : "MS",
+		"Latitude" : "+33.898213"
+	},
+	{
+		"Longitude" : "-089.342661",
+		"Zipcode" : "38915",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "BRUCE",
+		"State" : "MS",
+		"Latitude" : "+34.034636"
+	},
+	{
+		"Longitude" : "-089.352482",
+		"Zipcode" : "38916",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "CALHOUN CITY",
+		"State" : "MS",
+		"Latitude" : "+33.857172"
+	},
+	{
+		"Longitude" : "-089.995978",
+		"Zipcode" : "38917",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CARROLLTON",
+		"State" : "MS",
+		"Latitude" : "+33.518425"
+	},
+	{
+		"Longitude" : "-090.188462",
+		"Zipcode" : "38920",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAHATCHIE",
+		"City" : "CASCILLA",
+		"State" : "MS",
+		"Latitude" : "+33.929206"
+	},
+	{
+		"Longitude" : "-090.115364",
+		"Zipcode" : "38921",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAHATCHIE",
+		"City" : "CHARLESTON",
+		"State" : "MS",
+		"Latitude" : "+34.007428"
+	},
+	{
+		"Longitude" : "-089.648240",
+		"Zipcode" : "38922",
+		"ZipClass" : "STANDARD",
+		"County" : "YALOBUSHA",
+		"City" : "COFFEEVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.961287"
+	},
+	{
+		"Longitude" : "-089.910076",
+		"Zipcode" : "38923",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "COILA",
+		"State" : "MS",
+		"Latitude" : "+33.445684"
+	},
+	{
+		"Longitude" : "-090.183344",
+		"Zipcode" : "38924",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLMES",
+		"City" : "CRUGER",
+		"State" : "MS",
+		"Latitude" : "+33.255582"
+	},
+	{
+		"Longitude" : "-089.641871",
+		"Zipcode" : "38925",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "DUCK HILL",
+		"State" : "MS",
+		"Latitude" : "+33.563223"
+	},
+	{
+		"Longitude" : "-089.758302",
+		"Zipcode" : "38926",
+		"ZipClass" : "STANDARD",
+		"County" : "GRENADA",
+		"City" : "ELLIOTT",
+		"State" : "MS",
+		"Latitude" : "+33.689476"
+	},
+	{
+		"Longitude" : "-090.013183",
+		"Zipcode" : "38927",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAHATCHIE",
+		"City" : "ENID",
+		"State" : "MS",
+		"Latitude" : "+34.125054"
+	},
+	{
+		"Longitude" : "-090.188462",
+		"Zipcode" : "38928",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAHATCHIE",
+		"City" : "GLENDORA",
+		"State" : "MS",
+		"Latitude" : "+33.929206"
+	},
+	{
+		"Longitude" : "-089.647197",
+		"Zipcode" : "38929",
+		"ZipClass" : "STANDARD",
+		"County" : "GRENADA",
+		"City" : "GORE SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+33.787640"
+	},
+	{
+		"Longitude" : "-090.224856",
+		"Zipcode" : "38930",
+		"ZipClass" : "STANDARD",
+		"County" : "LEFLORE",
+		"City" : "GREENWOOD",
+		"State" : "MS",
+		"Latitude" : "+33.550408"
+	},
+	{
+		"Longitude" : "-090.277570",
+		"Zipcode" : "38935",
+		"ZipClass" : "STANDARD",
+		"County" : "LEFLORE",
+		"City" : "GREENWOOD",
+		"State" : "MS",
+		"Latitude" : "+33.523355"
+	},
+	{
+		"Longitude" : "-090.000461",
+		"Zipcode" : "38940",
+		"ZipClass" : "STANDARD",
+		"County" : "GRENADA",
+		"City" : "HOLCOMB",
+		"State" : "MS",
+		"Latitude" : "+33.742966"
+	},
+	{
+		"Longitude" : "-090.294639",
+		"Zipcode" : "38941",
+		"ZipClass" : "STANDARD",
+		"County" : "LEFLORE",
+		"City" : "ITTA BENA",
+		"State" : "MS",
+		"Latitude" : "+33.467852"
+	},
+	{
+		"Longitude" : "-089.834467",
+		"Zipcode" : "38943",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "MC CARLEY",
+		"State" : "MS",
+		"Latitude" : "+33.489564"
+	},
+	{
+		"Longitude" : "-090.374127",
+		"Zipcode" : "38944",
+		"ZipClass" : "STANDARD",
+		"County" : "LEFLORE",
+		"City" : "MINTER CITY",
+		"State" : "MS",
+		"Latitude" : "+33.752133"
+	},
+	{
+		"Longitude" : "-090.196909",
+		"Zipcode" : "38945",
+		"ZipClass" : "STANDARD",
+		"County" : "LEFLORE",
+		"City" : "MONEY",
+		"State" : "MS",
+		"Latitude" : "+33.650681"
+	},
+	{
+		"Longitude" : "-090.371993",
+		"Zipcode" : "38946",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEFLORE",
+		"City" : "MORGAN CITY",
+		"State" : "MS",
+		"Latitude" : "+33.404573"
+	},
+	{
+		"Longitude" : "-089.920125",
+		"Zipcode" : "38947",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "NORTH CARROLLTON",
+		"State" : "MS",
+		"Latitude" : "+33.512759"
+	},
+	{
+		"Longitude" : "-089.855317",
+		"Zipcode" : "38948",
+		"ZipClass" : "STANDARD",
+		"County" : "YALOBUSHA",
+		"City" : "OAKLAND",
+		"State" : "MS",
+		"Latitude" : "+34.102656"
+	},
+	{
+		"Longitude" : "-089.381994",
+		"Zipcode" : "38949",
+		"ZipClass" : "STANDARD",
+		"County" : "LAFAYETTE",
+		"City" : "PARIS",
+		"State" : "MS",
+		"Latitude" : "+34.199242"
+	},
+	{
+		"Longitude" : "-090.237053",
+		"Zipcode" : "38950",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAHATCHIE",
+		"City" : "PHILIPP",
+		"State" : "MS",
+		"Latitude" : "+33.733437"
+	},
+	{
+		"Longitude" : "-089.283006",
+		"Zipcode" : "38951",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "PITTSBORO",
+		"State" : "MS",
+		"Latitude" : "+33.942942"
+	},
+	{
+		"Longitude" : "-090.301026",
+		"Zipcode" : "38952",
+		"ZipClass" : "STANDARD",
+		"County" : "LEFLORE",
+		"City" : "SCHLATER",
+		"State" : "MS",
+		"Latitude" : "+33.627351"
+	},
+	{
+		"Longitude" : "-089.719526",
+		"Zipcode" : "38953",
+		"ZipClass" : "STANDARD",
+		"County" : "YALOBUSHA",
+		"City" : "SCOBEY",
+		"State" : "MS",
+		"Latitude" : "+34.029737"
+	},
+	{
+		"Longitude" : "-089.910076",
+		"Zipcode" : "38954",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "SIDON",
+		"State" : "MS",
+		"Latitude" : "+33.445684"
+	},
+	{
+		"Longitude" : "-089.375281",
+		"Zipcode" : "38955",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "SLATE SPRING",
+		"State" : "MS",
+		"Latitude" : "+33.743871"
+	},
+	{
+		"Longitude" : "-090.389521",
+		"Zipcode" : "38957",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TALLAHATCHIE",
+		"City" : "SUMNER",
+		"State" : "MS",
+		"Latitude" : "+33.983323"
+	},
+	{
+		"Longitude" : "-090.188462",
+		"Zipcode" : "38958",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAHATCHIE",
+		"City" : "SWAN LAKE",
+		"State" : "MS",
+		"Latitude" : "+33.929206"
+	},
+	{
+		"Longitude" : "-090.349601",
+		"Zipcode" : "38959",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEFLORE",
+		"City" : "SWIFTOWN",
+		"State" : "MS",
+		"Latitude" : "+33.380913"
+	},
+	{
+		"Longitude" : "-089.821941",
+		"Zipcode" : "38960",
+		"ZipClass" : "STANDARD",
+		"County" : "GRENADA",
+		"City" : "TIE PLANT",
+		"State" : "MS",
+		"Latitude" : "+33.787157"
+	},
+	{
+		"Longitude" : "-089.719526",
+		"Zipcode" : "38961",
+		"ZipClass" : "STANDARD",
+		"County" : "YALOBUSHA",
+		"City" : "TILLATOBA",
+		"State" : "MS",
+		"Latitude" : "+34.029737"
+	},
+	{
+		"Longitude" : "-090.188462",
+		"Zipcode" : "38962",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TALLAHATCHIE",
+		"City" : "TIPPO",
+		"State" : "MS",
+		"Latitude" : "+33.929206"
+	},
+	{
+		"Longitude" : "-090.349894",
+		"Zipcode" : "38963",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAHATCHIE",
+		"City" : "TUTWILER",
+		"State" : "MS",
+		"Latitude" : "+34.022051"
+	},
+	{
+		"Longitude" : "-090.443027",
+		"Zipcode" : "38964",
+		"ZipClass" : "STANDARD",
+		"County" : "QUITMAN",
+		"City" : "VANCE",
+		"State" : "MS",
+		"Latitude" : "+34.099530"
+	},
+	{
+		"Longitude" : "-089.633458",
+		"Zipcode" : "38965",
+		"ZipClass" : "STANDARD",
+		"County" : "YALOBUSHA",
+		"City" : "WATER VALLEY",
+		"State" : "MS",
+		"Latitude" : "+34.101631"
+	},
+	{
+		"Longitude" : "-090.335055",
+		"Zipcode" : "38966",
+		"ZipClass" : "STANDARD",
+		"County" : "TALLAHATCHIE",
+		"City" : "WEBB",
+		"State" : "MS",
+		"Latitude" : "+33.898064"
+	},
+	{
+		"Longitude" : "-089.628584",
+		"Zipcode" : "38967",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "WINONA",
+		"State" : "MS",
+		"Latitude" : "+33.514926"
+	},
+	{
+		"Longitude" : "-090.475786",
+		"Zipcode" : "39038",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMPHREYS",
+		"City" : "BELZONI",
+		"State" : "MS",
+		"Latitude" : "+33.170596"
+	},
+	{
+		"Longitude" : "-090.241776",
+		"Zipcode" : "39039",
+		"ZipClass" : "STANDARD",
+		"County" : "YAZOO",
+		"City" : "BENTON",
+		"State" : "MS",
+		"Latitude" : "+32.845368"
+	},
+	{
+		"Longitude" : "-090.423646",
+		"Zipcode" : "39040",
+		"ZipClass" : "STANDARD",
+		"County" : "YAZOO",
+		"City" : "BENTONIA",
+		"State" : "MS",
+		"Latitude" : "+32.645794"
+	},
+	{
+		"Longitude" : "-090.461410",
+		"Zipcode" : "39041",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "BOLTON",
+		"State" : "MS",
+		"Latitude" : "+32.406956"
+	},
+	{
+		"Longitude" : "-089.938693",
+		"Zipcode" : "39042",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "BRANDON",
+		"State" : "MS",
+		"Latitude" : "+32.300019"
+	},
+	{
+		"Longitude" : "-089.987491",
+		"Zipcode" : "39043",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "BRANDON",
+		"State" : "MS",
+		"Latitude" : "+32.269041"
+	},
+	{
+		"Longitude" : "-089.981393",
+		"Zipcode" : "39044",
+		"ZipClass" : "STANDARD",
+		"County" : "SIMPSON",
+		"City" : "BRAXTON",
+		"State" : "MS",
+		"Latitude" : "+31.964990"
+	},
+	{
+		"Longitude" : "-089.869807",
+		"Zipcode" : "39045",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "CAMDEN",
+		"State" : "MS",
+		"Latitude" : "+32.785348"
+	},
+	{
+		"Longitude" : "-090.008601",
+		"Zipcode" : "39046",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "CANTON",
+		"State" : "MS",
+		"Latitude" : "+32.625298"
+	},
+	{
+		"Longitude" : "-089.958406",
+		"Zipcode" : "39047",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "BRANDON",
+		"State" : "MS",
+		"Latitude" : "+32.388633"
+	},
+	{
+		"Longitude" : "-089.524057",
+		"Zipcode" : "39051",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAKE",
+		"City" : "CARTHAGE",
+		"State" : "MS",
+		"Latitude" : "+32.785217"
+	},
+	{
+		"Longitude" : "-090.927522",
+		"Zipcode" : "39054",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHARKEY",
+		"City" : "CARY",
+		"State" : "MS",
+		"Latitude" : "+32.812875"
+	},
+	{
+		"Longitude" : "-090.312371",
+		"Zipcode" : "39056",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "CLINTON",
+		"State" : "MS",
+		"Latitude" : "+32.370736"
+	},
+	{
+		"Longitude" : "-089.263590",
+		"Zipcode" : "39057",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "CONEHATTA",
+		"State" : "MS",
+		"Latitude" : "+32.477116"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39058",
+		"ZipClass" : "UNIQUE",
+		"County" : "HINDS",
+		"City" : "CLINTON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.375733",
+		"Zipcode" : "39059",
+		"ZipClass" : "STANDARD",
+		"County" : "COPIAH",
+		"City" : "CRYSTAL SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+31.965088"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39060",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "CLINTON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.810960",
+		"Zipcode" : "39061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHARKEY",
+		"City" : "DELTA CITY",
+		"State" : "MS",
+		"Latitude" : "+32.879795"
+	},
+	{
+		"Longitude" : "-089.919219",
+		"Zipcode" : "39062",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SIMPSON",
+		"City" : "D LO",
+		"State" : "MS",
+		"Latitude" : "+31.986101"
+	},
+	{
+		"Longitude" : "-089.899593",
+		"Zipcode" : "39063",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLMES",
+		"City" : "DURANT",
+		"State" : "MS",
+		"Latitude" : "+33.071531"
+	},
+	{
+		"Longitude" : "-090.509850",
+		"Zipcode" : "39066",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "EDWARDS",
+		"State" : "MS",
+		"Latitude" : "+32.273070"
+	},
+	{
+		"Longitude" : "-089.541348",
+		"Zipcode" : "39067",
+		"ZipClass" : "STANDARD",
+		"County" : "ATTALA",
+		"City" : "ETHEL",
+		"State" : "MS",
+		"Latitude" : "+33.081670"
+	},
+	{
+		"Longitude" : "-091.056503",
+		"Zipcode" : "39069",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "FAYETTE",
+		"State" : "MS",
+		"Latitude" : "+31.731988"
+	},
+	{
+		"Longitude" : "-090.326653",
+		"Zipcode" : "39071",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "FLORA",
+		"State" : "MS",
+		"Latitude" : "+32.553269"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39072",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "POCAHONTAS",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.003854",
+		"Zipcode" : "39073",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "FLORENCE",
+		"State" : "MS",
+		"Latitude" : "+32.280972"
+	},
+	{
+		"Longitude" : "-089.505298",
+		"Zipcode" : "39074",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "FOREST",
+		"State" : "MS",
+		"Latitude" : "+32.399853"
+	},
+	{
+		"Longitude" : "-090.392603",
+		"Zipcode" : "39077",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COPIAH",
+		"City" : "GALLMAN",
+		"State" : "MS",
+		"Latitude" : "+31.928751"
+	},
+	{
+		"Longitude" : "-090.206289",
+		"Zipcode" : "39078",
+		"ZipClass" : "STANDARD",
+		"County" : "COPIAH",
+		"City" : "GEORGETOWN",
+		"State" : "MS",
+		"Latitude" : "+31.874080"
+	},
+	{
+		"Longitude" : "-089.943323",
+		"Zipcode" : "39079",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLMES",
+		"City" : "GOODMAN",
+		"State" : "MS",
+		"Latitude" : "+32.989226"
+	},
+	{
+		"Longitude" : "-089.494585",
+		"Zipcode" : "39080",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCOTT",
+		"City" : "HARPERVILLE",
+		"State" : "MS",
+		"Latitude" : "+32.492533"
+	},
+	{
+		"Longitude" : "-091.050948",
+		"Zipcode" : "39081",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "HARRISTON",
+		"State" : "MS",
+		"Latitude" : "+31.739958"
+	},
+	{
+		"Longitude" : "-090.133459",
+		"Zipcode" : "39082",
+		"ZipClass" : "STANDARD",
+		"County" : "SIMPSON",
+		"City" : "HARRISVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.941730"
+	},
+	{
+		"Longitude" : "-090.429426",
+		"Zipcode" : "39083",
+		"ZipClass" : "STANDARD",
+		"County" : "COPIAH",
+		"City" : "HAZLEHURST",
+		"State" : "MS",
+		"Latitude" : "+31.868475"
+	},
+	{
+		"Longitude" : "-090.716602",
+		"Zipcode" : "39086",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "HERMANVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.997408"
+	},
+	{
+		"Longitude" : "-089.517069",
+		"Zipcode" : "39087",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCOTT",
+		"City" : "HILLSBORO",
+		"State" : "MS",
+		"Latitude" : "+32.470606"
+	},
+	{
+		"Longitude" : "-090.723119",
+		"Zipcode" : "39088",
+		"ZipClass" : "STANDARD",
+		"County" : "YAZOO",
+		"City" : "HOLLY BLUFF",
+		"State" : "MS",
+		"Latitude" : "+32.841523"
+	},
+	{
+		"Longitude" : "-089.591300",
+		"Zipcode" : "39090",
+		"ZipClass" : "STANDARD",
+		"County" : "ATTALA",
+		"City" : "KOSCIUSKO",
+		"State" : "MS",
+		"Latitude" : "+33.055142"
+	},
+	{
+		"Longitude" : "-089.415089",
+		"Zipcode" : "39092",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "LAKE",
+		"State" : "MS",
+		"Latitude" : "+32.384482"
+	},
+	{
+		"Longitude" : "-089.614259",
+		"Zipcode" : "39094",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAKE",
+		"City" : "LENA",
+		"State" : "MS",
+		"Latitude" : "+32.620305"
+	},
+	{
+		"Longitude" : "-090.057116",
+		"Zipcode" : "39095",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLMES",
+		"City" : "LEXINGTON",
+		"State" : "MS",
+		"Latitude" : "+33.126082"
+	},
+	{
+		"Longitude" : "-091.050948",
+		"Zipcode" : "39096",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "LORMAN",
+		"State" : "MS",
+		"Latitude" : "+31.739958"
+	},
+	{
+		"Longitude" : "-090.592812",
+		"Zipcode" : "39097",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMPHREYS",
+		"City" : "LOUISE",
+		"State" : "MS",
+		"Latitude" : "+32.980758"
+	},
+	{
+		"Longitude" : "-089.713545",
+		"Zipcode" : "39098",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCOTT",
+		"City" : "LUDLOW",
+		"State" : "MS",
+		"Latitude" : "+32.566039"
+	},
+	{
+		"Longitude" : "-089.641184",
+		"Zipcode" : "39107",
+		"ZipClass" : "STANDARD",
+		"County" : "ATTALA",
+		"City" : "MC ADAMS",
+		"State" : "MS",
+		"Latitude" : "+33.082754"
+	},
+	{
+		"Longitude" : "-089.641184",
+		"Zipcode" : "39108",
+		"ZipClass" : "STANDARD",
+		"County" : "ATTALA",
+		"City" : "MC COOL",
+		"State" : "MS",
+		"Latitude" : "+33.082754"
+	},
+	{
+		"Longitude" : "-089.355388",
+		"Zipcode" : "39109",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LEAKE",
+		"City" : "MADDEN",
+		"State" : "MS",
+		"Latitude" : "+32.690864"
+	},
+	{
+		"Longitude" : "-090.138906",
+		"Zipcode" : "39110",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MADISON",
+		"State" : "MS",
+		"Latitude" : "+32.553769"
+	},
+	{
+		"Longitude" : "-089.775032",
+		"Zipcode" : "39111",
+		"ZipClass" : "STANDARD",
+		"County" : "SIMPSON",
+		"City" : "MAGEE",
+		"State" : "MS",
+		"Latitude" : "+31.910321"
+	},
+	{
+		"Longitude" : "-089.780694",
+		"Zipcode" : "39112",
+		"ZipClass" : "STANDARD",
+		"County" : "SIMPSON",
+		"City" : "SANATORIUM",
+		"State" : "MS",
+		"Latitude" : "+31.896236"
+	},
+	{
+		"Longitude" : "-090.952716",
+		"Zipcode" : "39113",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ISSAQUENA",
+		"City" : "MAYERSVILLE",
+		"State" : "MS",
+		"Latitude" : "+32.711257"
+	},
+	{
+		"Longitude" : "-089.813907",
+		"Zipcode" : "39114",
+		"ZipClass" : "STANDARD",
+		"County" : "SIMPSON",
+		"City" : "MENDENHALL",
+		"State" : "MS",
+		"Latitude" : "+31.907972"
+	},
+	{
+		"Longitude" : "-090.531759",
+		"Zipcode" : "39115",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HUMPHREYS",
+		"City" : "MIDNIGHT",
+		"State" : "MS",
+		"Latitude" : "+33.125998"
+	},
+	{
+		"Longitude" : "-089.508050",
+		"Zipcode" : "39116",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "MIZE",
+		"State" : "MS",
+		"Latitude" : "+31.852342"
+	},
+	{
+		"Longitude" : "-089.594886",
+		"Zipcode" : "39117",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "MORTON",
+		"State" : "MS",
+		"Latitude" : "+32.402897"
+	},
+	{
+		"Longitude" : "-089.623543",
+		"Zipcode" : "39119",
+		"ZipClass" : "STANDARD",
+		"County" : "COVINGTON",
+		"City" : "MOUNT OLIVE",
+		"State" : "MS",
+		"Latitude" : "+31.717905"
+	},
+	{
+		"Longitude" : "-091.307025",
+		"Zipcode" : "39120",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "NATCHEZ",
+		"State" : "MS",
+		"Latitude" : "+31.527752"
+	},
+	{
+		"Longitude" : "-091.404404",
+		"Zipcode" : "39121",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "NATCHEZ",
+		"State" : "MS",
+		"Latitude" : "+31.470602"
+	},
+	{
+		"Longitude" : "-091.404404",
+		"Zipcode" : "39122",
+		"ZipClass" : "STANDARD",
+		"County" : "ADAMS",
+		"City" : "NATCHEZ",
+		"State" : "MS",
+		"Latitude" : "+31.470602"
+	},
+	{
+		"Longitude" : "-090.090683",
+		"Zipcode" : "39130",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "MADISON",
+		"State" : "MS",
+		"Latitude" : "+32.642448"
+	},
+	{
+		"Longitude" : "-090.038237",
+		"Zipcode" : "39140",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "NEWHEBRON",
+		"State" : "MS",
+		"Latitude" : "+31.710930"
+	},
+	{
+		"Longitude" : "-090.981274",
+		"Zipcode" : "39144",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "PATTISON",
+		"State" : "MS",
+		"Latitude" : "+32.005479"
+	},
+	{
+		"Longitude" : "-089.833228",
+		"Zipcode" : "39145",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "PELAHATCHIE",
+		"State" : "MS",
+		"Latitude" : "+32.338570"
+	},
+	{
+		"Longitude" : "-090.026310",
+		"Zipcode" : "39146",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLMES",
+		"City" : "PICKENS",
+		"State" : "MS",
+		"Latitude" : "+32.950379"
+	},
+	{
+		"Longitude" : "-089.992257",
+		"Zipcode" : "39148",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANKIN",
+		"City" : "PINEY WOODS",
+		"State" : "MS",
+		"Latitude" : "+32.319905"
+	},
+	{
+		"Longitude" : "-090.016517",
+		"Zipcode" : "39149",
+		"ZipClass" : "STANDARD",
+		"County" : "SIMPSON",
+		"City" : "PINOLA",
+		"State" : "MS",
+		"Latitude" : "+31.837604"
+	},
+	{
+		"Longitude" : "-090.975632",
+		"Zipcode" : "39150",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAIBORNE",
+		"City" : "PORT GIBSON",
+		"State" : "MS",
+		"Latitude" : "+31.916949"
+	},
+	{
+		"Longitude" : "-089.783633",
+		"Zipcode" : "39151",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANKIN",
+		"City" : "PUCKETT",
+		"State" : "MS",
+		"Latitude" : "+32.106173"
+	},
+	{
+		"Longitude" : "-089.562728",
+		"Zipcode" : "39152",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "PULASKI",
+		"State" : "MS",
+		"Latitude" : "+32.274536"
+	},
+	{
+		"Longitude" : "-089.524458",
+		"Zipcode" : "39153",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "RALEIGH",
+		"State" : "MS",
+		"Latitude" : "+32.033656"
+	},
+	{
+		"Longitude" : "-090.475280",
+		"Zipcode" : "39154",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "RAYMOND",
+		"State" : "MS",
+		"Latitude" : "+32.196072"
+	},
+	{
+		"Longitude" : "-090.754175",
+		"Zipcode" : "39156",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "REDWOOD",
+		"State" : "MS",
+		"Latitude" : "+32.527920"
+	},
+	{
+		"Longitude" : "-090.137310",
+		"Zipcode" : "39157",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "RIDGELAND",
+		"State" : "MS",
+		"Latitude" : "+32.436064"
+	},
+	{
+		"Longitude" : "-090.090683",
+		"Zipcode" : "39158",
+		"ZipClass" : "STANDARD",
+		"County" : "MADISON",
+		"City" : "RIDGELAND",
+		"State" : "MS",
+		"Latitude" : "+32.642448"
+	},
+	{
+		"Longitude" : "-090.897658",
+		"Zipcode" : "39159",
+		"ZipClass" : "STANDARD",
+		"County" : "SHARKEY",
+		"City" : "ROLLING FORK",
+		"State" : "MS",
+		"Latitude" : "+32.859106"
+	},
+	{
+		"Longitude" : "-089.641184",
+		"Zipcode" : "39160",
+		"ZipClass" : "STANDARD",
+		"County" : "ATTALA",
+		"City" : "SALLIS",
+		"State" : "MS",
+		"Latitude" : "+33.082754"
+	},
+	{
+		"Longitude" : "-089.868563",
+		"Zipcode" : "39161",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANKIN",
+		"City" : "SANDHILL",
+		"State" : "MS",
+		"Latitude" : "+32.498294"
+	},
+	{
+		"Longitude" : "-090.595701",
+		"Zipcode" : "39162",
+		"ZipClass" : "STANDARD",
+		"County" : "YAZOO",
+		"City" : "SATARTIA",
+		"State" : "MS",
+		"Latitude" : "+32.640397"
+	},
+	{
+		"Longitude" : "-090.090683",
+		"Zipcode" : "39163",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MADISON",
+		"City" : "SHARON",
+		"State" : "MS",
+		"Latitude" : "+32.642448"
+	},
+	{
+		"Longitude" : "-091.404404",
+		"Zipcode" : "39165",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADAMS",
+		"City" : "SIBLEY",
+		"State" : "MS",
+		"Latitude" : "+31.470602"
+	},
+	{
+		"Longitude" : "-090.490483",
+		"Zipcode" : "39166",
+		"ZipClass" : "STANDARD",
+		"County" : "HUMPHREYS",
+		"City" : "SILVER CITY",
+		"State" : "MS",
+		"Latitude" : "+33.094729"
+	},
+	{
+		"Longitude" : "-090.061508",
+		"Zipcode" : "39167",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RANKIN",
+		"City" : "STAR",
+		"State" : "MS",
+		"Latitude" : "+32.096124"
+	},
+	{
+		"Longitude" : "-089.403302",
+		"Zipcode" : "39168",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "TAYLORSVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.829580"
+	},
+	{
+		"Longitude" : "-090.237888",
+		"Zipcode" : "39169",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLMES",
+		"City" : "TCHULA",
+		"State" : "MS",
+		"Latitude" : "+33.134414"
+	},
+	{
+		"Longitude" : "-090.422369",
+		"Zipcode" : "39170",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "TERRY",
+		"State" : "MS",
+		"Latitude" : "+32.189393"
+	},
+	{
+		"Longitude" : "-089.524140",
+		"Zipcode" : "39171",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAKE",
+		"City" : "THOMASTOWN",
+		"State" : "MS",
+		"Latitude" : "+32.753923"
+	},
+	{
+		"Longitude" : "-090.362850",
+		"Zipcode" : "39173",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "YAZOO",
+		"City" : "TINSLEY",
+		"State" : "MS",
+		"Latitude" : "+32.762751"
+	},
+	{
+		"Longitude" : "-090.154436",
+		"Zipcode" : "39174",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HINDS",
+		"City" : "TOUGALOO",
+		"State" : "MS",
+		"Latitude" : "+32.395343"
+	},
+	{
+		"Longitude" : "-090.437200",
+		"Zipcode" : "39175",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "UTICA",
+		"State" : "MS",
+		"Latitude" : "+32.221490"
+	},
+	{
+		"Longitude" : "-089.751563",
+		"Zipcode" : "39176",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "VAIDEN",
+		"State" : "MS",
+		"Latitude" : "+33.329023"
+	},
+	{
+		"Longitude" : "-090.952716",
+		"Zipcode" : "39177",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ISSAQUENA",
+		"City" : "VALLEY PARK",
+		"State" : "MS",
+		"Latitude" : "+32.711257"
+	},
+	{
+		"Longitude" : "-090.098134",
+		"Zipcode" : "39179",
+		"ZipClass" : "STANDARD",
+		"County" : "YAZOO",
+		"City" : "VAUGHAN",
+		"State" : "MS",
+		"Latitude" : "+32.801526"
+	},
+	{
+		"Longitude" : "-090.834407",
+		"Zipcode" : "39180",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "VICKSBURG",
+		"State" : "MS",
+		"Latitude" : "+32.339533"
+	},
+	{
+		"Longitude" : "-090.864199",
+		"Zipcode" : "39181",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "VICKSBURG",
+		"State" : "MS",
+		"Latitude" : "+32.348565"
+	},
+	{
+		"Longitude" : "-090.864199",
+		"Zipcode" : "39182",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "VICKSBURG",
+		"State" : "MS",
+		"Latitude" : "+32.348565"
+	},
+	{
+		"Longitude" : "-090.840021",
+		"Zipcode" : "39183",
+		"ZipClass" : "STANDARD",
+		"County" : "WARREN",
+		"City" : "VICKSBURG",
+		"State" : "MS",
+		"Latitude" : "+32.386006"
+	},
+	{
+		"Longitude" : "-089.406315",
+		"Zipcode" : "39189",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAKE",
+		"City" : "WALNUT GROVE",
+		"State" : "MS",
+		"Latitude" : "+32.628970"
+	},
+	{
+		"Longitude" : "-091.404404",
+		"Zipcode" : "39190",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ADAMS",
+		"City" : "WASHINGTON",
+		"State" : "MS",
+		"Latitude" : "+31.470602"
+	},
+	{
+		"Longitude" : "-090.377153",
+		"Zipcode" : "39191",
+		"ZipClass" : "STANDARD",
+		"County" : "COPIAH",
+		"City" : "WESSON",
+		"State" : "MS",
+		"Latitude" : "+31.847453"
+	},
+	{
+		"Longitude" : "-089.853487",
+		"Zipcode" : "39192",
+		"ZipClass" : "STANDARD",
+		"County" : "HOLMES",
+		"City" : "WEST",
+		"State" : "MS",
+		"Latitude" : "+33.198544"
+	},
+	{
+		"Longitude" : "-090.072630",
+		"Zipcode" : "39193",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "WHITFIELD",
+		"State" : "MS",
+		"Latitude" : "+32.234775"
+	},
+	{
+		"Longitude" : "-090.475849",
+		"Zipcode" : "39194",
+		"ZipClass" : "STANDARD",
+		"County" : "YAZOO",
+		"City" : "YAZOO CITY",
+		"State" : "MS",
+		"Latitude" : "+32.815898"
+	},
+	{
+		"Longitude" : "-090.192687",
+		"Zipcode" : "39201",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.291095"
+	},
+	{
+		"Longitude" : "-090.176737",
+		"Zipcode" : "39202",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.305395"
+	},
+	{
+		"Longitude" : "-090.210438",
+		"Zipcode" : "39203",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.308595"
+	},
+	{
+		"Longitude" : "-090.290313",
+		"Zipcode" : "39204",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.301480"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39205",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.169987",
+		"Zipcode" : "39206",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.370044"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39207",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-089.958708",
+		"Zipcode" : "39208",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "PEARL",
+		"State" : "MS",
+		"Latitude" : "+32.267238"
+	},
+	{
+		"Longitude" : "-090.362921",
+		"Zipcode" : "39209",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.374632"
+	},
+	{
+		"Longitude" : "-090.177137",
+		"Zipcode" : "39210",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.321845"
+	},
+	{
+		"Longitude" : "-090.123786",
+		"Zipcode" : "39211",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.366844"
+	},
+	{
+		"Longitude" : "-090.287730",
+		"Zipcode" : "39212",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.238808"
+	},
+	{
+		"Longitude" : "-090.216282",
+		"Zipcode" : "39213",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.306096"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39215",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.216096",
+		"Zipcode" : "39216",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.336744"
+	},
+	{
+		"Longitude" : "-090.208088",
+		"Zipcode" : "39217",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.297396"
+	},
+	{
+		"Longitude" : "-090.126353",
+		"Zipcode" : "39218",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "RICHLAND",
+		"State" : "MS",
+		"Latitude" : "+32.215304"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39225",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39232",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "FLOWOOD",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39235",
+		"ZipClass" : "UNIQUE",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39236",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39250",
+		"ZipClass" : "UNIQUE",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.188638",
+		"Zipcode" : "39269",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.300296"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39271",
+		"ZipClass" : "UNIQUE",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39272",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "BYRAM",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39282",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39283",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39284",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39286",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-089.799625",
+		"Zipcode" : "39288",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "PEARL",
+		"State" : "MS",
+		"Latitude" : "+32.313127"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39289",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-090.397157",
+		"Zipcode" : "39296",
+		"ZipClass" : "STANDARD",
+		"County" : "HINDS",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.311287"
+	},
+	{
+		"Longitude" : "-089.992257",
+		"Zipcode" : "39298",
+		"ZipClass" : "STANDARD",
+		"County" : "RANKIN",
+		"City" : "JACKSON",
+		"State" : "MS",
+		"Latitude" : "+32.319905"
+	},
+	{
+		"Longitude" : "-088.663489",
+		"Zipcode" : "39301",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "MERIDIAN",
+		"State" : "MS",
+		"Latitude" : "+32.381605"
+	},
+	{
+		"Longitude" : "-088.641888",
+		"Zipcode" : "39302",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "MERIDIAN",
+		"State" : "MS",
+		"Latitude" : "+32.431958"
+	},
+	{
+		"Longitude" : "-088.652279",
+		"Zipcode" : "39303",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "MERIDIAN",
+		"State" : "MS",
+		"Latitude" : "+32.401233"
+	},
+	{
+		"Longitude" : "-088.646016",
+		"Zipcode" : "39304",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "MERIDIAN",
+		"State" : "MS",
+		"Latitude" : "+32.420847"
+	},
+	{
+		"Longitude" : "-088.658234",
+		"Zipcode" : "39305",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "MERIDIAN",
+		"State" : "MS",
+		"Latitude" : "+32.403111"
+	},
+	{
+		"Longitude" : "-088.676575",
+		"Zipcode" : "39307",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "MERIDIAN",
+		"State" : "MS",
+		"Latitude" : "+32.386718"
+	},
+	{
+		"Longitude" : "-088.726474",
+		"Zipcode" : "39309",
+		"ZipClass" : "UNIQUE",
+		"County" : "LAUDERDALE",
+		"City" : "MERIDIAN",
+		"State" : "MS",
+		"Latitude" : "+32.337389"
+	},
+	{
+		"Longitude" : "-088.745613",
+		"Zipcode" : "39320",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "BAILEY",
+		"State" : "MS",
+		"Latitude" : "+32.522580"
+	},
+	{
+		"Longitude" : "-088.548006",
+		"Zipcode" : "39322",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "BUCKATUNNA",
+		"State" : "MS",
+		"Latitude" : "+31.582003"
+	},
+	{
+		"Longitude" : "-088.955099",
+		"Zipcode" : "39323",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "CHUNKY",
+		"State" : "MS",
+		"Latitude" : "+32.350480"
+	},
+	{
+		"Longitude" : "-088.704829",
+		"Zipcode" : "39324",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WAYNE",
+		"City" : "CLARA",
+		"State" : "MS",
+		"Latitude" : "+31.593682"
+	},
+	{
+		"Longitude" : "-088.787780",
+		"Zipcode" : "39325",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "COLLINSVILLE",
+		"State" : "MS",
+		"Latitude" : "+32.434473"
+	},
+	{
+		"Longitude" : "-088.679062",
+		"Zipcode" : "39326",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "DALEVILLE",
+		"State" : "MS",
+		"Latitude" : "+32.556534"
+	},
+	{
+		"Longitude" : "-089.092952",
+		"Zipcode" : "39327",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "DECATUR",
+		"State" : "MS",
+		"Latitude" : "+32.427135"
+	},
+	{
+		"Longitude" : "-088.698657",
+		"Zipcode" : "39328",
+		"ZipClass" : "STANDARD",
+		"County" : "KEMPER",
+		"City" : "DE KALB",
+		"State" : "MS",
+		"Latitude" : "+32.799065"
+	},
+	{
+		"Longitude" : "-088.819543",
+		"Zipcode" : "39330",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "ENTERPRISE",
+		"State" : "MS",
+		"Latitude" : "+32.143420"
+	},
+	{
+		"Longitude" : "-089.083928",
+		"Zipcode" : "39332",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "HICKORY",
+		"State" : "MS",
+		"Latitude" : "+32.323107"
+	},
+	{
+		"Longitude" : "-088.534433",
+		"Zipcode" : "39335",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "LAUDERDALE",
+		"State" : "MS",
+		"Latitude" : "+32.498068"
+	},
+	{
+		"Longitude" : "-089.258254",
+		"Zipcode" : "39336",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "LAWRENCE",
+		"State" : "MS",
+		"Latitude" : "+32.319198"
+	},
+	{
+		"Longitude" : "-088.995468",
+		"Zipcode" : "39337",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "LITTLE ROCK",
+		"State" : "MS",
+		"Latitude" : "+32.504900"
+	},
+	{
+		"Longitude" : "-089.187423",
+		"Zipcode" : "39338",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "LOUIN",
+		"State" : "MS",
+		"Latitude" : "+32.109313"
+	},
+	{
+		"Longitude" : "-089.068098",
+		"Zipcode" : "39339",
+		"ZipClass" : "STANDARD",
+		"County" : "WINSTON",
+		"City" : "LOUISVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.101687"
+	},
+	{
+		"Longitude" : "-088.544740",
+		"Zipcode" : "39341",
+		"ZipClass" : "STANDARD",
+		"County" : "NOXUBEE",
+		"City" : "MACON",
+		"State" : "MS",
+		"Latitude" : "+33.125769"
+	},
+	{
+		"Longitude" : "-088.616297",
+		"Zipcode" : "39342",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "MARION",
+		"State" : "MS",
+		"Latitude" : "+32.336743"
+	},
+	{
+		"Longitude" : "-089.083130",
+		"Zipcode" : "39345",
+		"ZipClass" : "STANDARD",
+		"County" : "NEWTON",
+		"City" : "NEWTON",
+		"State" : "MS",
+		"Latitude" : "+32.399830"
+	},
+	{
+		"Longitude" : "-089.108325",
+		"Zipcode" : "39346",
+		"ZipClass" : "STANDARD",
+		"County" : "WINSTON",
+		"City" : "NOXAPATER",
+		"State" : "MS",
+		"Latitude" : "+32.980751"
+	},
+	{
+		"Longitude" : "-088.885093",
+		"Zipcode" : "39347",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "PACHUTA",
+		"State" : "MS",
+		"Latitude" : "+32.021692"
+	},
+	{
+		"Longitude" : "-089.027181",
+		"Zipcode" : "39348",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "PAULDING",
+		"State" : "MS",
+		"Latitude" : "+32.069413"
+	},
+	{
+		"Longitude" : "-089.116797",
+		"Zipcode" : "39350",
+		"ZipClass" : "STANDARD",
+		"County" : "NESHOBA",
+		"City" : "PHILADELPHIA",
+		"State" : "MS",
+		"Latitude" : "+32.754387"
+	},
+	{
+		"Longitude" : "-088.523668",
+		"Zipcode" : "39352",
+		"ZipClass" : "STANDARD",
+		"County" : "KEMPER",
+		"City" : "PORTERVILLE",
+		"State" : "MS",
+		"Latitude" : "+32.797547"
+	},
+	{
+		"Longitude" : "-088.827847",
+		"Zipcode" : "39354",
+		"ZipClass" : "STANDARD",
+		"County" : "KEMPER",
+		"City" : "PRESTON",
+		"State" : "MS",
+		"Latitude" : "+32.855983"
+	},
+	{
+		"Longitude" : "-088.663429",
+		"Zipcode" : "39355",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "QUITMAN",
+		"State" : "MS",
+		"Latitude" : "+32.013802"
+	},
+	{
+		"Longitude" : "-088.998801",
+		"Zipcode" : "39356",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "ROSE HILL",
+		"State" : "MS",
+		"Latitude" : "+32.136030"
+	},
+	{
+		"Longitude" : "-088.478138",
+		"Zipcode" : "39358",
+		"ZipClass" : "STANDARD",
+		"County" : "KEMPER",
+		"City" : "SCOOBA",
+		"State" : "MS",
+		"Latitude" : "+32.822624"
+	},
+	{
+		"Longitude" : "-089.357384",
+		"Zipcode" : "39359",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SCOTT",
+		"City" : "SEBASTOPOL",
+		"State" : "MS",
+		"Latitude" : "+32.551832"
+	},
+	{
+		"Longitude" : "-088.716818",
+		"Zipcode" : "39360",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "SHUBUTA",
+		"State" : "MS",
+		"Latitude" : "+31.960687"
+	},
+	{
+		"Longitude" : "-088.659645",
+		"Zipcode" : "39361",
+		"ZipClass" : "STANDARD",
+		"County" : "NOXUBEE",
+		"City" : "SHUQUALAK",
+		"State" : "MS",
+		"Latitude" : "+33.082645"
+	},
+	{
+		"Longitude" : "-088.606456",
+		"Zipcode" : "39362",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "STATE LINE",
+		"State" : "MS",
+		"Latitude" : "+31.360647"
+	},
+	{
+		"Longitude" : "-088.770572",
+		"Zipcode" : "39363",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARKE",
+		"City" : "STONEWALL",
+		"State" : "MS",
+		"Latitude" : "+32.140683"
+	},
+	{
+		"Longitude" : "-088.660633",
+		"Zipcode" : "39364",
+		"ZipClass" : "STANDARD",
+		"County" : "LAUDERDALE",
+		"City" : "TOOMSUBA",
+		"State" : "MS",
+		"Latitude" : "+32.424306"
+	},
+	{
+		"Longitude" : "-089.111993",
+		"Zipcode" : "39365",
+		"ZipClass" : "STANDARD",
+		"County" : "NESHOBA",
+		"City" : "UNION",
+		"State" : "MS",
+		"Latitude" : "+32.643921"
+	},
+	{
+		"Longitude" : "-088.970738",
+		"Zipcode" : "39366",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "VOSSBURG",
+		"State" : "MS",
+		"Latitude" : "+31.950645"
+	},
+	{
+		"Longitude" : "-088.704113",
+		"Zipcode" : "39367",
+		"ZipClass" : "STANDARD",
+		"County" : "WAYNE",
+		"City" : "WAYNESBORO",
+		"State" : "MS",
+		"Latitude" : "+31.659327"
+	},
+	{
+		"Longitude" : "-089.280710",
+		"Zipcode" : "39401",
+		"ZipClass" : "STANDARD",
+		"County" : "FORREST",
+		"City" : "HATTIESBURG",
+		"State" : "MS",
+		"Latitude" : "+31.245138"
+	},
+	{
+		"Longitude" : "-089.379246",
+		"Zipcode" : "39402",
+		"ZipClass" : "STANDARD",
+		"County" : "FORREST",
+		"City" : "HATTIESBURG",
+		"State" : "MS",
+		"Latitude" : "+31.335865"
+	},
+	{
+		"Longitude" : "-089.382415",
+		"Zipcode" : "39403",
+		"ZipClass" : "STANDARD",
+		"County" : "FORREST",
+		"City" : "HATTIESBURG",
+		"State" : "MS",
+		"Latitude" : "+31.356642"
+	},
+	{
+		"Longitude" : "-089.294772",
+		"Zipcode" : "39404",
+		"ZipClass" : "STANDARD",
+		"County" : "FORREST",
+		"City" : "HATTIESBURG",
+		"State" : "MS",
+		"Latitude" : "+31.172142"
+	},
+	{
+		"Longitude" : "-089.294772",
+		"Zipcode" : "39406",
+		"ZipClass" : "STANDARD",
+		"County" : "FORREST",
+		"City" : "HATTIESBURG",
+		"State" : "MS",
+		"Latitude" : "+31.172142"
+	},
+	{
+		"Longitude" : "-089.294772",
+		"Zipcode" : "39407",
+		"ZipClass" : "STANDARD",
+		"County" : "FORREST",
+		"City" : "HATTIESBURG",
+		"State" : "MS",
+		"Latitude" : "+31.172142"
+	},
+	{
+		"Longitude" : "-089.781429",
+		"Zipcode" : "39421",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "BASSFIELD",
+		"State" : "MS",
+		"Latitude" : "+31.582332"
+	},
+	{
+		"Longitude" : "-089.209877",
+		"Zipcode" : "39422",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "BAY SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+31.989146"
+	},
+	{
+		"Longitude" : "-088.920132",
+		"Zipcode" : "39423",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "BEAUMONT",
+		"State" : "MS",
+		"Latitude" : "+31.185365"
+	},
+	{
+		"Longitude" : "-089.266547",
+		"Zipcode" : "39425",
+		"ZipClass" : "STANDARD",
+		"County" : "FORREST",
+		"City" : "BROOKLYN",
+		"State" : "MS",
+		"Latitude" : "+31.181756"
+	},
+	{
+		"Longitude" : "-089.646536",
+		"Zipcode" : "39426",
+		"ZipClass" : "STANDARD",
+		"County" : "PEARL RIVER",
+		"City" : "CARRIERE",
+		"State" : "MS",
+		"Latitude" : "+30.661121"
+	},
+	{
+		"Longitude" : "-089.865962",
+		"Zipcode" : "39427",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "CARSON",
+		"State" : "MS",
+		"Latitude" : "+31.601319"
+	},
+	{
+		"Longitude" : "-089.578002",
+		"Zipcode" : "39428",
+		"ZipClass" : "STANDARD",
+		"County" : "COVINGTON",
+		"City" : "COLLINS",
+		"State" : "MS",
+		"Latitude" : "+31.652811"
+	},
+	{
+		"Longitude" : "-089.801872",
+		"Zipcode" : "39429",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "COLUMBIA",
+		"State" : "MS",
+		"Latitude" : "+31.218188"
+	},
+	{
+		"Longitude" : "-089.302042",
+		"Zipcode" : "39436",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JONES",
+		"City" : "EASTABUCHIE",
+		"State" : "MS",
+		"Latitude" : "+31.455471"
+	},
+	{
+		"Longitude" : "-089.171825",
+		"Zipcode" : "39437",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "ELLISVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.611088"
+	},
+	{
+		"Longitude" : "-089.077368",
+		"Zipcode" : "39439",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "HEIDELBERG",
+		"State" : "MS",
+		"Latitude" : "+31.892668"
+	},
+	{
+		"Longitude" : "-089.114317",
+		"Zipcode" : "39440",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "LAUREL",
+		"State" : "MS",
+		"Latitude" : "+31.711733"
+	},
+	{
+		"Longitude" : "-089.075482",
+		"Zipcode" : "39441",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "LAUREL",
+		"State" : "MS",
+		"Latitude" : "+31.727664"
+	},
+	{
+		"Longitude" : "-089.040622",
+		"Zipcode" : "39442",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "LAUREL",
+		"State" : "MS",
+		"Latitude" : "+31.682254"
+	},
+	{
+		"Longitude" : "-089.121296",
+		"Zipcode" : "39443",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "LAUREL",
+		"State" : "MS",
+		"Latitude" : "+31.686952"
+	},
+	{
+		"Longitude" : "-088.637767",
+		"Zipcode" : "39451",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "LEAKESVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.167734"
+	},
+	{
+		"Longitude" : "-088.649035",
+		"Zipcode" : "39452",
+		"ZipClass" : "STANDARD",
+		"County" : "GEORGE",
+		"City" : "LUCEDALE",
+		"State" : "MS",
+		"Latitude" : "+30.866791"
+	},
+	{
+		"Longitude" : "-089.503417",
+		"Zipcode" : "39455",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "LUMBERTON",
+		"State" : "MS",
+		"Latitude" : "+31.100426"
+	},
+	{
+		"Longitude" : "-088.797692",
+		"Zipcode" : "39456",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "MC LAIN",
+		"State" : "MS",
+		"Latitude" : "+31.086666"
+	},
+	{
+		"Longitude" : "-089.673392",
+		"Zipcode" : "39457",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PEARL RIVER",
+		"City" : "MC NEILL",
+		"State" : "MS",
+		"Latitude" : "+30.666936"
+	},
+	{
+		"Longitude" : "-089.296883",
+		"Zipcode" : "39459",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "MOSELLE",
+		"State" : "MS",
+		"Latitude" : "+31.500214"
+	},
+	{
+		"Longitude" : "-089.116560",
+		"Zipcode" : "39460",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JASPER",
+		"City" : "MOSS",
+		"State" : "MS",
+		"Latitude" : "+32.013235"
+	},
+	{
+		"Longitude" : "-088.754841",
+		"Zipcode" : "39461",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENE",
+		"City" : "NEELY",
+		"State" : "MS",
+		"Latitude" : "+31.210172"
+	},
+	{
+		"Longitude" : "-088.991561",
+		"Zipcode" : "39462",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "NEW AUGUSTA",
+		"State" : "MS",
+		"Latitude" : "+31.171903"
+	},
+	{
+		"Longitude" : "-089.557751",
+		"Zipcode" : "39463",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PEARL RIVER",
+		"City" : "NICHOLSON",
+		"State" : "MS",
+		"Latitude" : "+30.563724"
+	},
+	{
+		"Longitude" : "-088.999044",
+		"Zipcode" : "39464",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "OVETT",
+		"State" : "MS",
+		"Latitude" : "+31.311643"
+	},
+	{
+		"Longitude" : "-089.215061",
+		"Zipcode" : "39465",
+		"ZipClass" : "STANDARD",
+		"County" : "FORREST",
+		"City" : "PETAL",
+		"State" : "MS",
+		"Latitude" : "+31.331528"
+	},
+	{
+		"Longitude" : "-089.631280",
+		"Zipcode" : "39466",
+		"ZipClass" : "STANDARD",
+		"County" : "PEARL RIVER",
+		"City" : "PICAYUNE",
+		"State" : "MS",
+		"Latitude" : "+30.627655"
+	},
+	{
+		"Longitude" : "-089.580720",
+		"Zipcode" : "39470",
+		"ZipClass" : "STANDARD",
+		"County" : "PEARL RIVER",
+		"City" : "POPLARVILLE",
+		"State" : "MS",
+		"Latitude" : "+30.756774"
+	},
+	{
+		"Longitude" : "-089.886038",
+		"Zipcode" : "39474",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON DAVIS",
+		"City" : "PRENTISS",
+		"State" : "MS",
+		"Latitude" : "+31.597630"
+	},
+	{
+		"Longitude" : "-089.501513",
+		"Zipcode" : "39475",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "PURVIS",
+		"State" : "MS",
+		"Latitude" : "+31.228126"
+	},
+	{
+		"Longitude" : "-088.993126",
+		"Zipcode" : "39476",
+		"ZipClass" : "STANDARD",
+		"County" : "PERRY",
+		"City" : "RICHTON",
+		"State" : "MS",
+		"Latitude" : "+31.318239"
+	},
+	{
+		"Longitude" : "-089.041363",
+		"Zipcode" : "39477",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JONES",
+		"City" : "SANDERSVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.790929"
+	},
+	{
+		"Longitude" : "-089.847732",
+		"Zipcode" : "39478",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SANDY HOOK",
+		"State" : "MS",
+		"Latitude" : "+31.078868"
+	},
+	{
+		"Longitude" : "-089.502846",
+		"Zipcode" : "39479",
+		"ZipClass" : "STANDARD",
+		"County" : "COVINGTON",
+		"City" : "SEMINARY",
+		"State" : "MS",
+		"Latitude" : "+31.537800"
+	},
+	{
+		"Longitude" : "-089.297336",
+		"Zipcode" : "39480",
+		"ZipClass" : "STANDARD",
+		"County" : "JONES",
+		"City" : "SOSO",
+		"State" : "MS",
+		"Latitude" : "+31.713226"
+	},
+	{
+		"Longitude" : "-089.229337",
+		"Zipcode" : "39481",
+		"ZipClass" : "STANDARD",
+		"County" : "JASPER",
+		"City" : "STRINGER",
+		"State" : "MS",
+		"Latitude" : "+31.870465"
+	},
+	{
+		"Longitude" : "-089.531088",
+		"Zipcode" : "39482",
+		"ZipClass" : "STANDARD",
+		"County" : "LAMAR",
+		"City" : "SUMRALL",
+		"State" : "MS",
+		"Latitude" : "+31.216581"
+	},
+	{
+		"Longitude" : "-089.928570",
+		"Zipcode" : "39483",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "FOXWORTH",
+		"State" : "MS",
+		"Latitude" : "+31.247873"
+	},
+	{
+		"Longitude" : "-089.064103",
+		"Zipcode" : "39501",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "GULFPORT",
+		"State" : "MS",
+		"Latitude" : "+30.396277"
+	},
+	{
+		"Longitude" : "-089.068448",
+		"Zipcode" : "39502",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "GULFPORT",
+		"State" : "MS",
+		"Latitude" : "+30.415795"
+	},
+	{
+		"Longitude" : "-089.151485",
+		"Zipcode" : "39503",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "GULFPORT",
+		"State" : "MS",
+		"Latitude" : "+30.467067"
+	},
+	{
+		"Longitude" : "-089.068448",
+		"Zipcode" : "39505",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "GULFPORT",
+		"State" : "MS",
+		"Latitude" : "+30.415795"
+	},
+	{
+		"Longitude" : "-089.068448",
+		"Zipcode" : "39506",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "GULFPORT",
+		"State" : "MS",
+		"Latitude" : "+30.415795"
+	},
+	{
+		"Longitude" : "-089.031635",
+		"Zipcode" : "39507",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "GULFPORT",
+		"State" : "MS",
+		"Latitude" : "+30.400079"
+	},
+	{
+		"Longitude" : "-089.463187",
+		"Zipcode" : "39520",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BAY SAINT LOUIS",
+		"State" : "MS",
+		"Latitude" : "+30.295608"
+	},
+	{
+		"Longitude" : "-089.498210",
+		"Zipcode" : "39521",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "BAY SAINT LOUIS",
+		"State" : "MS",
+		"Latitude" : "+30.403156"
+	},
+	{
+		"Longitude" : "-089.498210",
+		"Zipcode" : "39522",
+		"ZipClass" : "UNIQUE",
+		"County" : "HANCOCK",
+		"City" : "STENNIS SPACE CENTER",
+		"State" : "MS",
+		"Latitude" : "+30.403156"
+	},
+	{
+		"Longitude" : "-089.377942",
+		"Zipcode" : "39525",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "DIAMONDHEAD",
+		"State" : "MS",
+		"Latitude" : "+30.372821"
+	},
+	{
+		"Longitude" : "-089.498210",
+		"Zipcode" : "39529",
+		"ZipClass" : "UNIQUE",
+		"County" : "HANCOCK",
+		"City" : "STENNIS SPACE CENTER",
+		"State" : "MS",
+		"Latitude" : "+30.403156"
+	},
+	{
+		"Longitude" : "-088.978634",
+		"Zipcode" : "39530",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BILOXI",
+		"State" : "MS",
+		"Latitude" : "+30.432454"
+	},
+	{
+		"Longitude" : "-088.971229",
+		"Zipcode" : "39531",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BILOXI",
+		"State" : "MS",
+		"Latitude" : "+30.401498"
+	},
+	{
+		"Longitude" : "-088.968080",
+		"Zipcode" : "39532",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BILOXI",
+		"State" : "MS",
+		"Latitude" : "+30.510988"
+	},
+	{
+		"Longitude" : "-089.068448",
+		"Zipcode" : "39533",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BILOXI",
+		"State" : "MS",
+		"Latitude" : "+30.415795"
+	},
+	{
+		"Longitude" : "-089.068448",
+		"Zipcode" : "39534",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BILOXI",
+		"State" : "MS",
+		"Latitude" : "+30.415795"
+	},
+	{
+		"Longitude" : "-089.068448",
+		"Zipcode" : "39535",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "BILOXI",
+		"State" : "MS",
+		"Latitude" : "+30.415795"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "39540",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "DIBERVILLE",
+		"State" : "MS",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-088.634482",
+		"Zipcode" : "39552",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "ESCATAWPA",
+		"State" : "MS",
+		"Latitude" : "+30.441072"
+	},
+	{
+		"Longitude" : "-088.664870",
+		"Zipcode" : "39553",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "GAUTIER",
+		"State" : "MS",
+		"Latitude" : "+30.421676"
+	},
+	{
+		"Longitude" : "-088.519743",
+		"Zipcode" : "39555",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JACKSON",
+		"City" : "HURLEY",
+		"State" : "MS",
+		"Latitude" : "+30.713250"
+	},
+	{
+		"Longitude" : "-089.418722",
+		"Zipcode" : "39556",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "KILN",
+		"State" : "MS",
+		"Latitude" : "+30.487498"
+	},
+	{
+		"Longitude" : "-089.459526",
+		"Zipcode" : "39558",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HANCOCK",
+		"City" : "LAKESHORE",
+		"State" : "MS",
+		"Latitude" : "+30.239124"
+	},
+	{
+		"Longitude" : "-089.177143",
+		"Zipcode" : "39560",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "LONG BEACH",
+		"State" : "MS",
+		"Latitude" : "+30.374646"
+	},
+	{
+		"Longitude" : "-089.172285",
+		"Zipcode" : "39561",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "MC HENRY",
+		"State" : "MS",
+		"Latitude" : "+30.721036"
+	},
+	{
+		"Longitude" : "-088.604298",
+		"Zipcode" : "39562",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MOSS POINT",
+		"State" : "MS",
+		"Latitude" : "+30.544726"
+	},
+	{
+		"Longitude" : "-088.621049",
+		"Zipcode" : "39563",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MOSS POINT",
+		"State" : "MS",
+		"Latitude" : "+30.539088"
+	},
+	{
+		"Longitude" : "-088.655024",
+		"Zipcode" : "39564",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "OCEAN SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+30.500280"
+	},
+	{
+		"Longitude" : "-088.708582",
+		"Zipcode" : "39565",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "OCEAN SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+30.547365"
+	},
+	{
+		"Longitude" : "-088.634482",
+		"Zipcode" : "39566",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "OCEAN SPRINGS",
+		"State" : "MS",
+		"Latitude" : "+30.441072"
+	},
+	{
+		"Longitude" : "-088.489379",
+		"Zipcode" : "39567",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PASCAGOULA",
+		"State" : "MS",
+		"Latitude" : "+30.534162"
+	},
+	{
+		"Longitude" : "-088.634482",
+		"Zipcode" : "39568",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PASCAGOULA",
+		"State" : "MS",
+		"Latitude" : "+30.441072"
+	},
+	{
+		"Longitude" : "-088.634482",
+		"Zipcode" : "39569",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PASCAGOULA",
+		"State" : "MS",
+		"Latitude" : "+30.441072"
+	},
+	{
+		"Longitude" : "-089.264327",
+		"Zipcode" : "39571",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "PASS CHRISTIAN",
+		"State" : "MS",
+		"Latitude" : "+30.426162"
+	},
+	{
+		"Longitude" : "-089.520472",
+		"Zipcode" : "39572",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "PEARLINGTON",
+		"State" : "MS",
+		"Latitude" : "+30.249299"
+	},
+	{
+		"Longitude" : "-089.112944",
+		"Zipcode" : "39573",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "PERKINSTON",
+		"State" : "MS",
+		"Latitude" : "+30.773109"
+	},
+	{
+		"Longitude" : "-089.112683",
+		"Zipcode" : "39574",
+		"ZipClass" : "STANDARD",
+		"County" : "HARRISON",
+		"City" : "SAUCIER",
+		"State" : "MS",
+		"Latitude" : "+30.599773"
+	},
+	{
+		"Longitude" : "-089.371231",
+		"Zipcode" : "39576",
+		"ZipClass" : "STANDARD",
+		"County" : "HANCOCK",
+		"City" : "WAVELAND",
+		"State" : "MS",
+		"Latitude" : "+30.285046"
+	},
+	{
+		"Longitude" : "-089.086992",
+		"Zipcode" : "39577",
+		"ZipClass" : "STANDARD",
+		"County" : "STONE",
+		"City" : "WIGGINS",
+		"State" : "MS",
+		"Latitude" : "+30.847778"
+	},
+	{
+		"Longitude" : "-088.621046",
+		"Zipcode" : "39581",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PASCAGOULA",
+		"State" : "MS",
+		"Latitude" : "+30.539159"
+	},
+	{
+		"Longitude" : "-088.634482",
+		"Zipcode" : "39595",
+		"ZipClass" : "UNIQUE",
+		"County" : "JACKSON",
+		"City" : "PASCAGOULA",
+		"State" : "MS",
+		"Latitude" : "+30.441072"
+	},
+	{
+		"Longitude" : "-090.460786",
+		"Zipcode" : "39601",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BROOKHAVEN",
+		"State" : "MS",
+		"Latitude" : "+31.521489"
+	},
+	{
+		"Longitude" : "-090.490661",
+		"Zipcode" : "39602",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BROOKHAVEN",
+		"State" : "MS",
+		"Latitude" : "+31.533354"
+	},
+	{
+		"Longitude" : "-090.446702",
+		"Zipcode" : "39603",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BROOKHAVEN",
+		"State" : "MS",
+		"Latitude" : "+31.612287"
+	},
+	{
+		"Longitude" : "-090.457870",
+		"Zipcode" : "39629",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BOGUE CHITTO",
+		"State" : "MS",
+		"Latitude" : "+31.447124"
+	},
+	{
+		"Longitude" : "-090.895386",
+		"Zipcode" : "39630",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "BUDE",
+		"State" : "MS",
+		"Latitude" : "+31.465718"
+	},
+	{
+		"Longitude" : "-091.175079",
+		"Zipcode" : "39631",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKINSON",
+		"City" : "CENTREVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.134359"
+	},
+	{
+		"Longitude" : "-090.487486",
+		"Zipcode" : "39632",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "CHATAWA",
+		"State" : "MS",
+		"Latitude" : "+31.114483"
+	},
+	{
+		"Longitude" : "-090.885075",
+		"Zipcode" : "39633",
+		"ZipClass" : "STANDARD",
+		"County" : "AMITE",
+		"City" : "CROSBY",
+		"State" : "MS",
+		"Latitude" : "+31.247847"
+	},
+	{
+		"Longitude" : "-090.427966",
+		"Zipcode" : "39635",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PIKE",
+		"City" : "FERNWOOD",
+		"State" : "MS",
+		"Latitude" : "+31.185370"
+	},
+	{
+		"Longitude" : "-090.916006",
+		"Zipcode" : "39638",
+		"ZipClass" : "STANDARD",
+		"County" : "AMITE",
+		"City" : "GLOSTER",
+		"State" : "MS",
+		"Latitude" : "+31.199644"
+	},
+	{
+		"Longitude" : "-090.142429",
+		"Zipcode" : "39641",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "JAYESS",
+		"State" : "MS",
+		"Latitude" : "+31.409296"
+	},
+	{
+		"Longitude" : "-089.978849",
+		"Zipcode" : "39643",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "KOKOMO",
+		"State" : "MS",
+		"Latitude" : "+31.243549"
+	},
+	{
+		"Longitude" : "-090.803528",
+		"Zipcode" : "39645",
+		"ZipClass" : "STANDARD",
+		"County" : "AMITE",
+		"City" : "LIBERTY",
+		"State" : "MS",
+		"Latitude" : "+31.174270"
+	},
+	{
+		"Longitude" : "-090.895386",
+		"Zipcode" : "39647",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "MC CALL CREEK",
+		"State" : "MS",
+		"Latitude" : "+31.465718"
+	},
+	{
+		"Longitude" : "-090.401560",
+		"Zipcode" : "39648",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MCCOMB",
+		"State" : "MS",
+		"Latitude" : "+31.176900"
+	},
+	{
+		"Longitude" : "-090.403987",
+		"Zipcode" : "39649",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MCCOMB",
+		"State" : "MS",
+		"Latitude" : "+31.174940"
+	},
+	{
+		"Longitude" : "-090.403989",
+		"Zipcode" : "39652",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "MAGNOLIA",
+		"State" : "MS",
+		"Latitude" : "+31.143395"
+	},
+	{
+		"Longitude" : "-090.891482",
+		"Zipcode" : "39653",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "MEADVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.469888"
+	},
+	{
+		"Longitude" : "-090.161012",
+		"Zipcode" : "39654",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "MONTICELLO",
+		"State" : "MS",
+		"Latitude" : "+31.540111"
+	},
+	{
+		"Longitude" : "-090.036767",
+		"Zipcode" : "39656",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "OAK VALE",
+		"State" : "MS",
+		"Latitude" : "+31.482250"
+	},
+	{
+		"Longitude" : "-090.403651",
+		"Zipcode" : "39657",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "OSYKA",
+		"State" : "MS",
+		"Latitude" : "+31.043653"
+	},
+	{
+		"Longitude" : "-091.069486",
+		"Zipcode" : "39661",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ROXIE",
+		"State" : "MS",
+		"Latitude" : "+31.501150"
+	},
+	{
+		"Longitude" : "-090.291051",
+		"Zipcode" : "39662",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "RUTH",
+		"State" : "MS",
+		"Latitude" : "+31.409907"
+	},
+	{
+		"Longitude" : "-090.044711",
+		"Zipcode" : "39663",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SILVER CREEK",
+		"State" : "MS",
+		"Latitude" : "+31.594604"
+	},
+	{
+		"Longitude" : "-090.670185",
+		"Zipcode" : "39664",
+		"ZipClass" : "STANDARD",
+		"County" : "AMITE",
+		"City" : "SMITHDALE",
+		"State" : "MS",
+		"Latitude" : "+31.268945"
+	},
+	{
+		"Longitude" : "-090.189547",
+		"Zipcode" : "39665",
+		"ZipClass" : "STANDARD",
+		"County" : "LAWRENCE",
+		"City" : "SONTAG",
+		"State" : "MS",
+		"Latitude" : "+31.640256"
+	},
+	{
+		"Longitude" : "-090.404555",
+		"Zipcode" : "39666",
+		"ZipClass" : "STANDARD",
+		"County" : "PIKE",
+		"City" : "SUMMIT",
+		"State" : "MS",
+		"Latitude" : "+31.258892"
+	},
+	{
+		"Longitude" : "-090.090824",
+		"Zipcode" : "39667",
+		"ZipClass" : "STANDARD",
+		"County" : "WALTHALL",
+		"City" : "TYLERTOWN",
+		"State" : "MS",
+		"Latitude" : "+31.175558"
+	},
+	{
+		"Longitude" : "-090.746168",
+		"Zipcode" : "39668",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "UNION CHURCH",
+		"State" : "MS",
+		"Latitude" : "+31.714577"
+	},
+	{
+		"Longitude" : "-091.324666",
+		"Zipcode" : "39669",
+		"ZipClass" : "STANDARD",
+		"County" : "WILKINSON",
+		"City" : "WOODVILLE",
+		"State" : "MS",
+		"Latitude" : "+31.175443"
+	},
+	{
+		"Longitude" : "-088.461318",
+		"Zipcode" : "39701",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "COLUMBUS",
+		"State" : "MS",
+		"Latitude" : "+33.516258"
+	},
+	{
+		"Longitude" : "-088.460218",
+		"Zipcode" : "39702",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "COLUMBUS",
+		"State" : "MS",
+		"Latitude" : "+33.429569"
+	},
+	{
+		"Longitude" : "-088.283998",
+		"Zipcode" : "39703",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "COLUMBUS",
+		"State" : "MS",
+		"Latitude" : "+33.484147"
+	},
+	{
+		"Longitude" : "-088.379614",
+		"Zipcode" : "39704",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "COLUMBUS",
+		"State" : "MS",
+		"Latitude" : "+33.548523"
+	},
+	{
+		"Longitude" : "-088.486521",
+		"Zipcode" : "39705",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "COLUMBUS",
+		"State" : "MS",
+		"Latitude" : "+33.550752"
+	},
+	{
+		"Longitude" : "-088.460083",
+		"Zipcode" : "39710",
+		"ZipClass" : "UNIQUE",
+		"County" : "LOWNDES",
+		"City" : "COLUMBUS",
+		"State" : "MS",
+		"Latitude" : "+33.516330"
+	},
+	{
+		"Longitude" : "-088.514694",
+		"Zipcode" : "39730",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "ABERDEEN",
+		"State" : "MS",
+		"Latitude" : "+33.847638"
+	},
+	{
+		"Longitude" : "-089.191298",
+		"Zipcode" : "39735",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "ACKERMAN",
+		"State" : "MS",
+		"Latitude" : "+33.278252"
+	},
+	{
+		"Longitude" : "-088.644261",
+		"Zipcode" : "39736",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOWNDES",
+		"City" : "ARTESIA",
+		"State" : "MS",
+		"Latitude" : "+33.411531"
+	},
+	{
+		"Longitude" : "-089.334234",
+		"Zipcode" : "39737",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "BELLEFONTAINE",
+		"State" : "MS",
+		"Latitude" : "+33.648956"
+	},
+	{
+		"Longitude" : "-088.482218",
+		"Zipcode" : "39739",
+		"ZipClass" : "STANDARD",
+		"County" : "NOXUBEE",
+		"City" : "BROOKSVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.220204"
+	},
+	{
+		"Longitude" : "-088.271904",
+		"Zipcode" : "39740",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "CALEDONIA",
+		"State" : "MS",
+		"Latitude" : "+33.815230"
+	},
+	{
+		"Longitude" : "-088.753976",
+		"Zipcode" : "39741",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CEDARBLUFF",
+		"State" : "MS",
+		"Latitude" : "+33.659271"
+	},
+	{
+		"Longitude" : "-088.556056",
+		"Zipcode" : "39743",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "CRAWFORD",
+		"State" : "MS",
+		"Latitude" : "+33.334688"
+	},
+	{
+		"Longitude" : "-089.290417",
+		"Zipcode" : "39744",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "EUPORA",
+		"State" : "MS",
+		"Latitude" : "+33.549384"
+	},
+	{
+		"Longitude" : "-089.399875",
+		"Zipcode" : "39745",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "FRENCH CAMP",
+		"State" : "MS",
+		"Latitude" : "+33.289753"
+	},
+	{
+		"Longitude" : "-088.358784",
+		"Zipcode" : "39746",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "HAMILTON",
+		"State" : "MS",
+		"Latitude" : "+33.778926"
+	},
+	{
+		"Longitude" : "-089.585663",
+		"Zipcode" : "39747",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "KILMICHAEL",
+		"State" : "MS",
+		"Latitude" : "+33.434600"
+	},
+	{
+		"Longitude" : "-089.262792",
+		"Zipcode" : "39750",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "MABEN",
+		"State" : "MS",
+		"Latitude" : "+33.599618"
+	},
+	{
+		"Longitude" : "-089.323857",
+		"Zipcode" : "39751",
+		"ZipClass" : "STANDARD",
+		"County" : "CALHOUN",
+		"City" : "MANTEE",
+		"State" : "MS",
+		"Latitude" : "+33.941850"
+	},
+	{
+		"Longitude" : "-089.130294",
+		"Zipcode" : "39752",
+		"ZipClass" : "STANDARD",
+		"County" : "WEBSTER",
+		"City" : "MATHISTON",
+		"State" : "MS",
+		"Latitude" : "+33.540161"
+	},
+	{
+		"Longitude" : "-088.640881",
+		"Zipcode" : "39753",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LOWNDES",
+		"City" : "MAYHEW",
+		"State" : "MS",
+		"Latitude" : "+33.483814"
+	},
+	{
+		"Longitude" : "-088.753976",
+		"Zipcode" : "39754",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MONTPELIER",
+		"State" : "MS",
+		"Latitude" : "+33.659271"
+	},
+	{
+		"Longitude" : "-088.753976",
+		"Zipcode" : "39755",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "PHEBA",
+		"State" : "MS",
+		"Latitude" : "+33.659271"
+	},
+	{
+		"Longitude" : "-088.664183",
+		"Zipcode" : "39756",
+		"ZipClass" : "STANDARD",
+		"County" : "MONROE",
+		"City" : "PRAIRIE",
+		"State" : "MS",
+		"Latitude" : "+33.783578"
+	},
+	{
+		"Longitude" : "-088.879117",
+		"Zipcode" : "39759",
+		"ZipClass" : "STANDARD",
+		"County" : "OKTIBBEHA",
+		"City" : "STARKVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.425540"
+	},
+	{
+		"Longitude" : "-088.832163",
+		"Zipcode" : "39760",
+		"ZipClass" : "STANDARD",
+		"County" : "OKTIBBEHA",
+		"City" : "STARKVILLE",
+		"State" : "MS",
+		"Latitude" : "+33.459924"
+	},
+	{
+		"Longitude" : "-088.743329",
+		"Zipcode" : "39762",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "OKTIBBEHA",
+		"City" : "MISSISSIPPI STATE",
+		"State" : "MS",
+		"Latitude" : "+33.415601"
+	},
+	{
+		"Longitude" : "-088.321007",
+		"Zipcode" : "39766",
+		"ZipClass" : "STANDARD",
+		"County" : "LOWNDES",
+		"City" : "STEENS",
+		"State" : "MS",
+		"Latitude" : "+33.603342"
+	},
+	{
+		"Longitude" : "-089.467862",
+		"Zipcode" : "39767",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "STEWART",
+		"State" : "MS",
+		"Latitude" : "+33.518048"
+	},
+	{
+		"Longitude" : "-088.993677",
+		"Zipcode" : "39769",
+		"ZipClass" : "STANDARD",
+		"County" : "OKTIBBEHA",
+		"City" : "STURGIS",
+		"State" : "MS",
+		"Latitude" : "+33.405675"
+	},
+	{
+		"Longitude" : "-089.298621",
+		"Zipcode" : "39771",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WEBSTER",
+		"City" : "WALTHALL",
+		"State" : "MS",
+		"Latitude" : "+33.595758"
+	},
+	{
+		"Longitude" : "-089.271149",
+		"Zipcode" : "39772",
+		"ZipClass" : "STANDARD",
+		"County" : "CHOCTAW",
+		"City" : "WEIR",
+		"State" : "MS",
+		"Latitude" : "+33.321036"
+	},
+	{
+		"Longitude" : "-088.609136",
+		"Zipcode" : "39773",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "WEST POINT",
+		"State" : "MS",
+		"Latitude" : "+33.621135"
+	},
+	{
+		"Longitude" : "-089.060746",
+		"Zipcode" : "39776",
+		"ZipClass" : "STANDARD",
+		"County" : "CHICKASAW",
+		"City" : "WOODLAND",
+		"State" : "MS",
+		"Latitude" : "+33.804808"
+	}
+]}
+)

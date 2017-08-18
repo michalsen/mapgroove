@@ -1,0 +1,21 @@
+{
+	"result":[
+	{
+		"Longitude" : "+166.410291",
+		"Zipcode" : "96960",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARSHALL ISLANDS",
+		"City" : "MAJURO",
+		"State" : "MH",
+		"Latitude" : "+11.140496"
+	},
+	{
+		"Longitude" : "+166.410291",
+		"Zipcode" : "96970",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARSHALL ISLANDS",
+		"City" : "EBEYE",
+		"State" : "MH",
+		"Latitude" : "+11.140496"
+	}
+]}

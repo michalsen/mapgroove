@@ -1,0 +1,4368 @@
+({
+	"result":[
+	{
+		"Longitude" : "-121.088513",
+		"Zipcode" : "97001",
+		"ZipClass" : "STANDARD",
+		"County" : "WASCO",
+		"City" : "ANTELOPE",
+		"State" : "OR",
+		"Latitude" : "+45.263301"
+	},
+	{
+		"Longitude" : "-122.819800",
+		"Zipcode" : "97002",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "AURORA",
+		"State" : "OR",
+		"Latitude" : "+45.224241"
+	},
+	{
+		"Longitude" : "-122.468991",
+		"Zipcode" : "97004",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "BEAVERCREEK",
+		"State" : "OR",
+		"Latitude" : "+45.247636"
+	},
+	{
+		"Longitude" : "-122.800146",
+		"Zipcode" : "97005",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BEAVERTON",
+		"State" : "OR",
+		"Latitude" : "+45.496289"
+	},
+	{
+		"Longitude" : "-122.860376",
+		"Zipcode" : "97006",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BEAVERTON",
+		"State" : "OR",
+		"Latitude" : "+45.520130"
+	},
+	{
+		"Longitude" : "-122.865171",
+		"Zipcode" : "97007",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BEAVERTON",
+		"State" : "OR",
+		"Latitude" : "+45.450489"
+	},
+	{
+		"Longitude" : "-122.799559",
+		"Zipcode" : "97008",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BEAVERTON",
+		"State" : "OR",
+		"Latitude" : "+45.456020"
+	},
+	{
+		"Longitude" : "-122.376420",
+		"Zipcode" : "97009",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "BORING",
+		"State" : "OR",
+		"Latitude" : "+45.411842"
+	},
+	{
+		"Longitude" : "-122.101103",
+		"Zipcode" : "97010",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MULTNOMAH",
+		"City" : "BRIDAL VEIL",
+		"State" : "OR",
+		"Latitude" : "+45.582981"
+	},
+	{
+		"Longitude" : "-121.998736",
+		"Zipcode" : "97011",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "BRIGHTWOOD",
+		"State" : "OR",
+		"Latitude" : "+45.359095"
+	},
+	{
+		"Longitude" : "-122.661593",
+		"Zipcode" : "97013",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "CANBY",
+		"State" : "OR",
+		"Latitude" : "+45.214288"
+	},
+	{
+		"Longitude" : "-121.868565",
+		"Zipcode" : "97014",
+		"ZipClass" : "STANDARD",
+		"County" : "HOOD RIVER",
+		"City" : "CASCADE LOCKS",
+		"State" : "OR",
+		"Latitude" : "+45.671017"
+	},
+	{
+		"Longitude" : "-122.499461",
+		"Zipcode" : "97015",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "CLACKAMAS",
+		"State" : "OR",
+		"Latitude" : "+45.415038"
+	},
+	{
+		"Longitude" : "-123.205886",
+		"Zipcode" : "97016",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "CLATSKANIE",
+		"State" : "OR",
+		"Latitude" : "+46.066499"
+	},
+	{
+		"Longitude" : "-122.397774",
+		"Zipcode" : "97017",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "COLTON",
+		"State" : "OR",
+		"Latitude" : "+45.188700"
+	},
+	{
+		"Longitude" : "-122.814191",
+		"Zipcode" : "97018",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "COLUMBIA CITY",
+		"State" : "OR",
+		"Latitude" : "+45.892304"
+	},
+	{
+		"Longitude" : "-122.229299",
+		"Zipcode" : "97019",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "CORBETT",
+		"State" : "OR",
+		"Latitude" : "+45.518270"
+	},
+	{
+		"Longitude" : "-122.840536",
+		"Zipcode" : "97020",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "DONALD",
+		"State" : "OR",
+		"Latitude" : "+45.219924"
+	},
+	{
+		"Longitude" : "-121.143152",
+		"Zipcode" : "97021",
+		"ZipClass" : "STANDARD",
+		"County" : "WASCO",
+		"City" : "DUFUR",
+		"State" : "OR",
+		"Latitude" : "+45.391278"
+	},
+	{
+		"Longitude" : "-122.312496",
+		"Zipcode" : "97022",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "EAGLE CREEK",
+		"State" : "OR",
+		"Latitude" : "+45.346076"
+	},
+	{
+		"Longitude" : "-122.247547",
+		"Zipcode" : "97023",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "ESTACADA",
+		"State" : "OR",
+		"Latitude" : "+45.226738"
+	},
+	{
+		"Longitude" : "-122.536360",
+		"Zipcode" : "97024",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "FAIRVIEW",
+		"State" : "OR",
+		"Latitude" : "+45.544407"
+	},
+	{
+		"Longitude" : "-122.935106",
+		"Zipcode" : "97026",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "GERVAIS",
+		"State" : "OR",
+		"Latitude" : "+45.120045"
+	},
+	{
+		"Longitude" : "-122.593220",
+		"Zipcode" : "97027",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "GLADSTONE",
+		"State" : "OR",
+		"Latitude" : "+45.390442"
+	},
+	{
+		"Longitude" : "-121.739004",
+		"Zipcode" : "97028",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "GOVERNMENT CAMP",
+		"State" : "OR",
+		"Latitude" : "+45.297173"
+	},
+	{
+		"Longitude" : "-120.797313",
+		"Zipcode" : "97029",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "GRASS VALLEY",
+		"State" : "OR",
+		"Latitude" : "+45.306543"
+	},
+	{
+		"Longitude" : "-122.430233",
+		"Zipcode" : "97030",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "GRESHAM",
+		"State" : "OR",
+		"Latitude" : "+45.508117"
+	},
+	{
+		"Longitude" : "-121.677126",
+		"Zipcode" : "97031",
+		"ZipClass" : "STANDARD",
+		"County" : "HOOD RIVER",
+		"City" : "HOOD RIVER",
+		"State" : "OR",
+		"Latitude" : "+45.638312"
+	},
+	{
+		"Longitude" : "-122.812012",
+		"Zipcode" : "97032",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "HUBBARD",
+		"State" : "OR",
+		"Latitude" : "+45.196900"
+	},
+	{
+		"Longitude" : "-120.626298",
+		"Zipcode" : "97033",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHERMAN",
+		"City" : "KENT",
+		"State" : "OR",
+		"Latitude" : "+45.237277"
+	},
+	{
+		"Longitude" : "-122.691388",
+		"Zipcode" : "97034",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "LAKE OSWEGO",
+		"State" : "OR",
+		"Latitude" : "+45.408374"
+	},
+	{
+		"Longitude" : "-122.723058",
+		"Zipcode" : "97035",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "LAKE OSWEGO",
+		"State" : "OR",
+		"Latitude" : "+45.408077"
+	},
+	{
+		"Longitude" : "-122.259861",
+		"Zipcode" : "97036",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLACKAMAS",
+		"City" : "MARYLHURST",
+		"State" : "OR",
+		"Latitude" : "+45.173284"
+	},
+	{
+		"Longitude" : "-121.338132",
+		"Zipcode" : "97037",
+		"ZipClass" : "STANDARD",
+		"County" : "WASCO",
+		"City" : "MAUPIN",
+		"State" : "OR",
+		"Latitude" : "+45.155868"
+	},
+	{
+		"Longitude" : "-122.565028",
+		"Zipcode" : "97038",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "MOLALLA",
+		"State" : "OR",
+		"Latitude" : "+45.078408"
+	},
+	{
+		"Longitude" : "-120.684499",
+		"Zipcode" : "97039",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "MORO",
+		"State" : "OR",
+		"Latitude" : "+45.502564"
+	},
+	{
+		"Longitude" : "-121.379020",
+		"Zipcode" : "97040",
+		"ZipClass" : "STANDARD",
+		"County" : "WASCO",
+		"City" : "MOSIER",
+		"State" : "OR",
+		"Latitude" : "+45.650790"
+	},
+	{
+		"Longitude" : "-121.598308",
+		"Zipcode" : "97041",
+		"ZipClass" : "STANDARD",
+		"County" : "HOOD RIVER",
+		"City" : "MOUNT HOOD PARKDALE",
+		"State" : "OR",
+		"Latitude" : "+45.492879"
+	},
+	{
+		"Longitude" : "-122.537939",
+		"Zipcode" : "97042",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "MULINO",
+		"State" : "OR",
+		"Latitude" : "+45.201439"
+	},
+	{
+		"Longitude" : "-121.536658",
+		"Zipcode" : "97044",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HOOD RIVER",
+		"City" : "ODELL",
+		"State" : "OR",
+		"Latitude" : "+45.643738"
+	},
+	{
+		"Longitude" : "-122.523602",
+		"Zipcode" : "97045",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "OREGON CITY",
+		"State" : "OR",
+		"Latitude" : "+45.317893"
+	},
+	{
+		"Longitude" : "-122.972651",
+		"Zipcode" : "97048",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "RAINIER",
+		"State" : "OR",
+		"Latitude" : "+46.038342"
+	},
+	{
+		"Longitude" : "-121.915134",
+		"Zipcode" : "97049",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "RHODODENDRON",
+		"State" : "OR",
+		"Latitude" : "+45.346537"
+	},
+	{
+		"Longitude" : "-120.764130",
+		"Zipcode" : "97050",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHERMAN",
+		"City" : "RUFUS",
+		"State" : "OR",
+		"Latitude" : "+45.647067"
+	},
+	{
+		"Longitude" : "-122.919935",
+		"Zipcode" : "97051",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "SAINT HELENS",
+		"State" : "OR",
+		"Latitude" : "+45.887794"
+	},
+	{
+		"Longitude" : "-122.874601",
+		"Zipcode" : "97053",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "WARREN",
+		"State" : "OR",
+		"Latitude" : "+45.824213"
+	},
+	{
+		"Longitude" : "-122.919248",
+		"Zipcode" : "97054",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "DEER ISLAND",
+		"State" : "OR",
+		"Latitude" : "+45.942286"
+	},
+	{
+		"Longitude" : "-122.172544",
+		"Zipcode" : "97055",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "SANDY",
+		"State" : "OR",
+		"Latitude" : "+45.388551"
+	},
+	{
+		"Longitude" : "-122.974184",
+		"Zipcode" : "97056",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "SCAPPOOSE",
+		"State" : "OR",
+		"Latitude" : "+45.811578"
+	},
+	{
+		"Longitude" : "-121.088513",
+		"Zipcode" : "97057",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WASCO",
+		"City" : "SHANIKO",
+		"State" : "OR",
+		"Latitude" : "+45.263301"
+	},
+	{
+		"Longitude" : "-121.187030",
+		"Zipcode" : "97058",
+		"ZipClass" : "STANDARD",
+		"County" : "WASCO",
+		"City" : "THE DALLES",
+		"State" : "OR",
+		"Latitude" : "+45.554978"
+	},
+	{
+		"Longitude" : "-122.390049",
+		"Zipcode" : "97060",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "TROUTDALE",
+		"State" : "OR",
+		"Latitude" : "+45.525007"
+	},
+	{
+		"Longitude" : "-122.783887",
+		"Zipcode" : "97062",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "TUALATIN",
+		"State" : "OR",
+		"Latitude" : "+45.366608"
+	},
+	{
+		"Longitude" : "-121.233727",
+		"Zipcode" : "97063",
+		"ZipClass" : "STANDARD",
+		"County" : "WASCO",
+		"City" : "TYGH VALLEY",
+		"State" : "OR",
+		"Latitude" : "+45.297105"
+	},
+	{
+		"Longitude" : "-123.209056",
+		"Zipcode" : "97064",
+		"ZipClass" : "STANDARD",
+		"County" : "COLUMBIA",
+		"City" : "VERNONIA",
+		"State" : "OR",
+		"Latitude" : "+45.888246"
+	},
+	{
+		"Longitude" : "-120.710276",
+		"Zipcode" : "97065",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "WASCO",
+		"State" : "OR",
+		"Latitude" : "+45.403298"
+	},
+	{
+		"Longitude" : "-121.973561",
+		"Zipcode" : "97067",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "WELCHES",
+		"State" : "OR",
+		"Latitude" : "+45.327305"
+	},
+	{
+		"Longitude" : "-122.664926",
+		"Zipcode" : "97068",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "WEST LINN",
+		"State" : "OR",
+		"Latitude" : "+45.343615"
+	},
+	{
+		"Longitude" : "-122.785518",
+		"Zipcode" : "97070",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "WILSONVILLE",
+		"State" : "OR",
+		"Latitude" : "+45.308493"
+	},
+	{
+		"Longitude" : "-122.876205",
+		"Zipcode" : "97071",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "WOODBURN",
+		"State" : "OR",
+		"Latitude" : "+45.148007"
+	},
+	{
+		"Longitude" : "-123.114725",
+		"Zipcode" : "97075",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BEAVERTON",
+		"State" : "OR",
+		"Latitude" : "+45.548616"
+	},
+	{
+		"Longitude" : "-123.114725",
+		"Zipcode" : "97076",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BEAVERTON",
+		"State" : "OR",
+		"Latitude" : "+45.548616"
+	},
+	{
+		"Longitude" : "-123.114725",
+		"Zipcode" : "97077",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "BEAVERTON",
+		"State" : "OR",
+		"Latitude" : "+45.548616"
+	},
+	{
+		"Longitude" : "-122.789257",
+		"Zipcode" : "97078",
+		"ZipClass" : "UNIQUE",
+		"County" : "WASHINGTON",
+		"City" : "BEAVERTON",
+		"State" : "OR",
+		"Latitude" : "+45.451976"
+	},
+	{
+		"Longitude" : "-122.386750",
+		"Zipcode" : "97080",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "GRESHAM",
+		"State" : "OR",
+		"Latitude" : "+45.481252"
+	},
+	{
+		"Longitude" : "-123.191368",
+		"Zipcode" : "97101",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "AMITY",
+		"State" : "OR",
+		"Latitude" : "+45.121454"
+	},
+	{
+		"Longitude" : "-123.962989",
+		"Zipcode" : "97102",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLATSOP",
+		"City" : "ARCH CAPE",
+		"State" : "OR",
+		"Latitude" : "+45.810934"
+	},
+	{
+		"Longitude" : "-123.795996",
+		"Zipcode" : "97103",
+		"ZipClass" : "STANDARD",
+		"County" : "CLATSOP",
+		"City" : "ASTORIA",
+		"State" : "OR",
+		"Latitude" : "+46.142206"
+	},
+	{
+		"Longitude" : "-123.138952",
+		"Zipcode" : "97106",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BANKS",
+		"State" : "OR",
+		"Latitude" : "+45.594526"
+	},
+	{
+		"Longitude" : "-123.894297",
+		"Zipcode" : "97107",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "BAY CITY",
+		"State" : "OR",
+		"Latitude" : "+45.609399"
+	},
+	{
+		"Longitude" : "-123.746717",
+		"Zipcode" : "97108",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "BEAVER",
+		"State" : "OR",
+		"Latitude" : "+45.278621"
+	},
+	{
+		"Longitude" : "-123.177864",
+		"Zipcode" : "97109",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BUXTON",
+		"State" : "OR",
+		"Latitude" : "+45.728555"
+	},
+	{
+		"Longitude" : "-123.931458",
+		"Zipcode" : "97110",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLATSOP",
+		"City" : "CANNON BEACH",
+		"State" : "OR",
+		"Latitude" : "+45.946617"
+	},
+	{
+		"Longitude" : "-123.218624",
+		"Zipcode" : "97111",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "CARLTON",
+		"State" : "OR",
+		"Latitude" : "+45.282393"
+	},
+	{
+		"Longitude" : "-123.876339",
+		"Zipcode" : "97112",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "CLOVERDALE",
+		"State" : "OR",
+		"Latitude" : "+45.216360"
+	},
+	{
+		"Longitude" : "-122.920629",
+		"Zipcode" : "97113",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CORNELIUS",
+		"State" : "OR",
+		"Latitude" : "+45.600635"
+	},
+	{
+		"Longitude" : "-123.077797",
+		"Zipcode" : "97114",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "DAYTON",
+		"State" : "OR",
+		"Latitude" : "+45.187141"
+	},
+	{
+		"Longitude" : "-123.020670",
+		"Zipcode" : "97115",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "DUNDEE",
+		"State" : "OR",
+		"Latitude" : "+45.272370"
+	},
+	{
+		"Longitude" : "-123.181800",
+		"Zipcode" : "97116",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "FOREST GROVE",
+		"State" : "OR",
+		"Latitude" : "+45.598052"
+	},
+	{
+		"Longitude" : "-123.269580",
+		"Zipcode" : "97117",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GALES CREEK",
+		"State" : "OR",
+		"Latitude" : "+45.604204"
+	},
+	{
+		"Longitude" : "-123.900072",
+		"Zipcode" : "97118",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TILLAMOOK",
+		"City" : "GARIBALDI",
+		"State" : "OR",
+		"Latitude" : "+45.562572"
+	},
+	{
+		"Longitude" : "-123.149974",
+		"Zipcode" : "97119",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GASTON",
+		"State" : "OR",
+		"Latitude" : "+45.466171"
+	},
+	{
+		"Longitude" : "-123.951350",
+		"Zipcode" : "97121",
+		"ZipClass" : "STANDARD",
+		"County" : "CLATSOP",
+		"City" : "HAMMOND",
+		"State" : "OR",
+		"Latitude" : "+46.182894"
+	},
+	{
+		"Longitude" : "-123.846000",
+		"Zipcode" : "97122",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "HEBO",
+		"State" : "OR",
+		"Latitude" : "+45.176795"
+	},
+	{
+		"Longitude" : "-122.977963",
+		"Zipcode" : "97123",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HILLSBORO",
+		"State" : "OR",
+		"Latitude" : "+45.458397"
+	},
+	{
+		"Longitude" : "-122.953316",
+		"Zipcode" : "97124",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HILLSBORO",
+		"State" : "OR",
+		"Latitude" : "+45.623370"
+	},
+	{
+		"Longitude" : "-123.191739",
+		"Zipcode" : "97125",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MANNING",
+		"State" : "OR",
+		"Latitude" : "+45.659193"
+	},
+	{
+		"Longitude" : "-123.110948",
+		"Zipcode" : "97127",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "LAFAYETTE",
+		"State" : "OR",
+		"Latitude" : "+45.232882"
+	},
+	{
+		"Longitude" : "-123.237145",
+		"Zipcode" : "97128",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "MCMINNVILLE",
+		"State" : "OR",
+		"Latitude" : "+45.187444"
+	},
+	{
+		"Longitude" : "-123.923108",
+		"Zipcode" : "97130",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TILLAMOOK",
+		"City" : "MANZANITA",
+		"State" : "OR",
+		"Latitude" : "+45.736552"
+	},
+	{
+		"Longitude" : "-123.853529",
+		"Zipcode" : "97131",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "NEHALEM",
+		"State" : "OR",
+		"Latitude" : "+45.651933"
+	},
+	{
+		"Longitude" : "-122.981045",
+		"Zipcode" : "97132",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "NEWBERG",
+		"State" : "OR",
+		"Latitude" : "+45.329475"
+	},
+	{
+		"Longitude" : "-123.028124",
+		"Zipcode" : "97133",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "NORTH PLAINS",
+		"State" : "OR",
+		"Latitude" : "+45.668573"
+	},
+	{
+		"Longitude" : "-123.965029",
+		"Zipcode" : "97134",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TILLAMOOK",
+		"City" : "OCEANSIDE",
+		"State" : "OR",
+		"Latitude" : "+45.454855"
+	},
+	{
+		"Longitude" : "-123.958970",
+		"Zipcode" : "97135",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TILLAMOOK",
+		"City" : "PACIFIC CITY",
+		"State" : "OR",
+		"Latitude" : "+45.204976"
+	},
+	{
+		"Longitude" : "-123.913048",
+		"Zipcode" : "97136",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "ROCKAWAY BEACH",
+		"State" : "OR",
+		"Latitude" : "+45.635205"
+	},
+	{
+		"Longitude" : "-122.948636",
+		"Zipcode" : "97137",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SAINT PAUL",
+		"State" : "OR",
+		"Latitude" : "+45.208263"
+	},
+	{
+		"Longitude" : "-123.857394",
+		"Zipcode" : "97138",
+		"ZipClass" : "STANDARD",
+		"County" : "CLATSOP",
+		"City" : "SEASIDE",
+		"State" : "OR",
+		"Latitude" : "+45.976770"
+	},
+	{
+		"Longitude" : "-122.874613",
+		"Zipcode" : "97140",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "SHERWOOD",
+		"State" : "OR",
+		"Latitude" : "+45.371478"
+	},
+	{
+		"Longitude" : "-123.740874",
+		"Zipcode" : "97141",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "TILLAMOOK",
+		"State" : "OR",
+		"Latitude" : "+45.461952"
+	},
+	{
+		"Longitude" : "-123.945785",
+		"Zipcode" : "97143",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "NETARTS",
+		"State" : "OR",
+		"Latitude" : "+45.434049"
+	},
+	{
+		"Longitude" : "-123.299311",
+		"Zipcode" : "97144",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "TIMBER",
+		"State" : "OR",
+		"Latitude" : "+45.740988"
+	},
+	{
+		"Longitude" : "-123.959518",
+		"Zipcode" : "97145",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLATSOP",
+		"City" : "TOLOVANA PARK",
+		"State" : "OR",
+		"Latitude" : "+45.866346"
+	},
+	{
+		"Longitude" : "-123.905174",
+		"Zipcode" : "97146",
+		"ZipClass" : "STANDARD",
+		"County" : "CLATSOP",
+		"City" : "WARRENTON",
+		"State" : "OR",
+		"Latitude" : "+46.125267"
+	},
+	{
+		"Longitude" : "-123.916076",
+		"Zipcode" : "97147",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TILLAMOOK",
+		"City" : "WHEELER",
+		"State" : "OR",
+		"Latitude" : "+45.397283"
+	},
+	{
+		"Longitude" : "-123.234840",
+		"Zipcode" : "97148",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "YAMHILL",
+		"State" : "OR",
+		"Latitude" : "+45.351892"
+	},
+	{
+		"Longitude" : "-123.943418",
+		"Zipcode" : "97149",
+		"ZipClass" : "STANDARD",
+		"County" : "TILLAMOOK",
+		"City" : "NESKOWIN",
+		"State" : "OR",
+		"Latitude" : "+45.097011"
+	},
+	{
+		"Longitude" : "-122.693157",
+		"Zipcode" : "97201",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.498931"
+	},
+	{
+		"Longitude" : "-122.637331",
+		"Zipcode" : "97202",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.481690"
+	},
+	{
+		"Longitude" : "-122.743737",
+		"Zipcode" : "97203",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.604838"
+	},
+	{
+		"Longitude" : "-122.675106",
+		"Zipcode" : "97204",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.518090"
+	},
+	{
+		"Longitude" : "-122.690157",
+		"Zipcode" : "97205",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.519490"
+	},
+	{
+		"Longitude" : "-122.596154",
+		"Zipcode" : "97206",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.483341"
+	},
+	{
+		"Longitude" : "-122.711117",
+		"Zipcode" : "97207",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.480324"
+	},
+	{
+		"Longitude" : "-122.564824",
+		"Zipcode" : "97208",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.532165"
+	},
+	{
+		"Longitude" : "-122.683826",
+		"Zipcode" : "97209",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.531990"
+	},
+	{
+		"Longitude" : "-122.732358",
+		"Zipcode" : "97210",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.547339"
+	},
+	{
+		"Longitude" : "-122.615906",
+		"Zipcode" : "97211",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.577289"
+	},
+	{
+		"Longitude" : "-122.643106",
+		"Zipcode" : "97212",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.543740"
+	},
+	{
+		"Longitude" : "-122.599751",
+		"Zipcode" : "97213",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.539090"
+	},
+	{
+		"Longitude" : "-122.642305",
+		"Zipcode" : "97214",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.514440"
+	},
+	{
+		"Longitude" : "-122.599104",
+		"Zipcode" : "97215",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.518940"
+	},
+	{
+		"Longitude" : "-122.558003",
+		"Zipcode" : "97216",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.515341"
+	},
+	{
+		"Longitude" : "-122.704308",
+		"Zipcode" : "97217",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.594589"
+	},
+	{
+		"Longitude" : "-122.605205",
+		"Zipcode" : "97218",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.575689"
+	},
+	{
+		"Longitude" : "-122.696724",
+		"Zipcode" : "97219",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.455090"
+	},
+	{
+		"Longitude" : "-122.556104",
+		"Zipcode" : "97220",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.556340"
+	},
+	{
+		"Longitude" : "-122.733888",
+		"Zipcode" : "97221",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.506550"
+	},
+	{
+		"Longitude" : "-122.614703",
+		"Zipcode" : "97222",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.437341"
+	},
+	{
+		"Longitude" : "-122.795294",
+		"Zipcode" : "97223",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.447390"
+	},
+	{
+		"Longitude" : "-122.801400",
+		"Zipcode" : "97224",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.409448"
+	},
+	{
+		"Longitude" : "-122.778659",
+		"Zipcode" : "97225",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.498473"
+	},
+	{
+		"Longitude" : "-122.680007",
+		"Zipcode" : "97227",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.545039"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97228",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.827561",
+		"Zipcode" : "97229",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.548317"
+	},
+	{
+		"Longitude" : "-122.500053",
+		"Zipcode" : "97230",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.547173"
+	},
+	{
+		"Longitude" : "-122.839778",
+		"Zipcode" : "97231",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.652987"
+	},
+	{
+		"Longitude" : "-122.642655",
+		"Zipcode" : "97232",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.523690"
+	},
+	{
+		"Longitude" : "-122.496052",
+		"Zipcode" : "97233",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.515121"
+	},
+	{
+		"Longitude" : "-122.504175",
+		"Zipcode" : "97236",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.484594"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97238",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97240",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97242",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97251",
+		"ZipClass" : "UNIQUE",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97253",
+		"ZipClass" : "UNIQUE",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.594180",
+		"Zipcode" : "97254",
+		"ZipClass" : "UNIQUE",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.596678"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97255",
+		"ZipClass" : "UNIQUE",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97256",
+		"ZipClass" : "UNIQUE",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97258",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97259",
+		"ZipClass" : "UNIQUE",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.557502",
+		"Zipcode" : "97266",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.482949"
+	},
+	{
+		"Longitude" : "-122.614353",
+		"Zipcode" : "97267",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.402142"
+	},
+	{
+		"Longitude" : "-122.259861",
+		"Zipcode" : "97268",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.173284"
+	},
+	{
+		"Longitude" : "-122.259861",
+		"Zipcode" : "97269",
+		"ZipClass" : "STANDARD",
+		"County" : "CLACKAMAS",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.173284"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97271",
+		"ZipClass" : "UNIQUE",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97272",
+		"ZipClass" : "UNIQUE",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97280",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-123.114725",
+		"Zipcode" : "97281",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.548616"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97282",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97283",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97286",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97290",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-123.114725",
+		"Zipcode" : "97291",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.548616"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97292",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97293",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97294",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97296",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-123.114725",
+		"Zipcode" : "97298",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.548616"
+	},
+	{
+		"Longitude" : "-122.374776",
+		"Zipcode" : "97299",
+		"ZipClass" : "STANDARD",
+		"County" : "MULTNOMAH",
+		"City" : "PORTLAND",
+		"State" : "OR",
+		"Latitude" : "+45.580557"
+	},
+	{
+		"Longitude" : "-122.921721",
+		"Zipcode" : "97301",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.904720"
+	},
+	{
+		"Longitude" : "-123.082192",
+		"Zipcode" : "97302",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.890486"
+	},
+	{
+		"Longitude" : "-123.016720",
+		"Zipcode" : "97303",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.992731"
+	},
+	{
+		"Longitude" : "-123.107442",
+		"Zipcode" : "97304",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.993510"
+	},
+	{
+		"Longitude" : "-122.912390",
+		"Zipcode" : "97305",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.996133"
+	},
+	{
+		"Longitude" : "-123.088297",
+		"Zipcode" : "97306",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.856786"
+	},
+	{
+		"Longitude" : "-122.457024",
+		"Zipcode" : "97307",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "KEIZER",
+		"State" : "OR",
+		"Latitude" : "+44.984465"
+	},
+	{
+		"Longitude" : "-122.457024",
+		"Zipcode" : "97308",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.984465"
+	},
+	{
+		"Longitude" : "-122.457024",
+		"Zipcode" : "97309",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.984465"
+	},
+	{
+		"Longitude" : "-122.986105",
+		"Zipcode" : "97310",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.927141"
+	},
+	{
+		"Longitude" : "-123.028607",
+		"Zipcode" : "97311",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.943841"
+	},
+	{
+		"Longitude" : "-123.038116",
+		"Zipcode" : "97312",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.936357"
+	},
+	{
+		"Longitude" : "-122.998756",
+		"Zipcode" : "97313",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.984941"
+	},
+	{
+		"Longitude" : "-123.006606",
+		"Zipcode" : "97314",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARION",
+		"City" : "SALEM",
+		"State" : "OR",
+		"Latitude" : "+44.965541"
+	},
+	{
+		"Longitude" : "-122.581676",
+		"Zipcode" : "97321",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "ALBANY",
+		"State" : "OR",
+		"Latitude" : "+44.594489"
+	},
+	{
+		"Longitude" : "-123.588271",
+		"Zipcode" : "97324",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "ALSEA",
+		"State" : "OR",
+		"Latitude" : "+44.377113"
+	},
+	{
+		"Longitude" : "-122.900739",
+		"Zipcode" : "97325",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "AUMSVILLE",
+		"State" : "OR",
+		"Latitude" : "+44.799503"
+	},
+	{
+		"Longitude" : "-123.538238",
+		"Zipcode" : "97326",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "BLODGETT",
+		"State" : "OR",
+		"Latitude" : "+44.638187"
+	},
+	{
+		"Longitude" : "-122.942438",
+		"Zipcode" : "97327",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "BROWNSVILLE",
+		"State" : "OR",
+		"Latitude" : "+44.378703"
+	},
+	{
+		"Longitude" : "-122.363606",
+		"Zipcode" : "97329",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "CASCADIA",
+		"State" : "OR",
+		"Latitude" : "+44.399487"
+	},
+	{
+		"Longitude" : "-123.275969",
+		"Zipcode" : "97330",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "CORVALLIS",
+		"State" : "OR",
+		"Latitude" : "+44.639931"
+	},
+	{
+		"Longitude" : "-123.278957",
+		"Zipcode" : "97331",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "CORVALLIS",
+		"State" : "OR",
+		"Latitude" : "+44.565613"
+	},
+	{
+		"Longitude" : "-123.337762",
+		"Zipcode" : "97333",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "CORVALLIS",
+		"State" : "OR",
+		"Latitude" : "+44.467218"
+	},
+	{
+		"Longitude" : "-122.893292",
+		"Zipcode" : "97335",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINN",
+		"City" : "CRABTREE",
+		"State" : "OR",
+		"Latitude" : "+44.634439"
+	},
+	{
+		"Longitude" : "-122.850752",
+		"Zipcode" : "97336",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LINN",
+		"City" : "CRAWFORDSVILLE",
+		"State" : "OR",
+		"Latitude" : "+44.359301"
+	},
+	{
+		"Longitude" : "-123.337291",
+		"Zipcode" : "97338",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "DALLAS",
+		"State" : "OR",
+		"Latitude" : "+44.928092"
+	},
+	{
+		"Longitude" : "-123.445033",
+		"Zipcode" : "97339",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "CORVALLIS",
+		"State" : "OR",
+		"Latitude" : "+44.498930"
+	},
+	{
+		"Longitude" : "-124.050272",
+		"Zipcode" : "97341",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "DEPOE BAY",
+		"State" : "OR",
+		"Latitude" : "+44.832205"
+	},
+	{
+		"Longitude" : "-122.066865",
+		"Zipcode" : "97342",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "DETROIT",
+		"State" : "OR",
+		"Latitude" : "+44.735834"
+	},
+	{
+		"Longitude" : "-123.736099",
+		"Zipcode" : "97343",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "EDDYVILLE",
+		"State" : "OR",
+		"Latitude" : "+44.604237"
+	},
+	{
+		"Longitude" : "-123.473276",
+		"Zipcode" : "97344",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "FALLS CITY",
+		"State" : "OR",
+		"Latitude" : "+44.870977"
+	},
+	{
+		"Longitude" : "-122.400143",
+		"Zipcode" : "97345",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "FOSTER",
+		"State" : "OR",
+		"Latitude" : "+44.430866"
+	},
+	{
+		"Longitude" : "-122.372622",
+		"Zipcode" : "97346",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "GATES",
+		"State" : "OR",
+		"Latitude" : "+44.762578"
+	},
+	{
+		"Longitude" : "-123.648356",
+		"Zipcode" : "97347",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "GRAND RONDE",
+		"State" : "OR",
+		"Latitude" : "+45.053757"
+	},
+	{
+		"Longitude" : "-123.115961",
+		"Zipcode" : "97348",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "HALSEY",
+		"State" : "OR",
+		"Latitude" : "+44.385837"
+	},
+	{
+		"Longitude" : "-122.074043",
+		"Zipcode" : "97350",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "IDANHA",
+		"State" : "OR",
+		"Latitude" : "+44.700127"
+	},
+	{
+		"Longitude" : "-123.165523",
+		"Zipcode" : "97351",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "INDEPENDENCE",
+		"State" : "OR",
+		"Latitude" : "+44.836951"
+	},
+	{
+		"Longitude" : "-123.003516",
+		"Zipcode" : "97352",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "JEFFERSON",
+		"State" : "OR",
+		"Latitude" : "+44.768025"
+	},
+	{
+		"Longitude" : "-122.827457",
+		"Zipcode" : "97355",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "LEBANON",
+		"State" : "OR",
+		"Latitude" : "+44.526381"
+	},
+	{
+		"Longitude" : "-123.805124",
+		"Zipcode" : "97357",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LOGSDEN",
+		"State" : "OR",
+		"Latitude" : "+44.708240"
+	},
+	{
+		"Longitude" : "-122.594993",
+		"Zipcode" : "97358",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "LYONS",
+		"State" : "OR",
+		"Latitude" : "+44.749921"
+	},
+	{
+		"Longitude" : "-122.457024",
+		"Zipcode" : "97359",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "MARION",
+		"State" : "OR",
+		"Latitude" : "+44.984465"
+	},
+	{
+		"Longitude" : "-122.578500",
+		"Zipcode" : "97360",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "MILL CITY",
+		"State" : "OR",
+		"Latitude" : "+44.621679"
+	},
+	{
+		"Longitude" : "-123.326075",
+		"Zipcode" : "97361",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "MONMOUTH",
+		"State" : "OR",
+		"Latitude" : "+44.808768"
+	},
+	{
+		"Longitude" : "-122.655118",
+		"Zipcode" : "97362",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "MOUNT ANGEL",
+		"State" : "OR",
+		"Latitude" : "+44.934698"
+	},
+	{
+		"Longitude" : "-123.974717",
+		"Zipcode" : "97364",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NEOTSU",
+		"State" : "OR",
+		"Latitude" : "+44.998210"
+	},
+	{
+		"Longitude" : "-124.024426",
+		"Zipcode" : "97365",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "NEWPORT",
+		"State" : "OR",
+		"Latitude" : "+44.552413"
+	},
+	{
+		"Longitude" : "-124.043287",
+		"Zipcode" : "97366",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SOUTH BEACH",
+		"State" : "OR",
+		"Latitude" : "+44.574645"
+	},
+	{
+		"Longitude" : "-123.988850",
+		"Zipcode" : "97367",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LINCOLN CITY",
+		"State" : "OR",
+		"Latitude" : "+44.908891"
+	},
+	{
+		"Longitude" : "-123.905622",
+		"Zipcode" : "97368",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "OTIS",
+		"State" : "OR",
+		"Latitude" : "+45.002157"
+	},
+	{
+		"Longitude" : "-124.063280",
+		"Zipcode" : "97369",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "OTTER ROCK",
+		"State" : "OR",
+		"Latitude" : "+44.758819"
+	},
+	{
+		"Longitude" : "-123.439249",
+		"Zipcode" : "97370",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "PHILOMATH",
+		"State" : "OR",
+		"Latitude" : "+44.555144"
+	},
+	{
+		"Longitude" : "-123.209356",
+		"Zipcode" : "97371",
+		"ZipClass" : "STANDARD",
+		"County" : "POLK",
+		"City" : "RICKREALL",
+		"State" : "OR",
+		"Latitude" : "+44.991024"
+	},
+	{
+		"Longitude" : "-123.892016",
+		"Zipcode" : "97372",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "ROSE LODGE",
+		"State" : "OR",
+		"Latitude" : "+44.659979"
+	},
+	{
+		"Longitude" : "-122.457024",
+		"Zipcode" : "97373",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "SAINT BENEDICT",
+		"State" : "OR",
+		"Latitude" : "+44.984465"
+	},
+	{
+		"Longitude" : "-122.748639",
+		"Zipcode" : "97374",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "SCIO",
+		"State" : "OR",
+		"Latitude" : "+44.689609"
+	},
+	{
+		"Longitude" : "-122.618718",
+		"Zipcode" : "97375",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SCOTTS MILLS",
+		"State" : "OR",
+		"Latitude" : "+44.989702"
+	},
+	{
+		"Longitude" : "-123.956719",
+		"Zipcode" : "97376",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SEAL ROCK",
+		"State" : "OR",
+		"Latitude" : "+44.487404"
+	},
+	{
+		"Longitude" : "-123.106034",
+		"Zipcode" : "97377",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "SHEDD",
+		"State" : "OR",
+		"Latitude" : "+44.435988"
+	},
+	{
+		"Longitude" : "-123.385904",
+		"Zipcode" : "97378",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "SHERIDAN",
+		"State" : "OR",
+		"Latitude" : "+45.145945"
+	},
+	{
+		"Longitude" : "-123.844630",
+		"Zipcode" : "97380",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SILETZ",
+		"State" : "OR",
+		"Latitude" : "+44.746459"
+	},
+	{
+		"Longitude" : "-122.748442",
+		"Zipcode" : "97381",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SILVERTON",
+		"State" : "OR",
+		"Latitude" : "+44.954501"
+	},
+	{
+		"Longitude" : "-122.726619",
+		"Zipcode" : "97383",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "STAYTON",
+		"State" : "OR",
+		"Latitude" : "+44.807707"
+	},
+	{
+		"Longitude" : "-122.618719",
+		"Zipcode" : "97384",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "MEHAMA",
+		"State" : "OR",
+		"Latitude" : "+44.790267"
+	},
+	{
+		"Longitude" : "-122.740264",
+		"Zipcode" : "97385",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "SUBLIMITY",
+		"State" : "OR",
+		"Latitude" : "+44.886618"
+	},
+	{
+		"Longitude" : "-122.698954",
+		"Zipcode" : "97386",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "SWEET HOME",
+		"State" : "OR",
+		"Latitude" : "+44.380262"
+	},
+	{
+		"Longitude" : "-123.994219",
+		"Zipcode" : "97388",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "GLENEDEN BEACH",
+		"State" : "OR",
+		"Latitude" : "+44.885000"
+	},
+	{
+		"Longitude" : "-123.081664",
+		"Zipcode" : "97389",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "TANGENT",
+		"State" : "OR",
+		"Latitude" : "+44.533934"
+	},
+	{
+		"Longitude" : "-123.891668",
+		"Zipcode" : "97390",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TIDEWATER",
+		"State" : "OR",
+		"Latitude" : "+44.361780"
+	},
+	{
+		"Longitude" : "-123.932758",
+		"Zipcode" : "97391",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "TOLEDO",
+		"State" : "OR",
+		"Latitude" : "+44.657190"
+	},
+	{
+		"Longitude" : "-122.942210",
+		"Zipcode" : "97392",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "TURNER",
+		"State" : "OR",
+		"Latitude" : "+44.795200"
+	},
+	{
+		"Longitude" : "-123.980384",
+		"Zipcode" : "97394",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "WALDPORT",
+		"State" : "OR",
+		"Latitude" : "+44.395907"
+	},
+	{
+		"Longitude" : "-123.523136",
+		"Zipcode" : "97396",
+		"ZipClass" : "STANDARD",
+		"County" : "YAMHILL",
+		"City" : "WILLAMINA",
+		"State" : "OR",
+		"Latitude" : "+45.145011"
+	},
+	{
+		"Longitude" : "-123.074193",
+		"Zipcode" : "97401",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "EUGENE",
+		"State" : "OR",
+		"Latitude" : "+44.117868"
+	},
+	{
+		"Longitude" : "-123.073186",
+		"Zipcode" : "97402",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "EUGENE",
+		"State" : "OR",
+		"Latitude" : "+44.033642"
+	},
+	{
+		"Longitude" : "-123.095799",
+		"Zipcode" : "97403",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "EUGENE",
+		"State" : "OR",
+		"Latitude" : "+44.032396"
+	},
+	{
+		"Longitude" : "-123.168807",
+		"Zipcode" : "97404",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "EUGENE",
+		"State" : "OR",
+		"Latitude" : "+44.100192"
+	},
+	{
+		"Longitude" : "-123.166429",
+		"Zipcode" : "97405",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "EUGENE",
+		"State" : "OR",
+		"Latitude" : "+43.935009"
+	},
+	{
+		"Longitude" : "-124.133206",
+		"Zipcode" : "97406",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "AGNESS",
+		"State" : "OR",
+		"Latitude" : "+42.656925"
+	},
+	{
+		"Longitude" : "-124.231068",
+		"Zipcode" : "97407",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COOS",
+		"City" : "ALLEGANY",
+		"State" : "OR",
+		"Latitude" : "+43.246918"
+	},
+	{
+		"Longitude" : "-123.125468",
+		"Zipcode" : "97408",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "EUGENE",
+		"State" : "OR",
+		"Latitude" : "+44.141548"
+	},
+	{
+		"Longitude" : "-123.266648",
+		"Zipcode" : "97409",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LANE",
+		"City" : "ALVADORE",
+		"State" : "OR",
+		"Latitude" : "+44.127631"
+	},
+	{
+		"Longitude" : "-123.132160",
+		"Zipcode" : "97410",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "AZALEA",
+		"State" : "OR",
+		"Latitude" : "+42.834139"
+	},
+	{
+		"Longitude" : "-124.389936",
+		"Zipcode" : "97411",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "BANDON",
+		"State" : "OR",
+		"Latitude" : "+43.088824"
+	},
+	{
+		"Longitude" : "-123.571057",
+		"Zipcode" : "97412",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "BLACHLY",
+		"State" : "OR",
+		"Latitude" : "+44.174264"
+	},
+	{
+		"Longitude" : "-122.121690",
+		"Zipcode" : "97413",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "BLUE RIVER",
+		"State" : "OR",
+		"Latitude" : "+44.175516"
+	},
+	{
+		"Longitude" : "-124.127089",
+		"Zipcode" : "97414",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "BROADBENT",
+		"State" : "OR",
+		"Latitude" : "+43.138755"
+	},
+	{
+		"Longitude" : "-124.249196",
+		"Zipcode" : "97415",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "BROOKINGS",
+		"State" : "OR",
+		"Latitude" : "+42.137789"
+	},
+	{
+		"Longitude" : "-123.653799",
+		"Zipcode" : "97416",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "CAMAS VALLEY",
+		"State" : "OR",
+		"Latitude" : "+43.040527"
+	},
+	{
+		"Longitude" : "-123.258975",
+		"Zipcode" : "97417",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "CANYONVILLE",
+		"State" : "OR",
+		"Latitude" : "+42.950960"
+	},
+	{
+		"Longitude" : "-123.368242",
+		"Zipcode" : "97419",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "CHESHIRE",
+		"State" : "OR",
+		"Latitude" : "+44.210177"
+	},
+	{
+		"Longitude" : "-124.198358",
+		"Zipcode" : "97420",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "COOS BAY",
+		"State" : "OR",
+		"Latitude" : "+43.215143"
+	},
+	{
+		"Longitude" : "-124.224190",
+		"Zipcode" : "97423",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "COQUILLE",
+		"State" : "OR",
+		"Latitude" : "+43.232318"
+	},
+	{
+		"Longitude" : "-123.049498",
+		"Zipcode" : "97424",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "COTTAGE GROVE",
+		"State" : "OR",
+		"Latitude" : "+43.728930"
+	},
+	{
+		"Longitude" : "-121.949514",
+		"Zipcode" : "97425",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KLAMATH",
+		"City" : "CRESCENT LAKE",
+		"State" : "OR",
+		"Latitude" : "+43.517990"
+	},
+	{
+		"Longitude" : "-123.041968",
+		"Zipcode" : "97426",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "CRESWELL",
+		"State" : "OR",
+		"Latitude" : "+43.895976"
+	},
+	{
+		"Longitude" : "-122.787122",
+		"Zipcode" : "97427",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "CULP CREEK",
+		"State" : "OR",
+		"Latitude" : "+43.657939"
+	},
+	{
+		"Longitude" : "-123.196161",
+		"Zipcode" : "97428",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "CURTIN",
+		"State" : "OR",
+		"Latitude" : "+43.747559"
+	},
+	{
+		"Longitude" : "-123.088917",
+		"Zipcode" : "97429",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "DAYS CREEK",
+		"State" : "OR",
+		"Latitude" : "+42.972697"
+	},
+	{
+		"Longitude" : "-123.681581",
+		"Zipcode" : "97430",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "DEADWOOD",
+		"State" : "OR",
+		"Latitude" : "+44.146196"
+	},
+	{
+		"Longitude" : "-123.424918",
+		"Zipcode" : "97431",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "DEXTER",
+		"State" : "OR",
+		"Latitude" : "+43.968007"
+	},
+	{
+		"Longitude" : "-123.418068",
+		"Zipcode" : "97432",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "DILLARD",
+		"State" : "OR",
+		"Latitude" : "+43.113502"
+	},
+	{
+		"Longitude" : "-122.894601",
+		"Zipcode" : "97434",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "DORENA",
+		"State" : "OR",
+		"Latitude" : "+43.736115"
+	},
+	{
+		"Longitude" : "-123.334749",
+		"Zipcode" : "97435",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "DRAIN",
+		"State" : "OR",
+		"Latitude" : "+43.716624"
+	},
+	{
+		"Longitude" : "-123.556893",
+		"Zipcode" : "97436",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "ELKTON",
+		"State" : "OR",
+		"Latitude" : "+43.573594"
+	},
+	{
+		"Longitude" : "-123.388216",
+		"Zipcode" : "97437",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "ELMIRA",
+		"State" : "OR",
+		"Latitude" : "+44.097363"
+	},
+	{
+		"Longitude" : "-122.769150",
+		"Zipcode" : "97438",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "FALL CREEK",
+		"State" : "OR",
+		"Latitude" : "+43.982300"
+	},
+	{
+		"Longitude" : "-123.996747",
+		"Zipcode" : "97439",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "FLORENCE",
+		"State" : "OR",
+		"Latitude" : "+44.064723"
+	},
+	{
+		"Longitude" : "-122.998790",
+		"Zipcode" : "97440",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "EUGENE",
+		"State" : "OR",
+		"Latitude" : "+43.863845"
+	},
+	{
+		"Longitude" : "-124.123806",
+		"Zipcode" : "97441",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "GARDINER",
+		"State" : "OR",
+		"Latitude" : "+43.751140"
+	},
+	{
+		"Longitude" : "-123.391350",
+		"Zipcode" : "97442",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "GLENDALE",
+		"State" : "OR",
+		"Latitude" : "+42.761476"
+	},
+	{
+		"Longitude" : "-123.018231",
+		"Zipcode" : "97443",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "GLIDE",
+		"State" : "OR",
+		"Latitude" : "+43.265950"
+	},
+	{
+		"Longitude" : "-124.334383",
+		"Zipcode" : "97444",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "GOLD BEACH",
+		"State" : "OR",
+		"Latitude" : "+42.410099"
+	},
+	{
+		"Longitude" : "-123.108438",
+		"Zipcode" : "97446",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "HARRISBURG",
+		"State" : "OR",
+		"Latitude" : "+44.273684"
+	},
+	{
+		"Longitude" : "-122.869705",
+		"Zipcode" : "97447",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "IDLEYLD PARK",
+		"State" : "OR",
+		"Latitude" : "+43.065884"
+	},
+	{
+		"Longitude" : "-123.273576",
+		"Zipcode" : "97448",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "JUNCTION CITY",
+		"State" : "OR",
+		"Latitude" : "+44.192567"
+	},
+	{
+		"Longitude" : "-124.122749",
+		"Zipcode" : "97449",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "LAKESIDE",
+		"State" : "OR",
+		"Latitude" : "+43.583767"
+	},
+	{
+		"Longitude" : "-124.406262",
+		"Zipcode" : "97450",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "LANGLOIS",
+		"State" : "OR",
+		"Latitude" : "+42.893126"
+	},
+	{
+		"Longitude" : "-123.273366",
+		"Zipcode" : "97451",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "LORANE",
+		"State" : "OR",
+		"Latitude" : "+43.817721"
+	},
+	{
+		"Longitude" : "-122.694091",
+		"Zipcode" : "97452",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "LOWELL",
+		"State" : "OR",
+		"Latitude" : "+43.885422"
+	},
+	{
+		"Longitude" : "-123.901261",
+		"Zipcode" : "97453",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "MAPLETON",
+		"State" : "OR",
+		"Latitude" : "+44.010088"
+	},
+	{
+		"Longitude" : "-122.812544",
+		"Zipcode" : "97454",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "MARCOLA",
+		"State" : "OR",
+		"Latitude" : "+44.212732"
+	},
+	{
+		"Longitude" : "-122.915417",
+		"Zipcode" : "97455",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "PLEASANT HILL",
+		"State" : "OR",
+		"Latitude" : "+43.967356"
+	},
+	{
+		"Longitude" : "-123.325952",
+		"Zipcode" : "97456",
+		"ZipClass" : "STANDARD",
+		"County" : "BENTON",
+		"City" : "MONROE",
+		"State" : "OR",
+		"Latitude" : "+44.346783"
+	},
+	{
+		"Longitude" : "-123.225556",
+		"Zipcode" : "97457",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "MYRTLE CREEK",
+		"State" : "OR",
+		"Latitude" : "+43.300361"
+	},
+	{
+		"Longitude" : "-124.136075",
+		"Zipcode" : "97458",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "MYRTLE POINT",
+		"State" : "OR",
+		"Latitude" : "+43.020023"
+	},
+	{
+		"Longitude" : "-124.163469",
+		"Zipcode" : "97459",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "NORTH BEND",
+		"State" : "OR",
+		"Latitude" : "+43.241489"
+	},
+	{
+		"Longitude" : "-124.127089",
+		"Zipcode" : "97460",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COOS",
+		"City" : "NORWAY",
+		"State" : "OR",
+		"Latitude" : "+43.138755"
+	},
+	{
+		"Longitude" : "-123.468389",
+		"Zipcode" : "97461",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "NOTI",
+		"State" : "OR",
+		"Latitude" : "+44.099169"
+	},
+	{
+		"Longitude" : "-123.414079",
+		"Zipcode" : "97462",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "OAKLAND",
+		"State" : "OR",
+		"Latitude" : "+43.503232"
+	},
+	{
+		"Longitude" : "-122.437723",
+		"Zipcode" : "97463",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "OAKRIDGE",
+		"State" : "OR",
+		"Latitude" : "+43.737605"
+	},
+	{
+		"Longitude" : "-124.510560",
+		"Zipcode" : "97464",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CURRY",
+		"City" : "OPHIR",
+		"State" : "OR",
+		"Latitude" : "+42.739889"
+	},
+	{
+		"Longitude" : "-124.450940",
+		"Zipcode" : "97465",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "PORT ORFORD",
+		"State" : "OR",
+		"Latitude" : "+42.703155"
+	},
+	{
+		"Longitude" : "-124.070945",
+		"Zipcode" : "97466",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "POWERS",
+		"State" : "OR",
+		"Latitude" : "+42.879975"
+	},
+	{
+		"Longitude" : "-123.745579",
+		"Zipcode" : "97467",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "REEDSPORT",
+		"State" : "OR",
+		"Latitude" : "+43.449523"
+	},
+	{
+		"Longitude" : "-123.425450",
+		"Zipcode" : "97469",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "RIDDLE",
+		"State" : "OR",
+		"Latitude" : "+43.267918"
+	},
+	{
+		"Longitude" : "-123.360805",
+		"Zipcode" : "97470",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "ROSEBURG",
+		"State" : "OR",
+		"Latitude" : "+43.053573"
+	},
+	{
+		"Longitude" : "-122.998790",
+		"Zipcode" : "97472",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "SAGINAW",
+		"State" : "OR",
+		"Latitude" : "+43.863845"
+	},
+	{
+		"Longitude" : "-123.825751",
+		"Zipcode" : "97473",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "SCOTTSBURG",
+		"State" : "OR",
+		"Latitude" : "+43.671853"
+	},
+	{
+		"Longitude" : "-124.433374",
+		"Zipcode" : "97476",
+		"ZipClass" : "STANDARD",
+		"County" : "CURRY",
+		"City" : "SIXES",
+		"State" : "OR",
+		"Latitude" : "+42.800135"
+	},
+	{
+		"Longitude" : "-123.444371",
+		"Zipcode" : "97477",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "SPRINGFIELD",
+		"State" : "OR",
+		"Latitude" : "+43.937276"
+	},
+	{
+		"Longitude" : "-122.872806",
+		"Zipcode" : "97478",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "SPRINGFIELD",
+		"State" : "OR",
+		"Latitude" : "+44.095761"
+	},
+	{
+		"Longitude" : "-123.208273",
+		"Zipcode" : "97479",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "SUTHERLIN",
+		"State" : "OR",
+		"Latitude" : "+43.345559"
+	},
+	{
+		"Longitude" : "-123.732051",
+		"Zipcode" : "97480",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "SWISSHOME",
+		"State" : "OR",
+		"Latitude" : "+44.101084"
+	},
+	{
+		"Longitude" : "-123.529417",
+		"Zipcode" : "97481",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "TENMILE",
+		"State" : "OR",
+		"Latitude" : "+43.114050"
+	},
+	{
+		"Longitude" : "-122.998790",
+		"Zipcode" : "97482",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "THURSTON",
+		"State" : "OR",
+		"Latitude" : "+43.863845"
+	},
+	{
+		"Longitude" : "-122.907864",
+		"Zipcode" : "97484",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "TILLER",
+		"State" : "OR",
+		"Latitude" : "+42.917670"
+	},
+	{
+		"Longitude" : "-123.516847",
+		"Zipcode" : "97486",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "UMPQUA",
+		"State" : "OR",
+		"Latitude" : "+43.393775"
+	},
+	{
+		"Longitude" : "-123.367371",
+		"Zipcode" : "97487",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "VENETA",
+		"State" : "OR",
+		"Latitude" : "+44.003051"
+	},
+	{
+		"Longitude" : "-122.870723",
+		"Zipcode" : "97488",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "VIDA",
+		"State" : "OR",
+		"Latitude" : "+44.162401"
+	},
+	{
+		"Longitude" : "-122.637619",
+		"Zipcode" : "97489",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "WALTERVILLE",
+		"State" : "OR",
+		"Latitude" : "+44.128776"
+	},
+	{
+		"Longitude" : "-123.615073",
+		"Zipcode" : "97490",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "WALTON",
+		"State" : "OR",
+		"Latitude" : "+44.000245"
+	},
+	{
+		"Longitude" : "-124.388576",
+		"Zipcode" : "97491",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CURRY",
+		"City" : "WEDDERBURN",
+		"State" : "OR",
+		"Latitude" : "+42.609252"
+	},
+	{
+		"Longitude" : "-122.481043",
+		"Zipcode" : "97492",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "WESTFIR",
+		"State" : "OR",
+		"Latitude" : "+43.757499"
+	},
+	{
+		"Longitude" : "-124.031752",
+		"Zipcode" : "97493",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "WESTLAKE",
+		"State" : "OR",
+		"Latitude" : "+43.915870"
+	},
+	{
+		"Longitude" : "-123.333177",
+		"Zipcode" : "97494",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "WILBUR",
+		"State" : "OR",
+		"Latitude" : "+43.328430"
+	},
+	{
+		"Longitude" : "-123.325617",
+		"Zipcode" : "97495",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DOUGLAS",
+		"City" : "WINCHESTER",
+		"State" : "OR",
+		"Latitude" : "+43.333141"
+	},
+	{
+		"Longitude" : "-123.453420",
+		"Zipcode" : "97496",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "WINSTON",
+		"State" : "OR",
+		"Latitude" : "+43.306579"
+	},
+	{
+		"Longitude" : "-123.425008",
+		"Zipcode" : "97497",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "WOLF CREEK",
+		"State" : "OR",
+		"Latitude" : "+42.652236"
+	},
+	{
+		"Longitude" : "-124.024246",
+		"Zipcode" : "97498",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "YACHATS",
+		"State" : "OR",
+		"Latitude" : "+44.333892"
+	},
+	{
+		"Longitude" : "-123.165395",
+		"Zipcode" : "97499",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "YONCALLA",
+		"State" : "OR",
+		"Latitude" : "+43.308689"
+	},
+	{
+		"Longitude" : "-122.722550",
+		"Zipcode" : "97501",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MEDFORD",
+		"State" : "OR",
+		"Latitude" : "+42.482623"
+	},
+	{
+		"Longitude" : "-122.917383",
+		"Zipcode" : "97502",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "CENTRAL POINT",
+		"State" : "OR",
+		"Latitude" : "+42.416384"
+	},
+	{
+		"Longitude" : "-122.883923",
+		"Zipcode" : "97503",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "WHITE CITY",
+		"State" : "OR",
+		"Latitude" : "+42.537028"
+	},
+	{
+		"Longitude" : "-122.793659",
+		"Zipcode" : "97504",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MEDFORD",
+		"State" : "OR",
+		"Latitude" : "+42.322392"
+	},
+	{
+		"Longitude" : "-122.537356",
+		"Zipcode" : "97520",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ASHLAND",
+		"State" : "OR",
+		"Latitude" : "+42.148098"
+	},
+	{
+		"Longitude" : "-122.554633",
+		"Zipcode" : "97522",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "BUTTE FALLS",
+		"State" : "OR",
+		"Latitude" : "+42.530813"
+	},
+	{
+		"Longitude" : "-123.554046",
+		"Zipcode" : "97523",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "CAVE JUNCTION",
+		"State" : "OR",
+		"Latitude" : "+42.273683"
+	},
+	{
+		"Longitude" : "-122.635695",
+		"Zipcode" : "97524",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "EAGLE POINT",
+		"State" : "OR",
+		"Latitude" : "+42.478023"
+	},
+	{
+		"Longitude" : "-123.029161",
+		"Zipcode" : "97525",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "GOLD HILL",
+		"State" : "OR",
+		"Latitude" : "+42.440993"
+	},
+	{
+		"Longitude" : "-123.416119",
+		"Zipcode" : "97526",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "GRANTS PASS",
+		"State" : "OR",
+		"Latitude" : "+42.402144"
+	},
+	{
+		"Longitude" : "-123.440456",
+		"Zipcode" : "97527",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "GRANTS PASS",
+		"State" : "OR",
+		"Latitude" : "+42.345125"
+	},
+	{
+		"Longitude" : "-123.535027",
+		"Zipcode" : "97528",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "GRANTS PASS",
+		"State" : "OR",
+		"Latitude" : "+42.396421"
+	},
+	{
+		"Longitude" : "-123.024100",
+		"Zipcode" : "97530",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "JACKSONVILLE",
+		"State" : "OR",
+		"Latitude" : "+42.181333"
+	},
+	{
+		"Longitude" : "-123.624688",
+		"Zipcode" : "97531",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "KERBY",
+		"State" : "OR",
+		"Latitude" : "+42.212141"
+	},
+	{
+		"Longitude" : "-123.525826",
+		"Zipcode" : "97532",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "MERLIN",
+		"State" : "OR",
+		"Latitude" : "+42.400936"
+	},
+	{
+		"Longitude" : "-123.327323",
+		"Zipcode" : "97533",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JOSEPHINE",
+		"City" : "MURPHY",
+		"State" : "OR",
+		"Latitude" : "+42.308007"
+	},
+	{
+		"Longitude" : "-123.688998",
+		"Zipcode" : "97534",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "O BRIEN",
+		"State" : "OR",
+		"Latitude" : "+42.087941"
+	},
+	{
+		"Longitude" : "-122.814640",
+		"Zipcode" : "97535",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PHOENIX",
+		"State" : "OR",
+		"Latitude" : "+42.262556"
+	},
+	{
+		"Longitude" : "-122.506046",
+		"Zipcode" : "97536",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "PROSPECT",
+		"State" : "OR",
+		"Latitude" : "+42.787066"
+	},
+	{
+		"Longitude" : "-123.097269",
+		"Zipcode" : "97537",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "ROGUE RIVER",
+		"State" : "OR",
+		"Latitude" : "+42.533003"
+	},
+	{
+		"Longitude" : "-123.551451",
+		"Zipcode" : "97538",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "SELMA",
+		"State" : "OR",
+		"Latitude" : "+42.265435"
+	},
+	{
+		"Longitude" : "-122.756141",
+		"Zipcode" : "97539",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SHADY COVE",
+		"State" : "OR",
+		"Latitude" : "+42.621218"
+	},
+	{
+		"Longitude" : "-122.770093",
+		"Zipcode" : "97540",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "TALENT",
+		"State" : "OR",
+		"Latitude" : "+42.221879"
+	},
+	{
+		"Longitude" : "-122.769269",
+		"Zipcode" : "97541",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "TRAIL",
+		"State" : "OR",
+		"Latitude" : "+42.697957"
+	},
+	{
+		"Longitude" : "-123.548618",
+		"Zipcode" : "97543",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "WILDERVILLE",
+		"State" : "OR",
+		"Latitude" : "+42.292694"
+	},
+	{
+		"Longitude" : "-123.321239",
+		"Zipcode" : "97544",
+		"ZipClass" : "STANDARD",
+		"County" : "JOSEPHINE",
+		"City" : "WILLIAMS",
+		"State" : "OR",
+		"Latitude" : "+42.357375"
+	},
+	{
+		"Longitude" : "-121.816873",
+		"Zipcode" : "97601",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "KLAMATH FALLS",
+		"State" : "OR",
+		"Latitude" : "+42.293293"
+	},
+	{
+		"Longitude" : "-121.584833",
+		"Zipcode" : "97602",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "KLAMATH FALLS",
+		"State" : "OR",
+		"Latitude" : "+42.804981"
+	},
+	{
+		"Longitude" : "-121.685853",
+		"Zipcode" : "97603",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "KLAMATH FALLS",
+		"State" : "OR",
+		"Latitude" : "+42.612760"
+	},
+	{
+		"Longitude" : "-121.987076",
+		"Zipcode" : "97604",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "CRATER LAKE",
+		"State" : "OR",
+		"Latitude" : "+42.733365"
+	},
+	{
+		"Longitude" : "-120.355294",
+		"Zipcode" : "97620",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "ADEL",
+		"State" : "OR",
+		"Latitude" : "+42.805272"
+	},
+	{
+		"Longitude" : "-121.259056",
+		"Zipcode" : "97621",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "BEATTY",
+		"State" : "OR",
+		"Latitude" : "+42.464842"
+	},
+	{
+		"Longitude" : "-121.080557",
+		"Zipcode" : "97622",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KLAMATH",
+		"City" : "BLY",
+		"State" : "OR",
+		"Latitude" : "+42.399541"
+	},
+	{
+		"Longitude" : "-121.330060",
+		"Zipcode" : "97623",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "BONANZA",
+		"State" : "OR",
+		"Latitude" : "+42.193652"
+	},
+	{
+		"Longitude" : "-121.878916",
+		"Zipcode" : "97624",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "CHILOQUIN",
+		"State" : "OR",
+		"Latitude" : "+42.722220"
+	},
+	{
+		"Longitude" : "-121.507834",
+		"Zipcode" : "97625",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "DAIRY",
+		"State" : "OR",
+		"Latitude" : "+42.291015"
+	},
+	{
+		"Longitude" : "-122.037995",
+		"Zipcode" : "97626",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KLAMATH",
+		"City" : "FORT KLAMATH",
+		"State" : "OR",
+		"Latitude" : "+42.641537"
+	},
+	{
+		"Longitude" : "-122.008124",
+		"Zipcode" : "97627",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "KENO",
+		"State" : "OR",
+		"Latitude" : "+42.119398"
+	},
+	{
+		"Longitude" : "-120.369607",
+		"Zipcode" : "97630",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "LAKEVIEW",
+		"State" : "OR",
+		"Latitude" : "+42.180763"
+	},
+	{
+		"Longitude" : "-121.387408",
+		"Zipcode" : "97632",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "MALIN",
+		"State" : "OR",
+		"Latitude" : "+42.095447"
+	},
+	{
+		"Longitude" : "-121.522384",
+		"Zipcode" : "97633",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "MERRILL",
+		"State" : "OR",
+		"Latitude" : "+42.055503"
+	},
+	{
+		"Longitude" : "-121.870983",
+		"Zipcode" : "97634",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "KLAMATH",
+		"City" : "MIDLAND",
+		"State" : "OR",
+		"Latitude" : "+42.128418"
+	},
+	{
+		"Longitude" : "-120.355294",
+		"Zipcode" : "97635",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "NEW PINE CREEK",
+		"State" : "OR",
+		"Latitude" : "+42.805272"
+	},
+	{
+		"Longitude" : "-120.330349",
+		"Zipcode" : "97636",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "PAISLEY",
+		"State" : "OR",
+		"Latitude" : "+42.775198"
+	},
+	{
+		"Longitude" : "-120.355294",
+		"Zipcode" : "97637",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "PLUSH",
+		"State" : "OR",
+		"Latitude" : "+42.805272"
+	},
+	{
+		"Longitude" : "-120.355294",
+		"Zipcode" : "97638",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "SILVER LAKE",
+		"State" : "OR",
+		"Latitude" : "+42.805272"
+	},
+	{
+		"Longitude" : "-121.531087",
+		"Zipcode" : "97639",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "SPRAGUE RIVER",
+		"State" : "OR",
+		"Latitude" : "+42.486975"
+	},
+	{
+		"Longitude" : "-120.794615",
+		"Zipcode" : "97640",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "SUMMER LAKE",
+		"State" : "OR",
+		"Latitude" : "+42.944694"
+	},
+	{
+		"Longitude" : "-120.724397",
+		"Zipcode" : "97641",
+		"ZipClass" : "STANDARD",
+		"County" : "LAKE",
+		"City" : "CHRISTMAS VALLEY",
+		"State" : "OR",
+		"Latitude" : "+43.157855"
+	},
+	{
+		"Longitude" : "-121.227125",
+		"Zipcode" : "97701",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "BEND",
+		"State" : "OR",
+		"Latitude" : "+44.082037"
+	},
+	{
+		"Longitude" : "-121.260298",
+		"Zipcode" : "97702",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "BEND",
+		"State" : "OR",
+		"Latitude" : "+43.998448"
+	},
+	{
+		"Longitude" : "-121.576423",
+		"Zipcode" : "97707",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "BEND",
+		"State" : "OR",
+		"Latitude" : "+43.843071"
+	},
+	{
+		"Longitude" : "-120.949520",
+		"Zipcode" : "97708",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "BEND",
+		"State" : "OR",
+		"Latitude" : "+44.001834"
+	},
+	{
+		"Longitude" : "-120.949520",
+		"Zipcode" : "97709",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "BEND",
+		"State" : "OR",
+		"Latitude" : "+44.001834"
+	},
+	{
+		"Longitude" : "-119.069624",
+		"Zipcode" : "97710",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "FIELDS",
+		"State" : "OR",
+		"Latitude" : "+43.019785"
+	},
+	{
+		"Longitude" : "-121.321903",
+		"Zipcode" : "97711",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "ASHWOOD",
+		"State" : "OR",
+		"Latitude" : "+44.538351"
+	},
+	{
+		"Longitude" : "-120.225618",
+		"Zipcode" : "97712",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "BROTHERS",
+		"State" : "OR",
+		"Latitude" : "+43.665917"
+	},
+	{
+		"Longitude" : "-118.874273",
+		"Zipcode" : "97720",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "BURNS",
+		"State" : "OR",
+		"Latitude" : "+43.554287"
+	},
+	{
+		"Longitude" : "-119.069624",
+		"Zipcode" : "97721",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "PRINCETON",
+		"State" : "OR",
+		"Latitude" : "+43.019785"
+	},
+	{
+		"Longitude" : "-119.069624",
+		"Zipcode" : "97722",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "DIAMOND",
+		"State" : "OR",
+		"Latitude" : "+43.019785"
+	},
+	{
+		"Longitude" : "-121.659909",
+		"Zipcode" : "97730",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "CAMP SHERMAN",
+		"State" : "OR",
+		"Latitude" : "+44.443474"
+	},
+	{
+		"Longitude" : "-121.584833",
+		"Zipcode" : "97731",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "CHEMULT",
+		"State" : "OR",
+		"Latitude" : "+42.804981"
+	},
+	{
+		"Longitude" : "-119.069624",
+		"Zipcode" : "97732",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARNEY",
+		"City" : "CRANE",
+		"State" : "OR",
+		"Latitude" : "+43.019785"
+	},
+	{
+		"Longitude" : "-121.710925",
+		"Zipcode" : "97733",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "CRESCENT",
+		"State" : "OR",
+		"Latitude" : "+43.444217"
+	},
+	{
+		"Longitude" : "-121.267976",
+		"Zipcode" : "97734",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "CULVER",
+		"State" : "OR",
+		"Latitude" : "+44.499106"
+	},
+	{
+		"Longitude" : "-120.355294",
+		"Zipcode" : "97735",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LAKE",
+		"City" : "FORT ROCK",
+		"State" : "OR",
+		"Latitude" : "+42.805272"
+	},
+	{
+		"Longitude" : "-119.078609",
+		"Zipcode" : "97736",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "FRENCHGLEN",
+		"State" : "OR",
+		"Latitude" : "+43.562030"
+	},
+	{
+		"Longitude" : "-121.658336",
+		"Zipcode" : "97737",
+		"ZipClass" : "STANDARD",
+		"County" : "KLAMATH",
+		"City" : "GILCHRIST",
+		"State" : "OR",
+		"Latitude" : "+43.372529"
+	},
+	{
+		"Longitude" : "-119.081558",
+		"Zipcode" : "97738",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "HINES",
+		"State" : "OR",
+		"Latitude" : "+43.555768"
+	},
+	{
+		"Longitude" : "-121.565187",
+		"Zipcode" : "97739",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "LA PINE",
+		"State" : "OR",
+		"Latitude" : "+43.692193"
+	},
+	{
+		"Longitude" : "-119.069624",
+		"Zipcode" : "97740",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "LAWEN",
+		"State" : "OR",
+		"Latitude" : "+43.019785"
+	},
+	{
+		"Longitude" : "-121.128106",
+		"Zipcode" : "97741",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MADRAS",
+		"State" : "OR",
+		"Latitude" : "+44.626160"
+	},
+	{
+		"Longitude" : "-120.014665",
+		"Zipcode" : "97750",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEELER",
+		"City" : "MITCHELL",
+		"State" : "OR",
+		"Latitude" : "+44.644668"
+	},
+	{
+		"Longitude" : "-119.864655",
+		"Zipcode" : "97751",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "PAULINA",
+		"State" : "OR",
+		"Latitude" : "+44.127641"
+	},
+	{
+		"Longitude" : "-120.276069",
+		"Zipcode" : "97752",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "POST",
+		"State" : "OR",
+		"Latitude" : "+44.085051"
+	},
+	{
+		"Longitude" : "-121.008489",
+		"Zipcode" : "97753",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "POWELL BUTTE",
+		"State" : "OR",
+		"Latitude" : "+44.232525"
+	},
+	{
+		"Longitude" : "-120.660334",
+		"Zipcode" : "97754",
+		"ZipClass" : "STANDARD",
+		"County" : "CROOK",
+		"City" : "PRINEVILLE",
+		"State" : "OR",
+		"Latitude" : "+44.168050"
+	},
+	{
+		"Longitude" : "-121.266414",
+		"Zipcode" : "97756",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "REDMOND",
+		"State" : "OR",
+		"Latitude" : "+44.268862"
+	},
+	{
+		"Longitude" : "-119.069624",
+		"Zipcode" : "97758",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "RILEY",
+		"State" : "OR",
+		"Latitude" : "+43.019785"
+	},
+	{
+		"Longitude" : "-121.509124",
+		"Zipcode" : "97759",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "SISTERS",
+		"State" : "OR",
+		"Latitude" : "+44.316480"
+	},
+	{
+		"Longitude" : "-121.245224",
+		"Zipcode" : "97760",
+		"ZipClass" : "STANDARD",
+		"County" : "DESCHUTES",
+		"City" : "TERREBONNE",
+		"State" : "OR",
+		"Latitude" : "+44.349792"
+	},
+	{
+		"Longitude" : "-121.334786",
+		"Zipcode" : "97761",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "JEFFERSON",
+		"City" : "WARM SPRINGS",
+		"State" : "OR",
+		"Latitude" : "+44.771108"
+	},
+	{
+		"Longitude" : "-118.637974",
+		"Zipcode" : "97801",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "PENDLETON",
+		"State" : "OR",
+		"Latitude" : "+45.711814"
+	},
+	{
+		"Longitude" : "-118.490788",
+		"Zipcode" : "97810",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "ADAMS",
+		"State" : "OR",
+		"Latitude" : "+45.724767"
+	},
+	{
+		"Longitude" : "-120.275127",
+		"Zipcode" : "97812",
+		"ZipClass" : "STANDARD",
+		"County" : "GILLIAM",
+		"City" : "ARLINGTON",
+		"State" : "OR",
+		"Latitude" : "+45.567282"
+	},
+	{
+		"Longitude" : "-118.524881",
+		"Zipcode" : "97813",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "ATHENA",
+		"State" : "OR",
+		"Latitude" : "+45.823940"
+	},
+	{
+		"Longitude" : "-117.742659",
+		"Zipcode" : "97814",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "BAKER CITY",
+		"State" : "OR",
+		"Latitude" : "+44.754237"
+	},
+	{
+		"Longitude" : "-118.947769",
+		"Zipcode" : "97817",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "BATES",
+		"State" : "OR",
+		"Latitude" : "+44.477794"
+	},
+	{
+		"Longitude" : "-119.657500",
+		"Zipcode" : "97818",
+		"ZipClass" : "STANDARD",
+		"County" : "MORROW",
+		"City" : "BOARDMAN",
+		"State" : "OR",
+		"Latitude" : "+45.419841"
+	},
+	{
+		"Longitude" : "-117.765498",
+		"Zipcode" : "97819",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "BRIDGEPORT",
+		"State" : "OR",
+		"Latitude" : "+44.493135"
+	},
+	{
+		"Longitude" : "-118.946498",
+		"Zipcode" : "97820",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "CANYON CITY",
+		"State" : "OR",
+		"Latitude" : "+44.391149"
+	},
+	{
+		"Longitude" : "-118.458080",
+		"Zipcode" : "97821",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "CAYUSE",
+		"State" : "OR",
+		"Latitude" : "+45.683276"
+	},
+	{
+		"Longitude" : "-120.140937",
+		"Zipcode" : "97823",
+		"ZipClass" : "STANDARD",
+		"County" : "GILLIAM",
+		"City" : "CONDON",
+		"State" : "OR",
+		"Latitude" : "+45.255099"
+	},
+	{
+		"Longitude" : "-117.872662",
+		"Zipcode" : "97824",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "COVE",
+		"State" : "OR",
+		"Latitude" : "+45.341881"
+	},
+	{
+		"Longitude" : "-119.533402",
+		"Zipcode" : "97825",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "DAYVILLE",
+		"State" : "OR",
+		"Latitude" : "+44.465268"
+	},
+	{
+		"Longitude" : "-119.198798",
+		"Zipcode" : "97826",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "ECHO",
+		"State" : "OR",
+		"Latitude" : "+45.692754"
+	},
+	{
+		"Longitude" : "-117.907539",
+		"Zipcode" : "97827",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "ELGIN",
+		"State" : "OR",
+		"Latitude" : "+45.612664"
+	},
+	{
+		"Longitude" : "-117.169858",
+		"Zipcode" : "97828",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLOWA",
+		"City" : "ENTERPRISE",
+		"State" : "OR",
+		"Latitude" : "+45.648199"
+	},
+	{
+		"Longitude" : "-120.130869",
+		"Zipcode" : "97830",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEELER",
+		"City" : "FOSSIL",
+		"State" : "OR",
+		"Latitude" : "+44.928579"
+	},
+	{
+		"Longitude" : "-118.947769",
+		"Zipcode" : "97831",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "FOX",
+		"State" : "OR",
+		"Latitude" : "+44.477794"
+	},
+	{
+		"Longitude" : "-117.987928",
+		"Zipcode" : "97833",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "HAINES",
+		"State" : "OR",
+		"Latitude" : "+44.941557"
+	},
+	{
+		"Longitude" : "-117.123753",
+		"Zipcode" : "97834",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "HALFWAY",
+		"State" : "OR",
+		"Latitude" : "+44.952248"
+	},
+	{
+		"Longitude" : "-118.755877",
+		"Zipcode" : "97835",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "HELIX",
+		"State" : "OR",
+		"Latitude" : "+45.909854"
+	},
+	{
+		"Longitude" : "-119.577731",
+		"Zipcode" : "97836",
+		"ZipClass" : "STANDARD",
+		"County" : "MORROW",
+		"City" : "HEPPNER",
+		"State" : "OR",
+		"Latitude" : "+45.301332"
+	},
+	{
+		"Longitude" : "-118.029277",
+		"Zipcode" : "97837",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "HEREFORD",
+		"State" : "OR",
+		"Latitude" : "+44.530415"
+	},
+	{
+		"Longitude" : "-119.100692",
+		"Zipcode" : "97838",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "HERMISTON",
+		"State" : "OR",
+		"Latitude" : "+45.699986"
+	},
+	{
+		"Longitude" : "-119.638037",
+		"Zipcode" : "97839",
+		"ZipClass" : "STANDARD",
+		"County" : "MORROW",
+		"City" : "LEXINGTON",
+		"State" : "OR",
+		"Latitude" : "+45.493821"
+	},
+	{
+		"Longitude" : "-116.843590",
+		"Zipcode" : "97840",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "OXBOW",
+		"State" : "OR",
+		"Latitude" : "+44.963341"
+	},
+	{
+		"Longitude" : "-117.957463",
+		"Zipcode" : "97841",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "IMBLER",
+		"State" : "OR",
+		"Latitude" : "+45.474915"
+	},
+	{
+		"Longitude" : "-116.807469",
+		"Zipcode" : "97842",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLOWA",
+		"City" : "IMNAHA",
+		"State" : "OR",
+		"Latitude" : "+45.503578"
+	},
+	{
+		"Longitude" : "-119.842256",
+		"Zipcode" : "97843",
+		"ZipClass" : "STANDARD",
+		"County" : "MORROW",
+		"City" : "IONE",
+		"State" : "OR",
+		"Latitude" : "+45.456534"
+	},
+	{
+		"Longitude" : "-119.631097",
+		"Zipcode" : "97844",
+		"ZipClass" : "STANDARD",
+		"County" : "MORROW",
+		"City" : "IRRIGON",
+		"State" : "OR",
+		"Latitude" : "+45.707049"
+	},
+	{
+		"Longitude" : "-118.914774",
+		"Zipcode" : "97845",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "JOHN DAY",
+		"State" : "OR",
+		"Latitude" : "+44.550033"
+	},
+	{
+		"Longitude" : "-117.073337",
+		"Zipcode" : "97846",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLOWA",
+		"City" : "JOSEPH",
+		"State" : "OR",
+		"Latitude" : "+45.406071"
+	},
+	{
+		"Longitude" : "-118.947769",
+		"Zipcode" : "97848",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "KIMBERLY",
+		"State" : "OR",
+		"Latitude" : "+44.477794"
+	},
+	{
+		"Longitude" : "-118.164822",
+		"Zipcode" : "97850",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "LA GRANDE",
+		"State" : "OR",
+		"Latitude" : "+45.295350"
+	},
+	{
+		"Longitude" : "-119.090832",
+		"Zipcode" : "97856",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "LONG CREEK",
+		"State" : "OR",
+		"Latitude" : "+44.713688"
+	},
+	{
+		"Longitude" : "-117.457163",
+		"Zipcode" : "97857",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLOWA",
+		"City" : "LOSTINE",
+		"State" : "OR",
+		"Latitude" : "+45.465083"
+	},
+	{
+		"Longitude" : "-118.433494",
+		"Zipcode" : "97859",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "MEACHAM",
+		"State" : "OR",
+		"Latitude" : "+45.521453"
+	},
+	{
+		"Longitude" : "-120.206698",
+		"Zipcode" : "97861",
+		"ZipClass" : "STANDARD",
+		"County" : "GILLIAM",
+		"City" : "MIKKALO",
+		"State" : "OR",
+		"Latitude" : "+45.438822"
+	},
+	{
+		"Longitude" : "-118.504320",
+		"Zipcode" : "97862",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "MILTON FREEWATER",
+		"State" : "OR",
+		"Latitude" : "+45.740766"
+	},
+	{
+		"Longitude" : "-119.419221",
+		"Zipcode" : "97864",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MONUMENT",
+		"State" : "OR",
+		"Latitude" : "+44.818887"
+	},
+	{
+		"Longitude" : "-119.097430",
+		"Zipcode" : "97865",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "MOUNT VERNON",
+		"State" : "OR",
+		"Latitude" : "+44.446986"
+	},
+	{
+		"Longitude" : "-117.981498",
+		"Zipcode" : "97867",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "NORTH POWDER",
+		"State" : "OR",
+		"Latitude" : "+45.043975"
+	},
+	{
+		"Longitude" : "-118.860300",
+		"Zipcode" : "97868",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "PILOT ROCK",
+		"State" : "OR",
+		"Latitude" : "+45.421150"
+	},
+	{
+		"Longitude" : "-118.704035",
+		"Zipcode" : "97869",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "PRAIRIE CITY",
+		"State" : "OR",
+		"Latitude" : "+44.459922"
+	},
+	{
+		"Longitude" : "-117.229802",
+		"Zipcode" : "97870",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "RICHLAND",
+		"State" : "OR",
+		"Latitude" : "+44.794629"
+	},
+	{
+		"Longitude" : "-118.947769",
+		"Zipcode" : "97872",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "RITTER",
+		"State" : "OR",
+		"Latitude" : "+44.477794"
+	},
+	{
+		"Longitude" : "-119.122317",
+		"Zipcode" : "97873",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRANT",
+		"City" : "SENECA",
+		"State" : "OR",
+		"Latitude" : "+44.119638"
+	},
+	{
+		"Longitude" : "-119.914072",
+		"Zipcode" : "97874",
+		"ZipClass" : "STANDARD",
+		"County" : "WHEELER",
+		"City" : "SPRAY",
+		"State" : "OR",
+		"Latitude" : "+44.780103"
+	},
+	{
+		"Longitude" : "-119.176169",
+		"Zipcode" : "97875",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "STANFIELD",
+		"State" : "OR",
+		"Latitude" : "+45.806358"
+	},
+	{
+		"Longitude" : "-118.000258",
+		"Zipcode" : "97876",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "SUMMERVILLE",
+		"State" : "OR",
+		"Latitude" : "+45.295599"
+	},
+	{
+		"Longitude" : "-118.181033",
+		"Zipcode" : "97877",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "SUMPTER",
+		"State" : "OR",
+		"Latitude" : "+44.725630"
+	},
+	{
+		"Longitude" : "-118.704081",
+		"Zipcode" : "97880",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "UMATILLA",
+		"City" : "UKIAH",
+		"State" : "OR",
+		"Latitude" : "+45.498472"
+	},
+	{
+		"Longitude" : "-118.956930",
+		"Zipcode" : "97882",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "UMATILLA",
+		"State" : "OR",
+		"Latitude" : "+45.869529"
+	},
+	{
+		"Longitude" : "-117.848982",
+		"Zipcode" : "97883",
+		"ZipClass" : "STANDARD",
+		"County" : "UNION",
+		"City" : "UNION",
+		"State" : "OR",
+		"Latitude" : "+45.162055"
+	},
+	{
+		"Longitude" : "-118.195489",
+		"Zipcode" : "97884",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "UNITY",
+		"State" : "OR",
+		"Latitude" : "+44.456084"
+	},
+	{
+		"Longitude" : "-117.511052",
+		"Zipcode" : "97885",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLOWA",
+		"City" : "WALLOWA",
+		"State" : "OR",
+		"Latitude" : "+45.655005"
+	},
+	{
+		"Longitude" : "-118.300068",
+		"Zipcode" : "97886",
+		"ZipClass" : "STANDARD",
+		"County" : "UMATILLA",
+		"City" : "WESTON",
+		"State" : "OR",
+		"Latitude" : "+45.788782"
+	},
+	{
+		"Longitude" : "-117.368446",
+		"Zipcode" : "97901",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "ADRIAN",
+		"State" : "OR",
+		"Latitude" : "+43.785214"
+	},
+	{
+		"Longitude" : "-117.497988",
+		"Zipcode" : "97902",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MALHEUR",
+		"City" : "AROCK",
+		"State" : "OR",
+		"Latitude" : "+42.915641"
+	},
+	{
+		"Longitude" : "-117.563891",
+		"Zipcode" : "97903",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "BROGAN",
+		"State" : "OR",
+		"Latitude" : "+44.248595"
+	},
+	{
+		"Longitude" : "-119.069624",
+		"Zipcode" : "97904",
+		"ZipClass" : "STANDARD",
+		"County" : "HARNEY",
+		"City" : "DREWSEY",
+		"State" : "OR",
+		"Latitude" : "+43.019785"
+	},
+	{
+		"Longitude" : "-117.412907",
+		"Zipcode" : "97905",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BAKER",
+		"City" : "DURKEE",
+		"State" : "OR",
+		"Latitude" : "+44.498826"
+	},
+	{
+		"Longitude" : "-117.626175",
+		"Zipcode" : "97906",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "HARPER",
+		"State" : "OR",
+		"Latitude" : "+43.830263"
+	},
+	{
+		"Longitude" : "-117.389163",
+		"Zipcode" : "97907",
+		"ZipClass" : "STANDARD",
+		"County" : "BAKER",
+		"City" : "HUNTINGTON",
+		"State" : "OR",
+		"Latitude" : "+44.432748"
+	},
+	{
+		"Longitude" : "-117.818949",
+		"Zipcode" : "97908",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "IRONSIDE",
+		"State" : "OR",
+		"Latitude" : "+44.341058"
+	},
+	{
+		"Longitude" : "-117.481258",
+		"Zipcode" : "97909",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "JAMIESON",
+		"State" : "OR",
+		"Latitude" : "+44.216093"
+	},
+	{
+		"Longitude" : "-117.469061",
+		"Zipcode" : "97910",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "JORDAN VALLEY",
+		"State" : "OR",
+		"Latitude" : "+42.951169"
+	},
+	{
+		"Longitude" : "-118.036522",
+		"Zipcode" : "97911",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "JUNTURA",
+		"State" : "OR",
+		"Latitude" : "+43.820762"
+	},
+	{
+		"Longitude" : "-117.207823",
+		"Zipcode" : "97913",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "NYSSA",
+		"State" : "OR",
+		"Latitude" : "+43.627554"
+	},
+	{
+		"Longitude" : "-117.079896",
+		"Zipcode" : "97914",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "ONTARIO",
+		"State" : "OR",
+		"Latitude" : "+44.093127"
+	},
+	{
+		"Longitude" : "-118.098586",
+		"Zipcode" : "97917",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MALHEUR",
+		"City" : "RIVERSIDE",
+		"State" : "OR",
+		"Latitude" : "+43.509919"
+	},
+	{
+		"Longitude" : "-117.283258",
+		"Zipcode" : "97918",
+		"ZipClass" : "STANDARD",
+		"County" : "MALHEUR",
+		"City" : "VALE",
+		"State" : "OR",
+		"Latitude" : "+44.052329"
+	},
+	{
+		"Longitude" : "-117.709928",
+		"Zipcode" : "97920",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MALHEUR",
+		"City" : "WESTFALL",
+		"State" : "OR",
+		"Latitude" : "+43.966853"
+	}
+]}

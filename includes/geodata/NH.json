@@ -1,0 +1,2532 @@
+{
+	"result":[
+	{
+		"Longitude" : "-071.629365",
+		"Zipcode" : "03031",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "AMHERST",
+		"State" : "NH",
+		"Latitude" : "+42.874740"
+	},
+	{
+		"Longitude" : "-071.343576",
+		"Zipcode" : "03032",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "AUBURN",
+		"State" : "NH",
+		"Latitude" : "+42.989151"
+	},
+	{
+		"Longitude" : "-071.767437",
+		"Zipcode" : "03033",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "BROOKLINE",
+		"State" : "NH",
+		"Latitude" : "+42.847268"
+	},
+	{
+		"Longitude" : "-071.305437",
+		"Zipcode" : "03034",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "CANDIA",
+		"State" : "NH",
+		"Latitude" : "+43.059283"
+	},
+	{
+		"Longitude" : "-071.251021",
+		"Zipcode" : "03036",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "CHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.961606"
+	},
+	{
+		"Longitude" : "-071.252719",
+		"Zipcode" : "03037",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "DEERFIELD",
+		"State" : "NH",
+		"Latitude" : "+42.987495"
+	},
+	{
+		"Longitude" : "-071.197169",
+		"Zipcode" : "03038",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "DERRY",
+		"State" : "NH",
+		"Latitude" : "+42.950825"
+	},
+	{
+		"Longitude" : "-071.013202",
+		"Zipcode" : "03040",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "EAST CANDIA",
+		"State" : "NH",
+		"Latitude" : "+43.005895"
+	},
+	{
+		"Longitude" : "-071.013202",
+		"Zipcode" : "03041",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCKINGHAM",
+		"City" : "EAST DERRY",
+		"State" : "NH",
+		"Latitude" : "+43.005895"
+	},
+	{
+		"Longitude" : "-071.084411",
+		"Zipcode" : "03042",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "EPPING",
+		"State" : "NH",
+		"Latitude" : "+43.047595"
+	},
+	{
+		"Longitude" : "-071.816505",
+		"Zipcode" : "03043",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "FRANCESTOWN",
+		"State" : "NH",
+		"Latitude" : "+42.916233"
+	},
+	{
+		"Longitude" : "-071.127041",
+		"Zipcode" : "03044",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "FREMONT",
+		"State" : "NH",
+		"Latitude" : "+42.992203"
+	},
+	{
+		"Longitude" : "-071.687633",
+		"Zipcode" : "03045",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "GOFFSTOWN",
+		"State" : "NH",
+		"Latitude" : "+42.946710"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "03046",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "DUNBARTON",
+		"State" : "NH",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-071.859087",
+		"Zipcode" : "03047",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "GREENFIELD",
+		"State" : "NH",
+		"Latitude" : "+42.929346"
+	},
+	{
+		"Longitude" : "-071.717548",
+		"Zipcode" : "03048",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "GREENVILLE",
+		"State" : "NH",
+		"Latitude" : "+42.875116"
+	},
+	{
+		"Longitude" : "-071.581313",
+		"Zipcode" : "03049",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "HOLLIS",
+		"State" : "NH",
+		"Latitude" : "+42.859545"
+	},
+	{
+		"Longitude" : "-071.618870",
+		"Zipcode" : "03051",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "HUDSON",
+		"State" : "NH",
+		"Latitude" : "+42.766426"
+	},
+	{
+		"Longitude" : "-071.485331",
+		"Zipcode" : "03052",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "LITCHFIELD",
+		"State" : "NH",
+		"Latitude" : "+42.886789"
+	},
+	{
+		"Longitude" : "-071.387776",
+		"Zipcode" : "03053",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "LONDONDERRY",
+		"State" : "NH",
+		"Latitude" : "+42.871200"
+	},
+	{
+		"Longitude" : "-071.667508",
+		"Zipcode" : "03054",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MERRIMACK",
+		"State" : "NH",
+		"Latitude" : "+42.924928"
+	},
+	{
+		"Longitude" : "-071.743882",
+		"Zipcode" : "03055",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MILFORD",
+		"State" : "NH",
+		"Latitude" : "+42.848787"
+	},
+	{
+		"Longitude" : "-071.727044",
+		"Zipcode" : "03057",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MONT VERNON",
+		"State" : "NH",
+		"Latitude" : "+42.850464"
+	},
+	{
+		"Longitude" : "-071.626336",
+		"Zipcode" : "03060",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "NASHUA",
+		"State" : "NH",
+		"Latitude" : "+42.771537"
+	},
+	{
+		"Longitude" : "-071.653939",
+		"Zipcode" : "03061",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "NASHUA",
+		"State" : "NH",
+		"Latitude" : "+42.952124"
+	},
+	{
+		"Longitude" : "-071.499760",
+		"Zipcode" : "03062",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "NASHUA",
+		"State" : "NH",
+		"Latitude" : "+42.860117"
+	},
+	{
+		"Longitude" : "-071.511111",
+		"Zipcode" : "03063",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "NASHUA",
+		"State" : "NH",
+		"Latitude" : "+42.774427"
+	},
+	{
+		"Longitude" : "-071.628611",
+		"Zipcode" : "03064",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "NASHUA",
+		"State" : "NH",
+		"Latitude" : "+42.774237"
+	},
+	{
+		"Longitude" : "-071.775889",
+		"Zipcode" : "03070",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "NEW BOSTON",
+		"State" : "NH",
+		"Latitude" : "+42.903497"
+	},
+	{
+		"Longitude" : "-071.845164",
+		"Zipcode" : "03071",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "NEW IPSWICH",
+		"State" : "NH",
+		"Latitude" : "+42.762946"
+	},
+	{
+		"Longitude" : "-071.013202",
+		"Zipcode" : "03073",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCKINGHAM",
+		"City" : "NORTH SALEM",
+		"State" : "NH",
+		"Latitude" : "+43.005895"
+	},
+	{
+		"Longitude" : "-071.318715",
+		"Zipcode" : "03076",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "PELHAM",
+		"State" : "NH",
+		"Latitude" : "+42.740651"
+	},
+	{
+		"Longitude" : "-071.204521",
+		"Zipcode" : "03077",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "RAYMOND",
+		"State" : "NH",
+		"Latitude" : "+43.059320"
+	},
+	{
+		"Longitude" : "-071.196195",
+		"Zipcode" : "03079",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "SALEM",
+		"State" : "NH",
+		"Latitude" : "+42.872045"
+	},
+	{
+		"Longitude" : "-071.773947",
+		"Zipcode" : "03082",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "LYNDEBOROUGH",
+		"State" : "NH",
+		"Latitude" : "+42.902031"
+	},
+	{
+		"Longitude" : "-071.860983",
+		"Zipcode" : "03084",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "TEMPLE",
+		"State" : "NH",
+		"Latitude" : "+42.822275"
+	},
+	{
+		"Longitude" : "-071.730154",
+		"Zipcode" : "03086",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "WILTON",
+		"State" : "NH",
+		"Latitude" : "+42.894022"
+	},
+	{
+		"Longitude" : "-071.234009",
+		"Zipcode" : "03087",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "WINDHAM",
+		"State" : "NH",
+		"Latitude" : "+42.892211"
+	},
+	{
+		"Longitude" : "-071.462111",
+		"Zipcode" : "03101",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.988483"
+	},
+	{
+		"Longitude" : "-071.494561",
+		"Zipcode" : "03102",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+43.007883"
+	},
+	{
+		"Longitude" : "-071.463761",
+		"Zipcode" : "03103",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.942463"
+	},
+	{
+		"Longitude" : "-071.372208",
+		"Zipcode" : "03104",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.897524"
+	},
+	{
+		"Longitude" : "-071.653939",
+		"Zipcode" : "03105",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.952124"
+	},
+	{
+		"Longitude" : "-071.443616",
+		"Zipcode" : "03106",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "HOOKSETT",
+		"State" : "NH",
+		"Latitude" : "+43.065097"
+	},
+	{
+		"Longitude" : "-071.653939",
+		"Zipcode" : "03107",
+		"ZipClass" : "UNIQUE",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.952124"
+	},
+	{
+		"Longitude" : "-071.653939",
+		"Zipcode" : "03108",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.952124"
+	},
+	{
+		"Longitude" : "-071.405283",
+		"Zipcode" : "03109",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.970084"
+	},
+	{
+		"Longitude" : "-071.535515",
+		"Zipcode" : "03110",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "BEDFORD",
+		"State" : "NH",
+		"Latitude" : "+42.937430"
+	},
+	{
+		"Longitude" : "-071.653939",
+		"Zipcode" : "03111",
+		"ZipClass" : "UNIQUE",
+		"County" : "HILLSBOROUGH",
+		"City" : "MANCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.952124"
+	},
+	{
+		"Longitude" : "-071.534068",
+		"Zipcode" : "03215",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "WATERVILLE VALLEY",
+		"State" : "NH",
+		"Latitude" : "+43.930221"
+	},
+	{
+		"Longitude" : "-071.684093",
+		"Zipcode" : "03216",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "ANDOVER",
+		"State" : "NH",
+		"Latitude" : "+43.447006"
+	},
+	{
+		"Longitude" : "-071.639896",
+		"Zipcode" : "03217",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "ASHLAND",
+		"State" : "NH",
+		"Latitude" : "+43.715626"
+	},
+	{
+		"Longitude" : "-071.373189",
+		"Zipcode" : "03218",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "BARNSTEAD",
+		"State" : "NH",
+		"Latitude" : "+43.417369"
+	},
+	{
+		"Longitude" : "-071.407090",
+		"Zipcode" : "03220",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "BELMONT",
+		"State" : "NH",
+		"Latitude" : "+43.455551"
+	},
+	{
+		"Longitude" : "-071.792489",
+		"Zipcode" : "03221",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "BRADFORD",
+		"State" : "NH",
+		"Latitude" : "+43.280961"
+	},
+	{
+		"Longitude" : "-071.721580",
+		"Zipcode" : "03222",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "BRISTOL",
+		"State" : "NH",
+		"Latitude" : "+43.707810"
+	},
+	{
+		"Longitude" : "-071.665223",
+		"Zipcode" : "03223",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "CAMPTON",
+		"State" : "NH",
+		"Latitude" : "+43.841799"
+	},
+	{
+		"Longitude" : "-071.604226",
+		"Zipcode" : "03224",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "CANTERBURY",
+		"State" : "NH",
+		"Latitude" : "+43.378281"
+	},
+	{
+		"Longitude" : "-071.292981",
+		"Zipcode" : "03225",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "CENTER BARNSTEAD",
+		"State" : "NH",
+		"Latitude" : "+43.386652"
+	},
+	{
+		"Longitude" : "-071.466212",
+		"Zipcode" : "03226",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "CENTER HARBOR",
+		"State" : "NH",
+		"Latitude" : "+43.693870"
+	},
+	{
+		"Longitude" : "-071.323953",
+		"Zipcode" : "03227",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CENTER SANDWICH",
+		"State" : "NH",
+		"Latitude" : "+43.694809"
+	},
+	{
+		"Longitude" : "-071.812943",
+		"Zipcode" : "03229",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "CONTOOCOOK",
+		"State" : "NH",
+		"Latitude" : "+43.301308"
+	},
+	{
+		"Longitude" : "-071.882094",
+		"Zipcode" : "03230",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "DANBURY",
+		"State" : "NH",
+		"Latitude" : "+43.514791"
+	},
+	{
+		"Longitude" : "-071.736518",
+		"Zipcode" : "03231",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERRIMACK",
+		"City" : "EAST ANDOVER",
+		"State" : "NH",
+		"Latitude" : "+43.466172"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03232",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "EAST HEBRON",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-071.944794",
+		"Zipcode" : "03233",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "ELKINS",
+		"State" : "NH",
+		"Latitude" : "+43.422706"
+	},
+	{
+		"Longitude" : "-071.669712",
+		"Zipcode" : "03234",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "EPSOM",
+		"State" : "NH",
+		"Latitude" : "+43.340736"
+	},
+	{
+		"Longitude" : "-071.680021",
+		"Zipcode" : "03235",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "FRANKLIN",
+		"State" : "NH",
+		"Latitude" : "+43.374297"
+	},
+	{
+		"Longitude" : "-071.384213",
+		"Zipcode" : "03237",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "GILMANTON",
+		"State" : "NH",
+		"Latitude" : "+43.414064"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03238",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAFTON",
+		"City" : "GLENCLIFF",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03240",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "GRAFTON",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-071.889483",
+		"Zipcode" : "03241",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "HEBRON",
+		"State" : "NH",
+		"Latitude" : "+43.718268"
+	},
+	{
+		"Longitude" : "-071.819590",
+		"Zipcode" : "03242",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "HENNIKER",
+		"State" : "NH",
+		"Latitude" : "+43.180148"
+	},
+	{
+		"Longitude" : "-071.762631",
+		"Zipcode" : "03243",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "HILL",
+		"State" : "NH",
+		"Latitude" : "+43.443473"
+	},
+	{
+		"Longitude" : "-071.914287",
+		"Zipcode" : "03244",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "HILLSBORO",
+		"State" : "NH",
+		"Latitude" : "+43.122950"
+	},
+	{
+		"Longitude" : "-071.604406",
+		"Zipcode" : "03245",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAFTON",
+		"City" : "HOLDERNESS",
+		"State" : "NH",
+		"Latitude" : "+43.737831"
+	},
+	{
+		"Longitude" : "-071.426997",
+		"Zipcode" : "03246",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "LACONIA",
+		"State" : "NH",
+		"Latitude" : "+43.535461"
+	},
+	{
+		"Longitude" : "-071.445452",
+		"Zipcode" : "03247",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "LACONIA",
+		"State" : "NH",
+		"Latitude" : "+43.588972"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "03249",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "GILFORD",
+		"State" : "NH",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-071.653505",
+		"Zipcode" : "03251",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "LINCOLN",
+		"State" : "NH",
+		"Latitude" : "+44.049183"
+	},
+	{
+		"Longitude" : "-071.537145",
+		"Zipcode" : "03252",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BELKNAP",
+		"City" : "LOCHMERE",
+		"State" : "NH",
+		"Latitude" : "+43.468562"
+	},
+	{
+		"Longitude" : "-071.517479",
+		"Zipcode" : "03253",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "MEREDITH",
+		"State" : "NH",
+		"Latitude" : "+43.592239"
+	},
+	{
+		"Longitude" : "-071.335248",
+		"Zipcode" : "03254",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "MOULTONBOROUGH",
+		"State" : "NH",
+		"Latitude" : "+43.728235"
+	},
+	{
+		"Longitude" : "-072.011840",
+		"Zipcode" : "03255",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "NEWBURY",
+		"State" : "NH",
+		"Latitude" : "+43.321723"
+	},
+	{
+		"Longitude" : "-071.634674",
+		"Zipcode" : "03256",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "NEW HAMPTON",
+		"State" : "NH",
+		"Latitude" : "+43.603288"
+	},
+	{
+		"Longitude" : "-071.733643",
+		"Zipcode" : "03257",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "NEW LONDON",
+		"State" : "NH",
+		"Latitude" : "+43.301663"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "03258",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "CHICHESTER",
+		"State" : "NH",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-071.377190",
+		"Zipcode" : "03259",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "NORTH SANDWICH",
+		"State" : "NH",
+		"Latitude" : "+43.859710"
+	},
+	{
+		"Longitude" : "-071.934059",
+		"Zipcode" : "03260",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERRIMACK",
+		"City" : "NORTH SUTTON",
+		"State" : "NH",
+		"Latitude" : "+43.365345"
+	},
+	{
+		"Longitude" : "-071.202568",
+		"Zipcode" : "03261",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "NORTHWOOD",
+		"State" : "NH",
+		"Latitude" : "+43.208676"
+	},
+	{
+		"Longitude" : "-071.686326",
+		"Zipcode" : "03262",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "NORTH WOODSTOCK",
+		"State" : "NH",
+		"Latitude" : "+44.035391"
+	},
+	{
+		"Longitude" : "-071.343707",
+		"Zipcode" : "03263",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "PITTSFIELD",
+		"State" : "NH",
+		"Latitude" : "+43.297834"
+	},
+	{
+		"Longitude" : "-071.694017",
+		"Zipcode" : "03264",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "PLYMOUTH",
+		"State" : "NH",
+		"Latitude" : "+43.710919"
+	},
+	{
+		"Longitude" : "-071.788434",
+		"Zipcode" : "03266",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "RUMNEY",
+		"State" : "NH",
+		"Latitude" : "+43.752475"
+	},
+	{
+		"Longitude" : "-071.558817",
+		"Zipcode" : "03268",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "SALISBURY",
+		"State" : "NH",
+		"Latitude" : "+43.361756"
+	},
+	{
+		"Longitude" : "-071.514248",
+		"Zipcode" : "03269",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "SANBORNTON",
+		"State" : "NH",
+		"Latitude" : "+43.501780"
+	},
+	{
+		"Longitude" : "-071.662928",
+		"Zipcode" : "03272",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "SOUTH NEWBURY",
+		"State" : "NH",
+		"Latitude" : "+43.310279"
+	},
+	{
+		"Longitude" : "-071.928867",
+		"Zipcode" : "03273",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MERRIMACK",
+		"City" : "SOUTH SUTTON",
+		"State" : "NH",
+		"Latitude" : "+43.304205"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03274",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "STINSON LAKE",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-071.599047",
+		"Zipcode" : "03275",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "SUNCOOK",
+		"State" : "NH",
+		"Latitude" : "+43.286382"
+	},
+	{
+		"Longitude" : "-071.491660",
+		"Zipcode" : "03276",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "TILTON",
+		"State" : "NH",
+		"Latitude" : "+43.536056"
+	},
+	{
+		"Longitude" : "-071.842299",
+		"Zipcode" : "03278",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "WARNER",
+		"State" : "NH",
+		"Latitude" : "+43.310858"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03279",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "WARREN",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-072.100689",
+		"Zipcode" : "03280",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "WASHINGTON",
+		"State" : "NH",
+		"Latitude" : "+43.172290"
+	},
+	{
+		"Longitude" : "-071.762578",
+		"Zipcode" : "03281",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "WEARE",
+		"State" : "NH",
+		"Latitude" : "+43.084176"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03282",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "WENTWORTH",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-072.047018",
+		"Zipcode" : "03284",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "SPRINGFIELD",
+		"State" : "NH",
+		"Latitude" : "+43.493812"
+	},
+	{
+		"Longitude" : "-071.915826",
+		"Zipcode" : "03287",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "WILMOT",
+		"State" : "NH",
+		"Latitude" : "+43.448530"
+	},
+	{
+		"Longitude" : "-071.519728",
+		"Zipcode" : "03289",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BELKNAP",
+		"City" : "WINNISQUAM",
+		"State" : "NH",
+		"Latitude" : "+43.496372"
+	},
+	{
+		"Longitude" : "-071.125879",
+		"Zipcode" : "03290",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "NOTTINGHAM",
+		"State" : "NH",
+		"Latitude" : "+43.124825"
+	},
+	{
+		"Longitude" : "-071.139551",
+		"Zipcode" : "03291",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "WEST NOTTINGHAM",
+		"State" : "NH",
+		"Latitude" : "+43.182251"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03293",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "WOODSTOCK",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-071.445841",
+		"Zipcode" : "03298",
+		"ZipClass" : "UNIQUE",
+		"County" : "BELKNAP",
+		"City" : "TILTON",
+		"State" : "NH",
+		"Latitude" : "+43.524872"
+	},
+	{
+		"Longitude" : "-071.445841",
+		"Zipcode" : "03299",
+		"ZipClass" : "UNIQUE",
+		"County" : "BELKNAP",
+		"City" : "TILTON",
+		"State" : "NH",
+		"Latitude" : "+43.524872"
+	},
+	{
+		"Longitude" : "-071.536101",
+		"Zipcode" : "03301",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "CONCORD",
+		"State" : "NH",
+		"Latitude" : "+43.230314"
+	},
+	{
+		"Longitude" : "-071.662928",
+		"Zipcode" : "03302",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "CONCORD",
+		"State" : "NH",
+		"Latitude" : "+43.310279"
+	},
+	{
+		"Longitude" : "-071.659523",
+		"Zipcode" : "03303",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "CONCORD",
+		"State" : "NH",
+		"Latitude" : "+43.281654"
+	},
+	{
+		"Longitude" : "-071.544599",
+		"Zipcode" : "03304",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "BOW",
+		"State" : "NH",
+		"Latitude" : "+43.128256"
+	},
+	{
+		"Longitude" : "-071.517151",
+		"Zipcode" : "03305",
+		"ZipClass" : "UNIQUE",
+		"County" : "MERRIMACK",
+		"City" : "CONCORD",
+		"State" : "NH",
+		"Latitude" : "+43.213400"
+	},
+	{
+		"Longitude" : "-071.467006",
+		"Zipcode" : "03307",
+		"ZipClass" : "STANDARD",
+		"County" : "MERRIMACK",
+		"City" : "LOUDON",
+		"State" : "NH",
+		"Latitude" : "+43.319339"
+	},
+	{
+		"Longitude" : "-072.248052",
+		"Zipcode" : "03431",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "KEENE",
+		"State" : "NH",
+		"Latitude" : "+42.903656"
+	},
+	{
+		"Longitude" : "-072.243029",
+		"Zipcode" : "03435",
+		"ZipClass" : "UNIQUE",
+		"County" : "CHESHIRE",
+		"City" : "KEENE",
+		"State" : "NH",
+		"Latitude" : "+42.947098"
+	},
+	{
+		"Longitude" : "-071.971353",
+		"Zipcode" : "03440",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "ANTRIM",
+		"State" : "NH",
+		"Latitude" : "+43.044535"
+	},
+	{
+		"Longitude" : "-072.444106",
+		"Zipcode" : "03441",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "ASHUELOT",
+		"State" : "NH",
+		"Latitude" : "+42.777271"
+	},
+	{
+		"Longitude" : "-071.908029",
+		"Zipcode" : "03442",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "BENNINGTON",
+		"State" : "NH",
+		"Latitude" : "+43.002936"
+	},
+	{
+		"Longitude" : "-072.454813",
+		"Zipcode" : "03443",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "CHESTERFIELD",
+		"State" : "NH",
+		"Latitude" : "+42.883948"
+	},
+	{
+		"Longitude" : "-072.018993",
+		"Zipcode" : "03444",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHESHIRE",
+		"City" : "DUBLIN",
+		"State" : "NH",
+		"Latitude" : "+42.889124"
+	},
+	{
+		"Longitude" : "-072.201903",
+		"Zipcode" : "03445",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "SULLIVAN",
+		"State" : "NH",
+		"Latitude" : "+42.998225"
+	},
+	{
+		"Longitude" : "-072.330145",
+		"Zipcode" : "03446",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "SWANZEY",
+		"State" : "NH",
+		"Latitude" : "+42.841079"
+	},
+	{
+		"Longitude" : "-072.248026",
+		"Zipcode" : "03447",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "FITZWILLIAM",
+		"State" : "NH",
+		"Latitude" : "+42.881769"
+	},
+	{
+		"Longitude" : "-072.210953",
+		"Zipcode" : "03448",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "GILSUM",
+		"State" : "NH",
+		"Latitude" : "+42.936786"
+	},
+	{
+		"Longitude" : "-071.983797",
+		"Zipcode" : "03449",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "HANCOCK",
+		"State" : "NH",
+		"Latitude" : "+42.939240"
+	},
+	{
+		"Longitude" : "-072.102634",
+		"Zipcode" : "03450",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "HARRISVILLE",
+		"State" : "NH",
+		"Latitude" : "+42.884548"
+	},
+	{
+		"Longitude" : "-072.280099",
+		"Zipcode" : "03451",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "HINSDALE",
+		"State" : "NH",
+		"Latitude" : "+42.894151"
+	},
+	{
+		"Longitude" : "-072.082559",
+		"Zipcode" : "03452",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "JAFFREY",
+		"State" : "NH",
+		"Latitude" : "+42.821969"
+	},
+	{
+		"Longitude" : "-072.279638",
+		"Zipcode" : "03455",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "MARLBOROUGH",
+		"State" : "NH",
+		"Latitude" : "+42.888250"
+	},
+	{
+		"Longitude" : "-072.202564",
+		"Zipcode" : "03456",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "MARLOW",
+		"State" : "NH",
+		"Latitude" : "+43.119294"
+	},
+	{
+		"Longitude" : "-072.091677",
+		"Zipcode" : "03457",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "NELSON",
+		"State" : "NH",
+		"Latitude" : "+42.896623"
+	},
+	{
+		"Longitude" : "-071.937200",
+		"Zipcode" : "03458",
+		"ZipClass" : "STANDARD",
+		"County" : "HILLSBOROUGH",
+		"City" : "PETERBOROUGH",
+		"State" : "NH",
+		"Latitude" : "+42.956433"
+	},
+	{
+		"Longitude" : "-072.009120",
+		"Zipcode" : "03461",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "RINDGE",
+		"State" : "NH",
+		"Latitude" : "+42.765090"
+	},
+	{
+		"Longitude" : "-072.239432",
+		"Zipcode" : "03462",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "SPOFFORD",
+		"State" : "NH",
+		"Latitude" : "+42.870716"
+	},
+	{
+		"Longitude" : "-072.102454",
+		"Zipcode" : "03464",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "STODDARD",
+		"State" : "NH",
+		"Latitude" : "+42.954780"
+	},
+	{
+		"Longitude" : "-072.279814",
+		"Zipcode" : "03465",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "TROY",
+		"State" : "NH",
+		"Latitude" : "+42.843617"
+	},
+	{
+		"Longitude" : "-072.432202",
+		"Zipcode" : "03466",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "WEST CHESTERFIELD",
+		"State" : "NH",
+		"Latitude" : "+42.858419"
+	},
+	{
+		"Longitude" : "-072.442560",
+		"Zipcode" : "03467",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "WESTMORELAND",
+		"State" : "NH",
+		"Latitude" : "+42.973867"
+	},
+	{
+		"Longitude" : "-071.933396",
+		"Zipcode" : "03468",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HILLSBOROUGH",
+		"City" : "WEST PETERBOROUGH",
+		"State" : "NH",
+		"Latitude" : "+42.890804"
+	},
+	{
+		"Longitude" : "-072.315090",
+		"Zipcode" : "03469",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHESHIRE",
+		"City" : "WEST SWANZEY",
+		"State" : "NH",
+		"Latitude" : "+42.873410"
+	},
+	{
+		"Longitude" : "-072.274928",
+		"Zipcode" : "03470",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "WINCHESTER",
+		"State" : "NH",
+		"Latitude" : "+42.895797"
+	},
+	{
+		"Longitude" : "-071.877638",
+		"Zipcode" : "03561",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "LITTLETON",
+		"State" : "NH",
+		"Latitude" : "+44.335289"
+	},
+	{
+		"Longitude" : "-071.194226",
+		"Zipcode" : "03570",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "BERLIN",
+		"State" : "NH",
+		"Latitude" : "+44.512344"
+	},
+	{
+		"Longitude" : "-071.728049",
+		"Zipcode" : "03574",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "BETHLEHEM",
+		"State" : "NH",
+		"Latitude" : "+44.306320"
+	},
+	{
+		"Longitude" : "-071.387387",
+		"Zipcode" : "03575",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COOS",
+		"City" : "BRETTON WOODS",
+		"State" : "NH",
+		"Latitude" : "+44.695648"
+	},
+	{
+		"Longitude" : "-071.500809",
+		"Zipcode" : "03576",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "COLEBROOK",
+		"State" : "NH",
+		"Latitude" : "+44.902731"
+	},
+	{
+		"Longitude" : "-071.387387",
+		"Zipcode" : "03579",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "ERROL",
+		"State" : "NH",
+		"Latitude" : "+44.695648"
+	},
+	{
+		"Longitude" : "-071.737162",
+		"Zipcode" : "03580",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "FRANCONIA",
+		"State" : "NH",
+		"Latitude" : "+44.212814"
+	},
+	{
+		"Longitude" : "-071.154758",
+		"Zipcode" : "03581",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "GORHAM",
+		"State" : "NH",
+		"Latitude" : "+44.404848"
+	},
+	{
+		"Longitude" : "-071.422453",
+		"Zipcode" : "03582",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "GROVETON",
+		"State" : "NH",
+		"Latitude" : "+44.750960"
+	},
+	{
+		"Longitude" : "-071.387387",
+		"Zipcode" : "03583",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "JEFFERSON",
+		"State" : "NH",
+		"Latitude" : "+44.695648"
+	},
+	{
+		"Longitude" : "-071.561225",
+		"Zipcode" : "03584",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "LANCASTER",
+		"State" : "NH",
+		"Latitude" : "+44.476575"
+	},
+	{
+		"Longitude" : "-071.888882",
+		"Zipcode" : "03585",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "LISBON",
+		"State" : "NH",
+		"Latitude" : "+44.245004"
+	},
+	{
+		"Longitude" : "-071.387387",
+		"Zipcode" : "03587",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COOS",
+		"City" : "MEADOWS",
+		"State" : "NH",
+		"Latitude" : "+44.695648"
+	},
+	{
+		"Longitude" : "-071.218672",
+		"Zipcode" : "03588",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "MILAN",
+		"State" : "NH",
+		"Latitude" : "+44.565320"
+	},
+	{
+		"Longitude" : "-071.387387",
+		"Zipcode" : "03589",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COOS",
+		"City" : "MOUNT WASHINGTON",
+		"State" : "NH",
+		"Latitude" : "+44.695648"
+	},
+	{
+		"Longitude" : "-071.387387",
+		"Zipcode" : "03590",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "NORTH STRATFORD",
+		"State" : "NH",
+		"Latitude" : "+44.695648"
+	},
+	{
+		"Longitude" : "-071.387387",
+		"Zipcode" : "03592",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "PITTSBURG",
+		"State" : "NH",
+		"Latitude" : "+44.695648"
+	},
+	{
+		"Longitude" : "-071.547061",
+		"Zipcode" : "03595",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COOS",
+		"City" : "TWIN MOUNTAIN",
+		"State" : "NH",
+		"Latitude" : "+44.268950"
+	},
+	{
+		"Longitude" : "-071.387387",
+		"Zipcode" : "03597",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "COOS",
+		"City" : "WEST STEWARTSTOWN",
+		"State" : "NH",
+		"Latitude" : "+44.695648"
+	},
+	{
+		"Longitude" : "-071.610189",
+		"Zipcode" : "03598",
+		"ZipClass" : "STANDARD",
+		"County" : "COOS",
+		"City" : "WHITEFIELD",
+		"State" : "NH",
+		"Latitude" : "+44.363681"
+	},
+	{
+		"Longitude" : "-072.300075",
+		"Zipcode" : "03601",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "ACWORTH",
+		"State" : "NH",
+		"Latitude" : "+43.195982"
+	},
+	{
+		"Longitude" : "-072.310623",
+		"Zipcode" : "03602",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "ALSTEAD",
+		"State" : "NH",
+		"Latitude" : "+43.134412"
+	},
+	{
+		"Longitude" : "-072.370222",
+		"Zipcode" : "03603",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "CHARLESTOWN",
+		"State" : "NH",
+		"Latitude" : "+43.268117"
+	},
+	{
+		"Longitude" : "-072.243029",
+		"Zipcode" : "03604",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "DREWSVILLE",
+		"State" : "NH",
+		"Latitude" : "+42.947098"
+	},
+	{
+		"Longitude" : "-072.196758",
+		"Zipcode" : "03605",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "LEMPSTER",
+		"State" : "NH",
+		"Latitude" : "+43.213615"
+	},
+	{
+		"Longitude" : "-072.193966",
+		"Zipcode" : "03607",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "SOUTH ACWORTH",
+		"State" : "NH",
+		"Latitude" : "+43.364504"
+	},
+	{
+		"Longitude" : "-072.390121",
+		"Zipcode" : "03608",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "WALPOLE",
+		"State" : "NH",
+		"Latitude" : "+43.072239"
+	},
+	{
+		"Longitude" : "-072.407236",
+		"Zipcode" : "03609",
+		"ZipClass" : "STANDARD",
+		"County" : "CHESHIRE",
+		"City" : "NORTH WALPOLE",
+		"State" : "NH",
+		"Latitude" : "+43.138018"
+	},
+	{
+		"Longitude" : "-071.948852",
+		"Zipcode" : "03740",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "BATH",
+		"State" : "NH",
+		"Latitude" : "+44.114163"
+	},
+	{
+		"Longitude" : "-072.057312",
+		"Zipcode" : "03741",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "CANAAN",
+		"State" : "NH",
+		"Latitude" : "+43.631230"
+	},
+	{
+		"Longitude" : "-072.209819",
+		"Zipcode" : "03743",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "CLAREMONT",
+		"State" : "NH",
+		"Latitude" : "+43.415993"
+	},
+	{
+		"Longitude" : "-072.337149",
+		"Zipcode" : "03745",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "CORNISH",
+		"State" : "NH",
+		"Latitude" : "+43.462156"
+	},
+	{
+		"Longitude" : "-072.193966",
+		"Zipcode" : "03746",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "CORNISH FLAT",
+		"State" : "NH",
+		"Latitude" : "+43.364504"
+	},
+	{
+		"Longitude" : "-072.116603",
+		"Zipcode" : "03748",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "ENFIELD",
+		"State" : "NH",
+		"Latitude" : "+43.630906"
+	},
+	{
+		"Longitude" : "-072.085410",
+		"Zipcode" : "03749",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAFTON",
+		"City" : "ENFIELD CENTER",
+		"State" : "NH",
+		"Latitude" : "+43.579573"
+	},
+	{
+		"Longitude" : "-072.215182",
+		"Zipcode" : "03750",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "ETNA",
+		"State" : "NH",
+		"Latitude" : "+43.697999"
+	},
+	{
+		"Longitude" : "-072.063675",
+		"Zipcode" : "03751",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SULLIVAN",
+		"City" : "GEORGES MILLS",
+		"State" : "NH",
+		"Latitude" : "+43.448720"
+	},
+	{
+		"Longitude" : "-072.196718",
+		"Zipcode" : "03752",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "GOSHEN",
+		"State" : "NH",
+		"Latitude" : "+43.417705"
+	},
+	{
+		"Longitude" : "-072.218445",
+		"Zipcode" : "03753",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "GRANTHAM",
+		"State" : "NH",
+		"Latitude" : "+43.463101"
+	},
+	{
+		"Longitude" : "-072.125562",
+		"Zipcode" : "03754",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SULLIVAN",
+		"City" : "GUILD",
+		"State" : "NH",
+		"Latitude" : "+43.365618"
+	},
+	{
+		"Longitude" : "-072.120314",
+		"Zipcode" : "03755",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "HANOVER",
+		"State" : "NH",
+		"Latitude" : "+43.861077"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03756",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "LEBANON",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-072.046692",
+		"Zipcode" : "03765",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "HAVERHILL",
+		"State" : "NH",
+		"Latitude" : "+44.037549"
+	},
+	{
+		"Longitude" : "-072.235460",
+		"Zipcode" : "03766",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "LEBANON",
+		"State" : "NH",
+		"Latitude" : "+43.637148"
+	},
+	{
+		"Longitude" : "-072.130495",
+		"Zipcode" : "03768",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "LYME",
+		"State" : "NH",
+		"Latitude" : "+43.801656"
+	},
+	{
+		"Longitude" : "-072.120468",
+		"Zipcode" : "03769",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GRAFTON",
+		"City" : "LYME CENTER",
+		"State" : "NH",
+		"Latitude" : "+43.786267"
+	},
+	{
+		"Longitude" : "-072.255638",
+		"Zipcode" : "03770",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "MERIDEN",
+		"State" : "NH",
+		"Latitude" : "+43.421675"
+	},
+	{
+		"Longitude" : "-072.015317",
+		"Zipcode" : "03771",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "MONROE",
+		"State" : "NH",
+		"Latitude" : "+44.268612"
+	},
+	{
+		"Longitude" : "-072.199659",
+		"Zipcode" : "03773",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "NEWPORT",
+		"State" : "NH",
+		"Latitude" : "+43.390485"
+	},
+	{
+		"Longitude" : "-072.014608",
+		"Zipcode" : "03774",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "NORTH HAVERHILL",
+		"State" : "NH",
+		"Latitude" : "+44.077803"
+	},
+	{
+		"Longitude" : "-072.109870",
+		"Zipcode" : "03777",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "ORFORD",
+		"State" : "NH",
+		"Latitude" : "+43.927348"
+	},
+	{
+		"Longitude" : "-072.062132",
+		"Zipcode" : "03779",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "PIERMONT",
+		"State" : "NH",
+		"Latitude" : "+43.948343"
+	},
+	{
+		"Longitude" : "-071.840883",
+		"Zipcode" : "03780",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "PIKE",
+		"State" : "NH",
+		"Latitude" : "+43.967542"
+	},
+	{
+		"Longitude" : "-072.282596",
+		"Zipcode" : "03781",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "PLAINFIELD",
+		"State" : "NH",
+		"Latitude" : "+43.432999"
+	},
+	{
+		"Longitude" : "-072.154710",
+		"Zipcode" : "03782",
+		"ZipClass" : "STANDARD",
+		"County" : "SULLIVAN",
+		"City" : "SUNAPEE",
+		"State" : "NH",
+		"Latitude" : "+43.426838"
+	},
+	{
+		"Longitude" : "-072.234800",
+		"Zipcode" : "03784",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "WEST LEBANON",
+		"State" : "NH",
+		"Latitude" : "+43.644367"
+	},
+	{
+		"Longitude" : "-072.080708",
+		"Zipcode" : "03785",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAFTON",
+		"City" : "WOODSVILLE",
+		"State" : "NH",
+		"Latitude" : "+43.948644"
+	},
+	{
+		"Longitude" : "-070.950742",
+		"Zipcode" : "03801",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "PORTSMOUTH",
+		"State" : "NH",
+		"Latitude" : "+43.009222"
+	},
+	{
+		"Longitude" : "-071.013202",
+		"Zipcode" : "03802",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "PORTSMOUTH",
+		"State" : "NH",
+		"Latitude" : "+43.005895"
+	},
+	{
+		"Longitude" : "-071.444752",
+		"Zipcode" : "03803",
+		"ZipClass" : "UNIQUE",
+		"County" : "ROCKINGHAM",
+		"City" : "PORTSMOUTH",
+		"State" : "NH",
+		"Latitude" : "+42.927030"
+	},
+	{
+		"Longitude" : "-071.013202",
+		"Zipcode" : "03804",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "PORTSMOUTH",
+		"State" : "NH",
+		"Latitude" : "+43.005895"
+	},
+	{
+		"Longitude" : "-070.930684",
+		"Zipcode" : "03805",
+		"ZipClass" : "UNIQUE",
+		"County" : "STRAFFORD",
+		"City" : "ROLLINSFORD",
+		"State" : "NH",
+		"Latitude" : "+43.285282"
+	},
+	{
+		"Longitude" : "-071.222455",
+		"Zipcode" : "03809",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "ALTON",
+		"State" : "NH",
+		"Latitude" : "+43.462586"
+	},
+	{
+		"Longitude" : "-071.277387",
+		"Zipcode" : "03810",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "ALTON BAY",
+		"State" : "NH",
+		"Latitude" : "+43.502514"
+	},
+	{
+		"Longitude" : "-071.159035",
+		"Zipcode" : "03811",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "ATKINSON",
+		"State" : "NH",
+		"Latitude" : "+42.878366"
+	},
+	{
+		"Longitude" : "-071.257726",
+		"Zipcode" : "03812",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "BARTLETT",
+		"State" : "NH",
+		"Latitude" : "+43.883871"
+	},
+	{
+		"Longitude" : "-071.145357",
+		"Zipcode" : "03813",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CENTER CONWAY",
+		"State" : "NH",
+		"Latitude" : "+43.797391"
+	},
+	{
+		"Longitude" : "-071.122689",
+		"Zipcode" : "03814",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CENTER OSSIPEE",
+		"State" : "NH",
+		"Latitude" : "+43.762429"
+	},
+	{
+		"Longitude" : "-071.109825",
+		"Zipcode" : "03815",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "CENTER STRAFFORD",
+		"State" : "NH",
+		"Latitude" : "+43.253739"
+	},
+	{
+		"Longitude" : "-071.274458",
+		"Zipcode" : "03816",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CENTER TUFTONBORO",
+		"State" : "NH",
+		"Latitude" : "+43.660752"
+	},
+	{
+		"Longitude" : "-071.089796",
+		"Zipcode" : "03817",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CHOCORUA",
+		"State" : "NH",
+		"Latitude" : "+43.748580"
+	},
+	{
+		"Longitude" : "-071.102610",
+		"Zipcode" : "03818",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "CONWAY",
+		"State" : "NH",
+		"Latitude" : "+43.788920"
+	},
+	{
+		"Longitude" : "-071.082299",
+		"Zipcode" : "03819",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "DANVILLE",
+		"State" : "NH",
+		"Latitude" : "+42.926725"
+	},
+	{
+		"Longitude" : "-070.992042",
+		"Zipcode" : "03820",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "DOVER",
+		"State" : "NH",
+		"Latitude" : "+43.297309"
+	},
+	{
+		"Longitude" : "-071.028427",
+		"Zipcode" : "03821",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "DOVER",
+		"State" : "NH",
+		"Latitude" : "+43.326734"
+	},
+	{
+		"Longitude" : "-071.028427",
+		"Zipcode" : "03822",
+		"ZipClass" : "UNIQUE",
+		"County" : "STRAFFORD",
+		"City" : "DOVER",
+		"State" : "NH",
+		"Latitude" : "+43.326734"
+	},
+	{
+		"Longitude" : "-070.962843",
+		"Zipcode" : "03824",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "DURHAM",
+		"State" : "NH",
+		"Latitude" : "+43.165772"
+	},
+	{
+		"Longitude" : "-071.097423",
+		"Zipcode" : "03825",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "BARRINGTON",
+		"State" : "NH",
+		"Latitude" : "+43.297790"
+	},
+	{
+		"Longitude" : "-071.142690",
+		"Zipcode" : "03826",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "EAST HAMPSTEAD",
+		"State" : "NH",
+		"Latitude" : "+42.893629"
+	},
+	{
+		"Longitude" : "-071.054245",
+		"Zipcode" : "03827",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "EAST KINGSTON",
+		"State" : "NH",
+		"Latitude" : "+42.912071"
+	},
+	{
+		"Longitude" : "-071.009368",
+		"Zipcode" : "03830",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "EAST WAKEFIELD",
+		"State" : "NH",
+		"Latitude" : "+43.635065"
+	},
+	{
+		"Longitude" : "-071.257726",
+		"Zipcode" : "03832",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "EATON CENTER",
+		"State" : "NH",
+		"Latitude" : "+43.883871"
+	},
+	{
+		"Longitude" : "-070.922262",
+		"Zipcode" : "03833",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "EXETER",
+		"State" : "NH",
+		"Latitude" : "+42.951274"
+	},
+	{
+		"Longitude" : "-071.003435",
+		"Zipcode" : "03835",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "FARMINGTON",
+		"State" : "NH",
+		"Latitude" : "+43.306172"
+	},
+	{
+		"Longitude" : "-071.093154",
+		"Zipcode" : "03836",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "FREEDOM",
+		"State" : "NH",
+		"Latitude" : "+43.823704"
+	},
+	{
+		"Longitude" : "-071.299456",
+		"Zipcode" : "03837",
+		"ZipClass" : "STANDARD",
+		"County" : "BELKNAP",
+		"City" : "GILMANTON IRON WORKS",
+		"State" : "NH",
+		"Latitude" : "+43.446567"
+	},
+	{
+		"Longitude" : "-071.265371",
+		"Zipcode" : "03838",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "GLEN",
+		"State" : "NH",
+		"Latitude" : "+44.050111"
+	},
+	{
+		"Longitude" : "-070.998256",
+		"Zipcode" : "03839",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "ROCHESTER",
+		"State" : "NH",
+		"Latitude" : "+43.309966"
+	},
+	{
+		"Longitude" : "-070.809157",
+		"Zipcode" : "03840",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "GREENLAND",
+		"State" : "NH",
+		"Latitude" : "+43.038634"
+	},
+	{
+		"Longitude" : "-071.139098",
+		"Zipcode" : "03841",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "HAMPSTEAD",
+		"State" : "NH",
+		"Latitude" : "+42.877438"
+	},
+	{
+		"Longitude" : "-070.950950",
+		"Zipcode" : "03842",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "HAMPTON",
+		"State" : "NH",
+		"Latitude" : "+42.917389"
+	},
+	{
+		"Longitude" : "-071.013202",
+		"Zipcode" : "03843",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "HAMPTON",
+		"State" : "NH",
+		"Latitude" : "+43.005895"
+	},
+	{
+		"Longitude" : "-070.982601",
+		"Zipcode" : "03844",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "HAMPTON FALLS",
+		"State" : "NH",
+		"Latitude" : "+42.891888"
+	},
+	{
+		"Longitude" : "-071.134348",
+		"Zipcode" : "03845",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "INTERVALE",
+		"State" : "NH",
+		"Latitude" : "+44.082716"
+	},
+	{
+		"Longitude" : "-071.257726",
+		"Zipcode" : "03846",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "JACKSON",
+		"State" : "NH",
+		"Latitude" : "+43.883871"
+	},
+	{
+		"Longitude" : "-071.257726",
+		"Zipcode" : "03847",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "KEARSARGE",
+		"State" : "NH",
+		"Latitude" : "+43.883871"
+	},
+	{
+		"Longitude" : "-071.102933",
+		"Zipcode" : "03848",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "KINGSTON",
+		"State" : "NH",
+		"Latitude" : "+42.909731"
+	},
+	{
+		"Longitude" : "-071.124612",
+		"Zipcode" : "03849",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "MADISON",
+		"State" : "NH",
+		"Latitude" : "+43.902311"
+	},
+	{
+		"Longitude" : "-071.301681",
+		"Zipcode" : "03850",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "MELVIN VILLAGE",
+		"State" : "NH",
+		"Latitude" : "+43.707657"
+	},
+	{
+		"Longitude" : "-071.011369",
+		"Zipcode" : "03851",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "STRAFFORD",
+		"City" : "MILTON",
+		"State" : "NH",
+		"Latitude" : "+43.422942"
+	},
+	{
+		"Longitude" : "-071.028427",
+		"Zipcode" : "03852",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "MILTON MILLS",
+		"State" : "NH",
+		"Latitude" : "+43.326734"
+	},
+	{
+		"Longitude" : "-071.282068",
+		"Zipcode" : "03853",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "MIRROR LAKE",
+		"State" : "NH",
+		"Latitude" : "+43.646319"
+	},
+	{
+		"Longitude" : "-070.721596",
+		"Zipcode" : "03854",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCKINGHAM",
+		"City" : "NEW CASTLE",
+		"State" : "NH",
+		"Latitude" : "+43.064938"
+	},
+	{
+		"Longitude" : "-071.119055",
+		"Zipcode" : "03855",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "NEW DURHAM",
+		"State" : "NH",
+		"Latitude" : "+43.459503"
+	},
+	{
+		"Longitude" : "-070.978211",
+		"Zipcode" : "03856",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "NEWFIELDS",
+		"State" : "NH",
+		"Latitude" : "+43.037363"
+	},
+	{
+		"Longitude" : "-070.891642",
+		"Zipcode" : "03857",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "NEWMARKET",
+		"State" : "NH",
+		"Latitude" : "+42.979021"
+	},
+	{
+		"Longitude" : "-071.006898",
+		"Zipcode" : "03858",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "NEWTON",
+		"State" : "NH",
+		"Latitude" : "+42.937092"
+	},
+	{
+		"Longitude" : "-071.040020",
+		"Zipcode" : "03859",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCKINGHAM",
+		"City" : "NEWTON JUNCTION",
+		"State" : "NH",
+		"Latitude" : "+42.861915"
+	},
+	{
+		"Longitude" : "-071.102630",
+		"Zipcode" : "03860",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "NORTH CONWAY",
+		"State" : "NH",
+		"Latitude" : "+43.784643"
+	},
+	{
+		"Longitude" : "-070.913947",
+		"Zipcode" : "03862",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "NORTH HAMPTON",
+		"State" : "NH",
+		"Latitude" : "+43.000270"
+	},
+	{
+		"Longitude" : "-071.153338",
+		"Zipcode" : "03864",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "OSSIPEE",
+		"State" : "NH",
+		"Latitude" : "+43.667352"
+	},
+	{
+		"Longitude" : "-070.926206",
+		"Zipcode" : "03865",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "PLAISTOW",
+		"State" : "NH",
+		"Latitude" : "+42.937838"
+	},
+	{
+		"Longitude" : "-071.027303",
+		"Zipcode" : "03866",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "ROCHESTER",
+		"State" : "NH",
+		"Latitude" : "+43.411760"
+	},
+	{
+		"Longitude" : "-070.993148",
+		"Zipcode" : "03867",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "ROCHESTER",
+		"State" : "NH",
+		"Latitude" : "+43.326831"
+	},
+	{
+		"Longitude" : "-070.945161",
+		"Zipcode" : "03868",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "ROCHESTER",
+		"State" : "NH",
+		"Latitude" : "+43.349689"
+	},
+	{
+		"Longitude" : "-070.942666",
+		"Zipcode" : "03869",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "ROLLINSFORD",
+		"State" : "NH",
+		"Latitude" : "+43.161360"
+	},
+	{
+		"Longitude" : "-070.764813",
+		"Zipcode" : "03870",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "RYE",
+		"State" : "NH",
+		"Latitude" : "+43.010939"
+	},
+	{
+		"Longitude" : "-070.771896",
+		"Zipcode" : "03871",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ROCKINGHAM",
+		"City" : "RYE BEACH",
+		"State" : "NH",
+		"Latitude" : "+42.980639"
+	},
+	{
+		"Longitude" : "-071.079427",
+		"Zipcode" : "03872",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "SANBORNVILLE",
+		"State" : "NH",
+		"Latitude" : "+43.570694"
+	},
+	{
+		"Longitude" : "-071.174262",
+		"Zipcode" : "03873",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "SANDOWN",
+		"State" : "NH",
+		"Latitude" : "+42.922666"
+	},
+	{
+		"Longitude" : "-070.819897",
+		"Zipcode" : "03874",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "SEABROOK",
+		"State" : "NH",
+		"Latitude" : "+42.964415"
+	},
+	{
+		"Longitude" : "-071.176182",
+		"Zipcode" : "03875",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "SILVER LAKE",
+		"State" : "NH",
+		"Latitude" : "+43.855269"
+	},
+	{
+		"Longitude" : "-070.958264",
+		"Zipcode" : "03878",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "SOMERSWORTH",
+		"State" : "NH",
+		"Latitude" : "+43.229489"
+	},
+	{
+		"Longitude" : "-070.990155",
+		"Zipcode" : "03882",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "EFFINGHAM",
+		"State" : "NH",
+		"Latitude" : "+43.704702"
+	},
+	{
+		"Longitude" : "-071.257726",
+		"Zipcode" : "03883",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "SOUTH TAMWORTH",
+		"State" : "NH",
+		"Latitude" : "+43.883871"
+	},
+	{
+		"Longitude" : "-071.171886",
+		"Zipcode" : "03884",
+		"ZipClass" : "STANDARD",
+		"County" : "STRAFFORD",
+		"City" : "STRAFFORD",
+		"State" : "NH",
+		"Latitude" : "+43.256871"
+	},
+	{
+		"Longitude" : "-070.882134",
+		"Zipcode" : "03885",
+		"ZipClass" : "STANDARD",
+		"County" : "ROCKINGHAM",
+		"City" : "STRATHAM",
+		"State" : "NH",
+		"Latitude" : "+43.012950"
+	},
+	{
+		"Longitude" : "-071.277779",
+		"Zipcode" : "03886",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "TAMWORTH",
+		"State" : "NH",
+		"Latitude" : "+43.647527"
+	},
+	{
+		"Longitude" : "-071.040842",
+		"Zipcode" : "03887",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "UNION",
+		"State" : "NH",
+		"Latitude" : "+43.459999"
+	},
+	{
+		"Longitude" : "-071.194586",
+		"Zipcode" : "03890",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WEST OSSIPEE",
+		"State" : "NH",
+		"Latitude" : "+43.811782"
+	},
+	{
+		"Longitude" : "-071.183597",
+		"Zipcode" : "03894",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WOLFEBORO",
+		"State" : "NH",
+		"Latitude" : "+43.667102"
+	},
+	{
+		"Longitude" : "-071.218894",
+		"Zipcode" : "03896",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CARROLL",
+		"City" : "WOLFEBORO FALLS",
+		"State" : "NH",
+		"Latitude" : "+43.589157"
+	},
+	{
+		"Longitude" : "-071.257726",
+		"Zipcode" : "03897",
+		"ZipClass" : "STANDARD",
+		"County" : "CARROLL",
+		"City" : "WONALANCET",
+		"State" : "NH",
+		"Latitude" : "+43.883871"
+	}
+]}

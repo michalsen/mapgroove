@@ -1,0 +1,147 @@
+{
+	"result":[
+	{
+		"Longitude" : "-064.963715",
+		"Zipcode" : "00801",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT THOMAS",
+		"City" : "ST THOMAS",
+		"State" : "VI",
+		"Latitude" : "+18.322285"
+	},
+	{
+		"Longitude" : "-064.963715",
+		"Zipcode" : "00802",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT THOMAS",
+		"City" : "ST THOMAS",
+		"State" : "VI",
+		"Latitude" : "+18.322285"
+	},
+	{
+		"Longitude" : "-064.963715",
+		"Zipcode" : "00803",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT THOMAS",
+		"City" : "ST THOMAS",
+		"State" : "VI",
+		"Latitude" : "+18.322285"
+	},
+	{
+		"Longitude" : "-064.963715",
+		"Zipcode" : "00804",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT THOMAS",
+		"City" : "ST THOMAS",
+		"State" : "VI",
+		"Latitude" : "+18.322285"
+	},
+	{
+		"Longitude" : "-064.963715",
+		"Zipcode" : "00805",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT THOMAS",
+		"City" : "ST THOMAS",
+		"State" : "VI",
+		"Latitude" : "+18.322285"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00820",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "CHRISTIANSTED",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00821",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "CHRISTIANSTED",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00822",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "CHRISTIANSTED",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00823",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "CHRISTIANSTED",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00824",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "CHRISTIANSTED",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	},
+	{
+		"Longitude" : "-064.740737",
+		"Zipcode" : "00830",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JOHN",
+		"City" : "ST JOHN",
+		"State" : "VI",
+		"Latitude" : "+18.328160"
+	},
+	{
+		"Longitude" : "-064.740737",
+		"Zipcode" : "00831",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT JOHN",
+		"City" : "ST JOHN",
+		"State" : "VI",
+		"Latitude" : "+18.328160"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00840",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "FREDERIKSTED",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00841",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "FREDERIKSTED",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00850",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "KINGSHILL",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	},
+	{
+		"Longitude" : "-064.734694",
+		"Zipcode" : "00851",
+		"ZipClass" : "STANDARD",
+		"County" : "SAINT CROIX",
+		"City" : "KINGSHILL",
+		"State" : "VI",
+		"Latitude" : "+17.734211"
+	}
+]}

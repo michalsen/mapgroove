@@ -1,0 +1,2505 @@
+{
+	"result":[
+	{
+		"Longitude" : "-077.016719",
+		"Zipcode" : "20001",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.911936"
+	},
+	{
+		"Longitude" : "-076.982147",
+		"Zipcode" : "20002",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.908218"
+	},
+	{
+		"Longitude" : "-076.988897",
+		"Zipcode" : "20003",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.860315"
+	},
+	{
+		"Longitude" : "-077.019477",
+		"Zipcode" : "20004",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.892247"
+	},
+	{
+		"Longitude" : "-077.031695",
+		"Zipcode" : "20005",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.904011"
+	},
+	{
+		"Longitude" : "-077.041248",
+		"Zipcode" : "20006",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.897131"
+	},
+	{
+		"Longitude" : "-077.075649",
+		"Zipcode" : "20007",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.914561"
+	},
+	{
+		"Longitude" : "-077.060399",
+		"Zipcode" : "20008",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.935210"
+	},
+	{
+		"Longitude" : "-077.039798",
+		"Zipcode" : "20009",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.919261"
+	},
+	{
+		"Longitude" : "-077.030248",
+		"Zipcode" : "20010",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.932711"
+	},
+	{
+		"Longitude" : "-077.017898",
+		"Zipcode" : "20011",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.952610"
+	},
+	{
+		"Longitude" : "-077.026298",
+		"Zipcode" : "20012",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.980231"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20013",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.070949",
+		"Zipcode" : "20015",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.969260"
+	},
+	{
+		"Longitude" : "-077.091149",
+		"Zipcode" : "20016",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.938260"
+	},
+	{
+		"Longitude" : "-076.993068",
+		"Zipcode" : "20017",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.938460"
+	},
+	{
+		"Longitude" : "-076.977953",
+		"Zipcode" : "20018",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.930560"
+	},
+	{
+		"Longitude" : "-076.939396",
+		"Zipcode" : "20019",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.891561"
+	},
+	{
+		"Longitude" : "-076.971547",
+		"Zipcode" : "20020",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.857610"
+	},
+	{
+		"Longitude" : "-077.022948",
+		"Zipcode" : "20024",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.876494"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20026",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20029",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20030",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-076.997697",
+		"Zipcode" : "20032",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.836800"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20033",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20035",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.039914",
+		"Zipcode" : "20036",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.900659"
+	},
+	{
+		"Longitude" : "-077.061781",
+		"Zipcode" : "20037",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.918903"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20038",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20039",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20040",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20041",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20042",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20043",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20044",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.031900",
+		"Zipcode" : "20045",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.896599"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20046",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20047",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.020998",
+		"Zipcode" : "20049",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.895911"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20050",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20051",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.047899",
+		"Zipcode" : "20052",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.900140"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20053",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.020959",
+		"Zipcode" : "20055",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.901633"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20056",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20057",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20058",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20059",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.020398",
+		"Zipcode" : "20060",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.918011"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20061",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.036948",
+		"Zipcode" : "20062",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.900009"
+	},
+	{
+		"Longitude" : "-077.046645",
+		"Zipcode" : "20063",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.905317"
+	},
+	{
+		"Longitude" : "-076.996348",
+		"Zipcode" : "20064",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.933161"
+	},
+	{
+		"Longitude" : "-077.028198",
+		"Zipcode" : "20065",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.883412"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20066",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20067",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20068",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20069",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20070",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20071",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.025098",
+		"Zipcode" : "20073",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.897011"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20074",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20075",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20076",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20077",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20078",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20080",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20081",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20082",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20088",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20090",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20091",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20097",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20098",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20099",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20201",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20202",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.046645",
+		"Zipcode" : "20203",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.905317"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20204",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20206",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20207",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.011748",
+		"Zipcode" : "20208",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.896611"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20210",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20211",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20212",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20213",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20214",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20215",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014098",
+		"Zipcode" : "20216",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.891911"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20217",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20218",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20219",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20220",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20221",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20222",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20223",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20224",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20226",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20227",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20228",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20229",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20230",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20231",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.039099",
+		"Zipcode" : "20232",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.900561"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20233",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.057199",
+		"Zipcode" : "20235",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.915361"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "20237",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20238",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20239",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.040895",
+		"Zipcode" : "20240",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.897143"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20241",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.028948",
+		"Zipcode" : "20242",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.867812"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20244",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20245",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.032740",
+		"Zipcode" : "20250",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.887323"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20251",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20254",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20260",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20261",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20262",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20265",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20266",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20268",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20270",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20277",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20289",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20299",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.031113",
+		"Zipcode" : "20301",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.889357"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20303",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20306",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20307",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20310",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20314",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.017948",
+		"Zipcode" : "20315",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.928861"
+	},
+	{
+		"Longitude" : "-077.010298",
+		"Zipcode" : "20317",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.931161"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20318",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.016556",
+		"Zipcode" : "20319",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.866745"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20330",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.015848",
+		"Zipcode" : "20332",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.834563"
+	},
+	{
+		"Longitude" : "-077.022545",
+		"Zipcode" : "20336",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.860415"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20337",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20338",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20340",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20350",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20370",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20372",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20373",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "ANACOSTIA ANNEX",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.002197",
+		"Zipcode" : "20374",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.855522"
+	},
+	{
+		"Longitude" : "-077.017448",
+		"Zipcode" : "20375",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.826163"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "20376",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20380",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-076.996605",
+		"Zipcode" : "20388",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.872553"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20389",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20390",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20391",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20392",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20393",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20394",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20395",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20398",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20401",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20402",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20403",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.008948",
+		"Zipcode" : "20404",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.899161"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20405",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20406",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20407",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20408",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20409",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20410",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.022098",
+		"Zipcode" : "20411",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.883962"
+	},
+	{
+		"Longitude" : "-077.022098",
+		"Zipcode" : "20412",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.895261"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20413",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.022098",
+		"Zipcode" : "20414",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.883962"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20415",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20416",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.057230",
+		"Zipcode" : "20418",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.904253"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20419",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.027648",
+		"Zipcode" : "20420",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.903461"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20421",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20422",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20423",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20424",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20425",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20426",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20427",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20428",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20429",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.042753",
+		"Zipcode" : "20431",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.898618"
+	},
+	{
+		"Longitude" : "-077.041976",
+		"Zipcode" : "20433",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.899996"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20434",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.040319",
+		"Zipcode" : "20435",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.899399"
+	},
+	{
+		"Longitude" : "-077.021068",
+		"Zipcode" : "20436",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.895927"
+	},
+	{
+		"Longitude" : "-077.048499",
+		"Zipcode" : "20437",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.902761"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20439",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.045349",
+		"Zipcode" : "20440",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.913911"
+	},
+	{
+		"Longitude" : "-077.036349",
+		"Zipcode" : "20441",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.923861"
+	},
+	{
+		"Longitude" : "-077.017668",
+		"Zipcode" : "20442",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.895977"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20444",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.025198",
+		"Zipcode" : "20447",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.884712"
+	},
+	{
+		"Longitude" : "-077.044449",
+		"Zipcode" : "20451",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.897711"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20453",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.040149",
+		"Zipcode" : "20456",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.898111"
+	},
+	{
+		"Longitude" : "-077.018798",
+		"Zipcode" : "20460",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.876362"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20463",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20468",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20469",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20470",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20472",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "20500",
+		"ZipClass" : "STANDARD",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-077.036198",
+		"Zipcode" : "20501",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.898720"
+	},
+	{
+		"Longitude" : "-077.036198",
+		"Zipcode" : "20502",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.898720"
+	},
+	{
+		"Longitude" : "-077.043068",
+		"Zipcode" : "20503",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.900711"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20504",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20505",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.037668",
+		"Zipcode" : "20506",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.899364"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20507",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20508",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20510",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20515",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.048957",
+		"Zipcode" : "20520",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893217"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20521",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.048957",
+		"Zipcode" : "20522",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893217"
+	},
+	{
+		"Longitude" : "-077.047807",
+		"Zipcode" : "20523",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.894490"
+	},
+	{
+		"Longitude" : "-077.032601",
+		"Zipcode" : "20524",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.902414"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20525",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.043738",
+		"Zipcode" : "20526",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.902217"
+	},
+	{
+		"Longitude" : "-077.036091",
+		"Zipcode" : "20527",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.902933"
+	},
+	{
+		"Longitude" : "-077.026998",
+		"Zipcode" : "20530",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.897561"
+	},
+	{
+		"Longitude" : "-077.021848",
+		"Zipcode" : "20531",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893761"
+	},
+	{
+		"Longitude" : "-077.017291",
+		"Zipcode" : "20532",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.904486"
+	},
+	{
+		"Longitude" : "-077.032591",
+		"Zipcode" : "20533",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.901102"
+	},
+	{
+		"Longitude" : "-077.012540",
+		"Zipcode" : "20534",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.894075"
+	},
+	{
+		"Longitude" : "-077.025133",
+		"Zipcode" : "20535",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.894097"
+	},
+	{
+		"Longitude" : "-077.016948",
+		"Zipcode" : "20536",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.901211"
+	},
+	{
+		"Longitude" : "-077.025133",
+		"Zipcode" : "20537",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.894097"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20538",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20539",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.004663",
+		"Zipcode" : "20540",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.887405"
+	},
+	{
+		"Longitude" : "-077.004663",
+		"Zipcode" : "20541",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.887405"
+	},
+	{
+		"Longitude" : "-077.028348",
+		"Zipcode" : "20542",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.940761"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20543",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20544",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.021092",
+		"Zipcode" : "20546",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.890976"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20547",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.017698",
+		"Zipcode" : "20548",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.898111"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20549",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20550",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.045219",
+		"Zipcode" : "20551",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.891995"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20552",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.023118",
+		"Zipcode" : "20553",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.887333"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20554",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.040149",
+		"Zipcode" : "20555",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.900011"
+	},
+	{
+		"Longitude" : "-077.004663",
+		"Zipcode" : "20557",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.887405"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20558",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.004663",
+		"Zipcode" : "20559",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.887405"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20560",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.018853",
+		"Zipcode" : "20565",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.891941"
+	},
+	{
+		"Longitude" : "-077.055350",
+		"Zipcode" : "20566",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.897074"
+	},
+	{
+		"Longitude" : "-077.040149",
+		"Zipcode" : "20570",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.899061"
+	},
+	{
+		"Longitude" : "-077.034554",
+		"Zipcode" : "20571",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.900559"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20572",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20573",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20575",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.023592",
+		"Zipcode" : "20576",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893662"
+	},
+	{
+		"Longitude" : "-077.034455",
+		"Zipcode" : "20577",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.900758"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20578",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.044649",
+		"Zipcode" : "20579",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.904311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20580",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20581",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20585",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.047399",
+		"Zipcode" : "20586",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.902211"
+	},
+	{
+		"Longitude" : "-077.022098",
+		"Zipcode" : "20590",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.883962"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20591",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20593",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.018372",
+		"Zipcode" : "20594",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.884940"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20597",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	},
+	{
+		"Longitude" : "-077.014647",
+		"Zipcode" : "20599",
+		"ZipClass" : "UNIQUE",
+		"County" : "DISTRICT OF COLUMBIA",
+		"City" : "WASHINGTON",
+		"State" : "DC",
+		"Latitude" : "+38.893311"
+	}
+]}

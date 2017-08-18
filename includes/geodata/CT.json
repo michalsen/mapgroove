@@ -1,0 +1,3927 @@
+{
+	"result":[
+	{
+		"Longitude" : "-072.728272",
+		"Zipcode" : "06001",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "AVON",
+		"State" : "CT",
+		"Latitude" : "+41.757944"
+	},
+	{
+		"Longitude" : "-072.738939",
+		"Zipcode" : "06002",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "BLOOMFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.851961"
+	},
+	{
+		"Longitude" : "-072.734271",
+		"Zipcode" : "06006",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "WINDSOR",
+		"State" : "CT",
+		"Latitude" : "+41.879637"
+	},
+	{
+		"Longitude" : "-072.939577",
+		"Zipcode" : "06010",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "BRISTOL",
+		"State" : "CT",
+		"Latitude" : "+41.681198"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06011",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "BRISTOL",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.958260",
+		"Zipcode" : "06013",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "BURLINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.761773"
+	},
+	{
+		"Longitude" : "-072.708388",
+		"Zipcode" : "06016",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "BROAD BROOK",
+		"State" : "CT",
+		"Latitude" : "+41.842097"
+	},
+	{
+		"Longitude" : "-073.295891",
+		"Zipcode" : "06018",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "CANAAN",
+		"State" : "CT",
+		"Latitude" : "+42.001585"
+	},
+	{
+		"Longitude" : "-072.899645",
+		"Zipcode" : "06019",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "CANTON",
+		"State" : "CT",
+		"Latitude" : "+41.842882"
+	},
+	{
+		"Longitude" : "-072.902811",
+		"Zipcode" : "06020",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "CANTON CENTER",
+		"State" : "CT",
+		"Latitude" : "+41.853921"
+	},
+	{
+		"Longitude" : "-073.118329",
+		"Zipcode" : "06021",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "COLEBROOK",
+		"State" : "CT",
+		"Latitude" : "+42.005809"
+	},
+	{
+		"Longitude" : "-072.918127",
+		"Zipcode" : "06022",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "COLLINSVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.851597"
+	},
+	{
+		"Longitude" : "-072.720700",
+		"Zipcode" : "06023",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "EAST BERLIN",
+		"State" : "CT",
+		"Latitude" : "+41.613489"
+	},
+	{
+		"Longitude" : "-073.291299",
+		"Zipcode" : "06024",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "EAST CANAAN",
+		"State" : "CT",
+		"Latitude" : "+42.015806"
+	},
+	{
+		"Longitude" : "-072.534482",
+		"Zipcode" : "06025",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARTFORD",
+		"City" : "EAST GLASTONBURY",
+		"State" : "CT",
+		"Latitude" : "+41.688896"
+	},
+	{
+		"Longitude" : "-072.740538",
+		"Zipcode" : "06026",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "EAST GRANBY",
+		"State" : "CT",
+		"Latitude" : "+41.939096"
+	},
+	{
+		"Longitude" : "-072.896907",
+		"Zipcode" : "06027",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "EAST HARTLAND",
+		"State" : "CT",
+		"Latitude" : "+42.004978"
+	},
+	{
+		"Longitude" : "-072.603033",
+		"Zipcode" : "06028",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARTFORD",
+		"City" : "EAST WINDSOR HILL",
+		"State" : "CT",
+		"Latitude" : "+41.859248"
+	},
+	{
+		"Longitude" : "-072.411777",
+		"Zipcode" : "06029",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "ELLINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.849319"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06030",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "FARMINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-073.304403",
+		"Zipcode" : "06031",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "FALLS VILLAGE",
+		"State" : "CT",
+		"Latitude" : "+41.949717"
+	},
+	{
+		"Longitude" : "-072.829543",
+		"Zipcode" : "06032",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "FARMINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.726769"
+	},
+	{
+		"Longitude" : "-072.539332",
+		"Zipcode" : "06033",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "GLASTONBURY",
+		"State" : "CT",
+		"Latitude" : "+41.703451"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06034",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "FARMINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.796407",
+		"Zipcode" : "06035",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "GRANBY",
+		"State" : "CT",
+		"Latitude" : "+41.966062"
+	},
+	{
+		"Longitude" : "-072.769991",
+		"Zipcode" : "06037",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "BERLIN",
+		"State" : "CT",
+		"Latitude" : "+41.602948"
+	},
+	{
+		"Longitude" : "-073.381380",
+		"Zipcode" : "06039",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "LAKEVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.951917"
+	},
+	{
+		"Longitude" : "-072.523748",
+		"Zipcode" : "06040",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "MANCHESTER",
+		"State" : "CT",
+		"Latitude" : "+41.776048"
+	},
+	{
+		"Longitude" : "-072.564832",
+		"Zipcode" : "06041",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "MANCHESTER",
+		"State" : "CT",
+		"Latitude" : "+41.794681"
+	},
+	{
+		"Longitude" : "-072.439278",
+		"Zipcode" : "06043",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "BOLTON",
+		"State" : "CT",
+		"Latitude" : "+41.768648"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06045",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "MANCHESTER",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06049",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARTFORD",
+		"City" : "MELROSE",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.778391",
+		"Zipcode" : "06050",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "NEW BRITAIN",
+		"State" : "CT",
+		"Latitude" : "+41.666049"
+	},
+	{
+		"Longitude" : "-072.770441",
+		"Zipcode" : "06051",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "NEW BRITAIN",
+		"State" : "CT",
+		"Latitude" : "+41.668449"
+	},
+	{
+		"Longitude" : "-072.801892",
+		"Zipcode" : "06052",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "NEW BRITAIN",
+		"State" : "CT",
+		"Latitude" : "+41.656748"
+	},
+	{
+		"Longitude" : "-072.790991",
+		"Zipcode" : "06053",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "NEW BRITAIN",
+		"State" : "CT",
+		"Latitude" : "+41.690249"
+	},
+	{
+		"Longitude" : "-073.045918",
+		"Zipcode" : "06057",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "NEW HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.883102"
+	},
+	{
+		"Longitude" : "-073.184674",
+		"Zipcode" : "06058",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "NORFOLK",
+		"State" : "CT",
+		"Latitude" : "+41.886811"
+	},
+	{
+		"Longitude" : "-072.890744",
+		"Zipcode" : "06059",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "NORTH CANTON",
+		"State" : "CT",
+		"Latitude" : "+41.899683"
+	},
+	{
+		"Longitude" : "-072.843205",
+		"Zipcode" : "06060",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "NORTH GRANBY",
+		"State" : "CT",
+		"Latitude" : "+42.004694"
+	},
+	{
+		"Longitude" : "-072.967958",
+		"Zipcode" : "06061",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LITCHFIELD",
+		"City" : "PINE MEADOW",
+		"State" : "CT",
+		"Latitude" : "+41.874382"
+	},
+	{
+		"Longitude" : "-072.859695",
+		"Zipcode" : "06062",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "PLAINVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.672983"
+	},
+	{
+		"Longitude" : "-072.990647",
+		"Zipcode" : "06063",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "BARKHAMSTED",
+		"State" : "CT",
+		"Latitude" : "+41.939370"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06064",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARTFORD",
+		"City" : "POQUONOCK",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-073.014467",
+		"Zipcode" : "06065",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "RIVERTON",
+		"State" : "CT",
+		"Latitude" : "+41.968597"
+	},
+	{
+		"Longitude" : "-072.454917",
+		"Zipcode" : "06066",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "VERNON ROCKVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.837200"
+	},
+	{
+		"Longitude" : "-072.670887",
+		"Zipcode" : "06067",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "ROCKY HILL",
+		"State" : "CT",
+		"Latitude" : "+41.657249"
+	},
+	{
+		"Longitude" : "-073.399336",
+		"Zipcode" : "06068",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "SALISBURY",
+		"State" : "CT",
+		"Latitude" : "+42.005790"
+	},
+	{
+		"Longitude" : "-073.433903",
+		"Zipcode" : "06069",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "SHARON",
+		"State" : "CT",
+		"Latitude" : "+41.874681"
+	},
+	{
+		"Longitude" : "-072.819742",
+		"Zipcode" : "06070",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "SIMSBURY",
+		"State" : "CT",
+		"Latitude" : "+41.868647"
+	},
+	{
+		"Longitude" : "-072.433046",
+		"Zipcode" : "06071",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "SOMERS",
+		"State" : "CT",
+		"Latitude" : "+41.919603"
+	},
+	{
+		"Longitude" : "-072.490593",
+		"Zipcode" : "06072",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TOLLAND",
+		"City" : "SOMERSVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.976466"
+	},
+	{
+		"Longitude" : "-072.572233",
+		"Zipcode" : "06073",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "SOUTH GLASTONBURY",
+		"State" : "CT",
+		"Latitude" : "+41.657099"
+	},
+	{
+		"Longitude" : "-072.564632",
+		"Zipcode" : "06074",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "SOUTH WINDSOR",
+		"State" : "CT",
+		"Latitude" : "+41.834198"
+	},
+	{
+		"Longitude" : "-072.308779",
+		"Zipcode" : "06075",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TOLLAND",
+		"City" : "STAFFORD",
+		"State" : "CT",
+		"Latitude" : "+41.811520"
+	},
+	{
+		"Longitude" : "-072.276410",
+		"Zipcode" : "06076",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "STAFFORD SPRINGS",
+		"State" : "CT",
+		"Latitude" : "+41.900495"
+	},
+	{
+		"Longitude" : "-072.257735",
+		"Zipcode" : "06077",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TOLLAND",
+		"City" : "STAFFORDVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.991645"
+	},
+	{
+		"Longitude" : "-072.658135",
+		"Zipcode" : "06078",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "SUFFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.989646"
+	},
+	{
+		"Longitude" : "-073.403763",
+		"Zipcode" : "06079",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LITCHFIELD",
+		"City" : "TACONIC",
+		"State" : "CT",
+		"Latitude" : "+42.032012"
+	},
+	{
+		"Longitude" : "-072.628802",
+		"Zipcode" : "06080",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "SUFFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.948597"
+	},
+	{
+		"Longitude" : "-072.767239",
+		"Zipcode" : "06081",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "TARIFFVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.905269"
+	},
+	{
+		"Longitude" : "-072.557731",
+		"Zipcode" : "06082",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "ENFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.984646"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06083",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "ENFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.361039",
+		"Zipcode" : "06084",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "TOLLAND",
+		"State" : "CT",
+		"Latitude" : "+41.882553"
+	},
+	{
+		"Longitude" : "-072.933467",
+		"Zipcode" : "06085",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "UNIONVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.860009"
+	},
+	{
+		"Longitude" : "-072.884953",
+		"Zipcode" : "06087",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "UNIONVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.757616"
+	},
+	{
+		"Longitude" : "-072.592883",
+		"Zipcode" : "06088",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "EAST WINDSOR",
+		"State" : "CT",
+		"Latitude" : "+41.903347"
+	},
+	{
+		"Longitude" : "-072.704000",
+		"Zipcode" : "06089",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WEATOGUE",
+		"State" : "CT",
+		"Latitude" : "+41.889965"
+	},
+	{
+		"Longitude" : "-072.861993",
+		"Zipcode" : "06090",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WEST GRANBY",
+		"State" : "CT",
+		"Latitude" : "+41.955645"
+	},
+	{
+		"Longitude" : "-072.992109",
+		"Zipcode" : "06091",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WEST HARTLAND",
+		"State" : "CT",
+		"Latitude" : "+42.003447"
+	},
+	{
+		"Longitude" : "-072.849854",
+		"Zipcode" : "06092",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WEST SIMSBURY",
+		"State" : "CT",
+		"Latitude" : "+41.865597"
+	},
+	{
+		"Longitude" : "-072.727337",
+		"Zipcode" : "06093",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WEST SUFFIELD",
+		"State" : "CT",
+		"Latitude" : "+42.005795"
+	},
+	{
+		"Longitude" : "-073.146312",
+		"Zipcode" : "06094",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "WINCHESTER CENTER",
+		"State" : "CT",
+		"Latitude" : "+41.896321"
+	},
+	{
+		"Longitude" : "-072.804935",
+		"Zipcode" : "06095",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WINDSOR",
+		"State" : "CT",
+		"Latitude" : "+41.909988"
+	},
+	{
+		"Longitude" : "-072.660245",
+		"Zipcode" : "06096",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WINDSOR LOCKS",
+		"State" : "CT",
+		"Latitude" : "+41.933846"
+	},
+	{
+		"Longitude" : "-073.058157",
+		"Zipcode" : "06098",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "WINSTED",
+		"State" : "CT",
+		"Latitude" : "+41.925671"
+	},
+	{
+		"Longitude" : "-072.677099",
+		"Zipcode" : "06101",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.780070"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06102",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.674636",
+		"Zipcode" : "06103",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.766349"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06104",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.699537",
+		"Zipcode" : "06105",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.774499"
+	},
+	{
+		"Longitude" : "-072.687787",
+		"Zipcode" : "06106",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.745049"
+	},
+	{
+		"Longitude" : "-072.758040",
+		"Zipcode" : "06107",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "W HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.753250"
+	},
+	{
+		"Longitude" : "-072.621365",
+		"Zipcode" : "06108",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "EAST HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.779799"
+	},
+	{
+		"Longitude" : "-072.667887",
+		"Zipcode" : "06109",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WETHERSFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.698899"
+	},
+	{
+		"Longitude" : "-072.738139",
+		"Zipcode" : "06110",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "W HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.734250"
+	},
+	{
+		"Longitude" : "-072.729646",
+		"Zipcode" : "06111",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "NEWINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.685985"
+	},
+	{
+		"Longitude" : "-072.694337",
+		"Zipcode" : "06112",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791337"
+	},
+	{
+		"Longitude" : "-072.672237",
+		"Zipcode" : "06114",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.747399"
+	},
+	{
+		"Longitude" : "-072.679387",
+		"Zipcode" : "06115",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.758849"
+	},
+	{
+		"Longitude" : "-072.755739",
+		"Zipcode" : "06117",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "W HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.788688"
+	},
+	{
+		"Longitude" : "-072.609884",
+		"Zipcode" : "06118",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "EAST HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.748999"
+	},
+	{
+		"Longitude" : "-072.726388",
+		"Zipcode" : "06119",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "W HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.764349"
+	},
+	{
+		"Longitude" : "-072.669936",
+		"Zipcode" : "06120",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.785449"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06123",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06126",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06127",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "W HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06128",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "EAST HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06129",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "WETHERSFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06131",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "NEWINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06132",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06133",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "W HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06134",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06137",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "W HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06138",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "EAST HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06140",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06141",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06142",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06143",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06144",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06145",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06146",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06147",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06150",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06151",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06152",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06153",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.686687",
+		"Zipcode" : "06154",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.771499"
+	},
+	{
+		"Longitude" : "-072.686465",
+		"Zipcode" : "06155",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.769280"
+	},
+	{
+		"Longitude" : "-072.690687",
+		"Zipcode" : "06156",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.767949"
+	},
+	{
+		"Longitude" : "-072.693337",
+		"Zipcode" : "06160",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.766499"
+	},
+	{
+		"Longitude" : "-072.671837",
+		"Zipcode" : "06161",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.766049"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06167",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06176",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06180",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.673037",
+		"Zipcode" : "06183",
+		"ZipClass" : "UNIQUE",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.763849"
+	},
+	{
+		"Longitude" : "-072.680386",
+		"Zipcode" : "06199",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "HARTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.927447"
+	},
+	{
+		"Longitude" : "-072.091889",
+		"Zipcode" : "06226",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WILLIMANTIC",
+		"State" : "CT",
+		"Latitude" : "+41.845504"
+	},
+	{
+		"Longitude" : "-072.025280",
+		"Zipcode" : "06230",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "ABINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.847302"
+	},
+	{
+		"Longitude" : "-072.372800",
+		"Zipcode" : "06231",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "AMSTON",
+		"State" : "CT",
+		"Latitude" : "+41.626377"
+	},
+	{
+		"Longitude" : "-072.374634",
+		"Zipcode" : "06232",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "ANDOVER",
+		"State" : "CT",
+		"Latitude" : "+41.731847"
+	},
+	{
+		"Longitude" : "-072.020137",
+		"Zipcode" : "06233",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "BALLOUVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.831565"
+	},
+	{
+		"Longitude" : "-071.983412",
+		"Zipcode" : "06234",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "BROOKLYN",
+		"State" : "CT",
+		"Latitude" : "+41.847758"
+	},
+	{
+		"Longitude" : "-072.126036",
+		"Zipcode" : "06235",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "CHAPLIN",
+		"State" : "CT",
+		"Latitude" : "+41.802940"
+	},
+	{
+		"Longitude" : "-072.300043",
+		"Zipcode" : "06237",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "COLUMBIA",
+		"State" : "CT",
+		"Latitude" : "+41.696124"
+	},
+	{
+		"Longitude" : "-072.323642",
+		"Zipcode" : "06238",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "COVENTRY",
+		"State" : "CT",
+		"Latitude" : "+41.778623"
+	},
+	{
+		"Longitude" : "-071.874354",
+		"Zipcode" : "06239",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "DANIELSON",
+		"State" : "CT",
+		"Latitude" : "+41.864901"
+	},
+	{
+		"Longitude" : "-071.858826",
+		"Zipcode" : "06241",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "DAYVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.854975"
+	},
+	{
+		"Longitude" : "-072.041112",
+		"Zipcode" : "06242",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "EASTFORD",
+		"State" : "CT",
+		"Latitude" : "+41.927524"
+	},
+	{
+		"Longitude" : "-071.818941",
+		"Zipcode" : "06243",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "EAST KILLINGLY",
+		"State" : "CT",
+		"Latitude" : "+41.844885"
+	},
+	{
+		"Longitude" : "-071.981045",
+		"Zipcode" : "06244",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "EAST WOODSTOCK",
+		"State" : "CT",
+		"Latitude" : "+41.984327"
+	},
+	{
+		"Longitude" : "-071.941669",
+		"Zipcode" : "06245",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "FABYAN",
+		"State" : "CT",
+		"Latitude" : "+42.019776"
+	},
+	{
+		"Longitude" : "-071.891732",
+		"Zipcode" : "06246",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "GROSVENOR DALE",
+		"State" : "CT",
+		"Latitude" : "+41.971116"
+	},
+	{
+		"Longitude" : "-071.975819",
+		"Zipcode" : "06247",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "HAMPTON",
+		"State" : "CT",
+		"Latitude" : "+41.788756"
+	},
+	{
+		"Longitude" : "-072.398627",
+		"Zipcode" : "06248",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "HEBRON",
+		"State" : "CT",
+		"Latitude" : "+41.689249"
+	},
+	{
+		"Longitude" : "-072.245422",
+		"Zipcode" : "06249",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "LEBANON",
+		"State" : "CT",
+		"Latitude" : "+41.628008"
+	},
+	{
+		"Longitude" : "-072.225540",
+		"Zipcode" : "06250",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "MANSFIELD CENTER",
+		"State" : "CT",
+		"Latitude" : "+41.781550"
+	},
+	{
+		"Longitude" : "-072.306526",
+		"Zipcode" : "06251",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TOLLAND",
+		"City" : "MANSFIELD DEPOT",
+		"State" : "CT",
+		"Latitude" : "+41.799326"
+	},
+	{
+		"Longitude" : "-072.150305",
+		"Zipcode" : "06254",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "NORTH FRANKLIN",
+		"State" : "CT",
+		"Latitude" : "+41.609895"
+	},
+	{
+		"Longitude" : "-071.899716",
+		"Zipcode" : "06255",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "NORTH GROSVENORDALE",
+		"State" : "CT",
+		"Latitude" : "+41.978392"
+	},
+	{
+		"Longitude" : "-072.040003",
+		"Zipcode" : "06256",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "NORTH WINDHAM",
+		"State" : "CT",
+		"Latitude" : "+41.778469"
+	},
+	{
+		"Longitude" : "-071.968232",
+		"Zipcode" : "06258",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "POMFRET",
+		"State" : "CT",
+		"Latitude" : "+41.889048"
+	},
+	{
+		"Longitude" : "-072.002590",
+		"Zipcode" : "06259",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "POMFRET CENTER",
+		"State" : "CT",
+		"Latitude" : "+41.863133"
+	},
+	{
+		"Longitude" : "-071.887712",
+		"Zipcode" : "06260",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "PUTNAM",
+		"State" : "CT",
+		"Latitude" : "+41.862904"
+	},
+	{
+		"Longitude" : "-071.947077",
+		"Zipcode" : "06262",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "QUINEBAUG",
+		"State" : "CT",
+		"Latitude" : "+42.021536"
+	},
+	{
+		"Longitude" : "-071.906340",
+		"Zipcode" : "06263",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "ROGERS",
+		"State" : "CT",
+		"Latitude" : "+41.839051"
+	},
+	{
+		"Longitude" : "-072.087045",
+		"Zipcode" : "06264",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "SCOTLAND",
+		"State" : "CT",
+		"Latitude" : "+41.695803"
+	},
+	{
+		"Longitude" : "-072.308779",
+		"Zipcode" : "06265",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "TOLLAND",
+		"City" : "SOUTH WILLINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.811520"
+	},
+	{
+		"Longitude" : "-072.172298",
+		"Zipcode" : "06266",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "SOUTH WINDHAM",
+		"State" : "CT",
+		"Latitude" : "+41.674079"
+	},
+	{
+		"Longitude" : "-071.945253",
+		"Zipcode" : "06267",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "SOUTH WOODSTOCK",
+		"State" : "CT",
+		"Latitude" : "+41.943902"
+	},
+	{
+		"Longitude" : "-072.252480",
+		"Zipcode" : "06268",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "STORRS MANSFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.787937"
+	},
+	{
+		"Longitude" : "-072.250963",
+		"Zipcode" : "06269",
+		"ZipClass" : "UNIQUE",
+		"County" : "TOLLAND",
+		"City" : "STORRS MANSFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.808007"
+	},
+	{
+		"Longitude" : "-071.862047",
+		"Zipcode" : "06277",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "THOMPSON",
+		"State" : "CT",
+		"Latitude" : "+41.975796"
+	},
+	{
+		"Longitude" : "-072.147561",
+		"Zipcode" : "06278",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "ASHFORD",
+		"State" : "CT",
+		"Latitude" : "+41.889043"
+	},
+	{
+		"Longitude" : "-072.262236",
+		"Zipcode" : "06279",
+		"ZipClass" : "STANDARD",
+		"County" : "TOLLAND",
+		"City" : "WILLINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.896623"
+	},
+	{
+		"Longitude" : "-072.137843",
+		"Zipcode" : "06280",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WINDHAM",
+		"State" : "CT",
+		"Latitude" : "+41.693914"
+	},
+	{
+		"Longitude" : "-072.014108",
+		"Zipcode" : "06281",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WOODSTOCK",
+		"State" : "CT",
+		"Latitude" : "+41.961991"
+	},
+	{
+		"Longitude" : "-072.057134",
+		"Zipcode" : "06282",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "WOODSTOCK VALLEY",
+		"State" : "CT",
+		"Latitude" : "+41.952846"
+	},
+	{
+		"Longitude" : "-072.109070",
+		"Zipcode" : "06320",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "NEW LONDON",
+		"State" : "CT",
+		"Latitude" : "+41.413998"
+	},
+	{
+		"Longitude" : "-072.044306",
+		"Zipcode" : "06330",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "BALTIC",
+		"State" : "CT",
+		"Latitude" : "+41.501708"
+	},
+	{
+		"Longitude" : "-071.998277",
+		"Zipcode" : "06331",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "CANTERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.696753"
+	},
+	{
+		"Longitude" : "-071.909019",
+		"Zipcode" : "06332",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "CENTRAL VILLAGE",
+		"State" : "CT",
+		"Latitude" : "+41.725694"
+	},
+	{
+		"Longitude" : "-072.236794",
+		"Zipcode" : "06333",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "EAST LYME",
+		"State" : "CT",
+		"Latitude" : "+41.378842"
+	},
+	{
+		"Longitude" : "-072.177023",
+		"Zipcode" : "06334",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "BOZRAH",
+		"State" : "CT",
+		"Latitude" : "+41.544598"
+	},
+	{
+		"Longitude" : "-072.021165",
+		"Zipcode" : "06335",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "GALES FERRY",
+		"State" : "CT",
+		"Latitude" : "+41.523377"
+	},
+	{
+		"Longitude" : "-072.196273",
+		"Zipcode" : "06336",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "GILMAN",
+		"State" : "CT",
+		"Latitude" : "+41.579548"
+	},
+	{
+		"Longitude" : "-071.889199",
+		"Zipcode" : "06337",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW LONDON",
+		"City" : "GLASGO",
+		"State" : "CT",
+		"Latitude" : "+41.559873"
+	},
+	{
+		"Longitude" : "-071.965554",
+		"Zipcode" : "06339",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "LEDYARD",
+		"State" : "CT",
+		"Latitude" : "+41.492843"
+	},
+	{
+		"Longitude" : "-072.038268",
+		"Zipcode" : "06340",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "GROTON",
+		"State" : "CT",
+		"Latitude" : "+41.355405"
+	},
+	{
+		"Longitude" : "-072.090357",
+		"Zipcode" : "06349",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "GROTON",
+		"State" : "CT",
+		"Latitude" : "+41.399730"
+	},
+	{
+		"Longitude" : "-072.067690",
+		"Zipcode" : "06350",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW LONDON",
+		"City" : "HANOVER",
+		"State" : "CT",
+		"Latitude" : "+41.644546"
+	},
+	{
+		"Longitude" : "-071.982619",
+		"Zipcode" : "06351",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "JEWETT CITY",
+		"State" : "CT",
+		"Latitude" : "+41.599562"
+	},
+	{
+		"Longitude" : "-072.137471",
+		"Zipcode" : "06353",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "MONTVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.452548"
+	},
+	{
+		"Longitude" : "-071.849772",
+		"Zipcode" : "06354",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "MOOSUP",
+		"State" : "CT",
+		"Latitude" : "+41.704931"
+	},
+	{
+		"Longitude" : "-072.000748",
+		"Zipcode" : "06355",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "MYSTIC",
+		"State" : "CT",
+		"Latitude" : "+41.485188"
+	},
+	{
+		"Longitude" : "-072.215623",
+		"Zipcode" : "06357",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "NIANTIC",
+		"State" : "CT",
+		"Latitude" : "+41.323447"
+	},
+	{
+		"Longitude" : "-071.880694",
+		"Zipcode" : "06359",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "NORTH STONINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.466851"
+	},
+	{
+		"Longitude" : "-071.994757",
+		"Zipcode" : "06360",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "NORWICH",
+		"State" : "CT",
+		"Latitude" : "+41.499398"
+	},
+	{
+		"Longitude" : "-071.993427",
+		"Zipcode" : "06365",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "PRESTON",
+		"State" : "CT",
+		"Latitude" : "+41.522369"
+	},
+	{
+		"Longitude" : "-072.102302",
+		"Zipcode" : "06370",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "OAKDALE",
+		"State" : "CT",
+		"Latitude" : "+41.512172"
+	},
+	{
+		"Longitude" : "-072.147665",
+		"Zipcode" : "06371",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "OLD LYME",
+		"State" : "CT",
+		"Latitude" : "+41.409397"
+	},
+	{
+		"Longitude" : "-071.949548",
+		"Zipcode" : "06372",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW LONDON",
+		"City" : "OLD MYSTIC",
+		"State" : "CT",
+		"Latitude" : "+41.388216"
+	},
+	{
+		"Longitude" : "-071.817759",
+		"Zipcode" : "06373",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "ONECO",
+		"State" : "CT",
+		"Latitude" : "+41.678546"
+	},
+	{
+		"Longitude" : "-071.884113",
+		"Zipcode" : "06374",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "PLAINFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.688121"
+	},
+	{
+		"Longitude" : "-072.140022",
+		"Zipcode" : "06375",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "QUAKER HILL",
+		"State" : "CT",
+		"Latitude" : "+41.401066"
+	},
+	{
+		"Longitude" : "-072.263296",
+		"Zipcode" : "06376",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW LONDON",
+		"City" : "SOUTH LYME",
+		"State" : "CT",
+		"Latitude" : "+41.296668"
+	},
+	{
+		"Longitude" : "-071.823184",
+		"Zipcode" : "06377",
+		"ZipClass" : "STANDARD",
+		"County" : "WINDHAM",
+		"City" : "STERLING",
+		"State" : "CT",
+		"Latitude" : "+41.719948"
+	},
+	{
+		"Longitude" : "-071.917915",
+		"Zipcode" : "06378",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "STONINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.378598"
+	},
+	{
+		"Longitude" : "-071.895547",
+		"Zipcode" : "06379",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "PAWCATUCK",
+		"State" : "CT",
+		"Latitude" : "+41.455191"
+	},
+	{
+		"Longitude" : "-072.055220",
+		"Zipcode" : "06380",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "TAFTVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.563998"
+	},
+	{
+		"Longitude" : "-072.069578",
+		"Zipcode" : "06382",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "UNCASVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.424507"
+	},
+	{
+		"Longitude" : "-072.040370",
+		"Zipcode" : "06383",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW LONDON",
+		"City" : "VERSAILLES",
+		"State" : "CT",
+		"Latitude" : "+41.601648"
+	},
+	{
+		"Longitude" : "-071.866587",
+		"Zipcode" : "06384",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "VOLUNTOWN",
+		"State" : "CT",
+		"Latitude" : "+41.576894"
+	},
+	{
+		"Longitude" : "-072.126498",
+		"Zipcode" : "06385",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "WATERFORD",
+		"State" : "CT",
+		"Latitude" : "+41.456698"
+	},
+	{
+		"Longitude" : "-072.127301",
+		"Zipcode" : "06386",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW LONDON",
+		"City" : "WATERFORD",
+		"State" : "CT",
+		"Latitude" : "+41.464758"
+	},
+	{
+		"Longitude" : "-071.913339",
+		"Zipcode" : "06387",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WINDHAM",
+		"City" : "WAUREGAN",
+		"State" : "CT",
+		"Latitude" : "+41.744527"
+	},
+	{
+		"Longitude" : "-071.976467",
+		"Zipcode" : "06388",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "WEST MYSTIC",
+		"State" : "CT",
+		"Latitude" : "+41.344098"
+	},
+	{
+		"Longitude" : "-072.122672",
+		"Zipcode" : "06389",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW LONDON",
+		"City" : "YANTIC",
+		"State" : "CT",
+		"Latitude" : "+41.559648"
+	},
+	{
+		"Longitude" : "-073.070301",
+		"Zipcode" : "06401",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "ANSONIA",
+		"State" : "CT",
+		"Latitude" : "+41.342514"
+	},
+	{
+		"Longitude" : "-073.058835",
+		"Zipcode" : "06403",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "BEACON FALLS",
+		"State" : "CT",
+		"Latitude" : "+41.435134"
+	},
+	{
+		"Longitude" : "-073.129186",
+		"Zipcode" : "06404",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "BOTSFORD",
+		"State" : "CT",
+		"Latitude" : "+41.165097"
+	},
+	{
+		"Longitude" : "-072.796292",
+		"Zipcode" : "06405",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "BRANFORD",
+		"State" : "CT",
+		"Latitude" : "+41.284746"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06408",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "CHESHIRE",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.413380",
+		"Zipcode" : "06409",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CENTERBROOK",
+		"State" : "CT",
+		"Latitude" : "+41.349098"
+	},
+	{
+		"Longitude" : "-072.972220",
+		"Zipcode" : "06410",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "CHESHIRE",
+		"State" : "CT",
+		"Latitude" : "+41.460167"
+	},
+	{
+		"Longitude" : "-072.922235",
+		"Zipcode" : "06411",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "CHESHIRE",
+		"State" : "CT",
+		"Latitude" : "+41.550097"
+	},
+	{
+		"Longitude" : "-072.461805",
+		"Zipcode" : "06412",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CHESTER",
+		"State" : "CT",
+		"Latitude" : "+41.390270"
+	},
+	{
+		"Longitude" : "-072.532934",
+		"Zipcode" : "06413",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CLINTON",
+		"State" : "CT",
+		"Latitude" : "+41.298201"
+	},
+	{
+		"Longitude" : "-072.558055",
+		"Zipcode" : "06414",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIDDLESEX",
+		"City" : "COBALT",
+		"State" : "CT",
+		"Latitude" : "+41.566668"
+	},
+	{
+		"Longitude" : "-072.338832",
+		"Zipcode" : "06415",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "COLCHESTER",
+		"State" : "CT",
+		"Latitude" : "+41.546443"
+	},
+	{
+		"Longitude" : "-072.667807",
+		"Zipcode" : "06416",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CROMWELL",
+		"State" : "CT",
+		"Latitude" : "+41.608529"
+	},
+	{
+		"Longitude" : "-072.452284",
+		"Zipcode" : "06417",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "DEEP RIVER",
+		"State" : "CT",
+		"Latitude" : "+41.368124"
+	},
+	{
+		"Longitude" : "-073.084252",
+		"Zipcode" : "06418",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "DERBY",
+		"State" : "CT",
+		"Latitude" : "+41.327246"
+	},
+	{
+		"Longitude" : "-072.493446",
+		"Zipcode" : "06419",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "KILLINGWORTH",
+		"State" : "CT",
+		"Latitude" : "+41.417962"
+	},
+	{
+		"Longitude" : "-072.269141",
+		"Zipcode" : "06420",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW LONDON",
+		"City" : "SALEM",
+		"State" : "CT",
+		"Latitude" : "+41.527441"
+	},
+	{
+		"Longitude" : "-072.682297",
+		"Zipcode" : "06422",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "DURHAM",
+		"State" : "CT",
+		"Latitude" : "+41.462468"
+	},
+	{
+		"Longitude" : "-072.389729",
+		"Zipcode" : "06423",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EAST HADDAM",
+		"State" : "CT",
+		"Latitude" : "+41.475478"
+	},
+	{
+		"Longitude" : "-072.494927",
+		"Zipcode" : "06424",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EAST HAMPTON",
+		"State" : "CT",
+		"Latitude" : "+41.559841"
+	},
+	{
+		"Longitude" : "-072.504260",
+		"Zipcode" : "06426",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ESSEX",
+		"State" : "CT",
+		"Latitude" : "+41.448179"
+	},
+	{
+		"Longitude" : "-073.282408",
+		"Zipcode" : "06430",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "FAIRFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.175173"
+	},
+	{
+		"Longitude" : "-073.252696",
+		"Zipcode" : "06431",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "FAIRFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.219093"
+	},
+	{
+		"Longitude" : "-073.252802",
+		"Zipcode" : "06432",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "FAIRFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.196046"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06436",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "GREENS FARMS",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-072.690089",
+		"Zipcode" : "06437",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "GUILFORD",
+		"State" : "CT",
+		"Latitude" : "+41.338847"
+	},
+	{
+		"Longitude" : "-072.511376",
+		"Zipcode" : "06438",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "HADDAM",
+		"State" : "CT",
+		"Latitude" : "+41.471457"
+	},
+	{
+		"Longitude" : "-072.414095",
+		"Zipcode" : "06439",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW LONDON",
+		"City" : "HADLYME",
+		"State" : "CT",
+		"Latitude" : "+41.421198"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06440",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "HAWLEYVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-072.578971",
+		"Zipcode" : "06441",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "HIGGANUM",
+		"State" : "CT",
+		"Latitude" : "+41.462718"
+	},
+	{
+		"Longitude" : "-072.444369",
+		"Zipcode" : "06442",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "IVORYTON",
+		"State" : "CT",
+		"Latitude" : "+41.344076"
+	},
+	{
+		"Longitude" : "-072.788392",
+		"Zipcode" : "06443",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "MADISON",
+		"State" : "CT",
+		"Latitude" : "+41.350397"
+	},
+	{
+		"Longitude" : "-072.718832",
+		"Zipcode" : "06444",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARTFORD",
+		"City" : "MARION",
+		"State" : "CT",
+		"Latitude" : "+41.791776"
+	},
+	{
+		"Longitude" : "-072.463179",
+		"Zipcode" : "06447",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "MARLBOROUGH",
+		"State" : "CT",
+		"Latitude" : "+41.636949"
+	},
+	{
+		"Longitude" : "-072.801901",
+		"Zipcode" : "06450",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "MERIDEN",
+		"State" : "CT",
+		"Latitude" : "+41.536498"
+	},
+	{
+		"Longitude" : "-072.818880",
+		"Zipcode" : "06451",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "MERIDEN",
+		"State" : "CT",
+		"Latitude" : "+41.540110"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06454",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "MERIDEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.712988",
+		"Zipcode" : "06455",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MIDDLEFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.515346"
+	},
+	{
+		"Longitude" : "-072.525208",
+		"Zipcode" : "06456",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIDDLESEX",
+		"City" : "MIDDLE HADDAM",
+		"State" : "CT",
+		"Latitude" : "+41.538017"
+	},
+	{
+		"Longitude" : "-072.655357",
+		"Zipcode" : "06457",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MIDDLETOWN",
+		"State" : "CT",
+		"Latitude" : "+41.550139"
+	},
+	{
+		"Longitude" : "-072.658179",
+		"Zipcode" : "06459",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "MIDDLETOWN",
+		"State" : "CT",
+		"Latitude" : "+41.556463"
+	},
+	{
+		"Longitude" : "-072.951273",
+		"Zipcode" : "06460",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "MILFORD",
+		"State" : "CT",
+		"Latitude" : "+41.343773"
+	},
+	{
+		"Longitude" : "-072.903746",
+		"Zipcode" : "06467",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HARTFORD",
+		"City" : "MILLDALE",
+		"State" : "CT",
+		"Latitude" : "+41.565697"
+	},
+	{
+		"Longitude" : "-073.236918",
+		"Zipcode" : "06468",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "MONROE",
+		"State" : "CT",
+		"Latitude" : "+41.341845"
+	},
+	{
+		"Longitude" : "-072.440086",
+		"Zipcode" : "06469",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MOODUS",
+		"State" : "CT",
+		"Latitude" : "+41.508904"
+	},
+	{
+		"Longitude" : "-073.310561",
+		"Zipcode" : "06470",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NEWTOWN",
+		"State" : "CT",
+		"Latitude" : "+41.396295"
+	},
+	{
+		"Longitude" : "-072.780892",
+		"Zipcode" : "06471",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NORTH BRANFORD",
+		"State" : "CT",
+		"Latitude" : "+41.332347"
+	},
+	{
+		"Longitude" : "-072.772991",
+		"Zipcode" : "06472",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NORTHFORD",
+		"State" : "CT",
+		"Latitude" : "+41.379797"
+	},
+	{
+		"Longitude" : "-072.862644",
+		"Zipcode" : "06473",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NORTH HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.384381"
+	},
+	{
+		"Longitude" : "-072.127301",
+		"Zipcode" : "06474",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW LONDON",
+		"City" : "NORTH WESTCHESTER",
+		"State" : "CT",
+		"Latitude" : "+41.464758"
+	},
+	{
+		"Longitude" : "-072.389129",
+		"Zipcode" : "06475",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "OLD SAYBROOK",
+		"State" : "CT",
+		"Latitude" : "+41.300448"
+	},
+	{
+		"Longitude" : "-073.031018",
+		"Zipcode" : "06477",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "ORANGE",
+		"State" : "CT",
+		"Latitude" : "+41.279896"
+	},
+	{
+		"Longitude" : "-073.138379",
+		"Zipcode" : "06478",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "OXFORD",
+		"State" : "CT",
+		"Latitude" : "+41.432583"
+	},
+	{
+		"Longitude" : "-072.902496",
+		"Zipcode" : "06479",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "PLANTSVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.577845"
+	},
+	{
+		"Longitude" : "-072.601307",
+		"Zipcode" : "06480",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PORTLAND",
+		"State" : "CT",
+		"Latitude" : "+41.598339"
+	},
+	{
+		"Longitude" : "-072.666583",
+		"Zipcode" : "06481",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ROCKFALL",
+		"State" : "CT",
+		"Latitude" : "+41.542105"
+	},
+	{
+		"Longitude" : "-073.249671",
+		"Zipcode" : "06482",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "SANDY HOOK",
+		"State" : "CT",
+		"Latitude" : "+41.408137"
+	},
+	{
+		"Longitude" : "-073.102078",
+		"Zipcode" : "06483",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "SEYMOUR",
+		"State" : "CT",
+		"Latitude" : "+41.417646"
+	},
+	{
+		"Longitude" : "-073.137143",
+		"Zipcode" : "06484",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "SHELTON",
+		"State" : "CT",
+		"Latitude" : "+41.314347"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06487",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NEW HAVEN",
+		"City" : "SOUTH BRITAIN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-073.240839",
+		"Zipcode" : "06488",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "SOUTHBURY",
+		"State" : "CT",
+		"Latitude" : "+41.470921"
+	},
+	{
+		"Longitude" : "-072.871945",
+		"Zipcode" : "06489",
+		"ZipClass" : "STANDARD",
+		"County" : "HARTFORD",
+		"City" : "SOUTHINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.604786"
+	},
+	{
+		"Longitude" : "-073.289859",
+		"Zipcode" : "06490",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "SOUTHPORT",
+		"State" : "CT",
+		"Latitude" : "+41.143396"
+	},
+	{
+		"Longitude" : "-073.187207",
+		"Zipcode" : "06491",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "STEVENSON",
+		"State" : "CT",
+		"Latitude" : "+41.386646"
+	},
+	{
+		"Longitude" : "-072.811047",
+		"Zipcode" : "06492",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WALLINGFORD",
+		"State" : "CT",
+		"Latitude" : "+41.456205"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06493",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "WALLINGFORD",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06494",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "WALLINGFORD",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06495",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "WALLINGFORD",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-073.130503",
+		"Zipcode" : "06497",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STRATFORD",
+		"State" : "CT",
+		"Latitude" : "+41.207146"
+	},
+	{
+		"Longitude" : "-072.463381",
+		"Zipcode" : "06498",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WESTBROOK",
+		"State" : "CT",
+		"Latitude" : "+41.307899"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06501",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06502",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06503",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06504",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.779901",
+		"Zipcode" : "06505",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.305721"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06506",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06507",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06508",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06509",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.922296",
+		"Zipcode" : "06510",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.309797"
+	},
+	{
+		"Longitude" : "-072.926046",
+		"Zipcode" : "06511",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.310547"
+	},
+	{
+		"Longitude" : "-072.865894",
+		"Zipcode" : "06512",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "EAST HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.290997"
+	},
+	{
+		"Longitude" : "-072.865365",
+		"Zipcode" : "06513",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.307197"
+	},
+	{
+		"Longitude" : "-072.938747",
+		"Zipcode" : "06514",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "HAMDEN",
+		"State" : "CT",
+		"Latitude" : "+41.372723"
+	},
+	{
+		"Longitude" : "-072.964247",
+		"Zipcode" : "06515",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.328697"
+	},
+	{
+		"Longitude" : "-072.940335",
+		"Zipcode" : "06516",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WEST HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.272452"
+	},
+	{
+		"Longitude" : "-072.911396",
+		"Zipcode" : "06517",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "HAMDEN",
+		"State" : "CT",
+		"Latitude" : "+41.362197"
+	},
+	{
+		"Longitude" : "-072.906096",
+		"Zipcode" : "06518",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "HAMDEN",
+		"State" : "CT",
+		"Latitude" : "+41.416747"
+	},
+	{
+		"Longitude" : "-072.938596",
+		"Zipcode" : "06519",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.296897"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06520",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06521",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.996191",
+		"Zipcode" : "06524",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "BETHANY",
+		"State" : "CT",
+		"Latitude" : "+41.428088"
+	},
+	{
+		"Longitude" : "-073.013981",
+		"Zipcode" : "06525",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WOODBRIDGE",
+		"State" : "CT",
+		"Latitude" : "+41.353296"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06530",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06531",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06532",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06533",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06534",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06535",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06536",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06537",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06538",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.918846",
+		"Zipcode" : "06540",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "NEW HAVEN",
+		"State" : "CT",
+		"Latitude" : "+41.299647"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06601",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.189006",
+		"Zipcode" : "06602",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.179846"
+	},
+	{
+		"Longitude" : "-073.213907",
+		"Zipcode" : "06604",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.192746"
+	},
+	{
+		"Longitude" : "-073.216557",
+		"Zipcode" : "06605",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.162573"
+	},
+	{
+		"Longitude" : "-073.211807",
+		"Zipcode" : "06606",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.208796"
+	},
+	{
+		"Longitude" : "-073.165604",
+		"Zipcode" : "06607",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.181596"
+	},
+	{
+		"Longitude" : "-073.180005",
+		"Zipcode" : "06608",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.188199"
+	},
+	{
+		"Longitude" : "-073.163955",
+		"Zipcode" : "06610",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.219847"
+	},
+	{
+		"Longitude" : "-073.206957",
+		"Zipcode" : "06611",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "TRUMBULL",
+		"State" : "CT",
+		"Latitude" : "+41.259996"
+	},
+	{
+		"Longitude" : "-073.297721",
+		"Zipcode" : "06612",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "EASTON",
+		"State" : "CT",
+		"Latitude" : "+41.273016"
+	},
+	{
+		"Longitude" : "-073.130353",
+		"Zipcode" : "06614",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STRATFORD",
+		"State" : "CT",
+		"Latitude" : "+41.216006"
+	},
+	{
+		"Longitude" : "-073.133574",
+		"Zipcode" : "06615",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STRATFORD",
+		"State" : "CT",
+		"Latitude" : "+41.177046"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06650",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06673",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06699",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "BRIDGEPORT",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06701",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-073.071124",
+		"Zipcode" : "06702",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.540696"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06703",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-073.034451",
+		"Zipcode" : "06704",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.581797"
+	},
+	{
+		"Longitude" : "-072.992749",
+		"Zipcode" : "06705",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.552893"
+	},
+	{
+		"Longitude" : "-073.026951",
+		"Zipcode" : "06706",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.535346"
+	},
+	{
+		"Longitude" : "-073.064152",
+		"Zipcode" : "06708",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.551496"
+	},
+	{
+		"Longitude" : "-073.044035",
+		"Zipcode" : "06710",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.571496"
+	},
+	{
+		"Longitude" : "-072.975694",
+		"Zipcode" : "06712",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "PROSPECT",
+		"State" : "CT",
+		"Latitude" : "+41.499097"
+	},
+	{
+		"Longitude" : "-072.980578",
+		"Zipcode" : "06716",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WOLCOTT",
+		"State" : "CT",
+		"Latitude" : "+41.598347"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06720",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06721",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06722",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06723",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06724",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06725",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06726",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-072.927507",
+		"Zipcode" : "06749",
+		"ZipClass" : "UNIQUE",
+		"County" : "NEW HAVEN",
+		"City" : "WATERBURY",
+		"State" : "CT",
+		"Latitude" : "+41.365709"
+	},
+	{
+		"Longitude" : "-073.251598",
+		"Zipcode" : "06750",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "BANTAM",
+		"State" : "CT",
+		"Latitude" : "+41.714352"
+	},
+	{
+		"Longitude" : "-073.209685",
+		"Zipcode" : "06751",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "BETHLEHEM",
+		"State" : "CT",
+		"Latitude" : "+41.640900"
+	},
+	{
+		"Longitude" : "-073.363875",
+		"Zipcode" : "06752",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "BRIDGEWATER",
+		"State" : "CT",
+		"Latitude" : "+41.520312"
+	},
+	{
+		"Longitude" : "-073.332345",
+		"Zipcode" : "06753",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LITCHFIELD",
+		"City" : "CORNWALL",
+		"State" : "CT",
+		"Latitude" : "+41.828067"
+	},
+	{
+		"Longitude" : "-073.301922",
+		"Zipcode" : "06754",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "CORNWALL BRIDGE",
+		"State" : "CT",
+		"Latitude" : "+41.744373"
+	},
+	{
+		"Longitude" : "-073.472048",
+		"Zipcode" : "06755",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "GAYLORDSVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.634686"
+	},
+	{
+		"Longitude" : "-073.239023",
+		"Zipcode" : "06756",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "GOSHEN",
+		"State" : "CT",
+		"Latitude" : "+41.794278"
+	},
+	{
+		"Longitude" : "-073.401908",
+		"Zipcode" : "06757",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "KENT",
+		"State" : "CT",
+		"Latitude" : "+41.774725"
+	},
+	{
+		"Longitude" : "-073.222981",
+		"Zipcode" : "06758",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "LAKESIDE",
+		"State" : "CT",
+		"Latitude" : "+41.739889"
+	},
+	{
+		"Longitude" : "-073.229787",
+		"Zipcode" : "06759",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "LITCHFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.791598"
+	},
+	{
+		"Longitude" : "-073.116458",
+		"Zipcode" : "06762",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "MIDDLEBURY",
+		"State" : "CT",
+		"Latitude" : "+41.528274"
+	},
+	{
+		"Longitude" : "-073.212587",
+		"Zipcode" : "06763",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "MORRIS",
+		"State" : "CT",
+		"Latitude" : "+41.689616"
+	},
+	{
+		"Longitude" : "-073.052965",
+		"Zipcode" : "06770",
+		"ZipClass" : "STANDARD",
+		"County" : "NEW HAVEN",
+		"City" : "NAUGATUCK",
+		"State" : "CT",
+		"Latitude" : "+41.491016"
+	},
+	{
+		"Longitude" : "-073.366017",
+		"Zipcode" : "06776",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "NEW MILFORD",
+		"State" : "CT",
+		"Latitude" : "+41.658619"
+	},
+	{
+		"Longitude" : "-073.310346",
+		"Zipcode" : "06777",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "NEW PRESTON MARBLE DALE",
+		"State" : "CT",
+		"Latitude" : "+41.690297"
+	},
+	{
+		"Longitude" : "-073.108997",
+		"Zipcode" : "06778",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "NORTHFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.707722"
+	},
+	{
+		"Longitude" : "-073.216887",
+		"Zipcode" : "06779",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "OAKVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.604052"
+	},
+	{
+		"Longitude" : "-072.991450",
+		"Zipcode" : "06781",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "LITCHFIELD",
+		"City" : "PEQUABUCK",
+		"State" : "CT",
+		"Latitude" : "+41.669898"
+	},
+	{
+		"Longitude" : "-073.044364",
+		"Zipcode" : "06782",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "PLYMOUTH",
+		"State" : "CT",
+		"Latitude" : "+41.658730"
+	},
+	{
+		"Longitude" : "-073.298344",
+		"Zipcode" : "06783",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "ROXBURY",
+		"State" : "CT",
+		"Latitude" : "+41.578971"
+	},
+	{
+		"Longitude" : "-073.490891",
+		"Zipcode" : "06784",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "SHERMAN",
+		"State" : "CT",
+		"Latitude" : "+41.525631"
+	},
+	{
+		"Longitude" : "-073.305256",
+		"Zipcode" : "06785",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "SOUTH KENT",
+		"State" : "CT",
+		"Latitude" : "+41.682439"
+	},
+	{
+		"Longitude" : "-073.022449",
+		"Zipcode" : "06786",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "TERRYVILLE",
+		"State" : "CT",
+		"Latitude" : "+41.663530"
+	},
+	{
+		"Longitude" : "-073.098657",
+		"Zipcode" : "06787",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "THOMASTON",
+		"State" : "CT",
+		"Latitude" : "+41.658721"
+	},
+	{
+		"Longitude" : "-073.126763",
+		"Zipcode" : "06790",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "TORRINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.874840"
+	},
+	{
+		"Longitude" : "-073.176163",
+		"Zipcode" : "06791",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "HARWINTON",
+		"State" : "CT",
+		"Latitude" : "+41.649639"
+	},
+	{
+		"Longitude" : "-073.294187",
+		"Zipcode" : "06793",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "WASHINGTON",
+		"State" : "CT",
+		"Latitude" : "+41.718159"
+	},
+	{
+		"Longitude" : "-073.316951",
+		"Zipcode" : "06794",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "WASHINGTON DEPOT",
+		"State" : "CT",
+		"Latitude" : "+41.646347"
+	},
+	{
+		"Longitude" : "-073.162003",
+		"Zipcode" : "06795",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "WATERTOWN",
+		"State" : "CT",
+		"Latitude" : "+41.759427"
+	},
+	{
+		"Longitude" : "-073.350384",
+		"Zipcode" : "06796",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "WEST CORNWALL",
+		"State" : "CT",
+		"Latitude" : "+41.821529"
+	},
+	{
+		"Longitude" : "-073.135499",
+		"Zipcode" : "06798",
+		"ZipClass" : "STANDARD",
+		"County" : "LITCHFIELD",
+		"City" : "WOODBURY",
+		"State" : "CT",
+		"Latitude" : "+41.733106"
+	},
+	{
+		"Longitude" : "-073.399080",
+		"Zipcode" : "06801",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BETHEL",
+		"State" : "CT",
+		"Latitude" : "+41.381244"
+	},
+	{
+		"Longitude" : "-073.275562",
+		"Zipcode" : "06804",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "BROOKFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.404799"
+	},
+	{
+		"Longitude" : "-073.587618",
+		"Zipcode" : "06807",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "COS COB",
+		"State" : "CT",
+		"Latitude" : "+41.058646"
+	},
+	{
+		"Longitude" : "-073.471416",
+		"Zipcode" : "06810",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "DANBURY",
+		"State" : "CT",
+		"Latitude" : "+41.376242"
+	},
+	{
+		"Longitude" : "-073.478717",
+		"Zipcode" : "06811",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "DANBURY",
+		"State" : "CT",
+		"Latitude" : "+41.423330"
+	},
+	{
+		"Longitude" : "-073.491042",
+		"Zipcode" : "06812",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NEW FAIRFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.486689"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06813",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "DANBURY",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06814",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "DANBURY",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06816",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "DANBURY",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06817",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "DANBURY",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.480765",
+		"Zipcode" : "06820",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "DARIEN",
+		"State" : "CT",
+		"Latitude" : "+41.075846"
+	},
+	{
+		"Longitude" : "-073.427915",
+		"Zipcode" : "06829",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "GEORGETOWN",
+		"State" : "CT",
+		"Latitude" : "+41.255530"
+	},
+	{
+		"Longitude" : "-073.626170",
+		"Zipcode" : "06830",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "GREENWICH",
+		"State" : "CT",
+		"Latitude" : "+41.042746"
+	},
+	{
+		"Longitude" : "-073.654472",
+		"Zipcode" : "06831",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "GREENWICH",
+		"State" : "CT",
+		"Latitude" : "+41.079983"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06832",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "GREENWICH",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06836",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "GREENWICH",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.501267",
+		"Zipcode" : "06840",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NEW CANAAN",
+		"State" : "CT",
+		"Latitude" : "+41.162209"
+	},
+	{
+		"Longitude" : "-073.495366",
+		"Zipcode" : "06842",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "NEW CANAAN",
+		"State" : "CT",
+		"Latitude" : "+41.147096"
+	},
+	{
+		"Longitude" : "-073.442423",
+		"Zipcode" : "06850",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.126146"
+	},
+	{
+		"Longitude" : "-073.404963",
+		"Zipcode" : "06851",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.139796"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06852",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.437563",
+		"Zipcode" : "06853",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.070396"
+	},
+	{
+		"Longitude" : "-073.432313",
+		"Zipcode" : "06854",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.090946"
+	},
+	{
+		"Longitude" : "-073.398362",
+		"Zipcode" : "06855",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.099196"
+	},
+	{
+		"Longitude" : "-073.420363",
+		"Zipcode" : "06856",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.111196"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06857",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.416213",
+		"Zipcode" : "06858",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.110496"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06859",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06860",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "NORWALK",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.566968",
+		"Zipcode" : "06870",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "OLD GREENWICH",
+		"State" : "CT",
+		"Latitude" : "+41.034946"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06875",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "REDDING CENTER",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.583569",
+		"Zipcode" : "06876",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FAIRFIELD",
+		"City" : "REDDING RIDGE",
+		"State" : "CT",
+		"Latitude" : "+41.032647"
+	},
+	{
+		"Longitude" : "-073.494637",
+		"Zipcode" : "06877",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "RIDGEFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.308201"
+	},
+	{
+		"Longitude" : "-073.580241",
+		"Zipcode" : "06878",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "RIVERSIDE",
+		"State" : "CT",
+		"Latitude" : "+41.035596"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06879",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "RIDGEFIELD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.343261",
+		"Zipcode" : "06880",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "WESTPORT",
+		"State" : "CT",
+		"Latitude" : "+41.144496"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06881",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "WESTPORT",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.376263",
+		"Zipcode" : "06883",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "WESTON",
+		"State" : "CT",
+		"Latitude" : "+41.222945"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06888",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "WESTPORT",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.346890",
+		"Zipcode" : "06889",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "WESTPORT",
+		"State" : "CT",
+		"Latitude" : "+41.141005"
+	},
+	{
+		"Longitude" : "-073.386340",
+		"Zipcode" : "06896",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "REDDING",
+		"State" : "CT",
+		"Latitude" : "+41.271095"
+	},
+	{
+		"Longitude" : "-073.439165",
+		"Zipcode" : "06897",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "WILTON",
+		"State" : "CT",
+		"Latitude" : "+41.209695"
+	},
+	{
+		"Longitude" : "-073.536216",
+		"Zipcode" : "06901",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.054082"
+	},
+	{
+		"Longitude" : "-073.544477",
+		"Zipcode" : "06902",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.060196"
+	},
+	{
+		"Longitude" : "-073.565919",
+		"Zipcode" : "06903",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.136773"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06904",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.552752",
+		"Zipcode" : "06905",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.116751"
+	},
+	{
+		"Longitude" : "-073.521416",
+		"Zipcode" : "06906",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.071246"
+	},
+	{
+		"Longitude" : "-073.537217",
+		"Zipcode" : "06907",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.088346"
+	},
+	{
+		"Longitude" : "-073.559118",
+		"Zipcode" : "06910",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.039147"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06911",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06912",
+		"ZipClass" : "STANDARD",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06913",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06914",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06920",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.537960",
+		"Zipcode" : "06921",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.049866"
+	},
+	{
+		"Longitude" : "-073.514344",
+		"Zipcode" : "06922",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.051551"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06925",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.538567",
+		"Zipcode" : "06926",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.041197"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06927",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	},
+	{
+		"Longitude" : "-073.363661",
+		"Zipcode" : "06928",
+		"ZipClass" : "UNIQUE",
+		"County" : "FAIRFIELD",
+		"City" : "STAMFORD",
+		"State" : "CT",
+		"Latitude" : "+41.308873"
+	}
+]}

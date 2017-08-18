@@ -1,0 +1,6951 @@
+{
+	"result":[
+	{
+		"Longitude" : "-095.225098",
+		"Zipcode" : "66002",
+		"ZipClass" : "STANDARD",
+		"County" : "ATCHISON",
+		"City" : "ATCHISON",
+		"State" : "KS",
+		"Latitude" : "+39.535948"
+	},
+	{
+		"Longitude" : "-095.223906",
+		"Zipcode" : "66006",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "BALDWIN CITY",
+		"State" : "KS",
+		"Latitude" : "+38.821502"
+	},
+	{
+		"Longitude" : "-094.947234",
+		"Zipcode" : "66007",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAVENWORTH",
+		"City" : "BASEHOR",
+		"State" : "KS",
+		"Latitude" : "+39.133448"
+	},
+	{
+		"Longitude" : "-095.186894",
+		"Zipcode" : "66008",
+		"ZipClass" : "STANDARD",
+		"County" : "DONIPHAN",
+		"City" : "BENDENA",
+		"State" : "KS",
+		"Latitude" : "+39.712615"
+	},
+	{
+		"Longitude" : "-095.007693",
+		"Zipcode" : "66010",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "BLUE MOUND",
+		"State" : "KS",
+		"Latitude" : "+38.089756"
+	},
+	{
+		"Longitude" : "-094.763938",
+		"Zipcode" : "66012",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "BONNER SPRINGS",
+		"State" : "KS",
+		"Latitude" : "+39.068153"
+	},
+	{
+		"Longitude" : "-094.685052",
+		"Zipcode" : "66013",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "BUCYRUS",
+		"State" : "KS",
+		"Latitude" : "+38.676056"
+	},
+	{
+		"Longitude" : "-094.890305",
+		"Zipcode" : "66014",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "CENTERVILLE",
+		"State" : "KS",
+		"Latitude" : "+38.282583"
+	},
+	{
+		"Longitude" : "-095.299014",
+		"Zipcode" : "66015",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "COLONY",
+		"State" : "KS",
+		"Latitude" : "+38.213685"
+	},
+	{
+		"Longitude" : "-095.240978",
+		"Zipcode" : "66016",
+		"ZipClass" : "STANDARD",
+		"County" : "ATCHISON",
+		"City" : "CUMMINGS",
+		"State" : "KS",
+		"Latitude" : "+39.483518"
+	},
+	{
+		"Longitude" : "-095.103098",
+		"Zipcode" : "66017",
+		"ZipClass" : "STANDARD",
+		"County" : "DONIPHAN",
+		"City" : "DENTON",
+		"State" : "KS",
+		"Latitude" : "+39.703980"
+	},
+	{
+		"Longitude" : "-094.971430",
+		"Zipcode" : "66018",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "DE SOTO",
+		"State" : "KS",
+		"Latitude" : "+38.946156"
+	},
+	{
+		"Longitude" : "-095.003661",
+		"Zipcode" : "66019",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "CLEARVIEW CITY",
+		"State" : "KS",
+		"Latitude" : "+38.946041"
+	},
+	{
+		"Longitude" : "-095.099858",
+		"Zipcode" : "66020",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAVENWORTH",
+		"City" : "EASTON",
+		"State" : "KS",
+		"Latitude" : "+39.339141"
+	},
+	{
+		"Longitude" : "-094.943160",
+		"Zipcode" : "66021",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "EDGERTON",
+		"State" : "KS",
+		"Latitude" : "+38.817766"
+	},
+	{
+		"Longitude" : "-095.393716",
+		"Zipcode" : "66023",
+		"ZipClass" : "STANDARD",
+		"County" : "ATCHISON",
+		"City" : "EFFINGHAM",
+		"State" : "KS",
+		"Latitude" : "+39.507561"
+	},
+	{
+		"Longitude" : "-094.882439",
+		"Zipcode" : "66024",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DONIPHAN",
+		"City" : "ELWOOD",
+		"State" : "KS",
+		"Latitude" : "+39.757262"
+	},
+	{
+		"Longitude" : "-095.125903",
+		"Zipcode" : "66025",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "EUDORA",
+		"State" : "KS",
+		"Latitude" : "+38.879142"
+	},
+	{
+		"Longitude" : "-094.883440",
+		"Zipcode" : "66026",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "FONTANA",
+		"State" : "KS",
+		"Latitude" : "+38.417885"
+	},
+	{
+		"Longitude" : "-094.931329",
+		"Zipcode" : "66027",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAVENWORTH",
+		"City" : "FORT LEAVENWORTH",
+		"State" : "KS",
+		"Latitude" : "+39.346798"
+	},
+	{
+		"Longitude" : "-094.941390",
+		"Zipcode" : "66030",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "GARDNER",
+		"State" : "KS",
+		"Latitude" : "+38.814998"
+	},
+	{
+		"Longitude" : "-094.899201",
+		"Zipcode" : "66031",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "NEW CENTURY",
+		"State" : "KS",
+		"Latitude" : "+38.824863"
+	},
+	{
+		"Longitude" : "-095.286458",
+		"Zipcode" : "66032",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "GARNETT",
+		"State" : "KS",
+		"Latitude" : "+38.232767"
+	},
+	{
+		"Longitude" : "-095.139231",
+		"Zipcode" : "66033",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "GREELEY",
+		"State" : "KS",
+		"Latitude" : "+38.346417"
+	},
+	{
+		"Longitude" : "-095.227692",
+		"Zipcode" : "66035",
+		"ZipClass" : "STANDARD",
+		"County" : "DONIPHAN",
+		"City" : "HIGHLAND",
+		"State" : "KS",
+		"Latitude" : "+39.878677"
+	},
+	{
+		"Longitude" : "-094.852061",
+		"Zipcode" : "66036",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIAMI",
+		"City" : "HILLSDALE",
+		"State" : "KS",
+		"Latitude" : "+38.658068"
+	},
+	{
+		"Longitude" : "-095.188557",
+		"Zipcode" : "66039",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "KINCAID",
+		"State" : "KS",
+		"Latitude" : "+38.110393"
+	},
+	{
+		"Longitude" : "-094.731773",
+		"Zipcode" : "66040",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "LA CYGNE",
+		"State" : "KS",
+		"Latitude" : "+38.362869"
+	},
+	{
+		"Longitude" : "-095.306304",
+		"Zipcode" : "66041",
+		"ZipClass" : "STANDARD",
+		"County" : "ATCHISON",
+		"City" : "LANCASTER",
+		"State" : "KS",
+		"Latitude" : "+39.536445"
+	},
+	{
+		"Longitude" : "-095.263735",
+		"Zipcode" : "66042",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "LANE",
+		"State" : "KS",
+		"Latitude" : "+38.550993"
+	},
+	{
+		"Longitude" : "-094.883026",
+		"Zipcode" : "66043",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAVENWORTH",
+		"City" : "LANSING",
+		"State" : "KS",
+		"Latitude" : "+39.233204"
+	},
+	{
+		"Longitude" : "-095.283982",
+		"Zipcode" : "66044",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LAWRENCE",
+		"State" : "KS",
+		"Latitude" : "+38.907518"
+	},
+	{
+		"Longitude" : "-095.275623",
+		"Zipcode" : "66045",
+		"ZipClass" : "UNIQUE",
+		"County" : "DOUGLAS",
+		"City" : "LAWRENCE",
+		"State" : "KS",
+		"Latitude" : "+38.952526"
+	},
+	{
+		"Longitude" : "-095.315453",
+		"Zipcode" : "66046",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LAWRENCE",
+		"State" : "KS",
+		"Latitude" : "+38.878682"
+	},
+	{
+		"Longitude" : "-095.338066",
+		"Zipcode" : "66047",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LAWRENCE",
+		"State" : "KS",
+		"Latitude" : "+38.884370"
+	},
+	{
+		"Longitude" : "-094.982216",
+		"Zipcode" : "66048",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAVENWORTH",
+		"City" : "LEAVENWORTH",
+		"State" : "KS",
+		"Latitude" : "+39.279656"
+	},
+	{
+		"Longitude" : "-095.344647",
+		"Zipcode" : "66049",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LAWRENCE",
+		"State" : "KS",
+		"Latitude" : "+38.903685"
+	},
+	{
+		"Longitude" : "-095.417804",
+		"Zipcode" : "66050",
+		"ZipClass" : "STANDARD",
+		"County" : "DOUGLAS",
+		"City" : "LECOMPTON",
+		"State" : "KS",
+		"Latitude" : "+39.004574"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66051",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "OLATHE",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-095.056044",
+		"Zipcode" : "66052",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAVENWORTH",
+		"City" : "LINWOOD",
+		"State" : "KS",
+		"Latitude" : "+39.007550"
+	},
+	{
+		"Longitude" : "-094.689876",
+		"Zipcode" : "66053",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "LOUISBURG",
+		"State" : "KS",
+		"Latitude" : "+38.587195"
+	},
+	{
+		"Longitude" : "-095.231788",
+		"Zipcode" : "66054",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MC LOUTH",
+		"State" : "KS",
+		"Latitude" : "+39.198095"
+	},
+	{
+		"Longitude" : "-094.766019",
+		"Zipcode" : "66056",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "MOUND CITY",
+		"State" : "KS",
+		"Latitude" : "+38.243571"
+	},
+	{
+		"Longitude" : "-095.483992",
+		"Zipcode" : "66058",
+		"ZipClass" : "STANDARD",
+		"County" : "ATCHISON",
+		"City" : "MUSCOTAH",
+		"State" : "KS",
+		"Latitude" : "+39.529523"
+	},
+	{
+		"Longitude" : "-095.319744",
+		"Zipcode" : "66060",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "NORTONVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.383848"
+	},
+	{
+		"Longitude" : "-094.881709",
+		"Zipcode" : "66061",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "OLATHE",
+		"State" : "KS",
+		"Latitude" : "+38.891427"
+	},
+	{
+		"Longitude" : "-094.778714",
+		"Zipcode" : "66062",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "OLATHE",
+		"State" : "KS",
+		"Latitude" : "+38.847391"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66063",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "OLATHE",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.891655",
+		"Zipcode" : "66064",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "OSAWATOMIE",
+		"State" : "KS",
+		"Latitude" : "+38.558533"
+	},
+	{
+		"Longitude" : "-095.356589",
+		"Zipcode" : "66066",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "OSKALOOSA",
+		"State" : "KS",
+		"Latitude" : "+39.255747"
+	},
+	{
+		"Longitude" : "-095.282668",
+		"Zipcode" : "66067",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "OTTAWA",
+		"State" : "KS",
+		"Latitude" : "+38.564337"
+	},
+	{
+		"Longitude" : "-095.456501",
+		"Zipcode" : "66070",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "OZAWKIE",
+		"State" : "KS",
+		"Latitude" : "+39.177150"
+	},
+	{
+		"Longitude" : "-094.880328",
+		"Zipcode" : "66071",
+		"ZipClass" : "STANDARD",
+		"County" : "MIAMI",
+		"City" : "PAOLA",
+		"State" : "KS",
+		"Latitude" : "+38.577932"
+	},
+	{
+		"Longitude" : "-094.852908",
+		"Zipcode" : "66072",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "PARKER",
+		"State" : "KS",
+		"Latitude" : "+38.255903"
+	},
+	{
+		"Longitude" : "-095.396681",
+		"Zipcode" : "66073",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "PERRY",
+		"State" : "KS",
+		"Latitude" : "+39.229717"
+	},
+	{
+		"Longitude" : "-094.713323",
+		"Zipcode" : "66075",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "PLEASANTON",
+		"State" : "KS",
+		"Latitude" : "+38.176349"
+	},
+	{
+		"Longitude" : "-095.341800",
+		"Zipcode" : "66076",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "POMONA",
+		"State" : "KS",
+		"Latitude" : "+38.615040"
+	},
+	{
+		"Longitude" : "-095.140829",
+		"Zipcode" : "66077",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ATCHISON",
+		"City" : "POTTER",
+		"State" : "KS",
+		"Latitude" : "+39.423624"
+	},
+	{
+		"Longitude" : "-095.258362",
+		"Zipcode" : "66078",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "PRINCETON",
+		"State" : "KS",
+		"Latitude" : "+38.470428"
+	},
+	{
+		"Longitude" : "-095.138748",
+		"Zipcode" : "66079",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "RANTOUL",
+		"State" : "KS",
+		"Latitude" : "+38.550188"
+	},
+	{
+		"Longitude" : "-095.312506",
+		"Zipcode" : "66080",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "RICHMOND",
+		"State" : "KS",
+		"Latitude" : "+38.436338"
+	},
+	{
+		"Longitude" : "-094.788441",
+		"Zipcode" : "66083",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SPRING HILL",
+		"State" : "KS",
+		"Latitude" : "+38.789323"
+	},
+	{
+		"Longitude" : "-094.656698",
+		"Zipcode" : "66085",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "STILWELL",
+		"State" : "KS",
+		"Latitude" : "+38.817990"
+	},
+	{
+		"Longitude" : "-095.084717",
+		"Zipcode" : "66086",
+		"ZipClass" : "STANDARD",
+		"County" : "LEAVENWORTH",
+		"City" : "TONGANOXIE",
+		"State" : "KS",
+		"Latitude" : "+39.115489"
+	},
+	{
+		"Longitude" : "-095.143417",
+		"Zipcode" : "66087",
+		"ZipClass" : "STANDARD",
+		"County" : "DONIPHAN",
+		"City" : "TROY",
+		"State" : "KS",
+		"Latitude" : "+39.790573"
+	},
+	{
+		"Longitude" : "-095.428183",
+		"Zipcode" : "66088",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "VALLEY FALLS",
+		"State" : "KS",
+		"Latitude" : "+39.248329"
+	},
+	{
+		"Longitude" : "-095.083528",
+		"Zipcode" : "66090",
+		"ZipClass" : "STANDARD",
+		"County" : "DONIPHAN",
+		"City" : "WATHENA",
+		"State" : "KS",
+		"Latitude" : "+39.806075"
+	},
+	{
+		"Longitude" : "-095.343798",
+		"Zipcode" : "66091",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "WELDA",
+		"State" : "KS",
+		"Latitude" : "+38.150424"
+	},
+	{
+		"Longitude" : "-095.149986",
+		"Zipcode" : "66092",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WELLSVILLE",
+		"State" : "KS",
+		"Latitude" : "+38.642244"
+	},
+	{
+		"Longitude" : "-095.457728",
+		"Zipcode" : "66093",
+		"ZipClass" : "STANDARD",
+		"County" : "ANDERSON",
+		"City" : "WESTPHALIA",
+		"State" : "KS",
+		"Latitude" : "+38.210603"
+	},
+	{
+		"Longitude" : "-095.293570",
+		"Zipcode" : "66094",
+		"ZipClass" : "STANDARD",
+		"County" : "DONIPHAN",
+		"City" : "WHITE CLOUD",
+		"State" : "KS",
+		"Latitude" : "+39.873744"
+	},
+	{
+		"Longitude" : "-095.406321",
+		"Zipcode" : "66095",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WILLIAMSBURG",
+		"State" : "KS",
+		"Latitude" : "+38.479130"
+	},
+	{
+		"Longitude" : "-095.285222",
+		"Zipcode" : "66097",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "WINCHESTER",
+		"State" : "KS",
+		"Latitude" : "+39.231400"
+	},
+	{
+		"Longitude" : "-094.630384",
+		"Zipcode" : "66101",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.103053"
+	},
+	{
+		"Longitude" : "-094.750537",
+		"Zipcode" : "66102",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.101553"
+	},
+	{
+		"Longitude" : "-094.628184",
+		"Zipcode" : "66103",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.066804"
+	},
+	{
+		"Longitude" : "-094.688896",
+		"Zipcode" : "66104",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.145049"
+	},
+	{
+		"Longitude" : "-094.635528",
+		"Zipcode" : "66105",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.082662"
+	},
+	{
+		"Longitude" : "-094.717837",
+		"Zipcode" : "66106",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.069404"
+	},
+	{
+		"Longitude" : "-094.817719",
+		"Zipcode" : "66109",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.143692"
+	},
+	{
+		"Longitude" : "-094.749538",
+		"Zipcode" : "66110",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.096551"
+	},
+	{
+		"Longitude" : "-094.786033",
+		"Zipcode" : "66111",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.086354"
+	},
+	{
+		"Longitude" : "-094.765822",
+		"Zipcode" : "66112",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.116953"
+	},
+	{
+		"Longitude" : "-094.723271",
+		"Zipcode" : "66113",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "EDWARDSVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.073539"
+	},
+	{
+		"Longitude" : "-094.615984",
+		"Zipcode" : "66115",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.136353"
+	},
+	{
+		"Longitude" : "-094.749538",
+		"Zipcode" : "66117",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.096551"
+	},
+	{
+		"Longitude" : "-094.614434",
+		"Zipcode" : "66118",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.101054"
+	},
+	{
+		"Longitude" : "-094.749538",
+		"Zipcode" : "66119",
+		"ZipClass" : "STANDARD",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.096551"
+	},
+	{
+		"Longitude" : "-094.749538",
+		"Zipcode" : "66160",
+		"ZipClass" : "UNIQUE",
+		"County" : "WYANDOTTE",
+		"City" : "KANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+39.096551"
+	},
+	{
+		"Longitude" : "-094.679486",
+		"Zipcode" : "66201",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+39.007755"
+	},
+	{
+		"Longitude" : "-094.682563",
+		"Zipcode" : "66202",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+39.024819"
+	},
+	{
+		"Longitude" : "-094.693187",
+		"Zipcode" : "66203",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+39.015629"
+	},
+	{
+		"Longitude" : "-094.683188",
+		"Zipcode" : "66204",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.974815"
+	},
+	{
+		"Longitude" : "-094.827369",
+		"Zipcode" : "66205",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.994381"
+	},
+	{
+		"Longitude" : "-094.716155",
+		"Zipcode" : "66206",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.959356"
+	},
+	{
+		"Longitude" : "-094.644701",
+		"Zipcode" : "66207",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.955156"
+	},
+	{
+		"Longitude" : "-094.634038",
+		"Zipcode" : "66208",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.993805"
+	},
+	{
+		"Longitude" : "-094.637684",
+		"Zipcode" : "66209",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.898356"
+	},
+	{
+		"Longitude" : "-094.714336",
+		"Zipcode" : "66210",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.927256"
+	},
+	{
+		"Longitude" : "-094.637888",
+		"Zipcode" : "66211",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.924838"
+	},
+	{
+		"Longitude" : "-094.683236",
+		"Zipcode" : "66212",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.956806"
+	},
+	{
+		"Longitude" : "-094.704936",
+		"Zipcode" : "66213",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.898243"
+	},
+	{
+		"Longitude" : "-094.720914",
+		"Zipcode" : "66214",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.964879"
+	},
+	{
+		"Longitude" : "-094.740503",
+		"Zipcode" : "66215",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.949007"
+	},
+	{
+		"Longitude" : "-094.741448",
+		"Zipcode" : "66216",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+39.014655"
+	},
+	{
+		"Longitude" : "-094.770868",
+		"Zipcode" : "66217",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+39.014604"
+	},
+	{
+		"Longitude" : "-094.810790",
+		"Zipcode" : "66218",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+39.014005"
+	},
+	{
+		"Longitude" : "-094.779899",
+		"Zipcode" : "66219",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.955326"
+	},
+	{
+		"Longitude" : "-094.822249",
+		"Zipcode" : "66220",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.961334"
+	},
+	{
+		"Longitude" : "-094.714388",
+		"Zipcode" : "66221",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.861933"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66222",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.660994",
+		"Zipcode" : "66223",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.861887"
+	},
+	{
+		"Longitude" : "-094.631442",
+		"Zipcode" : "66224",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.859094"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66225",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.862667",
+		"Zipcode" : "66226",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+39.017826"
+	},
+	{
+		"Longitude" : "-094.868066",
+		"Zipcode" : "66227",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.974684"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66250",
+		"ZipClass" : "UNIQUE",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66251",
+		"ZipClass" : "UNIQUE",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66276",
+		"ZipClass" : "UNIQUE",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66279",
+		"ZipClass" : "UNIQUE",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66282",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66283",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66285",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-094.831991",
+		"Zipcode" : "66286",
+		"ZipClass" : "STANDARD",
+		"County" : "JOHNSON",
+		"City" : "SHAWNEE MISSION",
+		"State" : "KS",
+		"Latitude" : "+38.899901"
+	},
+	{
+		"Longitude" : "-096.204558",
+		"Zipcode" : "66401",
+		"ZipClass" : "STANDARD",
+		"County" : "WABAUNSEE",
+		"City" : "ALMA",
+		"State" : "KS",
+		"Latitude" : "+38.953556"
+	},
+	{
+		"Longitude" : "-095.839181",
+		"Zipcode" : "66402",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "AUBURN",
+		"State" : "KS",
+		"Latitude" : "+38.916916"
+	},
+	{
+		"Longitude" : "-096.295457",
+		"Zipcode" : "66403",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "AXTELL",
+		"State" : "KS",
+		"Latitude" : "+39.885826"
+	},
+	{
+		"Longitude" : "-096.108737",
+		"Zipcode" : "66404",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "BAILEYVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.753031"
+	},
+	{
+		"Longitude" : "-096.416779",
+		"Zipcode" : "66406",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BEATTIE",
+		"State" : "KS",
+		"Latitude" : "+39.906945"
+	},
+	{
+		"Longitude" : "-096.164714",
+		"Zipcode" : "66407",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "BELVUE",
+		"State" : "KS",
+		"Latitude" : "+39.277337"
+	},
+	{
+		"Longitude" : "-095.967077",
+		"Zipcode" : "66408",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "BERN",
+		"State" : "KS",
+		"Latitude" : "+39.960927"
+	},
+	{
+		"Longitude" : "-095.584708",
+		"Zipcode" : "66409",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "BERRYTON",
+		"State" : "KS",
+		"Latitude" : "+38.927847"
+	},
+	{
+		"Longitude" : "-096.563601",
+		"Zipcode" : "66411",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BLUE RAPIDS",
+		"State" : "KS",
+		"Latitude" : "+39.713306"
+	},
+	{
+		"Longitude" : "-096.758998",
+		"Zipcode" : "66412",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "BREMEN",
+		"State" : "KS",
+		"Latitude" : "+39.907206"
+	},
+	{
+		"Longitude" : "-095.815754",
+		"Zipcode" : "66413",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "BURLINGAME",
+		"State" : "KS",
+		"Latitude" : "+38.737990"
+	},
+	{
+		"Longitude" : "-095.706138",
+		"Zipcode" : "66414",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "CARBONDALE",
+		"State" : "KS",
+		"Latitude" : "+38.811675"
+	},
+	{
+		"Longitude" : "-096.032867",
+		"Zipcode" : "66415",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "CENTRALIA",
+		"State" : "KS",
+		"Latitude" : "+39.697428"
+	},
+	{
+		"Longitude" : "-095.848729",
+		"Zipcode" : "66416",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "CIRCLEVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.528134"
+	},
+	{
+		"Longitude" : "-096.031758",
+		"Zipcode" : "66417",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "CORNING",
+		"State" : "KS",
+		"Latitude" : "+39.654314"
+	},
+	{
+		"Longitude" : "-095.900691",
+		"Zipcode" : "66418",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "DELIA",
+		"State" : "KS",
+		"Latitude" : "+39.300065"
+	},
+	{
+		"Longitude" : "-095.612718",
+		"Zipcode" : "66419",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "DENISON",
+		"State" : "KS",
+		"Latitude" : "+39.353979"
+	},
+	{
+		"Longitude" : "-095.917186",
+		"Zipcode" : "66420",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SHAWNEE",
+		"City" : "DOVER",
+		"State" : "KS",
+		"Latitude" : "+38.964532"
+	},
+	{
+		"Longitude" : "-096.104160",
+		"Zipcode" : "66422",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "EMMETT",
+		"State" : "KS",
+		"Latitude" : "+39.347682"
+	},
+	{
+		"Longitude" : "-096.145799",
+		"Zipcode" : "66423",
+		"ZipClass" : "STANDARD",
+		"County" : "WABAUNSEE",
+		"City" : "ESKRIDGE",
+		"State" : "KS",
+		"Latitude" : "+38.858895"
+	},
+	{
+		"Longitude" : "-095.462469",
+		"Zipcode" : "66424",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "EVEREST",
+		"State" : "KS",
+		"Latitude" : "+39.699141"
+	},
+	{
+		"Longitude" : "-095.727038",
+		"Zipcode" : "66425",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "FAIRVIEW",
+		"State" : "KS",
+		"Latitude" : "+39.821847"
+	},
+	{
+		"Longitude" : "-096.506769",
+		"Zipcode" : "66426",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "FOSTORIA",
+		"State" : "KS",
+		"Latitude" : "+39.439820"
+	},
+	{
+		"Longitude" : "-096.522272",
+		"Zipcode" : "66427",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "FRANKFORT",
+		"State" : "KS",
+		"Latitude" : "+39.733313"
+	},
+	{
+		"Longitude" : "-095.930454",
+		"Zipcode" : "66428",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "GOFF",
+		"State" : "KS",
+		"Latitude" : "+39.664216"
+	},
+	{
+		"Longitude" : "-095.539169",
+		"Zipcode" : "66429",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "GRANTVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.104047"
+	},
+	{
+		"Longitude" : "-095.963421",
+		"Zipcode" : "66431",
+		"ZipClass" : "STANDARD",
+		"County" : "WABAUNSEE",
+		"City" : "HARVEYVILLE",
+		"State" : "KS",
+		"Latitude" : "+38.789698"
+	},
+	{
+		"Longitude" : "-096.374730",
+		"Zipcode" : "66432",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "HAVENSVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.446550"
+	},
+	{
+		"Longitude" : "-095.600405",
+		"Zipcode" : "66434",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "HIAWATHA",
+		"State" : "KS",
+		"Latitude" : "+39.791367"
+	},
+	{
+		"Longitude" : "-095.765586",
+		"Zipcode" : "66436",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HOLTON",
+		"State" : "KS",
+		"Latitude" : "+39.481012"
+	},
+	{
+		"Longitude" : "-096.506345",
+		"Zipcode" : "66438",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "HOME",
+		"State" : "KS",
+		"Latitude" : "+39.848788"
+	},
+	{
+		"Longitude" : "-095.527212",
+		"Zipcode" : "66439",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "HORTON",
+		"State" : "KS",
+		"Latitude" : "+39.664076"
+	},
+	{
+		"Longitude" : "-095.685374",
+		"Zipcode" : "66440",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "HOYT",
+		"State" : "KS",
+		"Latitude" : "+39.305187"
+	},
+	{
+		"Longitude" : "-096.783359",
+		"Zipcode" : "66441",
+		"ZipClass" : "STANDARD",
+		"County" : "GEARY",
+		"City" : "JUNCTION CITY",
+		"State" : "KS",
+		"Latitude" : "+39.026465"
+	},
+	{
+		"Longitude" : "-096.837821",
+		"Zipcode" : "66442",
+		"ZipClass" : "STANDARD",
+		"County" : "GEARY",
+		"City" : "FORT RILEY",
+		"State" : "KS",
+		"Latitude" : "+39.113738"
+	},
+	{
+		"Longitude" : "-096.848345",
+		"Zipcode" : "66449",
+		"ZipClass" : "STANDARD",
+		"County" : "RILEY",
+		"City" : "LEONARDVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.401675"
+	},
+	{
+		"Longitude" : "-096.333203",
+		"Zipcode" : "66450",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "LOUISVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.261802"
+	},
+	{
+		"Longitude" : "-095.656131",
+		"Zipcode" : "66451",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "LYNDON",
+		"State" : "KS",
+		"Latitude" : "+38.622848"
+	},
+	{
+		"Longitude" : "-096.237918",
+		"Zipcode" : "66501",
+		"ZipClass" : "STANDARD",
+		"County" : "WABAUNSEE",
+		"City" : "MC FARLAND",
+		"State" : "KS",
+		"Latitude" : "+39.053494"
+	},
+	{
+		"Longitude" : "-096.564589",
+		"Zipcode" : "66502",
+		"ZipClass" : "STANDARD",
+		"County" : "RILEY",
+		"City" : "MANHATTAN",
+		"State" : "KS",
+		"Latitude" : "+39.209375"
+	},
+	{
+		"Longitude" : "-096.633596",
+		"Zipcode" : "66503",
+		"ZipClass" : "STANDARD",
+		"County" : "RILEY",
+		"City" : "MANHATTAN",
+		"State" : "KS",
+		"Latitude" : "+39.245797"
+	},
+	{
+		"Longitude" : "-096.675295",
+		"Zipcode" : "66505",
+		"ZipClass" : "STANDARD",
+		"County" : "RILEY",
+		"City" : "MANHATTAN",
+		"State" : "KS",
+		"Latitude" : "+39.304937"
+	},
+	{
+		"Longitude" : "-096.583875",
+		"Zipcode" : "66506",
+		"ZipClass" : "STANDARD",
+		"County" : "RILEY",
+		"City" : "MANHATTAN",
+		"State" : "KS",
+		"Latitude" : "+39.196032"
+	},
+	{
+		"Longitude" : "-096.131584",
+		"Zipcode" : "66507",
+		"ZipClass" : "STANDARD",
+		"County" : "WABAUNSEE",
+		"City" : "MAPLE HILL",
+		"State" : "KS",
+		"Latitude" : "+39.070808"
+	},
+	{
+		"Longitude" : "-096.617219",
+		"Zipcode" : "66508",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "MARYSVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.863544"
+	},
+	{
+		"Longitude" : "-095.760939",
+		"Zipcode" : "66509",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "MAYETTA",
+		"State" : "KS",
+		"Latitude" : "+39.312432"
+	},
+	{
+		"Longitude" : "-095.611239",
+		"Zipcode" : "66510",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "MELVERN",
+		"State" : "KS",
+		"Latitude" : "+38.499728"
+	},
+	{
+		"Longitude" : "-095.530598",
+		"Zipcode" : "66512",
+		"ZipClass" : "STANDARD",
+		"County" : "JEFFERSON",
+		"City" : "MERIDEN",
+		"State" : "KS",
+		"Latitude" : "+39.202791"
+	},
+	{
+		"Longitude" : "-096.874028",
+		"Zipcode" : "66514",
+		"ZipClass" : "STANDARD",
+		"County" : "GEARY",
+		"City" : "MILFORD",
+		"State" : "KS",
+		"Latitude" : "+39.127855"
+	},
+	{
+		"Longitude" : "-095.694761",
+		"Zipcode" : "66515",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "MORRILL",
+		"State" : "KS",
+		"Latitude" : "+39.923097"
+	},
+	{
+		"Longitude" : "-095.716332",
+		"Zipcode" : "66516",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "NETAWAKA",
+		"State" : "KS",
+		"Latitude" : "+39.601523"
+	},
+	{
+		"Longitude" : "-096.710090",
+		"Zipcode" : "66517",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RILEY",
+		"City" : "OGDEN",
+		"State" : "KS",
+		"Latitude" : "+39.115313"
+	},
+	{
+		"Longitude" : "-096.551054",
+		"Zipcode" : "66518",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "OKETO",
+		"State" : "KS",
+		"Latitude" : "+39.964838"
+	},
+	{
+		"Longitude" : "-096.439613",
+		"Zipcode" : "66520",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "OLSBURG",
+		"State" : "KS",
+		"Latitude" : "+39.411089"
+	},
+	{
+		"Longitude" : "-096.344280",
+		"Zipcode" : "66521",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "ONAGA",
+		"State" : "KS",
+		"Latitude" : "+39.442426"
+	},
+	{
+		"Longitude" : "-095.939190",
+		"Zipcode" : "66522",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "ONEIDA",
+		"State" : "KS",
+		"Latitude" : "+39.865912"
+	},
+	{
+		"Longitude" : "-095.737112",
+		"Zipcode" : "66523",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "OSAGE CITY",
+		"State" : "KS",
+		"Latitude" : "+38.629558"
+	},
+	{
+		"Longitude" : "-095.574894",
+		"Zipcode" : "66524",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "OVERBROOK",
+		"State" : "KS",
+		"Latitude" : "+38.724549"
+	},
+	{
+		"Longitude" : "-096.167821",
+		"Zipcode" : "66526",
+		"ZipClass" : "STANDARD",
+		"County" : "WABAUNSEE",
+		"City" : "PAXICO",
+		"State" : "KS",
+		"Latitude" : "+39.069282"
+	},
+	{
+		"Longitude" : "-095.635089",
+		"Zipcode" : "66527",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "POWHATTAN",
+		"State" : "KS",
+		"Latitude" : "+39.761448"
+	},
+	{
+		"Longitude" : "-095.555210",
+		"Zipcode" : "66528",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "QUENEMO",
+		"State" : "KS",
+		"Latitude" : "+38.634939"
+	},
+	{
+		"Longitude" : "-096.822207",
+		"Zipcode" : "66531",
+		"ZipClass" : "STANDARD",
+		"County" : "RILEY",
+		"City" : "RILEY",
+		"State" : "KS",
+		"Latitude" : "+39.300456"
+	},
+	{
+		"Longitude" : "-095.456658",
+		"Zipcode" : "66532",
+		"ZipClass" : "STANDARD",
+		"County" : "BROWN",
+		"City" : "ROBINSON",
+		"State" : "KS",
+		"Latitude" : "+39.818216"
+	},
+	{
+		"Longitude" : "-095.959031",
+		"Zipcode" : "66533",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "ROSSVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.158392"
+	},
+	{
+		"Longitude" : "-095.802372",
+		"Zipcode" : "66534",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "SABETHA",
+		"State" : "KS",
+		"Latitude" : "+39.899941"
+	},
+	{
+		"Longitude" : "-096.435394",
+		"Zipcode" : "66535",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "SAINT GEORGE",
+		"State" : "KS",
+		"Latitude" : "+39.289710"
+	},
+	{
+		"Longitude" : "-096.128154",
+		"Zipcode" : "66536",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "SAINT MARYS",
+		"State" : "KS",
+		"Latitude" : "+39.256719"
+	},
+	{
+		"Longitude" : "-095.675159",
+		"Zipcode" : "66537",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "SCRANTON",
+		"State" : "KS",
+		"Latitude" : "+38.746330"
+	},
+	{
+		"Longitude" : "-096.031629",
+		"Zipcode" : "66538",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "SENECA",
+		"State" : "KS",
+		"Latitude" : "+39.847328"
+	},
+	{
+		"Longitude" : "-095.863810",
+		"Zipcode" : "66539",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "SILVER LAKE",
+		"State" : "KS",
+		"Latitude" : "+39.151302"
+	},
+	{
+		"Longitude" : "-095.825452",
+		"Zipcode" : "66540",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "SOLDIER",
+		"State" : "KS",
+		"Latitude" : "+39.478973"
+	},
+	{
+		"Longitude" : "-096.510692",
+		"Zipcode" : "66541",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "SUMMERFIELD",
+		"State" : "KS",
+		"Latitude" : "+39.847244"
+	},
+	{
+		"Longitude" : "-095.628841",
+		"Zipcode" : "66542",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TECUMSEH",
+		"State" : "KS",
+		"Latitude" : "+39.002048"
+	},
+	{
+		"Longitude" : "-095.601158",
+		"Zipcode" : "66543",
+		"ZipClass" : "STANDARD",
+		"County" : "OSAGE",
+		"City" : "VASSAR",
+		"State" : "KS",
+		"Latitude" : "+38.641898"
+	},
+	{
+		"Longitude" : "-096.495257",
+		"Zipcode" : "66544",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "VERMILLION",
+		"State" : "KS",
+		"Latitude" : "+39.689591"
+	},
+	{
+		"Longitude" : "-095.729868",
+		"Zipcode" : "66546",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "WAKARUSA",
+		"State" : "KS",
+		"Latitude" : "+38.905693"
+	},
+	{
+		"Longitude" : "-096.341383",
+		"Zipcode" : "66547",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "WAMEGO",
+		"State" : "KS",
+		"Latitude" : "+39.298416"
+	},
+	{
+		"Longitude" : "-096.701387",
+		"Zipcode" : "66548",
+		"ZipClass" : "STANDARD",
+		"County" : "MARSHALL",
+		"City" : "WATERVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.763462"
+	},
+	{
+		"Longitude" : "-096.437389",
+		"Zipcode" : "66549",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "WESTMORELAND",
+		"State" : "KS",
+		"Latitude" : "+39.413800"
+	},
+	{
+		"Longitude" : "-095.811894",
+		"Zipcode" : "66550",
+		"ZipClass" : "STANDARD",
+		"County" : "NEMAHA",
+		"City" : "WETMORE",
+		"State" : "KS",
+		"Latitude" : "+39.636115"
+	},
+	{
+		"Longitude" : "-096.257561",
+		"Zipcode" : "66551",
+		"ZipClass" : "STANDARD",
+		"County" : "POTTAWATOMIE",
+		"City" : "WHEATON",
+		"State" : "KS",
+		"Latitude" : "+39.471738"
+	},
+	{
+		"Longitude" : "-095.639154",
+		"Zipcode" : "66552",
+		"ZipClass" : "STANDARD",
+		"County" : "JACKSON",
+		"City" : "WHITING",
+		"State" : "KS",
+		"Latitude" : "+39.594110"
+	},
+	{
+		"Longitude" : "-096.806367",
+		"Zipcode" : "66554",
+		"ZipClass" : "STANDARD",
+		"County" : "RILEY",
+		"City" : "RANDOLPH",
+		"State" : "KS",
+		"Latitude" : "+39.465421"
+	},
+	{
+		"Longitude" : "-096.522806",
+		"Zipcode" : "66555",
+		"ZipClass" : "UNIQUE",
+		"County" : "MARSHALL",
+		"City" : "MARYSVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.783753"
+	},
+	{
+		"Longitude" : "-095.780662",
+		"Zipcode" : "66601",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+38.988075"
+	},
+	{
+		"Longitude" : "-095.675758",
+		"Zipcode" : "66603",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.052150"
+	},
+	{
+		"Longitude" : "-095.758369",
+		"Zipcode" : "66604",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.045716"
+	},
+	{
+		"Longitude" : "-095.592088",
+		"Zipcode" : "66605",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.011150"
+	},
+	{
+		"Longitude" : "-095.721610",
+		"Zipcode" : "66606",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.059349"
+	},
+	{
+		"Longitude" : "-095.630107",
+		"Zipcode" : "66607",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.044349"
+	},
+	{
+		"Longitude" : "-095.645607",
+		"Zipcode" : "66608",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.080299"
+	},
+	{
+		"Longitude" : "-095.615101",
+		"Zipcode" : "66609",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+38.964740"
+	},
+	{
+		"Longitude" : "-095.817109",
+		"Zipcode" : "66610",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+38.975466"
+	},
+	{
+		"Longitude" : "-095.695559",
+		"Zipcode" : "66611",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.015200"
+	},
+	{
+		"Longitude" : "-095.679459",
+		"Zipcode" : "66612",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.040450"
+	},
+	{
+		"Longitude" : "-095.779995",
+		"Zipcode" : "66614",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.017305"
+	},
+	{
+		"Longitude" : "-095.854169",
+		"Zipcode" : "66615",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.055155"
+	},
+	{
+		"Longitude" : "-095.626357",
+		"Zipcode" : "66616",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.065477"
+	},
+	{
+		"Longitude" : "-095.793795",
+		"Zipcode" : "66617",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.152750"
+	},
+	{
+		"Longitude" : "-095.801975",
+		"Zipcode" : "66618",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.139907"
+	},
+	{
+		"Longitude" : "-095.723636",
+		"Zipcode" : "66619",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+38.953556"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66620",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66621",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66622",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66624",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66625",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66626",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66628",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66629",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66634",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66636",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66637",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66638",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66642",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66647",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66652",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66653",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66658",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66667",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66675",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66683",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66686",
+		"ZipClass" : "STANDARD",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66692",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-095.769657",
+		"Zipcode" : "66699",
+		"ZipClass" : "UNIQUE",
+		"County" : "SHAWNEE",
+		"City" : "TOPEKA",
+		"State" : "KS",
+		"Latitude" : "+39.042939"
+	},
+	{
+		"Longitude" : "-094.714793",
+		"Zipcode" : "66701",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "FORT SCOTT",
+		"State" : "KS",
+		"Latitude" : "+37.821629"
+	},
+	{
+		"Longitude" : "-095.661801",
+		"Zipcode" : "66710",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "ALTOONA",
+		"State" : "KS",
+		"Latitude" : "+37.525023"
+	},
+	{
+		"Longitude" : "-094.697518",
+		"Zipcode" : "66711",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "ARCADIA",
+		"State" : "KS",
+		"Latitude" : "+37.601241"
+	},
+	{
+		"Longitude" : "-094.694906",
+		"Zipcode" : "66712",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "ARMA",
+		"State" : "KS",
+		"Latitude" : "+37.557295"
+	},
+	{
+		"Longitude" : "-094.789814",
+		"Zipcode" : "66713",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "BAXTER SPRINGS",
+		"State" : "KS",
+		"Latitude" : "+37.139184"
+	},
+	{
+		"Longitude" : "-095.703812",
+		"Zipcode" : "66714",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "BENEDICT",
+		"State" : "KS",
+		"Latitude" : "+37.611817"
+	},
+	{
+		"Longitude" : "-095.026240",
+		"Zipcode" : "66716",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "BRONSON",
+		"State" : "KS",
+		"Latitude" : "+37.874455"
+	},
+	{
+		"Longitude" : "-095.703647",
+		"Zipcode" : "66717",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "BUFFALO",
+		"State" : "KS",
+		"Latitude" : "+37.614292"
+	},
+	{
+		"Longitude" : "-095.416422",
+		"Zipcode" : "66720",
+		"ZipClass" : "STANDARD",
+		"County" : "NEOSHO",
+		"City" : "CHANUTE",
+		"State" : "KS",
+		"Latitude" : "+37.609218"
+	},
+	{
+		"Longitude" : "-094.832276",
+		"Zipcode" : "66724",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "CHEROKEE",
+		"State" : "KS",
+		"Latitude" : "+37.368216"
+	},
+	{
+		"Longitude" : "-094.889857",
+		"Zipcode" : "66725",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "COLUMBUS",
+		"State" : "KS",
+		"Latitude" : "+37.169887"
+	},
+	{
+		"Longitude" : "-095.743835",
+		"Zipcode" : "66727",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "COYVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.559151"
+	},
+	{
+		"Longitude" : "-094.704133",
+		"Zipcode" : "66728",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHEROKEE",
+		"City" : "CRESTLINE",
+		"State" : "KS",
+		"Latitude" : "+37.169440"
+	},
+	{
+		"Longitude" : "-095.215073",
+		"Zipcode" : "66732",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "ELSMORE",
+		"State" : "KS",
+		"Latitude" : "+37.838456"
+	},
+	{
+		"Longitude" : "-095.298920",
+		"Zipcode" : "66733",
+		"ZipClass" : "STANDARD",
+		"County" : "NEOSHO",
+		"City" : "ERIE",
+		"State" : "KS",
+		"Latitude" : "+37.580055"
+	},
+	{
+		"Longitude" : "-094.798259",
+		"Zipcode" : "66734",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "FARLINGTON",
+		"State" : "KS",
+		"Latitude" : "+37.624035"
+	},
+	{
+		"Longitude" : "-094.683265",
+		"Zipcode" : "66735",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "FRANKLIN",
+		"State" : "KS",
+		"Latitude" : "+37.437747"
+	},
+	{
+		"Longitude" : "-095.748418",
+		"Zipcode" : "66736",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "FREDONIA",
+		"State" : "KS",
+		"Latitude" : "+37.571672"
+	},
+	{
+		"Longitude" : "-094.720191",
+		"Zipcode" : "66738",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "FULTON",
+		"State" : "KS",
+		"Latitude" : "+38.010170"
+	},
+	{
+		"Longitude" : "-094.833896",
+		"Zipcode" : "66739",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "GALENA",
+		"State" : "KS",
+		"Latitude" : "+37.154560"
+	},
+	{
+		"Longitude" : "-095.370691",
+		"Zipcode" : "66740",
+		"ZipClass" : "STANDARD",
+		"County" : "NEOSHO",
+		"City" : "GALESBURG",
+		"State" : "KS",
+		"Latitude" : "+37.472432"
+	},
+	{
+		"Longitude" : "-094.850996",
+		"Zipcode" : "66741",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "GARLAND",
+		"State" : "KS",
+		"Latitude" : "+37.855416"
+	},
+	{
+		"Longitude" : "-095.346697",
+		"Zipcode" : "66742",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ALLEN",
+		"City" : "GAS",
+		"State" : "KS",
+		"Latitude" : "+37.923162"
+	},
+	{
+		"Longitude" : "-094.881385",
+		"Zipcode" : "66743",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "GIRARD",
+		"State" : "KS",
+		"Latitude" : "+37.471611"
+	},
+	{
+		"Longitude" : "-094.942113",
+		"Zipcode" : "66746",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "HEPLER",
+		"State" : "KS",
+		"Latitude" : "+37.638333"
+	},
+	{
+		"Longitude" : "-095.345490",
+		"Zipcode" : "66748",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "HUMBOLDT",
+		"State" : "KS",
+		"Latitude" : "+37.829342"
+	},
+	{
+		"Longitude" : "-095.391057",
+		"Zipcode" : "66749",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "IOLA",
+		"State" : "KS",
+		"Latitude" : "+37.885757"
+	},
+	{
+		"Longitude" : "-095.255758",
+		"Zipcode" : "66751",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "LA HARPE",
+		"State" : "KS",
+		"Latitude" : "+37.914528"
+	},
+	{
+		"Longitude" : "-094.856644",
+		"Zipcode" : "66753",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "MC CUNE",
+		"State" : "KS",
+		"Latitude" : "+37.448486"
+	},
+	{
+		"Longitude" : "-094.850996",
+		"Zipcode" : "66754",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "MAPLETON",
+		"State" : "KS",
+		"Latitude" : "+37.855416"
+	},
+	{
+		"Longitude" : "-095.197671",
+		"Zipcode" : "66755",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "MORAN",
+		"State" : "KS",
+		"Latitude" : "+37.914394"
+	},
+	{
+		"Longitude" : "-094.661105",
+		"Zipcode" : "66756",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "MULBERRY",
+		"State" : "KS",
+		"Latitude" : "+37.542590"
+	},
+	{
+		"Longitude" : "-095.668445",
+		"Zipcode" : "66757",
+		"ZipClass" : "STANDARD",
+		"County" : "WILSON",
+		"City" : "NEODESHA",
+		"State" : "KS",
+		"Latitude" : "+37.560840"
+	},
+	{
+		"Longitude" : "-095.622106",
+		"Zipcode" : "66758",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODSON",
+		"City" : "NEOSHO FALLS",
+		"State" : "KS",
+		"Latitude" : "+37.998206"
+	},
+	{
+		"Longitude" : "-095.937861",
+		"Zipcode" : "66759",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WILSON",
+		"City" : "NEW ALBANY",
+		"State" : "KS",
+		"Latitude" : "+37.568982"
+	},
+	{
+		"Longitude" : "-094.619885",
+		"Zipcode" : "66760",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CRAWFORD",
+		"City" : "OPOLIS",
+		"State" : "KS",
+		"Latitude" : "+37.341990"
+	},
+	{
+		"Longitude" : "-095.569370",
+		"Zipcode" : "66761",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODSON",
+		"City" : "PIQUA",
+		"State" : "KS",
+		"Latitude" : "+37.914531"
+	},
+	{
+		"Longitude" : "-094.819212",
+		"Zipcode" : "66762",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "PITTSBURG",
+		"State" : "KS",
+		"Latitude" : "+37.448044"
+	},
+	{
+		"Longitude" : "-094.691566",
+		"Zipcode" : "66763",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "FRONTENAC",
+		"State" : "KS",
+		"Latitude" : "+37.446615"
+	},
+	{
+		"Longitude" : "-094.705448",
+		"Zipcode" : "66767",
+		"ZipClass" : "STANDARD",
+		"County" : "LINN",
+		"City" : "PRESCOTT",
+		"State" : "KS",
+		"Latitude" : "+38.178868"
+	},
+	{
+		"Longitude" : "-094.880482",
+		"Zipcode" : "66769",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "REDFIELD",
+		"State" : "KS",
+		"Latitude" : "+37.836666"
+	},
+	{
+		"Longitude" : "-094.758958",
+		"Zipcode" : "66770",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "RIVERTON",
+		"State" : "KS",
+		"Latitude" : "+37.073183"
+	},
+	{
+		"Longitude" : "-095.183687",
+		"Zipcode" : "66771",
+		"ZipClass" : "STANDARD",
+		"County" : "NEOSHO",
+		"City" : "SAINT PAUL",
+		"State" : "KS",
+		"Latitude" : "+37.545144"
+	},
+	{
+		"Longitude" : "-095.244530",
+		"Zipcode" : "66772",
+		"ZipClass" : "STANDARD",
+		"County" : "ALLEN",
+		"City" : "SAVONBURG",
+		"State" : "KS",
+		"Latitude" : "+37.768978"
+	},
+	{
+		"Longitude" : "-094.809198",
+		"Zipcode" : "66773",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "SCAMMON",
+		"State" : "KS",
+		"Latitude" : "+37.280945"
+	},
+	{
+		"Longitude" : "-095.178823",
+		"Zipcode" : "66775",
+		"ZipClass" : "STANDARD",
+		"County" : "NEOSHO",
+		"City" : "STARK",
+		"State" : "KS",
+		"Latitude" : "+37.675371"
+	},
+	{
+		"Longitude" : "-095.452585",
+		"Zipcode" : "66776",
+		"ZipClass" : "STANDARD",
+		"County" : "NEOSHO",
+		"City" : "THAYER",
+		"State" : "KS",
+		"Latitude" : "+37.480322"
+	},
+	{
+		"Longitude" : "-095.888880",
+		"Zipcode" : "66777",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODSON",
+		"City" : "TORONTO",
+		"State" : "KS",
+		"Latitude" : "+37.814423"
+	},
+	{
+		"Longitude" : "-094.881789",
+		"Zipcode" : "66778",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "TREECE",
+		"State" : "KS",
+		"Latitude" : "+37.140020"
+	},
+	{
+		"Longitude" : "-094.975786",
+		"Zipcode" : "66779",
+		"ZipClass" : "STANDARD",
+		"County" : "BOURBON",
+		"City" : "UNIONTOWN",
+		"State" : "KS",
+		"Latitude" : "+37.847185"
+	},
+	{
+		"Longitude" : "-094.856834",
+		"Zipcode" : "66780",
+		"ZipClass" : "STANDARD",
+		"County" : "CRAWFORD",
+		"City" : "WALNUT",
+		"State" : "KS",
+		"Latitude" : "+37.572920"
+	},
+	{
+		"Longitude" : "-094.734382",
+		"Zipcode" : "66781",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEROKEE",
+		"City" : "WEIR",
+		"State" : "KS",
+		"Latitude" : "+37.258838"
+	},
+	{
+		"Longitude" : "-094.926124",
+		"Zipcode" : "66782",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHEROKEE",
+		"City" : "WEST MINERAL",
+		"State" : "KS",
+		"Latitude" : "+37.285147"
+	},
+	{
+		"Longitude" : "-095.723555",
+		"Zipcode" : "66783",
+		"ZipClass" : "STANDARD",
+		"County" : "WOODSON",
+		"City" : "YATES CENTER",
+		"State" : "KS",
+		"Latitude" : "+37.884741"
+	},
+	{
+		"Longitude" : "-096.152766",
+		"Zipcode" : "66801",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "EMPORIA",
+		"State" : "KS",
+		"Latitude" : "+38.434153"
+	},
+	{
+		"Longitude" : "-096.108283",
+		"Zipcode" : "66830",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "ADMIRE",
+		"State" : "KS",
+		"Latitude" : "+38.608394"
+	},
+	{
+		"Longitude" : "-096.173461",
+		"Zipcode" : "66833",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "ALLEN",
+		"State" : "KS",
+		"Latitude" : "+38.652011"
+	},
+	{
+		"Longitude" : "-096.488112",
+		"Zipcode" : "66834",
+		"ZipClass" : "STANDARD",
+		"County" : "WABAUNSEE",
+		"City" : "ALTA VISTA",
+		"State" : "KS",
+		"Latitude" : "+38.864507"
+	},
+	{
+		"Longitude" : "-096.261884",
+		"Zipcode" : "66835",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "AMERICUS",
+		"State" : "KS",
+		"Latitude" : "+38.556174"
+	},
+	{
+		"Longitude" : "-096.801336",
+		"Zipcode" : "66838",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "BURDICK",
+		"State" : "KS",
+		"Latitude" : "+38.565758"
+	},
+	{
+		"Longitude" : "-095.733598",
+		"Zipcode" : "66839",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEY",
+		"City" : "BURLINGTON",
+		"State" : "KS",
+		"Latitude" : "+38.236316"
+	},
+	{
+		"Longitude" : "-096.888518",
+		"Zipcode" : "66840",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "BURNS",
+		"State" : "KS",
+		"Latitude" : "+38.089221"
+	},
+	{
+		"Longitude" : "-096.661017",
+		"Zipcode" : "66842",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "CASSODAY",
+		"State" : "KS",
+		"Latitude" : "+37.995545"
+	},
+	{
+		"Longitude" : "-096.822766",
+		"Zipcode" : "66843",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "CEDAR POINT",
+		"State" : "KS",
+		"Latitude" : "+38.260042"
+	},
+	{
+		"Longitude" : "-096.549450",
+		"Zipcode" : "66845",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "COTTONWOOD FALLS",
+		"State" : "KS",
+		"Latitude" : "+38.376740"
+	},
+	{
+		"Longitude" : "-096.546900",
+		"Zipcode" : "66846",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "COUNCIL GROVE",
+		"State" : "KS",
+		"Latitude" : "+38.695880"
+	},
+	{
+		"Longitude" : "-096.579805",
+		"Zipcode" : "66849",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "DWIGHT",
+		"State" : "KS",
+		"Latitude" : "+38.826679"
+	},
+	{
+		"Longitude" : "-096.646064",
+		"Zipcode" : "66850",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "ELMDALE",
+		"State" : "KS",
+		"Latitude" : "+38.372982"
+	},
+	{
+		"Longitude" : "-096.974518",
+		"Zipcode" : "66851",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "FLORENCE",
+		"State" : "KS",
+		"Latitude" : "+38.293353"
+	},
+	{
+		"Longitude" : "-095.794536",
+		"Zipcode" : "66852",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEY",
+		"City" : "GRIDLEY",
+		"State" : "KS",
+		"Latitude" : "+38.105539"
+	},
+	{
+		"Longitude" : "-096.199508",
+		"Zipcode" : "66853",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "HAMILTON",
+		"State" : "KS",
+		"Latitude" : "+37.980393"
+	},
+	{
+		"Longitude" : "-096.103771",
+		"Zipcode" : "66854",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "HARTFORD",
+		"State" : "KS",
+		"Latitude" : "+38.345691"
+	},
+	{
+		"Longitude" : "-096.242059",
+		"Zipcode" : "66855",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "LAMONT",
+		"State" : "KS",
+		"Latitude" : "+37.888276"
+	},
+	{
+		"Longitude" : "-095.790281",
+		"Zipcode" : "66856",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEY",
+		"City" : "LEBO",
+		"State" : "KS",
+		"Latitude" : "+38.237155"
+	},
+	{
+		"Longitude" : "-095.685599",
+		"Zipcode" : "66857",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEY",
+		"City" : "LE ROY",
+		"State" : "KS",
+		"Latitude" : "+38.114860"
+	},
+	{
+		"Longitude" : "-096.962640",
+		"Zipcode" : "66858",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "LINCOLNVILLE",
+		"State" : "KS",
+		"Latitude" : "+38.493293"
+	},
+	{
+		"Longitude" : "-096.967811",
+		"Zipcode" : "66859",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "LOST SPRINGS",
+		"State" : "KS",
+		"Latitude" : "+38.566392"
+	},
+	{
+		"Longitude" : "-096.144795",
+		"Zipcode" : "66860",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "MADISON",
+		"State" : "KS",
+		"Latitude" : "+38.061943"
+	},
+	{
+		"Longitude" : "-096.965255",
+		"Zipcode" : "66861",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "MARION",
+		"State" : "KS",
+		"Latitude" : "+38.284561"
+	},
+	{
+		"Longitude" : "-096.597442",
+		"Zipcode" : "66862",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "MATFIELD GREEN",
+		"State" : "KS",
+		"Latitude" : "+38.303962"
+	},
+	{
+		"Longitude" : "-096.242059",
+		"Zipcode" : "66863",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "GREENWOOD",
+		"City" : "NEAL",
+		"State" : "KS",
+		"Latitude" : "+37.888276"
+	},
+	{
+		"Longitude" : "-096.103875",
+		"Zipcode" : "66864",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "NEOSHO RAPIDS",
+		"State" : "KS",
+		"Latitude" : "+38.413332"
+	},
+	{
+		"Longitude" : "-096.190300",
+		"Zipcode" : "66865",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "OLPE",
+		"State" : "KS",
+		"Latitude" : "+38.354006"
+	},
+	{
+		"Longitude" : "-097.003776",
+		"Zipcode" : "66866",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "PEABODY",
+		"State" : "KS",
+		"Latitude" : "+38.134801"
+	},
+	{
+		"Longitude" : "-096.014360",
+		"Zipcode" : "66868",
+		"ZipClass" : "STANDARD",
+		"County" : "LYON",
+		"City" : "READING",
+		"State" : "KS",
+		"Latitude" : "+38.533232"
+	},
+	{
+		"Longitude" : "-096.538737",
+		"Zipcode" : "66869",
+		"ZipClass" : "STANDARD",
+		"County" : "CHASE",
+		"City" : "STRONG CITY",
+		"State" : "KS",
+		"Latitude" : "+38.390683"
+	},
+	{
+		"Longitude" : "-096.012585",
+		"Zipcode" : "66870",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "VIRGIL",
+		"State" : "KS",
+		"Latitude" : "+37.978282"
+	},
+	{
+		"Longitude" : "-095.628088",
+		"Zipcode" : "66871",
+		"ZipClass" : "STANDARD",
+		"County" : "COFFEY",
+		"City" : "WAVERLY",
+		"State" : "KS",
+		"Latitude" : "+38.346908"
+	},
+	{
+		"Longitude" : "-096.779581",
+		"Zipcode" : "66872",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "WHITE CITY",
+		"State" : "KS",
+		"Latitude" : "+38.783116"
+	},
+	{
+		"Longitude" : "-096.663865",
+		"Zipcode" : "66873",
+		"ZipClass" : "STANDARD",
+		"County" : "MORRIS",
+		"City" : "WILSEY",
+		"State" : "KS",
+		"Latitude" : "+38.682093"
+	},
+	{
+		"Longitude" : "-097.656764",
+		"Zipcode" : "66901",
+		"ZipClass" : "STANDARD",
+		"County" : "CLOUD",
+		"City" : "CONCORDIA",
+		"State" : "KS",
+		"Latitude" : "+39.551634"
+	},
+	{
+		"Longitude" : "-097.446521",
+		"Zipcode" : "66930",
+		"ZipClass" : "STANDARD",
+		"County" : "REPUBLIC",
+		"City" : "AGENDA",
+		"State" : "KS",
+		"Latitude" : "+39.704380"
+	},
+	{
+		"Longitude" : "-098.919297",
+		"Zipcode" : "66932",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "ATHOL",
+		"State" : "KS",
+		"Latitude" : "+39.766784"
+	},
+	{
+		"Longitude" : "-096.862609",
+		"Zipcode" : "66933",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "BARNES",
+		"State" : "KS",
+		"Latitude" : "+39.681367"
+	},
+	{
+		"Longitude" : "-097.601461",
+		"Zipcode" : "66935",
+		"ZipClass" : "STANDARD",
+		"County" : "REPUBLIC",
+		"City" : "BELLEVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.836218"
+	},
+	{
+		"Longitude" : "-098.218469",
+		"Zipcode" : "66936",
+		"ZipClass" : "STANDARD",
+		"County" : "JEWELL",
+		"City" : "BURR OAK",
+		"State" : "KS",
+		"Latitude" : "+39.784792"
+	},
+	{
+		"Longitude" : "-097.173410",
+		"Zipcode" : "66937",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "CLIFTON",
+		"State" : "KS",
+		"Latitude" : "+39.655509"
+	},
+	{
+		"Longitude" : "-097.398639",
+		"Zipcode" : "66938",
+		"ZipClass" : "STANDARD",
+		"County" : "CLOUD",
+		"City" : "CLYDE",
+		"State" : "KS",
+		"Latitude" : "+39.591270"
+	},
+	{
+		"Longitude" : "-097.666524",
+		"Zipcode" : "66939",
+		"ZipClass" : "STANDARD",
+		"County" : "REPUBLIC",
+		"City" : "COURTLAND",
+		"State" : "KS",
+		"Latitude" : "+39.746555"
+	},
+	{
+		"Longitude" : "-097.458269",
+		"Zipcode" : "66940",
+		"ZipClass" : "STANDARD",
+		"County" : "REPUBLIC",
+		"City" : "CUBA",
+		"State" : "KS",
+		"Latitude" : "+39.801787"
+	},
+	{
+		"Longitude" : "-098.433369",
+		"Zipcode" : "66941",
+		"ZipClass" : "STANDARD",
+		"County" : "JEWELL",
+		"City" : "ESBON",
+		"State" : "KS",
+		"Latitude" : "+39.820964"
+	},
+	{
+		"Longitude" : "-097.993161",
+		"Zipcode" : "66942",
+		"ZipClass" : "STANDARD",
+		"County" : "JEWELL",
+		"City" : "FORMOSO",
+		"State" : "KS",
+		"Latitude" : "+39.778286"
+	},
+	{
+		"Longitude" : "-096.975097",
+		"Zipcode" : "66943",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "GREENLEAF",
+		"State" : "KS",
+		"Latitude" : "+39.687997"
+	},
+	{
+		"Longitude" : "-097.269445",
+		"Zipcode" : "66944",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HADDAM",
+		"State" : "KS",
+		"Latitude" : "+39.835510"
+	},
+	{
+		"Longitude" : "-096.896534",
+		"Zipcode" : "66945",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HANOVER",
+		"State" : "KS",
+		"Latitude" : "+39.867079"
+	},
+	{
+		"Longitude" : "-096.966275",
+		"Zipcode" : "66946",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "HOLLENBERG",
+		"State" : "KS",
+		"Latitude" : "+39.841523"
+	},
+	{
+		"Longitude" : "-097.861170",
+		"Zipcode" : "66948",
+		"ZipClass" : "STANDARD",
+		"County" : "CLOUD",
+		"City" : "JAMESTOWN",
+		"State" : "KS",
+		"Latitude" : "+39.598963"
+	},
+	{
+		"Longitude" : "-098.147215",
+		"Zipcode" : "66949",
+		"ZipClass" : "STANDARD",
+		"County" : "JEWELL",
+		"City" : "JEWELL",
+		"State" : "KS",
+		"Latitude" : "+39.671874"
+	},
+	{
+		"Longitude" : "-098.796287",
+		"Zipcode" : "66951",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "KENSINGTON",
+		"State" : "KS",
+		"Latitude" : "+39.783621"
+	},
+	{
+		"Longitude" : "-098.556016",
+		"Zipcode" : "66952",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "LEBANON",
+		"State" : "KS",
+		"Latitude" : "+39.807699"
+	},
+	{
+		"Longitude" : "-097.168514",
+		"Zipcode" : "66953",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "LINN",
+		"State" : "KS",
+		"Latitude" : "+39.784861"
+	},
+	{
+		"Longitude" : "-097.226140",
+		"Zipcode" : "66955",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MAHASKA",
+		"State" : "KS",
+		"Latitude" : "+39.841669"
+	},
+	{
+		"Longitude" : "-098.205950",
+		"Zipcode" : "66956",
+		"ZipClass" : "STANDARD",
+		"County" : "JEWELL",
+		"City" : "MANKATO",
+		"State" : "KS",
+		"Latitude" : "+39.787529"
+	},
+	{
+		"Longitude" : "-097.172061",
+		"Zipcode" : "66958",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "MORROWVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.885808"
+	},
+	{
+		"Longitude" : "-097.498488",
+		"Zipcode" : "66959",
+		"ZipClass" : "STANDARD",
+		"County" : "REPUBLIC",
+		"City" : "MUNDEN",
+		"State" : "KS",
+		"Latitude" : "+39.860279"
+	},
+	{
+		"Longitude" : "-097.428585",
+		"Zipcode" : "66960",
+		"ZipClass" : "STANDARD",
+		"County" : "REPUBLIC",
+		"City" : "NARKA",
+		"State" : "KS",
+		"Latitude" : "+39.960731"
+	},
+	{
+		"Longitude" : "-097.650902",
+		"Zipcode" : "66961",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "REPUBLIC",
+		"City" : "NORWAY",
+		"State" : "KS",
+		"Latitude" : "+39.827894"
+	},
+	{
+		"Longitude" : "-097.129930",
+		"Zipcode" : "66962",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "PALMER",
+		"State" : "KS",
+		"Latitude" : "+39.610229"
+	},
+	{
+		"Longitude" : "-098.044991",
+		"Zipcode" : "66963",
+		"ZipClass" : "STANDARD",
+		"County" : "JEWELL",
+		"City" : "RANDALL",
+		"State" : "KS",
+		"Latitude" : "+39.643012"
+	},
+	{
+		"Longitude" : "-097.628516",
+		"Zipcode" : "66964",
+		"ZipClass" : "STANDARD",
+		"County" : "REPUBLIC",
+		"City" : "REPUBLIC",
+		"State" : "KS",
+		"Latitude" : "+39.875728"
+	},
+	{
+		"Longitude" : "-097.783734",
+		"Zipcode" : "66966",
+		"ZipClass" : "STANDARD",
+		"County" : "REPUBLIC",
+		"City" : "SCANDIA",
+		"State" : "KS",
+		"Latitude" : "+39.794591"
+	},
+	{
+		"Longitude" : "-098.673356",
+		"Zipcode" : "66967",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "SMITH CENTER",
+		"State" : "KS",
+		"Latitude" : "+39.788577"
+	},
+	{
+		"Longitude" : "-097.054286",
+		"Zipcode" : "66968",
+		"ZipClass" : "STANDARD",
+		"County" : "WASHINGTON",
+		"City" : "WASHINGTON",
+		"State" : "KS",
+		"Latitude" : "+39.781107"
+	},
+	{
+		"Longitude" : "-098.035371",
+		"Zipcode" : "66970",
+		"ZipClass" : "STANDARD",
+		"County" : "JEWELL",
+		"City" : "WEBBER",
+		"State" : "KS",
+		"Latitude" : "+39.935373"
+	},
+	{
+		"Longitude" : "-097.636619",
+		"Zipcode" : "67001",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "ANDALE",
+		"State" : "KS",
+		"Latitude" : "+37.779733"
+	},
+	{
+		"Longitude" : "-097.098431",
+		"Zipcode" : "67002",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "ANDOVER",
+		"State" : "KS",
+		"Latitude" : "+37.701532"
+	},
+	{
+		"Longitude" : "-098.048121",
+		"Zipcode" : "67003",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "ANTHONY",
+		"State" : "KS",
+		"Latitude" : "+37.111488"
+	},
+	{
+		"Longitude" : "-097.690887",
+		"Zipcode" : "67004",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "ARGONIA",
+		"State" : "KS",
+		"Latitude" : "+37.248959"
+	},
+	{
+		"Longitude" : "-096.904215",
+		"Zipcode" : "67005",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "ARKANSAS CITY",
+		"State" : "KS",
+		"Latitude" : "+37.149582"
+	},
+	{
+		"Longitude" : "-096.720974",
+		"Zipcode" : "67008",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "ATLANTA",
+		"State" : "KS",
+		"Latitude" : "+37.378279"
+	},
+	{
+		"Longitude" : "-098.210087",
+		"Zipcode" : "67009",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "ATTICA",
+		"State" : "KS",
+		"Latitude" : "+37.224885"
+	},
+	{
+		"Longitude" : "-096.970128",
+		"Zipcode" : "67010",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "AUGUSTA",
+		"State" : "KS",
+		"Latitude" : "+37.674347"
+	},
+	{
+		"Longitude" : "-096.532862",
+		"Zipcode" : "67012",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "BEAUMONT",
+		"State" : "KS",
+		"Latitude" : "+37.658007"
+	},
+	{
+		"Longitude" : "-097.287694",
+		"Zipcode" : "67013",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "BELLE PLAINE",
+		"State" : "KS",
+		"Latitude" : "+37.359755"
+	},
+	{
+		"Longitude" : "-097.516631",
+		"Zipcode" : "67016",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "SEDGWICK",
+		"City" : "BENTLEY",
+		"State" : "KS",
+		"Latitude" : "+37.886596"
+	},
+	{
+		"Longitude" : "-097.097363",
+		"Zipcode" : "67017",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "BENTON",
+		"State" : "KS",
+		"Latitude" : "+37.831767"
+	},
+	{
+		"Longitude" : "-097.865887",
+		"Zipcode" : "67018",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "BLUFF CITY",
+		"State" : "KS",
+		"Latitude" : "+37.062263"
+	},
+	{
+		"Longitude" : "-096.759983",
+		"Zipcode" : "67019",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "BURDEN",
+		"State" : "KS",
+		"Latitude" : "+37.370620"
+	},
+	{
+		"Longitude" : "-097.537188",
+		"Zipcode" : "67020",
+		"ZipClass" : "STANDARD",
+		"County" : "HARVEY",
+		"City" : "BURRTON",
+		"State" : "KS",
+		"Latitude" : "+38.021434"
+	},
+	{
+		"Longitude" : "-098.931119",
+		"Zipcode" : "67021",
+		"ZipClass" : "STANDARD",
+		"County" : "PRATT",
+		"City" : "BYERS",
+		"State" : "KS",
+		"Latitude" : "+37.777955"
+	},
+	{
+		"Longitude" : "-097.601664",
+		"Zipcode" : "67022",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "CALDWELL",
+		"State" : "KS",
+		"Latitude" : "+37.133257"
+	},
+	{
+		"Longitude" : "-096.717001",
+		"Zipcode" : "67023",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "CAMBRIDGE",
+		"State" : "KS",
+		"Latitude" : "+37.309434"
+	},
+	{
+		"Longitude" : "-096.444127",
+		"Zipcode" : "67024",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAUTAUQUA",
+		"City" : "CEDAR VALE",
+		"State" : "KS",
+		"Latitude" : "+37.130234"
+	},
+	{
+		"Longitude" : "-097.735130",
+		"Zipcode" : "67025",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "CHENEY",
+		"State" : "KS",
+		"Latitude" : "+37.633711"
+	},
+	{
+		"Longitude" : "-097.488432",
+		"Zipcode" : "67026",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "CLEARWATER",
+		"State" : "KS",
+		"Latitude" : "+37.548282"
+	},
+	{
+		"Longitude" : "-098.889244",
+		"Zipcode" : "67028",
+		"ZipClass" : "STANDARD",
+		"County" : "PRATT",
+		"City" : "COATS",
+		"State" : "KS",
+		"Latitude" : "+37.638236"
+	},
+	{
+		"Longitude" : "-099.322574",
+		"Zipcode" : "67029",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "COLDWATER",
+		"State" : "KS",
+		"Latitude" : "+37.254860"
+	},
+	{
+		"Longitude" : "-097.545886",
+		"Zipcode" : "67030",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "COLWICH",
+		"State" : "KS",
+		"Latitude" : "+37.770810"
+	},
+	{
+		"Longitude" : "-097.658248",
+		"Zipcode" : "67031",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "CONWAY SPRINGS",
+		"State" : "KS",
+		"Latitude" : "+37.394301"
+	},
+	{
+		"Longitude" : "-098.356390",
+		"Zipcode" : "67035",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGMAN",
+		"City" : "CUNNINGHAM",
+		"State" : "KS",
+		"Latitude" : "+37.630922"
+	},
+	{
+		"Longitude" : "-097.869690",
+		"Zipcode" : "67036",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "DANVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.299891"
+	},
+	{
+		"Longitude" : "-097.228475",
+		"Zipcode" : "67037",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "DERBY",
+		"State" : "KS",
+		"Latitude" : "+37.566129"
+	},
+	{
+		"Longitude" : "-096.715776",
+		"Zipcode" : "67038",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "DEXTER",
+		"State" : "KS",
+		"Latitude" : "+37.178743"
+	},
+	{
+		"Longitude" : "-096.998807",
+		"Zipcode" : "67039",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "DOUGLASS",
+		"State" : "KS",
+		"Latitude" : "+37.535867"
+	},
+	{
+		"Longitude" : "-097.128356",
+		"Zipcode" : "67041",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BUTLER",
+		"City" : "ELBING",
+		"State" : "KS",
+		"Latitude" : "+38.054538"
+	},
+	{
+		"Longitude" : "-096.865969",
+		"Zipcode" : "67042",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "EL DORADO",
+		"State" : "KS",
+		"Latitude" : "+37.830491"
+	},
+	{
+		"Longitude" : "-096.170019",
+		"Zipcode" : "67045",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "EUREKA",
+		"State" : "KS",
+		"Latitude" : "+37.755154"
+	},
+	{
+		"Longitude" : "-096.029221",
+		"Zipcode" : "67047",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "FALL RIVER",
+		"State" : "KS",
+		"Latitude" : "+37.607625"
+	},
+	{
+		"Longitude" : "-097.857243",
+		"Zipcode" : "67049",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "FREEPORT",
+		"State" : "KS",
+		"Latitude" : "+37.175377"
+	},
+	{
+		"Longitude" : "-097.654917",
+		"Zipcode" : "67050",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "GARDEN PLAIN",
+		"State" : "KS",
+		"Latitude" : "+37.674242"
+	},
+	{
+		"Longitude" : "-097.458635",
+		"Zipcode" : "67051",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "GEUDA SPRINGS",
+		"State" : "KS",
+		"Latitude" : "+37.139313"
+	},
+	{
+		"Longitude" : "-097.579616",
+		"Zipcode" : "67052",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "GODDARD",
+		"State" : "KS",
+		"Latitude" : "+37.663432"
+	},
+	{
+		"Longitude" : "-097.325769",
+		"Zipcode" : "67053",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MARION",
+		"City" : "GOESSEL",
+		"State" : "KS",
+		"Latitude" : "+38.219081"
+	},
+	{
+		"Longitude" : "-099.204968",
+		"Zipcode" : "67054",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "GREENSBURG",
+		"State" : "KS",
+		"Latitude" : "+37.607534"
+	},
+	{
+		"Longitude" : "-097.205419",
+		"Zipcode" : "67055",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "GREENWICH",
+		"State" : "KS",
+		"Latitude" : "+37.783350"
+	},
+	{
+		"Longitude" : "-097.509713",
+		"Zipcode" : "67056",
+		"ZipClass" : "STANDARD",
+		"County" : "HARVEY",
+		"City" : "HALSTEAD",
+		"State" : "KS",
+		"Latitude" : "+38.024280"
+	},
+	{
+		"Longitude" : "-098.751916",
+		"Zipcode" : "67057",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBER",
+		"City" : "HARDTNER",
+		"State" : "KS",
+		"Latitude" : "+37.076952"
+	},
+	{
+		"Longitude" : "-098.038455",
+		"Zipcode" : "67058",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "HARPER",
+		"State" : "KS",
+		"Latitude" : "+37.291318"
+	},
+	{
+		"Longitude" : "-099.192552",
+		"Zipcode" : "67059",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "HAVILAND",
+		"State" : "KS",
+		"Latitude" : "+37.612557"
+	},
+	{
+		"Longitude" : "-097.363240",
+		"Zipcode" : "67060",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "HAYSVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.542404"
+	},
+	{
+		"Longitude" : "-098.410166",
+		"Zipcode" : "67061",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBER",
+		"City" : "HAZELTON",
+		"State" : "KS",
+		"Latitude" : "+37.114569"
+	},
+	{
+		"Longitude" : "-097.443222",
+		"Zipcode" : "67062",
+		"ZipClass" : "STANDARD",
+		"County" : "HARVEY",
+		"City" : "HESSTON",
+		"State" : "KS",
+		"Latitude" : "+38.137404"
+	},
+	{
+		"Longitude" : "-097.205656",
+		"Zipcode" : "67063",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "HILLSBORO",
+		"State" : "KS",
+		"Latitude" : "+38.347988"
+	},
+	{
+		"Longitude" : "-098.551564",
+		"Zipcode" : "67065",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBER",
+		"City" : "ISABEL",
+		"State" : "KS",
+		"Latitude" : "+37.427542"
+	},
+	{
+		"Longitude" : "-098.756921",
+		"Zipcode" : "67066",
+		"ZipClass" : "STANDARD",
+		"County" : "PRATT",
+		"City" : "IUKA",
+		"State" : "KS",
+		"Latitude" : "+37.755350"
+	},
+	{
+		"Longitude" : "-097.259353",
+		"Zipcode" : "67067",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "KECHI",
+		"State" : "KS",
+		"Latitude" : "+37.810488"
+	},
+	{
+		"Longitude" : "-098.130432",
+		"Zipcode" : "67068",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGMAN",
+		"City" : "KINGMAN",
+		"State" : "KS",
+		"Latitude" : "+37.596364"
+	},
+	{
+		"Longitude" : "-098.503736",
+		"Zipcode" : "67070",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBER",
+		"City" : "KIOWA",
+		"State" : "KS",
+		"Latitude" : "+37.138561"
+	},
+	{
+		"Longitude" : "-098.818915",
+		"Zipcode" : "67071",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBER",
+		"City" : "LAKE CITY",
+		"State" : "KS",
+		"Latitude" : "+37.264177"
+	},
+	{
+		"Longitude" : "-096.658181",
+		"Zipcode" : "67072",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "LATHAM",
+		"State" : "KS",
+		"Latitude" : "+37.606889"
+	},
+	{
+		"Longitude" : "-097.302858",
+		"Zipcode" : "67073",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "LEHIGH",
+		"State" : "KS",
+		"Latitude" : "+38.372882"
+	},
+	{
+		"Longitude" : "-096.748795",
+		"Zipcode" : "67074",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "LEON",
+		"State" : "KS",
+		"Latitude" : "+37.664750"
+	},
+	{
+		"Longitude" : "-097.486701",
+		"Zipcode" : "67101",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "MAIZE",
+		"State" : "KS",
+		"Latitude" : "+37.789561"
+	},
+	{
+		"Longitude" : "-096.838911",
+		"Zipcode" : "67102",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "MAPLE CITY",
+		"State" : "KS",
+		"Latitude" : "+37.237700"
+	},
+	{
+		"Longitude" : "-097.556978",
+		"Zipcode" : "67103",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "MAYFIELD",
+		"State" : "KS",
+		"Latitude" : "+37.268787"
+	},
+	{
+		"Longitude" : "-098.620996",
+		"Zipcode" : "67104",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBER",
+		"City" : "MEDICINE LODGE",
+		"State" : "KS",
+		"Latitude" : "+37.291739"
+	},
+	{
+		"Longitude" : "-097.674141",
+		"Zipcode" : "67105",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "MILAN",
+		"State" : "KS",
+		"Latitude" : "+37.227503"
+	},
+	{
+		"Longitude" : "-097.742966",
+		"Zipcode" : "67106",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "MILTON",
+		"State" : "KS",
+		"Latitude" : "+37.430408"
+	},
+	{
+		"Longitude" : "-097.523327",
+		"Zipcode" : "67107",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "MOUNDRIDGE",
+		"State" : "KS",
+		"Latitude" : "+38.217149"
+	},
+	{
+		"Longitude" : "-097.637834",
+		"Zipcode" : "67108",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "MOUNT HOPE",
+		"State" : "KS",
+		"Latitude" : "+37.823852"
+	},
+	{
+		"Longitude" : "-099.387747",
+		"Zipcode" : "67109",
+		"ZipClass" : "STANDARD",
+		"County" : "KIOWA",
+		"City" : "MULLINVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.593142"
+	},
+	{
+		"Longitude" : "-097.441654",
+		"Zipcode" : "67110",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "MULVANE",
+		"State" : "KS",
+		"Latitude" : "+37.373200"
+	},
+	{
+		"Longitude" : "-097.963093",
+		"Zipcode" : "67111",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGMAN",
+		"City" : "MURDOCK",
+		"State" : "KS",
+		"Latitude" : "+37.619803"
+	},
+	{
+		"Longitude" : "-098.391558",
+		"Zipcode" : "67112",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGMAN",
+		"City" : "NASHVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.471011"
+	},
+	{
+		"Longitude" : "-097.317279",
+		"Zipcode" : "67114",
+		"ZipClass" : "STANDARD",
+		"County" : "HARVEY",
+		"City" : "NEWTON",
+		"State" : "KS",
+		"Latitude" : "+38.044857"
+	},
+	{
+		"Longitude" : "-097.355813",
+		"Zipcode" : "67117",
+		"ZipClass" : "STANDARD",
+		"County" : "HARVEY",
+		"City" : "NORTH NEWTON",
+		"State" : "KS",
+		"Latitude" : "+38.048707"
+	},
+	{
+		"Longitude" : "-097.923919",
+		"Zipcode" : "67118",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGMAN",
+		"City" : "NORWICH",
+		"State" : "KS",
+		"Latitude" : "+37.486261"
+	},
+	{
+		"Longitude" : "-097.212224",
+		"Zipcode" : "67119",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "OXFORD",
+		"State" : "KS",
+		"Latitude" : "+37.231595"
+	},
+	{
+		"Longitude" : "-097.340797",
+		"Zipcode" : "67120",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "PECK",
+		"State" : "KS",
+		"Latitude" : "+37.505410"
+	},
+	{
+		"Longitude" : "-096.242059",
+		"Zipcode" : "67122",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "PIEDMONT",
+		"State" : "KS",
+		"Latitude" : "+37.888276"
+	},
+	{
+		"Longitude" : "-097.038364",
+		"Zipcode" : "67123",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "POTWIN",
+		"State" : "KS",
+		"Latitude" : "+37.937595"
+	},
+	{
+		"Longitude" : "-098.758512",
+		"Zipcode" : "67124",
+		"ZipClass" : "STANDARD",
+		"County" : "PRATT",
+		"City" : "PRATT",
+		"State" : "KS",
+		"Latitude" : "+37.638570"
+	},
+	{
+		"Longitude" : "-099.482888",
+		"Zipcode" : "67127",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "PROTECTION",
+		"State" : "KS",
+		"Latitude" : "+37.200135"
+	},
+	{
+		"Longitude" : "-097.995064",
+		"Zipcode" : "67128",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGMAN",
+		"City" : "RAGO",
+		"State" : "KS",
+		"Latitude" : "+37.436647"
+	},
+	{
+		"Longitude" : "-097.005906",
+		"Zipcode" : "67131",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "ROCK",
+		"State" : "KS",
+		"Latitude" : "+37.441278"
+	},
+	{
+		"Longitude" : "-096.805970",
+		"Zipcode" : "67132",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "ROSALIA",
+		"State" : "KS",
+		"Latitude" : "+37.828375"
+	},
+	{
+		"Longitude" : "-097.090019",
+		"Zipcode" : "67133",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "ROSE HILL",
+		"State" : "KS",
+		"Latitude" : "+37.562970"
+	},
+	{
+		"Longitude" : "-098.647923",
+		"Zipcode" : "67134",
+		"ZipClass" : "STANDARD",
+		"County" : "PRATT",
+		"City" : "SAWYER",
+		"State" : "KS",
+		"Latitude" : "+37.509541"
+	},
+	{
+		"Longitude" : "-097.473214",
+		"Zipcode" : "67135",
+		"ZipClass" : "STANDARD",
+		"County" : "HARVEY",
+		"City" : "SEDGWICK",
+		"State" : "KS",
+		"Latitude" : "+37.955789"
+	},
+	{
+		"Longitude" : "-096.225157",
+		"Zipcode" : "67137",
+		"ZipClass" : "STANDARD",
+		"County" : "GREENWOOD",
+		"City" : "SEVERY",
+		"State" : "KS",
+		"Latitude" : "+37.617050"
+	},
+	{
+		"Longitude" : "-098.422330",
+		"Zipcode" : "67138",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBER",
+		"City" : "SHARON",
+		"State" : "KS",
+		"Latitude" : "+37.224446"
+	},
+	{
+		"Longitude" : "-097.329247",
+		"Zipcode" : "67140",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "SOUTH HAVEN",
+		"State" : "KS",
+		"Latitude" : "+37.136607"
+	},
+	{
+		"Longitude" : "-098.209956",
+		"Zipcode" : "67142",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGMAN",
+		"City" : "SPIVEY",
+		"State" : "KS",
+		"Latitude" : "+37.491201"
+	},
+	{
+		"Longitude" : "-098.912730",
+		"Zipcode" : "67143",
+		"ZipClass" : "STANDARD",
+		"County" : "BARBER",
+		"City" : "SUN CITY",
+		"State" : "KS",
+		"Latitude" : "+37.357385"
+	},
+	{
+		"Longitude" : "-096.859030",
+		"Zipcode" : "67144",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "TOWANDA",
+		"State" : "KS",
+		"Latitude" : "+37.905383"
+	},
+	{
+		"Longitude" : "-097.117926",
+		"Zipcode" : "67146",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "UDALL",
+		"State" : "KS",
+		"Latitude" : "+37.387823"
+	},
+	{
+		"Longitude" : "-097.335537",
+		"Zipcode" : "67147",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "VALLEY CENTER",
+		"State" : "KS",
+		"Latitude" : "+37.845078"
+	},
+	{
+		"Longitude" : "-097.519347",
+		"Zipcode" : "67149",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "VIOLA",
+		"State" : "KS",
+		"Latitude" : "+37.583241"
+	},
+	{
+		"Longitude" : "-098.238653",
+		"Zipcode" : "67150",
+		"ZipClass" : "STANDARD",
+		"County" : "HARPER",
+		"City" : "WALDRON",
+		"State" : "KS",
+		"Latitude" : "+37.140233"
+	},
+	{
+		"Longitude" : "-097.244464",
+		"Zipcode" : "67151",
+		"ZipClass" : "STANDARD",
+		"County" : "HARVEY",
+		"City" : "WALTON",
+		"State" : "KS",
+		"Latitude" : "+38.123189"
+	},
+	{
+		"Longitude" : "-097.422230",
+		"Zipcode" : "67152",
+		"ZipClass" : "STANDARD",
+		"County" : "SUMNER",
+		"City" : "WELLINGTON",
+		"State" : "KS",
+		"Latitude" : "+37.280877"
+	},
+	{
+		"Longitude" : "-097.088361",
+		"Zipcode" : "67154",
+		"ZipClass" : "STANDARD",
+		"County" : "BUTLER",
+		"City" : "WHITEWATER",
+		"State" : "KS",
+		"Latitude" : "+37.977983"
+	},
+	{
+		"Longitude" : "-099.272769",
+		"Zipcode" : "67155",
+		"ZipClass" : "STANDARD",
+		"County" : "COMANCHE",
+		"City" : "WILMORE",
+		"State" : "KS",
+		"Latitude" : "+37.191758"
+	},
+	{
+		"Longitude" : "-096.996334",
+		"Zipcode" : "67156",
+		"ZipClass" : "STANDARD",
+		"County" : "COWLEY",
+		"City" : "WINFIELD",
+		"State" : "KS",
+		"Latitude" : "+37.232126"
+	},
+	{
+		"Longitude" : "-098.305700",
+		"Zipcode" : "67159",
+		"ZipClass" : "STANDARD",
+		"County" : "KINGMAN",
+		"City" : "ZENDA",
+		"State" : "KS",
+		"Latitude" : "+37.449631"
+	},
+	{
+		"Longitude" : "-097.258997",
+		"Zipcode" : "67201",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.651974"
+	},
+	{
+		"Longitude" : "-097.334713",
+		"Zipcode" : "67202",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.686189"
+	},
+	{
+		"Longitude" : "-097.395351",
+		"Zipcode" : "67203",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.706514"
+	},
+	{
+		"Longitude" : "-097.381233",
+		"Zipcode" : "67204",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.787925"
+	},
+	{
+		"Longitude" : "-097.444035",
+		"Zipcode" : "67205",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.773675"
+	},
+	{
+		"Longitude" : "-097.342752",
+		"Zipcode" : "67206",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.613954"
+	},
+	{
+		"Longitude" : "-097.217907",
+		"Zipcode" : "67207",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.671048"
+	},
+	{
+		"Longitude" : "-097.276421",
+		"Zipcode" : "67208",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.744510"
+	},
+	{
+		"Longitude" : "-097.435012",
+		"Zipcode" : "67209",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.666579"
+	},
+	{
+		"Longitude" : "-097.247359",
+		"Zipcode" : "67210",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.615901"
+	},
+	{
+		"Longitude" : "-097.312573",
+		"Zipcode" : "67211",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.661000"
+	},
+	{
+		"Longitude" : "-097.435443",
+		"Zipcode" : "67212",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.701795"
+	},
+	{
+		"Longitude" : "-097.364970",
+		"Zipcode" : "67213",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.668005"
+	},
+	{
+		"Longitude" : "-097.319593",
+		"Zipcode" : "67214",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.706143"
+	},
+	{
+		"Longitude" : "-097.425673",
+		"Zipcode" : "67215",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.626635"
+	},
+	{
+		"Longitude" : "-097.314573",
+		"Zipcode" : "67216",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.605237"
+	},
+	{
+		"Longitude" : "-097.392906",
+		"Zipcode" : "67217",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.643576"
+	},
+	{
+		"Longitude" : "-097.280784",
+		"Zipcode" : "67218",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.668282"
+	},
+	{
+		"Longitude" : "-097.265034",
+		"Zipcode" : "67219",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.773805"
+	},
+	{
+		"Longitude" : "-097.280524",
+		"Zipcode" : "67220",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.766663"
+	},
+	{
+		"Longitude" : "-097.266260",
+		"Zipcode" : "67221",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "MCCONNELL AFB",
+		"State" : "KS",
+		"Latitude" : "+37.628158"
+	},
+	{
+		"Longitude" : "-097.499000",
+		"Zipcode" : "67223",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.736740"
+	},
+	{
+		"Longitude" : "-097.212044",
+		"Zipcode" : "67226",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.774074"
+	},
+	{
+		"Longitude" : "-097.491566",
+		"Zipcode" : "67227",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.628120"
+	},
+	{
+		"Longitude" : "-097.171098",
+		"Zipcode" : "67228",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.774174"
+	},
+	{
+		"Longitude" : "-097.171332",
+		"Zipcode" : "67230",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.679502"
+	},
+	{
+		"Longitude" : "-097.410154",
+		"Zipcode" : "67231",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.556692"
+	},
+	{
+		"Longitude" : "-097.171372",
+		"Zipcode" : "67232",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.639491"
+	},
+	{
+		"Longitude" : "-097.351987",
+		"Zipcode" : "67233",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.542472"
+	},
+	{
+		"Longitude" : "-097.499024",
+		"Zipcode" : "67235",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.714891"
+	},
+	{
+		"Longitude" : "-097.287134",
+		"Zipcode" : "67236",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.542182"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67251",
+		"ZipClass" : "UNIQUE",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67256",
+		"ZipClass" : "UNIQUE",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67257",
+		"ZipClass" : "UNIQUE",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67259",
+		"ZipClass" : "UNIQUE",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67260",
+		"ZipClass" : "UNIQUE",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67275",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67276",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67277",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-097.480419",
+		"Zipcode" : "67278",
+		"ZipClass" : "STANDARD",
+		"County" : "SEDGWICK",
+		"City" : "WICHITA",
+		"State" : "KS",
+		"Latitude" : "+37.693588"
+	},
+	{
+		"Longitude" : "-095.756197",
+		"Zipcode" : "67301",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "INDEPENDENCE",
+		"State" : "KS",
+		"Latitude" : "+37.180636"
+	},
+	{
+		"Longitude" : "-095.360819",
+		"Zipcode" : "67330",
+		"ZipClass" : "STANDARD",
+		"County" : "LABETTE",
+		"City" : "ALTAMONT",
+		"State" : "KS",
+		"Latitude" : "+37.222616"
+	},
+	{
+		"Longitude" : "-095.229916",
+		"Zipcode" : "67332",
+		"ZipClass" : "STANDARD",
+		"County" : "LABETTE",
+		"City" : "BARTLETT",
+		"State" : "KS",
+		"Latitude" : "+37.045463"
+	},
+	{
+		"Longitude" : "-095.884949",
+		"Zipcode" : "67333",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CANEY",
+		"State" : "KS",
+		"Latitude" : "+37.048046"
+	},
+	{
+		"Longitude" : "-096.178281",
+		"Zipcode" : "67334",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CHAUTAUQUA",
+		"City" : "CHAUTAUQUA",
+		"State" : "KS",
+		"Latitude" : "+37.026243"
+	},
+	{
+		"Longitude" : "-095.732508",
+		"Zipcode" : "67335",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "CHERRYVALE",
+		"State" : "KS",
+		"Latitude" : "+37.167997"
+	},
+	{
+		"Longitude" : "-095.218047",
+		"Zipcode" : "67336",
+		"ZipClass" : "STANDARD",
+		"County" : "LABETTE",
+		"City" : "CHETOPA",
+		"State" : "KS",
+		"Latitude" : "+37.045420"
+	},
+	{
+		"Longitude" : "-095.748313",
+		"Zipcode" : "67337",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "COFFEYVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.146267"
+	},
+	{
+		"Longitude" : "-095.732624",
+		"Zipcode" : "67340",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "DEARING",
+		"State" : "KS",
+		"Latitude" : "+37.043836"
+	},
+	{
+		"Longitude" : "-095.434853",
+		"Zipcode" : "67341",
+		"ZipClass" : "STANDARD",
+		"County" : "LABETTE",
+		"City" : "DENNIS",
+		"State" : "KS",
+		"Latitude" : "+37.220501"
+	},
+	{
+		"Longitude" : "-095.347225",
+		"Zipcode" : "67342",
+		"ZipClass" : "STANDARD",
+		"County" : "LABETTE",
+		"City" : "EDNA",
+		"State" : "KS",
+		"Latitude" : "+37.071835"
+	},
+	{
+		"Longitude" : "-095.908001",
+		"Zipcode" : "67344",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "ELK CITY",
+		"State" : "KS",
+		"Latitude" : "+37.288869"
+	},
+	{
+		"Longitude" : "-096.272149",
+		"Zipcode" : "67345",
+		"ZipClass" : "STANDARD",
+		"County" : "ELK",
+		"City" : "ELK FALLS",
+		"State" : "KS",
+		"Latitude" : "+37.383228"
+	},
+	{
+		"Longitude" : "-096.384362",
+		"Zipcode" : "67346",
+		"ZipClass" : "STANDARD",
+		"County" : "ELK",
+		"City" : "GRENOLA",
+		"State" : "KS",
+		"Latitude" : "+37.406927"
+	},
+	{
+		"Longitude" : "-095.941750",
+		"Zipcode" : "67347",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "HAVANA",
+		"State" : "KS",
+		"Latitude" : "+37.092548"
+	},
+	{
+		"Longitude" : "-096.278611",
+		"Zipcode" : "67349",
+		"ZipClass" : "STANDARD",
+		"County" : "ELK",
+		"City" : "HOWARD",
+		"State" : "KS",
+		"Latitude" : "+37.419933"
+	},
+	{
+		"Longitude" : "-095.583588",
+		"Zipcode" : "67351",
+		"ZipClass" : "STANDARD",
+		"County" : "MONTGOMERY",
+		"City" : "LIBERTY",
+		"State" : "KS",
+		"Latitude" : "+37.099220"
+	},
+	{
+		"Longitude" : "-096.133580",
+		"Zipcode" : "67352",
+		"ZipClass" : "STANDARD",
+		"County" : "ELK",
+		"City" : "LONGTON",
+		"State" : "KS",
+		"Latitude" : "+37.374756"
+	},
+	{
+		"Longitude" : "-096.373849",
+		"Zipcode" : "67353",
+		"ZipClass" : "STANDARD",
+		"County" : "ELK",
+		"City" : "MOLINE",
+		"State" : "KS",
+		"Latitude" : "+37.357438"
+	},
+	{
+		"Longitude" : "-095.422081",
+		"Zipcode" : "67354",
+		"ZipClass" : "STANDARD",
+		"County" : "LABETTE",
+		"City" : "MOUND VALLEY",
+		"State" : "KS",
+		"Latitude" : "+37.215113"
+	},
+	{
+		"Longitude" : "-096.012058",
+		"Zipcode" : "67355",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAUTAUQUA",
+		"City" : "NIOTAZE",
+		"State" : "KS",
+		"Latitude" : "+37.037043"
+	},
+	{
+		"Longitude" : "-095.242611",
+		"Zipcode" : "67356",
+		"ZipClass" : "STANDARD",
+		"County" : "LABETTE",
+		"City" : "OSWEGO",
+		"State" : "KS",
+		"Latitude" : "+37.189190"
+	},
+	{
+		"Longitude" : "-095.266407",
+		"Zipcode" : "67357",
+		"ZipClass" : "STANDARD",
+		"County" : "LABETTE",
+		"City" : "PARSONS",
+		"State" : "KS",
+		"Latitude" : "+37.217756"
+	},
+	{
+		"Longitude" : "-096.077680",
+		"Zipcode" : "67360",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAUTAUQUA",
+		"City" : "PERU",
+		"State" : "KS",
+		"Latitude" : "+37.048401"
+	},
+	{
+		"Longitude" : "-096.219212",
+		"Zipcode" : "67361",
+		"ZipClass" : "STANDARD",
+		"County" : "CHAUTAUQUA",
+		"City" : "SEDAN",
+		"State" : "KS",
+		"Latitude" : "+37.134351"
+	},
+	{
+		"Longitude" : "-095.716970",
+		"Zipcode" : "67363",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "SYCAMORE",
+		"State" : "KS",
+		"Latitude" : "+37.328119"
+	},
+	{
+		"Longitude" : "-095.823721",
+		"Zipcode" : "67364",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MONTGOMERY",
+		"City" : "TYRO",
+		"State" : "KS",
+		"Latitude" : "+37.036984"
+	},
+	{
+		"Longitude" : "-097.642113",
+		"Zipcode" : "67401",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "SALINA",
+		"State" : "KS",
+		"Latitude" : "+38.823673"
+	},
+	{
+		"Longitude" : "-097.650446",
+		"Zipcode" : "67402",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "SALINA",
+		"State" : "KS",
+		"Latitude" : "+38.783590"
+	},
+	{
+		"Longitude" : "-097.195283",
+		"Zipcode" : "67410",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKINSON",
+		"City" : "ABILENE",
+		"State" : "KS",
+		"Latitude" : "+38.911100"
+	},
+	{
+		"Longitude" : "-097.594260",
+		"Zipcode" : "67416",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "ASSARIA",
+		"State" : "KS",
+		"Latitude" : "+38.688891"
+	},
+	{
+		"Longitude" : "-097.529562",
+		"Zipcode" : "67417",
+		"ZipClass" : "STANDARD",
+		"County" : "CLOUD",
+		"City" : "AURORA",
+		"State" : "KS",
+		"Latitude" : "+39.452120"
+	},
+	{
+		"Longitude" : "-098.044605",
+		"Zipcode" : "67418",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BARNARD",
+		"State" : "KS",
+		"Latitude" : "+39.188663"
+	},
+	{
+		"Longitude" : "-098.119189",
+		"Zipcode" : "67420",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "BELOIT",
+		"State" : "KS",
+		"Latitude" : "+39.441631"
+	},
+	{
+		"Longitude" : "-097.622108",
+		"Zipcode" : "67422",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "BENNINGTON",
+		"State" : "KS",
+		"Latitude" : "+39.019928"
+	},
+	{
+		"Longitude" : "-098.209248",
+		"Zipcode" : "67423",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "BEVERLY",
+		"State" : "KS",
+		"Latitude" : "+39.045239"
+	},
+	{
+		"Longitude" : "-097.854579",
+		"Zipcode" : "67425",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "BROOKVILLE",
+		"State" : "KS",
+		"Latitude" : "+38.783921"
+	},
+	{
+		"Longitude" : "-098.387168",
+		"Zipcode" : "67427",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "BUSHTON",
+		"State" : "KS",
+		"Latitude" : "+38.463875"
+	},
+	{
+		"Longitude" : "-097.426953",
+		"Zipcode" : "67428",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "CANTON",
+		"State" : "KS",
+		"Latitude" : "+38.392631"
+	},
+	{
+		"Longitude" : "-098.187156",
+		"Zipcode" : "67430",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "CAWKER CITY",
+		"State" : "KS",
+		"Latitude" : "+39.451105"
+	},
+	{
+		"Longitude" : "-097.018914",
+		"Zipcode" : "67431",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKINSON",
+		"City" : "CHAPMAN",
+		"State" : "KS",
+		"Latitude" : "+38.972672"
+	},
+	{
+		"Longitude" : "-097.164849",
+		"Zipcode" : "67432",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "CLAY CENTER",
+		"State" : "KS",
+		"Latitude" : "+39.349452"
+	},
+	{
+		"Longitude" : "-097.714625",
+		"Zipcode" : "67436",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "DELPHOS",
+		"State" : "KS",
+		"Latitude" : "+39.263098"
+	},
+	{
+		"Longitude" : "-098.581432",
+		"Zipcode" : "67437",
+		"ZipClass" : "STANDARD",
+		"County" : "OSBORNE",
+		"City" : "DOWNS",
+		"State" : "KS",
+		"Latitude" : "+39.449456"
+	},
+	{
+		"Longitude" : "-097.251974",
+		"Zipcode" : "67438",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "DURHAM",
+		"State" : "KS",
+		"Latitude" : "+38.523968"
+	},
+	{
+		"Longitude" : "-098.205437",
+		"Zipcode" : "67439",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLSWORTH",
+		"City" : "ELLSWORTH",
+		"State" : "KS",
+		"Latitude" : "+38.696579"
+	},
+	{
+		"Longitude" : "-097.093190",
+		"Zipcode" : "67441",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKINSON",
+		"City" : "ENTERPRISE",
+		"State" : "KS",
+		"Latitude" : "+38.889721"
+	},
+	{
+		"Longitude" : "-097.787364",
+		"Zipcode" : "67442",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "FALUN",
+		"State" : "KS",
+		"Latitude" : "+38.690980"
+	},
+	{
+		"Longitude" : "-097.473250",
+		"Zipcode" : "67443",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "GALVA",
+		"State" : "KS",
+		"Latitude" : "+38.382827"
+	},
+	{
+		"Longitude" : "-098.158430",
+		"Zipcode" : "67444",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "GENESEO",
+		"State" : "KS",
+		"Latitude" : "+38.362194"
+	},
+	{
+		"Longitude" : "-097.838250",
+		"Zipcode" : "67445",
+		"ZipClass" : "STANDARD",
+		"County" : "CLOUD",
+		"City" : "GLASCO",
+		"State" : "KS",
+		"Latitude" : "+39.361170"
+	},
+	{
+		"Longitude" : "-098.302257",
+		"Zipcode" : "67446",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "GLEN ELDER",
+		"State" : "KS",
+		"Latitude" : "+39.501034"
+	},
+	{
+		"Longitude" : "-097.014890",
+		"Zipcode" : "67447",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "GREEN",
+		"State" : "KS",
+		"Latitude" : "+39.480323"
+	},
+	{
+		"Longitude" : "-097.492119",
+		"Zipcode" : "67448",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "GYPSUM",
+		"State" : "KS",
+		"Latitude" : "+38.710913"
+	},
+	{
+		"Longitude" : "-096.993297",
+		"Zipcode" : "67449",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKINSON",
+		"City" : "HERINGTON",
+		"State" : "KS",
+		"Latitude" : "+38.792473"
+	},
+	{
+		"Longitude" : "-098.420938",
+		"Zipcode" : "67450",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLSWORTH",
+		"City" : "HOLYROOD",
+		"State" : "KS",
+		"Latitude" : "+38.613667"
+	},
+	{
+		"Longitude" : "-097.121874",
+		"Zipcode" : "67451",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKINSON",
+		"City" : "HOPE",
+		"State" : "KS",
+		"Latitude" : "+38.826292"
+	},
+	{
+		"Longitude" : "-098.433673",
+		"Zipcode" : "67452",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "HUNTER",
+		"State" : "KS",
+		"Latitude" : "+39.287497"
+	},
+	{
+		"Longitude" : "-098.138181",
+		"Zipcode" : "67454",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLSWORTH",
+		"City" : "KANOPOLIS",
+		"State" : "KS",
+		"Latitude" : "+38.696847"
+	},
+	{
+		"Longitude" : "-098.214909",
+		"Zipcode" : "67455",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "LINCOLN",
+		"State" : "KS",
+		"Latitude" : "+39.102718"
+	},
+	{
+		"Longitude" : "-097.628859",
+		"Zipcode" : "67456",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "LINDSBORG",
+		"State" : "KS",
+		"Latitude" : "+38.497407"
+	},
+	{
+		"Longitude" : "-098.095004",
+		"Zipcode" : "67457",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "LITTLE RIVER",
+		"State" : "KS",
+		"Latitude" : "+38.378672"
+	},
+	{
+		"Longitude" : "-097.249882",
+		"Zipcode" : "67458",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "LONGFORD",
+		"State" : "KS",
+		"Latitude" : "+39.183428"
+	},
+	{
+		"Longitude" : "-098.273284",
+		"Zipcode" : "67459",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLSWORTH",
+		"City" : "LORRAINE",
+		"State" : "KS",
+		"Latitude" : "+38.601673"
+	},
+	{
+		"Longitude" : "-097.670184",
+		"Zipcode" : "67460",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "MCPHERSON",
+		"State" : "KS",
+		"Latitude" : "+38.376302"
+	},
+	{
+		"Longitude" : "-097.675384",
+		"Zipcode" : "67464",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "MARQUETTE",
+		"State" : "KS",
+		"Latitude" : "+38.529808"
+	},
+	{
+		"Longitude" : "-097.454812",
+		"Zipcode" : "67466",
+		"ZipClass" : "STANDARD",
+		"County" : "CLOUD",
+		"City" : "MILTONVALE",
+		"State" : "KS",
+		"Latitude" : "+39.349959"
+	},
+	{
+		"Longitude" : "-097.650674",
+		"Zipcode" : "67467",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "MINNEAPOLIS",
+		"State" : "KS",
+		"Latitude" : "+39.141097"
+	},
+	{
+		"Longitude" : "-097.164888",
+		"Zipcode" : "67468",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "MORGANVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.328382"
+	},
+	{
+		"Longitude" : "-097.515705",
+		"Zipcode" : "67470",
+		"ZipClass" : "STANDARD",
+		"County" : "SALINE",
+		"City" : "NEW CAMBRIA",
+		"State" : "KS",
+		"Latitude" : "+38.905381"
+	},
+	{
+		"Longitude" : "-098.795417",
+		"Zipcode" : "67473",
+		"ZipClass" : "STANDARD",
+		"County" : "OSBORNE",
+		"City" : "OSBORNE",
+		"State" : "KS",
+		"Latitude" : "+39.385738"
+	},
+	{
+		"Longitude" : "-098.738629",
+		"Zipcode" : "67474",
+		"ZipClass" : "STANDARD",
+		"County" : "OSBORNE",
+		"City" : "PORTIS",
+		"State" : "KS",
+		"Latitude" : "+39.531927"
+	},
+	{
+		"Longitude" : "-097.062601",
+		"Zipcode" : "67475",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "RAMONA",
+		"State" : "KS",
+		"Latitude" : "+38.597490"
+	},
+	{
+		"Longitude" : "-097.648402",
+		"Zipcode" : "67476",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MCPHERSON",
+		"City" : "ROXBURY",
+		"State" : "KS",
+		"Latitude" : "+38.391722"
+	},
+	{
+		"Longitude" : "-097.932764",
+		"Zipcode" : "67478",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MITCHELL",
+		"City" : "SIMPSON",
+		"State" : "KS",
+		"Latitude" : "+39.385112"
+	},
+	{
+		"Longitude" : "-097.339456",
+		"Zipcode" : "67480",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKINSON",
+		"City" : "SOLOMON",
+		"State" : "KS",
+		"Latitude" : "+38.910885"
+	},
+	{
+		"Longitude" : "-098.435528",
+		"Zipcode" : "67481",
+		"ZipClass" : "STANDARD",
+		"County" : "LINCOLN",
+		"City" : "SYLVAN GROVE",
+		"State" : "KS",
+		"Latitude" : "+38.969795"
+	},
+	{
+		"Longitude" : "-097.259116",
+		"Zipcode" : "67482",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DICKINSON",
+		"City" : "TALMAGE",
+		"State" : "KS",
+		"Latitude" : "+39.022410"
+	},
+	{
+		"Longitude" : "-097.170040",
+		"Zipcode" : "67483",
+		"ZipClass" : "STANDARD",
+		"County" : "MARION",
+		"City" : "TAMPA",
+		"State" : "KS",
+		"Latitude" : "+38.548790"
+	},
+	{
+		"Longitude" : "-097.719466",
+		"Zipcode" : "67484",
+		"ZipClass" : "STANDARD",
+		"County" : "OTTAWA",
+		"City" : "TESCOTT",
+		"State" : "KS",
+		"Latitude" : "+39.041646"
+	},
+	{
+		"Longitude" : "-098.470261",
+		"Zipcode" : "67485",
+		"ZipClass" : "STANDARD",
+		"County" : "MITCHELL",
+		"City" : "TIPTON",
+		"State" : "KS",
+		"Latitude" : "+39.339425"
+	},
+	{
+		"Longitude" : "-097.075406",
+		"Zipcode" : "67487",
+		"ZipClass" : "STANDARD",
+		"County" : "CLAY",
+		"City" : "WAKEFIELD",
+		"State" : "KS",
+		"Latitude" : "+39.190937"
+	},
+	{
+		"Longitude" : "-098.271846",
+		"Zipcode" : "67490",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLSWORTH",
+		"City" : "WILSON",
+		"State" : "KS",
+		"Latitude" : "+38.784047"
+	},
+	{
+		"Longitude" : "-097.694453",
+		"Zipcode" : "67491",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "WINDOM",
+		"State" : "KS",
+		"Latitude" : "+38.389365"
+	},
+	{
+		"Longitude" : "-096.964022",
+		"Zipcode" : "67492",
+		"ZipClass" : "STANDARD",
+		"County" : "DICKINSON",
+		"City" : "WOODBINE",
+		"State" : "KS",
+		"Latitude" : "+38.812401"
+	},
+	{
+		"Longitude" : "-097.885690",
+		"Zipcode" : "67501",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "HUTCHINSON",
+		"State" : "KS",
+		"Latitude" : "+37.954312"
+	},
+	{
+		"Longitude" : "-097.893663",
+		"Zipcode" : "67502",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "HUTCHINSON",
+		"State" : "KS",
+		"Latitude" : "+38.115643"
+	},
+	{
+		"Longitude" : "-098.085924",
+		"Zipcode" : "67504",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "HUTCHINSON",
+		"State" : "KS",
+		"Latitude" : "+37.953219"
+	},
+	{
+		"Longitude" : "-097.944252",
+		"Zipcode" : "67505",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "SOUTH HUTCHINSON",
+		"State" : "KS",
+		"Latitude" : "+38.003541"
+	},
+	{
+		"Longitude" : "-098.169523",
+		"Zipcode" : "67510",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "ABBYVILLE",
+		"State" : "KS",
+		"Latitude" : "+38.013705"
+	},
+	{
+		"Longitude" : "-098.913448",
+		"Zipcode" : "67511",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTON",
+		"City" : "ALBERT",
+		"State" : "KS",
+		"Latitude" : "+38.420451"
+	},
+	{
+		"Longitude" : "-098.316515",
+		"Zipcode" : "67512",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "ALDEN",
+		"State" : "KS",
+		"Latitude" : "+38.233295"
+	},
+	{
+		"Longitude" : "-099.553222",
+		"Zipcode" : "67513",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "ALEXANDER",
+		"State" : "KS",
+		"Latitude" : "+38.470116"
+	},
+	{
+		"Longitude" : "-098.196898",
+		"Zipcode" : "67514",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "ARLINGTON",
+		"State" : "KS",
+		"Latitude" : "+37.829877"
+	},
+	{
+		"Longitude" : "-099.916519",
+		"Zipcode" : "67515",
+		"ZipClass" : "STANDARD",
+		"County" : "NESS",
+		"City" : "ARNOLD",
+		"State" : "KS",
+		"Latitude" : "+38.479822"
+	},
+	{
+		"Longitude" : "-099.692538",
+		"Zipcode" : "67516",
+		"ZipClass" : "STANDARD",
+		"County" : "NESS",
+		"City" : "BAZINE",
+		"State" : "KS",
+		"Latitude" : "+38.445565"
+	},
+	{
+		"Longitude" : "-099.916519",
+		"Zipcode" : "67518",
+		"ZipClass" : "STANDARD",
+		"County" : "NESS",
+		"City" : "BEELER",
+		"State" : "KS",
+		"Latitude" : "+38.479822"
+	},
+	{
+		"Longitude" : "-099.098947",
+		"Zipcode" : "67519",
+		"ZipClass" : "STANDARD",
+		"County" : "EDWARDS",
+		"City" : "BELPRE",
+		"State" : "KS",
+		"Latitude" : "+37.951204"
+	},
+	{
+		"Longitude" : "-099.195772",
+		"Zipcode" : "67520",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "BISON",
+		"State" : "KS",
+		"Latitude" : "+38.563156"
+	},
+	{
+		"Longitude" : "-099.916519",
+		"Zipcode" : "67521",
+		"ZipClass" : "STANDARD",
+		"County" : "NESS",
+		"City" : "BROWNELL",
+		"State" : "KS",
+		"Latitude" : "+38.479822"
+	},
+	{
+		"Longitude" : "-097.766352",
+		"Zipcode" : "67522",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "BUHLER",
+		"State" : "KS",
+		"Latitude" : "+38.122794"
+	},
+	{
+		"Longitude" : "-099.385256",
+		"Zipcode" : "67523",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "BURDETT",
+		"State" : "KS",
+		"Latitude" : "+38.139570"
+	},
+	{
+		"Longitude" : "-098.246676",
+		"Zipcode" : "67524",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "CHASE",
+		"State" : "KS",
+		"Latitude" : "+38.362338"
+	},
+	{
+		"Longitude" : "-098.627068",
+		"Zipcode" : "67525",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTON",
+		"City" : "CLAFLIN",
+		"State" : "KS",
+		"Latitude" : "+38.565876"
+	},
+	{
+		"Longitude" : "-098.733001",
+		"Zipcode" : "67526",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTON",
+		"City" : "ELLINWOOD",
+		"State" : "KS",
+		"Latitude" : "+38.463960"
+	},
+	{
+		"Longitude" : "-099.245071",
+		"Zipcode" : "67529",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "GARFIELD",
+		"State" : "KS",
+		"Latitude" : "+38.076733"
+	},
+	{
+		"Longitude" : "-098.775074",
+		"Zipcode" : "67530",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTON",
+		"City" : "GREAT BEND",
+		"State" : "KS",
+		"Latitude" : "+38.393567"
+	},
+	{
+		"Longitude" : "-097.793755",
+		"Zipcode" : "67543",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "HAVEN",
+		"State" : "KS",
+		"Latitude" : "+37.881183"
+	},
+	{
+		"Longitude" : "-098.756485",
+		"Zipcode" : "67544",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTON",
+		"City" : "HOISINGTON",
+		"State" : "KS",
+		"Latitude" : "+38.478935"
+	},
+	{
+		"Longitude" : "-098.628964",
+		"Zipcode" : "67545",
+		"ZipClass" : "STANDARD",
+		"County" : "STAFFORD",
+		"City" : "HUDSON",
+		"State" : "KS",
+		"Latitude" : "+38.166197"
+	},
+	{
+		"Longitude" : "-097.795694",
+		"Zipcode" : "67546",
+		"ZipClass" : "STANDARD",
+		"County" : "MCPHERSON",
+		"City" : "INMAN",
+		"State" : "KS",
+		"Latitude" : "+38.246179"
+	},
+	{
+		"Longitude" : "-099.478881",
+		"Zipcode" : "67547",
+		"ZipClass" : "STANDARD",
+		"County" : "EDWARDS",
+		"City" : "KINSLEY",
+		"State" : "KS",
+		"Latitude" : "+37.912040"
+	},
+	{
+		"Longitude" : "-099.300546",
+		"Zipcode" : "67548",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "LA CROSSE",
+		"State" : "KS",
+		"Latitude" : "+38.531867"
+	},
+	{
+		"Longitude" : "-099.100960",
+		"Zipcode" : "67550",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "LARNED",
+		"State" : "KS",
+		"Latitude" : "+38.194644"
+	},
+	{
+		"Longitude" : "-099.254501",
+		"Zipcode" : "67552",
+		"ZipClass" : "STANDARD",
+		"County" : "EDWARDS",
+		"City" : "LEWIS",
+		"State" : "KS",
+		"Latitude" : "+37.936208"
+	},
+	{
+		"Longitude" : "-099.320339",
+		"Zipcode" : "67553",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "LIEBENTHAL",
+		"State" : "KS",
+		"Latitude" : "+38.655719"
+	},
+	{
+		"Longitude" : "-098.193184",
+		"Zipcode" : "67554",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "LYONS",
+		"State" : "KS",
+		"Latitude" : "+38.376979"
+	},
+	{
+		"Longitude" : "-099.571844",
+		"Zipcode" : "67556",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "MC CRACKEN",
+		"State" : "KS",
+		"Latitude" : "+38.586345"
+	},
+	{
+		"Longitude" : "-098.968997",
+		"Zipcode" : "67557",
+		"ZipClass" : "STANDARD",
+		"County" : "STAFFORD",
+		"City" : "MACKSVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.958530"
+	},
+	{
+		"Longitude" : "-099.309591",
+		"Zipcode" : "67559",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "NEKOMA",
+		"State" : "KS",
+		"Latitude" : "+38.522860"
+	},
+	{
+		"Longitude" : "-099.905723",
+		"Zipcode" : "67560",
+		"ZipClass" : "STANDARD",
+		"County" : "NESS",
+		"City" : "NESS CITY",
+		"State" : "KS",
+		"Latitude" : "+38.455316"
+	},
+	{
+		"Longitude" : "-098.105772",
+		"Zipcode" : "67561",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "NICKERSON",
+		"State" : "KS",
+		"Latitude" : "+38.100868"
+	},
+	{
+		"Longitude" : "-099.562672",
+		"Zipcode" : "67563",
+		"ZipClass" : "STANDARD",
+		"County" : "EDWARDS",
+		"City" : "OFFERLE",
+		"State" : "KS",
+		"Latitude" : "+37.890172"
+	},
+	{
+		"Longitude" : "-098.895484",
+		"Zipcode" : "67564",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTON",
+		"City" : "OLMITZ",
+		"State" : "KS",
+		"Latitude" : "+38.543586"
+	},
+	{
+		"Longitude" : "-099.053404",
+		"Zipcode" : "67565",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "OTIS",
+		"State" : "KS",
+		"Latitude" : "+38.535270"
+	},
+	{
+		"Longitude" : "-097.977327",
+		"Zipcode" : "67566",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "PARTRIDGE",
+		"State" : "KS",
+		"Latitude" : "+38.005705"
+	},
+	{
+		"Longitude" : "-098.959346",
+		"Zipcode" : "67567",
+		"ZipClass" : "STANDARD",
+		"County" : "BARTON",
+		"City" : "PAWNEE ROCK",
+		"State" : "KS",
+		"Latitude" : "+38.451554"
+	},
+	{
+		"Longitude" : "-098.261811",
+		"Zipcode" : "67568",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "PLEVNA",
+		"State" : "KS",
+		"Latitude" : "+38.006255"
+	},
+	{
+		"Longitude" : "-097.997590",
+		"Zipcode" : "67570",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "PRETTY PRAIRIE",
+		"State" : "KS",
+		"Latitude" : "+37.813853"
+	},
+	{
+		"Longitude" : "-099.932676",
+		"Zipcode" : "67572",
+		"ZipClass" : "STANDARD",
+		"County" : "NESS",
+		"City" : "RANSOM",
+		"State" : "KS",
+		"Latitude" : "+38.635962"
+	},
+	{
+		"Longitude" : "-098.392836",
+		"Zipcode" : "67573",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "RAYMOND",
+		"State" : "KS",
+		"Latitude" : "+38.267480"
+	},
+	{
+		"Longitude" : "-099.403343",
+		"Zipcode" : "67574",
+		"ZipClass" : "STANDARD",
+		"County" : "PAWNEE",
+		"City" : "ROZEL",
+		"State" : "KS",
+		"Latitude" : "+38.196248"
+	},
+	{
+		"Longitude" : "-099.246420",
+		"Zipcode" : "67575",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSH",
+		"City" : "RUSH CENTER",
+		"State" : "KS",
+		"Latitude" : "+38.467528"
+	},
+	{
+		"Longitude" : "-098.786770",
+		"Zipcode" : "67576",
+		"ZipClass" : "STANDARD",
+		"County" : "STAFFORD",
+		"City" : "SAINT JOHN",
+		"State" : "KS",
+		"Latitude" : "+38.060799"
+	},
+	{
+		"Longitude" : "-098.775000",
+		"Zipcode" : "67578",
+		"ZipClass" : "STANDARD",
+		"County" : "STAFFORD",
+		"City" : "STAFFORD",
+		"State" : "KS",
+		"Latitude" : "+37.961811"
+	},
+	{
+		"Longitude" : "-098.183033",
+		"Zipcode" : "67579",
+		"ZipClass" : "STANDARD",
+		"County" : "RICE",
+		"City" : "STERLING",
+		"State" : "KS",
+		"Latitude" : "+38.224187"
+	},
+	{
+		"Longitude" : "-098.121898",
+		"Zipcode" : "67581",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "SYLVIA",
+		"State" : "KS",
+		"Latitude" : "+38.006382"
+	},
+	{
+		"Longitude" : "-098.359075",
+		"Zipcode" : "67583",
+		"ZipClass" : "STANDARD",
+		"County" : "RENO",
+		"City" : "TURON",
+		"State" : "KS",
+		"Latitude" : "+37.822393"
+	},
+	{
+		"Longitude" : "-100.170396",
+		"Zipcode" : "67584",
+		"ZipClass" : "STANDARD",
+		"County" : "NESS",
+		"City" : "UTICA",
+		"State" : "KS",
+		"Latitude" : "+38.641893"
+	},
+	{
+		"Longitude" : "-097.871147",
+		"Zipcode" : "67585",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "RENO",
+		"City" : "YODER",
+		"State" : "KS",
+		"Latitude" : "+37.941190"
+	},
+	{
+		"Longitude" : "-099.334803",
+		"Zipcode" : "67601",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIS",
+		"City" : "HAYS",
+		"State" : "KS",
+		"Latitude" : "+38.878202"
+	},
+	{
+		"Longitude" : "-099.119565",
+		"Zipcode" : "67621",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "AGRA",
+		"State" : "KS",
+		"Latitude" : "+39.760857"
+	},
+	{
+		"Longitude" : "-099.711523",
+		"Zipcode" : "67622",
+		"ZipClass" : "STANDARD",
+		"County" : "NORTON",
+		"City" : "ALMENA",
+		"State" : "KS",
+		"Latitude" : "+39.891272"
+	},
+	{
+		"Longitude" : "-098.928883",
+		"Zipcode" : "67623",
+		"ZipClass" : "STANDARD",
+		"County" : "OSBORNE",
+		"City" : "ALTON",
+		"State" : "KS",
+		"Latitude" : "+39.430147"
+	},
+	{
+		"Longitude" : "-099.687600",
+		"Zipcode" : "67625",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "BOGUE",
+		"State" : "KS",
+		"Latitude" : "+39.360027"
+	},
+	{
+		"Longitude" : "-098.676303",
+		"Zipcode" : "67626",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "BUNKER HILL",
+		"State" : "KS",
+		"Latitude" : "+38.868931"
+	},
+	{
+		"Longitude" : "-099.216051",
+		"Zipcode" : "67627",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ELLIS",
+		"City" : "CATHARINE",
+		"State" : "KS",
+		"Latitude" : "+38.927648"
+	},
+	{
+		"Longitude" : "-098.785622",
+		"Zipcode" : "67628",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "CEDAR",
+		"State" : "KS",
+		"Latitude" : "+39.784963"
+	},
+	{
+		"Longitude" : "-099.903004",
+		"Zipcode" : "67629",
+		"ZipClass" : "STANDARD",
+		"County" : "NORTON",
+		"City" : "CLAYTON",
+		"State" : "KS",
+		"Latitude" : "+39.784320"
+	},
+	{
+		"Longitude" : "-099.872931",
+		"Zipcode" : "67631",
+		"ZipClass" : "STANDARD",
+		"County" : "TREGO",
+		"City" : "COLLYER",
+		"State" : "KS",
+		"Latitude" : "+38.914360"
+	},
+	{
+		"Longitude" : "-099.399470",
+		"Zipcode" : "67632",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOKS",
+		"City" : "DAMAR",
+		"State" : "KS",
+		"Latitude" : "+39.334908"
+	},
+	{
+		"Longitude" : "-098.775418",
+		"Zipcode" : "67634",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "DORRANCE",
+		"State" : "KS",
+		"Latitude" : "+38.821918"
+	},
+	{
+		"Longitude" : "-100.459467",
+		"Zipcode" : "67635",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "DRESDEN",
+		"State" : "KS",
+		"Latitude" : "+39.784578"
+	},
+	{
+		"Longitude" : "-099.336337",
+		"Zipcode" : "67637",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIS",
+		"City" : "ELLIS",
+		"State" : "KS",
+		"Latitude" : "+38.950015"
+	},
+	{
+		"Longitude" : "-098.846513",
+		"Zipcode" : "67638",
+		"ZipClass" : "STANDARD",
+		"County" : "SMITH",
+		"City" : "GAYLORD",
+		"State" : "KS",
+		"Latitude" : "+39.647050"
+	},
+	{
+		"Longitude" : "-099.347075",
+		"Zipcode" : "67639",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "GLADE",
+		"State" : "KS",
+		"Latitude" : "+39.784708"
+	},
+	{
+		"Longitude" : "-099.010803",
+		"Zipcode" : "67640",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "GORHAM",
+		"State" : "KS",
+		"Latitude" : "+38.852325"
+	},
+	{
+		"Longitude" : "-099.842382",
+		"Zipcode" : "67642",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "HILL CITY",
+		"State" : "KS",
+		"Latitude" : "+39.366018"
+	},
+	{
+		"Longitude" : "-100.294812",
+		"Zipcode" : "67643",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "JENNINGS",
+		"State" : "KS",
+		"Latitude" : "+39.679281"
+	},
+	{
+		"Longitude" : "-099.342534",
+		"Zipcode" : "67644",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "KIRWIN",
+		"State" : "KS",
+		"Latitude" : "+39.668671"
+	},
+	{
+		"Longitude" : "-100.002777",
+		"Zipcode" : "67645",
+		"ZipClass" : "STANDARD",
+		"County" : "NORTON",
+		"City" : "LENORA",
+		"State" : "KS",
+		"Latitude" : "+39.610503"
+	},
+	{
+		"Longitude" : "-099.568879",
+		"Zipcode" : "67646",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "LOGAN",
+		"State" : "KS",
+		"Latitude" : "+39.664328"
+	},
+	{
+		"Longitude" : "-099.347075",
+		"Zipcode" : "67647",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "LONG ISLAND",
+		"State" : "KS",
+		"Latitude" : "+39.784708"
+	},
+	{
+		"Longitude" : "-098.754407",
+		"Zipcode" : "67648",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "LUCAS",
+		"State" : "KS",
+		"Latitude" : "+39.008115"
+	},
+	{
+		"Longitude" : "-098.651072",
+		"Zipcode" : "67649",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "LURAY",
+		"State" : "KS",
+		"Latitude" : "+39.082010"
+	},
+	{
+		"Longitude" : "-100.075464",
+		"Zipcode" : "67650",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "MORLAND",
+		"State" : "KS",
+		"Latitude" : "+39.352426"
+	},
+	{
+		"Longitude" : "-098.945419",
+		"Zipcode" : "67651",
+		"ZipClass" : "STANDARD",
+		"County" : "OSBORNE",
+		"City" : "NATOMA",
+		"State" : "KS",
+		"Latitude" : "+39.227878"
+	},
+	{
+		"Longitude" : "-100.188191",
+		"Zipcode" : "67653",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "NORCATUR",
+		"State" : "KS",
+		"Latitude" : "+39.837074"
+	},
+	{
+		"Longitude" : "-099.891726",
+		"Zipcode" : "67654",
+		"ZipClass" : "STANDARD",
+		"County" : "NORTON",
+		"City" : "NORTON",
+		"State" : "KS",
+		"Latitude" : "+39.827955"
+	},
+	{
+		"Longitude" : "-099.872931",
+		"Zipcode" : "67656",
+		"ZipClass" : "STANDARD",
+		"County" : "TREGO",
+		"City" : "OGALLAH",
+		"State" : "KS",
+		"Latitude" : "+38.914360"
+	},
+	{
+		"Longitude" : "-099.346263",
+		"Zipcode" : "67657",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOKS",
+		"City" : "PALCO",
+		"State" : "KS",
+		"Latitude" : "+39.229778"
+	},
+	{
+		"Longitude" : "-098.936673",
+		"Zipcode" : "67658",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "PARADISE",
+		"State" : "KS",
+		"Latitude" : "+39.079529"
+	},
+	{
+		"Longitude" : "-099.971939",
+		"Zipcode" : "67659",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAHAM",
+		"City" : "PENOKEE",
+		"State" : "KS",
+		"Latitude" : "+39.348243"
+	},
+	{
+		"Longitude" : "-099.171847",
+		"Zipcode" : "67660",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ELLIS",
+		"City" : "PFEIFER",
+		"State" : "KS",
+		"Latitude" : "+38.715293"
+	},
+	{
+		"Longitude" : "-099.346302",
+		"Zipcode" : "67661",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "PHILLIPSBURG",
+		"State" : "KS",
+		"Latitude" : "+39.779113"
+	},
+	{
+		"Longitude" : "-099.316373",
+		"Zipcode" : "67663",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOKS",
+		"City" : "PLAINVILLE",
+		"State" : "KS",
+		"Latitude" : "+39.248844"
+	},
+	{
+		"Longitude" : "-099.348129",
+		"Zipcode" : "67664",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "PRAIRIE VIEW",
+		"State" : "KS",
+		"Latitude" : "+39.753370"
+	},
+	{
+		"Longitude" : "-098.784797",
+		"Zipcode" : "67665",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "RUSSELL",
+		"State" : "KS",
+		"Latitude" : "+38.905159"
+	},
+	{
+		"Longitude" : "-099.332221",
+		"Zipcode" : "67667",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIS",
+		"City" : "SCHOENCHEN",
+		"State" : "KS",
+		"Latitude" : "+38.712772"
+	},
+	{
+		"Longitude" : "-099.369872",
+		"Zipcode" : "67669",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOKS",
+		"City" : "STOCKTON",
+		"State" : "KS",
+		"Latitude" : "+39.412166"
+	},
+	{
+		"Longitude" : "-099.347075",
+		"Zipcode" : "67670",
+		"ZipClass" : "STANDARD",
+		"County" : "PHILLIPS",
+		"City" : "STUTTGART",
+		"State" : "KS",
+		"Latitude" : "+39.784708"
+	},
+	{
+		"Longitude" : "-099.141972",
+		"Zipcode" : "67671",
+		"ZipClass" : "STANDARD",
+		"County" : "ELLIS",
+		"City" : "VICTORIA",
+		"State" : "KS",
+		"Latitude" : "+38.915745"
+	},
+	{
+		"Longitude" : "-099.888083",
+		"Zipcode" : "67672",
+		"ZipClass" : "STANDARD",
+		"County" : "TREGO",
+		"City" : "WA KEENEY",
+		"State" : "KS",
+		"Latitude" : "+39.020792"
+	},
+	{
+		"Longitude" : "-098.788651",
+		"Zipcode" : "67673",
+		"ZipClass" : "STANDARD",
+		"County" : "RUSSELL",
+		"City" : "WALDO",
+		"State" : "KS",
+		"Latitude" : "+39.067957"
+	},
+	{
+		"Longitude" : "-099.094913",
+		"Zipcode" : "67674",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ELLIS",
+		"City" : "WALKER",
+		"State" : "KS",
+		"Latitude" : "+38.873144"
+	},
+	{
+		"Longitude" : "-099.244147",
+		"Zipcode" : "67675",
+		"ZipClass" : "STANDARD",
+		"County" : "ROOKS",
+		"City" : "WOODSTON",
+		"State" : "KS",
+		"Latitude" : "+39.401699"
+	},
+	{
+		"Longitude" : "-100.973696",
+		"Zipcode" : "67701",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "COLBY",
+		"State" : "KS",
+		"Latitude" : "+39.401520"
+	},
+	{
+		"Longitude" : "-101.041371",
+		"Zipcode" : "67730",
+		"ZipClass" : "STANDARD",
+		"County" : "RAWLINS",
+		"City" : "ATWOOD",
+		"State" : "KS",
+		"Latitude" : "+39.824688"
+	},
+	{
+		"Longitude" : "-101.532798",
+		"Zipcode" : "67731",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "BIRD CITY",
+		"State" : "KS",
+		"Latitude" : "+39.750443"
+	},
+	{
+		"Longitude" : "-101.061905",
+		"Zipcode" : "67732",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "BREWSTER",
+		"State" : "KS",
+		"Latitude" : "+39.358974"
+	},
+	{
+		"Longitude" : "-101.494050",
+		"Zipcode" : "67733",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "EDSON",
+		"State" : "KS",
+		"Latitude" : "+39.366545"
+	},
+	{
+		"Longitude" : "-100.934517",
+		"Zipcode" : "67734",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "GEM",
+		"State" : "KS",
+		"Latitude" : "+39.459642"
+	},
+	{
+		"Longitude" : "-101.798885",
+		"Zipcode" : "67735",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "GOODLAND",
+		"State" : "KS",
+		"Latitude" : "+39.358123"
+	},
+	{
+		"Longitude" : "-100.483367",
+		"Zipcode" : "67736",
+		"ZipClass" : "STANDARD",
+		"County" : "GOVE",
+		"City" : "GOVE",
+		"State" : "KS",
+		"Latitude" : "+38.915304"
+	},
+	{
+		"Longitude" : "-100.466880",
+		"Zipcode" : "67737",
+		"ZipClass" : "STANDARD",
+		"County" : "GOVE",
+		"City" : "GRAINFIELD",
+		"State" : "KS",
+		"Latitude" : "+39.114640"
+	},
+	{
+		"Longitude" : "-100.631872",
+		"Zipcode" : "67738",
+		"ZipClass" : "STANDARD",
+		"County" : "GOVE",
+		"City" : "GRINNELL",
+		"State" : "KS",
+		"Latitude" : "+39.125891"
+	},
+	{
+		"Longitude" : "-100.784803",
+		"Zipcode" : "67739",
+		"ZipClass" : "STANDARD",
+		"County" : "RAWLINS",
+		"City" : "HERNDON",
+		"State" : "KS",
+		"Latitude" : "+39.909207"
+	},
+	{
+		"Longitude" : "-100.440513",
+		"Zipcode" : "67740",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "HOXIE",
+		"State" : "KS",
+		"Latitude" : "+39.355013"
+	},
+	{
+		"Longitude" : "-101.967481",
+		"Zipcode" : "67741",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERMAN",
+		"City" : "KANORADO",
+		"State" : "KS",
+		"Latitude" : "+39.365231"
+	},
+	{
+		"Longitude" : "-101.148818",
+		"Zipcode" : "67743",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "LEVANT",
+		"State" : "KS",
+		"Latitude" : "+39.413268"
+	},
+	{
+		"Longitude" : "-101.076282",
+		"Zipcode" : "67744",
+		"ZipClass" : "STANDARD",
+		"County" : "RAWLINS",
+		"City" : "LUDELL",
+		"State" : "KS",
+		"Latitude" : "+39.785211"
+	},
+	{
+		"Longitude" : "-101.370071",
+		"Zipcode" : "67745",
+		"ZipClass" : "STANDARD",
+		"County" : "RAWLINS",
+		"City" : "MC DONALD",
+		"State" : "KS",
+		"Latitude" : "+39.785619"
+	},
+	{
+		"Longitude" : "-101.063728",
+		"Zipcode" : "67747",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "MONUMENT",
+		"State" : "KS",
+		"Latitude" : "+39.046409"
+	},
+	{
+		"Longitude" : "-100.970176",
+		"Zipcode" : "67748",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "OAKLEY",
+		"State" : "KS",
+		"Latitude" : "+38.945805"
+	},
+	{
+		"Longitude" : "-100.529554",
+		"Zipcode" : "67749",
+		"ZipClass" : "STANDARD",
+		"County" : "DECATUR",
+		"City" : "OBERLIN",
+		"State" : "KS",
+		"Latitude" : "+39.820834"
+	},
+	{
+		"Longitude" : "-100.233439",
+		"Zipcode" : "67751",
+		"ZipClass" : "STANDARD",
+		"County" : "GOVE",
+		"City" : "PARK",
+		"State" : "KS",
+		"Latitude" : "+39.063922"
+	},
+	{
+		"Longitude" : "-100.238001",
+		"Zipcode" : "67752",
+		"ZipClass" : "STANDARD",
+		"County" : "GOVE",
+		"City" : "QUINTER",
+		"State" : "KS",
+		"Latitude" : "+39.063613"
+	},
+	{
+		"Longitude" : "-101.049033",
+		"Zipcode" : "67753",
+		"ZipClass" : "STANDARD",
+		"County" : "THOMAS",
+		"City" : "REXFORD",
+		"State" : "KS",
+		"Latitude" : "+39.390715"
+	},
+	{
+		"Longitude" : "-101.909252",
+		"Zipcode" : "67756",
+		"ZipClass" : "STANDARD",
+		"County" : "CHEYENNE",
+		"City" : "SAINT FRANCIS",
+		"State" : "KS",
+		"Latitude" : "+39.680371"
+	},
+	{
+		"Longitude" : "-100.567722",
+		"Zipcode" : "67757",
+		"ZipClass" : "STANDARD",
+		"County" : "SHERIDAN",
+		"City" : "SELDEN",
+		"State" : "KS",
+		"Latitude" : "+39.541125"
+	},
+	{
+		"Longitude" : "-101.748965",
+		"Zipcode" : "67758",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLACE",
+		"City" : "SHARON SPRINGS",
+		"State" : "KS",
+		"Latitude" : "+38.894280"
+	},
+	{
+		"Longitude" : "-101.762678",
+		"Zipcode" : "67761",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLACE",
+		"City" : "WALLACE",
+		"State" : "KS",
+		"Latitude" : "+38.916183"
+	},
+	{
+		"Longitude" : "-101.762678",
+		"Zipcode" : "67762",
+		"ZipClass" : "STANDARD",
+		"County" : "WALLACE",
+		"City" : "WESKAN",
+		"State" : "KS",
+		"Latitude" : "+38.916183"
+	},
+	{
+		"Longitude" : "-101.094305",
+		"Zipcode" : "67764",
+		"ZipClass" : "STANDARD",
+		"County" : "LOGAN",
+		"City" : "WINONA",
+		"State" : "KS",
+		"Latitude" : "+38.921702"
+	},
+	{
+		"Longitude" : "-099.902421",
+		"Zipcode" : "67801",
+		"ZipClass" : "STANDARD",
+		"County" : "FORD",
+		"City" : "DODGE CITY",
+		"State" : "KS",
+		"Latitude" : "+37.690531"
+	},
+	{
+		"Longitude" : "-099.769576",
+		"Zipcode" : "67831",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "ASHLAND",
+		"State" : "KS",
+		"Latitude" : "+37.171946"
+	},
+	{
+		"Longitude" : "-099.882532",
+		"Zipcode" : "67834",
+		"ZipClass" : "STANDARD",
+		"County" : "FORD",
+		"City" : "BUCKLIN",
+		"State" : "KS",
+		"Latitude" : "+37.690525"
+	},
+	{
+		"Longitude" : "-100.338634",
+		"Zipcode" : "67835",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAY",
+		"City" : "CIMARRON",
+		"State" : "KS",
+		"Latitude" : "+37.803608"
+	},
+	{
+		"Longitude" : "-101.785968",
+		"Zipcode" : "67836",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMILTON",
+		"City" : "COOLIDGE",
+		"State" : "KS",
+		"Latitude" : "+37.999701"
+	},
+	{
+		"Longitude" : "-100.505348",
+		"Zipcode" : "67837",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAY",
+		"City" : "COPELAND",
+		"State" : "KS",
+		"Latitude" : "+37.738785"
+	},
+	{
+		"Longitude" : "-101.190998",
+		"Zipcode" : "67838",
+		"ZipClass" : "STANDARD",
+		"County" : "KEARNY",
+		"City" : "DEERFIELD",
+		"State" : "KS",
+		"Latitude" : "+37.964591"
+	},
+	{
+		"Longitude" : "-100.464651",
+		"Zipcode" : "67839",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "DIGHTON",
+		"State" : "KS",
+		"Latitude" : "+38.474188"
+	},
+	{
+		"Longitude" : "-099.824220",
+		"Zipcode" : "67840",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "CLARK",
+		"City" : "ENGLEWOOD",
+		"State" : "KS",
+		"Latitude" : "+37.237186"
+	},
+	{
+		"Longitude" : "-100.275430",
+		"Zipcode" : "67841",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAY",
+		"City" : "ENSIGN",
+		"State" : "KS",
+		"Latitude" : "+37.624913"
+	},
+	{
+		"Longitude" : "-099.799449",
+		"Zipcode" : "67842",
+		"ZipClass" : "STANDARD",
+		"County" : "FORD",
+		"City" : "FORD",
+		"State" : "KS",
+		"Latitude" : "+37.587839"
+	},
+	{
+		"Longitude" : "-100.211034",
+		"Zipcode" : "67844",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "FOWLER",
+		"State" : "KS",
+		"Latitude" : "+37.279983"
+	},
+	{
+		"Longitude" : "-100.664407",
+		"Zipcode" : "67846",
+		"ZipClass" : "STANDARD",
+		"County" : "FINNEY",
+		"City" : "GARDEN CITY",
+		"State" : "KS",
+		"Latitude" : "+38.000771"
+	},
+	{
+		"Longitude" : "-099.709532",
+		"Zipcode" : "67849",
+		"ZipClass" : "STANDARD",
+		"County" : "HODGEMAN",
+		"City" : "HANSTON",
+		"State" : "KS",
+		"Latitude" : "+38.121492"
+	},
+	{
+		"Longitude" : "-100.600786",
+		"Zipcode" : "67850",
+		"ZipClass" : "STANDARD",
+		"County" : "LANE",
+		"City" : "HEALY",
+		"State" : "KS",
+		"Latitude" : "+38.578991"
+	},
+	{
+		"Longitude" : "-100.961803",
+		"Zipcode" : "67851",
+		"ZipClass" : "STANDARD",
+		"County" : "FINNEY",
+		"City" : "HOLCOMB",
+		"State" : "KS",
+		"Latitude" : "+38.098129"
+	},
+	{
+		"Longitude" : "-100.460930",
+		"Zipcode" : "67853",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAY",
+		"City" : "INGALLS",
+		"State" : "KS",
+		"Latitude" : "+37.789051"
+	},
+	{
+		"Longitude" : "-099.893681",
+		"Zipcode" : "67854",
+		"ZipClass" : "STANDARD",
+		"County" : "HODGEMAN",
+		"City" : "JETMORE",
+		"State" : "KS",
+		"Latitude" : "+38.023937"
+	},
+	{
+		"Longitude" : "-101.707858",
+		"Zipcode" : "67855",
+		"ZipClass" : "STANDARD",
+		"County" : "STANTON",
+		"City" : "JOHNSON",
+		"State" : "KS",
+		"Latitude" : "+37.562997"
+	},
+	{
+		"Longitude" : "-101.785968",
+		"Zipcode" : "67857",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "KENDALL",
+		"State" : "KS",
+		"Latitude" : "+37.999701"
+	},
+	{
+		"Longitude" : "-100.701401",
+		"Zipcode" : "67859",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "KISMET",
+		"State" : "KS",
+		"Latitude" : "+37.204223"
+	},
+	{
+		"Longitude" : "-101.264981",
+		"Zipcode" : "67860",
+		"ZipClass" : "STANDARD",
+		"County" : "KEARNY",
+		"City" : "LAKIN",
+		"State" : "KS",
+		"Latitude" : "+37.938907"
+	},
+	{
+		"Longitude" : "-101.293036",
+		"Zipcode" : "67861",
+		"ZipClass" : "STANDARD",
+		"County" : "WICHITA",
+		"City" : "LEOTI",
+		"State" : "KS",
+		"Latitude" : "+38.477827"
+	},
+	{
+		"Longitude" : "-101.904726",
+		"Zipcode" : "67862",
+		"ZipClass" : "STANDARD",
+		"County" : "STANTON",
+		"City" : "MANTER",
+		"State" : "KS",
+		"Latitude" : "+37.536283"
+	},
+	{
+		"Longitude" : "-101.283946",
+		"Zipcode" : "67863",
+		"ZipClass" : "STANDARD",
+		"County" : "WICHITA",
+		"City" : "MARIENTHAL",
+		"State" : "KS",
+		"Latitude" : "+38.483749"
+	},
+	{
+		"Longitude" : "-100.316583",
+		"Zipcode" : "67864",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "MEADE",
+		"State" : "KS",
+		"Latitude" : "+37.238357"
+	},
+	{
+		"Longitude" : "-100.008811",
+		"Zipcode" : "67865",
+		"ZipClass" : "STANDARD",
+		"County" : "CLARK",
+		"City" : "MINNEOLA",
+		"State" : "KS",
+		"Latitude" : "+37.442546"
+	},
+	{
+		"Longitude" : "-100.415568",
+		"Zipcode" : "67867",
+		"ZipClass" : "STANDARD",
+		"County" : "GRAY",
+		"City" : "MONTEZUMA",
+		"State" : "KS",
+		"Latitude" : "+37.598638"
+	},
+	{
+		"Longitude" : "-100.752256",
+		"Zipcode" : "67868",
+		"ZipClass" : "STANDARD",
+		"County" : "FINNEY",
+		"City" : "PIERCEVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.905994"
+	},
+	{
+		"Longitude" : "-100.435253",
+		"Zipcode" : "67869",
+		"ZipClass" : "STANDARD",
+		"County" : "MEADE",
+		"City" : "PLAINS",
+		"State" : "KS",
+		"Latitude" : "+37.241900"
+	},
+	{
+		"Longitude" : "-100.998474",
+		"Zipcode" : "67870",
+		"ZipClass" : "STANDARD",
+		"County" : "HASKELL",
+		"City" : "SATANTA",
+		"State" : "KS",
+		"Latitude" : "+37.441023"
+	},
+	{
+		"Longitude" : "-100.906427",
+		"Zipcode" : "67871",
+		"ZipClass" : "STANDARD",
+		"County" : "SCOTT",
+		"City" : "SCOTT CITY",
+		"State" : "KS",
+		"Latitude" : "+38.482307"
+	},
+	{
+		"Longitude" : "-099.715817",
+		"Zipcode" : "67876",
+		"ZipClass" : "STANDARD",
+		"County" : "FORD",
+		"City" : "SPEARVILLE",
+		"State" : "KS",
+		"Latitude" : "+37.729884"
+	},
+	{
+		"Longitude" : "-100.848783",
+		"Zipcode" : "67877",
+		"ZipClass" : "STANDARD",
+		"County" : "HASKELL",
+		"City" : "SUBLETTE",
+		"State" : "KS",
+		"Latitude" : "+37.482236"
+	},
+	{
+		"Longitude" : "-101.751732",
+		"Zipcode" : "67878",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMILTON",
+		"City" : "SYRACUSE",
+		"State" : "KS",
+		"Latitude" : "+37.986428"
+	},
+	{
+		"Longitude" : "-101.747853",
+		"Zipcode" : "67879",
+		"ZipClass" : "STANDARD",
+		"County" : "GREELEY",
+		"City" : "TRIBUNE",
+		"State" : "KS",
+		"Latitude" : "+38.469704"
+	},
+	{
+		"Longitude" : "-101.308565",
+		"Zipcode" : "67880",
+		"ZipClass" : "STANDARD",
+		"County" : "GRANT",
+		"City" : "ULYSSES",
+		"State" : "KS",
+		"Latitude" : "+37.562467"
+	},
+	{
+		"Longitude" : "-099.903061",
+		"Zipcode" : "67882",
+		"ZipClass" : "STANDARD",
+		"County" : "FORD",
+		"City" : "WRIGHT",
+		"State" : "KS",
+		"Latitude" : "+37.814013"
+	},
+	{
+		"Longitude" : "-100.873809",
+		"Zipcode" : "67901",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "LIBERAL",
+		"State" : "KS",
+		"Latitude" : "+37.043237"
+	},
+	{
+		"Longitude" : "-100.938049",
+		"Zipcode" : "67905",
+		"ZipClass" : "STANDARD",
+		"County" : "SEWARD",
+		"City" : "LIBERAL",
+		"State" : "KS",
+		"Latitude" : "+37.021641"
+	},
+	{
+		"Longitude" : "-101.896973",
+		"Zipcode" : "67950",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "ELKHART",
+		"State" : "KS",
+		"Latitude" : "+37.004050"
+	},
+	{
+		"Longitude" : "-101.281684",
+		"Zipcode" : "67951",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "HUGOTON",
+		"State" : "KS",
+		"Latitude" : "+37.243161"
+	},
+	{
+		"Longitude" : "-101.205904",
+		"Zipcode" : "67952",
+		"ZipClass" : "STANDARD",
+		"County" : "STEVENS",
+		"City" : "MOSCOW",
+		"State" : "KS",
+		"Latitude" : "+37.325308"
+	},
+	{
+		"Longitude" : "-101.798749",
+		"Zipcode" : "67953",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "RICHFIELD",
+		"State" : "KS",
+		"Latitude" : "+37.191239"
+	},
+	{
+		"Longitude" : "-101.604690",
+		"Zipcode" : "67954",
+		"ZipClass" : "STANDARD",
+		"County" : "MORTON",
+		"City" : "ROLLA",
+		"State" : "KS",
+		"Latitude" : "+37.081137"
+	}
+]}

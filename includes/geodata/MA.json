@@ -1,0 +1,6420 @@
+{
+	"result":[
+	{
+		"Longitude" : "-072.788661",
+		"Zipcode" : "01001",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "AGAWAM",
+		"State" : "MA",
+		"Latitude" : "+42.140549"
+	},
+	{
+		"Longitude" : "-072.464571",
+		"Zipcode" : "01002",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "AMHERST",
+		"State" : "MA",
+		"Latitude" : "+42.367092"
+	},
+	{
+		"Longitude" : "-072.635990",
+		"Zipcode" : "01003",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "AMHERST",
+		"State" : "MA",
+		"Latitude" : "+42.369562"
+	},
+	{
+		"Longitude" : "-072.513183",
+		"Zipcode" : "01004",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "AMHERST",
+		"State" : "MA",
+		"Latitude" : "+42.384494"
+	},
+	{
+		"Longitude" : "-072.139465",
+		"Zipcode" : "01005",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BARRE",
+		"State" : "MA",
+		"Latitude" : "+42.329160"
+	},
+	{
+		"Longitude" : "-072.402056",
+		"Zipcode" : "01007",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "BELCHERTOWN",
+		"State" : "MA",
+		"Latitude" : "+42.280267"
+	},
+	{
+		"Longitude" : "-072.958359",
+		"Zipcode" : "01008",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "BLANDFORD",
+		"State" : "MA",
+		"Latitude" : "+42.177833"
+	},
+	{
+		"Longitude" : "-072.340486",
+		"Zipcode" : "01009",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPDEN",
+		"City" : "BONDSVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.206092"
+	},
+	{
+		"Longitude" : "-072.204480",
+		"Zipcode" : "01010",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "BRIMFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.108585"
+	},
+	{
+		"Longitude" : "-072.952776",
+		"Zipcode" : "01011",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "CHESTER",
+		"State" : "MA",
+		"Latitude" : "+42.294259"
+	},
+	{
+		"Longitude" : "-072.825607",
+		"Zipcode" : "01012",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "CHESTERFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.392274"
+	},
+	{
+		"Longitude" : "-072.667341",
+		"Zipcode" : "01013",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "CHICOPEE",
+		"State" : "MA",
+		"Latitude" : "+42.161492"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01014",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "CHICOPEE",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.562563",
+		"Zipcode" : "01020",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "CHICOPEE",
+		"State" : "MA",
+		"Latitude" : "+42.177492"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01021",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "CHICOPEE",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.554360",
+		"Zipcode" : "01022",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "CHICOPEE",
+		"State" : "MA",
+		"Latitude" : "+42.193392"
+	},
+	{
+		"Longitude" : "-072.909841",
+		"Zipcode" : "01026",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "CUMMINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.428617"
+	},
+	{
+		"Longitude" : "-072.768839",
+		"Zipcode" : "01027",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "EASTHAMPTON",
+		"State" : "MA",
+		"Latitude" : "+42.368303"
+	},
+	{
+		"Longitude" : "-072.498740",
+		"Zipcode" : "01028",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "EAST LONGMEADOW",
+		"State" : "MA",
+		"Latitude" : "+42.062009"
+	},
+	{
+		"Longitude" : "-073.051661",
+		"Zipcode" : "01029",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKSHIRE",
+		"City" : "EAST OTIS",
+		"State" : "MA",
+		"Latitude" : "+42.190904"
+	},
+	{
+		"Longitude" : "-072.797740",
+		"Zipcode" : "01030",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "FEEDING HILLS",
+		"State" : "MA",
+		"Latitude" : "+42.189335"
+	},
+	{
+		"Longitude" : "-072.205724",
+		"Zipcode" : "01031",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "GILBERTVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.352554"
+	},
+	{
+		"Longitude" : "-072.819446",
+		"Zipcode" : "01032",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "GOSHEN",
+		"State" : "MA",
+		"Latitude" : "+42.443837"
+	},
+	{
+		"Longitude" : "-072.504086",
+		"Zipcode" : "01033",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "GRANBY",
+		"State" : "MA",
+		"Latitude" : "+42.262285"
+	},
+	{
+		"Longitude" : "-072.952003",
+		"Zipcode" : "01034",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "GRANVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.112748"
+	},
+	{
+		"Longitude" : "-072.576613",
+		"Zipcode" : "01035",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "HADLEY",
+		"State" : "MA",
+		"Latitude" : "+42.356804"
+	},
+	{
+		"Longitude" : "-072.417507",
+		"Zipcode" : "01036",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "HAMPDEN",
+		"State" : "MA",
+		"Latitude" : "+42.067614"
+	},
+	{
+		"Longitude" : "-072.225251",
+		"Zipcode" : "01037",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "HARDWICK",
+		"State" : "MA",
+		"Latitude" : "+42.347856"
+	},
+	{
+		"Longitude" : "-072.643081",
+		"Zipcode" : "01038",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "HATFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.387269"
+	},
+	{
+		"Longitude" : "-072.682127",
+		"Zipcode" : "01039",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "HAYDENVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.356410"
+	},
+	{
+		"Longitude" : "-072.642070",
+		"Zipcode" : "01040",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "HOLYOKE",
+		"State" : "MA",
+		"Latitude" : "+42.198291"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01041",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "HOLYOKE",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.903677",
+		"Zipcode" : "01050",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "HUNTINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.313427"
+	},
+	{
+		"Longitude" : "-072.704385",
+		"Zipcode" : "01053",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "LEEDS",
+		"State" : "MA",
+		"Latitude" : "+42.353838"
+	},
+	{
+		"Longitude" : "-072.467543",
+		"Zipcode" : "01054",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "LEVERETT",
+		"State" : "MA",
+		"Latitude" : "+42.474681"
+	},
+	{
+		"Longitude" : "-072.627038",
+		"Zipcode" : "01056",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "LUDLOW",
+		"State" : "MA",
+		"Latitude" : "+42.173276"
+	},
+	{
+		"Longitude" : "-072.282063",
+		"Zipcode" : "01057",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "MONSON",
+		"State" : "MA",
+		"Latitude" : "+42.095323"
+	},
+	{
+		"Longitude" : "-072.635990",
+		"Zipcode" : "01059",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "NORTH AMHERST",
+		"State" : "MA",
+		"Latitude" : "+42.369562"
+	},
+	{
+		"Longitude" : "-072.769270",
+		"Zipcode" : "01060",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "NORTHAMPTON",
+		"State" : "MA",
+		"Latitude" : "+42.415154"
+	},
+	{
+		"Longitude" : "-072.635990",
+		"Zipcode" : "01061",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "NORTHAMPTON",
+		"State" : "MA",
+		"Latitude" : "+42.369562"
+	},
+	{
+		"Longitude" : "-072.845227",
+		"Zipcode" : "01062",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "FLORENCE",
+		"State" : "MA",
+		"Latitude" : "+42.328838"
+	},
+	{
+		"Longitude" : "-072.640234",
+		"Zipcode" : "01063",
+		"ZipClass" : "UNIQUE",
+		"County" : "HAMPSHIRE",
+		"City" : "NORTHAMPTON",
+		"State" : "MA",
+		"Latitude" : "+42.317939"
+	},
+	{
+		"Longitude" : "-072.633901",
+		"Zipcode" : "01066",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPSHIRE",
+		"City" : "NORTH HATFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.406697"
+	},
+	{
+		"Longitude" : "-072.058847",
+		"Zipcode" : "01068",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "OAKHAM",
+		"State" : "MA",
+		"Latitude" : "+42.346144"
+	},
+	{
+		"Longitude" : "-072.314570",
+		"Zipcode" : "01069",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "PALMER",
+		"State" : "MA",
+		"Latitude" : "+42.176131"
+	},
+	{
+		"Longitude" : "-072.958397",
+		"Zipcode" : "01070",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "PLAINFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.448984"
+	},
+	{
+		"Longitude" : "-072.864558",
+		"Zipcode" : "01071",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "RUSSELL",
+		"State" : "MA",
+		"Latitude" : "+42.177432"
+	},
+	{
+		"Longitude" : "-072.440170",
+		"Zipcode" : "01072",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SHUTESBURY",
+		"State" : "MA",
+		"Latitude" : "+42.471562"
+	},
+	{
+		"Longitude" : "-072.728463",
+		"Zipcode" : "01073",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "SOUTHAMPTON",
+		"State" : "MA",
+		"Latitude" : "+42.230008"
+	},
+	{
+		"Longitude" : "-072.149388",
+		"Zipcode" : "01074",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "SOUTH BARRE",
+		"State" : "MA",
+		"Latitude" : "+42.375998"
+	},
+	{
+		"Longitude" : "-072.581520",
+		"Zipcode" : "01075",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "SOUTH HADLEY",
+		"State" : "MA",
+		"Latitude" : "+42.249840"
+	},
+	{
+		"Longitude" : "-072.541205",
+		"Zipcode" : "01077",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SOUTHWICK",
+		"State" : "MA",
+		"Latitude" : "+42.066644"
+	},
+	{
+		"Longitude" : "-072.329574",
+		"Zipcode" : "01079",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPDEN",
+		"City" : "THORNDIKE",
+		"State" : "MA",
+		"Latitude" : "+42.192892"
+	},
+	{
+		"Longitude" : "-072.517813",
+		"Zipcode" : "01080",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "THREE RIVERS",
+		"State" : "MA",
+		"Latitude" : "+42.179805"
+	},
+	{
+		"Longitude" : "-072.213598",
+		"Zipcode" : "01081",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "WALES",
+		"State" : "MA",
+		"Latitude" : "+42.061948"
+	},
+	{
+		"Longitude" : "-072.548549",
+		"Zipcode" : "01082",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "WARE",
+		"State" : "MA",
+		"Latitude" : "+42.377471"
+	},
+	{
+		"Longitude" : "-072.199439",
+		"Zipcode" : "01083",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "WARREN",
+		"State" : "MA",
+		"Latitude" : "+42.204027"
+	},
+	{
+		"Longitude" : "-072.870857",
+		"Zipcode" : "01084",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPSHIRE",
+		"City" : "WEST CHESTERFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.390303"
+	},
+	{
+		"Longitude" : "-072.501887",
+		"Zipcode" : "01085",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "WESTFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.148690"
+	},
+	{
+		"Longitude" : "-072.847964",
+		"Zipcode" : "01086",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "WESTFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.173428"
+	},
+	{
+		"Longitude" : "-072.646894",
+		"Zipcode" : "01088",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "WEST HATFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.390583"
+	},
+	{
+		"Longitude" : "-072.645334",
+		"Zipcode" : "01089",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "WEST SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.125793"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01090",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "WEST SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.229025",
+		"Zipcode" : "01092",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "WEST WARREN",
+		"State" : "MA",
+		"Latitude" : "+42.202887"
+	},
+	{
+		"Longitude" : "-072.652511",
+		"Zipcode" : "01093",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "WHATELY",
+		"State" : "MA",
+		"Latitude" : "+42.442673"
+	},
+	{
+		"Longitude" : "-072.140846",
+		"Zipcode" : "01094",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "WHEELWRIGHT",
+		"State" : "MA",
+		"Latitude" : "+42.358201"
+	},
+	{
+		"Longitude" : "-072.489988",
+		"Zipcode" : "01095",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "WILBRAHAM",
+		"State" : "MA",
+		"Latitude" : "+42.125974"
+	},
+	{
+		"Longitude" : "-072.821653",
+		"Zipcode" : "01096",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "WILLIAMSBURG",
+		"State" : "MA",
+		"Latitude" : "+42.413069"
+	},
+	{
+		"Longitude" : "-072.845912",
+		"Zipcode" : "01097",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "WORONOCO",
+		"State" : "MA",
+		"Latitude" : "+42.161743"
+	},
+	{
+		"Longitude" : "-072.896133",
+		"Zipcode" : "01098",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPSHIRE",
+		"City" : "WORTHINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.404940"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01101",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01102",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.590783",
+		"Zipcode" : "01103",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.103044"
+	},
+	{
+		"Longitude" : "-072.567966",
+		"Zipcode" : "01104",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.128605"
+	},
+	{
+		"Longitude" : "-072.577732",
+		"Zipcode" : "01105",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.099793"
+	},
+	{
+		"Longitude" : "-072.567882",
+		"Zipcode" : "01106",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "LONGMEADOW",
+		"State" : "MA",
+		"Latitude" : "+42.049194"
+	},
+	{
+		"Longitude" : "-072.586733",
+		"Zipcode" : "01107",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.126237"
+	},
+	{
+		"Longitude" : "-072.558081",
+		"Zipcode" : "01108",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.080594"
+	},
+	{
+		"Longitude" : "-072.548981",
+		"Zipcode" : "01109",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.119293"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01111",
+		"ZipClass" : "UNIQUE",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01114",
+		"ZipClass" : "UNIQUE",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.591633",
+		"Zipcode" : "01115",
+		"ZipClass" : "UNIQUE",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.102894"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01116",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "LONGMEADOW",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.523227",
+		"Zipcode" : "01118",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.093894"
+	},
+	{
+		"Longitude" : "-072.526705",
+		"Zipcode" : "01119",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.124943"
+	},
+	{
+		"Longitude" : "-072.487229",
+		"Zipcode" : "01128",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.094616"
+	},
+	{
+		"Longitude" : "-072.489479",
+		"Zipcode" : "01129",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.124485"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01133",
+		"ZipClass" : "UNIQUE",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01138",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01139",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.591510",
+		"Zipcode" : "01144",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.101796"
+	},
+	{
+		"Longitude" : "-072.512780",
+		"Zipcode" : "01151",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "INDIAN ORCHARD",
+		"State" : "MA",
+		"Latitude" : "+42.150593"
+	},
+	{
+		"Longitude" : "-072.604842",
+		"Zipcode" : "01152",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.170731"
+	},
+	{
+		"Longitude" : "-072.604983",
+		"Zipcode" : "01199",
+		"ZipClass" : "UNIQUE",
+		"County" : "HAMPDEN",
+		"City" : "SPRINGFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.119943"
+	},
+	{
+		"Longitude" : "-073.248070",
+		"Zipcode" : "01201",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "PITTSFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.479475"
+	},
+	{
+		"Longitude" : "-073.228483",
+		"Zipcode" : "01202",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "PITTSFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.392900"
+	},
+	{
+		"Longitude" : "-073.228483",
+		"Zipcode" : "01203",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "PITTSFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.392900"
+	},
+	{
+		"Longitude" : "-073.172166",
+		"Zipcode" : "01220",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "ADAMS",
+		"State" : "MA",
+		"Latitude" : "+42.385595"
+	},
+	{
+		"Longitude" : "-073.318695",
+		"Zipcode" : "01222",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "ASHLEY FALLS",
+		"State" : "MA",
+		"Latitude" : "+42.185969"
+	},
+	{
+		"Longitude" : "-073.103468",
+		"Zipcode" : "01223",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "BECKET",
+		"State" : "MA",
+		"Latitude" : "+42.341800"
+	},
+	{
+		"Longitude" : "-073.228483",
+		"Zipcode" : "01224",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "BERKSHIRE",
+		"State" : "MA",
+		"Latitude" : "+42.392900"
+	},
+	{
+		"Longitude" : "-073.127483",
+		"Zipcode" : "01225",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "CHESHIRE",
+		"State" : "MA",
+		"Latitude" : "+42.482125"
+	},
+	{
+		"Longitude" : "-073.088950",
+		"Zipcode" : "01226",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "DALTON",
+		"State" : "MA",
+		"Latitude" : "+42.470296"
+	},
+	{
+		"Longitude" : "-073.092852",
+		"Zipcode" : "01227",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "DALTON",
+		"State" : "MA",
+		"Latitude" : "+42.516145"
+	},
+	{
+		"Longitude" : "-073.343545",
+		"Zipcode" : "01229",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKSHIRE",
+		"City" : "GLENDALE",
+		"State" : "MA",
+		"Latitude" : "+42.279292"
+	},
+	{
+		"Longitude" : "-073.266650",
+		"Zipcode" : "01230",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "GREAT BARRINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.299392"
+	},
+	{
+		"Longitude" : "-073.221640",
+		"Zipcode" : "01235",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "HINSDALE",
+		"State" : "MA",
+		"Latitude" : "+42.292370"
+	},
+	{
+		"Longitude" : "-073.358798",
+		"Zipcode" : "01236",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "HOUSATONIC",
+		"State" : "MA",
+		"Latitude" : "+42.291299"
+	},
+	{
+		"Longitude" : "-073.235048",
+		"Zipcode" : "01237",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "LANESBORO",
+		"State" : "MA",
+		"Latitude" : "+42.487569"
+	},
+	{
+		"Longitude" : "-073.267465",
+		"Zipcode" : "01238",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "LEE",
+		"State" : "MA",
+		"Latitude" : "+42.369856"
+	},
+	{
+		"Longitude" : "-073.219858",
+		"Zipcode" : "01240",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "LENOX",
+		"State" : "MA",
+		"Latitude" : "+42.459202"
+	},
+	{
+		"Longitude" : "-073.250891",
+		"Zipcode" : "01242",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKSHIRE",
+		"City" : "LENOX DALE",
+		"State" : "MA",
+		"Latitude" : "+42.338594"
+	},
+	{
+		"Longitude" : "-073.010448",
+		"Zipcode" : "01243",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "HAMPSHIRE",
+		"City" : "MIDDLEFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.356088"
+	},
+	{
+		"Longitude" : "-073.253983",
+		"Zipcode" : "01244",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKSHIRE",
+		"City" : "MILL RIVER",
+		"State" : "MA",
+		"Latitude" : "+42.122827"
+	},
+	{
+		"Longitude" : "-073.206498",
+		"Zipcode" : "01245",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "MONTEREY",
+		"State" : "MA",
+		"Latitude" : "+42.186690"
+	},
+	{
+		"Longitude" : "-073.186320",
+		"Zipcode" : "01247",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "NORTH ADAMS",
+		"State" : "MA",
+		"Latitude" : "+42.426974"
+	},
+	{
+		"Longitude" : "-073.446234",
+		"Zipcode" : "01252",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "NORTH EGREMONT",
+		"State" : "MA",
+		"Latitude" : "+42.198648"
+	},
+	{
+		"Longitude" : "-073.090434",
+		"Zipcode" : "01253",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "OTIS",
+		"State" : "MA",
+		"Latitude" : "+42.213156"
+	},
+	{
+		"Longitude" : "-073.238358",
+		"Zipcode" : "01254",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "RICHMOND",
+		"State" : "MA",
+		"Latitude" : "+42.233105"
+	},
+	{
+		"Longitude" : "-073.148610",
+		"Zipcode" : "01255",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "SANDISFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.148975"
+	},
+	{
+		"Longitude" : "-073.128528",
+		"Zipcode" : "01256",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "SAVOY",
+		"State" : "MA",
+		"Latitude" : "+42.367341"
+	},
+	{
+		"Longitude" : "-073.267694",
+		"Zipcode" : "01257",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "SHEFFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.314564"
+	},
+	{
+		"Longitude" : "-073.360890",
+		"Zipcode" : "01258",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "SOUTH EGREMONT",
+		"State" : "MA",
+		"Latitude" : "+42.128075"
+	},
+	{
+		"Longitude" : "-073.278543",
+		"Zipcode" : "01259",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "SOUTHFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.198712"
+	},
+	{
+		"Longitude" : "-073.313274",
+		"Zipcode" : "01260",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKSHIRE",
+		"City" : "SOUTH LEE",
+		"State" : "MA",
+		"Latitude" : "+42.286586"
+	},
+	{
+		"Longitude" : "-073.330001",
+		"Zipcode" : "01262",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BERKSHIRE",
+		"City" : "STOCKBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.304604"
+	},
+	{
+		"Longitude" : "-073.228483",
+		"Zipcode" : "01263",
+		"ZipClass" : "UNIQUE",
+		"County" : "BERKSHIRE",
+		"City" : "STOCKBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.392900"
+	},
+	{
+		"Longitude" : "-073.197865",
+		"Zipcode" : "01264",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "TYRINGHAM",
+		"State" : "MA",
+		"Latitude" : "+42.220001"
+	},
+	{
+		"Longitude" : "-073.265354",
+		"Zipcode" : "01266",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "WEST STOCKBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.360482"
+	},
+	{
+		"Longitude" : "-073.257699",
+		"Zipcode" : "01267",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "WILLIAMSTOWN",
+		"State" : "MA",
+		"Latitude" : "+42.642075"
+	},
+	{
+		"Longitude" : "-073.116127",
+		"Zipcode" : "01270",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "WINDSOR",
+		"State" : "MA",
+		"Latitude" : "+42.443726"
+	},
+	{
+		"Longitude" : "-072.623619",
+		"Zipcode" : "01301",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "GREENFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.601335"
+	},
+	{
+		"Longitude" : "-072.624164",
+		"Zipcode" : "01302",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "GREENFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.522178"
+	},
+	{
+		"Longitude" : "-072.738152",
+		"Zipcode" : "01330",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ASHFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.562391"
+	},
+	{
+		"Longitude" : "-072.183903",
+		"Zipcode" : "01331",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "ATHOL",
+		"State" : "MA",
+		"Latitude" : "+42.547302"
+	},
+	{
+		"Longitude" : "-072.642888",
+		"Zipcode" : "01337",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BERNARDSTON",
+		"State" : "MA",
+		"Latitude" : "+42.627060"
+	},
+	{
+		"Longitude" : "-072.769487",
+		"Zipcode" : "01338",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "BUCKLAND",
+		"State" : "MA",
+		"Latitude" : "+42.573832"
+	},
+	{
+		"Longitude" : "-072.665507",
+		"Zipcode" : "01339",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CHARLEMONT",
+		"State" : "MA",
+		"Latitude" : "+42.594252"
+	},
+	{
+		"Longitude" : "-072.822986",
+		"Zipcode" : "01340",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "COLRAIN",
+		"State" : "MA",
+		"Latitude" : "+42.681539"
+	},
+	{
+		"Longitude" : "-072.709760",
+		"Zipcode" : "01341",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "CONWAY",
+		"State" : "MA",
+		"Latitude" : "+42.590824"
+	},
+	{
+		"Longitude" : "-072.607679",
+		"Zipcode" : "01342",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "DEERFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.547230"
+	},
+	{
+		"Longitude" : "-072.986231",
+		"Zipcode" : "01343",
+		"ZipClass" : "STANDARD",
+		"County" : "BERKSHIRE",
+		"City" : "DRURY",
+		"State" : "MA",
+		"Latitude" : "+42.642666"
+	},
+	{
+		"Longitude" : "-072.553654",
+		"Zipcode" : "01344",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ERVING",
+		"State" : "MA",
+		"Latitude" : "+42.627072"
+	},
+	{
+		"Longitude" : "-072.788896",
+		"Zipcode" : "01346",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "HEATH",
+		"State" : "MA",
+		"Latitude" : "+42.618011"
+	},
+	{
+		"Longitude" : "-072.518104",
+		"Zipcode" : "01347",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "LAKE PLEASANT",
+		"State" : "MA",
+		"Latitude" : "+42.556558"
+	},
+	{
+		"Longitude" : "-072.705633",
+		"Zipcode" : "01349",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "TURNERS FALLS",
+		"State" : "MA",
+		"Latitude" : "+42.621412"
+	},
+	{
+		"Longitude" : "-072.976204",
+		"Zipcode" : "01350",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "FRANKLIN",
+		"City" : "MONROE BRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.721456"
+	},
+	{
+		"Longitude" : "-072.486930",
+		"Zipcode" : "01351",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "MONTAGUE",
+		"State" : "MA",
+		"Latitude" : "+42.548107"
+	},
+	{
+		"Longitude" : "-072.624164",
+		"Zipcode" : "01354",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "NORTHFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.522178"
+	},
+	{
+		"Longitude" : "-072.534371",
+		"Zipcode" : "01355",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "NEW SALEM",
+		"State" : "MA",
+		"Latitude" : "+42.518718"
+	},
+	{
+		"Longitude" : "-072.528209",
+		"Zipcode" : "01360",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "NORTHFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.614152"
+	},
+	{
+		"Longitude" : "-072.556589",
+		"Zipcode" : "01364",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ORANGE",
+		"State" : "MA",
+		"Latitude" : "+42.578325"
+	},
+	{
+		"Longitude" : "-072.182962",
+		"Zipcode" : "01366",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "PETERSHAM",
+		"State" : "MA",
+		"Latitude" : "+42.459632"
+	},
+	{
+		"Longitude" : "-072.715667",
+		"Zipcode" : "01367",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "ROWE",
+		"State" : "MA",
+		"Latitude" : "+42.683065"
+	},
+	{
+		"Longitude" : "-072.196376",
+		"Zipcode" : "01368",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "ROYALSTON",
+		"State" : "MA",
+		"Latitude" : "+42.672182"
+	},
+	{
+		"Longitude" : "-072.624164",
+		"Zipcode" : "01369",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SHATTUCKVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.522178"
+	},
+	{
+		"Longitude" : "-072.758781",
+		"Zipcode" : "01370",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SHELBURNE FALLS",
+		"State" : "MA",
+		"Latitude" : "+42.588812"
+	},
+	{
+		"Longitude" : "-072.682346",
+		"Zipcode" : "01373",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SOUTH DEERFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.464522"
+	},
+	{
+		"Longitude" : "-072.700940",
+		"Zipcode" : "01375",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "SUNDERLAND",
+		"State" : "MA",
+		"Latitude" : "+42.565346"
+	},
+	{
+		"Longitude" : "-072.718123",
+		"Zipcode" : "01376",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "TURNERS FALLS",
+		"State" : "MA",
+		"Latitude" : "+42.654878"
+	},
+	{
+		"Longitude" : "-072.339655",
+		"Zipcode" : "01378",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WARWICK",
+		"State" : "MA",
+		"Latitude" : "+42.667059"
+	},
+	{
+		"Longitude" : "-072.437179",
+		"Zipcode" : "01379",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WENDELL",
+		"State" : "MA",
+		"Latitude" : "+42.581007"
+	},
+	{
+		"Longitude" : "-072.392694",
+		"Zipcode" : "01380",
+		"ZipClass" : "STANDARD",
+		"County" : "FRANKLIN",
+		"City" : "WENDELL DEPOT",
+		"State" : "MA",
+		"Latitude" : "+42.553431"
+	},
+	{
+		"Longitude" : "-071.816767",
+		"Zipcode" : "01420",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "FITCHBURG",
+		"State" : "MA",
+		"Latitude" : "+42.583689"
+	},
+	{
+		"Longitude" : "-071.920942",
+		"Zipcode" : "01430",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "ASHBURNHAM",
+		"State" : "MA",
+		"Latitude" : "+42.654906"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01431",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ASHBY",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01432",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "AYER",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-072.083838",
+		"Zipcode" : "01436",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BALDWINVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.601427"
+	},
+	{
+		"Longitude" : "-072.029434",
+		"Zipcode" : "01438",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "EAST TEMPLETON",
+		"State" : "MA",
+		"Latitude" : "+42.551681"
+	},
+	{
+		"Longitude" : "-072.025884",
+		"Zipcode" : "01440",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "GARDNER",
+		"State" : "MA",
+		"Latitude" : "+42.582529"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01441",
+		"ZipClass" : "UNIQUE",
+		"County" : "WORCESTER",
+		"City" : "WESTMINSTER",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01450",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "GROTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.575864",
+		"Zipcode" : "01451",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "HARVARD",
+		"State" : "MA",
+		"Latitude" : "+42.500187"
+	},
+	{
+		"Longitude" : "-072.011516",
+		"Zipcode" : "01452",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "HUBBARDSTON",
+		"State" : "MA",
+		"Latitude" : "+42.483895"
+	},
+	{
+		"Longitude" : "-071.837509",
+		"Zipcode" : "01453",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "LEOMINSTER",
+		"State" : "MA",
+		"Latitude" : "+42.471316"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01460",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LITTLETON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.752266",
+		"Zipcode" : "01462",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "LUNENBURG",
+		"State" : "MA",
+		"Latitude" : "+42.583322"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01463",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "PEPPERELL",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01464",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SHIRLEY",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.613078",
+		"Zipcode" : "01467",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "STILL RIVER",
+		"State" : "MA",
+		"Latitude" : "+42.487056"
+	},
+	{
+		"Longitude" : "-072.072285",
+		"Zipcode" : "01468",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "TEMPLETON",
+		"State" : "MA",
+		"Latitude" : "+42.555059"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01469",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "TOWNSEND",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01470",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "GROTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01471",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "GROTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01472",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIDDLESEX",
+		"City" : "WEST GROTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.913219",
+		"Zipcode" : "01473",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WESTMINSTER",
+		"State" : "MA",
+		"Latitude" : "+42.549489"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01474",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WEST TOWNSEND",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-072.047876",
+		"Zipcode" : "01475",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WINCHENDON",
+		"State" : "MA",
+		"Latitude" : "+42.661612"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01477",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "WINCHENDON SPRINGS",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.947184",
+		"Zipcode" : "01501",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "AUBURN",
+		"State" : "MA",
+		"Latitude" : "+42.184835"
+	},
+	{
+		"Longitude" : "-071.841656",
+		"Zipcode" : "01503",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BERLIN",
+		"State" : "MA",
+		"Latitude" : "+42.312900"
+	},
+	{
+		"Longitude" : "-071.799785",
+		"Zipcode" : "01504",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BLACKSTONE",
+		"State" : "MA",
+		"Latitude" : "+42.114078"
+	},
+	{
+		"Longitude" : "-071.943458",
+		"Zipcode" : "01505",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BOYLSTON",
+		"State" : "MA",
+		"Latitude" : "+42.300037"
+	},
+	{
+		"Longitude" : "-072.105011",
+		"Zipcode" : "01506",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BROOKFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.191690"
+	},
+	{
+		"Longitude" : "-071.972627",
+		"Zipcode" : "01507",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "CHARLTON",
+		"State" : "MA",
+		"Latitude" : "+42.132770"
+	},
+	{
+		"Longitude" : "-072.079455",
+		"Zipcode" : "01508",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "CHARLTON CITY",
+		"State" : "MA",
+		"Latitude" : "+42.109748"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01509",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "CHARLTON DEPOT",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.687523",
+		"Zipcode" : "01510",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "CLINTON",
+		"State" : "MA",
+		"Latitude" : "+42.413972"
+	},
+	{
+		"Longitude" : "-072.049907",
+		"Zipcode" : "01515",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "EAST BROOKFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.205311"
+	},
+	{
+		"Longitude" : "-071.891139",
+		"Zipcode" : "01516",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "DOUGLAS",
+		"State" : "MA",
+		"Latitude" : "+42.113076"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01517",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "EAST PRINCETON",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-072.114045",
+		"Zipcode" : "01518",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "FISKDALE",
+		"State" : "MA",
+		"Latitude" : "+42.106405"
+	},
+	{
+		"Longitude" : "-071.682862",
+		"Zipcode" : "01519",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "GRAFTON",
+		"State" : "MA",
+		"Latitude" : "+42.203944"
+	},
+	{
+		"Longitude" : "-071.845316",
+		"Zipcode" : "01520",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "HOLDEN",
+		"State" : "MA",
+		"Latitude" : "+42.336791"
+	},
+	{
+		"Longitude" : "-072.163991",
+		"Zipcode" : "01521",
+		"ZipClass" : "STANDARD",
+		"County" : "HAMPDEN",
+		"City" : "HOLLAND",
+		"State" : "MA",
+		"Latitude" : "+42.061063"
+	},
+	{
+		"Longitude" : "-071.795442",
+		"Zipcode" : "01522",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "JEFFERSON",
+		"State" : "MA",
+		"Latitude" : "+42.264629"
+	},
+	{
+		"Longitude" : "-071.911770",
+		"Zipcode" : "01523",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "LANCASTER",
+		"State" : "MA",
+		"Latitude" : "+42.427188"
+	},
+	{
+		"Longitude" : "-072.012379",
+		"Zipcode" : "01524",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "LEICESTER",
+		"State" : "MA",
+		"Latitude" : "+42.238192"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01525",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "LINWOOD",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01526",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "MANCHAUG",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.819961",
+		"Zipcode" : "01527",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "MILLBURY",
+		"State" : "MA",
+		"Latitude" : "+42.255642"
+	},
+	{
+		"Longitude" : "-071.846943",
+		"Zipcode" : "01529",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "MILLVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.124662"
+	},
+	{
+		"Longitude" : "-072.128644",
+		"Zipcode" : "01531",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "NEW BRAINTREE",
+		"State" : "MA",
+		"Latitude" : "+42.320938"
+	},
+	{
+		"Longitude" : "-071.642820",
+		"Zipcode" : "01532",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "NORTHBOROUGH",
+		"State" : "MA",
+		"Latitude" : "+42.322118"
+	},
+	{
+		"Longitude" : "-071.856807",
+		"Zipcode" : "01534",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "NORTHBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.207191"
+	},
+	{
+		"Longitude" : "-072.089338",
+		"Zipcode" : "01535",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "NORTH BROOKFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.275382"
+	},
+	{
+		"Longitude" : "-071.860402",
+		"Zipcode" : "01536",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "NORTH GRAFTON",
+		"State" : "MA",
+		"Latitude" : "+42.407556"
+	},
+	{
+		"Longitude" : "-071.891052",
+		"Zipcode" : "01537",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "NORTH OXFORD",
+		"State" : "MA",
+		"Latitude" : "+42.166241"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01538",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "NORTH UXBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.855444",
+		"Zipcode" : "01540",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "OXFORD",
+		"State" : "MA",
+		"Latitude" : "+42.109223"
+	},
+	{
+		"Longitude" : "-071.880057",
+		"Zipcode" : "01541",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "PRINCETON",
+		"State" : "MA",
+		"Latitude" : "+42.451926"
+	},
+	{
+		"Longitude" : "-071.914361",
+		"Zipcode" : "01542",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "ROCHDALE",
+		"State" : "MA",
+		"Latitude" : "+42.220085"
+	},
+	{
+		"Longitude" : "-071.954630",
+		"Zipcode" : "01543",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "RUTLAND",
+		"State" : "MA",
+		"Latitude" : "+42.383516"
+	},
+	{
+		"Longitude" : "-071.715313",
+		"Zipcode" : "01545",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "SHREWSBURY",
+		"State" : "MA",
+		"Latitude" : "+42.286992"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01546",
+		"ZipClass" : "UNIQUE",
+		"County" : "WORCESTER",
+		"City" : "SHREWSBURY",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-072.031155",
+		"Zipcode" : "01550",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "SOUTHBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.129251"
+	},
+	{
+		"Longitude" : "-071.681912",
+		"Zipcode" : "01560",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "SOUTH GRAFTON",
+		"State" : "MA",
+		"Latitude" : "+42.176544"
+	},
+	{
+		"Longitude" : "-071.686137",
+		"Zipcode" : "01561",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "WORCESTER",
+		"City" : "SOUTH LANCASTER",
+		"State" : "MA",
+		"Latitude" : "+42.443539"
+	},
+	{
+		"Longitude" : "-072.065612",
+		"Zipcode" : "01562",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "SPENCER",
+		"State" : "MA",
+		"Latitude" : "+42.254837"
+	},
+	{
+		"Longitude" : "-071.939375",
+		"Zipcode" : "01564",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "STERLING",
+		"State" : "MA",
+		"Latitude" : "+42.366765"
+	},
+	{
+		"Longitude" : "-072.080996",
+		"Zipcode" : "01566",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "STURBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.102730"
+	},
+	{
+		"Longitude" : "-071.603197",
+		"Zipcode" : "01568",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "UPTON",
+		"State" : "MA",
+		"Latitude" : "+42.175591"
+	},
+	{
+		"Longitude" : "-071.638438",
+		"Zipcode" : "01569",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "UXBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.059736"
+	},
+	{
+		"Longitude" : "-071.994169",
+		"Zipcode" : "01570",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WEBSTER",
+		"State" : "MA",
+		"Latitude" : "+42.135100"
+	},
+	{
+		"Longitude" : "-071.937037",
+		"Zipcode" : "01571",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "DUDLEY",
+		"State" : "MA",
+		"Latitude" : "+42.059189"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01580",
+		"ZipClass" : "UNIQUE",
+		"County" : "WORCESTER",
+		"City" : "WESTBOROUGH",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.845865",
+		"Zipcode" : "01581",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WESTBOROUGH",
+		"State" : "MA",
+		"Latitude" : "+42.255222"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01582",
+		"ZipClass" : "UNIQUE",
+		"County" : "WORCESTER",
+		"City" : "WESTBOROUGH",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.781215",
+		"Zipcode" : "01583",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WEST BOYLSTON",
+		"State" : "MA",
+		"Latitude" : "+42.362783"
+	},
+	{
+		"Longitude" : "-072.172523",
+		"Zipcode" : "01585",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WEST BROOKFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.235638"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01586",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WEST MILLBURY",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.899484",
+		"Zipcode" : "01588",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WHITINSVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.166554"
+	},
+	{
+		"Longitude" : "-071.755193",
+		"Zipcode" : "01590",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "SUTTON",
+		"State" : "MA",
+		"Latitude" : "+42.126575"
+	},
+	{
+		"Longitude" : "-071.879415",
+		"Zipcode" : "01601",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.265275"
+	},
+	{
+		"Longitude" : "-071.846966",
+		"Zipcode" : "01602",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.274595"
+	},
+	{
+		"Longitude" : "-071.839257",
+		"Zipcode" : "01603",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.245442"
+	},
+	{
+		"Longitude" : "-071.766780",
+		"Zipcode" : "01604",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.247955"
+	},
+	{
+		"Longitude" : "-071.796128",
+		"Zipcode" : "01605",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.288792"
+	},
+	{
+		"Longitude" : "-071.794465",
+		"Zipcode" : "01606",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.311834"
+	},
+	{
+		"Longitude" : "-071.792506",
+		"Zipcode" : "01607",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.226452"
+	},
+	{
+		"Longitude" : "-071.925696",
+		"Zipcode" : "01608",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.293501"
+	},
+	{
+		"Longitude" : "-071.827685",
+		"Zipcode" : "01609",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.282565"
+	},
+	{
+		"Longitude" : "-071.808915",
+		"Zipcode" : "01610",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.246483"
+	},
+	{
+		"Longitude" : "-071.878716",
+		"Zipcode" : "01611",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "CHERRY VALLEY",
+		"State" : "MA",
+		"Latitude" : "+42.239392"
+	},
+	{
+		"Longitude" : "-071.892875",
+		"Zipcode" : "01612",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "PAXTON",
+		"State" : "MA",
+		"Latitude" : "+42.304675"
+	},
+	{
+		"Longitude" : "-071.801971",
+		"Zipcode" : "01613",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.293316"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01614",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01615",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01653",
+		"ZipClass" : "UNIQUE",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01654",
+		"ZipClass" : "UNIQUE",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.896868",
+		"Zipcode" : "01655",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "WORCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.364807"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01701",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "FRAMINGHAM",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01702",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "FRAMINGHAM",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01703",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "FRAMINGHAM",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01704",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "FRAMINGHAM",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01705",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "FRAMINGHAM",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01718",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "VILLAGE OF NAGOG WOODS",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01719",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "BOXBOROUGH",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01720",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ACTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01721",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ASHLAND",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01730",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "BEDFORD",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01731",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "HANSCOM AFB",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.605916",
+		"Zipcode" : "01740",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "BOLTON",
+		"State" : "MA",
+		"Latitude" : "+42.436043"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01741",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CARLISLE",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01742",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CONCORD",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.502762",
+		"Zipcode" : "01745",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "FAYVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.293442"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01746",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "HOLLISTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.533138",
+		"Zipcode" : "01747",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "HOPEDALE",
+		"State" : "MA",
+		"Latitude" : "+42.127515"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01748",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "HOPKINTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01749",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "HUDSON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01752",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MARLBOROUGH",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01754",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MAYNARD",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.546961",
+		"Zipcode" : "01756",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "MENDON",
+		"State" : "MA",
+		"Latitude" : "+42.100352"
+	},
+	{
+		"Longitude" : "-071.528085",
+		"Zipcode" : "01757",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "MILFORD",
+		"State" : "MA",
+		"Latitude" : "+42.147087"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01760",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NATICK",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01770",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SHERBORN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.533229",
+		"Zipcode" : "01772",
+		"ZipClass" : "STANDARD",
+		"County" : "WORCESTER",
+		"City" : "SOUTHBOROUGH",
+		"State" : "MA",
+		"Latitude" : "+42.296842"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01773",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LINCOLN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01775",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "STOW",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01776",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SUDBURY",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01778",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WAYLAND",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01784",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIDDLESEX",
+		"City" : "WOODVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.157271",
+		"Zipcode" : "01801",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WOBURN",
+		"State" : "MA",
+		"Latitude" : "+42.488595"
+	},
+	{
+		"Longitude" : "-071.201539",
+		"Zipcode" : "01803",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "BURLINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.504844"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01805",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "BURLINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01806",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "WOBURN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01807",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "WOBURN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01808",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "WOBURN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.165685",
+		"Zipcode" : "01810",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ANDOVER",
+		"State" : "MA",
+		"Latitude" : "+42.647991"
+	},
+	{
+		"Longitude" : "-071.184202",
+		"Zipcode" : "01812",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "ANDOVER",
+		"State" : "MA",
+		"Latitude" : "+42.647191"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01813",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "WOBURN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01815",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "WOBURN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01821",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "BILLERICA",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01822",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "BILLERICA",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01824",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CHELMSFORD",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01826",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "DRACUT",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01827",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "DUNSTABLE",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.072501",
+		"Zipcode" : "01830",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "HAVERHILL",
+		"State" : "MA",
+		"Latitude" : "+42.792639"
+	},
+	{
+		"Longitude" : "-071.122054",
+		"Zipcode" : "01831",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "HAVERHILL",
+		"State" : "MA",
+		"Latitude" : "+42.771095"
+	},
+	{
+		"Longitude" : "-071.126562",
+		"Zipcode" : "01832",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "HAVERHILL",
+		"State" : "MA",
+		"Latitude" : "+42.789627"
+	},
+	{
+		"Longitude" : "-070.981298",
+		"Zipcode" : "01833",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "GEORGETOWN",
+		"State" : "MA",
+		"Latitude" : "+42.723770"
+	},
+	{
+		"Longitude" : "-071.021437",
+		"Zipcode" : "01834",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "GROVELAND",
+		"State" : "MA",
+		"Latitude" : "+42.751074"
+	},
+	{
+		"Longitude" : "-071.084301",
+		"Zipcode" : "01835",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "HAVERHILL",
+		"State" : "MA",
+		"Latitude" : "+42.752844"
+	},
+	{
+		"Longitude" : "-071.161052",
+		"Zipcode" : "01840",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LAWRENCE",
+		"State" : "MA",
+		"Latitude" : "+42.707340"
+	},
+	{
+		"Longitude" : "-071.164402",
+		"Zipcode" : "01841",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LAWRENCE",
+		"State" : "MA",
+		"Latitude" : "+42.709790"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01842",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LAWRENCE",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-071.088303",
+		"Zipcode" : "01843",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LAWRENCE",
+		"State" : "MA",
+		"Latitude" : "+42.710370"
+	},
+	{
+		"Longitude" : "-071.186915",
+		"Zipcode" : "01844",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "METHUEN",
+		"State" : "MA",
+		"Latitude" : "+42.731840"
+	},
+	{
+		"Longitude" : "-071.087689",
+		"Zipcode" : "01845",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NORTH ANDOVER",
+		"State" : "MA",
+		"Latitude" : "+42.672835"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01850",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LOWELL",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01851",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LOWELL",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01852",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LOWELL",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01853",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LOWELL",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01854",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LOWELL",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.089600",
+		"Zipcode" : "01860",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "MERRIMAC",
+		"State" : "MA",
+		"Latitude" : "+42.802441"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01862",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NORTH BILLERICA",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01863",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NORTH CHELMSFORD",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.083725",
+		"Zipcode" : "01864",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NORTH READING",
+		"State" : "MA",
+		"Latitude" : "+42.581332"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01865",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIDDLESEX",
+		"City" : "NUTTING LAKE",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01866",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "MIDDLESEX",
+		"City" : "PINEHURST",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.107172",
+		"Zipcode" : "01867",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "READING",
+		"State" : "MA",
+		"Latitude" : "+42.537065"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01876",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "TEWKSBURY",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01879",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "TYNGSBORO",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.068829",
+		"Zipcode" : "01880",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WAKEFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.499891"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01885",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ESSEX",
+		"City" : "WEST BOXFORD",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01886",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WESTFORD",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.173888",
+		"Zipcode" : "01887",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WILMINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.561782"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "01888",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WOBURN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.109646",
+		"Zipcode" : "01889",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "NORTH READING",
+		"State" : "MA",
+		"Latitude" : "+42.571633"
+	},
+	{
+		"Longitude" : "-071.148779",
+		"Zipcode" : "01890",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WINCHESTER",
+		"State" : "MA",
+		"Latitude" : "+42.454545"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01899",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "ANDOVER",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-070.946743",
+		"Zipcode" : "01901",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LYNN",
+		"State" : "MA",
+		"Latitude" : "+42.461246"
+	},
+	{
+		"Longitude" : "-070.928593",
+		"Zipcode" : "01902",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LYNN",
+		"State" : "MA",
+		"Latitude" : "+42.473195"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01903",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LYNN",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-070.964694",
+		"Zipcode" : "01904",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LYNN",
+		"State" : "MA",
+		"Latitude" : "+42.488896"
+	},
+	{
+		"Longitude" : "-070.972844",
+		"Zipcode" : "01905",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LYNN",
+		"State" : "MA",
+		"Latitude" : "+42.469395"
+	},
+	{
+		"Longitude" : "-070.997794",
+		"Zipcode" : "01906",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "SAUGUS",
+		"State" : "MA",
+		"Latitude" : "+42.472112"
+	},
+	{
+		"Longitude" : "-070.905893",
+		"Zipcode" : "01907",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "SWAMPSCOTT",
+		"State" : "MA",
+		"Latitude" : "+42.513295"
+	},
+	{
+		"Longitude" : "-070.922442",
+		"Zipcode" : "01908",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NAHANT",
+		"State" : "MA",
+		"Latitude" : "+42.427296"
+	},
+	{
+		"Longitude" : "-070.974694",
+		"Zipcode" : "01910",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "LYNN",
+		"State" : "MA",
+		"Latitude" : "+42.454796"
+	},
+	{
+		"Longitude" : "-070.948211",
+		"Zipcode" : "01913",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "AMESBURY",
+		"State" : "MA",
+		"Latitude" : "+42.853539"
+	},
+	{
+		"Longitude" : "-070.853843",
+		"Zipcode" : "01915",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "BEVERLY",
+		"State" : "MA",
+		"Latitude" : "+42.565145"
+	},
+	{
+		"Longitude" : "-071.017403",
+		"Zipcode" : "01921",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "BOXFORD",
+		"State" : "MA",
+		"Latitude" : "+42.683256"
+	},
+	{
+		"Longitude" : "-070.928120",
+		"Zipcode" : "01922",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "BYFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.763216"
+	},
+	{
+		"Longitude" : "-070.949245",
+		"Zipcode" : "01923",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "DANVERS",
+		"State" : "MA",
+		"Latitude" : "+42.577188"
+	},
+	{
+		"Longitude" : "-070.780576",
+		"Zipcode" : "01929",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ESSEX",
+		"State" : "MA",
+		"Latitude" : "+42.627810"
+	},
+	{
+		"Longitude" : "-070.694179",
+		"Zipcode" : "01930",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "GLOUCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.630011"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01931",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "GLOUCESTER",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01936",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ESSEX",
+		"City" : "HAMILTON",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01937",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ESSEX",
+		"City" : "HATHORNE",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-070.864132",
+		"Zipcode" : "01938",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "IPSWICH",
+		"State" : "MA",
+		"Latitude" : "+42.685710"
+	},
+	{
+		"Longitude" : "-071.028775",
+		"Zipcode" : "01940",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "LYNNFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.533732"
+	},
+	{
+		"Longitude" : "-070.755062",
+		"Zipcode" : "01944",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "MANCHESTER",
+		"State" : "MA",
+		"Latitude" : "+42.579503"
+	},
+	{
+		"Longitude" : "-070.770768",
+		"Zipcode" : "01945",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "MARBLEHEAD",
+		"State" : "MA",
+		"Latitude" : "+42.561420"
+	},
+	{
+		"Longitude" : "-071.087905",
+		"Zipcode" : "01949",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "MIDDLETON",
+		"State" : "MA",
+		"Latitude" : "+42.644942"
+	},
+	{
+		"Longitude" : "-070.873196",
+		"Zipcode" : "01950",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWBURYPORT",
+		"State" : "MA",
+		"Latitude" : "+42.809650"
+	},
+	{
+		"Longitude" : "-070.867246",
+		"Zipcode" : "01951",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "NEWBURY",
+		"State" : "MA",
+		"Latitude" : "+42.777524"
+	},
+	{
+		"Longitude" : "-070.865667",
+		"Zipcode" : "01952",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "SALISBURY",
+		"State" : "MA",
+		"Latitude" : "+42.851234"
+	},
+	{
+		"Longitude" : "-070.973646",
+		"Zipcode" : "01960",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "PEABODY",
+		"State" : "MA",
+		"Latitude" : "+42.536996"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01961",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "PEABODY",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-070.825743",
+		"Zipcode" : "01965",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "ESSEX",
+		"City" : "PRIDES CROSSING",
+		"State" : "MA",
+		"Latitude" : "+42.558113"
+	},
+	{
+		"Longitude" : "-070.618057",
+		"Zipcode" : "01966",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ROCKPORT",
+		"State" : "MA",
+		"Latitude" : "+42.657866"
+	},
+	{
+		"Longitude" : "-070.892754",
+		"Zipcode" : "01969",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "ROWLEY",
+		"State" : "MA",
+		"Latitude" : "+42.716155"
+	},
+	{
+		"Longitude" : "-070.904237",
+		"Zipcode" : "01970",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "SALEM",
+		"State" : "MA",
+		"Latitude" : "+42.512946"
+	},
+	{
+		"Longitude" : "-070.879123",
+		"Zipcode" : "01971",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "SALEM",
+		"State" : "MA",
+		"Latitude" : "+42.635443"
+	},
+	{
+		"Longitude" : "-070.851125",
+		"Zipcode" : "01982",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "SOUTH HAMILTON",
+		"State" : "MA",
+		"Latitude" : "+42.626664"
+	},
+	{
+		"Longitude" : "-070.954487",
+		"Zipcode" : "01983",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "TOPSFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.661793"
+	},
+	{
+		"Longitude" : "-070.873200",
+		"Zipcode" : "01984",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "WENHAM",
+		"State" : "MA",
+		"Latitude" : "+42.597691"
+	},
+	{
+		"Longitude" : "-070.971068",
+		"Zipcode" : "01985",
+		"ZipClass" : "STANDARD",
+		"County" : "ESSEX",
+		"City" : "WEST NEWBURY",
+		"State" : "MA",
+		"Latitude" : "+42.794140"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02018",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "ACCORD",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-071.470464",
+		"Zipcode" : "02019",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "BELLINGHAM",
+		"State" : "MA",
+		"Latitude" : "+42.076501"
+	},
+	{
+		"Longitude" : "-070.643868",
+		"Zipcode" : "02020",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "BRANT ROCK",
+		"State" : "MA",
+		"Latitude" : "+42.081825"
+	},
+	{
+		"Longitude" : "-071.121185",
+		"Zipcode" : "02021",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "CANTON",
+		"State" : "MA",
+		"Latitude" : "+42.179146"
+	},
+	{
+		"Longitude" : "-070.815826",
+		"Zipcode" : "02025",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "COHASSET",
+		"State" : "MA",
+		"Latitude" : "+42.233938"
+	},
+	{
+		"Longitude" : "-071.181141",
+		"Zipcode" : "02026",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "DEDHAM",
+		"State" : "MA",
+		"Latitude" : "+42.244733"
+	},
+	{
+		"Longitude" : "-071.089230",
+		"Zipcode" : "02027",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "DEDHAM",
+		"State" : "MA",
+		"Latitude" : "+42.180048"
+	},
+	{
+		"Longitude" : "-071.283072",
+		"Zipcode" : "02030",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "DOVER",
+		"State" : "MA",
+		"Latitude" : "+42.236114"
+	},
+	{
+		"Longitude" : "-071.200894",
+		"Zipcode" : "02031",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "EAST MANSFIELD",
+		"State" : "MA",
+		"Latitude" : "+41.998799"
+	},
+	{
+		"Longitude" : "-071.214550",
+		"Zipcode" : "02032",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "EAST WALPOLE",
+		"State" : "MA",
+		"Latitude" : "+42.153786"
+	},
+	{
+		"Longitude" : "-071.235774",
+		"Zipcode" : "02035",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "FOXBORO",
+		"State" : "MA",
+		"Latitude" : "+42.062204"
+	},
+	{
+		"Longitude" : "-071.404814",
+		"Zipcode" : "02038",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "FRANKLIN",
+		"State" : "MA",
+		"Latitude" : "+42.088680"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02040",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "GREENBUSH",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.649075",
+		"Zipcode" : "02041",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "GREEN HARBOR",
+		"State" : "MA",
+		"Latitude" : "+42.069642"
+	},
+	{
+		"Longitude" : "-070.884989",
+		"Zipcode" : "02043",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "HINGHAM",
+		"State" : "MA",
+		"Latitude" : "+42.212105"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02044",
+		"ZipClass" : "UNIQUE",
+		"County" : "PLYMOUTH",
+		"City" : "HINGHAM",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.873659",
+		"Zipcode" : "02045",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "HULL",
+		"State" : "MA",
+		"Latitude" : "+42.284413"
+	},
+	{
+		"Longitude" : "-070.693530",
+		"Zipcode" : "02047",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "HUMAROCK",
+		"State" : "MA",
+		"Latitude" : "+42.142836"
+	},
+	{
+		"Longitude" : "-071.218373",
+		"Zipcode" : "02048",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "MANSFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.013182"
+	},
+	{
+		"Longitude" : "-070.710744",
+		"Zipcode" : "02050",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "MARSHFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.111805"
+	},
+	{
+		"Longitude" : "-070.734146",
+		"Zipcode" : "02051",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "MARSHFIELD HILLS",
+		"State" : "MA",
+		"Latitude" : "+42.151202"
+	},
+	{
+		"Longitude" : "-071.309934",
+		"Zipcode" : "02052",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "MEDFIELD",
+		"State" : "MA",
+		"Latitude" : "+42.181265"
+	},
+	{
+		"Longitude" : "-071.427663",
+		"Zipcode" : "02053",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "MEDWAY",
+		"State" : "MA",
+		"Latitude" : "+42.156282"
+	},
+	{
+		"Longitude" : "-071.361260",
+		"Zipcode" : "02054",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "MILLIS",
+		"State" : "MA",
+		"Latitude" : "+42.165249"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02055",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "MINOT",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-071.331793",
+		"Zipcode" : "02056",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "NORFOLK",
+		"State" : "MA",
+		"Latitude" : "+42.117511"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02059",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "NORTH MARSHFIELD",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02060",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "NORTH SCITUATE",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.823035",
+		"Zipcode" : "02061",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "NORWELL",
+		"State" : "MA",
+		"Latitude" : "+42.154145"
+	},
+	{
+		"Longitude" : "-071.196277",
+		"Zipcode" : "02062",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "NORWOOD",
+		"State" : "MA",
+		"Latitude" : "+42.182798"
+	},
+	{
+		"Longitude" : "-070.651567",
+		"Zipcode" : "02065",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "OCEAN BLUFF",
+		"State" : "MA",
+		"Latitude" : "+42.097219"
+	},
+	{
+		"Longitude" : "-070.770188",
+		"Zipcode" : "02066",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "SCITUATE",
+		"State" : "MA",
+		"Latitude" : "+42.207254"
+	},
+	{
+		"Longitude" : "-071.184785",
+		"Zipcode" : "02067",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "SHARON",
+		"State" : "MA",
+		"Latitude" : "+42.105288"
+	},
+	{
+		"Longitude" : "-071.089230",
+		"Zipcode" : "02070",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "NORFOLK",
+		"City" : "SHELDONVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.180048"
+	},
+	{
+		"Longitude" : "-071.270933",
+		"Zipcode" : "02071",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "SOUTH WALPOLE",
+		"State" : "MA",
+		"Latitude" : "+42.100399"
+	},
+	{
+		"Longitude" : "-071.105733",
+		"Zipcode" : "02072",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "STOUGHTON",
+		"State" : "MA",
+		"Latitude" : "+42.118416"
+	},
+	{
+		"Longitude" : "-071.255533",
+		"Zipcode" : "02081",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WALPOLE",
+		"State" : "MA",
+		"Latitude" : "+42.148624"
+	},
+	{
+		"Longitude" : "-071.199238",
+		"Zipcode" : "02090",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WESTWOOD",
+		"State" : "MA",
+		"Latitude" : "+42.220548"
+	},
+	{
+		"Longitude" : "-071.371169",
+		"Zipcode" : "02093",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WRENTHAM",
+		"State" : "MA",
+		"Latitude" : "+42.054311"
+	},
+	{
+		"Longitude" : "-071.026964",
+		"Zipcode" : "02101",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.370567"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02102",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02103",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02104",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02105",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.073449",
+		"Zipcode" : "02106",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.354318"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02107",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.102446",
+		"Zipcode" : "02108",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.353806"
+	},
+	{
+		"Longitude" : "-071.054495",
+		"Zipcode" : "02109",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.360027"
+	},
+	{
+		"Longitude" : "-071.051466",
+		"Zipcode" : "02110",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.352847"
+	},
+	{
+		"Longitude" : "-071.059365",
+		"Zipcode" : "02111",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.351047"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02112",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.055001",
+		"Zipcode" : "02113",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.365398"
+	},
+	{
+		"Longitude" : "-071.023661",
+		"Zipcode" : "02114",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.362097"
+	},
+	{
+		"Longitude" : "-071.096848",
+		"Zipcode" : "02115",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.342043"
+	},
+	{
+		"Longitude" : "-071.086095",
+		"Zipcode" : "02116",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.347207"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02117",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.072854",
+		"Zipcode" : "02118",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.336162"
+	},
+	{
+		"Longitude" : "-071.084608",
+		"Zipcode" : "02119",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.323077"
+	},
+	{
+		"Longitude" : "-071.096416",
+		"Zipcode" : "02120",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.332484"
+	},
+	{
+		"Longitude" : "-071.081645",
+		"Zipcode" : "02121",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.307098"
+	},
+	{
+		"Longitude" : "-071.055215",
+		"Zipcode" : "02122",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.296580"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02123",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.071045",
+		"Zipcode" : "02124",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.286784"
+	},
+	{
+		"Longitude" : "-071.067244",
+		"Zipcode" : "02125",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.314760"
+	},
+	{
+		"Longitude" : "-071.105195",
+		"Zipcode" : "02126",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "MATTAPAN",
+		"State" : "MA",
+		"Latitude" : "+42.301247"
+	},
+	{
+		"Longitude" : "-071.020343",
+		"Zipcode" : "02127",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.329023"
+	},
+	{
+		"Longitude" : "-071.025694",
+		"Zipcode" : "02128",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.364197"
+	},
+	{
+		"Longitude" : "-071.065287",
+		"Zipcode" : "02129",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "CHARLESTOWN",
+		"State" : "MA",
+		"Latitude" : "+42.382588"
+	},
+	{
+		"Longitude" : "-071.121097",
+		"Zipcode" : "02130",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "JAMAICA PLAIN",
+		"State" : "MA",
+		"Latitude" : "+42.309661"
+	},
+	{
+		"Longitude" : "-071.120896",
+		"Zipcode" : "02131",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "ROSLINDALE",
+		"State" : "MA",
+		"Latitude" : "+42.284197"
+	},
+	{
+		"Longitude" : "-071.155833",
+		"Zipcode" : "02132",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "WEST ROXBURY",
+		"State" : "MA",
+		"Latitude" : "+42.277897"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02133",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.112646",
+		"Zipcode" : "02134",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "ALLSTON",
+		"State" : "MA",
+		"Latitude" : "+42.357169"
+	},
+	{
+		"Longitude" : "-071.104888",
+		"Zipcode" : "02135",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BRIGHTON",
+		"State" : "MA",
+		"Latitude" : "+42.349768"
+	},
+	{
+		"Longitude" : "-071.129321",
+		"Zipcode" : "02136",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "HYDE PARK",
+		"State" : "MA",
+		"Latitude" : "+42.254248"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02137",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "READVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.132947",
+		"Zipcode" : "02138",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CAMBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.380442"
+	},
+	{
+		"Longitude" : "-071.101842",
+		"Zipcode" : "02139",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CAMBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.365146"
+	},
+	{
+		"Longitude" : "-071.133833",
+		"Zipcode" : "02140",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CAMBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.393246"
+	},
+	{
+		"Longitude" : "-071.083596",
+		"Zipcode" : "02141",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CAMBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.368673"
+	},
+	{
+		"Longitude" : "-071.084814",
+		"Zipcode" : "02142",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CAMBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.362840"
+	},
+	{
+		"Longitude" : "-071.098896",
+		"Zipcode" : "02143",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SOMERVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.380920"
+	},
+	{
+		"Longitude" : "-071.120220",
+		"Zipcode" : "02144",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SOMERVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.402696"
+	},
+	{
+		"Longitude" : "-071.095146",
+		"Zipcode" : "02145",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "SOMERVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.391046"
+	},
+	{
+		"Longitude" : "-071.085396",
+		"Zipcode" : "02148",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MALDEN",
+		"State" : "MA",
+		"Latitude" : "+42.436545"
+	},
+	{
+		"Longitude" : "-071.051183",
+		"Zipcode" : "02149",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "EVERETT",
+		"State" : "MA",
+		"Latitude" : "+42.407396"
+	},
+	{
+		"Longitude" : "-071.038894",
+		"Zipcode" : "02150",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "CHELSEA",
+		"State" : "MA",
+		"Latitude" : "+42.378197"
+	},
+	{
+		"Longitude" : "-071.020494",
+		"Zipcode" : "02151",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "REVERE",
+		"State" : "MA",
+		"Latitude" : "+42.366303"
+	},
+	{
+		"Longitude" : "-070.981679",
+		"Zipcode" : "02152",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "WINTHROP",
+		"State" : "MA",
+		"Latitude" : "+42.378447"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02153",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MEDFORD",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.109297",
+		"Zipcode" : "02155",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MEDFORD",
+		"State" : "MA",
+		"Latitude" : "+42.422095"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02156",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WEST MEDFORD",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.112159",
+		"Zipcode" : "02163",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.325320"
+	},
+	{
+		"Longitude" : "-071.006042",
+		"Zipcode" : "02169",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "QUINCY",
+		"State" : "MA",
+		"Latitude" : "+42.241799"
+	},
+	{
+		"Longitude" : "-071.016742",
+		"Zipcode" : "02170",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "QUINCY",
+		"State" : "MA",
+		"Latitude" : "+42.267248"
+	},
+	{
+		"Longitude" : "-071.014243",
+		"Zipcode" : "02171",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "QUINCY",
+		"State" : "MA",
+		"Latitude" : "+42.284898"
+	},
+	{
+		"Longitude" : "-071.053095",
+		"Zipcode" : "02176",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MELROSE",
+		"State" : "MA",
+		"Latitude" : "+42.458995"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02177",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "MELROSE",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.098146",
+		"Zipcode" : "02180",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "STONEHAM",
+		"State" : "MA",
+		"Latitude" : "+42.474595"
+	},
+	{
+		"Longitude" : "-071.005192",
+		"Zipcode" : "02184",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "BRAINTREE",
+		"State" : "MA",
+		"Latitude" : "+42.202216"
+	},
+	{
+		"Longitude" : "-071.089230",
+		"Zipcode" : "02185",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "BRAINTREE",
+		"State" : "MA",
+		"Latitude" : "+42.180048"
+	},
+	{
+		"Longitude" : "-071.078494",
+		"Zipcode" : "02186",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "MILTON",
+		"State" : "MA",
+		"Latitude" : "+42.240598"
+	},
+	{
+		"Longitude" : "-071.089230",
+		"Zipcode" : "02187",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "MILTON VILLAGE",
+		"State" : "MA",
+		"Latitude" : "+42.180048"
+	},
+	{
+		"Longitude" : "-070.955140",
+		"Zipcode" : "02188",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WEYMOUTH",
+		"State" : "MA",
+		"Latitude" : "+42.207940"
+	},
+	{
+		"Longitude" : "-070.932318",
+		"Zipcode" : "02189",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WEYMOUTH",
+		"State" : "MA",
+		"Latitude" : "+42.210649"
+	},
+	{
+		"Longitude" : "-070.950740",
+		"Zipcode" : "02190",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WEYMOUTH",
+		"State" : "MA",
+		"Latitude" : "+42.167841"
+	},
+	{
+		"Longitude" : "-070.944840",
+		"Zipcode" : "02191",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WEYMOUTH",
+		"State" : "MA",
+		"Latitude" : "+42.251499"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02196",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.082395",
+		"Zipcode" : "02199",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.347247"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02201",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.061814",
+		"Zipcode" : "02202",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.361094"
+	},
+	{
+		"Longitude" : "-071.060364",
+		"Zipcode" : "02203",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.361485"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02204",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.053877",
+		"Zipcode" : "02205",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.350334"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02206",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02207",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02208",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02209",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.040645",
+		"Zipcode" : "02210",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.347547"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02211",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02212",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.107653",
+		"Zipcode" : "02215",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.345079"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02216",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02217",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.063314",
+		"Zipcode" : "02222",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.364381"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "02228",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "EAST BOSTON",
+		"State" : "MA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02238",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CAMBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02239",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "CAMBRIDGE",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02241",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02266",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.089230",
+		"Zipcode" : "02269",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "QUINCY",
+		"State" : "MA",
+		"Latitude" : "+42.180048"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02283",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02284",
+		"ZipClass" : "STANDARD",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02293",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02295",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-070.919635",
+		"Zipcode" : "02297",
+		"ZipClass" : "UNIQUE",
+		"County" : "SUFFOLK",
+		"City" : "BOSTON",
+		"State" : "MA",
+		"Latitude" : "+42.338947"
+	},
+	{
+		"Longitude" : "-071.039990",
+		"Zipcode" : "02301",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "BROCKTON",
+		"State" : "MA",
+		"Latitude" : "+42.079399"
+	},
+	{
+		"Longitude" : "-071.000189",
+		"Zipcode" : "02302",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "BROCKTON",
+		"State" : "MA",
+		"Latitude" : "+42.084750"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02303",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "BROCKTON",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02304",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "BROCKTON",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02305",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "BROCKTON",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-071.048216",
+		"Zipcode" : "02322",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "AVON",
+		"State" : "MA",
+		"Latitude" : "+42.126049"
+	},
+	{
+		"Longitude" : "-070.976558",
+		"Zipcode" : "02324",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "BRIDGEWATER",
+		"State" : "MA",
+		"Latitude" : "+41.973741"
+	},
+	{
+		"Longitude" : "-070.972786",
+		"Zipcode" : "02325",
+		"ZipClass" : "UNIQUE",
+		"County" : "PLYMOUTH",
+		"City" : "BRIDGEWATER",
+		"State" : "MA",
+		"Latitude" : "+41.987250"
+	},
+	{
+		"Longitude" : "-070.827245",
+		"Zipcode" : "02327",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "BRYANTVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.040708"
+	},
+	{
+		"Longitude" : "-070.759689",
+		"Zipcode" : "02330",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "CARVER",
+		"State" : "MA",
+		"Latitude" : "+41.896238"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02331",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "DUXBURY",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.710808",
+		"Zipcode" : "02332",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "DUXBURY",
+		"State" : "MA",
+		"Latitude" : "+42.052985"
+	},
+	{
+		"Longitude" : "-070.931056",
+		"Zipcode" : "02333",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "EAST BRIDGEWATER",
+		"State" : "MA",
+		"Latitude" : "+42.022850"
+	},
+	{
+		"Longitude" : "-071.132397",
+		"Zipcode" : "02334",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRISTOL",
+		"City" : "EASTON",
+		"State" : "MA",
+		"Latitude" : "+42.023528"
+	},
+	{
+		"Longitude" : "-070.931588",
+		"Zipcode" : "02337",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "ELMWOOD",
+		"State" : "MA",
+		"Latitude" : "+42.022225"
+	},
+	{
+		"Longitude" : "-070.860578",
+		"Zipcode" : "02338",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "HALIFAX",
+		"State" : "MA",
+		"Latitude" : "+41.988351"
+	},
+	{
+		"Longitude" : "-070.851048",
+		"Zipcode" : "02339",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "HANOVER",
+		"State" : "MA",
+		"Latitude" : "+42.123534"
+	},
+	{
+		"Longitude" : "-070.851048",
+		"Zipcode" : "02340",
+		"ZipClass" : "UNIQUE",
+		"County" : "PLYMOUTH",
+		"City" : "HANOVER",
+		"State" : "MA",
+		"Latitude" : "+42.123534"
+	},
+	{
+		"Longitude" : "-070.875936",
+		"Zipcode" : "02341",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "HANSON",
+		"State" : "MA",
+		"Latitude" : "+42.055701"
+	},
+	{
+		"Longitude" : "-071.002890",
+		"Zipcode" : "02343",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "HOLBROOK",
+		"State" : "MA",
+		"Latitude" : "+42.144424"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02344",
+		"ZipClass" : "UNIQUE",
+		"County" : "PLYMOUTH",
+		"City" : "MIDDLEBORO",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.581029",
+		"Zipcode" : "02345",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "MANOMET",
+		"State" : "MA",
+		"Latitude" : "+41.888198"
+	},
+	{
+		"Longitude" : "-070.882035",
+		"Zipcode" : "02346",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "MIDDLEBORO",
+		"State" : "MA",
+		"Latitude" : "+41.915054"
+	},
+	{
+		"Longitude" : "-070.959981",
+		"Zipcode" : "02347",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "LAKEVILLE",
+		"State" : "MA",
+		"Latitude" : "+41.843757"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02348",
+		"ZipClass" : "UNIQUE",
+		"County" : "PLYMOUTH",
+		"City" : "MIDDLEBORO",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02349",
+		"ZipClass" : "UNIQUE",
+		"County" : "PLYMOUTH",
+		"City" : "MIDDLEBORO",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.847486",
+		"Zipcode" : "02350",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "MONPONSETT",
+		"State" : "MA",
+		"Latitude" : "+42.018525"
+	},
+	{
+		"Longitude" : "-070.959888",
+		"Zipcode" : "02351",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "ABINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.117490"
+	},
+	{
+		"Longitude" : "-070.801331",
+		"Zipcode" : "02355",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "NORTH CARVER",
+		"State" : "MA",
+		"Latitude" : "+41.916918"
+	},
+	{
+		"Longitude" : "-071.120330",
+		"Zipcode" : "02356",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NORTH EASTON",
+		"State" : "MA",
+		"Latitude" : "+42.053408"
+	},
+	{
+		"Longitude" : "-071.087091",
+		"Zipcode" : "02357",
+		"ZipClass" : "UNIQUE",
+		"County" : "BRISTOL",
+		"City" : "NORTH EASTON",
+		"State" : "MA",
+		"Latitude" : "+42.064499"
+	},
+	{
+		"Longitude" : "-070.713109",
+		"Zipcode" : "02358",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "NORTH PEMBROKE",
+		"State" : "MA",
+		"Latitude" : "+41.953510"
+	},
+	{
+		"Longitude" : "-070.800778",
+		"Zipcode" : "02359",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "PEMBROKE",
+		"State" : "MA",
+		"Latitude" : "+42.065702"
+	},
+	{
+		"Longitude" : "-070.638717",
+		"Zipcode" : "02360",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "PLYMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.886207"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02361",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "PLYMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.701357",
+		"Zipcode" : "02362",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "PLYMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.970474"
+	},
+	{
+		"Longitude" : "-070.744813",
+		"Zipcode" : "02364",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "KINGSTON",
+		"State" : "MA",
+		"Latitude" : "+41.979405"
+	},
+	{
+		"Longitude" : "-070.704431",
+		"Zipcode" : "02366",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "SOUTH CARVER",
+		"State" : "MA",
+		"Latitude" : "+41.850087"
+	},
+	{
+		"Longitude" : "-070.812299",
+		"Zipcode" : "02367",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "PLYMPTON",
+		"State" : "MA",
+		"Latitude" : "+41.969140"
+	},
+	{
+		"Longitude" : "-071.055602",
+		"Zipcode" : "02368",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "RANDOLPH",
+		"State" : "MA",
+		"Latitude" : "+42.171467"
+	},
+	{
+		"Longitude" : "-070.885095",
+		"Zipcode" : "02370",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "ROCKLAND",
+		"State" : "MA",
+		"Latitude" : "+41.954199"
+	},
+	{
+		"Longitude" : "-071.111091",
+		"Zipcode" : "02375",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "SOUTH EASTON",
+		"State" : "MA",
+		"Latitude" : "+42.023199"
+	},
+	{
+		"Longitude" : "-071.023588",
+		"Zipcode" : "02379",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "WEST BRIDGEWATER",
+		"State" : "MA",
+		"Latitude" : "+42.021650"
+	},
+	{
+		"Longitude" : "-070.561051",
+		"Zipcode" : "02381",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "WHITE HORSE BEACH",
+		"State" : "MA",
+		"Latitude" : "+41.931602"
+	},
+	{
+		"Longitude" : "-070.940837",
+		"Zipcode" : "02382",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "WHITMAN",
+		"State" : "MA",
+		"Latitude" : "+42.078500"
+	},
+	{
+		"Longitude" : "-071.216650",
+		"Zipcode" : "02420",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LEXINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.456310"
+	},
+	{
+		"Longitude" : "-071.226453",
+		"Zipcode" : "02421",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "LEXINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.442567"
+	},
+	{
+		"Longitude" : "-071.143697",
+		"Zipcode" : "02445",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "BROOKLINE",
+		"State" : "MA",
+		"Latitude" : "+42.318097"
+	},
+	{
+		"Longitude" : "-071.123046",
+		"Zipcode" : "02446",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "BROOKLINE",
+		"State" : "MA",
+		"Latitude" : "+42.343097"
+	},
+	{
+		"Longitude" : "-071.089230",
+		"Zipcode" : "02447",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "BROOKLINE VILLAGE",
+		"State" : "MA",
+		"Latitude" : "+42.180048"
+	},
+	{
+		"Longitude" : "-071.245050",
+		"Zipcode" : "02451",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WALTHAM",
+		"State" : "MA",
+		"Latitude" : "+42.398588"
+	},
+	{
+		"Longitude" : "-071.218049",
+		"Zipcode" : "02452",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WALTHAM",
+		"State" : "MA",
+		"Latitude" : "+42.394319"
+	},
+	{
+		"Longitude" : "-071.231650",
+		"Zipcode" : "02453",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WALTHAM",
+		"State" : "MA",
+		"Latitude" : "+42.365396"
+	},
+	{
+		"Longitude" : "-071.250479",
+		"Zipcode" : "02454",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WALTHAM",
+		"State" : "MA",
+		"Latitude" : "+42.356719"
+	},
+	{
+		"Longitude" : "",
+		"Zipcode" : "02455",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NORTH WALTHAM",
+		"State" : "MA",
+		"Latitude" : ""
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02456",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEW TOWN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.089230",
+		"Zipcode" : "02457",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "BABSON PARK",
+		"State" : "MA",
+		"Latitude" : "+42.180048"
+	},
+	{
+		"Longitude" : "-071.208399",
+		"Zipcode" : "02458",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEWTON",
+		"State" : "MA",
+		"Latitude" : "+42.385096"
+	},
+	{
+		"Longitude" : "-071.183298",
+		"Zipcode" : "02459",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEWTON CENTER",
+		"State" : "MA",
+		"Latitude" : "+42.334146"
+	},
+	{
+		"Longitude" : "-071.182371",
+		"Zipcode" : "02460",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEWTONVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.374296"
+	},
+	{
+		"Longitude" : "-071.205349",
+		"Zipcode" : "02461",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEWTON HIGHLANDS",
+		"State" : "MA",
+		"Latitude" : "+42.361196"
+	},
+	{
+		"Longitude" : "-071.209699",
+		"Zipcode" : "02462",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEWTON LOWER FALLS",
+		"State" : "MA",
+		"Latitude" : "+42.349496"
+	},
+	{
+		"Longitude" : "-071.221849",
+		"Zipcode" : "02464",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NEWTON UPPER FALLS",
+		"State" : "MA",
+		"Latitude" : "+42.365990"
+	},
+	{
+		"Longitude" : "-071.213199",
+		"Zipcode" : "02465",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WEST NEWTON",
+		"State" : "MA",
+		"Latitude" : "+42.378145"
+	},
+	{
+		"Longitude" : "-071.224957",
+		"Zipcode" : "02466",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "AUBURNDALE",
+		"State" : "MA",
+		"Latitude" : "+42.346696"
+	},
+	{
+		"Longitude" : "-071.211649",
+		"Zipcode" : "02467",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "CHESTNUT HILL",
+		"State" : "MA",
+		"Latitude" : "+42.357564"
+	},
+	{
+		"Longitude" : "-071.231534",
+		"Zipcode" : "02468",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WABAN",
+		"State" : "MA",
+		"Latitude" : "+42.327146"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02471",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WATERTOWN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.201398",
+		"Zipcode" : "02472",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WATERTOWN",
+		"State" : "MA",
+		"Latitude" : "+42.363096"
+	},
+	{
+		"Longitude" : "-071.159696",
+		"Zipcode" : "02474",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ARLINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.417595"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02475",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ARLINGTON HEIGHTS",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.184299",
+		"Zipcode" : "02476",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "ARLINGTON",
+		"State" : "MA",
+		"Latitude" : "+42.379146"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02477",
+		"ZipClass" : "UNIQUE",
+		"County" : "MIDDLESEX",
+		"City" : "WATERTOWN",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.204399",
+		"Zipcode" : "02478",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "BELMONT",
+		"State" : "MA",
+		"Latitude" : "+42.412795"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02479",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WAVERLEY",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-071.274652",
+		"Zipcode" : "02481",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WELLESLEY HILLS",
+		"State" : "MA",
+		"Latitude" : "+42.310597"
+	},
+	{
+		"Longitude" : "-071.299201",
+		"Zipcode" : "02482",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "WELLESLEY",
+		"State" : "MA",
+		"Latitude" : "+42.294546"
+	},
+	{
+		"Longitude" : "-071.250060",
+		"Zipcode" : "02492",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "NEEDHAM",
+		"State" : "MA",
+		"Latitude" : "+42.279797"
+	},
+	{
+		"Longitude" : "-071.227208",
+		"Zipcode" : "02493",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "WESTON",
+		"State" : "MA",
+		"Latitude" : "+42.375925"
+	},
+	{
+		"Longitude" : "-071.263150",
+		"Zipcode" : "02494",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "NEEDHAM HEIGHTS",
+		"State" : "MA",
+		"Latitude" : "+42.300147"
+	},
+	{
+		"Longitude" : "-071.459405",
+		"Zipcode" : "02495",
+		"ZipClass" : "STANDARD",
+		"County" : "MIDDLESEX",
+		"City" : "NONANTUM",
+		"State" : "MA",
+		"Latitude" : "+42.446396"
+	},
+	{
+		"Longitude" : "-070.590471",
+		"Zipcode" : "02532",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "BUZZARDS BAY",
+		"State" : "MA",
+		"Latitude" : "+41.745505"
+	},
+	{
+		"Longitude" : "-070.623370",
+		"Zipcode" : "02534",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "CATAUMET",
+		"State" : "MA",
+		"Latitude" : "+41.669373"
+	},
+	{
+		"Longitude" : "-070.673082",
+		"Zipcode" : "02535",
+		"ZipClass" : "STANDARD",
+		"County" : "DUKES",
+		"City" : "CHILMARK",
+		"State" : "MA",
+		"Latitude" : "+41.379034"
+	},
+	{
+		"Longitude" : "-070.562843",
+		"Zipcode" : "02536",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "EAST FALMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.662506"
+	},
+	{
+		"Longitude" : "-070.439975",
+		"Zipcode" : "02537",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "EAST SANDWICH",
+		"State" : "MA",
+		"Latitude" : "+41.728320"
+	},
+	{
+		"Longitude" : "-070.660562",
+		"Zipcode" : "02538",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "EAST WAREHAM",
+		"State" : "MA",
+		"Latitude" : "+41.775440"
+	},
+	{
+		"Longitude" : "-070.552054",
+		"Zipcode" : "02539",
+		"ZipClass" : "STANDARD",
+		"County" : "DUKES",
+		"City" : "EDGARTOWN",
+		"State" : "MA",
+		"Latitude" : "+41.401176"
+	},
+	{
+		"Longitude" : "-070.493263",
+		"Zipcode" : "02540",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "FALMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.614199"
+	},
+	{
+		"Longitude" : "-070.308662",
+		"Zipcode" : "02541",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "FALMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.799312"
+	},
+	{
+		"Longitude" : "-070.553727",
+		"Zipcode" : "02542",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "BUZZARDS BAY",
+		"State" : "MA",
+		"Latitude" : "+41.653080"
+	},
+	{
+		"Longitude" : "-070.646442",
+		"Zipcode" : "02543",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "WOODS HOLE",
+		"State" : "MA",
+		"Latitude" : "+41.593809"
+	},
+	{
+		"Longitude" : "-070.643092",
+		"Zipcode" : "02552",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DUKES",
+		"City" : "MENEMSHA",
+		"State" : "MA",
+		"Latitude" : "+41.379836"
+	},
+	{
+		"Longitude" : "-070.608047",
+		"Zipcode" : "02553",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "MONUMENT BEACH",
+		"State" : "MA",
+		"Latitude" : "+41.673360"
+	},
+	{
+		"Longitude" : "-070.086650",
+		"Zipcode" : "02554",
+		"ZipClass" : "STANDARD",
+		"County" : "NANTUCKET",
+		"City" : "NANTUCKET",
+		"State" : "MA",
+		"Latitude" : "+41.287647"
+	},
+	{
+		"Longitude" : "-070.375475",
+		"Zipcode" : "02556",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "NORTH FALMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.652967"
+	},
+	{
+		"Longitude" : "-070.560032",
+		"Zipcode" : "02557",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DUKES",
+		"City" : "OAK BLUFFS",
+		"State" : "MA",
+		"Latitude" : "+41.417376"
+	},
+	{
+		"Longitude" : "-070.658164",
+		"Zipcode" : "02558",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "PLYMOUTH",
+		"City" : "ONSET",
+		"State" : "MA",
+		"Latitude" : "+41.747560"
+	},
+	{
+		"Longitude" : "-070.622769",
+		"Zipcode" : "02559",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "POCASSET",
+		"State" : "MA",
+		"Latitude" : "+41.694771"
+	},
+	{
+		"Longitude" : "-070.533664",
+		"Zipcode" : "02561",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "SAGAMORE",
+		"State" : "MA",
+		"Latitude" : "+41.770254"
+	},
+	{
+		"Longitude" : "-070.519584",
+		"Zipcode" : "02562",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "SAGAMORE BEACH",
+		"State" : "MA",
+		"Latitude" : "+41.793263"
+	},
+	{
+		"Longitude" : "-070.477482",
+		"Zipcode" : "02563",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "SANDWICH",
+		"State" : "MA",
+		"Latitude" : "+41.711291"
+	},
+	{
+		"Longitude" : "-070.015545",
+		"Zipcode" : "02564",
+		"ZipClass" : "STANDARD",
+		"County" : "NANTUCKET",
+		"City" : "SIASCONSET",
+		"State" : "MA",
+		"Latitude" : "+41.273949"
+	},
+	{
+		"Longitude" : "-070.308662",
+		"Zipcode" : "02565",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "SILVER BEACH",
+		"State" : "MA",
+		"Latitude" : "+41.799312"
+	},
+	{
+		"Longitude" : "-070.595235",
+		"Zipcode" : "02568",
+		"ZipClass" : "STANDARD",
+		"County" : "DUKES",
+		"City" : "VINEYARD HAVEN",
+		"State" : "MA",
+		"Latitude" : "+41.415950"
+	},
+	{
+		"Longitude" : "-070.694662",
+		"Zipcode" : "02571",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "WAREHAM",
+		"State" : "MA",
+		"Latitude" : "+41.760216"
+	},
+	{
+		"Longitude" : "-070.643092",
+		"Zipcode" : "02573",
+		"ZipClass" : "STANDARD",
+		"County" : "DUKES",
+		"City" : "WEST CHOP",
+		"State" : "MA",
+		"Latitude" : "+41.379836"
+	},
+	{
+		"Longitude" : "-070.638189",
+		"Zipcode" : "02574",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "WEST FALMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.603946"
+	},
+	{
+		"Longitude" : "-070.642806",
+		"Zipcode" : "02575",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DUKES",
+		"City" : "WEST TISBURY",
+		"State" : "MA",
+		"Latitude" : "+41.421250"
+	},
+	{
+		"Longitude" : "-070.749688",
+		"Zipcode" : "02576",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "WEST WAREHAM",
+		"State" : "MA",
+		"Latitude" : "+41.769863"
+	},
+	{
+		"Longitude" : "-070.046019",
+		"Zipcode" : "02584",
+		"ZipClass" : "STANDARD",
+		"County" : "NANTUCKET",
+		"City" : "NANTUCKET",
+		"State" : "MA",
+		"Latitude" : "+41.277794"
+	},
+	{
+		"Longitude" : "-070.138834",
+		"Zipcode" : "02601",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "HYANNIS",
+		"State" : "MA",
+		"Latitude" : "+41.829813"
+	},
+	{
+		"Longitude" : "-070.301394",
+		"Zipcode" : "02630",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "BARNSTABLE",
+		"State" : "MA",
+		"Latitude" : "+41.697313"
+	},
+	{
+		"Longitude" : "-070.044462",
+		"Zipcode" : "02631",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "BREWSTER",
+		"State" : "MA",
+		"Latitude" : "+41.852997"
+	},
+	{
+		"Longitude" : "-070.175129",
+		"Zipcode" : "02632",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "CENTERVILLE",
+		"State" : "MA",
+		"Latitude" : "+41.796311"
+	},
+	{
+		"Longitude" : "-070.046800",
+		"Zipcode" : "02633",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "CHATHAM",
+		"State" : "MA",
+		"Latitude" : "+41.859559"
+	},
+	{
+		"Longitude" : "-070.308662",
+		"Zipcode" : "02634",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "CENTERVILLE",
+		"State" : "MA",
+		"Latitude" : "+41.799312"
+	},
+	{
+		"Longitude" : "-070.436380",
+		"Zipcode" : "02635",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "COTUIT",
+		"State" : "MA",
+		"Latitude" : "+41.624341"
+	},
+	{
+		"Longitude" : "-070.308662",
+		"Zipcode" : "02636",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "CENTERVILLE",
+		"State" : "MA",
+		"Latitude" : "+41.799312"
+	},
+	{
+		"Longitude" : "-070.277212",
+		"Zipcode" : "02637",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "CUMMAQUID",
+		"State" : "MA",
+		"Latitude" : "+41.701438"
+	},
+	{
+		"Longitude" : "-070.089142",
+		"Zipcode" : "02638",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "DENNIS",
+		"State" : "MA",
+		"Latitude" : "+41.725716"
+	},
+	{
+		"Longitude" : "-070.071836",
+		"Zipcode" : "02639",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "DENNIS PORT",
+		"State" : "MA",
+		"Latitude" : "+41.750745"
+	},
+	{
+		"Longitude" : "-070.204670",
+		"Zipcode" : "02641",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "EAST DENNIS",
+		"State" : "MA",
+		"Latitude" : "+41.734713"
+	},
+	{
+		"Longitude" : "-070.020648",
+		"Zipcode" : "02642",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "EASTHAM",
+		"State" : "MA",
+		"Latitude" : "+41.850612"
+	},
+	{
+		"Longitude" : "-069.962034",
+		"Zipcode" : "02643",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "EAST ORLEANS",
+		"State" : "MA",
+		"Latitude" : "+41.784308"
+	},
+	{
+		"Longitude" : "-070.268632",
+		"Zipcode" : "02644",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "FORESTDALE",
+		"State" : "MA",
+		"Latitude" : "+41.790031"
+	},
+	{
+		"Longitude" : "-070.043359",
+		"Zipcode" : "02645",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "HARWICH",
+		"State" : "MA",
+		"Latitude" : "+41.835582"
+	},
+	{
+		"Longitude" : "-070.053544",
+		"Zipcode" : "02646",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "HARWICH PORT",
+		"State" : "MA",
+		"Latitude" : "+41.845717"
+	},
+	{
+		"Longitude" : "-070.306336",
+		"Zipcode" : "02647",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "HYANNIS PORT",
+		"State" : "MA",
+		"Latitude" : "+41.635004"
+	},
+	{
+		"Longitude" : "-070.246666",
+		"Zipcode" : "02648",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "MARSTONS MILLS",
+		"State" : "MA",
+		"Latitude" : "+41.813034"
+	},
+	{
+		"Longitude" : "-070.253543",
+		"Zipcode" : "02649",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "MASHPEE",
+		"State" : "MA",
+		"Latitude" : "+41.788337"
+	},
+	{
+		"Longitude" : "-070.029065",
+		"Zipcode" : "02650",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "NORTH CHATHAM",
+		"State" : "MA",
+		"Latitude" : "+41.734970"
+	},
+	{
+		"Longitude" : "-069.981760",
+		"Zipcode" : "02651",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "NORTH EASTHAM",
+		"State" : "MA",
+		"Latitude" : "+41.824264"
+	},
+	{
+		"Longitude" : "-070.283584",
+		"Zipcode" : "02652",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "NORTH TRURO",
+		"State" : "MA",
+		"Latitude" : "+41.931061"
+	},
+	{
+		"Longitude" : "-070.015390",
+		"Zipcode" : "02653",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "ORLEANS",
+		"State" : "MA",
+		"Latitude" : "+41.852933"
+	},
+	{
+		"Longitude" : "-070.191269",
+		"Zipcode" : "02655",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "OSTERVILLE",
+		"State" : "MA",
+		"Latitude" : "+41.810178"
+	},
+	{
+		"Longitude" : "-070.091057",
+		"Zipcode" : "02657",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "PROVINCETOWN",
+		"State" : "MA",
+		"Latitude" : "+41.888775"
+	},
+	{
+		"Longitude" : "-070.030194",
+		"Zipcode" : "02659",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "SOUTH CHATHAM",
+		"State" : "MA",
+		"Latitude" : "+41.848932"
+	},
+	{
+		"Longitude" : "-070.089244",
+		"Zipcode" : "02660",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "SOUTH DENNIS",
+		"State" : "MA",
+		"Latitude" : "+41.800380"
+	},
+	{
+		"Longitude" : "-070.032858",
+		"Zipcode" : "02661",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "SOUTH HARWICH",
+		"State" : "MA",
+		"Latitude" : "+41.686205"
+	},
+	{
+		"Longitude" : "-069.984123",
+		"Zipcode" : "02662",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "SOUTH ORLEANS",
+		"State" : "MA",
+		"Latitude" : "+41.756694"
+	},
+	{
+		"Longitude" : "-070.076776",
+		"Zipcode" : "02663",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "SOUTH WELLFLEET",
+		"State" : "MA",
+		"Latitude" : "+41.800531"
+	},
+	{
+		"Longitude" : "-070.084259",
+		"Zipcode" : "02664",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "SOUTH YARMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.824120"
+	},
+	{
+		"Longitude" : "-070.047163",
+		"Zipcode" : "02666",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "TRURO",
+		"State" : "MA",
+		"Latitude" : "+41.987377"
+	},
+	{
+		"Longitude" : "-070.022806",
+		"Zipcode" : "02667",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "WELLFLEET",
+		"State" : "MA",
+		"Latitude" : "+41.821307"
+	},
+	{
+		"Longitude" : "-070.201719",
+		"Zipcode" : "02668",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "WEST BARNSTABLE",
+		"State" : "MA",
+		"Latitude" : "+41.790550"
+	},
+	{
+		"Longitude" : "-070.004937",
+		"Zipcode" : "02669",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "WEST CHATHAM",
+		"State" : "MA",
+		"Latitude" : "+41.698721"
+	},
+	{
+		"Longitude" : "-070.072195",
+		"Zipcode" : "02670",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "WEST DENNIS",
+		"State" : "MA",
+		"Latitude" : "+41.710855"
+	},
+	{
+		"Longitude" : "-070.038282",
+		"Zipcode" : "02671",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "WEST HARWICH",
+		"State" : "MA",
+		"Latitude" : "+41.846719"
+	},
+	{
+		"Longitude" : "-070.323307",
+		"Zipcode" : "02672",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BARNSTABLE",
+		"City" : "WEST HYANNISPORT",
+		"State" : "MA",
+		"Latitude" : "+41.635635"
+	},
+	{
+		"Longitude" : "-070.150512",
+		"Zipcode" : "02673",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "WEST YARMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.776105"
+	},
+	{
+		"Longitude" : "-070.135884",
+		"Zipcode" : "02675",
+		"ZipClass" : "STANDARD",
+		"County" : "BARNSTABLE",
+		"City" : "YARMOUTH PORT",
+		"State" : "MA",
+		"Latitude" : "+41.716271"
+	},
+	{
+		"Longitude" : "-071.017328",
+		"Zipcode" : "02702",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "ASSONET",
+		"State" : "MA",
+		"Latitude" : "+41.782993"
+	},
+	{
+		"Longitude" : "-071.302297",
+		"Zipcode" : "02703",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "ATTLEBORO",
+		"State" : "MA",
+		"Latitude" : "+41.938976"
+	},
+	{
+		"Longitude" : "-071.067062",
+		"Zipcode" : "02712",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRISTOL",
+		"City" : "CHARTLEY",
+		"State" : "MA",
+		"Latitude" : "+41.756214"
+	},
+	{
+		"Longitude" : "-070.931309",
+		"Zipcode" : "02713",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "DUKES",
+		"City" : "CUTTYHUNK",
+		"State" : "MA",
+		"Latitude" : "+41.421780"
+	},
+	{
+		"Longitude" : "-071.067062",
+		"Zipcode" : "02714",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "DARTMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.756214"
+	},
+	{
+		"Longitude" : "-071.151787",
+		"Zipcode" : "02715",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "DIGHTON",
+		"State" : "MA",
+		"Latitude" : "+41.817659"
+	},
+	{
+		"Longitude" : "-070.978947",
+		"Zipcode" : "02717",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "EAST FREETOWN",
+		"State" : "MA",
+		"Latitude" : "+41.747358"
+	},
+	{
+		"Longitude" : "-071.013148",
+		"Zipcode" : "02718",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "EAST TAUNTON",
+		"State" : "MA",
+		"Latitude" : "+41.871407"
+	},
+	{
+		"Longitude" : "-070.870045",
+		"Zipcode" : "02719",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "FAIRHAVEN",
+		"State" : "MA",
+		"Latitude" : "+41.631672"
+	},
+	{
+		"Longitude" : "-071.165971",
+		"Zipcode" : "02720",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "FALL RIVER",
+		"State" : "MA",
+		"Latitude" : "+41.819766"
+	},
+	{
+		"Longitude" : "-071.153648",
+		"Zipcode" : "02721",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "FALL RIVER",
+		"State" : "MA",
+		"Latitude" : "+41.678895"
+	},
+	{
+		"Longitude" : "-071.067062",
+		"Zipcode" : "02722",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "FALL RIVER",
+		"State" : "MA",
+		"Latitude" : "+41.756214"
+	},
+	{
+		"Longitude" : "-071.133088",
+		"Zipcode" : "02723",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "FALL RIVER",
+		"State" : "MA",
+		"Latitude" : "+41.693802"
+	},
+	{
+		"Longitude" : "-071.175139",
+		"Zipcode" : "02724",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "FALL RIVER",
+		"State" : "MA",
+		"Latitude" : "+41.684202"
+	},
+	{
+		"Longitude" : "-071.173989",
+		"Zipcode" : "02725",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "SOMERSET",
+		"State" : "MA",
+		"Latitude" : "+41.723851"
+	},
+	{
+		"Longitude" : "-071.153639",
+		"Zipcode" : "02726",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "SOMERSET",
+		"State" : "MA",
+		"Latitude" : "+41.757951"
+	},
+	{
+		"Longitude" : "-070.754015",
+		"Zipcode" : "02738",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "MARION",
+		"State" : "MA",
+		"Latitude" : "+41.736735"
+	},
+	{
+		"Longitude" : "-070.810856",
+		"Zipcode" : "02739",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "MATTAPOISETT",
+		"State" : "MA",
+		"Latitude" : "+41.664976"
+	},
+	{
+		"Longitude" : "-070.951045",
+		"Zipcode" : "02740",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NEW BEDFORD",
+		"State" : "MA",
+		"Latitude" : "+41.633416"
+	},
+	{
+		"Longitude" : "-071.067062",
+		"Zipcode" : "02741",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NEW BEDFORD",
+		"State" : "MA",
+		"Latitude" : "+41.756214"
+	},
+	{
+		"Longitude" : "-070.956346",
+		"Zipcode" : "02742",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NEW BEDFORD",
+		"State" : "MA",
+		"Latitude" : "+41.619557"
+	},
+	{
+		"Longitude" : "-070.908286",
+		"Zipcode" : "02743",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "ACUSHNET",
+		"State" : "MA",
+		"Latitude" : "+41.711894"
+	},
+	{
+		"Longitude" : "-070.916181",
+		"Zipcode" : "02744",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NEW BEDFORD",
+		"State" : "MA",
+		"Latitude" : "+41.609354"
+	},
+	{
+		"Longitude" : "-070.946883",
+		"Zipcode" : "02745",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NEW BEDFORD",
+		"State" : "MA",
+		"Latitude" : "+41.708700"
+	},
+	{
+		"Longitude" : "-070.943021",
+		"Zipcode" : "02746",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NEW BEDFORD",
+		"State" : "MA",
+		"Latitude" : "+41.665704"
+	},
+	{
+		"Longitude" : "-071.007578",
+		"Zipcode" : "02747",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NORTH DARTMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.639261"
+	},
+	{
+		"Longitude" : "-070.984253",
+		"Zipcode" : "02748",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "SOUTH DARTMOUTH",
+		"State" : "MA",
+		"Latitude" : "+41.566464"
+	},
+	{
+		"Longitude" : "-071.326448",
+		"Zipcode" : "02760",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NORTH ATTLEBORO",
+		"State" : "MA",
+		"Latitude" : "+41.964376"
+	},
+	{
+		"Longitude" : "-071.067062",
+		"Zipcode" : "02761",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NORTH ATTLEBORO",
+		"State" : "MA",
+		"Latitude" : "+41.756214"
+	},
+	{
+		"Longitude" : "-071.334399",
+		"Zipcode" : "02762",
+		"ZipClass" : "STANDARD",
+		"County" : "NORFOLK",
+		"City" : "PLAINVILLE",
+		"State" : "MA",
+		"Latitude" : "+42.013553"
+	},
+	{
+		"Longitude" : "-071.308229",
+		"Zipcode" : "02763",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "ATTLEBORO FALLS",
+		"State" : "MA",
+		"Latitude" : "+41.972584"
+	},
+	{
+		"Longitude" : "-071.155797",
+		"Zipcode" : "02764",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NORTH DIGHTON",
+		"State" : "MA",
+		"Latitude" : "+41.847791"
+	},
+	{
+		"Longitude" : "-071.180393",
+		"Zipcode" : "02766",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "NORTON",
+		"State" : "MA",
+		"Latitude" : "+41.959149"
+	},
+	{
+		"Longitude" : "-071.048941",
+		"Zipcode" : "02767",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "RAYNHAM",
+		"State" : "MA",
+		"Latitude" : "+41.936700"
+	},
+	{
+		"Longitude" : "-071.067062",
+		"Zipcode" : "02768",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRISTOL",
+		"City" : "RAYNHAM CENTER",
+		"State" : "MA",
+		"Latitude" : "+41.756214"
+	},
+	{
+		"Longitude" : "-071.243061",
+		"Zipcode" : "02769",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "REHOBOTH",
+		"State" : "MA",
+		"Latitude" : "+41.852989"
+	},
+	{
+		"Longitude" : "-070.846041",
+		"Zipcode" : "02770",
+		"ZipClass" : "STANDARD",
+		"County" : "PLYMOUTH",
+		"City" : "ROCHESTER",
+		"State" : "MA",
+		"Latitude" : "+41.751812"
+	},
+	{
+		"Longitude" : "-071.318995",
+		"Zipcode" : "02771",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "SEEKONK",
+		"State" : "MA",
+		"Latitude" : "+41.840103"
+	},
+	{
+		"Longitude" : "-071.234443",
+		"Zipcode" : "02777",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "SWANSEA",
+		"State" : "MA",
+		"Latitude" : "+41.766629"
+	},
+	{
+		"Longitude" : "-071.064135",
+		"Zipcode" : "02779",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "BERKLEY",
+		"State" : "MA",
+		"Latitude" : "+41.828249"
+	},
+	{
+		"Longitude" : "-071.092827",
+		"Zipcode" : "02780",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "TAUNTON",
+		"State" : "MA",
+		"Latitude" : "+41.858851"
+	},
+	{
+		"Longitude" : "-071.067062",
+		"Zipcode" : "02783",
+		"ZipClass" : "UNIQUE",
+		"County" : "BRISTOL",
+		"City" : "TAUNTON",
+		"State" : "MA",
+		"Latitude" : "+41.756214"
+	},
+	{
+		"Longitude" : "-071.079636",
+		"Zipcode" : "02790",
+		"ZipClass" : "STANDARD",
+		"County" : "BRISTOL",
+		"City" : "WESTPORT",
+		"State" : "MA",
+		"Latitude" : "+41.615470"
+	},
+	{
+		"Longitude" : "-071.085137",
+		"Zipcode" : "02791",
+		"ZipClass" : "PO BOX ONLY",
+		"County" : "BRISTOL",
+		"City" : "WESTPORT POINT",
+		"State" : "MA",
+		"Latitude" : "+41.519104"
+	},
+	{
+		"Longitude" : "-071.184202",
+		"Zipcode" : "05501",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "ANDOVER",
+		"State" : "MA",
+		"Latitude" : "+42.647191"
+	},
+	{
+		"Longitude" : "-071.184202",
+		"Zipcode" : "05544",
+		"ZipClass" : "UNIQUE",
+		"County" : "ESSEX",
+		"City" : "ANDOVER",
+		"State" : "MA",
+		"Latitude" : "+42.647191"
+	}
+]}
