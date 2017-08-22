@@ -1,6 +1,13 @@
 jQuery(document).ready(function($) {
 
   $("#dataTable").tablesorter();
+  // $("#dataTable").tablesorter({
+  //     headers: {
+  //         1: {
+  //             sorter: false
+  //         }
+  //     }
+  // });
 
   var map = L.map('mapid').setView([39.82, -98.58], 4);
   var token = 'pk.eyJ1IjoibWljaGFsc2VuIiwiYSI6ImNqNW1pbXBtdDJvdG0yd2pqbjgyb2lyaGwifQ.j6eFIwG1x2DxwhyLrTLyjg';

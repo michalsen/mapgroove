@@ -57,15 +57,15 @@ if ($cached_XML == false) {
    *  Let's build this bad boy
    *  Hey look, another foreach()
    */
-  $row = '<tr id="row_1">';
-  $row .= '<form id="searchForm">';
+  $headrow = '<tr id="row_1">';
+  $headrow .= '<form id="searchForm">';
   foreach ($sortOrder as $name) {
-      $row .= '<td>';
-        $row .= '<input type=text id="' . $name . '" class="filter_search" name="' . $name . '">';
-      $row .= '</td>';
+      $headrow .= '<td>';
+        $headrow .= '<input type=text id="' . $name . '" class="filter_search" name="' . $name . '">';
+      $headrow .= '</td>';
     }
-  $row .= '</tr>';
-  $row .= '</form>';
+  $headrow .= '</tr>';
+  $headrow .= '</form>';
 
   $i=2;
   $markers = [];
@@ -81,10 +81,14 @@ if ($cached_XML == false) {
         $row .= '<td>' . $detail . '</td>';
 
       }
-    $head .= '</thead>';
+
+    //$head .= '</thead>';
     $row .= '</tr>';
     $i++;
   }
+
+  $head = $head . $headrow;
+  $head .= '</thead>';
 
   print '<div class="hidden_markers">';
   print json_encode($markers, JSON_PRETTY_PRINT);
