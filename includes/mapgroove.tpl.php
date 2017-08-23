@@ -94,7 +94,7 @@ if ($cached_XML == false) {
   print json_encode($markers, JSON_PRETTY_PRINT);
   print '</div>';
 
-  print '<div id="mapid" style="width: 1200px; height: 400px;"></div>';
+  print '<div id="map" style="height: 400px;"></div>';
   print '<table id="dataTable" class="tablesorter">';
   print $head;
   print $row;

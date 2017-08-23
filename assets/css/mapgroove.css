@@ -18,29 +18,38 @@ label{
   margin:20px 10px 3px 3px;
 }
 
-#pagewrap {
-  width: 800px;
+/*#pagewrap {
+  width: 600px;
 }
-
-.left {
+*/
+/*.left {
  width: 160px;
   float: left;
+}*/
 
-}
-
-.middle {
+/*.middle {
   float: left;
 
-}
+}*/
 
 .right {
-/*  width: 100px;
+  width: 100px;
   padding: 5px 15px;
-  float: left;*/
+  float: left;
 }
 
-#mapid {
+/*#mapid {
   height: 180px;
+}*/
+
+#map {
+    display: none;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    border: solid 3px #654;
 }
 
 .ui-state-default {

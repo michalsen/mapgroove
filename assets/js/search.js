@@ -1,23 +1,24 @@
 jQuery(document).ready(function($) {
 
   $("#dataTable").tablesorter();
-  // $("#dataTable").tablesorter({
-  //     headers: {
-  //         1: {
-  //             sorter: false
-  //         }
-  //     }
-  // });
 
-  var map = L.map('mapid').setView([39.82, -98.58], 4);
+
+  var map = L.map('map');
+      // .fitWorld()
+      // .invalidateSize();
+      map.setView([39.82, -98.58], 4);
+
   var token = 'pk.eyJ1IjoibWljaGFsc2VuIiwiYSI6ImNqNW1pbXBtdDJvdG0yd2pqbjgyb2lyaGwifQ.j6eFIwG1x2DxwhyLrTLyjg';
   L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/{z}/{x}/{y}?access_token='+token, {
-      attribution: 'Map data by <a href="https://www.straightnorth.com">Straight North</a> w/Mapbox',
+      //attribution: 'Map data by <a href="https://www.straightnorth.com">Straight North</a> w/Mapbox',
       maxZoom: 18,
       id: 'examples.map-i875mjb7',
       accessToken: 'your.mapbox.access.token',
       zoomControl: false,
+      fadeAnimation: true,
   }).addTo(map);
+
+  //map.invalidateSize();
 
   var pinsFilter = new L.FeatureGroup();
   var allpins = new L.FeatureGroup();
@@ -25,14 +26,27 @@ jQuery(document).ready(function($) {
   map.dragging.disable();
   map.scrollWheelZoom.disable();
 
+
   var data = $(".hidden_markers").html();
   var markers = $.parseJSON(data);
+
+  var icon = L.divIcon({
+      iconSize: [20, 10],
+      iconAnchor: [0,0],
+      popupAnchor: [0, 0],
+      shadowSize: [0, 0],
+      className: 'hexagon'
+  })
+
 
 
   for (var i = 0; i < markers.length; i++) {
     if (markers[i]!=null) {
       var data = markers[i].split(',');
-      var marker = L.marker([data[0],data[1]]);
+      var marker = L.marker([data[0],data[1]], {
+          icon: icon,
+          //title: 'test',
+        });
       allpins.addLayer(marker);
     }
   }
@@ -51,6 +65,7 @@ jQuery(document).ready(function($) {
     var trueRow = row[1] - 2;
     window.location.replace('http://wp.dev/'+window.location.pathname+'?row='+trueRow);
   });
+
 
 
   // TABLE
@@ -147,7 +162,11 @@ function showRow(rowId) {
       document.getElementById(rowId).style.display = "table-row";
     if (document.getElementById(rowId).dataset.points) {
       var data = document.getElementById(rowId).dataset.points.split(',');
-      var setmarker = L.marker([data[0],data[1]]);
+      //var setmarker = L.marker([data[0],data[1]]);
+      var setmarker = L.marker([data[0],data[1]], {
+          icon: icon,
+          //title: 'test',
+        });
       pinsFilter.addLayer(setmarker);
       map.addLayer(pinsFilter);
     }
