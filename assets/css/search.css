@@ -3,7 +3,7 @@
 }
 
 .modifyme {
-    width: 800px !important;
+    width: 1200px !important;
 }
 
 #dataTable {
@@ -14,26 +14,42 @@
   position: relative;
   width: 20px;
   height: 11.55px;
-  background-color: #d75e4d;
+  background-color: #ff822e;
   margin: 5.77px 0;
+  box-shadow: 0 0 10px rgba(0,0,0,0.55);
 }
 
 .hexagon:before,
 .hexagon:after {
   content: "";
   position: absolute;
-  width: 0;
-  border-left: 10px solid transparent;
-  border-right: 10px solid transparent;
+  z-index: 1;
+  width: 14.14px;
+  height: 14.14px;
+  -webkit-transform: scaleY(0.5774) rotate(-45deg);
+  -ms-transform: scaleY(0.5774) rotate(-45deg);
+  transform: scaleY(0.5774) rotate(-45deg);
+  background-color: inherit;
+  left: 2.9289px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.55);
 }
 
 .hexagon:before {
-  bottom: 100%;
-  border-bottom: 5.77px solid #d75e4d;
+  top: -7.0711px;
 }
 
 .hexagon:after {
-  top: 100%;
-  width: 0;
-  border-top: 5.77px solid #d75e4d;
+  bottom: -7.0711px;
+}
+
+/*cover up extra shadows*/
+.hexagon span {
+  display: block;
+  position: absolute;
+  top:0px;
+  left: 0;
+  width:20px;
+  height:11.5470px;
+  z-index: 2;
+  background: inherit;
 }

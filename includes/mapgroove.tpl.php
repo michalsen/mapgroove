@@ -57,6 +57,7 @@ if ($cached_XML == false) {
    *  Let's build this bad boy
    *  Hey look, another foreach()
    */
+  $row = '';
   $headrow = '<tr id="row_1">';
   $headrow .= '<form id="searchForm">';
   foreach ($sortOrder as $name) {
