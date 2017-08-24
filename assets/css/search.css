@@ -3,11 +3,15 @@
 }
 
 .modifyme {
-    width: 1200px !important;
+    width: 800px !important;
 }
 
 #dataTable {
   border-collapse: collapse;
+}
+
+input {
+  width: 120px !important;
 }
 
 .hexagon {

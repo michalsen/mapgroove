@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
 
   var token = 'pk.eyJ1IjoibWljaGFsc2VuIiwiYSI6ImNqNW1pbXBtdDJvdG0yd2pqbjgyb2lyaGwifQ.j6eFIwG1x2DxwhyLrTLyjg';
   L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/{z}/{x}/{y}?access_token='+token, {
-      //attribution: 'Map data by <a href="https://www.straightnorth.com">Straight North</a> w/Mapbox',
+      attribution: 'Map data by <a href="https://www.straightnorth.com">Straight North</a> w/Mapbox',
       maxZoom: 18,
       id: 'examples.map-i875mjb7',
       accessToken: 'your.mapbox.access.token',

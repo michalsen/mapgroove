@@ -1,10 +1,10 @@
 #left {
-  width: 200px;
+  width: 300px;
   float: left;
 }
 
 #right {
-  margin-left: 200px;
+  margin-left: 300px;
 }
 
 .clear {
