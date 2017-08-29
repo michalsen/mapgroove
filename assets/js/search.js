@@ -4,14 +4,21 @@ jQuery(document).ready(function($) {
   var map = L.map('map');
       map.setView([39.82, -98.58], 4);
 
-  L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/{z}/{x}/{y}?access_token='+php_vars.mg_token, {
-      attribution: 'Map data by <a href="https://www.straightnorth.com">Straight North</a> w/Mapbox',
-      maxZoom: 18,
-      id: 'examples.map-i875mjb7',
-      accessToken: 'your.mapbox.access.token',
-      zoomControl: false,
-      fadeAnimation: true,
-  }).addTo(map);
+  // L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/{z}/{x}/{y}?access_token='+php_vars.mg_token, {
+  //     attribution: 'Map data by <a href="https://www.straightnorth.com">Straight North</a> w/Mapbox',
+  //     maxZoom: 18,
+  //     id: 'examples.map-i875mjb7',
+  //     accessToken: 'your.mapbox.access.token',
+  //     zoomControl: false,
+  //     fadeAnimation: true,
+  // }).addTo(map);
+
+    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        maxZoom: 18,
+        zoomControl: false,
+        attribution: 'Map data by <a href="https://www.straightnorth.com">Straight North</a'
+    }).addTo(map);
+
 
   //map.invalidateSize();
 

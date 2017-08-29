@@ -7,6 +7,7 @@ map the the xml elements to human names, and maps the data
 via city/state onto a map, along with a column searchable table.
 
 There is a required plugin because this plugin is developed
-for internal use.
+for internal use. If you need a more open version, please contact
+me.
 
 @michalsen for questions
