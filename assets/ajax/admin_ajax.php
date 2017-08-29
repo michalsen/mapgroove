@@ -3,25 +3,14 @@
 
 include_once($_SERVER['DOCUMENT_ROOT'] . '/wp-config.php');
 
+
 $return = '';
 if (count($_REQUEST) > 0) {
   foreach ($_REQUEST as $type => $item) {
-    if ($type == 'xml_url') {
+
+    if ($type == 'xml_url' || $type == 'api_key') {
       global $wpdb;
-
-
       $table_name = $wpdb->prefix . "mapgroove";
-
-      $wpdb->query(
-               "truncate $table_name"
-      );
-
-// #######
-
-
-// #######
-
-
       if ( $savedfile && ! isset( $savedfile['error'] ) ) {
           $return = "File is valid, and was successfully uploaded.\n";
           var_dump( $savedfile );
@@ -32,29 +21,34 @@ if (count($_REQUEST) > 0) {
            */
           $return = $savedfile['error'];
       }
-
-
-
-      $wpdb->insert($table_name, array(
+      $wpdb->update($table_name, array(
                                 'time' => date('Y-m-d H:m:s'),
-                                'xml_url' => $item
-                                ),array(
+                                $type => $item
+                                ),
+                                array('id' => 1),
+                                array(
                                 '%s',
-                                '%s')
-        );
+                                '%s'));
 
-      $xml = getXML();
-      $content = getContent($xml[0]->xml_url);
+      if ($type == 'xml_url') {
 
-      saveXML($content);
+        $xml = getXML();
+        print __LINE__ . ': getXML() :: ' . $xml[0]->xml_url . '<br>';
+
+        $content = getContent($xml[0]->xml_url);
+        //print_r($content);
+        saveXML($content);
+      }
+
       //set_transient( 'mapgroove_xml', $content, 60*60 );
-      $return = 'Path added.';
+      $return = '';
       //$return .= $content;
     }
+
   }
 }
  else {
-  $return = 'nope';
+  $return = $type;
 }
 
 echo $return;

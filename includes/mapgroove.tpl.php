@@ -9,7 +9,6 @@ if ($cached_XML == false) {
   saveXML($cached_XML);
 }
 
-
   $fieldMapping = $xml_load[0]->field_to_from;
   $fieldsmapped = json_decode($fieldMapping);
 

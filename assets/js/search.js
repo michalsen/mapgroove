@@ -1,15 +1,10 @@
 jQuery(document).ready(function($) {
-
   $("#dataTable").tablesorter();
 
-
   var map = L.map('map');
-      // .fitWorld()
-      // .invalidateSize();
       map.setView([39.82, -98.58], 4);
 
-  var token = 'pk.eyJ1IjoibWljaGFsc2VuIiwiYSI6ImNqNW1pbXBtdDJvdG0yd2pqbjgyb2lyaGwifQ.j6eFIwG1x2DxwhyLrTLyjg';
-  L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/{z}/{x}/{y}?access_token='+token, {
+  L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/{z}/{x}/{y}?access_token='+php_vars.mg_token, {
       attribution: 'Map data by <a href="https://www.straightnorth.com">Straight North</a> w/Mapbox',
       maxZoom: 18,
       id: 'examples.map-i875mjb7',
@@ -130,9 +125,6 @@ jQuery(document).ready(function($) {
               var content = $(cll).html();
               var clean = content.toLowerCase();
 
-              // Index of filter[f]
-              //    - all lowercase
-              //    - space "+" replaced with " "
               check = clean.indexOf(filters[f].toLowerCase().split('+').join(' '));
 
               resultArray.push(check);

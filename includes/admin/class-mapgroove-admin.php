@@ -24,6 +24,7 @@ class MapGroove_Admin {
         wp_enqueue_script('mapgrooveJS');
 
         add_action( 'wp_enqueue_scripts', 'mapgrooveJS' );
+
       }
     }
 
@@ -55,7 +56,7 @@ return new MapGroove_Admin();
 
 function getXML() {
   global $wpdb;
-  $sql = 'SELECT xml_url, field_to_from FROM ' . $wpdb->prefix . 'mapgroove ORDER BY TIME DESC LIMIT 1';
+  $sql = 'SELECT xml_url, api_key, field_to_from FROM ' . $wpdb->prefix . 'mapgroove ORDER BY TIME DESC LIMIT 1';
   $xml = $wpdb->get_results($sql);
   return $xml;
 }
@@ -63,19 +64,22 @@ function getXML() {
 
 
 function getFields($item) {
-  $rows = [];
-  $xml = json_decode(file_get_contents($item));
+  if (filter_var($item, FILTER_VALIDATE_URL) == TRUE) {
+    $rows = [];
+    $xml = json_decode(file_get_contents($item));
 
-  foreach ($xml as $key => $state) {
-    foreach ($state as $obj => $detail) {
-      if ($obj == 0) {
-        foreach ($detail as $row => $job) {
-          $rows[] = $row;
+    foreach ($xml as $key => $state) {
+      foreach ($state as $obj => $detail) {
+        if ($obj == 0) {
+          foreach ($detail as $row => $job) {
+            $rows[] = $row;
+          }
         }
       }
     }
+
+    return $rows;
   }
-  return $rows;
 }
 
 

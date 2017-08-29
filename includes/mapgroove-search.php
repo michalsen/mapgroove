@@ -17,7 +17,6 @@ function mapping_assets() {
     wp_enqueue_script('jquery');
     wp_enqueue_script('leafletscript',  plugins_url() . "/mapgroove/assets/js/leaflet.js" );
     wp_enqueue_script('tablesorterscript',  plugins_url() . "/mapgroove/assets/js/jquery.tablesorter.min.js" );
-    wp_enqueue_script('mappingscript',  plugins_url() . "/mapgroove/assets/js/mapping.js" );
     wp_enqueue_script('search',  plugins_url() . "/mapgroove/assets/js/search.js", '', '1.0', true);
 }
 

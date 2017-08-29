@@ -1,16 +1,17 @@
 <?php
 
 $get_XML = get_transient( 'mapgroove_xml' );
-
+//print_r($get_XML);
 
 $xml = getXML();
+//print_r($xml);
+
 
 if (strlen($xml[0]->xml_url) > 1) {
   $value = $xml[0]->xml_url;
   $fieldMapping = $xml[0]->field_to_from;
-
+  $mapAPIkey = $xml[0]->api_key;
   $fieldsmapped = json_decode($fieldMapping);
-
   $rows = getFields($value);
 
   for ($i=0; $i < 51; $i++) {
@@ -18,6 +19,7 @@ if (strlen($xml[0]->xml_url) > 1) {
   }
 
   $fieldRow = '<div id="fieldSets">';
+  if (count($rows) > 1) {
     foreach ($rows as $field) {
      if ($fieldsmapped) {
        foreach ($fieldsmapped as $fkey => $fvalue) {
@@ -30,11 +32,11 @@ if (strlen($xml[0]->xml_url) > 1) {
 
       $fields[] = $fieldValue;
 
-      $fieldRow .= '<div class="left">' . $field . ':</div>' .
-                   '<div class="right"><input type="text" value="' . $fieldValue . '" id="' . $field . '" class="fieldAdd"></div>';
+      $fieldRow .= '<div id="left">' . $field . ':</div>' .
+                   '<div id="right"><input type="text" value="' . $fieldValue . '" id="' . $field . '" class="fieldAdd"></div>';
       unset($fieldValue);
       $set = ' ';
-
+      }
     }
     $fieldRow .= '<button id="setbutton" value="Save">Save</button>';
   $fieldRow .= '</div>';
@@ -61,10 +63,10 @@ if (isset($mapAPIkey)) {
 
     <div id="xml_button">
       <input type="text" value="<?php print $value; ?>" id="url" size="60">
-      <button id="button" value="xml">XML URL</button><br>
+      <button id="url_button" value="xml">XML URL</button><br>
 
-      <input type="text" value="<?php print $apikey; ?>" id="mapapikey" size="60">
-      <button id="button" value="xml">API Key</button><br>
+      <input type="text" value="<?php print $apikey; ?>" id="api" size="60">
+      <button id="api_button" value="api">API Key</button><br>
 
 
     </div>

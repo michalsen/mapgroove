@@ -6,22 +6,6 @@ Description: Presenting Wordpress content since 1975.
 Version:     1
 Author: Eric L. Michalsen
 Author URI:
-Text Domain: wporg
-Domain Path: /languages
-License:     GPL2
-
-{Plugin Name} is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-any later version.
-
-{Plugin Name} is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with {Plugin Name}. If not, see {License URI}.
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -39,7 +23,16 @@ include_once( 'includes/mapgroove-search.php' );
 
 
 // Plugin install hook
-register_activation_hook( __FILE__, 'jal_install' );
+register_activation_hook( __FILE__, 'mapgroove_install' );
+register_deactivation_hook( __FILE__, 'mapgroove_remove' );
+
+$xml = getXML();
+wp_register_script( 'mapgroove_handle', plugins_url() . '/mapgroove/assets/js/mapgroove.js' );
+  $variable_array = array(
+    'mg_token' => __($xml[0]->api_key),
+  );
+wp_localize_script( 'mapgroove_handle', 'php_vars', $variable_array );
+wp_enqueue_script( 'mapgroove_handle' );
 
 
 // Assign shortcode to appropriate TPL file
@@ -63,7 +56,14 @@ add_shortcode('mapgroove', 'mapgroove_search');
 /**
  *  MapGroove DB Table
  */
-function jal_install () {
+function mapgroove_install () {
+
+    // Require SN Helper plugin
+    if ( ! is_plugin_active( 'sn_helper/sn_helper.php' ) and current_user_can( 'activate_plugins' ) ) {
+        wp_die('The <a href="https://github.com/michalsen/sn_helper" target=_blank>SN Helper Plugin</a> to be installed and active. <br><a href="' . admin_url( 'plugins.php' ) . '">&laquo; Return to Plugins</a>');
+    }
+
+
   global $wpdb;
   global $jal_db_version;
   $table_name = $wpdb->prefix . 'mapgroove';
@@ -72,10 +72,28 @@ function jal_install () {
             id mediumint(9) NOT NULL AUTO_INCREMENT,
             time datetime DEFAULT '0000-00-00 00:00:00' NOT NULL,
             xml_url varchar(255),
+            api_key varchar(255),
             field_to_from text NULL,
             PRIMARY KEY  (id)
           ) $charset_collate;";
   require_once( ABSPATH . 'wp-admin/includes/upgrade.php' );
   dbDelta( $sql );
   add_option( 'jal_db_version', $jal_db_version );
+
+  $wpdb->insert(
+  $table_name,
+  array(
+    'id' => 1,
+    'time' => current_time( 'mysql' ),
+    'xml_url' => 'External Job URL',
+    'api_key' => 'Mapping API KEY required',
+    )
+  );
+}
+
+function mapgroove_remove () {
+  global $wpdb;
+  $table_name = $wpdb->prefix . 'mapgroove';
+  $sql = "DROP TABLE IF EXISTS $table_name;";
+  $wpdb->query($sql);
 }
