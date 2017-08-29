@@ -6,8 +6,7 @@ Basically you enable, put in the url of an xml feed of data,
 map the the xml elements to human names, and maps the data
 via city/state onto a map, along with a column searchable table.
 
-There is some hardcoded goodies hidden in here specifically for
-the case-use, so if you use it, be aware, it may take some tweeking
-to get it to work for you.
+There is a required plugin because this plugin is developed
+for internal use.
 
 @michalsen for questions
