@@ -6,9 +6,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 class MapGroove_Admin {
 
   public function __construct() {
-    add_action('admin_init', array( $this, 'wp_mapgroove_admin_init'));
-    add_action('admin_init', array( $this, 'admin_scripts_style'));
-    add_action('admin_menu', array( $this, 'admin_menu'));
+    add_action('admin_init', array($this, 'wp_mapgroove_admin_init'));
+    add_action('admin_init', array($this, 'admin_scripts_style'));
+    add_action('admin_menu', array($this, 'admin_menu'));
   }
 
   public function admin_scripts_style() {
