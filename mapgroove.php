@@ -18,14 +18,17 @@ if(admin){
   include_once( 'includes/admin/class-mapgroove-admin.php' );
 }
 
+
 // Include the rest of the functions
 include_once( 'includes/mapgroove-search.php' );
 
 
-// Plugin install hook
+// Plugin install hooks
 register_activation_hook( __FILE__, 'mapgroove_install' );
 register_deactivation_hook( __FILE__, 'mapgroove_remove' );
 
+
+// Assign the map API Key to a js object for Leaflet
 $xml = getXML();
 wp_register_script( 'mapgroove_handle', plugins_url() . '/mapgroove/assets/js/mapgroove.js' );
   $variable_array = array(
@@ -35,9 +38,10 @@ wp_localize_script( 'mapgroove_handle', 'php_vars', $variable_array );
 wp_enqueue_script( 'mapgroove_handle' );
 
 
+
 // Assign shortcode to appropriate TPL file
 function mapgroove_search(){
-  // If table row is called
+  // If table row is clicked, show detail
   if (isset($_REQUEST['row'])) {
     include( 'includes/mapgroove_detail.tpl.php' );
   }
@@ -47,6 +51,7 @@ function mapgroove_search(){
     return $form;
   }
 }
+
 
 // Define shortcode
 add_shortcode('mapgroove', 'mapgroove_search');
