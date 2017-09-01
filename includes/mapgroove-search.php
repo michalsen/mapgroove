@@ -14,10 +14,10 @@ function mapping_assets() {
     wp_enqueue_style('leafletCSS', plugins_url() . "/mapgroove/assets/css/leaflet.css" );
     wp_enqueue_style('leafletCSS');
 
-    wp_enqueue_script('jquery');
-    wp_enqueue_script('leafletscript',  plugins_url() . "/mapgroove/assets/js/leaflet.js" );
-    wp_enqueue_script('tablesorterscript',  plugins_url() . "/mapgroove/assets/js/jquery.tablesorter.min.js" );
-    wp_enqueue_script('search',  plugins_url() . "/mapgroove/assets/js/search.js", '', '1.0', true);
+//    wp_enqueue_script('jquery');
+//    wp_enqueue_script('leafletscript',  plugins_url() . "/mapgroove/assets/js/leaflet.js" );
+//    wp_enqueue_script('tablesorterscript',  plugins_url() . "/mapgroove/assets/js/jquery.tablesorter.min.js" );
+//    wp_enqueue_script('search',  plugins_url() . "/mapgroove/assets/js/search.js", '', '1.0', true);
 }
 
 

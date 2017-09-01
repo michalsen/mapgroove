@@ -14,13 +14,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 
 // If admin include admin functions
-if(admin){
+if('admin'){
   include_once( 'includes/admin/class-mapgroove-admin.php' );
 }
 
 
 // Include the rest of the functions
-include_once( 'includes/mapgroove-search.php' );
+include( 'includes/mapgroove-search.php' );
 
 
 // Plugin install hooks
@@ -30,11 +30,13 @@ register_deactivation_hook( __FILE__, 'mapgroove_remove' );
 
 // Assign the map API Key to a js object for Leaflet
 $xml = getXML();
-wp_register_script( 'mapgroove_handle', plugins_url() . '/mapgroove/assets/js/mapgroove.js' );
+//wp_register_script( 'mapgroove_handle', plugins_url() . '/mapgroove/assets/js/mapgroove.js' );
   $variable_array = array(
     'mg_token' => __($xml[0]->api_key),
   );
+
 wp_localize_script( 'mapgroove_handle', 'php_vars', $variable_array );
+wp_enqueue_script('jquery');
 wp_enqueue_script( 'mapgroove_handle' );
 
 
@@ -47,7 +49,12 @@ function mapgroove_search(){
   }
    else {
     // Else show map and table
-    include( 'includes/mapgroove.tpl.php' );
+
+       wp_enqueue_script('leafletscript',  plugins_url() . "/mapgroove/assets/js/leaflet.js" );
+       wp_enqueue_script('tablesorterscript',  plugins_url() . "/mapgroove/assets/js/jquery.tablesorter.min.js" );
+       wp_enqueue_script('search',  plugins_url() . "/mapgroove/assets/js/search.js", '', '1.0', true);
+
+       include( 'includes/mapgroove.tpl.php' );
     return $form;
   }
 }
