@@ -47,7 +47,6 @@ jQuery(document).ready(function($) {
       var data = markers[i].split(',');
       var marker = L.marker([data[0],data[1]], {
           icon: icon,
-          //title: 'test',
         });
       allpins.addLayer(marker);
     }
