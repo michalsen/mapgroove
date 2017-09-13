@@ -64,7 +64,7 @@ jQuery(document).ready(function($) {
     var Id = jQuery(this).attr("id");
     var row = Id.split('_');
     var trueRow = row[1] - 2;
-    window.location.replace('http://wp.dev/'+window.location.pathname+'?row='+trueRow);
+    window.location.replace(window.location.hostname+window.location.pathname+'?row='+trueRow);
   });
 
 
