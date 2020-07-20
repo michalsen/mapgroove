@@ -16,7 +16,7 @@ function mapgroove_enqueue_script() {
 	wp_enqueue_script( 'leaflet.js' );
 	wp_enqueue_script( 'mapgrooveJS', plugins_url() . "/mapgroove/assets/js/mapgroove.js" );
 	wp_enqueue_script( 'mapgrooveJS' );
-}```
+}
 
 function geolocate() -> function address_geocode(() (google API geolocate)
 
