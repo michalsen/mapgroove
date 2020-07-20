@@ -13,19 +13,20 @@ class MapGroove_Admin {
 
   public function admin_scripts_style() {
     if (isset($_REQUEST['page'])) {
-      if ($_REQUEST['page'] == "mapgroove") {
+//      if ($_REQUEST['page'] == "mapgroove") {
 
-        wp_enqueue_style('mapgrooveCSS', plugins_url() . "/mapgroove/assets/css/mapgroove.css" );
-        wp_enqueue_style('mapgrooveCSS');
+//        wp_enqueue_style('mapgrooveCSS', plugins_url() . "/mapgroove/assets/css/mapgroove.css" );
+//        wp_enqueue_style('mapgrooveCSS');
+//
+//        wp_enqueue_script('jquery');
+//        wp_enqueue_script( 'jquery-ui-sortable' );
+//	    wp_enqueue_script('leaflet.js', 'http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js' ,false);
+//        wp_enqueue_script('mapgrooveJS',  plugins_url() . "/mapgroove/assets/js/mapgroove.js" );
+//        wp_enqueue_script('mapgrooveJS');
+//
+//        add_action( 'wp_enqueue_scripts', 'mapgrooveJS' );
 
-        wp_enqueue_script('jquery');
-        wp_enqueue_script( 'jquery-ui-sortable' );
-        wp_enqueue_script('mapgrooveJS',  plugins_url() . "/mapgroove/assets/js/mapgroove.js" );
-        wp_enqueue_script('mapgrooveJS');
-
-        add_action( 'wp_enqueue_scripts', 'mapgrooveJS' );
-
-      }
+//      }
     }
 
   }
@@ -56,7 +57,7 @@ return new MapGroove_Admin();
 
 function getXML() {
   global $wpdb;
-  $sql = 'SELECT xml_url, api_key, field_to_from FROM ' . $wpdb->prefix . 'mapgroove ORDER BY TIME DESC LIMIT 1';
+  $sql = 'SELECT api_key FROM ' . $wpdb->prefix . 'mapgroove ORDER BY TIME DESC LIMIT 1';
   $xml = $wpdb->get_results($sql);
   return $xml;
 }

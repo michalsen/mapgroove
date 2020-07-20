@@ -1,11 +1,8 @@
 <?php
 
+
 $get_XML = get_transient( 'mapgroove_xml' );
-//print_r($get_XML);
-
 $xml = getXML();
-//print_r($xml);
-
 
 if (strlen($xml[0]->xml_url) > 1) {
   $value = $xml[0]->xml_url;
@@ -52,6 +49,8 @@ if (isset($mapAPIkey)) {
   $apikey = '';
  }
 
+// print '<pre>';
+// print_r($xml[0]->api_key);
 
 ?>
 
@@ -62,27 +61,13 @@ if (isset($mapAPIkey)) {
        <div class="panel-body">
 
     <div id="xml_button">
-      <input type="text" value="<?php print $value; ?>" id="url" size="60">
-      <button id="url_button" value="xml">XML URL</button><br>
+<!--      <input type="text" value="--><?php //print $value; ?><!--" id="url" size="60">-->
+<!--      <button id="url_button" value="xml">XML URL</button><br>-->
 
-      <input type="text" value="<?php print $apikey; ?>" id="api" size="60">
+      <input type="text" value="<?php print $xml[0]->api_key; ?>" id="api" size="60">
       <button id="api_button" value="api">API Key</button><br>
 
 
-    </div>
-
-
-    <div id="right">
-      <h3>Search XML Mapping</h3>
-      <div class="content_result">
-        <div id="pagewrap">
-          <?php
-            print $fieldRow;
-          ?>
-        </div>
-        <div class="datamapping">
-        </div>
-      </div>
     </div>
 
 
