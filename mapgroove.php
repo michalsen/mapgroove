@@ -26,16 +26,16 @@ $variable_array = array(
 );
 
 function mapgroove_enqueue_style() {
-	wp_enqueue_style( 'leafletCSS', "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" );
-	wp_enqueue_style( 'leafletCSS' );
-	wp_enqueue_style( 'mapgrooveCSS', plugins_url() . "/mapgroove/assets/css/mapgroove.css" );
-	wp_enqueue_style( 'mapgrooveCSS' );
+    wp_enqueue_style( 'leafletCSS', plugins_url() . "/mapgroove/assets/css/leaflet.css" );
+    wp_enqueue_style( 'leafletCSS' );
+    wp_enqueue_style( 'mapgrooveCSS', plugins_url() . "/mapgroove/assets/css/mapgroove.css" );
+    wp_enqueue_style( 'mapgrooveCSS' );
 }
 
 function mapgroove_enqueue_script() {
 	wp_enqueue_script( 'jquery' );
 	wp_enqueue_script( 'jquery-ui-sortable' );
-	wp_enqueue_script( 'leaflet.js', 'https://unpkg.com/leaflet@1.6.0/dist/leaflet.js', false );
+	wp_enqueue_script( 'leaflet.js', plugins_url() . "/mapgroove/assets/js/leaflet.js", false );
 	wp_enqueue_script( 'leaflet.js' );
 	wp_enqueue_script( 'mapgrooveJS', plugins_url() . "/mapgroove/assets/js/mapgroove.js" );
 	wp_enqueue_script( 'mapgrooveJS' );
@@ -43,53 +43,6 @@ function mapgroove_enqueue_script() {
 
 add_action( 'wp_enqueue_scripts', 'mapgroove_enqueue_style' );
 add_action( 'wp_enqueue_scripts', 'mapgroove_enqueue_script' );
-
-
-/*
- * *
- * * MAP FILTER SHORTCODE
- * * ./templates/filter.tpl.php
- */
-
-add_shortcode('map_search', 'map_search_form');
-
-function map_search_form() {
-	return filter_get_template( 'filter.tpl.php' );
-
-}
-
-function filter_get_template( $template_name, $args = array(), $tempate_path = '', $default_path = '' ) {
-	if ( is_array( $args ) && isset( $args ) ) :
-		extract( $args );
-	endif;
-	$template_file = filter_locate_template( $template_name, $tempate_path, $default_path );
-	if ( ! file_exists( $template_file ) ) :
-		_doing_it_wrong( __FUNCTION__, sprintf( '<code>%s</code> does not exist.', $template_file ), '1.0.0' );
-		return;
-	endif;
-	include $template_file;
-}
-function filter_locate_template( $template_name, $template_path = '', $default_path = '' ) {
-	if ( ! $template_path ) :
-		$template_path = 'templates/';
-	endif;
-	if ( ! $default_path ) :
-		$default_path = plugin_dir_path( __FILE__ ) . 'templates/'; // Path to the template folder
-	endif;
-	$template = locate_template( array(
-		$template_path . $template_name,
-		$template_name
-	) );
-	if ( ! $template ) :
-		$template = $default_path . $template_name;
-	endif;
-	return apply_filters( 'filter_locate_template', $template, $template_name, $template_path, $default_path );
-}
-/*
- * *
- * *
- * *
- */
 
 
 // Plugin install hooks
@@ -100,47 +53,20 @@ function filterMap($listings) {
 	// $data = file_get_contents('/wp-content/plugins/mapgroove/listings.php');
 	exit;
 }
+
 add_action('wp_ajax_folder_contents', 'filterMap');
 add_action('wp_ajax_nopriv_folder_contents', 'filterMap');
-
-
-function getMarkers() {
-	$args = array(
-		'posts_per_page'   => -1,
-		'post_type'        => 'post',
-	);
-	$the_query = new WP_Query( $args );
-
-	$address = [];
-	foreach ($the_query->posts as $key => $post) {
-		$meta = get_post_meta($post->ID);
-
-		$address[$post->ID]['id']     = $post->ID;
-		$address[$post->ID]['name']   = get_the_title();
-		$address[$post->ID]['street'] = $meta['street'][0];
-		$address[$post->ID]['city']   = $meta['city'][0];
-		$address[$post->ID]['state']  = $meta['state'][0];
-		$address[$post->ID]['zip']    = $meta['zip'][0];
-		$address[$post->ID]['lat']    = $meta['longitude'][0];
-		$address[$post->ID]['lng']    = $meta['latitude'][0];
-	}
-	return $address;
-
-}
-
-
 add_action( 'save_post', 'geolocate', 10,3 );
 
 function geolocate( $post_id, $post, $update ) {
 
-	$latlon = address_geocode($_POST["acf"]["field_5efcafadfc207"],
-		                       $_POST["acf"]["field_5efcb008fc208"],
-		                       $_POST["acf"]["field_5efcb00efc209"],
-		                       $_POST["acf"]["field_5efcb013fc20a"]);
+	$latlon = address_geocode($_POST["acf"]["field_5efa47c5718ba"],
+		                      $_POST["acf"]["field_5efa47e0718bc"],
+		                      $_POST["acf"]["field_5efa3f026b48e"]);
 
 
-	update_field('field_5f033fa4bbe6d', $latlon["latitude"], $post_id);
-	update_field('field_5f033fe45047f', $latlon["longitude"], $post_id);
+	update_field('field_5f2020fe86666', $latlon["latitude"], $post_id);
+	update_field('field_5f2020f686665', $latlon["longitude"], $post_id);
 
 }
 
@@ -232,12 +158,6 @@ add_shortcode('mapgroove', 'mapgroove_search');
  *  MapGroove DB Table
  */
 function mapgroove_install () {
-
-    // Require SN Helper plugin
-//    if ( ! is_plugin_active( 'sn_helper/sn_helper.php' ) and current_user_can( 'activate_plugins' ) ) {
-//        wp_die('The <a href="https://github.com/michalsen/sn_helper" target=_blank>SN Helper Plugin</a> to be installed and active. <br><a href="' . admin_url( 'plugins.php' ) . '">&laquo; Return to Plugins</a>');
-//    }
-
 
   global $wpdb;
   global $jal_db_version;

@@ -3,7 +3,7 @@
 
 $posts = get_posts(array(
 	'posts_per_page'	=> -1,
-	'post_type'			=> 'post'
+	'post_type'			=> 'locations'
 ));
 
 
@@ -12,7 +12,13 @@ $filter = [];
 
 foreach( $posts as $post ) {
 	$meta = get_post_meta($post->ID);
-	$filter['selectpart'][]  = $meta['part'][0];
+
+    print '<pre>';
+    print_r($meta);
+    print '</pre>';
+
+
+    $filter['selectpart'][]  = $meta['part'][0];
 	$filter['selectcity'][]  = $meta['city'][0];
 	// $filter['selectstate'][] = $meta['state'][0];
 	$filter['selecttype'][]  = $meta['type'][0];
@@ -37,6 +43,7 @@ foreach ($filter as $selection => $name) {
 }
 ?>
 
+FORM:
 <form id="searchform_query">
     <?php print $form; ?>
 </form>
