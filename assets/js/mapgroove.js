@@ -61,6 +61,9 @@ jQuery(document).ready(function($) {
         scrollWheelZoom: false
     }).addTo(map);
 
+    map.scrollWheelZoom.disable();
+    // map.dragging.disable();
+
     // END LOAD MAP
 
      // MAP FILTER
@@ -219,13 +222,18 @@ jQuery(document).ready(function($) {
                     map.fitBounds(bounds, {padding: [100, 100]});
                 }
                  else  {
-                    var latLngs = [ locations[0] ];
-                    var markerBounds = L.latLngBounds(latLngs);
-                    console.log(latLngs);
-                    console.log(markerBounds);
-                    map.fitBounds(markerBounds);
+                    // NO RESULTS
+                    $( "#selectregion" ).val(0);
+                    $( "#selectstate" ).val(0);
+                    $( "#location_services" ).val(0);
+                    $( "#location_market_solutions" ).val(0);
+                    $( "#location_companies" ).val(0);
+                    $( "#location_careers" ).val(0);
+                    $("#searchform_query").submit();
+                    // map.setView([39.8097343, -98.5556199], 4);
+                    // map.fitBounds(markerBounds);
                 }
-                map.dragging.disable();
+
 
                 },
                 error: function(){ },
