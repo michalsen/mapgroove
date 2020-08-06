@@ -10,6 +10,9 @@ jQuery(document).ready(function($) {
 
     // MAP RESET
     $('#map_reset').click(function(e) {
+        // map.remove();
+        // loadMap();
+
         $( "#selectregion" ).val(0);
         $( "#selectstate" ).val(0);
         $( "#location_services" ).val(0);
@@ -38,33 +41,8 @@ jQuery(document).ready(function($) {
         }); // end ajax call
     }
 
-    // LOAD MAP
-    var LeafIcon = L.Icon.extend({
-        options: {
-            iconSize:    [25, 25],
-            iconAnchor:  [10, 0],
-            popupAnchor: [0, 0]
-        }
-    });
+     loadMap();
 
-    var greenIcon = new LeafIcon({
-        iconUrl: 'http://fe-moran.lndo.site/wp-content/plugins/mapgroove/includes/icons/mapicon.png',
-        // iconUrl: 'http://maptest.lndo.site/wp-admin/images/marker.png',
-        // shadowUrl: 'http://maptest.lndo.site/wp-content/plugins/mapgroove/assets/css/images/marker-shadow.png'
-    })
-
-    var map = L.map('mapid').setView([39.8097343, -98.5556199], 5);
-
-
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: 'A Straight North Map',
-        scrollWheelZoom: false
-    }).addTo(map);
-
-    map.scrollWheelZoom.disable();
-    // map.dragging.disable();
-
-    // END LOAD MAP
 
      // MAP FILTER
     $('form :input').change(function() {
@@ -156,7 +134,6 @@ jQuery(document).ready(function($) {
                         url: '/wp-content/plugins/mapgroove/details.php',
                         data: {obj},
                         success: function(resultData) {
-                            // console.log(resultData);
                             var tax_obj = JSON.parse(resultData,function (key, value) {
                                 if (key == 'service') {
                                     if (value === null) {
@@ -194,7 +171,7 @@ jQuery(document).ready(function($) {
                                              obj['city']+', '+
                                              obj['state']+'<br>'+
                                              'Phone: '+obj['phone']+'<br>'+
-                                             'Fax: '+obj['fax']+
+                                             'Fax: '+obj['fax']+'<br>'+
                                              'Services Offered: '+service+'<br>'+
                                              'Market Solutions: '+markets+'<br>'+
                                              'Companies: '+companies+'<br>'+
@@ -223,15 +200,15 @@ jQuery(document).ready(function($) {
                 }
                  else  {
                     // NO RESULTS
-                    $( "#selectregion" ).val(0);
-                    $( "#selectstate" ).val(0);
-                    $( "#location_services" ).val(0);
-                    $( "#location_market_solutions" ).val(0);
-                    $( "#location_companies" ).val(0);
-                    $( "#location_careers" ).val(0);
-                    $("#searchform_query").submit();
+                    // $( "#selectregion" ).val(0);
+                    // $( "#selectstate" ).val(0);
+                    // $( "#location_services" ).val(0);
+                    // $( "#location_market_solutions" ).val(0);
+                    // $( "#location_companies" ).val(0);
+                    // $( "#location_careers" ).val(0);
+                    // $("#searchform_query").submit();
                     // map.setView([39.8097343, -98.5556199], 4);
-                    // map.fitBounds(markerBounds);
+                    map.fitBounds(markerBounds);
                 }
 
 
@@ -349,6 +326,7 @@ jQuery(document).ready(function($) {
 
 });
 
+// CALCULATE FARTHEST DISTANCE
 function distanceto(lat1, lon1, lat2, lon2, latLongPair) {
     var radlat1 = Math.PI * lat1/180
     var radlat2 = Math.PI * lat2/180
@@ -359,4 +337,29 @@ function distanceto(lat1, lon1, lat2, lon2, latLongPair) {
     dist = dist * 180/Math.PI
     dist = dist * 60 * 1.1515
     return [dist, latLongPair];
+}
+
+function loadMap() {
+    LeafIcon = L.Icon.extend({
+        options: {
+            iconSize:    [25, 25],
+            iconAnchor:  [10, 0],
+            popupAnchor: [0, 0]
+        }
+    });
+
+    greenIcon = new LeafIcon({
+        iconUrl: 'http://fe-moran.lndo.site/wp-content/plugins/mapgroove/includes/icons/mapicon.png',
+        // iconUrl: 'http://maptest.lndo.site/wp-admin/images/marker.png',
+        // shadowUrl: 'http://maptest.lndo.site/wp-content/plugins/mapgroove/assets/css/images/marker-shadow.png'
+    })
+
+    map = L.map('mapid').setView([39.8097343, -98.5556199], 5);
+    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: 'A Straight North Map',
+        scrollWheelZoom: false
+    }).addTo(map);
+
+    map.scrollWheelZoom.disable();
+    // map.dragging.disable();
 }
