@@ -15,8 +15,6 @@ $address = [];
 foreach ($the_query->posts as $key => $post) {
     $meta[$post->ID] = get_post_meta($post->ID);
 
-//    print_r($meta);
-
     $address[$post->ID]['id'] = $post->ID;
     $address[$post->ID]['name'] = get_the_title();
 
@@ -28,9 +26,8 @@ foreach ($the_query->posts as $key => $post) {
     $address[$post->ID]['companies'] = get_post_meta(get_the_id(), 'companies')[0];
     $address[$post->ID]['careers'] = get_post_meta(get_the_id(), 'careers')[0];
 
-
-    $address[$post->ID]['lat'] = get_post_meta(get_the_id(), 'longitude')[0];
-    $address[$post->ID]['lng'] = get_post_meta(get_the_id(), 'latitude')[0];
+    $address[$post->ID]['lng'] = get_post_meta(get_the_id(), 'longitude')[0];
+    $address[$post->ID]['lat'] = get_post_meta(get_the_id(), 'latitude')[0];
 
     $address[$post->ID]['street'] = get_post_meta(get_the_id(), 'location_-_street_address')[0];
     $address[$post->ID]['city'] = get_post_meta(get_the_id(), 'location_-_city')[0];
@@ -100,7 +97,6 @@ foreach ($the_query->posts as $key => $post) {
                 }
             }
     }
-
 
 print json_encode($address);
 

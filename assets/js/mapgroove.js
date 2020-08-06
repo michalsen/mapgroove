@@ -65,14 +65,15 @@ jQuery(document).ready(function($) {
                     'careers':careers
                     },
             success: function(data) {
-                // console.log(data);
                 var latlngs = [];
                 var couple = [];
+                // console.log('marker');
                 $.each(JSON.parse(data), function (idx, obj) {
-                     latlngs.push(
-                        [obj['lat'], obj['lng']]
-                    );
+                            latlngs.push(
+                            [obj['lat'], obj['lng']]
+                         );
                 });
+                // console.log(latlngs);
 
                 /**
                  *
@@ -83,10 +84,11 @@ jQuery(document).ready(function($) {
                     longestDistances,
                     savecompare = [],
                     savecomparisons = [];
-
+                // console.log(latlngs);
                 $.each(latlngs, function (idx, obj) {
                     locations.push(obj);
                 });
+                // console.log(locations);
                 if (locations.length > 1) {
                     longestDistances = locations.map(function (outerLatLong) {
                         var comparisons = locations.map(function (innerLatLong) {
@@ -103,7 +105,6 @@ jQuery(document).ready(function($) {
                         return check;
                     });
                     var longestDistance = Math.max.apply(null, longestDistances);
-
                     var loop = savecompare.length;
                     for (var i = 0; i < loop; i++) {
                         if (savecompare[i][0] == longestDistance) {
@@ -111,7 +112,7 @@ jQuery(document).ready(function($) {
                             var point1 = new L.LatLng(checkPair[0], checkPair[1]);
                             var point2 = new L.LatLng(checkPair[2], checkPair[3]);
                             var bounds = new L.LatLngBounds(point1, point2);
-                            break;
+                             break;
                         }
                     }
                 }
@@ -128,7 +129,7 @@ jQuery(document).ready(function($) {
 
                 returnList = '<br>';
                 $.each(JSON.parse(data), function (idx, obj) {
-
+                // console.log(obj);
                      $.ajax({
                         type: 'POST',
                         url: '/wp-content/plugins/mapgroove/details.php',
@@ -188,15 +189,18 @@ jQuery(document).ready(function($) {
 
                 $('.data_results').html(returnList);
 
-                $(".leaflet-marker-icon").remove(); $(".leaflet-popup").remove();
-                   $.each(JSON.parse(data), function (idx, obj) {
+                $(".leaflet-marker-icon").remove();
+                $(".leaflet-popup").remove();
+
+                $.each(JSON.parse(data), function (idx, obj) {
                     var marker = L.marker([obj['lat'], obj['lng']], {icon: greenIcon})
                         .addTo(map)
                         .bindPopup(obj['popup_text']);
+                    set_latlng = [obj['lat'], obj['lng']];
                     });
 
                 if (bounds) {
-                    map.fitBounds(bounds, {padding: [100, 100]});
+                    map.fitBounds(bounds, {padding: [100, 100]}, );
                 }
                  else  {
                     // NO RESULTS
@@ -207,8 +211,8 @@ jQuery(document).ready(function($) {
                     // $( "#location_companies" ).val(0);
                     // $( "#location_careers" ).val(0);
                     // $("#searchform_query").submit();
-                    // map.setView([39.8097343, -98.5556199], 4);
-                    map.fitBounds(markerBounds);
+                    map.setView(set_latlng, 8);
+                    //  map.fitBounds();
                 }
 
 
@@ -243,7 +247,10 @@ jQuery(document).ready(function($) {
             // console.log(data);
             var latlngs = [];
             var couple = [];
+
             $.each(JSON.parse(data), function (idx, obj) {
+                // console.log(idx);
+                // console.log(obj['lat']);
                 latlngs.push(
                     [obj['lat'], obj['lng']]
                 );
@@ -297,19 +304,23 @@ jQuery(document).ready(function($) {
              */
 
 
-            $(".leaflet-marker-icon").remove(); $(".leaflet-popup").remove();
-            $.each(JSON.parse(data), function (idx, obj) {
-                var marker = L.marker([obj['lat'], obj['lng']], {icon: greenIcon})
+            $(".leaflet-marker-icon").remove();
+            $(".leaflet-popup").remove();
+             $.each(JSON.parse(data), function (idx, obj) {
+                 var marker = L.marker([obj['lat'], obj['lng']], {icon: greenIcon})
                     .addTo(map)
                     .bindPopup(obj['popup_text']);
+                    set_latlng = [obj['lat'], obj['lng']];
             });
             if (bounds) {
                 map.fitBounds(bounds, {padding: [100, 100]});
             }
             else  {
-                var latLngs = [ locations[0] ];
-                var markerBounds = L.latLngBounds(latLngs);
-                map.fitBounds(markerBounds);
+                // var latLngs = [ locations[0] ];
+                // console.log(latlngs);
+                // var markerBounds = L.latLngBounds(latLngs);
+                // map.fitBounds(markerBounds);
+                map.setView(set_latlng, 6);
             }
             // map.dragging.disable();
         },
@@ -357,9 +368,9 @@ function loadMap() {
     map = L.map('mapid').setView([39.8097343, -98.5556199], 5);
     L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: 'A Straight North Map',
-        scrollWheelZoom: false
+        // scrollWheelZoom: false
     }).addTo(map);
 
-    map.scrollWheelZoom.disable();
+    // map.scrollWheelZoom.disable();
     // map.dragging.disable();
 }

@@ -58,22 +58,23 @@ add_action('wp_ajax_folder_contents', 'filterMap');
 add_action('wp_ajax_nopriv_folder_contents', 'filterMap');
 add_action( 'save_post', 'geolocate', 10,3 );
 
-function geolocate( $post_id, $post, $update ) {
 
+// GRAB ADDRESS AND SAVE LAT/LNG
+function geolocate( $post_id, $post, $update ) {
 	$latlon = address_geocode($_POST["acf"]["field_5efa47c5718ba"],
 		                      $_POST["acf"]["field_5efa47e0718bc"],
 		                      $_POST["acf"]["field_5efa3f026b48e"]);
-
-
-	update_field('field_5f2020fe86666', $latlon["latitude"], $post_id);
-	update_field('field_5f2020f686665', $latlon["longitude"], $post_id);
-
+    update_field('field_5f2c2b39e5a39', $latlon["longitude"], $post_id);
+	update_field('field_5f2c2b41e5a3a', $latlon["latitude"], $post_id);
 }
 
+
+// GEOCODE ADDRESS FOR LAT/LNG
 function address_geocode($street_address, $city, $state){
 
 	$api = getXML();
     $apiKey = $api[0]->api_key;
+
 
 	$street_address = str_replace(" ", "+", $street_address); //google doesn't like spaces in urls, but who does?
 	$city = str_replace(" ", "+", $city);
@@ -107,6 +108,7 @@ function address_geocode($street_address, $city, $state){
 }
 
 
+// GET ADDRESS FROM POST
 function post2address($postID) {
 	$args = array(
 		'p'                => $postID,
